@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "verb",
+      "rationale": "l-ebda verb fil-Lhudi; il-vers huwa biċċa mil-lista tal-vers 13"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għorab",
+      "rationale": "ערב = għorab, il-qrib Semitiku mittradx — KJV 'raven', mhux 'ċawla'"
+    }
+  ],
+  "translation": "⟨את⟩ kull għorab skont is-speċi tiegħu",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "215bedf6efaa4642ae3d24bf99ce14d3bdd77ee434f4b4d92e9e4cb5fa93745e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/14-16.1792602240745.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull għorab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "għorab"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "skont is-speċi tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:04:00.747008973Z",
+  "model": "glm-5.3"
+}

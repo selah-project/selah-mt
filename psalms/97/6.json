@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדק ma jintradux b'ħaġa waħda biss; inżamm it-tsedeq skont it-tabella"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġieħ",
+      "rationale": "כבוד tfissir litteralment 'piż', użat figurattivament għall-isplendor"
+    }
+  ],
+  "translation": "Ħabbru s-smewwiet it-tsedeq tiegħu, u raw il-popli kollha l-ġieħ tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/97\/5-8.1792617734184.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ħabbru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "it-tsedeq tiegħu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "u raw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "il-popli"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "l-ġieħ tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:14.185305909Z",
+  "model": "glm-5.3"
+}

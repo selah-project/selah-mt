@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח mittraduċi dejjem b'ruwaħ — spirtu waħdu mhux biżżejjed"
+    },
+    {
+      "kind": "crux",
+      "subject": "kejjel",
+      "rationale": "תכן: 'kejjel\/bilanceja' (JPS, YLT) kontra 'wissa\/istrui' (KJV)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "misturija retorika",
+      "rationale": "żewġ misturijiet li jistennew risposta 'ħadd'"
+    }
+  ],
+  "translation": "Min kejjel ⟨את⟩ ruwaħ Jaħwe, u liema raġel ta' ⟨lil⟩ pavż tiegħu għarfh?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/40\/13-16.1792611660548.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "kejjel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwaħ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "u raġel"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "pavż tiegħu"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "għarfh"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:00.548925550Z",
+  "model": "glm-5.3"
+}

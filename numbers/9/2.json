@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-Pesaħ",
+      "rationale": "הפסח miżjud b'artiklu Malti għax huwa isem tekniku tal-festa."
+    },
+    {
+      "kind": "invitation",
+      "subject": "jaġmlu",
+      "rationale": "Imperattiv\/jussiv li jisteden lil Jisrael jagħmlu l-Pesaħ."
+    }
+  ],
+  "translation": "U jaġmlu wlied Jisrael ⟨את⟩ il-Pesaħ fi żmienuh stipulat:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/9\/1-4.1792602625953.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "jaġmlu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Pesaħ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "il-Pesaħ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "fi żmienuh stipulat"
+    }
+  ],
+  "timestamp": "2026-10-21T17:10:25.956023638Z",
+  "model": "glm-5.3"
+}

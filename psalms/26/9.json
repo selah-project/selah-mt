@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "néfsi",
+      "rationale": "נפש הija ħajja\/nifs, mhux ruħ biss; ma hiwiex traddotta bi kliem ieħor"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe (imsemmi fil-vers 12)",
+      "rationale": "talba diretta lil Ħu l-psalmista lejn Alla"
+    }
+  ],
+  "translation": "La tiġborx ma' dawk il-ħatja néfsi, u ma' rġiel id-demm ħajati.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/26\/9-12.1792616794386.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "tiġborx"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dawk il-ħatja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "néfsi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "u ma'"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "rġiel"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ħajati"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:34.387290138Z",
+  "model": "glm-5.3"
+}

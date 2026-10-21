@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Malti jeħtieġ il-verb li jgħaqqad; il-Lhudi juża biss הוא"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imraffna",
+      "rationale": "צרופה hija tgħir tal-metall — 'raffinata fin-nar', mhux biss 'safja'"
+    }
+  ],
+  "translation": "Kull kelma ta' Elowaħ imraffna; ⟨hija⟩ tarka għal dawk li jħarsu ġo fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/30\/5-8.1792618996793.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elowaħ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "imraffna"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tarka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hija⟩"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "għal dawk li jħarsu ġo fiha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:43:16.793609902Z",
+  "model": "glm-5.3"
+}

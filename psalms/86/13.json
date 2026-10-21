@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux il-kopula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש תgħraf iktar bħala għonuq\/ħajja, mhux ruħ biss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-aktar fond",
+      "rationale": "תחתיה litteralment 'taħtha', idjomm għall-aktar fond ta' Xeol"
+    }
+  ],
+  "translation": "Għax il-ħesed tiegħek ⟨huwa⟩ kbir fuqi, u ħlisst in-nifs-i mill-Xeol l-aktar fond.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/86\/13-16.1792617599026.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il-ħesed tiegħek"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "u ħlisst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nifs-i"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "mill-Xeol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "l-aktar fond"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:59.026826463Z",
+  "model": "glm-5.3"
+}

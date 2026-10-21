@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħabbtu l-idejn",
+      "rationale": "תקעו כף literally 'strike the palm (of the hand)'; Maltese idiom 'ħabbtu l-idejn' loses the word כף (palm)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ta' ferħ",
+      "rationale": "רנה is a shrill cry of joy or grief; rendered as cry of joy since context is triumphant praise"
+    },
+    {
+      "kind": "invitation",
+      "subject": "il-ġnus kollha",
+      "rationale": "imperative summons to all peoples to clap and shout"
+    }
+  ],
+  "translation": "Il-ġnus kollha, ħabbtu l-idejn; għajtu b'ferħ lejn Elohim b'għajta ta' cant.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/47\/1-4.1792617163476.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Il-ġnus"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ħabbtu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "l-idejn"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "għajtu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lejn Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "b'għajta"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ta' ferħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:43.476973433Z",
+  "model": "glm-5.3"
+}

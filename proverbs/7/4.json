@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומדע",
+      "rationale": "mqareb\/ħabib tal-familja (kellilha) vs 'għarfien' (minn דעת) — hawn kelma waħda, piż tagħha: qariba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sejjaħlu mqareb",
+      "rationale": "jista' jkun ukoll 'isemmi lill-Fehem għal mqareb' — il-piż jirrealizza r-relazzjoni tal-familja mal-Ħokma u l-Fehem"
+    }
+  ],
+  "translation": "Għid lill-Ħokma: Oħti int ⟨את⟩, u lill-Fehem sejjaħlu mqareb tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/7\/1-4.1792618452136.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Għid"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "lill-Ħokma"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Oħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "int — 'int' li tindirizza lill-Ħokma; is-suffiss ta' ומדע (mqareb) huwa dawk l-istess"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "u mqareb"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "lill-Fehem"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "sejjaħlu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:12.137640832Z",
+  "model": "glm-5.3"
+}

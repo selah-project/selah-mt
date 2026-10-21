@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "חסד miżmum hekk kif hu, mhux 'ħniena' waħedha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "le'olam",
+      "rationale": "עולם mill-gherq 'maħbub\/moħbi' — 'għal-dejjem' jipperdi r-rabta mas-sigriet tal-ħin maħbuż"
+    }
+  ],
+  "translation": "Lill-għamilien tas-smewwiet bit-tebun, għaliex għal-dejjem ⟨ħesed⟩ tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/136\/5-8.1792618170807.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "lill-għamilien"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-smewwiet"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "bit-tebun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ħesed tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:30.808142995Z",
+  "model": "glm-5.3"
+}

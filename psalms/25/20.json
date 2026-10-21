@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħti",
+      "rationale": "נפש hija nifs\/ħajja, mhux 'anima'; ruwaħ tifħak is-semantika tas-sema"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨fi ħajja-nifsu⟩",
+      "rationale": "il-marker miżjud fil-kaxxa tal-aħħar traduzzjoni ma jridx jidher; it-traduzzjoni finali ma għandhiex kellha dik il-parentesi"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "talba diretta lil Jaħwe għall-ħarsien u l-ħelsien"
+    }
+  ],
+  "translation": "Aħżen ⟨fi ħajja-nifsi⟩ ruwaħti u ħelisni; la nibxax, għax kennit fīek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/17-20.1792616698284.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Aħżen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruwaħti"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "u ħelisni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nibxax"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kennit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fīek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:58.285508051Z",
+  "model": "glm-5.3"
+}

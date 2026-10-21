@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "l- imgs Lhud m'għandux copula għal 'fejn kien Elohim'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "id-dlamija qawwija",
+      "rationale": "הערפל hija d-dlam tas-sħab inqas; jista' jkun 'is-sħab il-mudlam'"
+    }
+  ],
+  "translation": "U l-poplu qagħdu minn bogħod, u Moxe telaq lejn id-dlamija qawwija li ⟨kienet⟩ hemm fejn ⟨kien⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/20\/21-24.1792599610434.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "U l-poplu qagħdu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "minn bogħod"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "u Moxe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "telaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "id-dlamija qawwija"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:10.435495414Z",
+  "model": "glm-5.3"
+}

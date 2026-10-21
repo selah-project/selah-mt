@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "תהי imperfect ta' היה — l-imperattiv bil-Malti jeħtieġ 'kun' fil-post"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן אדם",
+      "rationale": "'iben l-bniedem' — pajż Isrel jew ir-re; l-ebda qabel milli jgħid il-vers"
+    }
+  ],
+  "translation": "Kun ⟨jekun⟩ idek fuq il-bniedem ta' jemindek, fuq iben l-bniedem li qawwejt għalik.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/80\/17-20.1792617589268.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "kun ⟨jekun⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "idek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta' jemindek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "li qawwejt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:49.268710550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "santwarju",
+      "rationale": "מקדש huwa l-post imqaddes; 'santwarju' u mhux 'Tora' jew 'Mixkan' ta' משכן"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "l-aleph-tav mal- suffiss (oħti) jimmarka lil 'triq' bħala oġġett dirett"
+    }
+  ],
+  "translation": "U dawwarni triq il-bieb tas-santwarju ta' barra, li jħares lejn il-lvant, u kien magħluq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/44\/1-4.1792615214531.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "U dawwarni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "triq"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bieb"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "santwarju"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "ta' barra"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "il-lvant"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "magħluq"
+    }
+  ],
+  "timestamp": "2026-10-21T20:40:14.532455872Z",
+  "model": "glm-5.3"
+}

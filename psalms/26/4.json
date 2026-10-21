@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "falz",
+      "rationale": "מתי שוא litteralment 'il-ġusti ta' nixfa', jiġifieri nies ta' nixfa u qerq"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעלמים",
+      "rationale": "Litteralment 'dawk moħbija' — 'ipokriti', 'xellugin' jew 'dawk li jaħbu l-identità tagħhom'; it-tagħbira tvarja"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ma…x⟩",
+      "rationale": "In-negazzjoni doppja Maltija teħtieġ l-infix -x ma' ma, li Lhudi m'għandux"
+    }
+  ],
+  "translation": "Ma ppersonalx għod-dawl ta' nies falz, u mal-mistriħin ma nidħolx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/26\/1-4.1792616770791.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ppersonals"
+    },
+    {
+      "surface": "עם",
+      "gloss": "għod-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nies"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "falz"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mal-"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "mistriħin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nidħolx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:10.792710542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדק imsemmi bħala kelma waħda skont id-dixxiplina; 'ġustizzja' waħedha kienet titledi l-forma Lhudija."
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħu",
+      "rationale": "גרו — sufiss tat-3 person; il-Malti jżid 'tiegħu' biex id-dettall jibqa' ċar."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-imħallfin",
+      "rationale": "Ordni diretta ta' Moxe lill-imħallfin: 'Isimgħu... u ħaddmu'."
+    }
+  ],
+  "translation": "U f'dak iż-żmien ordnajt ⟨את⟩ lill-imħallfin tagħkom, ngħid: Isimgħu bejn aħwa tagħkom, u ħaddmu tsedeq bejn raġel u bejn ħuh u bejn il-barrani ⟨tiegħu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/13-16.1792605257720.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "U ordnajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-imħallfin tagħkom"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "lill-imħallfin tagħkom"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "f'dak iż-żmien"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "f'dak iż-żmien"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngħid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Isimgħu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "aħwa tagħkom"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "u ħaddmu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "il-barrani tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:54:17.722109231Z",
+  "model": "glm-5.3"
+}

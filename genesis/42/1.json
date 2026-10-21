@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħabb",
+      "rationale": "שבר huwa qamħ miksur f'qamħ żgħir; 'ħabb' iżomm il-ħoss tal-kernel"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ תתראו",
+      "rationale": "għerq ראה jintuża darbtejn — ra u tqisu — ironija li titlef fit-traduzzjoni"
+    },
+    {
+      "kind": "you",
+      "subject": "lil wlielu",
+      "rationale": "mistoqsija diretta ta' Jagħaqov lil uliedu"
+    }
+  ],
+  "translation": "U Jagħaqov ra li hemm ħabb f'Mitsrajim, u Jagħaqov qal lil wlielu: Għaliex tħarsu lejn xulxin?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/1-4.1792598987869.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ħabb"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "lil wlielu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "tħarsu lejn xulxin"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:47.869821369Z",
+  "model": "glm-5.3"
+}

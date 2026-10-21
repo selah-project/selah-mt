@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "נפש mhux 'anima' immhekk ħajja\/nifs — ruwaħ iżżomm il-kelma waħda tal-Lhudi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ħsara",
+      "rationale": "il-vers jistabbilixi taljuni eżatti — ruwaħ għal ruwaħ"
+    }
+  ],
+  "translation": "U jekk ikun hemm ħsara, tagħti ruwaħ taħt ruwaħ.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/21\/21-24.1792599741757.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ħsara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "tagħti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruwaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:21.758498716Z",
+  "model": "glm-5.3"
+}

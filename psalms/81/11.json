@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Jaħwe jkellem direttament lil ġensu bil-voċi tal-patt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ltqajtek",
+      "rationale": "המעלך huwa 'dak li jqajmek (tla'\\\\\\\\\\\\\\\\)', mhux 'ħriġni\\\\\\\\\\\\\\\\' biss — il-verbi jitilg\\\\\\\\\\\\\\\\u"
+    },
+    {
+      "kind": "invitation",
+      "subject": "wessa' fommek",
+      "rationale": "imperattiv li jisteden fidal — ftuħ il-ħalq u jien inhielsu"
+    },
+    {
+      "kind": "addition",
+      "subject": "inhu",
+      "rationale": "il-Malti jeħtieġ oġġett għal ואמלאהו — pronome suffiss mibni fuq 'fommek'"
+    }
+  ],
+  "translation": "Jien Jaħwe, Elohim tiegħek, li ltqajtek mill-art ta' Mitsrajim: wessa' fommek u jien inhu mimli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/81\/9-12.1792617547072.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "ה מעלך",
+      "gloss": "li ltqajtek"
+    },
+    {
+      "surface": "מ ארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "ה רחב",
+      "gloss": "wessa'"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "fommek"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "u jien inhu mimli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:07.073725801Z",
+  "model": "glm-5.3"
+}

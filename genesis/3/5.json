@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-ħażin",
+      "rationale": "רע huwa 'ħażin\/ħażin' fis-sens wies' — 'ħażin' Malti jgħatti l-firxa"
+    },
+    {
+      "kind": "crux",
+      "subject": "bħal Elohim",
+      "rationale": "כאלהים: 'bħal Elohim' (plural) vs 'bħal alla' jew 'bħal Alla' — il-plural tal-Lhudi jinżamm"
+    }
+  ],
+  "translation": "Għax Elohim jaf li fil-jum li tieklu minnu, jinfetħu għajnejkom, u ssiru bħal Elohim, jafu t-tajjeb u l-ħażin.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/3\/5-8.1792597688317.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "tieklu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "jinfetħu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "għajnejkom"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "u ssiru"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "bħal Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "jafu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "it-tajjeb"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "u l-ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:08.317717728Z",
+  "model": "glm-5.3"
+}

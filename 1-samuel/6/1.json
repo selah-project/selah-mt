@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seba' xhur",
+      "rationale": "Qieżaħ ta' żmien: seba' xhur (xahar = qamar ġdid) fl-art tal-Pelixtin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "f'art",
+      "rationale": "שדה tfisser 'għalqa'; hawn tintużah għal pajjiż il-Pelixtin kollu."
+    }
+  ],
+  "translation": "U l-arka ta' Jaħwe kienet f'art il-Pelixtin seba' xhur.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/6\/1-4.1792607812041.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kienet"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l-arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "f'art"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "il-Pelixtin"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seba'"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "xhur"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:52.042170027Z",
+  "model": "glm-5.3"
+}

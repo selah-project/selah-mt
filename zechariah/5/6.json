@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Lhudi ma għandux kopula; 'din — l-efa' sar 'din hija l-efa' bil-Malti."
+    },
+    {
+      "kind": "crux",
+      "subject": "għajnhom",
+      "rationale": "עינם 'għajnhom': apparizzjoni (KJV), għajn litterali (JPS), jew l-ħażin tagħhom (LXX ׀ BSB b'taħdita ta' עון)."
+    },
+    {
+      "kind": "mystery",
+      "subject": "l-efa",
+      "rationale": "Oġġett tal-viżjona mgħotti li jista' jinstema' biss biex l-anġlu jispjega."
+    }
+  ],
+  "translation": "U jien għidt: X'inhi? U huwa qal: Din ⟨hija⟩ l-efa li qiegħda toħroġ. U qal: Din hija għajnhom f'art kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/5\/5-8.1792616336842.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "u għidt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "l-efa"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "li qiegħda toħroġ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "għajnhom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:58:56.843934041Z",
+  "model": "glm-5.3"
+}

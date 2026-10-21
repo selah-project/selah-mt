@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בין הערבים",
+      "rationale": "lit. 'bejn l-għaxab' — 'between the evenings', idiom for dusk\/twilgħaxija; ħosstha litterali skont il-forma tad-dual"
+    },
+    {
+      "kind": "alternative",
+      "subject": "האחד",
+      "rationale": "'il-waħed' vs 'l-ewwel' — għażilt l-ewwel għall-par mal-'tieni'"
+    }
+  ],
+  "translation": "⟨את⟩ l-ewwel ħaruf tagħmel fil-għodu; u ⟨את⟩ it-tieni ħaruf tagħmel bejn l-għaxab.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "8f2ade9cc84d5d849a73c1eeb78a2ab0c7a4c20d363915170559baaff15ec461",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/37-40.1792600017352.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ewwel ħaruf"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "il-ħaruf"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "fil-għodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-tieni ħaruf"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "il-ħaruf"
+    },
+    {
+      "surface": "השני",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "l-għaxab"
+    }
+  ],
+  "timestamp": "2026-10-21T16:26:57.353401923Z",
+  "model": "glm-5.3"
+}

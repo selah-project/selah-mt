@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענה ×4",
+      "rationale": "The verb 'answer\/respond' chains down the cosmic ladder (YHWH→heavens→earth→grain\/wine\/oil→Jezreel) across vv.23–24; the repetition is kept."
+    },
+    {
+      "kind": "idiom",
+      "subject": "inwieġeb lis-sema",
+      "rationale": "ענה here is covenant 'respond', not answering a question; literal 'answer the heavens' kept as the metaphor."
+    }
+  ],
+  "translation": "U jsir f'dak il-jum, inwieġeb — jgħid Jaħwe — inwieġeb ⟨את⟩ lis-sema, u huma jwieġbu ⟨את⟩ lill-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/2\/21-24.1792615384398.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u jsir"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dak il-jum"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "inwieġeb"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "inwieġeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-sema"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lis-sema"
+    },
+    {
+      "surface": "והם",
+      "gloss": "u huma"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "jwieġbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lill-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:43:04.399512920Z",
+  "model": "glm-5.3"
+}

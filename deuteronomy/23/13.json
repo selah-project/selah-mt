@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויד",
+      "rationale": "'id' bil-qof litterali tfisser għand; hawn idjoma għal post iffirmat — żżammejha litterali u l-figura tal-ħruġ ta' barra baqgħet ma ttraduċiex"
+    },
+    {
+      "kind": "addition",
+      "subject": "jkollok",
+      "rationale": "il-Malti jeħtieġ verb ta' pussess fejn il-Lhudi juża biss תהיה לך 'tkun għalik'"
+    }
+  ],
+  "translation": "U jkollok id lil hinn mill-merkamp, u toħroġ hemm barra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/23\/13-16.1792605808614.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "u id"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għandek"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lil hinn"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mill-merkamp"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "u toħroġ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "barra"
+    }
+  ],
+  "timestamp": "2026-10-21T18:03:28.614594750Z",
+  "model": "glm-5.3"
+}

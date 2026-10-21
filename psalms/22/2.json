@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלי אלי",
+      "rationale": "Ir-repetizzjoni ta' 'El-i, El-i' — sejħa doppja li tingħata bil-mod"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאגה",
+      "rationale": "'għajt' għal שאגה — il-kelma Lhudija tfisser ħoss ta' iljun, rumbor; l-istess kelma għall-ħoss tal-Iljun ta'uda"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Indirizz dirett lil Alla — talba personali msejħa b'isem doppju"
+    }
+  ],
+  "translation": "El-i, El-i, għaliex tlaqtni? Mbiegħed minn ⟨il-⟩ħelsien tiegħi, il-kliem ta' l-għajt tiegħi?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/22\/1-4.1792616736193.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "tlaqtni"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Mbiegħed"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "minn ⟨il-⟩ħelsien tiegħi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "il-kliem ta'"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "l-għajt tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:36.194287847Z",
+  "model": "glm-5.3"
+}

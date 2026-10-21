@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "il-bwieħ",
+      "rationale": "Imperattiv dirett lill-bwieħ biex jitilfu rashhom għas-sultan tal-ġieħ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "lift up your heads",
+      "rationale": "שאו ראשיכם: idjom Lhudi għal 'iftħu u kbaruhom', litteralment 'erfgħu rashkom'."
+    },
+    {
+      "kind": "crux",
+      "subject": "פתחי עולם",
+      "rationale": "'daħliet ta' minn dejjem' (eterni) kontra 'antiki' (BSB) — עולם jista' jkun żmien imħebb jew antik."
+    }
+  ],
+  "translation": "Erfgħu rashkom, ja bwieħ, u erfgħu, ja daħliet ta' minn dejjem, u jidħol is-sultan tal-ġieħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/9-10.1792616695411.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Erfgħu"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ja bwieħ"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "rashkom"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "u erfgħu"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ja daħliet"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta' minn dejjem"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "u jidħol"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "tal-ġieħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:55.412326456Z",
+  "model": "glm-5.3"
+}

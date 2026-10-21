@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמרות...אמרות",
+      "rationale": "ripetizzjoni diretta: 'il-kliem... huma kliem' — l-għanja tżomm is-sistema tas-sitt rimijiet"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jħallihom"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seba' darbiet",
+      "rationale": "in-numru tas-sebgħa bħala kejl tal-tnaddif"
+    }
+  ],
+  "translation": "Il-kliem ta' Jaħwe huma kliem safi: fidda maħruqa f'frna tal-art, imżejża seba' darbiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/12\/5-8.1792616634486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "kliem"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "safi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "maħruqa"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "f'frna"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "imżejża"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seba' darbiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:54.487334472Z",
+  "model": "glm-5.3"
+}

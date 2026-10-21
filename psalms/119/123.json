@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għerqu bit-tama",
+      "rationale": "כלו tfisser 'tlestew\/sfu', ikkoncretizzata b'tama li ma tidhirx fil-Lhudi."
+    }
+  ],
+  "translation": "Għajnejn għerqu bit-tama fis-salvazzjoni tiegħek u fil-kelma ta' tsedeq tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/121-124.1792618088879.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Għajnejn"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "għerqu bit-tama"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "fis-salvazzjoni tiegħek"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "u fil-kelma"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ta' tsedeq tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:08.880603059Z",
+  "model": "glm-5.3"
+}

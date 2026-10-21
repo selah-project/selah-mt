@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 2:14",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħu",
+      "rationale": "נפש hija nifs\/ħajja, mhux ruħ immortali"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "gloss": "il-prepożizzjoni מן sfumata bħala 'lill-'"
+    }
+  ],
+  "translation": "U jitlef il-ħarba lill-għaġġel, u l-qawwi ma jaqbadx qawwtu, u l-ġellied ma jsalvax ruħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/2\/13-16.1792615657891.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "U jitlef"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "il-ħarba"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "lill-għaġġel"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "u l-qawwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "jaqbadx"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "qawwtu"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "u l-ġellied"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "jsalvax"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ruħu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:47:37.891859812Z",
+  "model": "glm-5.3"
+}

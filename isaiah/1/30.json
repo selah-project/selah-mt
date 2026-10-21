@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "newietel werqtha",
+      "rationale": "נבלת עלה verba: 'wiċċet-weraq' — il-weraq jaħtaf biss, il-verb jittratta s-siġra"
+    },
+    {
+      "kind": "addition",
+      "subject": "werqtha",
+      "rationale": "עלה m'għandux suffiss; il-Malti jeħtieġ l-possessiv"
+    }
+  ],
+  "translation": "Għaliex tkunu bħat-terebint li newietel werqtha, u bħal ġnien li m'għandux ilma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/1\/29-31.1792610909751.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "tkunu"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "bħat-terebint"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "newietel"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "werqtha"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "u bħal ġnien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'għandux"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨għalih⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:29.752070379Z",
+  "model": "glm-5.3"
+}

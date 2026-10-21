@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "hawn אם ma tistax tkun kondizzjonali; ħafna tradutturi jqisuh bħala ħalf b'seċondu jew saldu tal-kelma li żgħet — 'ma jarawx'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiddisprezzawni",
+      "rationale": "נאץ tfisser biċċir, tkasbar bil-kliem; 'jiddisprezzaw' jaqbed iżda jitlef il-ħoss ta' qarċi"
+    }
+  ],
+  "translation": "ma jarawx ⟨את⟩ l-art li ħliftilha lil missirijiethom, u dawk li jiddisprezzawni kollha ma jarawhiex.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "56797c2b2f10d33c88938f5a9bc846550580d21977451bd9ded42a070af4d92f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/14\/21-24.1792602891588.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "jarawx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ħliftilha"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "lil missirijiethom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "dawk li jiddisprezzawni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "jarawhiex"
+    }
+  ],
+  "timestamp": "2026-10-21T17:14:51.592716489Z",
+  "model": "glm-5.3"
+}

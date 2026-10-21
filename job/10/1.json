@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש hija aktar qrib 'ħajja\/nifs\/appettit' milli ruħ immortali"
+    },
+    {
+      "kind": "crux",
+      "subject": "אעזבה עלי שיחי",
+      "rationale": "'ninħa mill-kelma tiegħi' (KJV 'leave my complaint upon myself') kontra 'nilqa' l-ilment b'libertà' (ASV\/JPS 'give free course')"
+    }
+  ],
+  "translation": "Ruħni tistmerr ħajti; nilqa' fuqi l-ilment tiegħi, nitkellem fil-marur ta' ruħni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/10\/1-4.1792619239488.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "tistmerr"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħni"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ħajti"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "nilqa'"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "l-ilment tiegħi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "nitkellem"
+    },
+    {
+      "surface": "במר",
+      "gloss": "fil-marur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ta' ruħni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:19.489464358Z",
+  "model": "glm-5.3"
+}

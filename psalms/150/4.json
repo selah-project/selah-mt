@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עוגב",
+      "rationale": "Root of 'organ'; a reed-pipe — rendered flawna; some give 'panpipe'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מנים",
+      "rationale": "Lit. 'strings' (minnim, from the root to divide); 'kordi' keeps the literal sense."
+    }
+  ],
+  "translation": "Faħħub it-tanbur u biz-zfin, faħħuh bil-kordi u bil-flawna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/150\/1-4.1792618315608.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "faħħuh"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "it-tanbur"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "biz-zfin"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "faħħuh"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "bil-kordi"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "bil-flawna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:55.609678597Z",
+  "model": "glm-5.3"
+}

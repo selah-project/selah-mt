@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "biebek",
+      "rationale": "שעריך litteralment 'il-bwieb tiegħek', jiġifieri l-ibliet kollha tagħkom, mhux biss izrar ta' belt."
+    },
+    {
+      "kind": "addition",
+      "subject": "minn",
+      "rationale": "באחד שעריך 'f'waħda minn biebek' — il-prepożizzjoni żgħira żgħata biex il-Malti jilħaq."
+    }
+  ],
+  "translation": "Ma tistax tagħti b'tiġieb ⟨את⟩ il-Pesaħ f'waħda minn biebek li Jaħwe Elohim tiegħek qiegħed jagħtik.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/16\/5-8.1792605668150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tistax"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "tagħti b'tiġieb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Pesaħ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "il-Pesaħ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "f'waħda"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "minn biebek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qiegħed jagħti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:01:08.150888228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דחה דחיתני",
+      "rationale": "Infinitive absolute + verb of the same root, 'thrusting you thrust me' — intensity kept by the doubled 'seħtet, seħtetni'."
+    },
+    {
+      "kind": "crux",
+      "subject": "דחה",
+      "rationale": "L-XX reads 'pushed me so that I might fall' as a second person ('thou'), while the Hebrew infinitive has no explicit subject — 'thou' vs an unnamed 'they'."
+    }
+  ],
+  "translation": "Seħtet, seħtetni biex inħalli, u Jaħwe għinni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/118\/13-16.1792618017680.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "seħtet"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "seħtetni"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "biex inħalli"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "għinni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:57.680757752Z",
+  "model": "glm-5.3"
+}

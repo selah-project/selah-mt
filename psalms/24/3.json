@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "il-mistoqsija",
+      "rationale": "mistoqsija retorika lis-semin, tirrejustra lil ħaddiem tas-salm"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יקום",
+      "gloss": "il-verb 'jqum' Lhudi sar 'joqgħod bil-wieqfa' biex jifhem"
+    }
+  ],
+  "translation": "Min jistgħa' jitla' fuq il-muntanja ta' Jaħwe, u min jistgħa' joqgħod bil-wieqfa fil-post qaddis tiegħu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/1-4.1792616751090.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "jitla'"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fuq il-muntanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "u min"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "joqgħod bil-wieqfa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "fil-post"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qaddis tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:51.091140135Z",
+  "model": "glm-5.3"
+}

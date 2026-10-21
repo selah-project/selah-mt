@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "barrani \/ mhux magħrufa",
+      "rationale": "זר u נכר: it-tnejn 'barrani, mhux tas-sema ta' Jisrael' — iż-żewġ kliem differenti miżmuma separat"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lil alla",
+      "rationale": "`אל` hawn jista' jkun 'El' bħala isem, imma f'kontest ta' idolatrija 'alla' barranija tifrex aħjar"
+    },
+    {
+      "kind": "addition",
+      "subject": "ti",
+      "rationale": "il-Malti jeħtieġ pronom qabel il-verb תשתחוה"
+    }
+  ],
+  "translation": "M'għandux jkun ⟨fi ġo fik⟩ El barrani, u ti txħet lil alla mhux magħrufa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/81\/9-12.1792617547072.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "M'għandux"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨fi ġo fik⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "barrani"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "u ti"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "txħet"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "lil alla"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "mhux magħrufa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:07.073590019Z",
+  "model": "glm-5.3"
+}

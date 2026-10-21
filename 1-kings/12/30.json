@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-għoġol",
+      "rationale": "האחד huwa sempliċement 'il-waħda' (wieħed miż-żewġ għoġliet); 'il-għoġol' miżjud mill-kuntest"
+    },
+    {
+      "kind": "crux",
+      "subject": "quddiem il-għoġol",
+      "rationale": "לפני האחד: 'quddiem il-waħda' — xi traduzzjonijiet jżidu 'biex jqimu', li ma hemmx fil-Lhudi"
+    }
+  ],
+  "translation": "U din il-ħaġa saret ħtija, u l-poplu mxiel quddiem il-għoġol sa Dan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/29-32.1792609721835.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u saret"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il-ħaġa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ħtija"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u mxiel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "il-għoġol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:41.836482308Z",
+  "model": "glm-5.3"
+}

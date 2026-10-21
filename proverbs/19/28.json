@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bla valur",
+      "rationale": "בליעל litteralment 'bla profitt, bla valur', mhux semm ta' persuna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iċ-ċiviltà",
+      "rationale": "משפט hawn tfisser il-ġudizzju bħala proċess; 'ċiviltà' tissiġilla l-verdett"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בליעל \/ יבלע",
+      "rationale": "għerq בלע jiġri darbtejn: il-witness 'bla valur' u l-ħalq li 'jibla' — paronomażja mitlufa fit-traduzzjoni."
+    }
+  ],
+  "translation": "Xhud bla valur joħroġ il-lingwa għaċ-ċiviltà, u ħalq il-ħżiena jibla' l-ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "020a594e952816da3fbef489dd9078a6892229aa781b9676aeb63096cd00a2dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/25-28.1792618709484.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "xhud"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bla valur"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "joħroġ il-lingwa għal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "iċ-ċiviltà"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "u ħalq"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "il-ħżiena"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "jibla'"
+    },
+    {
+      "surface": "און",
+      "gloss": "l-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:29.485719667Z",
+  "model": "glm-5.3"
+}

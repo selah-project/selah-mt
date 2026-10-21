@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħila ta' snajja'",
+      "rationale": "מלאכה tfisser xogħol\/Ħila, mhux biss 'snajja'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ħeġġa\/tifħir",
+      "rationale": "חכמה u תבונה jistgħu jkunu 'għerf' u 'fehem' — il-kliem Malti għadhom jistennu widna Maltija"
+    }
+  ],
+  "translation": "U mlajtu ⟨את⟩ ruwaħ Elohim: bil-ħeġġa, u bit-tifħir, bl-għarfien, u f'kull ħila ta' snajja'.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/31\/1-4.1792599964765.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "U mlajtu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ruwaħ Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "bil-ħeġġa"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "u bit-tifħir"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "bl-għarfien"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "u f'kull"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ħila ta' snajja'"
+    }
+  ],
+  "timestamp": "2026-10-21T16:26:04.766972944Z",
+  "model": "glm-5.3"
+}

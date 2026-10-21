@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרש",
+      "rationale": "פרש על לחם: 'jifred\/jaqta' l-ħobż għalihom' (il-KJV 'breaketh') kontra qari bħal YLT 'dealer out' — l-għerq tfisser ifrex\/separa."
+    },
+    {
+      "kind": "addition",
+      "subject": "min",
+      "rationale": "L-ebrajk jgħid biss 'ma hemm jifrilhom' — 'min' żgħir miżjud bil-Malti għax il-grammatika tieħu persuna."
+    }
+  ],
+  "translation": "Ilsien tat-tifel li jirgħa' waħad ma' qaqoċċtu bil-għatx; it-tfal iż-żgħar jitolbu ħobż, u ma hemm min jifrilhom għalihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/4\/1-4.1792620199809.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "waħad"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilsien"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "tat-tifel li jirgħa'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "qaqoċċtu"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "bil-għatx"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "it-tfal iż-żgħar"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "jitolbu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "jifrilhom"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemm min"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:03:19.810835380Z",
+  "model": "glm-5.3"
+}

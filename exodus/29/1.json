@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "L-Ingliż? — Malti jeħtieġ il-kopula; il-Lhudi ma għandu għal xejn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sħaħ",
+      "rationale": "תמימם tfisser kompluti, bla difett — mhux biss 'bla tobba'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "għadd tal-annimali",
+      "rationale": "Barri wieħed, żewġ iċċervi: in-numri jiġu maħsuba bir-reqqa."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "Ordni dirett tat-tnaqqix lil Moxe dwar qaddis in-nies."
+    }
+  ],
+  "translation": "U din hija l-ħaġa li tagħmel lilhom, biex tqaddes ⟨אתם⟩, biex ikunu qassisin għalija: ħu barri wieħed, iben baqar, u żewġ ċervi sħaħ.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/1-4.1792600077301.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "U din"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "l-ħaġa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "biex tqaddes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "lilhom"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "biex ikunu qassisin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "barri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "u żewġ ċervi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "sħaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T16:27:57.302505018Z",
+  "model": "glm-5.3"
+}

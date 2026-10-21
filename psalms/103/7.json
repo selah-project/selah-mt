@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "toroq \/ aġixxiet",
+      "rationale": "דְּרָכָיו 'toroq\/metodi tiegħu' kontra עֲלִילֹתָיו 'għemejjel\/aġixxiet tiegħu' — distinzjoni bejn il-moħħ ta' Alla u l-atti viżibbli tiegħu."
+    }
+  ],
+  "translation": "Għarraf it-toroq tiegħu lil Moxe, u l-aġixxiet tiegħu lil wlied Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/5-8.1792617807960.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "għarraf"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "it-toroq tiegħu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "lil Moxe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lil wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "l-aġixxiet tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:27.961007466Z",
+  "model": "glm-5.3"
+}

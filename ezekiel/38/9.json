@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 38:9",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ġwienaħ",
+      "rationale": "אגפיך litteralment 'ġwienaħ' għal formazzjonijiet ta' truppi; formazzjoni plurali biss"
+    },
+    {
+      "kind": "addition",
+      "subject": "se \/ tkun",
+      "rationale": "il-Lhudi juża participju futur mingħajr għajnuna; il-Malti jeħtieġ 'se' u kopula"
+    }
+  ],
+  "translation": "Inti se ttella', se tiġi bħal maltemp, tkun bħal sħaba biex tkopri l-art — inti, u l-ġwienaħ kollha tiegħek, u ġnus ħafna ⟨את⟩ miegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0637c87906e12778afb735afd14a3302adefe39b955bbd63f4062343ec700a68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/38\/9-12.1792615023054.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלית",
+      "gloss": "se ttella'"
+    },
+    {
+      "surface": "כשאה",
+      "gloss": "bħal maltemp"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "se tiġi"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "bħal sħaba"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "biex tkopri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-ġwienaħ kollha"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "tiegħek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "u ġnus"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "miegħek (int)"
+    }
+  ],
+  "timestamp": "2026-10-21T20:37:03.055247374Z",
+  "model": "glm-5.3"
+}

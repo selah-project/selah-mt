@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss": "'quddiemu' għadda fil-glossa ta' השתחוי",
+      "rationale": "Il-prepożizzjoni 'leh' ngħadditha ma' 'quddiemu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדניך",
+      "rationale": "'Adonaj' hawnhekk isir 'sidek' — sid ta' bniedem, mhux l-Isem ta' Alla."
+    }
+  ],
+  "translation": "U jixtaq is-sultan is-sbuħija tiegħek, għax huwa s-sidek; quddiemu tinxtejjir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/45\/9-12.1792617015929.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "U jixtaq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "is-sbuħija tiegħek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "s-sidek"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "tinxtejjir quddiemu"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:15.930766428Z",
+  "model": "glm-5.3"
+}

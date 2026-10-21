@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (qabel l-ismijiet)",
+      "rationale": "It-tliet את qabel l-ismijiet tal-patrijarki huma את H854 (ma') mhux il-maratur tad-dirett; hużnew bħala ''ma'' mingħajr il-marka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שועתם\/נאקתם",
+      "rationale": "Vers 23 għandu שועתם u vers 24 נאקתם: l-istess ħeġġa b'żewġ kliem, l-eko bejn il-versi ma jinħarax"
+    }
+  ],
+  "translation": "U Elohim sema' ⟨את⟩ in-neħħa tagħhom, u Elohim ftakar ⟨את⟩ il-patt tiegħu, ma' ⟨את⟩ Avraham, ma' ⟨את⟩ Jitsħaq u ma' ⟨את⟩ Jagħaqov.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "759853a2e0b913c8801aa4ff0e97d6f0b8c314d7313052da2451ed85a512fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/22-24.1792602103487.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "u sema'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-neħħa tagħhom"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "in-neħħa tagħhom"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "u ftakar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-patt tiegħu"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il-patt tiegħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsħaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ma' ⟨את⟩",
+      "marks": "Jagħaqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:43.490512299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-senna",
+      "rationale": "השן tfisser litteralment 'dars\/denb' (blata jaqta' bħal senna); blata weqgħa tagħti l-istampa mhux l-ittra"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוק",
+      "rationale": "kelma rari: kolonna jew quċċata tqila; versjoniet jaqsmu bejn 'edge', 'crag', 'stood up'"
+    }
+  ],
+  "translation": "Is-senna l-waħda, blata weqgħa mit-tramuntana quddiem Mikmax, u l-oħra min-nofsinhar quddiem Geva.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/14\/5-8.1792607879533.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "is-senna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l-waħda"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "blata weqgħa"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mit-tramuntana"
+    },
+    {
+      "surface": "מול",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmax"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "u l-oħra"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "min-nofsinhar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-10-21T18:37:59.534247713Z",
+  "model": "glm-5.3"
+}

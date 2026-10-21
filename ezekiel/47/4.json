@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 47:4",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אלף",
+      "rationale": "it-tieni u t-tielet kejl jittraskuraw il-'kubitu' fl-oriġinal, il-vers jgħid biss 'elf'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "elf, elf",
+      "rationale": "il-fond jibqa' jitkabbar: gofojja, irkopptejn, qadd."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימד...ויעברני",
+      "rationale": "l-iterazzjoni ta' kejl–għaddi taħdem ir-repetizzjoni Meżopotamja ta' Eżekjel; tinstama' iżjed milli tidher."
+    }
+  ],
+  "translation": "U kejl elf, u għaddini fl-ilmijiet, ilma sa' l-irkopptejn. U kejl elf, u għaddini ilma sa' qaddu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "33d5f964440d1f610a6303e2c451905f677c6ecee1e243f70dc4650a389bba87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/47\/1-4.1792615323440.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "U kejl"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "u għaddini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "fl-ilmijiet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "sa' l-irkopptejn"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "U kejl"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "u għaddini"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "sa' qaddu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:42:03.441208554Z",
+  "model": "glm-5.3"
+}

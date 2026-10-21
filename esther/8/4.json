@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ispetru",
+      "rationale": "שרבט — virga tas-saltna, ispetru; mhux virga ta' mislem"
+    }
+  ],
+  "translation": "U r-re miched lejn Ester ⟨את⟩ l-ispazju tad-deheb, u Ester tqajmet u talbet il-partita quddiem ir-re.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0edfa482f3bfde3e61c6d5b1db39bfe3c0a5003b70fe8b6654a0e80be976d17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/8\/1-4.1792620465772.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "miched lejn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ispetru tad-deheb"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "l-ispetru"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "tqajmet"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "talbet il-partita quddiem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    }
+  ],
+  "timestamp": "2026-10-21T22:07:45.774365736Z",
+  "model": "glm-5.3"
+}

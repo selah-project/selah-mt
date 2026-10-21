@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מחספס",
+      "rationale": "Kelma li tidher biss hawn fit-Tanakh; tradizzjonijiet jaqsmu bejn 'ċircoli qosra' u 'ħoxra tqil'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דק ... דק",
+      "rationale": "Ir-repetiżżjoni ta' dqiq tqiegħed ed tiżloq bil-kliem tal-manna"
+    }
+  ],
+  "translation": "U tela' dak li kien mistrieħ mis-s-deww, u ara, fuq wiċċ id-deżert ħaqa' dqiq, imċarrat f'ċircoli, dqiq bħas-silġ abjad fuq l-art.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "7712fdf70ccfcb5be57d22ff3fa3c59bc4e3f5f1e5f2f1fd2c3b94d451cf278f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/13-16.1792599702422.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "u tela'"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "dak li kien mistrieħ"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "mis-s-deww"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "id-deżert"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ħaqa' dqiq"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "imċarrat f'ċircoli"
+    },
+    {
+      "surface": "דק",
+      "gloss": "dqiq"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "bħas-silġ abjad"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:42.423454818Z",
+  "model": "glm-5.3"
+}

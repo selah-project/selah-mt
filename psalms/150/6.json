@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n-nifs",
+      "rationale": "נשמה hija n-nifs tal-ħajja, is-soffja minn Alla — mhux 'spirit' biss."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהלל יה \/ הללו יה",
+      "rationale": "Il-vers jispiċċa bil-qedd ”ħalllu Jaħ” — hallelujah — l-ewwel hekk it-twettiq u mbagħad il-merhba, l-istess żewġ kliem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "lill-qarrej",
+      "rationale": "L-imperattiv finali 'faħħu, Jaħ' idur direttament fuq kull min għandu n-nifs, u dwaru l-qarrej."
+    }
+  ],
+  "translation": "Kull dak li għandu n-nifs jaħfaħ lil Jaħ; faħħu, Jaħ!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/150\/5-6.1792618316989.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "dak li għandu n-nifs"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "jaħfaħ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaħ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:56.990419239Z",
+  "model": "glm-5.3"
+}

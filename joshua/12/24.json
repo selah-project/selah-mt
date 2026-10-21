@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tletin u wieħed",
+      "rationale": "l-għadd totali tal-melk megħluba, miġbur f'somma ta' tletin u wieħed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sultan",
+      "rationale": "מלך jingħata b'sultan (kelma Semitika Maltija) għal reġ minn nofs it-Tanakh; xejn teoloġiku"
+    }
+  ],
+  "translation": "sultan ta' Tirtsa, wieħed; il-melk kollha tletin u wieħed.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3bd9849c22daf35a7eb299d075bc3e4d9947ac78e0c12a6c3687aae26398b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/12\/24-24.1792623160693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirtsa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "il-melk"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tletin"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "u wieħed"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:40.694579602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "qata' il-patt",
+      "rationale": "bil-Lhudi כרת ברית — 'qata' patt', il-verb tfisser litteralment 'qata', bħall-Ingliż 'cut a covenant'"
+    },
+    {
+      "kind": "covenant",
+      "subject": "il-patt",
+      "rationale": "ברית mfittex bħala 'patt' skont D2"
+    }
+  ],
+  "translation": "U Jechojada qata' ⟨את⟩ il-patt bejn Jaħwe u bejn ir-re u bejn il-poplu, li jkunu poplu għal Jaħwe, u bejn ir-re u bejn il-poplu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/11\/17-20.1792610431452.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "U qata'"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jechojada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-patt"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "il-patt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "li jkunu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:31.453271573Z",
+  "model": "glm-5.3"
+}

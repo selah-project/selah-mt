@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ġid maħfuz",
+      "rationale": "סגלה tfisser rigal\/għana mkasbra; 'peculiar treasure' ta' KJV u 'posesjuni partikulari' huma għażliet oħra."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Il-vers jindirizza lil Jisrael bħala l-merħla maħtuba."
+    }
+  ],
+  "translation": "Għax Jaħ għazel lilu nnifsu ⟨את⟩ Jagħaqov, Jisrael bħala ġidu maħfuz.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/135\/1-4.1792618201490.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "għazel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu nnifsu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaħ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "bħala ġidu maħfuz"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:01.491898084Z",
+  "model": "glm-5.3"
+}

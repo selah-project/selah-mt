@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 37:17",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi ma jgħidx min jiskatta l-art; il-verb Malti jeħtieġ suġġett"
+    },
+    {
+      "kind": "alternative",
+      "subject": "riħ tan-nofsinhar",
+      "rationale": "מדרום poeżija tista' tkun sempliċement 'in-nofsinhar', iżda r-rella tal-vers tirreġġa' l-irjieħ"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Għob",
+      "rationale": "Domanda diretta ta' Eliħu lil Għob"
+    }
+  ],
+  "translation": "Kif il-ħwejjeġ tiegħek jisħnu, meta ⟨hu⟩ jiskattah l-art bir-riħ tan-nofsinhar?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cbb4c362c235142bd4b31535de6b1ff06c6cc4906da45564f1d9aab8759b0e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/37\/17-20.1792619785731.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "il-ħwejjeġ tiegħek"
+    },
+    {
+      "surface": "חמים",
+      "gloss": "jisħnu"
+    },
+    {
+      "surface": "בהשקט",
+      "gloss": "meta jiskattah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "מדרום",
+      "gloss": "bir-riħ tan-nofsinhar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:25.731825975Z",
+  "model": "glm-5.3"
+}

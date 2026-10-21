@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 40:24",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אף בל",
+      "rationale": "'Indeed not \/ scarcely not' — KJV reads absolute negation ('they shall not be planted'), JPS reads 'scarcely planted' (barely rooted, immediately swept away)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף בל ×3",
+      "rationale": "Triple anaphora of אף בל drives the uprooting rhythm; Maltese 'għadu lanqas' keeps the repetition."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iż-żerriegħa tagħhom",
+      "rationale": "גזע is literally 'trunk\/stump' of a tree, not seed; Maltese shifts the plant image."
+    }
+  ],
+  "translation": "Għadu lanqas mħawla, għadu lanqas miżruga, għadu lanqas ħadet għerq fl-art iż-żerriegħa tagħhom; u malli nefħet fuqhom, u nexfu, u l-merħla ta' riħ qawwi bħall-ħuxlief tgħolihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/40\/21-24.1792611663993.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "mħawla"
+    },
+    {
+      "surface": "אף",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "miżruga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "ħadet għerq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "גזעם",
+      "gloss": "iż-żerriegħa tagħhom"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u malli"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "nefħet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "u nexfu"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "l-merħla ta' riħ qawwi"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bħall-ħuxlief"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "tgħolihom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:03.995814028Z",
+  "model": "glm-5.3"
+}

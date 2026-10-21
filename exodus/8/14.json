@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-sħaħar",
+      "rationale": "חרטמים: dawk li jżerrġu linji maġiċi — 'sħaħar' jaqbad l-att, mhux l-għodda"
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħhom",
+      "rationale": "possessiv Mialti meħtieġ għal בלטיהם"
+    }
+  ],
+  "translation": "U għamlu hekk is-sħaħar bis-siħer tagħhom biex joħorġu ⟨את⟩ in-namus, imma ma setgħux; u n-namus kien fil-bniedem u fil-bhejjem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1c13e0b64070dc2cc894ae9130a1c307a107a63743ee1a56dd00a4534bbbc3d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/8\/13-16.1792599425167.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "U għamlu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "is-sħaħar"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "bis-siħer tagħhom"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "biex joħorġu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-namus"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "in-namus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "imma ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "setgħux"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "in-namus"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "fil-bniedem"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "u fil-bhejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T16:17:05.167765855Z",
+  "model": "glm-5.3"
+}

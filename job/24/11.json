@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 24:11",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-ħitan tagħhom",
+      "rationale": "שורות from שור wall: 'between their walls' (JPS 'rows', i.e. olive-terraces) — crux"
+    },
+    {
+      "kind": "addition",
+      "subject": "tal-inbid",
+      "rationale": "Maltese needs 'of wine' to specify יקבים wine-vats"
+    }
+  ],
+  "translation": "Bejn il-ħitan tagħhom joħorgu ż-żejt, il-ġbiet tal-inbid jidru, u huma għatxan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "162591c073d69330d3c9b4a8b6f31d674c9395e593d4f8faab5139bd4a991159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/24\/9-12.1792619486575.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "שורתם",
+      "gloss": "il-ħitan tagħhom"
+    },
+    {
+      "surface": "יצהירו",
+      "gloss": "joħorgu ż-żejt"
+    },
+    {
+      "surface": "יקבים",
+      "gloss": "il-ġbiet tal-inbid"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jidru"
+    },
+    {
+      "surface": "ויצמאו",
+      "gloss": "u huma għatxan"
+    }
+  ],
+  "timestamp": "2026-10-21T21:51:26.577750166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the peoples",
+      "rationale": "żewġ imperattivi jsejħu lill-popli biex jbierekku lil Elohim"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħallu",
+      "rationale": "השמיעו huwa hifil 'agħmel (l-ħoss) jinstema'' — il-Malti jeħtieġ verb għajnuna"
+    }
+  ],
+  "translation": "Bierekku, ja popli, lil Elohim tagħna, u ħallu l-ħoss tat-tifħir tiegʼu jinstema'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "114a2c02ea9055c230cd38e9399723ea0dde313fd176b7cc3965d6efaac313ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/66\/7-8.1792623812850.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "bierekku"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ja popli"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lil Elohim tagħna"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "u ħallu ... jinstema'"
+    },
+    {
+      "surface": "קול",
+      "gloss": "l-ħoss"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tat-tifħir tiegʼu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:32.851014875Z",
+  "model": "glm-5.3"
+}

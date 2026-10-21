@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "navon",
+      "rationale": "נבון 'wieħed li jifhem' miżjum bħala kelma waħda qrib tal-Lhudi"
+    },
+    {
+      "kind": "crux",
+      "subject": "lekach",
+      "rationale": "לקח: 'għeruq ta' tagħlim' jew 'persważjoni'; il-verżjonijiet jaqsmu"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ il-verb 'isem' għal יקרא passiv, immarkat b'⟨hu⟩"
+    }
+  ],
+  "translation": "Lil ħakim il-qalb ⟨hu⟩ jissejjaħ navon, u ħlewwa ta' xufftejn iżżid lekach.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/16\/21-24.1792618679761.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "lil ħakim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il-qalb"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "jissejjaħ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "navon"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "u ħlewwa"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ta' xufftejn"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "iżżid"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "lekach"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:59.761516574Z",
+  "model": "glm-5.3"
+}

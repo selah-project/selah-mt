@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebħ",
+      "rationale": "כבוד is literally 'weight, heaviness' — splendour; 'sebħ' keeps the glory sense but loses the weight metaphor."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperative",
+      "rationale": "Third-person object, second-person plural imperative: summons to Israel to declare among the nations."
+    }
+  ],
+  "translation": "Irrakkontaw fost in-nazzjonijiet is-sebħ tiegħu, fost il-popli kollha l-għeġubijiet tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/96\/1-4.1792617731525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Irrakkontaw"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fost in-nazzjonijiet"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "is-sebħ tiegħu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fost il-… kollha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popli"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "l-għeġubijiet tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:11.525806523Z",
+  "model": "glm-5.3"
+}

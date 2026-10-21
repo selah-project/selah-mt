@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "2-samuel 22:47",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi ma għandux verb għaqda; il-Malti jeħtieġ 'hu' f'ħajritt qasir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-blat",
+      "rationale": "צור huwa blata weħidha, ħaġra kbira wieqfa — 'blat' żomm il-pittura waħda għat-tliet okkorrenzi."
+    }
+  ],
+  "translation": "Ħaj ⟨hu⟩ Jaħwe, u mbierek ⟨hu⟩ il-blat tiegħi, u jitfa'' Elohim, il-blat tal-fidwa tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "70890e97f80619014a94292fc6223ac128d10a04bb9c3975c5f0de1dce5976cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/22\/45-48.1792609039476.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "u mbierek"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "il-blat tiegħi"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "u jitfa''"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "il-blat"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tal-fidwa tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:19.477056460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jittiekla",
+      "rationale": "il-passiv Nifal ייאכל: 'jittiekla' bil-Malti, l-ogħla sezzjoni mhux imsemmija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבית\/הבית",
+      "rationale": "id-doppju ta' 'minn id-dar' u 'mill-laħam' joħloq żiffa repetittiva li tingħata b'mod naturali bil-Malti"
+    }
+  ],
+  "translation": "F'dar waħda jittiekla; ma toħroġx barra minn id-dar minn ġo fiha mill-laħam; u għadma ma tiksirx fiha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/45-48.1792599488668.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jittiekla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "toħroġx"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn ġo fiha"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mill-laħam"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "barra"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "u għadma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "tksirx"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:18:08.669303903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jfixkel",
+      "rationale": "משגה huwa Piel ta' שגה — jagħmel li jitfixkel; jittrażżan it-tifsira attiva f'verb wieħed."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jġerr lil-agħma mit-triq",
+      "rationale": "jiġifieri jagħtih it-triq ħażina; \"jfixkel fit-triq\" huwa qrib tal-ewwel tint."
+    },
+    {
+      "kind": "you",
+      "subject": "lil poplu Israel",
+      "rationale": "Il-melaħin jissejħu lil-poplu jammen b'risponsa kollettiva — strument dirett lejn il-ħerka."
+    }
+  ],
+  "translation": "Misruq minn melaħun min jfixkel lil agħma fit-triq; u jgħid il-poplu kollu: Amen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/27\/17-20.1792605907432.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "misruq minn melaħun"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "jfixkel"
+    },
+    {
+      "surface": "עור",
+      "gloss": "agħma"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "u jgħid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-21T18:05:07.432805357Z",
+  "model": "glm-5.3"
+}

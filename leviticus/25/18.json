@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "homom",
+      "rationale": "l-verb Malti jeħtieġ oġġett mgħarraf; il-Lhudi għandu biss suffiss ם"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sigurtà",
+      "rationale": "לבטח huwa 'f'post ta' kenn' — sigurtà bħala fatt u bħala sensazzjoni"
+    }
+  ],
+  "translation": "U tagħmlu ⟨את⟩ l-ordinanza tiegħi, u ⟨את⟩ l-ġudizzji tiegħi taraw, u tagħmluhom, u toqogħdu fuq l-art bil-ħsieb li tkunu sigurtà.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/25\/17-20.1792601220363.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "u tagħmlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ordinanza tiegħi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "l-ordinanza tiegħi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ġudizzji tiegħi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "l-ġudizzji tiegħi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "taraw"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "u tagħmlu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨homom⟩"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "u toqogħdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bil-ħsieb li tkunu sigurtà"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:00.364776097Z",
+  "model": "glm-5.3"
+}

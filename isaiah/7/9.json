@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאמינו\/תאמנו",
+      "rationale": "Ġuġġiligġ ta' għerq אמן: 'tassewx \/ ma tissemmx' — jifgħu l-ħoss imma titlef il-ġils ta' l-għerq."
+    },
+    {
+      "kind": "crux",
+      "subject": "תאמנו",
+      "rationale": "'titwaqqaf b'saħħtek' (Nifal ta' אמן) vs 'tibqagħkom' — hawn magħżul it-tieni sens b'għerq wieħed ma' tassewx."
+    }
+  ],
+  "translation": "U r-ras ta' Efrajim hija Somron, u r-ras ta' Somron hija bin Remaljahu. Jekk ma tassewx, għax ma tissemmx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/7\/9-12.1792610961346.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "u r-ras"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ta' Efrajim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Somron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "u r-ras"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ta' Somron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "tassewx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "tissemmx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:29:21.346455369Z",
+  "model": "glm-5.3"
+}

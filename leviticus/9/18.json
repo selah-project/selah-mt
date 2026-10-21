@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-muntun",
+      "rationale": "איל hawn huwa l-ram (muntun) tal-offerti, mhux iċ-ċerv (אַיָּל) — l-istess konsonanti, kliem differenti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וימצאו",
+      "rationale": "litteralment 'u ħarġu (bil-ħaġa f'idejhom)'; mibni bħala 'ġabu'"
+    }
+  ],
+  "translation": "U qatel ⟨את⟩ il-barri u ⟨את⟩ il-muntun, żebħ tal-offerti tas-sliem li għall-poplu, u ġabu wlied Aharon ⟨את⟩ id-demm għandu, u xterru fuq l-artal, madwar kollu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/9\/17-20.1792600657717.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "U qatel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-barri"
+    },
+    {
+      "surface": "השור",
+      "gloss": "il-barri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-muntun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il-muntun"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "żebħ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "tal-offerti tas-sliem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "għall-poplu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "u ġabu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-demm"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "għandu"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "u xterru"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar kollu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:37.718164909Z",
+  "model": "glm-5.3"
+}

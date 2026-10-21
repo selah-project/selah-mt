@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש hija 'ħelu\/ħajja': ”ruħ ħajja” mhux ”ruħ” biss fil-mod Grieg"
+    },
+    {
+      "kind": "crux",
+      "subject": "sawwar",
+      "rationale": "יצר hu l-verb tat-tajjip bħal fuħħar (cf. Ġeremija 18): ”sawwar” iżomm il-pittura"
+    },
+    {
+      "kind": "you",
+      "subject": "l-bniedem",
+      "rationale": "l-ewwel att ta' ħolqien diretta lell-bniedem f'din il-verżjoni tal-ħolqien"
+    }
+  ],
+  "translation": "U Jaħwe Elohim sawwar ⟨את⟩ l-bniedem, trab mill-art ħamra, u nefħa f'imniffi nifs ta' ħajja, u l-bniedem sar ruħ ħajja.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "68450a8e65de4b0b6f44a3c7ad1421b87e4c46e29674bb8f9f92acd3c2a6860f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/2\/5-8.1792597660478.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "u sawwar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-bniedem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "trab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "art ħamra"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "u nefħa"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "f'imniffi"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ta' ħajja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u sar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ruħ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ħajja"
+    }
+  ],
+  "timestamp": "2026-10-21T15:47:40.479428680Z",
+  "model": "glm-5.3"
+}

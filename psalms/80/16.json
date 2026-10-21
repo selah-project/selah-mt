@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tiegħek⟩",
+      "rationale": "Suffiss possessiv meħtieġ bil-Malti ma' 'il-lemin'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן",
+      "rationale": "'iben' literalment; verżjonijiet qadima qiegħdu 'il-ftaħ\/il-fergħa' mill-metatura tal-vit — il-kelma Lhudija tkun tibqa' bnem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנה\/בן",
+      "rationale": "il-pjanta u l-iben: il-ħajja tal-vit u n-nisel uman imżewġin fl-istess vers"
+    }
+  ],
+  "translation": "u l-pjanta li ppjantejt bil-lemin ⟨tiegħek⟩, u fuq iben li saħħaħt għalik.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/80\/13-16.1792617572262.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "u l-pjanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ppjantejt"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "bil-lemin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "saħħaħt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:32.263940669Z",
+  "model": "glm-5.3"
+}

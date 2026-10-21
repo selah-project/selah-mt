@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miftied",
+      "rationale": "גואל huwa l-qrata l-aktar mill-ħjiera skont il-liġi tal-qrabja, mhux sempliċement 'feddej'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Qaddej",
+      "rationale": "indirizz dirett lil Qaddej bħala 'ħuk'"
+    }
+  ],
+  "translation": "Kieku ħuk jiftaqar u jbiegħ minn possedimentu, u jiġi miftiedu l-eqreb għalih, u jifdi ⟨את⟩ il-bejgħ ta' ħuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/25\/25-28.1792601250677.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kieku"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "jiftaqar"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ħuk"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "u jbiegħ"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "minn possedimentu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "u jiġi"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "miftiedu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "l-eqreb"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "u jifdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-bejgħ ta' ħuh"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "il-bejgħ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ta' ħuh"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:30.677975354Z",
+  "model": "glm-5.3"
+}

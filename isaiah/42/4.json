@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירוץ",
+      "rationale": "il-masoret jgħid 'jitlef qalbu\/jiddepressjoni' (minn כהה parallel) iżda l-konsonanti jistgħu jkunu minn רצץ 'jitkisser' — KJV 'nor be discouraged' kontra YLT 'nor bruised'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה tibqa' Tora skont ir-regola, mhux 'liġi'"
+    }
+  ],
+  "translation": "Ma jitfidx u ma jitkissirx, sa ma jpoġġi l-ġudizzju fl-art, u għat-Tora tiegħu l-gżejjer jistennewh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/42\/1-4.1792611861302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "jitfidx"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "jitkissirx"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "jpoġġi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il-ġudizzju"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "u għat-Tora tiegħu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "l-gżejjer"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "jistennew"
+    }
+  ],
+  "timestamp": "2026-10-21T19:44:21.304438176Z",
+  "model": "glm-5.3"
+}

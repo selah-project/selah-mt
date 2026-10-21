@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "Jaħwe jindirizza lil Moxe b'imperattivi — ktib, għaddi."
+    },
+    {
+      "kind": "secret",
+      "subject": "moff",
+      "rationale": "il-moff ta' Amalek għandu jitħassar — ħaġa miktuba għal qabel, miżmuma fis-sema."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחה אמחה",
+      "rationale": "infinitiv assolut + finite mill-istess għerq — 'ħassef inħassar' iżomm id-doppja."
+    }
+  ],
+  "translation": "U Jaħwe qal lil Moxe: Iktib dan bħala moff f'ktieb, u għaddih f'widnejn Jixwa, għaliex ħassef inħassar ⟨את⟩ il-moff ta' Amalek minn taħt is-sema.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/17\/13-16.1792599611089.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Iktib"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bħala moff"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "f'ktieb"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "u għaddih"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "f'widnejn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jixwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ħassef"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "inħassar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-moff"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "il-moff"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ta' Amalek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "minn taħt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:11.090668372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-verżjonijiet jaqsmu bejn 'hu' (Jaħwe) u 'Int' fl-istess vers — il-Lhudi m'għandux suġġett espliċitu"
+    },
+    {
+      "kind": "crux",
+      "subject": "הֲשִׁמּוֹתָ",
+      "rationale": "Tieni persuna femminil 'Inti ḧrikt' kontra terzi persuna 'ħrik'; il-verżjonijiet qed jaqilfu bejn żewġ indirizzi"
+    }
+  ],
+  "translation": "Iżda issa ⟨hu⟩ għejjimni, Int ħrikt kollu kemm hu l-ġemgħa tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/16\/5-8.1792619388078.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Iżda"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "għejjimni"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "ħrikt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu kemm hu"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "il-ġemgħa tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:48.079055341Z",
+  "model": "glm-5.3"
+}

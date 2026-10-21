@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מתי",
+      "rationale": "l-ekċessami Ebrajk 'sa meta' — wieħed bil-Malti: 'saqsi kemm'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "indirizz dirett lil Elohim f'dawl ta' talba ta' komunità niktet"
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-misfud",
+      "rationale": "għal צר; jista' wkoll 'id-deni' (li jfgħas, minn żmien diffiċli)"
+    }
+  ],
+  "translation": "Saqsi kemm, Elohim, il-misfud jistmerr? Jidderidu l-għadu ismek għal dejjem?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/9-12.1792617390172.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saqsi kemm"
+    },
+    {
+      "surface": "מתי",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "jistmerr"
+    },
+    {
+      "surface": "צר",
+      "gloss": "il-misfud"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "jidderidu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "l-għadu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:30.173601125Z",
+  "model": "glm-5.3"
+}

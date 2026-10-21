@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Malti jeħtieġ il-kopula għall-parteċipju passiv; il-Lhudi juża biss וספון"
+    },
+    {
+      "kind": "crux",
+      "subject": "הצלעת",
+      "rationale": "צלעת: 'naħat\/solzier' (JPS 'side-chambers') kontra 'travi' (KJV 'beams') — l-istess għerq tal-ġenb"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ħamsa u erbgħin, ħmistax għal kull ringiela",
+      "rationale": "għadd ta' travi u kolonni mqassam f-rigali"
+    }
+  ],
+  "translation": "U ⟨kien⟩ mgħotti bi ċedru minn fuq, fuq in-naħat li kienu fuq il-kolonni — ħamsa u erbgħin, ħmistax għal kull ringiela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "563dc9235ca9f0421671d060b5619d4f33abf1e62d946c3778088d508944fba3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/7\/1-4.1792609485715.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "u mgħotti"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "bi ċedru"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "in-naħat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "il-kolonni"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "erbgħin"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "u ħamsa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ħmistax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tax"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "għal kull ringiela"
+    }
+  ],
+  "timestamp": "2026-10-21T19:04:45.716408797Z",
+  "model": "glm-5.3"
+}

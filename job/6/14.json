@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 6:14",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is-sintassi",
+      "rationale": "min jħalli lil min: il-־מס li jħalli l-biża' ta' Xaddaj (KJV\/ASV), jew l-ħabib li jħalli l-biża' meta jneħħi l-ħesed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "ħesed ma jiġix tradott — il-kelma tirreferi għal lealtà u ġieħ lejn ħabib, mhux biss ħniena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Lill-mitluq",
+      "rationale": "למס jista' jkun ukoll 'dak li jtemmen totalment' — l-għerq jfisser 'dub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד\/עזב",
+      "rationale": "il-vers jilgħab fuq iż-żewġ poli: ħesed mogħti kontra ħasil (עזב) tal-biża'"
+    }
+  ],
+  "translation": "Lill-mitluq jixraqlu ħesed minn ħabibu, anki jekk hu jħalli l-biża' ta' Xaddaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/6\/13-16.1792619108704.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למס",
+      "gloss": "Lill-mitluq"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "minn ħabibu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "l-biża' ta'"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Xaddaj"
+    },
+    {
+      "surface": "יעזוב",
+      "gloss": "jħalli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:45:08.705319840Z",
+  "model": "glm-5.3"
+}

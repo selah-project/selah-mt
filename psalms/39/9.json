@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħtijietija",
+      "rationale": "פשע hija rewwixta, dupliciment kontra Adonaj; 'ħtijiet' tilqa' biss in-naħa morali"
+    },
+    {
+      "kind": "crux",
+      "subject": "nabli",
+      "rationale": "נבל: lill-imepjì (JPS 'il-qarrieċi') kontra lill-Ġuvni (KJV 'lill-għaġeb)"
+    }
+  ],
+  "translation": "Minn ħtijietija kollha ħallissni; għajb ta' nabli la tagħmlinix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/39\/9-12.1792617020087.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "minn kollha"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ħtijietija"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ħallissni"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "għajb"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "tagħmlinix"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:20.087612732Z",
+  "model": "glm-5.3"
+}

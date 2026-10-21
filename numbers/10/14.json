@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 10:14",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tneħħew il-lastri",
+      "rationale": "nasa' tfisser litteralment li tqatta' l-lastri tat-tinda; tradott b'dak il-ħsieb mhux biss 'u mbarka'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Malti jħtieġ il-kopula; il-Ħebra jaqbeżha"
+    }
+  ],
+  "translation": "U tneħħew il-lastri tal-bandiera tal-kamp tal-wlied ta' Jehuda, fl-ewwel post, skont l-eżerċti tagħhom; u fuq l-eżerċtu tagħhom ⟨kien⟩ Naħxon bin Amminadab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b98a625e121261270c9b90ff8d78a19bf62e4eb00fc94fbafe264a21515a8c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/10\/13-16.1792602704797.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "tneħħew il-lastri"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "bandiera"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tal-wlied ta'"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "fl-ewwel post"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "skont l-eżerċti tagħhom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "l-eżerċtu tagħhom"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naħxon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadab"
+    }
+  ],
+  "timestamp": "2026-10-21T17:11:44.825728727Z",
+  "model": "glm-5.3"
+}

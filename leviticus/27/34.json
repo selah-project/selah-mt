@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Maltese requires the copula 'huma' which Hebrew omits."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "rationale": "Construct 'behar Sinaj' rendered with the Maltese genitive particle."
+    }
+  ],
+  "translation": "Dawn huma l-ordnijiet li Jaħwe ordna ⟨את⟩ lil Moxe lil ulied Jisrael, fil-muntanja ta' Sinaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c3fce8cb71bd990fd235cbaa466bf251a5fcc5af8609747b14222a7368190708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/27\/33-34.1792601273543.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "l-ordnijiet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Moxe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lil Moxe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "uled"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fil-muntanja ta'"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:53.544901365Z",
+  "model": "glm-5.3"
+}

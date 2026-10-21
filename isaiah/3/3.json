@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשוא פנים",
+      "rationale": "Literalment 'miġbord f'wiċċu' — idjom Lhudi għal min jingħata wiċċ (unur); Mogħdija bħala 'dawk li jitnissfu wċuhom' tfittex l-istess stampa."
+    },
+    {
+      "kind": "crux",
+      "subject": "חכם חרשים",
+      "rationale": "'L-għaref fost l-artiġjani' (ħila fl-artiġjanat) kontra 'saħħar għaref' — l-istess għerq חרש jifforma t-tnejn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fl-insedji",
+      "rationale": "לחש: bil-qedwa, bil-biċċa ħlewwa — 'insedji' jittraskura s-sens tajjeb (talb bis-serħan il-ħsejjes) iżda żżomm il-ħoss ta' l-għerq."
+    }
+  ],
+  "translation": "kap ta' ħamsin, u dawk li jitnissfu wċuhom, u l-kunsillier, u l-għaref fost l-artiġjani, u l-fehim fl-insedji.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/3\/1-4.1792610905174.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "kap"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ta' ħamsin"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "u dawk li jitnissfu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wċuhom"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "u l-kunsillier"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "u l-għaref"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "fost l-artiġjani"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "u l-fehim"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "fl-insedji"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:25.174936915Z",
+  "model": "glm-5.3"
+}

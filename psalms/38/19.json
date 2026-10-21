@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inkweta",
+      "rationale": "אדאג is 'be anxious' — anxious care over sin, not mere sorrow"
+    }
+  ],
+  "translation": "Għax inħabbar il-ħtieti tiegħi; inkweta minħabba dnubieti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/38\/17-20.1792616932861.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "il-ħtieti tiegħi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "inħabbar"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "inkweta"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "minħabba dnubieti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:52.862437774Z",
+  "model": "glm-5.3"
+}

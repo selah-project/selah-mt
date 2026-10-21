@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha għas-sentenza nominali."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפש hi nifs\/ħajja, mhix ruħ astattika; 'nifsi' iżomm il-qraba Semitika."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe Adonaj",
+      "rationale": "appell dirett lil Jaħwe fil-kant tas-salm."
+    }
+  ],
+  "translation": "Għax lejk, Jaħwe, Adonaj, ⟨huma⟩ għajnejja-tnejn; fik ħarart għall-kenn; la tnixxi lil nifsi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/141\/5-8.1792618298364.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lejk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejja-tnejn"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "fik"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ħarart għall-kenn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תער",
+      "gloss": "tnixxi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lil nifsi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:38.365913222Z",
+  "model": "glm-5.3"
+}

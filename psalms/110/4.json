@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jibdelx",
+      "rationale": "ינחם tfisser litteralment 'jieħu n-nifs, jiddispjaċih' — hawn 'ma jibdelx' fil-ġurament"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨raġejh⟩",
+      "rationale": "il-verbu ינחם jeħtieġ oġġett fil-Malti; il-Lhudi jaħbih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skont l-ordni",
+      "rationale": "דברתי kelma rari, 'skont id-dibja\/mod ta'' — r Rox 5 melan"
+    },
+    {
+      "kind": "you",
+      "subject": "inti qassis għal dejjem",
+      "rationale": "ħatra diretta mill-ġurament ta' Jaħwe lill-qeddis"
+    }
+  ],
+  "translation": "Jaħwe ħalaq u ma jibdelx ⟨raġejh⟩: inti qassis għal dejjem, skont l-ordni ta' Malki-Tsedeq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/110\/1-4.1792617985940.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ħalaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "jibdelx"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qassis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "על",
+      "gloss": "skont"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "l-ordni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ta' Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:25.941754066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hija⟩",
+      "rationale": "Il-verb ותעמד għandu s-suġġett 'l-art'; il-Malti jeħtieġ il-pronun"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nisel wara nisel",
+      "rationale": "Duż ta' zmien: לדר ודר, nisel wara nisel"
+    }
+  ],
+  "translation": "Għal nisel wara nisel, emunitek: Int stabbilajt ⟨את⟩ l-art, u ⟨hija⟩ tibqa' wieqfa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/89-92.1792618004265.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "għal nisel"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "wara nisel"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "emunitek"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "stabbilajt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "u tibqa' wieqfa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:44.266110680Z",
+  "model": "glm-5.3"
+}

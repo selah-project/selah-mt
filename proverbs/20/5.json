@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iġibru barra",
+      "rationale": "ידלנה hija litteralment 'jibdel il-barmil' — tpinġi l-ilma fondi; bl-għajdun Malti 'iġibru barra' iżomm it-tifsira tad-drawing tal-ilma"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨homm⟩",
+      "rationale": "il-lingwa teħtieġ l-objet għal ידלנה għalkemm il-Lhudi ma jgħidxhom"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש\/ואיש",
+      "rationale": "repetizzjoni ta' איש — 'raġel... u raġel' — kwijasmi ta' proverbju, miżmuma fit-traduzzjoni"
+    }
+  ],
+  "translation": "Ilmijiet fondi, il-parir f'qalb raġel, u raġel ta' fehem iġibru ⟨homm⟩ barra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/20\/5-8.1792618773232.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ilmijiet"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "fondi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "il-parir"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "f'qalb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "u raġel"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ta' fehem"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "iġibru barra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:39:33.233001695Z",
+  "model": "glm-5.3"
+}

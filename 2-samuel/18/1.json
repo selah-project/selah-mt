@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "elaf u mijiet",
+      "rationale": "Muster ta'Ļ-unitati militari: kmandanti ta' elaf u ta' mijiet — għadd sħiħ bħall-Lhudi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għadd",
+      "rationale": "פקד tfatter il-​muster\/ir-reviżjoni, mhux sempliċiment 'għadd'"
+    }
+  ],
+  "translation": "U David għadd ⟨את⟩ il-poplu li ⟨את⟩ kien miegħu, u poġġa fuqhom kmandanti ta' elaf u kmandanti ta' mijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/18\/1-4.1792608972827.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "għadd"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kien miegħu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kmandanti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ta' elaf"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "u kmandanti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ta' mijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:12.828451169Z",
+  "model": "glm-5.3"
+}

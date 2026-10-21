@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערפל",
+      "rationale": "'sħaba tqila \/ dlam dens' — il-LXX għandha 'fid-dlam' (σκοτία), il-MT 'għadu\/ħmara tas-sema'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "בערפל",
+      "rationale": "Jaħwe jagħżel joqgħod fid-dlam — abitazzjoni moħbija, ma jidhirx."
+    }
+  ],
+  "translation": "Imbagħad Salamon qal: Jaħwe qal li joqgħod fid-dlam id-dens.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/9-12.1792609480816.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Imbagħad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salamon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "fid-dlam id-dens"
+    }
+  ],
+  "timestamp": "2026-10-21T19:04:40.817324120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tissaħħaħ",
+      "rationale": "מתאמצת — 'qed tassaħħaħ ruħha' biex tmur; kelma waħda Lhudija, żewġ klieb Maltin"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "il-Malti jrid l-awżiljarju; il-Lhudi m'għandux"
+    }
+  ],
+  "translation": "U rat li hija kienet tissaħħaħ biex tmur ⟨את⟩ magħha, u waqfit titkellem magħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3462e3545f92cf88c6042611a2f6ea6437bbad28c0c35566f69b6075e7b51fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ruth\/1\/18-19.1792623917614.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "U rat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "tissaħħaħ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hija"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "biex tmur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ magħha",
+      "marks": "magħha"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "u waqfit"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "titkellem"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "magħha"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:17.615361575Z",
+  "model": "glm-5.3"
+}

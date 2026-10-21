@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 44:4",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הַשְׁכֵּים וְשָׁלֹחַ",
+      "rationale": "literalment 'iqumu kmieni u jibagħtu' — idjoma Lhudija għal 'biaċ-ċittadini, għal darba wara oħra'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-Malti jeħtieġ is-suddett 'jien' għal וָאֶשְׁלַח biex jifhem min bagħat"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lill-Lhud f'Mitsrajim",
+      "rationale": "petizzjoni diretta bil-verb projbitiv: 'la tagħmlux!'"
+    }
+  ],
+  "translation": "U jien bgħatt fostkom ⟨את⟩ il-ħaddejja profeti kollha tiegħi, inqumu kmieni u jibagħtu, biex jgħidu: Jekk jogħġbokom, la tagħmlux ⟨את⟩ din il-kelma ta' l-għaqba li jien nobgħod!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/44\/1-4.1792613570404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "U jien bgħatt"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "fostkom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħaddejja profeti kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "il-ħaddejja"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "inqumu kmieni"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "u jibagħtu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħidu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Jekk jogħġbokom"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tagħmlux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din il-kelma ta' l-għaqba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "התעבה",
+      "gloss": "ta' l-għaqba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jien nobgħod"
+    }
+  ],
+  "timestamp": "2026-10-21T20:12:50.406315655Z",
+  "model": "glm-5.3"
+}

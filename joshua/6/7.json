@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמרו",
+      "rationale": "plural 'qalu' għalkemm Joxwa waħdu tkellem fil-vers ta' qabel; certu manuskritti jqraw singular"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Għaddu, u dawru",
+      "rationale": "imperattivi diretti lill-poplu"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-poplu",
+      "rationale": "indirizz direktu lil Jisrael"
+    }
+  ],
+  "translation": "U qalu lill-poplu: Għaddu, u dawru ⟨את⟩ il-belt, u l-irġiel mgħarmin jgħaddu quddiem it-tabut ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "689f36968a95784e71d5b0093089f373cedd13f0750f262b03194f022c1359e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/6\/5-8.1792606357994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "U qalu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Għaddu"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "u dawru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-belt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "u l-irġiel mgħarmin"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "jgħaddu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "it-tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:12:37.996166581Z",
+  "model": "glm-5.3"
+}

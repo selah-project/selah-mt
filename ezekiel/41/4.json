@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "il-vers",
+      "rationale": "Kejl tal-iktar qaddis post: għoxrin amma bi għoxrin amma — kwadru perfett."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨huwa⟩",
+      "rationale": "Il-Lhudi m'għandux verbi 'huwa' — il-kopula miżjuda bil-Malti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש הקדשים",
+      "rationale": "Superlattiv Lhudi 'qaddis tal-qaddisin', ordni ta' qdusija dejjem tiżdied."
+    }
+  ],
+  "translation": "U kejjel ⟨את⟩ it-tulha għoxrin amma, u l-wisa' għoxrin amma, quddiem il-wiċċ it-tempju; u qal li: Dan ⟨huwa⟩ l-qaddis tal-qaddisin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "06266189c20529ec0fe75827fefb6b29e921711727c661649548500231871397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/41\/1-4.1792615184958.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "u kejjel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tulha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "it-tulha"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "u l-wisa'"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il-wiċċ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "it-tempju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "l-qaddis"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tal-qaddisin"
+    }
+  ],
+  "timestamp": "2026-10-21T20:39:44.959485432Z",
+  "model": "glm-5.3"
+}

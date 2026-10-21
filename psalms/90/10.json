@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebgħin u tmenin sena",
+      "rationale": "għadd tas-snin tal-ħajja tal-bniedem"
+    },
+    {
+      "kind": "crux",
+      "subject": "רהבם",
+      "rationale": "'rab tagħhom' (KJV 'strength') kontra 'tkabbir tagħhom' (ASV\/JPS 'pride') — gewwa l-Malti ttieħdet 'tkabbir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גז",
+      "rationale": "literal 'jingħata' (bħal ma tinqata' s-suf), rrendered 'jintrema'"
+    }
+  ],
+  "translation": "Il-jiem tas-snin tagħna fihom sebgħin sena, u jekk bil-qawwa tmenin sena; u t-tkabbir tagħhom huwi ħbit u faħx, għax malajr jintrema u aħna ntiru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/90\/9-12.1792617637445.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "il-jiem"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "tas-snin tagħna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fihom"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebgħin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "bil-qawwa"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "tmenin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "u t-tkabbir tagħhom"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ħbit"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "u faħx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "גז",
+      "gloss": "jintrema"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "malajr"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "u aħna ntiru"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:37.445763002Z",
+  "model": "glm-5.3"
+}

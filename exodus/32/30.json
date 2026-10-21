@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 32:30",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אעלה",
+      "rationale": "'inżel' — iżda l-Lhudi jgħid 'nieżel'. Il-Lhudi qiegħed jgħid 'inlaqqgħu miegħu', mhux 'inżel'”, ”l-għarbi Malti żamm il-verb tas-sema"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכפרה",
+      "rationale": "'nikseb rabta' — għerq כפר ifisser 'jgħatti\/jikkopri'; 'rabta' ġejja mill-istess għerq tal-Lhudi"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-poplu",
+      "rationale": "Indirizz dirett ta' Moxe lill-poplu ta' Jisrael"
+    }
+  ],
+  "translation": "U ġara fil-jum ta' wara, u Moxe qal lill-poplu: Intom dnijtu dnub kbir; u issa nerġa' inżel għand Jaħwe; forsi nikseb rabta għad-dnub tagħkom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0e979f3fd5d83fb954892228aaa95e5786a404435c29ff6b0e525788d6a166da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/32\/29-32.1792600206282.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "fil-jum ta' wara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Intom"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dnijtu"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "dnub"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "inżel għand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "forsi"
+    },
+    {
+      "surface": "אכפרה",
+      "gloss": "nikseb rabta"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "għal"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "id-dnub tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:30:06.283712587Z",
+  "model": "glm-5.3"
+}

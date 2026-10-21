@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מכתם",
+      "rationale": "kelma rari fis-superkriżjoni, ma ntradratx b'kelma waħda Maltija; tibqa' Miktam"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "titlu ta' għanja magħrufa, mhux interdizzjoni fil-vers; jibqa' bħala kellma tal-bidu: 'Ma tqridx'"
+    }
+  ],
+  "translation": "Lill-għalliess. Ma tqridx. Ta' David. Miktam. Meta Saul bagħat, u huma għasslu ⟨את⟩ id-dar biex joqtluh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/1-4.1792617220828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lill-għalliess"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tqridx"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "Meta bagħat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "u huma għasslu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "biex joqtluh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:40.828658457Z",
+  "model": "glm-5.3"
+}

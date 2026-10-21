@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כפירים",
+      "rationale": "כפירים rendered with added 'il-ħlejjaq' as Maltese needs a noun head for the adjective"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ebda ġid",
+      "rationale": "לא ... כל טוב is litotes 'not any good'; Maltese negative idiom with ebda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשו\/יחסרו",
+      "rationale": "lack (רושׁ) and hunger (רעב) at the poles: lions lack, seekers lack nothing"
+    }
+  ],
+  "translation": "Il-ħlejjaq il-iluni żgħar għaddew għatxien u bil-ġuħ, iżda dawk ifittxu lil Jaħwe ma jinsterrgħux ebda ġid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc12b3639f63da0bdbd13ab992c95110f7f908474c2e2ed11559033d00575f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/34\/10-11.1792623805969.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "il-iluni żgħar"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "għaddew għatxien"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "u bil-ġuħ"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "dawk ifittxu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "jinsterrgħux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ebda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ġid"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:25.970184440Z",
+  "model": "glm-5.3"
+}

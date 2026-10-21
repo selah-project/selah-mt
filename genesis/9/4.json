@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifsu",
+      "rationale": "נפש mhux ruħ imma nifs\/ħajja; id-demm hu l-ħajja tal-laħam"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו דמו",
+      "rationale": "sintaksi tant għalja: 'flimkien man-nifsu, demmu' jew 'waqt li għadu ħaj bid-demm'; it-traduzzjonijiet jaqsmu"
+    },
+    {
+      "kind": "elision",
+      "subject": "tilħquluh",
+      "rationale": "il-verbi bil-Malti jeħtieġu l-aċċessorju 'ma... x' fejn il-Lhudi għandu biss לא"
+    }
+  ],
+  "translation": "Iżda laħam, flimkien man-nifsu — demmu — tilħquluh tieklu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/9\/1-4.1792597830826.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Iżda"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "man-nifsu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "demmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tilħquluh tieklu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:30.827711454Z",
+  "model": "glm-5.3"
+}

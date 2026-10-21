@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ il-verbu 'huma' li ma hemmx bil-Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "gloss": "l-את fil-konsonanti ma jidhirx fit-test bil-punt (ויהוה שמים עשה), iżda l-istruttura oġġett ta' 'għamel' teħtieġ is-suġġett ċar",
+      "rationale": "l-istruttura verbali quddiem tibqa' ċara bir-repetizzjoni ta' ħu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהי\/אלילים",
+      "rationale": "il-ħoss ta' elohim u elilim iqarreb u jikkuntrasta: l-allat tal-ġnus vs. elohim veru — il-paronomażja titlef ftit bil-Malti"
+    }
+  ],
+  "translation": "għaliex kull allat tal-ġnus ⟨huma⟩ ħwejjeġ ta' xejn, u ħu Jaħwe ⟨hu⟩ li għamel ⟨את⟩ is-smewwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7fc9f5eea7c6f001a0f7567b1e4981a50a9c597393febdfe54b852999f884d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/16\/25-28.1792621966577.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allat"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tal-ġnus"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ħwejjeġ ta' xejn"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u ħu Jaħwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-smewwiet",
+      "marks": "is-smewwiet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:46.578305783Z",
+  "model": "glm-5.3"
+}

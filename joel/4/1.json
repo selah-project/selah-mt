@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "'nagħdod l-eżilju' vs 'nagħti l-ħelsien lill-priġunieri' — שׁוּב שְׁבוּt jista' jkun 'jerġa' jġib lura l-istat ta' qabel' jew 'jerġa' jġib lura l-maħbuserin'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשוב",
+      "rationale": "il-Lhudi jgħid 'nagħdod' (semm għalihom) — ġejt mill-qrib tal-ħoss, mhux 'niddispjaċajr'."
+    }
+  ],
+  "translation": "Għax araw, f'dawk il-jiem u f'dak iż-żmien, meta nagħdod lilha ⟨את⟩ l-eżilju ta' Jehuda u ta' Jeruxalajim,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ef043c26c38eea526429d9fd812f0f542dba75a3426ab8c0a77c5d6b12fbe12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joel\/4\/1-2.1792623707074.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "araw"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "f'dawk il-jiem"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "dawk"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "u f'dak iż-żmien"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "nagħdod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lilha l-eżilju ta' Jehuda u ta' Jeruxalajim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "l-eżilju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "u ta' Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T23:01:47.074554857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nafs",
+      "rationale": "נפש eqreb għal-ħals\/ħajja-force milli 'ruħ'; 'nafs' żżomm il-qraba."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "KJV jaqrah bħala mistoqsija ('wilt not thou deliver?'); YLT\/BSB bħala żgura ('and my feet from stumbling') — הלא hawn tistenna 'iva' mhux twissija."
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Il-prepożizzjoni 'lil' qabel 'nafsi' mitluba mill-Malti għall-oġġett dirett."
+    }
+  ],
+  "translation": "Għax silt lil nafsi mill-mewt; hux m'hekk? — saqajja mill-waqgħa, biex nimxi quddiem Elohim fid-dawl tal-ħajjin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/56\/13-14.1792623812765.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "silt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mill-mewt"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hux m'hekk?"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "saqajja"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "mill-waqgħa"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "biex nimxi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "fid-dawl"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tal-ħajjin"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:32.766187200Z",
+  "model": "glm-5.3"
+}

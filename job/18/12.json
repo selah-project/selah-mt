@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 18:12",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiekol",
+      "rationale": "Il-Lhudi jgħid 'ħaċħat il-qawwa tiegħu' b'kostruzzjoni nominali; il-verb miżjud bil-Malti għall-grammatika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צלעו",
+      "rationale": "B'mod literali 'għal gambu\/dieħlu' — 'ġenbu' iżomm il-pożizzjoni ta' ġisem mingħajr ma jgħid 'riġel'."
+    }
+  ],
+  "translation": "Il-ġuħ ⟨jiekol⟩ il-qawwa tiegħu, u d-disgrazzja tinsab lesta għal ġenbu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1aa993d664ef691a79d27e2c9b04c6d796c207ea5fce3ce40a1e262548b38584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/18\/9-12.1792619389903.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "il-ġuħ"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "il-qawwa tiegħu"
+    },
+    {
+      "surface": "ואיד",
+      "gloss": "u d-disgrazzja"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "lesta"
+    },
+    {
+      "surface": "לצלעו",
+      "gloss": "għal ġenbu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:49.904846053Z",
+  "model": "glm-5.3"
+}

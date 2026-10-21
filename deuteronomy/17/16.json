@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 17:16",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħaddiem",
+      "rationale": "העם hija l-poplu\/ġemgħa; 'ħaddiem' bil-Malti tqarreb il-ġemgħa ta' nies imma mhux l-istess kelma għal 'poplu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ilkom",
+      "rationale": "Il-Malti jeħtieġ il-pronom fit-trattament 'qalilkom'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירבה\/הרבות",
+      "rationale": "L-istess għerq רבה jrid darbtejn: 'jiżżied ġwiħ... biex jżid ġwiħ' — il-leġġer tal-ġwiħ irid jibqa' mwaħħad"
+    }
+  ],
+  "translation": "Imma m'għandux jiżżied għalih ġwiħ, u lanqas jerħi lura lil-⟨את⟩ ħaddiem Mitsrajim, biex jżid ġwiħ, għax Jaħwe qalilkom: M'intomtx tirġgħu tgħaddu f'din it-triq għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fbcce15b65bc0dca04eaf17f51ae0da05ee2223620394f283a437621956c0e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/17\/16-16.1792623107193.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Imma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m'... x"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "jiżżied"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ġwiħ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "jerħi lura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil-ħaddiem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ħaddiem"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "jżid"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ġwiħ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "għax Jaħwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ilkom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m'...tx"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "tirġgħu"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "tgħaddu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "f'din it-triq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T22:51:47.193732416Z",
+  "model": "glm-5.3"
+}

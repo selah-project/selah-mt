@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 10:6",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את גדלי העיר",
+      "rationale": "hawn את hu prepożizzjoni (ma'), mhux is-sinjal tal-oġġett — għalhekk mhux ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-Malti jeħtieġ kopula fil-klawżola Narrattiva; il-Lhudi ma għandux"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sid",
+      "rationale": "אדניכם sid (bniedem) mhux Adonaj — hawn dwar sid-dinja mhux dwar Alla"
+    }
+  ],
+  "translation": "U ktibhom ittra t-tieni, jgħid: Jekk tal-i żintom, u leħni tasseq tisma', ħudu ⟨את⟩ rash ir-rġiel, ulied is-sid tagħkom, u ġgħu għandi, ħabta ta' għada, f'Jizreel. U ulied is-sultan sebgħin raġel kienu ma' ⟨את⟩ l-kbar tal-belt, huma li kienu jitrabjaw ⟨את⟩ magħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "be1a8a770bff10a9c15a04819da693d976c4ea2f28d5c234a34a1968f393f857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/10\/5-8.1792610399408.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "u ktibhom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ittra"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tal-i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "żintom"
+    },
+    {
+      "surface": "ולקלי",
+      "gloss": "u leħni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "tasseq"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "tisma'"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ħudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rash ir-rġiel"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "rash"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ir-rġiel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "is-sid tagħkom"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "u ġgħu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ħabta ta'"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "għada"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "f'Jizreel"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "u ulied"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebgħin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ma'⟩",
+      "marks": "l-kbar tal-belt"
+    },
+    {
+      "surface": "גדלי",
+      "gloss": "l-kbar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tal-belt"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "kitrabjaw"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ magħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:19:59.409432665Z",
+  "model": "glm-5.3"
+}

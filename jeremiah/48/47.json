@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "jeremiah 48:47",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שבות",
+      "rationale": " literally 'captivity\/prisoners'; rendered as return from exile ('l-ilbuħut' = the exiles) after the restoration sense"
+    },
+    {
+      "kind": "addition",
+      "subject": "nirritornaw",
+      "rationale": "verbal form supplied with plural 'we\/I return' — Hebrew is a first-person singular suffix conjugation 'I will return the fortune of'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "copula supplied for 'sa hawn hu l-ġudizzju', Hebrew omits it"
+    }
+  ],
+  "translation": "U ⟨nirritornaw⟩ l-ilbuħut ta' Moab fl-aħħar ta' l-ijiem, jgħid Jaħwe. Sa hawn ⟨hu⟩ l-ġudizzju ta' Moab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f1740d1fa2f4db22a1ee3c9e621bdcd46330025a7316bc506ef63efa7b4fcbef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/48\/47-47.1792623591291.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "u nirritornaw"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "l-ilbuħut"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "fl-aħħar"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ta' l-ijiem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "l-ġudizzju"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    }
+  ],
+  "timestamp": "2026-10-21T22:59:51.292118286Z",
+  "model": "glm-5.3"
+}

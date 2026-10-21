@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-oret",
+      "rationale": "Kelma mill-bniedem lejn Jaħwe, mibni bħall-kelma ta' talba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tqiegħed 'l bogħod",
+      "rationale": "litteralment 'taqgħad fil-madwar'; il-lingwa teħtieġ iżjed minn kelma"
+    }
+  ],
+  "translation": "Għaliex, Jaħwe, tqiegħed 'l bogħod? Għaliex taħbi fis-sigħat tat-tbatija?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/1-4.1792616578615.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tqiegħed 'l bogħod"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "'l bogħod"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "taħbi"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "fis-sigħat"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tat-tbatija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:58.616046354Z",
+  "model": "glm-5.3"
+}

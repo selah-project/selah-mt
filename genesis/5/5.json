@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Il-Lhudi m'għandux kopula fil-formula tan-nisel; miżjuda bil-Malti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "disgħa mija u tletin sena",
+      "rationale": "Għadd ta' snin ta' ħajjet Adam fil-formula tal-ġenealoġija"
+    },
+    {
+      "kind": "idiom",
+      "subject": "nhar",
+      "rationale": "ימי (jiem) fil-formula tfisser tul ta' ħajja, mhux jiem literalni"
+    }
+  ],
+  "translation": "U kollha n-nhar ta' Adam li ħaħa ⟨kienu⟩ disgħa mija u tletin sena, u miet.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/5\/5-8.1792597727132.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nhar ta'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaħa"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "disgħa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "u tletin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "u miet"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:47.133272887Z",
+  "model": "glm-5.3"
+}

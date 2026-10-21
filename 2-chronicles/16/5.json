@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Lhudi m'għandux kopula; ויהי huwa 'u seħħ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħallas",
+      "rationale": "וישבת (shavat) tfisser 'waqaf jieħu mistrieħ' — l-istess għerq ta' Xabbat"
+    }
+  ],
+  "translation": "U ⟨kien⟩ meta Bagħaxa sema', huwa waqaf jibni ⟨את⟩ ir-Rama, u ħallas ⟨את⟩ xogħlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8f3a3f727b66306de3000725ae30f6435a45ebf41cf6fa0a76e548160ab936b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/16\/5-6.1792624032139.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ⟨kien⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "meta sema'"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bagħaxa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "waqaf"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "jibni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ir-Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ir-Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "u ħallas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xogħlu"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "xogħlu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:12.140757167Z",
+  "model": "glm-5.3"
+}

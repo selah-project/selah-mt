@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "elf ġenerazzjoni",
+      "rationale": "għadd simboliku ta' ġenerazzjonijiet għall-patt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lil-patt",
+      "rationale": "il-Lhudi jista' jinqara 'Ftakar għal-dejjem il-patt tiegħu' — זכר bil-prepożizzjoni את ma tidhirx hawnhekk"
+    }
+  ],
+  "translation": "Ftakar għal-dejjem lil-patt tiegħu, il-kelma li kmandaf' għal elf ġenerazzjoni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/5-8.1792617829828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lil-patt tiegħu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "li kmanda"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "għal elf"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ġenerazzjoni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:49.829052413Z",
+  "model": "glm-5.3"
+}

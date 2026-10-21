@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qatel",
+      "rationale": "vajjokk: -daħab\/strike--; bil-Malti -qatel-- fix-xiber tan-narrazzjoni"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir-re",
+      "rationale": "vajamlikħu: -ikkawza li jaħkam--; il-Malti għandu bżonn -ir-re--"
+    }
+  ],
+  "translation": "U ġens l-art qatel lil kull dawk li ntefgħu kontra r-re Amon, u ġens l-art għamel lil Josijah, ibnu, ir-re floku.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "24d7565cf64b5d2e2109029b9d60ef795493d6ecb3391cff7668484714e89971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/21\/21-24.1792610707529.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "qatel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ġens"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull dawk li ntefgħu kontra r-re Amon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koll"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "dawk li ntefgħu kontri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "u għamel... ir-re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ġens"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Josijah"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josijah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "floku"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:07.531531656Z",
+  "model": "glm-5.3"
+}

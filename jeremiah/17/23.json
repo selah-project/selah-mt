@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ħasdetu għonqhom",
+      "rationale": "il-Lhudi jgħid ””they made their neck hard”” — għonq ieħor; il-Malti ””għonq ieħor”” huwa l-istess idjoma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "twissija",
+      "rationale": "מוסר huwa qastiġġ\/twaqqif b'mod li jrid jgħalllem — ””twissija”” tagħti l-ġenb tal-għarfien mhux tal-qastiġġ"
+    },
+    {
+      "kind": "addition",
+      "subject": "Iżda",
+      "rationale": "il-Malti jeħtieġ opposizzjoni; il-ו Lhudija tiftiehem bħala ””u iżda””"
+    }
+  ],
+  "translation": "Iżda ma smgħux, u ma dawlux ⟨את⟩ widnehom, u ħasdetu ⟨את⟩ għonqhom, biex ma jisimgħux u biex ma jieħdux twissija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "138c2f1dc406141943049403a1be0e6ba256184ea735ce08de855332362a967b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/17\/21-24.1792612842951.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "smgħux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "dawlux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widnehom"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "widnehom"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "u ħasdetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għonqhom"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "għonqhom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "jisimgħux"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "u biex ma"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "jieħdux"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "twissija"
+    }
+  ],
+  "timestamp": "2026-10-21T20:00:42.952552397Z",
+  "model": "glm-5.3"
+}

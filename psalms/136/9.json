@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hija⟩",
+      "rationale": "il-Malti jeħtieġ verbi għall-frażi nominali tal-Lhudi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם חסדו",
+      "rationale": "il-refren jirrepeti f'kull vers tas-Salm 136 (26 darba), akrostiku rhetoriku tal-ħesed"
+    }
+  ],
+  "translation": "⟨את⟩ il-qamar u ⟨את⟩ l-istilel bi jmbru bil-lejl, għax għal-dejjem ⟨hija⟩ ħesedu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/136\/9-12.1792618167476.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qamar"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "il-qamar"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "u l-istilel"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "bi jmbru"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ħesedu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:27.476570656Z",
+  "model": "glm-5.3"
+}

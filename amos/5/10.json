@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בשער",
+      "rationale": "'Fil-bieb' — il-bieb tal-belt bħala l-post tal-ġudizzju pubbliku, mhux bieb ta' dar."
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Il-Malti jeħtieġ 'lil' mal-oġġett tal-verb; l-Lhudi m'għandux.Marker ⟨lil⟩ ma jidhirx għax parti mill-kostruzzjoni standard."
+    }
+  ],
+  "translation": "Jobogħdu lil min ireprendi fil-bieb, u jistmarru lil min jitkellem b'qalb sħiħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/5\/9-12.1792615661717.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "jobogħdu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "fil-bieb"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "lil min ireprendi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "u lil min jitkellem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "b'qalb sħiħa"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "jistmarru"
+    }
+  ],
+  "timestamp": "2026-10-21T20:47:41.717884314Z",
+  "model": "glm-5.3"
+}

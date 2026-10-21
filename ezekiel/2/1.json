@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Iben adam",
+      "rationale": "בן אדם litteralment 'iben ta' adam\/umanità', ma tradottux għal 'bniedem' biex jinżamm il-pittura kompożita"
+    },
+    {
+      "kind": "invitation",
+      "subject": "oqgħod fuq saqajk",
+      "rationale": "imperattiv li jsejjjaħ lill-profeta mitbut wiċċu"
+    },
+    {
+      "kind": "elision",
+      "subject": "ma' fajk",
+      "rationale": "l-ebrajk għandu אתך biss, l-ebda prepożizzjoni; il-Malti jeħtieġ 'ma''"
+    }
+  ],
+  "translation": "U qal lili: Iben adam, oqgħod fuq saqajk, u jien nitkellem ma' ⟨את⟩ fajk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/2\/1-4.1792614060702.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "oqgħod"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "saqajk"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "u jien nitkellem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "fajk"
+    }
+  ],
+  "timestamp": "2026-10-21T20:21:00.703357642Z",
+  "model": "glm-5.3"
+}

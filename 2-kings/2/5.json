@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 2:5",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "l-attached pronoun requires the Maltese direct-object particle lil before sidok"
+    },
+    {
+      "kind": "you",
+      "subject": "sons of the prophets to Elisha",
+      "rationale": "direct question addressed to Elisha"
+    }
+  ],
+  "translation": "U qorbu ulied il-profeti li kienu f'Ġeriko lejn Elixa, u qalu lilu: Jafxtu li llum Jaħwe jieħu ⟨את⟩ lil sidok minn fuq rashok? U huwa qal: Jien ukoll naf; ibqu skett.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/2\/5-8.1792610107767.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "qorbu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "il-profeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ביריחו",
+      "gloss": "f'Ġeriko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elixa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "jafxtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "היום",
+      "gloss": "llum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil sidok"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sidok"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "rashok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naf"
+    },
+    {
+      "surface": "החשו",
+      "gloss": "ibqu skett"
+    }
+  ],
+  "timestamp": "2026-10-21T19:15:07.768153539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Imma",
+      "rationale": "כי hawn għandu s-sens ta' 'tagħlaq ma jpixtx kollu' — lanqas 'għax' lanqas 'li' jifhmu biss."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבודה",
+      "rationale": "L-istess kelma 'servizz' darbtejn — is-servizz ta' Jaħwe kontra s-servizz tar-renji: il-paralleliżmu huwa l-punt kollu tal-vers."
+    }
+  ],
+  "translation": "Imma jkunu lsiera għalih, biex ikunu jafu s-servizz tiegħi u s-servizz tar-renji tal-artijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7737da1ed1038ad80d1eaad8df4d1e89ca0acd5d95fa6e1ea61ef3ada5d4a892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/12\/5-8.1792622510392.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imma"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "lsiera"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "biex ikunu jafu"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "is-servizz tiegħi"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "u s-servizz"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tar-renji"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tal-artijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:41:50.393961235Z",
+  "model": "glm-5.3"
+}

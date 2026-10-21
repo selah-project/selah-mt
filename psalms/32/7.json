@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצר\/תצרני",
+      "rationale": "Ġejja mill-istess għerq צר: mill-angusta tikkonservani — il-logħba tal-ħsejjes titlef bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "רני פלט",
+      "rationale": "Singular qawwi 'għajta ta' ħelsien' (bħal YLT 'shout') kontra plural tradizzjonali 'songs of deliverance'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Istruzzjoni mużikali fil-Lhudi, miżjuma bħala kelma waħedha"
+    }
+  ],
+  "translation": "Inti ⟨hu⟩ kenn għalija; mill-inkwitu tgħassesni; bil-għajtiet ta' ħelsien tdawwarni. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9552c2ba84b009521dbae9444c318d0ee747e435e9767f5d7ac163f041ac0650",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/32\/7-8.1792623823359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Inti"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mill-inkwitu"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "tgħassesni"
+    },
+    {
+      "surface": "רני",
+      "gloss": "bil-għajtiet"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ta' ħelsien"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "tdawwarni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:43.361260510Z",
+  "model": "glm-5.3"
+}

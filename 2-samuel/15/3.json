@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אין לך ושמע",
+      "rationale": "litteralment 'ma hemmx smiegħ għalik' — sostantiv ושמע mhux verbu, bil-Malti sar verbu"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת המלך",
+      "rationale": "'mingħand ir-re' (m\/854) kontra r-renderings qadima 'ma hemm min ġie maħtur mir-re' (KJV)"
+    }
+  ],
+  "translation": "U Avxalom jgħid lilu: Ara, il-kliem tiegħek huma tajbin u dritti, iżda m'hemmx min jisma' mingħand ⟨את⟩ ir-re.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/15\/1-4.1792608863366.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U jgħid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avxalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "il-kliem tiegħek"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "huma tajbin"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "u dritti"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "min jisma'"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mingħand ⟨את⟩",
+      "marks": "ir-re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    }
+  ],
+  "timestamp": "2026-10-21T18:54:23.367810875Z",
+  "model": "glm-5.3"
+}

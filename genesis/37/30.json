@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil ħutu",
+      "rationale": "Ruben jitkellem mal-ħuta direttament; mistoqsija retorika ta' dispjaċir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sejrier jien",
+      "rationale": "il-Malti jwaħħal l-istruttura 'vibtiv + pronom'; 'fejn semmut jien?' huwa statik, il-Lhudi ואני אנה אני בא għandu moviment futuru."
+    }
+  ],
+  "translation": "U reġa' lura għand ħutu, u qal: It-tifel mhuwiex, u jien, fejn sejjer jien?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/37\/29-32.1792598766721.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "reġa' lura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħutu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mhuwiex"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sejjer"
+    }
+  ],
+  "timestamp": "2026-10-21T16:06:06.721674115Z",
+  "model": "glm-5.3"
+}

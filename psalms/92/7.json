@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maħbub",
+      "rationale": "בער kelma mill-bhejjem — ta' ragħaj bla għerf; il-Malti jżomm it-tifsira ta' 'bniedem bħall-bhejjem'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "זאת",
+      "rationale": "'dan' jirreferi għal-ħsibijiet fondi ta' Jaħwe — affarijiet moħbija li l-għaqlib ma jilħquhomx"
+    },
+    {
+      "kind": "secret",
+      "subject": "מחשבותיך",
+      "rationale": "l-għarfien moħbi ta' Alla — biss lill-għorrif jingħata, mhux lill-maħbubin u lill-ikħal"
+    }
+  ],
+  "translation": "Raġel maħbub ma jaf; u lill-ikħal ma jifhemx ⟨את⟩ dan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/92\/5-8.1792617725885.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Raġel"
+    },
+    {
+      "surface": "בער",
+      "gloss": "maħbub"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "u lill-ikħal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "jifhem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:05.886662038Z",
+  "model": "glm-5.3"
+}

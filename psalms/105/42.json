@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-Malti jeħtieġ lil quddiem isem persuna bħala oġġett dirett"
+    }
+  ],
+  "translation": "Għax ftakar ⟨את⟩ il-kelma qaddisa tiegħu, ⟨lil⟩ ⟨את⟩ Avraham il-qaddej tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/41-44.1792617864073.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ftakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kelma qaddisa tiegħu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qaddisa tiegħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham il-qaddej tiegħu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "il-qaddej tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:24.074602625Z",
+  "model": "glm-5.3"
+}

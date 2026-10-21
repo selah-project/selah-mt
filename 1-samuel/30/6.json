@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 30:6",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija nifs \/ ħajja, mhux 'ruħ' fil-ħsieb ta' wara"
+    },
+    {
+      "kind": "elision",
+      "subject": "l-ġebel",
+      "rationale": "לסקלו bil-Lhudi jgħid 'biex isaqqalh'; il-ġebel miftiehem mill-verb stess"
+    }
+  ],
+  "translation": "U David kien f'diqa kbira ħafna, għax il-poplu qal biex isaqqluh bil-ġebel; għax imratt in-nifs tal-poplu kollu, raġel fuq binu u fuq bnietu. U David tqawwa f'Jaħwe, Elohim tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/30\/5-8.1792608444531.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצר",
+      "gloss": "kien f'diqa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "qal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "לסקלו",
+      "gloss": "biex isaqqluh bil-ġebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "imratt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "in-nifs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "binu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "bnietu"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "u tqawwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "f'Jaħwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:47:24.532214385Z",
+  "model": "glm-5.3"
+}

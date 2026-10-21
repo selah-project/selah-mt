@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Għad hemm...?",
+      "rationale": "KjV\/ASV jaqraw bħala mistoqsija; BSB jaqra 'Nista' ninseb?' — l-għerq זכה b'עוֹד jista' jkun ukoll 'għadu' jew 'ninsa'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa",
+      "rationale": "איפה hija mizra tal-qamħ — miżura miżmuma skont il-ħoss Lhudi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "rqiqża",
+      "rationale": "רזון (rqiqża, 'mżehżaq') jidher hawn biss fit-Tanakh."
+    }
+  ],
+  "translation": "Għad hemm fit-treżor tad-dar tal-ħażin, il-ħażen tal-ħażin, u l-efa rqiqża msemmgħa?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c2e0e0e83e0ae5f1afc50289c919bc63d68c53b8dea7aded381db3bca15e7f4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/6\/10-11.1792623743574.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Għad"
+    },
+    {
+      "surface": "האש",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tal-ħażin"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "it-teżori"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tal-ħażin"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "u l-efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "rqiqża"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "msemmgħa"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:23.574487796Z",
+  "model": "glm-5.3"
+}

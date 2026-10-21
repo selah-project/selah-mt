@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm min",
+      "rationale": "il-Malti jeħtieġ bini ta' sentenza fejn il-Lhudi għandu biss יש partiċipju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתעשר\/מתרושש",
+      "rationale": "żewġ partċipji riflessivi paraguni ma' xulxin — għani kontra fqir — ritmu li jibqa' fil-Malti b'ruħu"
+    }
+  ],
+  "translation": "Hemm min jagħmel ruħu għani u m'għandu ⟨xejn⟩; hemm min jagħmel ruħu fqir u għandu ġid kbir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/5-8.1792618579284.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "min jagħmel ruħu għani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'għandu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨xejn⟩"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "min jagħmel ruħu fqir"
+    },
+    {
+      "surface": "והון",
+      "gloss": "u għandu ġid"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kbir"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:19.285042783Z",
+  "model": "glm-5.3"
+}

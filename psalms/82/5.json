@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בחשכה",
+      "rationale": "Il-he locale Maltija ma għandhiex ekwivalenti; 'fid-dlamu' tgħatti l-moviment ta' ġewwa."
+    }
+  ],
+  "translation": "Ma jafu u ma jifhmu; fid-dlamu jimxu; jitremxu l-pedamenti kollha tal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/82\/5-8.1792617554237.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "jifhmu"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "fid-dlamu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "jimxu"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "jitremxu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "l-pedamenti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:14.238277521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mimlija idejh",
+      "rationale": "מלא את ידו — idjoma għal konsagrazzjoni, litteralment 'imlieh idejh'"
+    },
+    {
+      "kind": "elision",
+      "subject": "l-ingħata",
+      "rationale": "is-suġġett ta' ימשח ma jinkitibx fit-test; qarrej jaħseb Elohim jew Moxe"
+    }
+  ],
+  "translation": "U l-qassis li jingħata bżieżaq u li tkun mimlija ⟨את⟩ idejh biex jqassis flok missieru, jagħmel it-tkapri u jilbes ⟨את⟩ l-ħwejjeġ tal-ktien — l-ħwejjeġ tal-qdusija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/29-32.1792600983209.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "u jagħmel it-tkapri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "jingħata bżieżaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "u li"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "tkun mimlija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idejh"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "idejh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "biex jqassis"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "flok"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "missieru"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "u jilbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ħwejjeġ tal-ktien"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "l-ħwejjeġ"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "tal-ktien"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "l-ħwejjeġ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tal-qdusija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:43:03.210923329Z",
+  "model": "glm-5.3"
+}

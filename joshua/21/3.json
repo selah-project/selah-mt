@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "skont il-kelma ta' Jaħwe",
+      "rationale": "אל פי יהוה litteralment 'skond il-ħalq ta' Jaħwe'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-kelma",
+      "rationale": "il-Malti jeħtieġ 'kelma' ma' פה (ħalq) fl-idiom"
+    }
+  ],
+  "translation": "U taw wlied Jisrael lill-Lewiti mill-wirt tagħhom, skont il-kelma ta' Jaħwe, ⟨את⟩ dawn il-bliet ⟨את⟩ u l-mergha tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "92a69add1cb4fa7f36ff9e3f0a1f650f50705e020048a428c01b7fd45e2b195d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/21\/1-4.1792606797840.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "u taw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "lill-Lewiti"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "mill-wirt tagħhom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "skont"
+    },
+    {
+      "surface": "פי",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-bliet"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dawn il-bliet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-mergha tagħhom"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "u l-mergha tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:19:57.841613467Z",
+  "model": "glm-5.3"
+}

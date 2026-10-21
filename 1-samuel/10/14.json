@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ziju",
+      "rationale": "דוד normalment 'ħabib\/ħabib tas-sentenja', imma hawn fis-sens ta' 'ħu missier' (ziju) — morfoloġija tal-kostrutt"
+    },
+    {
+      "kind": "elision",
+      "subject": "אין",
+      "rationale": "l-eżistenza negattiva absoluta 'hemm le' rrenduta b'verbu Malti 'ma nsibuhomx' għax il-Malti jeħtieġ verb"
+    },
+    {
+      "kind": "you",
+      "subject": "mistjarr lejn Xaul u qaddejh",
+      "rationale": "mistoqsja diretta mill-ziju: 'Fejn mortu?'"
+    }
+  ],
+  "translation": "U ziju ta' Xaul qalu lilu u lil qaddejju: Fejn mortu? U qal: Biex infittxu ⟨את⟩ l-ħmiriet, u rajna li ma nsibuhomx, u ġejna għand Samwel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/10\/13-16.1792607797442.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ziju"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ta' Xaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "qaddejju"
+    },
+    {
+      "surface": "אן",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "mortu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "biex infittxu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ħmiriet"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "l-ħmiriet"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "u rajna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma nsibuhomx"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "u ġejna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:37.443235251Z",
+  "model": "glm-5.3"
+}

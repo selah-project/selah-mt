@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "il-Lhudi m'għandux artiklu fuq 'lejl'; il-Malti jehtiegħu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sultan",
+      "rationale": "מלכא (Aramajk) — 'sultan' biex jibqa' fil-ġeneru tan-narrazzjoni Maltija tal-Lvant"
+    }
+  ],
+  "translation": "F'dik il-lejl nqatel Belshatsar, is-sultan tal-Kaldej.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "110ea4dcbde72ebc08ce3487c0598190aa7bc1a4a0132feec0a95a4732d1d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/5\/29-30.1792620679143.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "f'dik"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "nqatel"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "tal-Kaldej"
+    }
+  ],
+  "timestamp": "2026-10-21T22:11:19.144074108Z",
+  "model": "glm-5.3"
+}

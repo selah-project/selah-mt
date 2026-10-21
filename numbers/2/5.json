@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasi",
+      "rationale": "נשיא huwa 'l-elevat, il-kbir tal-tribù; nasi jżomm il-forma mhux 'prinċep' jew 'kaptan'"
+    },
+    {
+      "kind": "addition",
+      "subject": "it-",
+      "rationale": "Artiklu Malti miżjud għal 'tribù', li l-Lhudi m'għandux hawn"
+    }
+  ],
+  "translation": "Dawk li jikkampaw miegħu: it-tribù ta' Jissaħkar, u n-nasi tal-iben ta' Jissaħkar, Netanel ben Tswar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5c8ef20b7aab85768818fdc0f9de7f879c082f23492656f5c0291ed5ac0eb6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/2\/5-8.1792602328757.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "dawk li jikkampaw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "it-tribù ta'"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaħkar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "u n-nasi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tal-iben ta'"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaħkar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tswar"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:28.757983122Z",
+  "model": "glm-5.3"
+}

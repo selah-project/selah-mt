@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אי כבוד \/ גלה כבוד",
+      "rationale": "l-isem I-Kabod (fejn il-kburija) huwa l-istess kliem tat-tħabbira: l-isem huwa s-sentenza nnifisha"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-mewt ta'",
+      "rationale": "l-Lhudi jgħid biss 'għal ħamha u raġelha' — bil-verbu tal-qbid applikat għalihom ukoll"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħarbet",
+      "rationale": "גלה tfisser tinxef t'intbagħat fl-eżilju; 'ħarbet' żżomm il-ħoss tal-kasċata"
+    }
+  ],
+  "translation": "U sejħet lis-sabi I-Kabod, biex tgħid: Ħarbet il-kburija minn Jisrael — għax inħaħad it-tabut ta' Elohim, u għal ⟨il-mewt ta'⟩ ħamha u raġelha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/4\/21-22.1792607603817.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "u sejħet"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "lis-sabi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "I-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kabod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex tgħid"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Ħarbet"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-kburija"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "minn Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "inħaħad"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "it-tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u għal"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "ħamha"
+    },
+    {
+      "surface": "וישה",
+      "gloss": "raġelha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:23.818148009Z",
+  "model": "glm-5.3"
+}

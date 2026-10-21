@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Hu⟩",
+      "rationale": "il-partiċipja Lhudija bla suġġett; il-Malti jeħtieġ suġġett"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "ħesed ma jinqalgħax għal kelma waħda; inżamm il-kelma qrib tal-Lhudi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tsedaqa \/ ġudizzju",
+      "rationale": "żewġ kliem paralleli għerqhom differenti, il-paralleliżmu mejjet ftit fit-traduzzjoni"
+    }
+  ],
+  "translation": "⟨Hu⟩ iħobb it-tsedaqa u l-ġudizzju; bil-ħesed ta' Jaħwe mimlija l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/33\/5-8.1792616819463.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "iħobb"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedaqa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "u ġudizzju"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mimlija"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:59.464445068Z",
+  "model": "glm-5.3"
+}

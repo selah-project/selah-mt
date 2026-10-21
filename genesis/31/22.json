@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ġie mgharraf",
+      "rationale": "Hebrew passive 'it was told' expanded with auxiliary 'ġie' in Maltese"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fit-tielet jum",
+      "rationale": "counting of days — three days' head start before Laban learned of the flight"
+    }
+  ],
+  "translation": "U ġie mgharraf lil Laban fit-tielet jum li ħarab Jagħaqov.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2563c0468bcb8f61be021f965948fba2d004a6d214c6cab9a4baae5471a5edf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/21-24.1792598535331.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "u ġie mgharraf"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "lil Laban"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fit-tielet"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "jum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ħarab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:15.332654798Z",
+  "model": "glm-5.3"
+}

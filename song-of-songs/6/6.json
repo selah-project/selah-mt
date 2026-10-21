@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 6:6",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ושכלה",
+      "rationale": "litteralment 'waħda tellifa\/mintha' (bla wild); ridutt bħala 'nieqsa'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מתאימות",
+      "rationale": "'jwieldu t-tewmin' (kjv) anti l-qari sempliċi 'par\/twinnat'"
+    }
+  ],
+  "translation": "Snienek bħal merħla nagħaġ li telgħu mill-ħasil; kollha kemm huma par, u m'hemm l-ebda waħda nieqsa fosthom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/6\/5-8.1792619929693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "Snienek"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "bħal merħla"
+    },
+    {
+      "surface": "הרחלים",
+      "gloss": "nagħaġ"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "li telgħu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "ħasil"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "kollha kemm huma"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "par"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "waħda nieqsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemm l-ebda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fosthom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:49.694324122Z",
+  "model": "glm-5.3"
+}

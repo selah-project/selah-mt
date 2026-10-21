@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לפי",
+      "rationale": "litteralment 'fom' — 'fom il-ħarba', l-ebda 'raħal' m'huwa fil-Lhudi; tlugħ bit-traduzzjoni 'bil-ħarba'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għeleb",
+      "rationale": "ויחלש litteralment 'dgħajfu\/radam' — mhux 'għeleb', imma r-raġel jagħti sens; 'dgħjef' hu t-tieni qari."
+    }
+  ],
+  "translation": "U Jixwa għeleb ⟨את⟩ lil Amalek u ⟨את⟩ lil niesu bil-ħarba.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/17\/13-16.1792599611089.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "għeleb"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jixwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil niesu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niesu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "b'"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ħarba"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:11.090424537Z",
+  "model": "glm-5.3"
+}

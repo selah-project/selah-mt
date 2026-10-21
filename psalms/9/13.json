@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרש דמים",
+      "rationale": "'min ifittex id-demm' (KJV\/jps) vs 'tal-avvanzatur tad-demm' — verbal vs nominal reading"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ħerba",
+      "rationale": "צעקת hija s-silta ta' bewsa jew għajta; 'ħerba' talbid anqas fis-semantika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרש\/זכר\/שכח",
+      "rationale": "żewġ verbi opposti זכר–שכח infissrew b'žgħir Malti ftakar–nsa"
+    }
+  ],
+  "translation": "Għax min ifittex id-demm ftakar fihom; mainsiex il-ħerba tal-foqra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/13-16.1792616530463.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ifittex"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ihom"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ftakar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "il-ħerba"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "tal-foqra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:10.463908631Z",
+  "model": "glm-5.3"
+}

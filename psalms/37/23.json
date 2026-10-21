@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨lu⟩",
+      "rationale": "Soggettu miżjud għax il-Lhudi ma jgħidx min jittant it-triq."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחפץ",
+      "rationale": "Min jittant it-triq — ir-raġel (YLT) jew Jaħwe (KJV\/JPS); jien ghadijt mar-raġel skond is-sintassi."
+    }
+  ],
+  "translation": "Minn Jaħwe l-passi ta' raġel tistabbilixxu, u triqtu jogħġob ⟨lu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/21-24.1792616930910.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Minn Jaħwe"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "l-passi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ta' raġel"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "tistabbilixxu"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "u triqtu"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "jogħġob"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:50.910927314Z",
+  "model": "glm-5.3"
+}

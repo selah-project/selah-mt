@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "taħt dĠunnabu",
+      "rationale": "idjoma ta' paċi u sigurtà domestika, miġjuba letteralment"
+    },
+    {
+      "kind": "addition",
+      "subject": "kull wieħed",
+      "rationale": "איש waħdu mhux biċċa 'kull', iżda l-plural וישבu jeħtieġ it-tqassim"
+    }
+  ],
+  "translation": "U joqogħdu kull wieħed taħt dĠunnabu u taħt s-siġra tal-fjiegħ tiegħu, u m'hemm min jagħddiħ; għax fomm Jaħwe Tsebawot tkellmet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47d9ed81c349e38b97ffa609194a20bf951047ae1d8b1b348f9f8cbf7265a50e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/4\/1-4.1792615959423.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "u joqogħdu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "dĠunnabu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "u taħt"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "is-siġra tal-fjiegħ tiegħu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemm"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "min jagħddiħ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fomm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tkellmet"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:39.424756056Z",
+  "model": "glm-5.3"
+}

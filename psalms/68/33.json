@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "sospensjoni tal-mużika, miżżuma bħala kelma fil-Lhudi, mhux tradotta"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨għal⟩",
+      "rationale": "il-Lhudi jgħid 'daqqu Adonaj' bla prepożizzjoni"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is-slaten tal-art",
+      "rationale": "imperattivi kantaw\/daqqu jsejħu lis-slaten tal-art"
+    }
+  ],
+  "translation": "Is-slaten tal-art, kantaw lil Elohim; daqqu ⟨għal⟩ Adonaj. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/68\/33-36.1792617310008.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "is-slaten"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kantaw"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lil Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "daqqu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:10.008792508Z",
+  "model": "glm-5.3"
+}

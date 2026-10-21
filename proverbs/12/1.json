@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħemmen",
+      "rationale": "בער literally 'beast-like, brutish' — cattle-brutishness; 'ħemmen' (imbecille) jiżomm l-insult iż-żooloġiku jaqwiex"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jps",
+      "rationale": "il-JPS iqalleb l-aħħar żewġ frażijiet ('the brutish hateth reproof'); il-MT jippreferi l-ordni ta' kulħadd"
+    }
+  ],
+  "translation": "Min iħobb il-korrezzjoni jħobb il-għarfien, u min jobgħod ir-reprimanda huwa ħemmen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/12\/1-4.1792618633877.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "iħobb"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "il-korrezzjoni"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jħobb"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "il-għarfien"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "u jobgħod"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ir-reprimanda"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ħemmen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:13.877553551Z",
+  "model": "glm-5.3"
+}

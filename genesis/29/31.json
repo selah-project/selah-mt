@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "il-Malti jeħtieġ il-kopula li l-Lhudi jħalli barra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miżgħuda",
+      "rationale": "שנואה għadha sempliċement 'miżgħuda' jew 'mhux maħbuba', mhux 'dispisuta' bir-rixk"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bla tfal",
+      "rationale": "עקרה litteralment 'sterili, maqtugħa (fil-ġenerazzjoni)'"
+    }
+  ],
+  "translation": "U Jaħwe ra li Lea kienet miżgħuda, u fetħa ⟨את⟩ ġoħha; u Raħel kienet bla tfal.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ef7e25ea597185ca90d50ee788b6b9826ece73887f2354f10974dc15ef063eec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/29\/29-32.1792598447535.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "miżgħuda"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "u fetħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ġoħha"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ġoħha"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "u Raħel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "bla tfal"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:47.536044774Z",
+  "model": "glm-5.3"
+}

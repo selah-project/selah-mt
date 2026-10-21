@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta' ħadid",
+      "rationale": "il-kolla (שריון) m'għandux il-materjal fit-test; miżjud biex jifhem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "narħ",
+      "rationale": "נחשת huwa r-ramm\/in-narħ, mhux il-bronż b'mod speċifiku"
+    }
+  ],
+  "translation": "U Saul libbes lil David bil-ħwejjeġ tiegħu, u poġġa elmu ta' narħ fuq rasu, u libbes ⟨את⟩ lilu b'kolla ta' ħadid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91409f6713b3f633e1cdce9609014cda832ee4d807e53961cee60bc9545922a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/37-40.1792608088871.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "u libbes"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "bil-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "u poġġa"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "elmu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "narħ"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rasu"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "u libbes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kolla ta' ħadid"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "kolla ta' ħadid"
+    }
+  ],
+  "timestamp": "2026-10-21T18:41:28.872922283Z",
+  "model": "glm-5.3"
+}

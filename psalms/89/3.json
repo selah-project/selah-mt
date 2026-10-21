@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fis-smewwiet",
+      "rationale": "Hebrew preposition בהם 'in them' points back to שמים; Maltese folds it into the preposition"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד\/אמונה",
+      "rationale": "The pair ħesed–emuna from v.2 returns in v.3 as its echo: the psalm's key doublet"
+    }
+  ],
+  "translation": "Għax għidt: il-ħesed għal dejjem jinbena; fis-smewwiet tissalvaħ ⟨l-emuna⟩ tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/1-4.1792617665557.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "il-ħesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "jinbena"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "fis-smewwiet"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "tissalvaħ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "l-emuna tiegħek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨fihom⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:05.558393073Z",
+  "model": "glm-5.3"
+}

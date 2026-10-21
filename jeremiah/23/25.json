@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלמתי חלמתי",
+      "rationale": "Ripetizzjoni ta' 'ħolmt, ħolmt' — il-burdil imżejżaq tal-profeti falzi, miżmum bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sheqer",
+      "rationale": "שקר hawn plural 'ġibtiet' mhux singular"
+    }
+  ],
+  "translation": "Smagħt ⟨את⟩ dak li qalu l-profeti, il-profeti li jipprofetizzaw bil-ġibtiet f'isemija, jgħidu: Ħolmt, ħolmt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b0d38816f73541ba2fe3edca95d34aee2385b7db7e6dfef41d1856503e9ce78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/23\/25-28.1792612981470.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Smagħt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li qalu l-profeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "l-profeti"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "jipprofetizzaw"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "f'isemija"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bil-ġibtiet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Ħolmt"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ħolmt"
+    }
+  ],
+  "timestamp": "2026-10-21T20:03:01.471302759Z",
+  "model": "glm-5.3"
+}

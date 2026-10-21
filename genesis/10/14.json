@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משם",
+      "rationale": "Antecedent ambiguous: 'out of whom (Casluhim)' vs 'from there (Caphtor)' — Amos 9:7 and Jer 47:4 link the Philistines to Caphtor."
+    }
+  ],
+  "translation": "u ⟨את⟩ lil- Patrusim, u ⟨את⟩ lil- Kasluħim — minn hemm ħarġu l- Filistim — u ⟨את⟩ lil- Kaftorim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/10\/13-16.1792597881099.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil- Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil- Kasluħim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluħim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ħarġu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "l- Filistim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil- Kaftorim"
+    },
+    {
+      "surface": "כפתורים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:21.099811010Z",
+  "model": "glm-5.3"
+}

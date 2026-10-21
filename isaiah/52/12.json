@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומאספכם",
+      "rationale": "'min iġborkom (warajkom)' kontra KJV 'rereward' — l-għerq אסף jiġbor, allura ġabra ta' wara bħala gwardja ta' wara"
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": " Kopula miżjuda għax il-Lhudi ma għandux"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim ta' Jisrael",
+      "rationale": "l-istess Èl li jmiexi quddiem u jġbor ta' wara — embraccatura ta' l-eżodu u l-eżilju"
+    }
+  ],
+  "translation": "Għax mhux bil-għaġla toħorġu, u bil-ħarba mhux se timxu, għax min jimxi quddiemkom huwa Jaħwe, u min iġborkom warajkom huwa Elohim ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/52\/9-12.1792612027186.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "bil-għaġla"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "toħorġu"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "u bil-ħarba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "se timxu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "min jimxi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "quddiemkom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "huwa Jaħwe"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "u min iġborkom warajkom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "huwa Elohim ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:47:07.188055573Z",
+  "model": "glm-5.3"
+}

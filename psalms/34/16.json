@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Il-Lhudi ma għandux verb; il-Malti jaċċetta frażi nominali bla kopula hawn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "għajnejn\/widnejn jiġu parallel ma' il-ġusti\/l-ħajt tagħhom — struttura tal-poeżija Lhudija"
+    }
+  ],
+  "translation": "Għajnejn Jaħwe lejn il-ġusti, u widnejh lejn il-ħajt tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/34\/13-16.1792616905284.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "għajnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "il-ġusti"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "u widnejh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "l-ħajt tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:25.285270029Z",
+  "model": "glm-5.3"
+}

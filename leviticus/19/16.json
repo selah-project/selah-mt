@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fuq id-demm",
+      "rationale": "עמד על דם: 'toqgħod bla ma tagħmel xejn fuq id-demm ta' ħabibek' (JPS) kontra 'toqgħod kontra d-demm' bħala xhud ma jgħidx (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ta' semmiem",
+      "rationale": "רכיל huwa min imur u jiġbor kliem minn dar għal dar — literalment 'il-mixi ta' l-istejjer'."
+    }
+  ],
+  "translation": "Ma timxix ta' semmiem fost niesek; ma tqumx fuq id-demm ta' ħabibek: jien Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/13-16.1792601057186.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ma timxix"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ta' semmiem (il-għawwid ta' kliem)"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "fost niesek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ma tqumx"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "דם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ta' ħabibek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:17.187939979Z",
+  "model": "glm-5.3"
+}

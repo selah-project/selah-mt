@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Elohim",
+      "rationale": "appell dirett lil Elohim b'seconda persuna (ħriġt, niesek, mxejt)"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "is-sinjal mużikali סלה jinżamm bħala maħsub, mhux tradott"
+    }
+  ],
+  "translation": "Elohim, meta ħriġt quddiem niesek, meta mxejt fid-deżert — Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/68\/5-8.1792617291163.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "meta ħriġt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "niesek"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "meta mxejt"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:51.164954401Z",
+  "model": "glm-5.3"
+}

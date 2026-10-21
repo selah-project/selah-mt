@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבבים",
+      "rationale": "'fragments' as present state (it is nothing but shards) vs future 'shall be broken to pieces' (KJV\/ASV); hapax-level rare word שָׁבָב."
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Copula supplied: Hebrew reads 'ki mi-Jisrael hu' with the predicate left as fronting."
+    }
+  ],
+  "translation": "Għax minn Jisrael hu, u ħaddiem għamlu; u mhux Elohim hu; għax biċċiet imfarrka jkun, għoġol Xomron.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/5-8.1792615465822.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "minn Jisrael"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ħaddiem"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "biċċiet imfarrka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "għoġol"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Xomron"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:25.823378502Z",
+  "model": "glm-5.3"
+}

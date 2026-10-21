@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וְהָרִיחוֹ",
+      "rationale": "'jħoss ir-riħa \/ jitgawdi fil-biża' ta' Jaħwe' kontra KJV 'quick understanding' — verb tar-riħ, mhux gradevl"
+    },
+    {
+      "kind": "addition",
+      "subject": "twil",
+      "rationale": "il-pronome possessiv Malti miżjud; il-Lhudi juża suffiss (עיניו, אזניו) u l-awtur tal-vers mhux msemmi"
+    }
+  ],
+  "translation": "U jħoss il-riħa tal-biża' ta' Jaħwe; u mhux għal dak li jaraw għajnejn twil jagħmel ġudizzju, u mhux għal dak li jisimgħu widnejn twil jikkundanna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/11\/1-4.1792611204641.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "u jħoss ir-riħa"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "tal-biża'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "għal dak li jaraw"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "għajnejn twil"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "jagħmel ġudizzju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "għal dak li jisimgħu"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "widnejn twil"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "jikkundanna"
+    }
+  ],
+  "timestamp": "2026-10-21T19:33:24.642954838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אודך",
+      "rationale": "għerq ידה = jixħet, 'jixħet il-ħajr'; 'nirringrazzjawk' tfisser lit."
+    }
+  ],
+  "translation": "Nirringrazzjawk fi ġemġa kbira; fost poplu numeruż nfaħħrek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "02a2d0a3cdd460fad39b0196f7b360fb97b7df79ae8328fd55229978a3e3133d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/17-20.1792616978591.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "nirringrazzjawk"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "fi ġemġa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "fost poplu"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "numeruż"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "nfaħħrek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:38.592088281Z",
+  "model": "glm-5.3"
+}

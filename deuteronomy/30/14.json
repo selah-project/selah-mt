@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "L-Ebrajk ma għandux kopula; il-Malti iżid 'hija'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבב",
+      "rationale": "lēv qalb — 'qalb' bil-Malti tgħatti kemm il-ġisem kemm is-sede tal-ħsieb"
+    }
+  ],
+  "translation": "Għax il-kelma hija qribek ħafna, f'ħalqek u f'qalbek, biex tagħmluha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/13-16.1792606010740.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "qribek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lejk"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "f'ħalqek"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "u f'qalbek"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "biex tagħmluha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:06:50.741538147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fl-aħħar tas-smewwiet",
+      "rationale": "קצה = 'estremità', u שמים duwedali — 'l-estrem tat-tnejn tas-sema'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדחך",
+      "rationale": "singolari kollettiv 'l-eżiljat tiegħek' (YL) kontra KJV\/JPS 'wieħed minn miegħek mċaħħad'"
+    }
+  ],
+  "translation": "Jekk l-eżiljat tiegħek ikun fl-aħħar tas-smewwiet, minn hemm jiġbark Jaħwe, l-Elohim tiegħek, u minn hemm jieħdok;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f4fa5485448be3f6c4a23bee0c8bdaf45de84f7449d91d37ab125883014f80a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/1-4.1792606042317.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ikun"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "l-eżiljat tiegħek"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "fl-aħħar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-smewwiet"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "jiġbark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-Elohim tiegħek"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "u minn hemm"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "jieħdok"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:22.318297719Z",
+  "model": "glm-5.3"
+}

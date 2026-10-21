@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "iċ-ċerv",
+      "rationale": "האייל mmarkat b'seġġa twila (אַיָּל) = ċerv, mhux אַיִל (muntun); l-istess konsonanti, kliem differenti"
+    },
+    {
+      "kind": "addition",
+      "subject": "-h",
+      "rationale": "il-pronom suffiss fl-imgħayra Maltija jehmeż ma' 'jiekluh' għax l-oġġett bil-ktieb Malti jrid pronom"
+    }
+  ],
+  "translation": "Biss, kif jittiekol ⟨את⟩ il-kavriol u ⟨את⟩ iċ-ċerv, hekk tieklu; l-impuru u l-puru flimkien jiekluh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/12\/21-24.1792605598162.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "biss"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jittiekol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kavriol"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "il-kavriol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iċ-ċerv"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "iċ-ċerv"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "tieklu"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "l-impuru"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "u l-puru"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "jiekluh"
+    }
+  ],
+  "timestamp": "2026-10-21T17:59:58.163822631Z",
+  "model": "glm-5.3"
+}

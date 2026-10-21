@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Direct address to Jaħwe at the head of the verse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jithena",
+      "rationale": "גיל literally 'to spin round' with joy; rendered with a Maltese verb of exultant rejoicing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמח\/יגיל",
+      "rationale": "Two near-synonymous verbs of joy in parallel; the intensification is kept by pairing jifraħ\/jithena"
+    }
+  ],
+  "translation": "Jaħwe, fil-ħila tiegħek jifraħ is-sultan, u fis-salvazzjoni tiegħek kemm jithena!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/21\/1-4.1792616756290.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "fil-ħila tiegħek"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "jifraħ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "u fis-salvazzjoni tiegħek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "jithena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:56.291498928Z",
+  "model": "glm-5.3"
+}

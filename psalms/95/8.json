@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-poplu",
+      "rationale": "imperattiv negattiv indirizzat direttament lill-qeddejja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Meriba\/Massa",
+      "rationale": "isem il-post jilgħab ma' מריבה (Ġlid) u מסה (Ġarrib) — Eżodu 17:7"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדבר",
+      "rationale": "'niżla' kontra 'deżert' — il-kelma tfisser art miftuħa għar-ragħi, mhux bil-ħaġa deżert"
+    }
+  ],
+  "translation": "Tiexħux qalbkom bħal f'Meriba, bħal jum Massa fin-niżla",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/95\/5-8.1792617751903.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "tiexħux"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "tiexħux"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbkom"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "bħal f'Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bħal jum"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fin-niżla"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:31.903984925Z",
+  "model": "glm-5.3"
+}

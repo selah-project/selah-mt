@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Maltese requires copula; Hebrew has none in וזה אשר"
+    },
+    {
+      "kind": "measurement",
+      "subject": "żewġ kuljum",
+      "rationale": "fixed daily count of two yearling lambs"
+    }
+  ],
+  "translation": "U dan huwa li tagħmel fuq l-artal: ħaruf waħda ta' sentejn, żewġ kuljum, dejjem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "8f2ade9cc84d5d849a73c1eeb78a2ab0c7a4c20d363915170559baaff15ec461",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/37-40.1792600017352.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ħaruf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sentejn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T16:26:57.353240856Z",
+  "model": "glm-5.3"
+}

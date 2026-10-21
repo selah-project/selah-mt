@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותבא העיר במצור",
+      "rationale": "Lit. 'the city came into siege' — bil-Malti 'daħlet fl-assiġġ', mhux passiv 'kienet assedjata'."
+    }
+  ],
+  "translation": "F'dak iż-żmien telgħu l-qaddejja ta' Nebukadnessar, sultan Babilon, kontra Jeruxalajim, u l-belt daħlet fl-assiġġ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3ad16510bc1d15d94d1d5e5aeafc43e2bbbdb70e03cd8d2fbd51ade10da27b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/24\/9-12.1792610712214.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "f'dak iż-żmien"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "telgħu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "l-qaddejja"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "u daħlet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "fl-assiġġ"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:12.215129842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sa nifsi",
+      "rationale": "עד נפש mhux 'ruħ' flimkien ma' KJV; il-ħolqien jgħaddi fl-ilmien 'sa jiena għajed u ma niflaħx', l-ewwel tifsira ta' נפש hija ħalq\/nifs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני \/ יסבבני",
+      "rationale": "żewġ verbi kważi sinonimi għal 'dawwar' — ċirku retoriku li jghawweg lill-qarrej bħalma l-ilmien għawwgu lil Ġona"
+    }
+  ],
+  "translation": "L-ilmien għarxuni sa ⟨nifsi⟩; it-teħom dawruni; il-ħaxix tal-baħar kien imrabbat ma' rasi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/2\/5-8.1792615780885.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "għarxuni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "L-ilmien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨nifsi⟩"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "it-teħom"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "dawruni"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "il-ħaxix tal-baħar"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "imrabbat"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ma' rasi"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:40.885950312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי הדבר",
+      "rationale": "lit. 'fuq fomm il-kelma', rrendered 'skont il-kliem' — l-idiom tas-serħan il-ħsieb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "toqgħod toħroġ",
+      "rationale": "ושמרת לעשות lit. 'twettaq biex tagħmel', il-Malti juża l-kostruzzjoni 'toqgħod toħroġ' għall-awtorità"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Israel",
+      "rationale": "sensi imperattiv dirett lejn Israel b'sekond persuna singular"
+    }
+  ],
+  "translation": "U tagħmel skont il-kliem li jiddikjarawlek, minn dak il-post li jagħżel Jaħwe, u toqgħod toħroġ biex tagħmel skont kollx li jitgħallemuk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b1ded04132e8a95a4d48ca205128ebc9579a668b688ff4829cd1001956e15cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/17\/9-12.1792605721940.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "u tagħmel"
+    },
+    {
+      "surface": "על",
+      "gloss": "skont"
+    },
+    {
+      "surface": "פי",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "skont il-kelma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "jiddikjaraw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dak il-post"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "jagħżel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "u toqgħod toħroġ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "biex tagħmel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "skont kollx"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "jitgħallemuk"
+    }
+  ],
+  "timestamp": "2026-10-21T18:02:01.941653690Z",
+  "model": "glm-5.3"
+}

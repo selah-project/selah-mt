@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכל צררי",
+      "rationale": "'Fost il-għedewwa kollha' (sirt għajb fosthom) jew 'minħabba il-għedewwa kollha' (ħolqien il-għajb) — ASV\/JPS jieħdu t-tieni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרר\/צר",
+      "rationale": "צררי hawn u צר 'pressa' f'31:10 — l-istess għerq: dawk li jagħmlu l-pressa."
+    }
+  ],
+  "translation": "Fost il-għedewwa kollha tiegħi sirt għajb, u lil ġirieni iktar milli kollox, u biża' għal dawk li jafuni; dawk li jarawni barra jitilqu minni bil-ġiri.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/31\/9-12.1792616821060.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Fost il-kollha"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "il-għedewwa tiegħi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sirt"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "għajb"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "u lil ġirieni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iktar milli kollox"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "u biża'"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "għal dawk li jafuni"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "dawk li jarawni"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "barra"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "jitilqu bil-ġiri"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:01.061271872Z",
+  "model": "glm-5.3"
+}

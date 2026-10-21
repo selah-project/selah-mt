@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 37:3",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-sema",
+      "rationale": "השמים huwa d-dwal ta' 'sema'; il-Malti għandu 'smewwiet' iżda l-plural semitiku jinżamm biss fil-forma tikka."
+    },
+    {
+      "kind": "crux",
+      "subject": "jiddirigih",
+      "rationale": "ישרהו: 'jiddirigih' (id-dawl) jew 'jixbħu\/jarawh' (Kimmer 'il-bniedem jaf fejn') — l-oġġett ta' l-affiss m'hux ċar."
+    }
+  ],
+  "translation": "Taħt is-sema kollu jiddirigih, u d-dawlu fuq il-ġwienaħ tal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2fba9b30a419c2db1e04062441e1255097cc4af898950900bab143834125e3de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/37\/1-4.1792619789652.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "ישרהו",
+      "gloss": "jiddirigih"
+    },
+    {
+      "surface": "ואורו",
+      "gloss": "u d-dawlu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "il-ġwienaħ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:29.652973859Z",
+  "model": "glm-5.3"
+}

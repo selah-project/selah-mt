@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 16:18",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skond",
+      "rationale": "litteralment 'skond ħalqu' — לפי = 'skond il-ħalq' — bil-Malti semmejnieh 'skond' għax 'ħalq' joħroġ stramb"
+    },
+    {
+      "kind": "hapax",
+      "subject": "העדיף",
+      "rationale": "il-verbu עדף jidher ftit drabi fit-Tanakh biss; hawn 'ma fadalx żejjed'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-gomer",
+      "rationale": "il-vers jkejjel il-manna bil-gomer, miżura nixxa"
+    }
+  ],
+  "translation": "U kejlu bil-gomer, u lill-miktar ma fadalx żejjed, u lill-inqas ma nuqqaslu xejn; kull wieħed skond ħtieġa ta' mielgħu ġabar.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "70a8f21e66c30240b694021e481e72c58fe1929837a3782844a3f9f788fd4b03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/17-20.1792599603014.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימדו",
+      "gloss": "u kejlu"
+    },
+    {
+      "surface": "בעמר",
+      "gloss": "bil-gomer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "העדיף",
+      "gloss": "fadalx żejjed"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "lill-miktar"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "u lill-inqas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "החסיר",
+      "gloss": "nuqqaslu xejn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "skond"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ta' mielgħu"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "ġabar"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:03.015009077Z",
+  "model": "glm-5.3"
+}

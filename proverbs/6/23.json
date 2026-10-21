@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi \/ huma",
+      "rationale": "L-ebrajk m'għandux copula; il-Malti jirrikjediha, immarkata b'⟨…⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "miza\/dawl",
+      "rationale": "Parallel żewġ imġieba: mitzva=mixa, Tora=dawl — l-istruttura qasma tibqa' ħajja fit-traduzzjoni."
+    }
+  ],
+  "translation": "Għax il-mitzva ⟨hi⟩ mixa, u t-Tora ⟨hi⟩ dawl, u t-triq tal-ħajja huma t-twissijiet tal-edukazzjoni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/6\/21-24.1792618420018.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "נר",
+      "gloss": "mixa"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "il-mitzva"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "u t-Tora"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dawl"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "u t-triq"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tal-ħajja"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "t-twissijiet"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tal-edukazzjoni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:40.019081883Z",
+  "model": "glm-5.3"
+}

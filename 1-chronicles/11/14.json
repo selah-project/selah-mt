@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "ויושע יהוה has no object; the verb 'make\/deliver' supplied to carry the double accusative 'YHWH a great deliverance'"
+    },
+    {
+      "kind": "crux",
+      "subject": "delivered it",
+      "rationale": "ויצילוה singular suffix vs plural verb: 'they delivered it (the plot)' — some read the heroes as plural, the plot as the rescued object"
+    }
+  ],
+  "translation": "U poġġew ruħhom f'nofs il-parċella u ħelsuha, u laqtu lil-⟨את⟩ Filisti, u Jaħwe ta salvazzjoni kbira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/11\/13-16.1792621880838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "poġġew ruħhom"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "il-parċella"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "u ħelsuha"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "u laqtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisti"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "salvazzjoni"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kbira"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:20.838827499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi jgħid biss 'u hu bilqiegħda' — il-verb 'kien' ma hemmx."
+    },
+    {
+      "kind": "crux",
+      "subject": "באלני",
+      "rationale": "Siġar il-ballut kontra 'il-pjanuri' (bħal KJV) — il-kelma tfisser siġar b'saħħithom."
+    }
+  ],
+  "translation": "U Jaħwe deher lilu f'siġar il-ballut ta' Mamre, u ⟨hu⟩ bilqiegħda fid-daħla tat-tinda, fis-sħana tan-nhar.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c449e661237bdd973ef7c67a5493355b5b4ba3345e42a77f90e1e80dda79c588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/18\/1-4.1792598101708.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "deher"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "f'siġar il-ballut"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "ta' Mamre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u ⟨hu⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bilqiegħda"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fid-daħla"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tat-tinda"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "fis-sħana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tan-nhar"
+    }
+  ],
+  "timestamp": "2026-10-21T15:55:01.709345471Z",
+  "model": "glm-5.3"
+}

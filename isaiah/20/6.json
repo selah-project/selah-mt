@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 20:6",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Maltese needs a past copula for 'such IS our expectation' spoken after the collapse."
+    },
+    {
+      "kind": "crux",
+      "subject": "il-gżira",
+      "rationale": "האי can be 'island' or 'coastland' (Philistine coast); 'gżira' follows the traditional reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבטנו",
+      "rationale": "Same noun as 20:5 מבטם — the 'expectation' of the coastland is the very Cush\/Egypt hope that collapsed."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-abitanti tal-kosta",
+      "rationale": "The inhabitant's speech addresses his own people with the rhetorical question 'kif se neħilsu aħna?'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kif se neħilsu aħna?",
+      "rationale": "The verse ends on an unanswered rhetorical question — dread with no way of escape given."
+    }
+  ],
+  "translation": "U jgħid dak li joqgħod f'din il-gżira f'dak il-jum: Ara, hekk kien il-mistenni tagħna, li tlajna hemm għall-għajnuna, biex inħelsu minn quddiem sultan Asur; u kif se neħilsu aħna?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/20\/5-6.1792611229437.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "u jgħid"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dak li joqgħod"
+    },
+    {
+      "surface": "האי",
+      "gloss": "il-gżira"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dak il-jum"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "il-mistenni tagħna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נסנו",
+      "gloss": "tlajna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "għall-għajnuna"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "biex inħelsu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "u kif"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "se neħilsu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    }
+  ],
+  "timestamp": "2026-10-21T19:33:49.438593971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tom",
+      "rationale": "לתם = intierizza, innoċenza; 'tomm' Malti jqarreb il-ħoss u t-tifsira"
+    }
+  ],
+  "translation": "Triq Jaħwe hija fortizza għat-tom, u qerda għal dawk li jagħmlu l-ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca03a8feeef7ae496d86cc0c3560d14f4e5ecd8d2455c1a7a8145c7eaf011ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/29-32.1792618526626.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "fortizza"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "għat-tom"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "u qerda"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "għal dawk li jagħmlu"
+    },
+    {
+      "surface": "און",
+      "gloss": "il-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:26.626494542Z",
+  "model": "glm-5.3"
+}

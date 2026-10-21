@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "l-מאכל lil-ציים",
+      "rationale": "ציים jista' jkun in-nomadi tad-deżert jew il-bhejjem selvaġġi — 'nies ta' l-inħawi nixfa' vs 'il-ħlejjaq tad-deżert'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשי לויתן",
+      "rationale": "plural 'kapus' ta' Livjatan — forsi l-ħajja b'diversi kapus (eż. l-għada ta' Eżodu 7), il-plural jibqa' plural."
+    }
+  ],
+  "translation": "Int ċċattajt il-kapus ta' Livjatan, tatih ikel għal-nies ta' l-inħawi nixfa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2180ad35b32565ea24de8643809ada9243ec9df2b1caac2808d036186a15b25e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/14-15.1792623823057.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Int"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "ċċattajt"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "il-kapus"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "tatih"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ikel"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "għal-nies"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "ta' l-inħawi nixfa"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:43.058737539Z",
+  "model": "glm-5.3"
+}

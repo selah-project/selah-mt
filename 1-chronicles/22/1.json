@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa (it-tieni darba)",
+      "rationale": "il-Malti jeħtieġ verba kopulattiva fejn il-Lhudi jgħid biss וזה"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "s settenti li tispicċa l-framment — mibni fuq זה"
+    }
+  ],
+  "translation": "U David qal: Dan huwa dar Jaħwe l-Elohim, u dan huwa l-mizbeaħ għall-olà għal Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "180f9f809dde6603bfc8483960c2561f945190e3307a797ad80ddafa320f6270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/22\/1-4.1792622085837.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l-Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaħ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "għall-olà"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "għal Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:45.837898283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jaħwe jkellem lil Samuel",
+      "rationale": "Imperattiv 'isma' indirizzat direttament."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתך\/אתי מאסו",
+      "rationale": "Ripetizzjoni parallela: 'lilek ma iċċaħdux, lili iċċaħdu' — żewġ aleph-tav fis-sentenza."
+    }
+  ],
+  "translation": "U Jaħwe qal lil Samuel: Isma lejn il-leħen tal-poplu, għal kull ma jgħidulek; għax mhux lil ⟨את⟩ intiċċaħdu, iżda lil ⟨את⟩ jieniċċaħdu, milli jirregnu fuqhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/8\/5-8.1792607738777.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "isma"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lejn il-leħen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "għal koll"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ulek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "inti"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "iċċaħdu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "izda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "jien"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "iċċaħdu"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "milli jirregnu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:35:38.778921544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד ליד",
+      "rationale": "'Id għand id' — idjom Lhudi (ħila magħquda ma' ħila); JPS jaqrah b'mod differenti: 'Id fuqha!' (ġurament)"
+    },
+    {
+      "kind": "litotes",
+      "subject": "לא ינקה",
+      "rationale": "Ma jiċħadx ċ-ċar — in-negazzjoni doppja tal-Lhudi tittraduċi b'mod sempliċi"
+    }
+  ],
+  "translation": "Id għand id, il-ħażin ma jitħallaflax, iżda ż-żerriegħa tal-ġusti tinħeles.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "86db5d8841c3950e884e37542d0fa7a6d6729bc687c58eaf2c6ef7ba70ac3094",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/11\/21-24.1792618510240.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "Id"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "għand id"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jitħallaflax"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "iżda ż-żerriegħa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tal-ġusti"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "tinħeles"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:10.241124197Z",
+  "model": "glm-5.3"
+}

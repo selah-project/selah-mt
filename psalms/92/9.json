@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għoli",
+      "rationale": "מרום huwa nom ('għoli, post mgħolli'), mhux aġġettiv; tradott b'nom sifri"
+    }
+  ],
+  "translation": "U int, Jaħwe, għoli għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/92\/9-12.1792617706566.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "U int"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "għoli"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:46.566811681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "żied",
+      "rationale": "צדיק huwa 'dritt\/ġust' — il-Malti 'żied' (il-qaddej li jimla d-dmir) huwa l-eqreb kliem tat-Tanakh għalih."
+    },
+    {
+      "kind": "idiom",
+      "subject": "jfittex kenn",
+      "rationale": "חסה litteralment 'jaħrab għall-kenn' — idjoma tal-kenn fil-Lhudi, mhux sempliċiment 'jafdah'."
+    }
+  ],
+  "translation": "Iferħu ż-żied fl-Imħares, u fih jingħatax ħelsien; u kul dritt ta' qalb jiftaħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/64\/9-11.1792617271311.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Iferħu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ż-żied"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "fl-Imħares"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "jfittex kenn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "u jiftaħar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kul"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "dritt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ta' qalb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:31.312350987Z",
+  "model": "glm-5.3"
+}

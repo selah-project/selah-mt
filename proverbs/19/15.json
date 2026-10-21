@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש mhix 'ruħ' fil-mod Platoniku: hija l-ħajja bl-aptit, il-ħoss tan-nifs — 'nefes' żżomm il-qraba"
+    },
+    {
+      "kind": "crux",
+      "subject": "רמיה",
+      "rationale": "'rmija' tista' tfisser ġedda\/tħassir kif ukoll infedeltà; hawn 'ħasla\/nieqes'"
+    }
+  ],
+  "translation": "Il-għażż twaqqaq tqila ta' raħs, u nefes nieqsa mil-għemil tafx il-ġuħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/13-16.1792618694794.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "il-għażż"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "twaqqaq"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tqila ta' raħs"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "u nefes"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nieqsa mil-għemil"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "tafx il-ġuħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:14.795449135Z",
+  "model": "glm-5.3"
+}

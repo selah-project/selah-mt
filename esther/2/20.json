@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taħt il-kura",
+      "rationale": "בְּאָמְנָה tfisser 'taħt tutela\/ħarsien' — mhux sempliċement 'miegħu'"
+    },
+    {
+      "kind": "elision",
+      "subject": "עָלֶיהָ",
+      "rationale": "il-preposizzjoni 'għaliha' ma għandhiex post separat fil-Malti, mgħoddija ma' 'amarha'"
+    },
+    {
+      "kind": "secret",
+      "subject": "in-nisel tagħha",
+      "rationale": "Ester żammet moħbi lil-identità tagħha u lil-niesha skont l-amar ta' Mordokaj"
+    }
+  ],
+  "translation": "Ester ma kinitx tqarreż dwar in-nisel tagħha u lanqas ⟨את⟩ niesha, kif kien amarha Mordokaj; u ⟨את⟩ l-amar ta' Mordokaj Ester kienet twettaq, kif kienet meta kienet taħt il-kura tiegħu ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/2\/17-20.1792620468374.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma kinitx"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "tqarreż"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "dwar in-nisel tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lanqas ⟨את⟩",
+      "marks": "niesha"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "niesha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kien amarha"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "(amarha)"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-amar ta' Mordokaj"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "l-amar"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ta' Mordokaj"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kienet twettaq"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "taħt il-kura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tiegħu (miegħu)"
+    }
+  ],
+  "timestamp": "2026-10-21T22:07:48.375741847Z",
+  "model": "glm-5.3"
+}

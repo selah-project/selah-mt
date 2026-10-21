@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Il-Malti jeħtieġ kopula fejn il-Lhudi għandu biss היתה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחנה",
+      "rationale": "Il-kelma il-kamp tirrepeti fil-bidu u fl-aħħar, inkwilramento mill-qedem"
+    }
+  ],
+  "translation": "U ġara filgħaxija, u tela' is-selaw u għatti ⟨את⟩ il-kamp; u fil-bierah kienet hemm qagħda ta' s-deww madwar il-kamp.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "7712fdf70ccfcb5be57d22ff3fa3c59bc4e3f5f1e5f2f1fd2c3b94d451cf278f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/13-16.1792599702422.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ġara"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "filgħaxija"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "tela'"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "is-selaw"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "għatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kamp"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "u fil-bierah"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kienet hemm"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "qagħda"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ta' s-deww"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "il-kamp"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:42.423262459Z",
+  "model": "glm-5.3"
+}

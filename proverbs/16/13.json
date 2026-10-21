@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדק miżmum skont id-diska, mhux tradott b'ħaġa waħda bħal 'ġustizzja'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-verbi jħobb",
+      "rationale": "יאהב jista' jkun is-slaten (pl.) jħobbu, jew aktar ġenerali 'hu maħbub'"
+    }
+  ],
+  "translation": "Ir-riċon tas-slaten: xuftejn ta' tsedeq; u min jitkellem b'dritt hu maħbub.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "125b1f1f144b270f7f11e95b28a44126e7b8d218855788ba6d6d8dec13f7a84e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/16\/13-16.1792618732660.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "ir-riċon"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "tas-slaten"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "xuftejn"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ta' tsedeq"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "u jitkellem"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "b'dritt"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "hu maħbub"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:52.661187781Z",
+  "model": "glm-5.3"
+}

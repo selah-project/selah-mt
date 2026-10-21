@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצוא ושוב",
+      "rationale": "Infinitiv assolut doppju 'joħroġ u jirritorna' — l-ghorab jitlaq u jerga' jidher bla tmiem; 'lura u quddiem' tonqos minn din id-doppja."
+    },
+    {
+      "kind": "crux",
+      "subject": "jirritorna",
+      "rationale": "Min jifhem il-vers bħala li l-ghorab ma rritornax (KJV 'to and fro'), min jifhmu bħala li kien dejjem jerga' lura ghal-ikel tal-arka."
+    }
+  ],
+  "translation": "u bagħat ⟨את⟩ l-għorab; u ħareġ, joħroġ u jirritorna, sa ma nixefu l-ilmijien minn fuq l-art.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/8\/5-8.1792597858668.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ghorab"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "l-għorab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u ħareġ"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "u jirritorna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "nixefu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "l-ilmijien"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:58.669777278Z",
+  "model": "glm-5.3"
+}

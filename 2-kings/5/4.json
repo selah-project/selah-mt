@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "is-suggett mhux miktub fil-Lhudi; il-qarrej jifhem mill-kuntest li hu Naaman"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כזאת וכזאת",
+      "rationale": "repetizzjoni għal 'hekk u hekk' — sommarju ta' dak li ngħad, miżjum bin-nofs bil-Malti"
+    }
+  ],
+  "translation": "U ⟨hu⟩ daħal u rrapporta lis-sidu tiegħu, jgħid: Hekk u hekk qalet it-tifla minn art Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/5\/1-4.1792610284778.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "U ⟨hu⟩ daħal"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "u rrapporta"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "lis-sidu tiegħu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "u hekk"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "qalet"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "it-tifla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:18:04.779481589Z",
+  "model": "glm-5.3"
+}

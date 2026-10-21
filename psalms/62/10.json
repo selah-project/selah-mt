@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wled Adam \/ wled il-bniedem",
+      "rationale": "Xi tradutturi jqisuhom baxxi u għoljin (KJV), oħrajn bnedmin b'mod ġenerali (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל … מהבל",
+      "rationale": "Ir-repetizzjoni tal-הבל (fwar) tiftaħ u tagħlaq il-vers"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-miżanen",
+      "rationale": "Immaġni tal-piż: in-nies miżjuda fuq il-miżanen"
+    }
+  ],
+  "translation": "Aqwa: fwar huma wled Adam, gideb wled il-bniedem; fuq il-miżanen għal titla', huma mill-fwar flimkien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/62\/9-12.1792617288664.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Aqwa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fwar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wled"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gideb"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wled"
+    },
+    {
+      "surface": "איש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "fuq il-miżanen"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "għal titla'"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "mill-fwar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "flimkien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:48.665146151Z",
+  "model": "glm-5.3"
+}

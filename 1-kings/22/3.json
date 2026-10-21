@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nżommu skiet",
+      "rationale": "מחשים mill-għerq חשה 'to hush'; versjoniet jvarjaw: 'we are still', 'negligent', 'keeping silent'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lill-irġiel li jaqduh",
+      "rationale": "עבדיו 'il-qaddejja tiegħu'; irraffajt għal-nies tal-qorti"
+    },
+    {
+      "kind": "you",
+      "subject": "sultan Jisrael lill-qaddejja tiegħu",
+      "rationale": "mistoqsija diretta lis-sidien tal-kliem"
+    }
+  ],
+  "translation": "U sultan Jisrael qal lill-irġiel li jaqduh: Ma taftuhux li Ramot-Gilgħad hija tagħna, u aħna nżommu skiet milli nieħdu ⟨את⟩ minn idejn sultan Aram?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/1-4.1792610021194.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "irġiel li jaqduh"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ma taftuhux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tagħna"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgħad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "u aħna"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "nżommu skiet"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "milli nieħdu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ilha (Ramot-Gilgħad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn idejn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-21T19:13:41.195495918Z",
+  "model": "glm-5.3"
+}

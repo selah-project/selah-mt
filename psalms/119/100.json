@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħarist",
+      "rationale": "נצר huwa 'żomm, ħares, isservza' — il-Malti 'ħares' iżomm il-ħoss ta' żamma u għassa"
+    }
+  ],
+  "translation": "Min-nies tal-età nifhem aktar, għax il-pikudim tiegħek ħarist.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/97-100.1792618024988.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Min-nies tal-età"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nifhem aktar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "il-pikudim tiegħek"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ħarist"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:04.989366503Z",
+  "model": "glm-5.3"
+}

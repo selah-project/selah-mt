@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 25:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨is-sultan⟩",
+      "rationale": "Il-verb וילך ('u mar') m'għandux suġett fit-test; is-Sultan Sidqijaħu jinftiehem mill-kuntest immedjat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħitan it-tnejn",
+      "rationale": "החמתים huwa d-dwal ta' חומה — 'ħitan tnejn', il-forma ta' tnejn tinżamm."
+    },
+    {
+      "kind": "elision",
+      "subject": "u r-rgiel... ħarbu",
+      "rationale": "Il-Lhudi jgħid 'in-nies tal-ġlieda telgħin bil-lejl' — l-aktar li ħarbu, iżda l-verb 'telgħu\/mitluqin' jibqa' bħal hu."
+    }
+  ],
+  "translation": "U l-belt infetħet b'vid, u r-rgiel kollha tal-ġlieda ħarbu bil-lejl, mit-triq tal-bieb bejn il-ħitan it-tnejn, li huwa ħdej ġnien is-sultan; u l-Kaldejjaħ kienu kontra l-belt madwarha; u ⟨is-sultan⟩ mar triq l-Għaraba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/1-4.1792610815707.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבקע",
+      "gloss": "U nfetħet b'vid"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u koll"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ir-rgiel"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "tal-ġlieda"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mit-triq"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tal-bieb"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "il-ħitan it-tnejn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "ħdej"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ġnien"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "u l-Kaldejjaħ kienu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwarha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u mar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "l-Għaraba"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:55.711683900Z",
+  "model": "glm-5.3"
+}

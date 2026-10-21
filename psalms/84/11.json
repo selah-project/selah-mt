@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Maltese requires the copula that the Hebrew 'better than' construction omits"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fuq it-thomma",
+      "rationale": "הסתופף is 'to stand\/wait at the threshold'; 'doorkeeper' (KJV tradition) is an office, the picture of the threshold is kept here"
+    },
+    {
+      "kind": "crux",
+      "subject": "minn elf",
+      "rationale": "'a thousand' lacks an explicit 'elsewhere' (מאלף); supplied implicitly — a day in your courts beats a thousand anywhere else"
+    }
+  ],
+  "translation": "Għaliex jum fil-bitien tiegħek huwa aħjar minn elf; għażilt li nieqaf fuq it-thomma tad-dar ta' Elohim tiegħi milli nobor f'tindi l-ħażin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/84\/9-12.1792617601257.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "fil-bitien tiegħek"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "minn elf"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "għażilt"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "li nieqaf fuq it-thomma"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "milli nobor"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "f'tindi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:01.258839882Z",
+  "model": "glm-5.3"
+}

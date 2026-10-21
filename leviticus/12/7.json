@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jkippur",
+      "rationale": "כפר literalment 'jgħatti\/jikkopri' — verbi bħal 'jagħmel skadenza' jitilfu l-istampa; ħalla l-ħoss tal-għerq"
+    },
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi ma għandux verbi 'hija' — kopula miżjuda bil-parentesi f' 'Din hija t-Tora'"
+    }
+  ],
+  "translation": "U jqarrbu quddiem Jaħwe, u jkippur għaliha, u tindif mis-sors tad-demm tagħha. Din hija t-Tora ta' dik li twelled, għal maskil jew għal nieqba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/12\/5-8.1792600793169.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "u jqarrbu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "u jkippur"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "għaliha"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "u tindif"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "mis-sors"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "tad-demm tagħha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "hija t-Tora"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "ta' dik li twelled"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "għal maskil"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "għal nieqba"
+    }
+  ],
+  "timestamp": "2026-10-21T16:39:53.170331981Z",
+  "model": "glm-5.3"
+}

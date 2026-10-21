@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "נפש is throat\/breath\/life-force; Maltese 'ruwaħ' kept per the discipline table, not 'anima'."
+    }
+  ],
+  "translation": "Iżda Elohim ifdi l-ruwaħ tiegħi mil-id ta' Xeol, għax se jieħodni. Sewta.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/13-16.1792617137573.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Iżda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ifdi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "l-ruwaħ tiegħi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mil-id ta'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xeol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "se jieħodni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sewta"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:17.574668319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tifħir",
+      "rationale": "תודה: estensjoni ta' id — ringrazzjar offrit; 'tifħir' jaqbad iżda ma jżommx il-ħsieb tal-offerita."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nħabbru",
+      "rationale": "Għerq רוע jerġa' jidher mill-vers 1 — repetizzjoni strutturali tal-innu."
+    }
+  ],
+  "translation": "Noħorġu quddiem wiċċu bit-tifħir, biz-zmrin nħabbru lilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/95\/1-4.1792617747378.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "noħorġu quddiem"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wiċċu"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bit-tifħir"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "biz-zmrin"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "nħabbru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:27.379159961Z",
+  "model": "glm-5.3"
+}

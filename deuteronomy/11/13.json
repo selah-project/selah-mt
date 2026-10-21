@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija nifs\/ħajja, mhux 'ruħ' b'sens platoniku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמעו",
+      "rationale": "infinitiv assolut + verb finit, infinitiv qawwi mitluf fil-Malti"
+    }
+  ],
+  "translation": "U jinħareġ li, jekk tisma' tassew għall-mitzvot tiegħi li jien nħabbar lilkom illum, biex iħobb lil Jaħwe, il-Elohim tagħkom, u biex tqimu b'qalbkom kollha u b'nifskom kollha,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/11\/13-16.1792605569799.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u jinħareġ li"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tisma' tassew"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tisma'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "il-mitzvot tiegħi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nħabbar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "biex iħobb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il-Elohim tagħkom"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "u biex tqimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "b'… kollha"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbkom"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "u b'… kollha"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nifskom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:59:29.799956313Z",
+  "model": "glm-5.3"
+}

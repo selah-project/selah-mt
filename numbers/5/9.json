@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 5:9",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "truma",
+      "rationale": "תרומה hija l-offerta mgħollija (heave-offering), ma għandha ekwivalenti Malti eżatt"
+    },
+    {
+      "kind": "addition",
+      "subject": "minn",
+      "rationale": "il-ל ה konstrutt teħtieġ prepożizzjoni bil-Malti"
+    }
+  ],
+  "translation": "U kull truma minn kull ħaġajjed ta' wlied Jisrael li joffru lill-qassis, tiegħu tkun.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fdd763dd47f93b975319af621c506cee8bc7e942e9149aeb64de6b2f1bc5941e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/5\/9-12.1792602436922.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "truma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minn kull"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ħaġajjed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "joffru"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "lill-qassis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiegħu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tkun"
+    }
+  ],
+  "timestamp": "2026-10-21T17:07:16.923542012Z",
+  "model": "glm-5.3"
+}

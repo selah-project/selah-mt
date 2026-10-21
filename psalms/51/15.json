@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב",
+      "rationale": "l-istess għerq ta' 'שׁוּב' (jerġgħu lura) mill-vers 14 — 'Errigħli' u 'jerġgħu lura' jaqbdu flimkien"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaqbżu",
+      "rationale": "פשעים litteralment 'dawk li jaqbżu (l-awtorità)' — veru bħala participju, mhux nominali"
+    }
+  ],
+  "translation": "Ninsa d-dawk li jaqbżu triqtek, u l-ħatjin jerġgħu lura lilek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/51\/13-16.1792617141739.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "Ninsa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "d-dawk li jaqbżu"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "triqtek"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "u l-ħatjin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "jerġgħu lura"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:21.740340779Z",
+  "model": "glm-5.3"
+}

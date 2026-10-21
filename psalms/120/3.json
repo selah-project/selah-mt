@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is-sujet ta' יתן\/יסיף",
+      "rationale": "min jagħti? ħaddieħor jaqra' 'X'se jingħatalek int' (lilsien), ħaddieħor 'X'ja'tilek' (is-sujet mhux magħruf) — il-passiv Malti jżomm it-tnejn miftuħa"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lilqsien",
+      "rationale": "misturja retorika lis-smigħ lis-ilsien tal-gideb"
+    }
+  ],
+  "translation": "X'ingħatalek, u x'jiżdiedillek, ilsien ta' qerq?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/120\/1-4.1792618130970.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "X'"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ingħatalek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u x'"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "jiżdiedillek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilsien"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ta' qerq"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:50.971062321Z",
+  "model": "glm-5.3"
+}

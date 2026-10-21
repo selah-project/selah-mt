@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaqra s-sinjali",
+      "rationale": "נחש huwa l-għerq tan-nass (divinazzjoni); il-Lhudi jgħid b'mod litterali 'jin-nass' — tara s-sinjali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחש ינחש",
+      "rationale": "infinitiv assolut qabel il-verb: ripetizzjoni intensifikattivi tal-istess għerq, mitlufa fil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "il-kalċi u n-nass",
+      "rationale": "fehma ta' Jusef bħala divinatur — il-kalċi użat għall-osservazzjoni tas-sinjali; xi tradutturi jbaxxrew 'hu jaqra s-sinjali' għal 'jistudja'"
+    }
+  ],
+  "translation": "Mhux dan li jixrob fih sidi, u għal-qiegħed jaqra s-sinjali miegħu? Ħriktu ħażin f'dak li għamliltu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1d3707164a78e164cdcb522a49abb977a8e9d87473a42276601baedb5b3f8238",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/44\/5-8.1792598974716.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "jixrob"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "jaqra s-sinjali"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "għal-qiegħed jaqra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "ħriktu ħażin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "f'dak li"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "għamliltu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:34.716579646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Maltese requires the preposition lil before the indirect object missierek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hi",
+      "rationale": "הוא feminine 'she', rendered with Maltese feminine hi"
+    }
+  ],
+  "translation": "L-għarwa ta' bint marat missierek, mewldia lil missierek, oħtok hi; ma tiftaħx l-għarwa tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/18\/9-12.1792600888873.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "l-għarwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ta' bint"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "marat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "missierek"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "mewldia"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "lil missierek"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "oħtok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tiftaħx"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "l-għarwa tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:28.874916083Z",
+  "model": "glm-5.3"
+}

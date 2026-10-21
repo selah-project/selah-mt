@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baħar",
+      "rationale": "ים render b'baħar għax il-Malti jgħid baħar għal korp ta' ilma kbir, mhux biss 'sea'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "identifikazzjoni ta' post",
+      "rationale": "Il-vers jidentifika l-wied tas-Sidim mal-Baħar Melħ għall-qarrej."
+    }
+  ],
+  "translation": "Dawn kollha ngħaqdu flimkien fil-wied tas-Sidim — hu baħar il-melħ.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b536d78a180eab8b115762f86c1e99103396565de6a0138bd0530d80ab59ca98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/14\/1-4.1792597956663.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ngħaqdu flimkien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fil"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "wied"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "tas-Sidim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baħar"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "il-melħ"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:36.664678589Z",
+  "model": "glm-5.3"
+}

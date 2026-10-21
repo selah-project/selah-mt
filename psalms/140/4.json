@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "velenu",
+      "rationale": "חמת litteralment 'sħana', hawn il-velenu ta' l-iserp b'metonimija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שננו\/נחש",
+      "rationale": "alliterazzjoni bejn 'snew' u 'serp' fil-Lhudi, diffiċli biex tgħaddi"
+    }
+  ],
+  "translation": "Snew ilsienhom bħal serp; velenu ta' lifgħa taħt xofftejhom. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/140\/1-4.1792618254568.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Snew"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsienhom"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "serp"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "velenu"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ta' lifgħa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "xofftejhom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:54.569738128Z",
+  "model": "glm-5.3"
+}

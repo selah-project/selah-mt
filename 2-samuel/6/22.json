@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 6:22",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "b'ċar tifjir",
+      "rationale": "il-verbi Maltin jeħtieġu vossiv; אכבדה huwa verbu wieħed fis-semplici"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ninqas",
+      "rationale": "נקלתי: 'inkingatt', 'nagħmel ruħi ħafif' — il-kelma tfisser 'tagħmel ħafif', fid-dawl ta' dan il-kuntest tirreferi għat-turija umli ta' David"
+    }
+  ],
+  "translation": "U se ninqas aktar minn hekk, u nkun baxxi f'għajnejja, u man-nisa li qidlek biż-żebgħa magħhom innifisha se nkun miktub ⟨b'ċar tifjir⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f76d7712fc02dfdf67da8785117f96a2585a2197ea705c1c12a4704f3c8ca17d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/6\/21-23.1792608647117.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקלתי",
+      "gloss": "u se ninqas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aktar"
+    },
+    {
+      "surface": "מזאת",
+      "gloss": "minn hekk"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "u nkun"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "baxxi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejja"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "האמהות",
+      "gloss": "in-nisa li jaqdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "qidlek"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "magħhom"
+    },
+    {
+      "surface": "אכבדה",
+      "gloss": "se nkun miktub b'ċar tifjir"
+    }
+  ],
+  "timestamp": "2026-10-21T18:50:47.118294198Z",
+  "model": "glm-5.3"
+}

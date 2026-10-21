@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב מחולל כל",
+      "rationale": "fost l-aktar versi diffiċli fil-Miżleaj: 'il-Kbir li jweġġa' kollox' (l-ASV: qassis bir-rummien), 'il-Kbir li sawwar kollox' (il-KJV), jew 'kollu jitħawwad' — il-kelma מחולל mill-għerq חול tfisser jemmen it-twist\/wounds u forom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שכר",
+      "rationale": "il-għerq jista' jkun 'jħallas' jew 'jieħu b'ħlas'; hawn maħdum bħala ħlas ta' ħaġa ħażina, mhux impjieg"
+    },
+    {
+      "kind": "alternative",
+      "subject": "reading",
+      "rationale": "allavolja l-qari ta' l-ASV 'bħal qassis li jweġġa' kulħadd, hekk min iħallas baħal' — similitudni mal-versi 8 u 9 tal-istess kapitlu"
+    }
+  ],
+  "translation": "Il-Kbir li ⟨sawwar⟩ kollox jagħti ⟨ħlas⟩ lil baħal u lil dawk li jaqbżu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/26\/9-12.1792618869684.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Il-Kbir"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "sawwar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "jagħti ⟨ħlas⟩ lil"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "baħal"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "u jagħti ⟨ħlas⟩ lil"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dawk li jaqbżu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:09.685227198Z",
+  "model": "glm-5.3"
+}

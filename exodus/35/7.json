@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחשים",
+      "rationale": "Annimal mhux ċert — 'taħax' mehmuż ma' siġra ta' is-sittim; KJV 'badgers', ASV 'seals', oħrajn 'dugong'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אילם",
+      "gloss": "ċrievi",
+      "rationale": "'Iljuni' bħala terminu ġeneriku għal annimali kbar qawwijin, mhux speċifikament 'ram'"
+    }
+  ],
+  "translation": "u ġlud ta' ċrievi mħawwdin bil-ħamra, u ġlud ta' taħax, u siġar ta' is-sittim;",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/35\/5-8.1792600106558.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "u ġlud"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ta' ċrievi"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "mħawwdin bil-ħamra"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "u ġlud"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ta' taħax"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "u siġar"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "is-sittim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:28:26.559114451Z",
+  "model": "glm-5.3"
+}

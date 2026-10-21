@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשדת",
+      "rationale": "'xaqlibiet' (slopes) vs 'għejun' (springs, KJV 'springs of Pisgah') — l-għerq jaf tfisser għajn jew rdum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הערבה",
+      "gloss": "semma' bħala post: l-Għaraba, il-wied ma' baħar il-melħ, mhux 'dezert' ġeneriku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-fruntiera",
+      "rationale": "Deskrizzjoni ta' fruntieri u postijiet ma' qabel ma' fuq."
+    }
+  ],
+  "translation": "U l-Għaraba, u l-Ġordan, u l-fruntiera, minn Kinneret sa baħar l-Għaraba, baħar il-melħ, taħt ix-xaqlibiet tal-Pisga, lejn il-lvant.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "78946dd3edb6ddbd0df0bf7ca1280f0f974279ff42daa50818f010bfaa51207b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/3\/17-20.1792605359395.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "u l-Għaraba"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "u l-Ġordan"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "u l-fruntiera"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "minn Kinneret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baħar"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "l-Għaraba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baħar"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "il-melħ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ix-xaqlibiet"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "tal-Pisga"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "lejn il-lvant"
+    }
+  ],
+  "timestamp": "2026-10-21T17:55:59.396550990Z",
+  "model": "glm-5.3"
+}

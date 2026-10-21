@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 3:49",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הפדיום",
+      "rationale": "litteralment 'tal-fdija', imma hawn jirreferi għal dawk li kien f'ilbies in-numru tal-Lewiti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "iskart",
+      "rationale": "għadd ta' bniedem mifdu b'xeqel: il-vers jgħodd id-differenza bejn il-primiġeniti u l-Lewiti"
+    }
+  ],
+  "translation": "U Moxe ħa ⟨את⟩ il-fidda tal-iskart minn ⟨את⟩ dawk li kien f'ilbies, għal dawk mifdija minn ta' Lewi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb4a102b2ff5adce76a5147be0262aabb9346578e3ad8b592b57124e3db6c1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/49-51.1792602331416.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-fidda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "il-fidda"
+    },
+    {
+      "surface": "הפדיום",
+      "gloss": "tal-iskart"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn ⟨את⟩"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "dawk li kien f'ilbies"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "dawk mifdija"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "minn ta' Lewi"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:31.417794612Z",
+  "model": "glm-5.3"
+}

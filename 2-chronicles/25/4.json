@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 25:4",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "il-kitezjoni ta' Dewteronomju 24:16",
+      "rationale": "il-vers iċċita t-Tora ta' Moxe bil-kliem tagħha kważi verbatim — kiam (כי…כי) fil-bidu u fl-aħħar"
+    },
+    {
+      "kind": "elision",
+      "subject": "ma…x",
+      "rationale": "in-negazzjoni Maltija 'ma …x' taqsam il-verb, filwaqt li l-Lhudi għandu לא waħda"
+    }
+  ],
+  "translation": "Ulma lil ⟨את⟩ uliedhom ma qatilhomx, għax kif miktub fit-Tora, fil-ktieb ta' Moxe, li ordna Jaħwe jgħid: Ma jimtux missirijiet minħabba uliedhom, u ulied ma jimtux minħabba missirijithom, għax kull wieħed fid-dnub tiegħu jimtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/25\/1-4.1792622746474.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uliedhom"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "uliedhom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma…x"
+    },
+    {
+      "surface": "המית",
+      "gloss": "qatil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kif miktub"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "fit-Tora"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "fil-ktieb"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ta' Moxe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "jimtux"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "missirijiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "uliedhom"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "u ulied"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "jimtux"
+    },
+    {
+      "surface": "על",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "missirijithom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "fid-dnub tiegħu"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "jimtu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:46.476233101Z",
+  "model": "glm-5.3"
+}

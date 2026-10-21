@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Malti jeħtieġ il-kopula li ma hemmx fil-Lhudi"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמך נדבת",
+      "rationale": "l-eqdem qari Masoretiku mhux ċar: 'il-poplu tiegħek huma rigali b'volontarjetà' jew (bil-vokali differenti, עמך) 'jemmen miegħek'; is-Septwaginta għandu 'mexxejja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרחם משחר",
+      "rationale": "'minn ġol-ġuf tad-dawl' — stamp b'tifsira miftuħa: metafora ta' miġata ġdida jew ta' qawwa ta' filgħodu"
+    }
+  ],
+  "translation": "Il-poplu tiegħek ⟨hu⟩ voluntarjat f'jum il-qawwa tiegħek, fiż-żejjed tal-qdusija; minn ġol-ġuf, fl-ewwel dawl, għalik ⟨hija⟩ s-sinda taż-żgħożija tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/110\/1-4.1792617985940.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Il-poplu tiegħek"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "voluntarjat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "il-qawwa tiegħek"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "fiż-żejjed"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tal-qdusija"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "minn ġol-ġuf"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "fl-ewwel dawl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "טל",
+      "gloss": "s-sinda"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "taż-żgħożija tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:25.941602638Z",
+  "model": "glm-5.3"
+}

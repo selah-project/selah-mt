@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום ליום \/ לילה ללילה",
+      "rationale": "ripetizzjoni simetrika: jum għal jum, lejl għal lejl — struttura(ppuntata) miżmuma bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iġib boħor",
+      "rationale": "יביע minn נבע 'jiżbra bħala għajn' — kliem jispara bħall-ilma"
+    }
+  ],
+  "translation": "Jum lil jum iġib kelma boħor, u lejl lil lejl juru għarfien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/19\/1-4.1792616733842.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Jum"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "lil jum"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "iġib boħor"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "u lejl"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "lil lejl"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "juru"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "għarfien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:33.842735539Z",
+  "model": "glm-5.3"
+}

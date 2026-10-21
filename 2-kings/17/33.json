@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהיהם hawn jirreferi għall-idoli tal-ġnus, għalhekk allat b'ittra żgħira skont id-dokument (Eżodu 32:8)"
+    },
+    {
+      "kind": "addition",
+      "subject": "minnu",
+      "rationale": "il-Malti jeħtieġ l-prepożizzjoni mal-verb 'jibżgħu' għall-oġġett ta' biża'"
+    }
+  ],
+  "translation": "⟨את⟩ Jaħwe kienu jibżgħu minnu, u ⟨את⟩ l-allat tagħhom kienu jqimu, skont id-drawwa tal-ġnus li eżiljawhom minn hemm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/33-36.1792610606443.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "jibżgħu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-allat tagħhom"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "l-allat tagħhom"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jqimu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "skont id-drawwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tal-ġnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "eżiljaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    }
+  ],
+  "timestamp": "2026-10-21T19:23:26.444284510Z",
+  "model": "glm-5.3"
+}

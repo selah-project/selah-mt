@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leħni",
+      "rationale": "קול hi 'vuċi\/ħoss'; il-Malti 'leħen' jaqbel ħafna u huwa l-għażla naturali"
+    },
+    {
+      "kind": "idiom",
+      "subject": "jagħti widneh",
+      "rationale": "אזן litteralment 'jessa' widnu — idjom Ebrajk għall-isma'; il-Malti għandu l-istess idjom"
+    }
+  ],
+  "translation": "Jekk sejjaħtu u wieġbieni, xorta ma nemminx li jagħti widnejh leħni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/9\/13-16.1792619219531.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sejjaħtu"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "u wieġbieni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "nemminx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "jagħti widnejh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "leħni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:59.532444158Z",
+  "model": "glm-5.3"
+}

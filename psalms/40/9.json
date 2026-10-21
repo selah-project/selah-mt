@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "il-Malti jeħtieġ s-suffiss possessiv separat ma' isem Alla"
+    },
+    {
+      "kind": "addition",
+      "subject": "tinsab",
+      "rationale": "il-Lhudi ma għandux verbo; il-kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħwienari",
+      "rationale": "מעי huma l-kliewi\/ġewwaħi, mhux qalb biss"
+    }
+  ],
+  "translation": "Nagħmel riedtek, Elohim tiegħi, għawdejtha, u Torek tinsab f'ħwienari.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/40\/9-12.1792617027579.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "riedtek"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "għawdejtha"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "u Torek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ħwienari"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:27.579957078Z",
+  "model": "glm-5.3"
+}

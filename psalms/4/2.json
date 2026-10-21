@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדק mhux 'ġustizzja' biss — żomm il-kelma Lhudija skont D2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/הרחבת",
+      "rationale": "il-Ħhudi jagħmlu kuntrast bejn dejqa (צר) u wiesgħa (רחב) — dijalettika spazjali li tibqa' fil-Malti biss bis-sostantivi"
+    },
+    {
+      "kind": "addition",
+      "subject": "Meta",
+      "rationale": "il-Malti jeħtieġ konġunzjoni temporali għal ב + infinitive b'suffiss"
+    }
+  ],
+  "translation": "Meta nsejjaħ, weġibni, Elohim tas-tsedeq tiegħi; fid-dejqa int wessa' ⟨lil⟩li għalija; ħenn għalija u isma' t-talba tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/4\/1-4.1792616562764.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Meta nsejjaħ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "weġibni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tas-tsedeq tiegħi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "fid-dejqa"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "int wessa'"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ħenn għalija"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "u isma'"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "t-talba tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:42.765500280Z",
+  "model": "glm-5.3"
+}

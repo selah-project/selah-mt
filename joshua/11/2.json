@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערבה",
+      "rationale": "l-għolja tal-ġnub għall-Araba, il-wied niexef"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפלה",
+      "rationale": "ix-xitan għas-Shefela, l-art baxxa tal-kosta"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "rationale": "għal אשר fil-Malti ma jintużax, jiġi mmarkat b'⟨ta'⟩"
+    }
+  ],
+  "translation": "u lis-slattna ta' fit-tramuntana, fil-muntanja u fl-għolja tal-ġnub, fin-Negħev ta' Kinnerot, u fix-xitan, u fl-inħawi ta' Dor, il-baħar;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2bb57afbbfa1abd2ac78c0906fb572c214e6e9d1231cf9a306e5b478523f860c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/11\/1-4.1792606523507.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "is-slattna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ta'⟩"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "fit-tramuntana"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fil-muntanja"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "u fl-għolja tal-ġnub"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "fin-Negħev"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "ta' Kinnerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "u fix-xitan"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "u fl-inħawi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ta' Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "il-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:15:23.508642973Z",
+  "model": "glm-5.3"
+}

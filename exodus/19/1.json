@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fit-tielet xahar",
+      "rationale": "Il-vers jiflaħ in-narrazzjoni bid-data: it-tielet xahar, l-istess jum tal-ħarġa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "deżert",
+      "rationale": "מדבר huwa art tal-merħla, pajjiż miftuħ; 'deżert' jagħti biss nofs it-tifsira."
+    }
+  ],
+  "translation": "Fit-tielet xahar għall-ħruġ ta' wlied Jisrael mill-art ta' Mitsrajim, f'dak in-nhar ġew għad-deżert ta' Sinaj.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "53312d6f7d1a7d676e93f00e347dea7a63a86d6533150cc76963ca830a037917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/19\/1-4.1792599639916.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "fix-xahar"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "it-tielet"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "għall-ħruġ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'in-nhar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dak"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ġew"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "deżert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:39.916992727Z",
+  "model": "glm-5.3"
+}

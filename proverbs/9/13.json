@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħemerija",
+      "rationale": "כסילות hija l-abstract ta' l-iblah; 'mara ta' ħemerija' iżżomm il-kostrutt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסילות\/פתיות",
+      "rationale": "żewġ kliem għall-ħemerija fil-ħolqien ta' persunaġġ",
+      "note": "il-marja ta' l-Ewropa ħadet isem il-persunaġġ"
+    },
+    {
+      "kind": "elision",
+      "subject": "מה",
+      "rationale": "מה ('xejn') ma ġietx irrendata: 'taf xejn'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "woman Folly",
+      "rationale": "BSB tgħid 'The woman named Folly' — persunaġġ, mhux sempliċiment mara idiottra"
+    }
+  ],
+  "translation": "Mara ta' ħemerija tħawwad bil-ħeġġa, ċaħla u lanqas taf xejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/9\/13-16.1792618547725.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "ta' ħemerija"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "tħawwad bil-ħeġġa"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "ċaħla"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "taf"
+    },
+    {
+      "surface": "מה",
+      "gloss": "xejn"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:47.725771129Z",
+  "model": "glm-5.3"
+}

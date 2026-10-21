@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 2:17",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "rationale": "ktib konstrutt Malti jeħtieġ 'ta' bejn l-irġel\/il-qaddejja u l-isem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġie megħlub",
+      "rationale": "וינגף litteralment 'ntefaħ\/wasal bi ħarba', magħruf għall-ħarba tal-bhejjem"
+    }
+  ],
+  "translation": "U l-battalja saret bla ħaġa iebsa ħafna dakinhar, u Avner u l-irġiel ta' Jisrael ġew megħluba quddiem il-qaddejja ta' David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/2\/17-20.1792608551165.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "u saret"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "il-battalja"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "iebsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dakinhar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dik"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "u ġie megħlub"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "u l-irġiel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "il-qaddejja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:49:11.165806478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Lhud mingħajr kopula; il-Malti jeħtieġ ⟨hu⟩ għall-ğunta"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bejn l-għarubijiet",
+      "rationale": "בין הערבים: 'bejn l-għarubijiet' — żmienaturali, mhux sempliċement 'filgħaxija'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-ġrajda",
+      "rationale": "Data tal-kalendarju: ix-xahar, il-jum, iż-żmien tal-ħin"
+    }
+  ],
+  "translation": "Fl-ewwel xahar, fl-erbatax-il jum tax-xahar, bejn l-għarubijiet, ⟨hu⟩ l-Pesaħ lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/23\/5-8.1792601130649.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "fl-ewwel xahar"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ewwel"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "fl-erbatax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-erbatax"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "tax-xahar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "l-għarubijiet"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "l-Pesaħ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:45:30.649682486Z",
+  "model": "glm-5.3"
+}

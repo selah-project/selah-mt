@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iljun żgħir",
+      "rationale": "כפיר huwa ljun żgħir, mhux iljun adult; ħafna traduzzjonijiet jgħidu sempliċement 'iljun'"
+    },
+    {
+      "kind": "addition",
+      "subject": "min isegwi",
+      "rationale": "il-Lhudi għandu biss 'u m'hemmx persuna li tsegwi'; il-Malti jippreferi kostruzzjoni relattiva"
+    }
+  ],
+  "translation": "Il-ħażin jaħarbu u m'hemmx min isegwi; u ż-żiedaqin, bħal iljun żgħir, jomdiew.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/28\/1-4.1792618951857.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "jaħarbu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "min isegwi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "u ż-żiedaqin"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "bħal iljun żgħir"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "jomdiew"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:31.858118049Z",
+  "model": "glm-5.3"
+}

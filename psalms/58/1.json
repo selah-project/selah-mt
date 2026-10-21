@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Tiqridx",
+      "rationale": "אל תשחת 'Tiqridx' — kliem ta' bidu ta' għanja magħrufa (cf. Salm 57; Is 65:8), mhux kmand lit-tilwim"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Miktam",
+      "rationale": "מכתם — titlu ta' sitt Salmi biss; tifsira inċerta: inċiżjoni\/biżżilla miktuba"
+    }
+  ],
+  "translation": "Lill-mexxej tal-kor. Tiqridx. Ta' David. Miktam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/58\/1-4.1792617255545.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lill-mexxej tal-kor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Tiqridx"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tiqrid"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ta' David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:15.545818882Z",
+  "model": "glm-5.3"
+}

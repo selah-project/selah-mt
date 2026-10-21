@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ta' wiċċu",
+      "rationale": "קצר אפים huwa 'qasir ta' żewġ imniexji' (אפים dual ta' אף, imniexi); il-Malti juża 'wiċċu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "pjanijiet",
+      "rationale": "מזמות tfisser pjan, ġeneralment ħażin ('miniħiet'), iżda xi drabi għerf; 'pjanijiet' waħedhom iżomm it-tnejn"
+    },
+    {
+      "kind": "elision",
+      "subject": "jiġi mibgħud",
+      "rationale": "ישנא hawn Niphal — 'jiġi mibgħud', mhux 'jobgħod'"
+    }
+  ],
+  "translation": "Min hu qasir ta' wiċċu jagħmel ħmerija, u raġel ta' pjanijiet jiġi mibgħud.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "739a9c2f53852d52b435d2ff941348ff6398d7ea3eb9c54b02e716b53dd4e03b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/17-20.1792618627624.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "qasir"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ta' wiċċu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ħmerija"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "u raġel"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ta' pjanijiet"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "jiġi mibgħud"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:07.625111961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elixa lill-mara",
+      "rationale": "Imperattivi diretti: imxi, staqsi, toqtx tqassar."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תמעיטי",
+      "rationale": "'La tqassarx' (borrow not a few) kontra 'la togħġobx ftit' — il-verbu mʿaṭ ifissir inqas iċ-ċifra."
+    }
+  ],
+  "translation": "U qal: Imxi, staqsi għalik vażżi minn barra, mingħand ⟨את⟩ kull ġirien tiegħek — vażżi vojta; toqtx tqassar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "34b96aff5e0d92aa663c19127f3de23d637f9b405081a99da19e65d937d548d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/4\/2-3.1792623392815.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Imxi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "staqsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "vażżi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "barra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mingħand ⟨את⟩",
+      "marks": "kull ġirien tiegħek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "ġirien tiegħek"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "vażżi"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "vojta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toqtx"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "tqassar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:32.817066638Z",
+  "model": "glm-5.3"
+}

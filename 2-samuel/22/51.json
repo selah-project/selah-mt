@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "2-samuel 22:51",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגדיל",
+      "rationale": "KJV 'tower of salvation' (bil-parallell ta' Salm 18:3) kontra ' jagħmel kbir \/ kiber' — it-test hawn għandu verb, mhux torri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "midluku",
+      "rationale": "משיחו hawn is-sultan midluk (David), mhux titulari futur."
+    }
+  ],
+  "translation": "Jagħmel kbira s-salvazzjonijiet ta' sultanu, u jagħmel ħesed lil midluku, lil David u lil nislu, għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1f1f0d025142afc18f46cc442f0ea9d9d59166607e228b872b054268e9a299d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/22\/49-51.1792609044066.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגדיל",
+      "gloss": "Jagħmel kbira"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "is-salvazzjonijiet"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ta' sultanu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "u jagħmel"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "lil midluku"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "u lil nislu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "għal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:24.067694266Z",
+  "model": "glm-5.3"
+}

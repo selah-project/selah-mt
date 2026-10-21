@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 8:13",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħanef",
+      "rationale": "חנף huwa l-ħmieġ bir-riħa, l-impju; 'ipokrita' huwa għażla Griega mhux Lhudija"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jeħtieġha għall-ġunta"
+    }
+  ],
+  "translation": "Daqshekk huma t-toroq ta' kull min jinsa lil El, u t-tama tal-ħanef titlef.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1fbb6e9064788810727e4e0f96ccd6f54c98634d3b252371107e7a33bc4756d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/8\/13-16.1792619214528.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Daqshekk"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "t-toroq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ta' kull"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "min jinsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil El"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "u t-tama"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "tal-ħanef"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "titlef"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:54.529075676Z",
+  "model": "glm-5.3"
+}

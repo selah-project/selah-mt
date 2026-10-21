@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בצחחיים",
+      "rationale": "kelma li tinsab hawn biss fit-Tanakh; 'oqsma miftuħa taħt ix-xemx iebesa' — xbieha litterali ta' nuda."
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħhom",
+      "rationale": "il-pronomin possessiv miżjud bil-Malti fejn il-Lhudi juża suffix fuq il-plural למשפחות."
+    }
+  ],
+  "translation": "Għalhekk poġġejt fil-partijiet l-aktar baxxi tal-post, minn wara l-ħajt, fl-oqsma miftuħa, u poġġejt ⟨את⟩ il-poplu għall-familji tagħhom, bl-ixwabel tagħhom, bil-lanzi tagħhom u bil-qwies tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6781bd79e319c577f75d8fc65998cf5cbd79b8410d1c49e17104ff707be1073e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/4\/5-8.1792621386560.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "poġġejt"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "fil-partijiet l-aktar baxxi"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "tal-post"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "minn wara"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "l-ħajt"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "fl-oqsma miftuħa"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "u poġġejt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "għall-familji tagħhom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "b'"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "l-ixwabel tagħhom"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "il-lanzi tagħhom"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "u l-qwies tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:23:06.561945765Z",
+  "model": "glm-5.3"
+}

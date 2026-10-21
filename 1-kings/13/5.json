@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ċir",
+      "rationale": "הדשן huwa x-xaħam\/ċir tal-offriri maħruq fuq l-artal"
+    },
+    {
+      "kind": "addition",
+      "subject": "skont",
+      "rationale": "כמופת huwa 'bħala sinjal'; 'skont' jimxi mal-Malti"
+    }
+  ],
+  "translation": "U l-artal inqasam, u ċ-ċir tfaqgħu mill-artal, skont is-sinjal li ta raġel ⟨l-⟩Elohim bil-kelma ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/13\/5-8.1792609729711.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "u l-artal"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "inqasam"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "u tfaqgħu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "iċ-ċir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "skont is-sinjal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bil-kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:49.712013594Z",
+  "model": "glm-5.3"
+}

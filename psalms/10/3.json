@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħu",
+      "rationale": "נפש hu nifs \/ ħajja, mhux ruħ immentalizzata"
+    },
+    {
+      "kind": "crux",
+      "subject": "u l-ħaqq jiberek; jisfaħ lil Jaħwe",
+      "rationale": "בוצע ברך נאץ יהוה: min iberek lil min? 'l-ħaqq jiberek (lilu) u jisfaħ lil Jaħwe' (ASV\/JPS) kontra KJV 'iberek lill-btaċċi, li Jaħwe jistmarrhom'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "suggett seperat miżjud biex iċċarixxa min jisfaħ"
+    }
+  ],
+  "translation": "Saber l-ħażin faħħar ix-xewqat ta' ruħu, u l-ħaqq jiberek; ⟨hu⟩ jisfaħ lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/1-4.1792616578615.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Saber"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "faħħar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "l-ħażin"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ix-xewqat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ta' ruħu"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "u l-ħaqq"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "jiberek"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "jisfaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:58.616380711Z",
+  "model": "glm-5.3"
+}

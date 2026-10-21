@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 1:17",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפוצינה ערי מטוב",
+      "rationale": "'my cities shall overflow\/dispperse with good': KJV 'spread abroad through prosperity' vs YLT 'overflow from good' vs Geneva 'broken with plentie' — root פוץ means disperse\/overflow."
+    },
+    {
+      "kind": "addition",
+      "subject": "tieghi",
+      "rationale": "ערי 'my cities' carries the 1cs suffix on the noun itself; Maltese needs the possessive separately."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד",
+      "rationale": "The word 'od (again\/yet) strikes four times in one verse — a drumbeat of repetition largely lost in translation."
+    }
+  ],
+  "translation": "Għadu sejjaħ, billi tgħid: Hekk jgħid Jaħwe Tsebawot: Għad darb'oħra jbattu l-ibliet tiegħi mit-tajjeb, u Jaħwe għadu jikkonsola ⟨את⟩ Sqion, u għadu jagħżel darb'oħra Ġeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "be1438939c5a95c2bef280c085c3a489990902260f5903ebafa981c761047806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/1\/17-17.1792616129782.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sejjaħ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "billi tgħid"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għad darb'oħra"
+    },
+    {
+      "surface": "תפוצינה",
+      "gloss": "jbattu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "l-ibliet tiegħi"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "mit-tajjeb"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "u jikkonsola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sqion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sqion"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "u għadu jagħżel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "darb'oħra"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ġeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T20:55:29.783074559Z",
+  "model": "glm-5.3"
+}

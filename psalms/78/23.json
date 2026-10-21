@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ħares",
+      "rationale": "il-Malti jeħtieġ l-awżiljarju 'ħares' għal wayyiqtol passiv-simili; il-Lhudi għandu biss ויצו"
+    },
+    {
+      "kind": "addition",
+      "subject": "iċ-ċpar \/ tas-sema",
+      "rationale": "l-artiklu Malti miżjud; il-Lhudi bla artiklu (שחקים, שמים)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ċpar",
+      "rationale": "שחק litteralment 'trab fin \/ vapor irqiq' — iċ-ċpar għandu l-istess stampa tas-sħab irqaq"
+    }
+  ],
+  "translation": "U ħares ma⟨ċ-ċpar⟩ minn fuq, u bibien ⟨tas-⟩sema fetaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db58f0af82e318e9819623ae07f85473769e9a1eaf6f726e5aadb74840cc695f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/22-23.1792623826410.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "u ħares"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ċpar"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "u bibien"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sema"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fetaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:46.410715337Z",
+  "model": "glm-5.3"
+}

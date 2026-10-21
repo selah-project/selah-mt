@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשקה",
+      "rationale": "għerq שקה tfisser 'tixrob\/saqqa'; 'nagħtux nixorbu' żżomm il-każattiv tal-Lhudi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכה",
+      "rationale": "l-ewwel kelma hija sejħa diretta mill-kbira għas-sabiħa, 'Ejja'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "'żerriegħa' tfisser żerriegħa\/nisel — il-kelma Lhudija tinżomm metafora agrikola"
+    }
+  ],
+  "translation": "Ejja, nagħtux lill-missieriena nixorbu inbid, u норкорму ma' hu, u nżommu minn missieriena żerriegħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "46306f44a8d964623e7f3b74df33bdabfb6b301eed76f3cbce3a46bade02338c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/19\/30-32.1792602114009.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Ejja"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "nagħtux nixorbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-missieriena"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "missieriena"
+    },
+    {
+      "surface": "יין",
+      "gloss": "inbid"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "norqdu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ma' hu"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "nżommu ħaj"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "minn missieriena"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "żerriegħa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:54.012560654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "it-tfal żgħar",
+      "rationale": "טף hija kelma kollettiva għat-tfal żgħar, il-familja l-iżgħar"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "l-aleph-tav mas-suffiss pronominali jinħadem fil-verb Malti 'iġorruh'"
+    }
+  ],
+  "translation": "U qam Jagħaqov minn Bi'er-Sabea, u ħadu wlied Jisrael lil Jagħaqov missierhom, u ⟨את⟩ it-tfal żgħar tagħhom, u ⟨את⟩ in-nisa tagħhom, fil-karrijiet li bagħat Fargħon biex iġorruh.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e47c983c4eb51d7640ef212c3c15776fb3e06057dd58c066bcc033948f96da77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/46\/5-8.1792599054629.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "u qam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "minn Bi'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sabea"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "u ħadu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jagħaqov missierhom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "missirhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-tfal żgħar tagħhom"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "it-tfal żgħar tagħhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "in-nisa tagħhom"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "in-nisa tagħhom"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "fil-karrijiet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fargħon"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "biex iġorruh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-u",
+      "marks": "lilu (Jagħaqov)"
+    }
+  ],
+  "timestamp": "2026-10-21T16:10:54.630333673Z",
+  "model": "glm-5.3"
+}

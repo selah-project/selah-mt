@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 2:5",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sidkom",
+      "rationale": "אדניכם jirreferi għal bniedem (Xaul), għalhekk 'sid' mhux 'Adonaj'"
+    },
+    {
+      "kind": "addition",
+      "subject": "meta",
+      "rationale": "konġunzjoni Maltija miżjuda biex iżżomm is-sekwenza tan-narrazzjoni"
+    },
+    {
+      "kind": "you",
+      "subject": "irġiel Javex Gilgħad",
+      "rationale": "diskors diretta ta' David lill-irġiel ta' Javex"
+    }
+  ],
+  "translation": "U David bagħat mibgħutin lill-irġiel ta' Javex Gilgħad, u qalilhom: Mbierek intom għal Jaħwe, li għamiltu dan il-ħesed ma' sidkom, ma' Xaul, meta ddefnuh ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9099906c29685d4e346a73e036367d42af28f5a8f3285ad5a477b11edba9e17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/2\/5-8.1792608563060.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mibgħutin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javex"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgħad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qalilhom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "Mbierek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "għamiltu"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "il-ħesed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sidkom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "meta ddefnuh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ilu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:49:23.060725889Z",
+  "model": "glm-5.3"
+}

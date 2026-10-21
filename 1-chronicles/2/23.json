@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 2:23",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "min ħadu l-ibliet",
+      "rationale": "il-veru huwa bla suġġett ċar: xi traduzzjonijiet jqisu lil Għeshur u Aram bħala dawk li ħadu, oħrajn jirrakontaw li ħaddieħor ħadhom mingħandhom"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתם",
+      "rationale": "hawnha H854 hu prepożizzjoni 'minnhom', mhux l-oġġett dirett; il-⟨את⟩ miżjuda għal raġuni ta' lealtà għat-token"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sittin belt",
+      "rationale": "l-għadd tal-ibliet mitlufa, għadd ewlieni tal-vers"
+    }
+  ],
+  "translation": "U Għeshur u Aram ħadu mingħandhom ⟨את⟩ Ħavvot Jajir, ⟨את⟩ Kenat u ⟨את⟩ bniettha, sittin belt; dawn kollha kienu wlied Makir, missier Gilgħad.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/2\/21-24.1792621705963.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħadu"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Għeshur"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "u Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ħavvot Jajir"
+    },
+    {
+      "surface": "חות",
+      "gloss": "Ħavvot"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ta' Jajir"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "mingħandhom ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "bniettha"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "bniettha"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sittin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "belt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missier"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgħad"
+    }
+  ],
+  "timestamp": "2026-10-21T22:28:25.977945125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Il-Malti jeħtieġ verbi 'kien\/hemm' fil-ġrajja; il-Lhudi għandu biss מצות המלך היא."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענו\/תענהו",
+      "rationale": "L-istess għerq ענה fil-ġrajja u fil-kaħba — il-poplu 'ma wieġeb' għax 'la twegħbu': l-iteranza tiddeskrivi l-ubbidjenza bil-kelma stess."
+    }
+  ],
+  "translation": "U l-poplu żamm l-iskiet u ma wieġbuhux ⟨את⟩ kelma, għax kienet hemm il-kaħba tas-sultan ⟨hi⟩, li tgħid: La twegħbuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3d23a64626d02cac9213193d2c15c2bb7f1ca4715926b0e58930860abc9bc619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/18\/33-36.1792610632169.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "u żamm l-iskiet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "wieġbuhux"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kelma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "il-kaħba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hi⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li tgħid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "La"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "twegħbuh"
+    }
+  ],
+  "timestamp": "2026-10-21T19:23:52.170405Z",
+  "model": "glm-5.3"
+}

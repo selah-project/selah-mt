@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מצות",
+      "rationale": "il-Lhudi m'għandux את qabel מצות f'dan il-vers, iżda l-glossa żżomm il-forma 'il-mitzvot' bħala oġġett diretta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ילבט",
+      "rationale": "'jaqa'\/'jintefa'' kontra 'jiġi mkasbar' (KJV 'shall be beaten' minn LXX) — il-verbu rari לבט tfisser jitreqreq"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": "לבט jidher biss hawn u f'Mishle 10:10 fit-Tanakh kollu"
+    }
+  ],
+  "translation": "Il-għaref ta' qalb jaqbad ⟨את⟩ il-mitzvot, iżda n-noll ta' xofftejn jaqa'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "90c3289866177a7b9c49ca0304046d5b853754bd94f0c46f170c7bc06486c1b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/7-8.1792623852575.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "il-għaref"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ta' qalb"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jaqbad"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "il-mitzvot"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "iżda n-noll"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ta' xofftejn"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "jaqa'"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:12.576584080Z",
+  "model": "glm-5.3"
+}

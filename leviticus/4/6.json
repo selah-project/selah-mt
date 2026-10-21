@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seba' darbati",
+      "rationale": "għadd ritwali ta' seba' xerrdieperjenti, seba' bħal-Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (il-wiċċ)",
+      "rationale": "l-שני את hawn hu prepożizzjoni 'mal-wiċċ', mhux l-oġġett tal-verb; ma jinxbedx bħala את ta' l-alef-tav"
+    }
+  ],
+  "translation": "U l-qassis jgħaddas is-saba' tiegħu ⟨את⟩ fid-demm, u jxerred mid-demm seba' darbati quddiem Jaħwe, quddiem wiċċ il-velu tal-qdusija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/5-8.1792600586720.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "u jgħaddas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-saba'"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "is-saba'"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "fid-demm"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "u jxerred"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba'"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "darbati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-velu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il-wiċċ"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "il-velu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tal-qdusija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:36:26.721299322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אז אשיב",
+      "rationale": "'allura norrodd' (KJV, stqarrija) kontra 'għandi norrodd?' (JPS, mistoqsija) — l-ebda vokali fl-aħħar kelma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנם",
+      "rationale": "'bla ħlas\/bla raġuni' — il-kelma Lhudija tfittex ħaġa waħda, Malti jrid frażi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאי \/ שקר",
+      "rationale": "alliterazzjoni ta' s-snin: שנאי (dawk li jobogħdoni) u שקר (folozzi), neqsa fil-Malti"
+    }
+  ],
+  "translation": "Iktar mix-xagħar ta' ras'i huma dawk li jobogħdoni ⟨ħaġa mingħajr raġuni⟩; qegħdin jinkrew għal qalbi dawk li jridu jeqirduni, għedewwa folozzi tiegħi, dak li ma ħliftx — jiena norrodd.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/5-8.1792617349182.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "huma iktar"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "mix-xagħar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ta' ras'i"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "dawk li jobogħdoni"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ħaġa mingħajr raġuni"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "qegħdin jinkrew għal qalbi"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "dawk li jridu jeqirduni"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "għedewwa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "folozzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ħliftx"
+    },
+    {
+      "surface": "אז",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "norrodd"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:49.183196904Z",
+  "model": "glm-5.3"
+}

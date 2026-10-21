@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 8:14",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fl-aħma",
+      "rationale": "אשמת: 'aħma\/ħtija' (KJV, JPS) vs LXX 'l-għajb ta'' vs l-idolu Axxima (2 Sarg 17:30) — tliet qari possibbli"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħek",
+      "rationale": "is-suffiss ך ta' אלהיך il-Malti jridh kelma separata"
+    },
+    {
+      "kind": "elision",
+      "subject": "u ma jqumux",
+      "rationale": "in-negazzjoni Maltija taqsam il-verb f'żewġ kliem (ma…x) waqt li ולא יקומו żewġ token biss"
+    },
+    {
+      "kind": "you",
+      "subject": "ja Dan",
+      "rationale": "il-ħolma fil-ħalqa tindirizza diretta lil belt ta' Dan"
+    }
+  ],
+  "translation": "Dawk li jaħilfu fl-aħma ta' Xomron, u jgħidu: Ħaj Elohim ⟨tiegħek⟩, ja Dan, u Ħaj triq Beer-Xeva; u jaqgħu, u ma jqumux iktar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b995a80e17e07cb7158387200b0b33cd97cadcdf5129c2e17820d6ecb1ee0e55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/8\/13-14.1792615743220.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשבעים",
+      "gloss": "Dawk li jaħilfu"
+    },
+    {
+      "surface": "באשמת",
+      "gloss": "fl-aħma"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Xomron"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "u jgħidu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "u Ħaj"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Xeva"
+    },
+    {
+      "surface": "וונפלו",
+      "gloss": "u jaqgħu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "jqumux"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:03.221311827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux kopula; miżjuda bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/צדקות",
+      "rationale": "għerq wieħed imqaddem darbtejn — ġust \/ tsedeq — il-ħoss jippermea l-vers"
+    },
+    {
+      "kind": "elision",
+      "subject": "פנימו",
+      "rationale": "il-plural ta' פנים (wiċċ) bil-pronom suffiss ma jiflaħx bil-Malti; 'wiċċu' jagħti l-forma"
+    }
+  ],
+  "translation": "Għax Jaħwe ⟨huwa⟩ ġust, it-tsedeq iħobb; id-dritti jaraw wiċċu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/11\/5-7.1792616614228.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ġust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "it-tsedeq"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iħobb"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "id-dritti"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "jaraw"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "wiċċu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:34.229614903Z",
+  "model": "glm-5.3"
+}

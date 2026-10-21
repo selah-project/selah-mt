@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefxi",
+      "rationale": "נפש huwa ħlewwa\/nifs\/ħajja, mhux ruħ biss; ħliet l-għerq Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "marka mużikali fil-Lhudi, miżjuma bħala 'Selah'"
+    }
+  ],
+  "translation": "Għaliex barranin qamu kontri, u violenti fittxew in-nefxi tiegħi; ma poġġewx lil Elohim quddiemhom. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/54\/5-8.1792617185193.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "barranin"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qamu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontri"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "u violenti"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "fittxew"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nefxi tiegħi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma... x"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "poġġew"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lil Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "quddiemhom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:05.194376977Z",
+  "model": "glm-5.3"
+}

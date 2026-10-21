@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Lhudi m'għandux kopula; in-nifs passiv נודע jikkonċentra fuq l-għarfien, mhux fuq stat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נודע \/ ידע",
+      "rationale": "l-istess għerq 'għarfien': Alla jkun magħruf billi jkun jaf — il-logħba tal-ħoss nthuset fil-passiv."
+    }
+  ],
+  "translation": "F'Juda magħruf ⟨hu⟩ Elohim; f'Jisrael kbir ⟨hu⟩ ismu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/76\/1-4.1792617468250.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "magħruf"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "F'Juda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:48.251027790Z",
+  "model": "glm-5.3"
+}

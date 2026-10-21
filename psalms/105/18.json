@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħu",
+      "rationale": "נפשו mhix 'ruħ' imma ħajja\/nifs; 'il-ħadid daħal f'ħajtu' — iżda ruwaħ iżomm il-forma Semitika."
+    },
+    {
+      "kind": "crux",
+      "subject": "il-ħadid daħal f'ruwaħu",
+      "rationale": "באה נפשו: 'id-daħal fil-ħadid' (KJV) vs 'il-ħadid daħal f'nifsu' (YLT, JPS); il-veru jżomm il-ħadid bħala suġġett."
+    }
+  ],
+  "translation": "Dgħuflu bil-katini rgielih; il-ħadid daħal f'ruwaħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/17-20.1792617824103.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Dgħuflu"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "bil-katini"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "rgielih"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "il-ħadid"
+    },
+    {
+      "surface": "באה",
+      "gloss": "daħal f'"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ruwaħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:44.104636518Z",
+  "model": "glm-5.3"
+}

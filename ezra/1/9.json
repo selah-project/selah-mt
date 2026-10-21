@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "inventarju tal-vedovi",
+      "rationale": "Lista ta' għadd ta' vesselli: 30, 1000, 29."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אגרטלי",
+      "rationale": "Kelma Persian (agarṭal) li tinstab biss hawn u f'Ezra 1:10 — barmil jew plat."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחלפים",
+      "rationale": "Sikkiet ta' sagrifiċċju jew, mal-KJV, knives; jista' jkun ukoll vesselli tal-fidda (bil-Babili żżid 'tal-fidda')."
+    }
+  ],
+  "translation": "U dawn in-numru tagħhom: barmil tad-deheb tletin, barmil tal-fidda elf, sikkiet disgħa u għoxrin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/1\/9-11.1792621010516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "u dawn"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "in-numru tagħhom"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "barmil"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tletin"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "barmil"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tal-fidda"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "sikkiet"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "disgħa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    }
+  ],
+  "timestamp": "2026-10-21T22:16:50.517411771Z",
+  "model": "glm-5.3"
+}

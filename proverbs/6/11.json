@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bħal min jimxi t-triq",
+      "rationale": "כמהלך: wieħed li jimxi (viaġġatur) jew bandit li jgħaġġeb — l-antichi ma jaqblux bejn wieħed u ieħor."
+    },
+    {
+      "kind": "substitution",
+      "subject": "b'targa",
+      "rationale": "מגן litteralment 'targa' — ragel bit-targa, ragel armat."
+    },
+    {
+      "kind": "addition",
+      "subject": "fuqek",
+      "rationale": "l-Ebrajk jgħid biss 'u jiġi l-faqar tiegħek' — 'fuqek' miżjud għaċ-ċar."
+    }
+  ],
+  "translation": "u ġejja fuqek il-faqar bħal min jimxi t-triq, u l-bżonn tiegħek bħal raġel b'targa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/6\/9-12.1792618407423.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "u ġejja"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "bħal min jimxi t-triq"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "il-faqar tiegħek"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "u l-bżonn tiegħek"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bħal raġel"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "b'targa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:27.423915785Z",
+  "model": "glm-5.3"
+}

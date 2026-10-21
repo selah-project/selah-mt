@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "li jagħmel l-espjazzjoni tal-ħata'",
+      "rationale": "המחטא huwa particippju ta' חטא bil-pi'el: 'li jagħmel l-espjazzjoni għad-dnub', mhux 'li jidħol fid-dnub'"
+    }
+  ],
+  "translation": "Il-qassis li jagħmel din l-espjazzjoni tal-ħata' jiekilha; f'post qaddis tittiekil, fiċ-ċittaa tal-Mixkan tal-laqgħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/6\/17-20.1792600497632.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Il-qassis"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "li jagħmel l-espjazzjoni tal-ħata'"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "li jagħmel l-espjazzjoni tal-ħata' jiekilha"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "jiekilha"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "f'post"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tittiekil"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "fiċ-ċittaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tal-Mixkan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:57.633854298Z",
+  "model": "glm-5.3"
+}

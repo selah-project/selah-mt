@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jeżisti",
+      "rationale": "Hebrew ויש supplies 'there is' but Maltese needs the existential verb explicitly"
+    },
+    {
+      "kind": "secret",
+      "subject": "Kif jaf El",
+      "rationale": "the wicked deny that Elohim sees or knows — rhetorical question asserting hiddenness from God"
+    }
+  ],
+  "translation": "U jgħidu: Kif jaf El, u jeżisti ⟨għarfien⟩ fl-Għoli?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "76b9dbbdc790bd624493e24736de2792cb7d9b78b74ca3d8c08d3434ef6ddea3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/73\/9-12.1792617369674.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "U jgħidu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Kif"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "u jeżisti"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "għarfien"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "fl-Għoli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:09.674976436Z",
+  "model": "glm-5.3"
+}

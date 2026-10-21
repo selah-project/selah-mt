@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nagid",
+      "rationale": "לנגיד (il-mexxej) is a title of appointed leadership, not 'king'; kingly intent follows in להמליכו."
+    },
+    {
+      "kind": "alternative",
+      "subject": "waqqaf",
+      "rationale": "ויעמד literally 'he stood\/set up'; 'waqqaf' keeps the causative picture, 'poġġa' would be softer."
+    }
+  ],
+  "translation": "U Reħabeam waqqaf bħala ras lil ⟨את⟩ Avijah iben Maaka biex ikun il-mexxej fost ħutu, għax ried ⟨hu⟩ jagħmlu sultan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4337324f77623c2d2611cc6b46399a92381d1ffb28119804d9158be8c670f5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/11\/21-23.1792622447105.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "u waqqaf"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "bħala ras"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reħabeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avijah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "biex ikun il-mexxej"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "fost ħutu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "ried jagħmlu sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T22:40:47.106040930Z",
+  "model": "glm-5.3"
+}

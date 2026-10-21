@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lil qarrej",
+      "rationale": "The poem turns and asks the reader directly: where shall wisdom be found?"
+    },
+    {
+      "kind": "mystery",
+      "subject": "l-għerf",
+      "rationale": "The refrain question of the chapter — wisdom's place is withheld, answered only at the end (v.28: fear of Jaħwe)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Maltese needs the copula pronoun in 'fejn hu dan'; the Hebrew demonstrative stands alone."
+    }
+  ],
+  "translation": "Imma l-għerf, minn fejn jinstab? U fejn hu dan, il-post tal-fehim?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2bdece10afc0d882d73eb15916a755c8f88992be6a097a2693429a0138e81b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/28\/9-12.1792619546942.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "imma l-għerf"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "minn fejn"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "jinstab"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "u fejn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "il-post"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "tal-fehim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:26.943309628Z",
+  "model": "glm-5.3"
+}

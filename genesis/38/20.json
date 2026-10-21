@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bl-idejn ta'",
+      "rationale": "ביד רעהו: 'bl-idejn ta'' tfisser 'b'għajn', mhux idejn fiżiċi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "u ma sabhiex",
+      "rationale": "il-mara għad-disparixxa — l-identità ta' Tamar għadha moħbija minn Judà"
+    }
+  ],
+  "translation": "U Judà bagħat lil-⟨את⟩ gidi tal-mogħoż bl-idejn ta' ħabibu l-Adullamit, biex jieħu ⟨את⟩ ir-raħnu mill-idejn tal-mara, u ma sabhiex.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/38\/17-20.1792598789346.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "U bagħat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidi tal-mogħoż"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "gidi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "tal-mogħoż"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bl-idejn"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ta' ħabibu"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "l-Adullamit"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "biex jieħu"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "ir-raħnu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mill-idejn"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tal-mara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "sabhiex"
+    }
+  ],
+  "timestamp": "2026-10-21T16:06:29.347768600Z",
+  "model": "glm-5.3"
+}

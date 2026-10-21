@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fiż-żmien meta tinstab",
+      "rationale": "לעת מצא: 'żmien li tinstab fih' (Alla jinstab għat-talb) kontra readings bħal 'żmien ta' nbid' jew 'meta jinstab (l-għadu)' — il-maġġoranza taqra 'meta tinstab int'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meta jgħargħu",
+      "rationale": "לשטף huwa nom (għargħar\/moħba), mhux verb; bil-Malti sar biex il-frasi tinsta' taqra"
+    },
+    {
+      "kind": "you",
+      "subject": "lejk",
+      "rationale": "indirizz direktu lil Jaħwe mit-talb"
+    }
+  ],
+  "translation": "Fuq dan jitlob kull ħasid lejk fiż-żmien meta tinstab; biss meta jgħargħu l-ilmaħ ħafna, lejh mhux se jaslu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eefed57de1ebc106835c0702183513a7e857e0dba19b7f313367b2731cf76e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/32\/5-6.1792623783642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "jitlob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ħasid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lejk"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "fiż-żmien"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "meta tinstab"
+    },
+    {
+      "surface": "רק",
+      "gloss": "biss"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "meta jgħargħu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "l-ilmaħ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lejh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "se jaslu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:03.643587659Z",
+  "model": "glm-5.3"
+}

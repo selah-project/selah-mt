@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 36:19",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "taħas",
+      "rationale": "תחש animal mhux magħruf: 'ġild ta' baħar' (foki), 'dossier' (badgers), jew annimal mitlief —żomm il-ħoss Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħranen",
+      "rationale": "איל huwa l-ħaruf adult (ram), mhux sempliċement ħaruf"
+    }
+  ],
+  "translation": "U għamel kopertura għat-tinda ta' ġlud ta' ħranen imħammrin, u kopertura ta' ġlud taħas mill-ogħla.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f4a8ee3bb2ca2d4526e8b1bad67127ce23de151594a97d4d9586baff294c7f4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/36\/17-20.1792600333066.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "U għamel"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kopertura"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "għat-tinda"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ġlud ta'"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ħranen"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "imħammrin"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "u kopertura"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ġlud"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "taħas"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "mill-ogħla"
+    }
+  ],
+  "timestamp": "2026-10-21T16:32:13.067069160Z",
+  "model": "glm-5.3"
+}

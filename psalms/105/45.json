@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "statuti",
+      "rationale": "חקojis enactments\/appointments; 'statuti' jaqbad id-deċiżjoni fissata, mhux sempliċement 'liġijiet'."
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-Malti jirrikjedi 'lil' qabel isem Jaħ bħala oġġett ta' ifaħħu; iżjed morfoloġiku milli semantiku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "l- Imperattiv plurali 'ifaħħu' + Jaħ jifforma l-Hebrew 'Halleluja' — l-għaqda tal-żewġ kliem titlef bil-Malti."
+    },
+    {
+      "kind": "you",
+      "subject": "lil-qarrej \/ lil-Jisrael",
+      "rationale": "imperattiv 'Ifaħħu' jindirizza lis-semmiegħa direttament — it-tmiem ta' Tfilla ta' raisħ."
+    }
+  ],
+  "translation": "Biex jizmru ⟨את⟩ statuti tiegħu, u Torot tiegħu jżommu. Ifaħħu lil Jaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e1ebe7267b8e6df7da5f67b082a68150ef37cb5a8e473d80d2acb2c155e5af9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/45-45.1792617849545.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "biex"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "jizmru"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "statuti tiegħu"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "u Torot tiegħu"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "jżommu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ifaħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:09.545928033Z",
+  "model": "glm-5.3"
+}

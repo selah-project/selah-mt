@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל יהוה",
+      "rationale": "'El huwa Jaħwe' jew 'Jaħwe huwa El' — l-ordni tal-kliem twassal għal żewġ qari"
+    },
+    {
+      "kind": "crux",
+      "subject": "אסרו חג בעבתים",
+      "rationale": "'ilħqu l-vittma bil-ħbula' (KJV) jew 'organizzaw il-mawra bil-fergħat' (JPS); חג jaf jifisser il-festa jew il-vittma tagħha, עבתים ħbula jew feragħal"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-vittma",
+      "rationale": "immarkat b'⟨…⟩: elided f'ħag, miżjud biex il-Malti jifhem"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperattiv",
+      "rationale": "אסרו — imperattiv plurali li jsejjaħ lill-qarrej għall-azzjoni"
+    }
+  ],
+  "translation": "El huwa Jaħwe u xerragħlna d-dawl; ilħqu ⟨il-vittma tal-⟩ħag bil-ħbula, sa sal-qrejjen tal-artal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "760708651548410e7086e4e583c7750957a3bca99b8cad3d6e90bae6bfc19e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/118\/26-27.1792623860377.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "huwa Jaħwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "u xerragħlna d-dawl"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lna"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ilħqu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ħag"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "bil-ħbula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sal-qrejjen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tal-artal"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:20.378463525Z",
+  "model": "glm-5.3"
+}

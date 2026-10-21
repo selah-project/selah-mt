@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ġisem",
+      "rationale": "שאר literally 'laħam\/qraba tad-demm'; 'ġisem' fiċ-ċirku ta' qraba, iżżomm il-figura litterali tal-ġisem."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "żewġ partiċelli Ebrajċi mħabbta fi 'ħlief' waħda bil-Malti."
+    }
+  ],
+  "translation": "Ħlief għall-ġisem l-eqreb tiegħu: għal ommu, għal missiru, għal ibnu, għal bintu u għal ħuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/21\/1-4.1792601074934.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ħlief"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ħlief"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "għall-ġisem (dak li hu ġismu)"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "l-eqreb"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tiegħu"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "għal ommu"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "għal missiru"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "għal ibnu"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "għal bintu"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "għal ħuh"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:34.935253104Z",
+  "model": "glm-5.3"
+}

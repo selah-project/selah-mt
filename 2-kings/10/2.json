@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sidkom",
+      "rationale": "אדניכם hawnhekk dwar sid ta' bniedem, mhux Alla"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-anzjani u l-gwardjani ta' Shomeron",
+      "rationale": "l-ittra ta' Jehu indirizzata direttament lilhom"
+    }
+  ],
+  "translation": "U issa, meta tilħaq lilkom din l-ittra, u miegħkom ⟨את⟩ ulied sidkom, u miegħkom ⟨את⟩ l-karrijiet u l-żwiemel, u belt iffortizzata u l-armi —",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/10\/1-4.1792610332843.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "meta tilħaq"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "l-ittra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "lilkom"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "miegħkom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sidkom"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "miegħkom"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "l-karrijiet"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "u l-żwiemel"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "u belt"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "iffortizzata"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "u l-armi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:18:52.844268380Z",
+  "model": "glm-5.3"
+}

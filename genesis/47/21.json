@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-poplu",
+      "rationale": "העם huwa singular kollettiv; il-Malti jeħtieġ il-plural ta' kelma singular"
+    },
+    {
+      "kind": "crux",
+      "subject": "לערים",
+      "rationale": "Samaritanu u LXX: 'lis-servitù'; MT: 'lejn il-bliet' — ħriżna l-MT"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mil-estrem sal-estrem",
+      "rationale": "il-vers jiddeskrivi l-estensjoni totali ta' Mitsrajim"
+    }
+  ],
+  "translation": "U ⟨את⟩ il-poplu ġarrbu lejn il-bliet, mill-estrem tal-fruntiera ta' Mitsrajim sa l-estrem tagħha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/47\/21-24.1792599100876.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ġarrbu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lejn il-bliet"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "lejn il-bliet"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "mill-estrem"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fruntiera"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "l-estrem tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:11:40.877754251Z",
+  "model": "glm-5.3"
+}

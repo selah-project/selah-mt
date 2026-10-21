@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Maltese relative clause requires a pronoun\/relative the Hebrew oath formula omits"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי אל",
+      "rationale": "oath formula 'El is alive' = 'as El lives'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefsi",
+      "rationale": "נפש is throat\/breath\/life-force, not the Platonic 'immortal soul'"
+    }
+  ],
+  "translation": "Ħaj ⟨hu⟩ El, li telaq ⟨את⟩ il-ġudizzju tiegħi, u Xaddaj, li imrar ⟨את⟩ nefsi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/27\/1-4.1792619604703.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "telaq"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il-ġudizzju tiegħi"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "u Xaddaj"
+    },
+    {
+      "surface": "המר",
+      "gloss": "imrar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:24.703965719Z",
+  "model": "glm-5.3"
+}

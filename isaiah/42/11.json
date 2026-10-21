@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iħollu leħinhom",
+      "rationale": "ישאו litteralment 'jerfgħu' (leħinhom); idjoma hebrajka għal għajta"
+    },
+    {
+      "kind": "crux",
+      "subject": "סלע",
+      "rationale": "Sela' bħala isem-post (belt blat) vs 'il-blat' bħala komuni — JPS\/KJV jaqsmu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-bliet loħom li jgħixu fihom Qedàr",
+      "rationale": "lit. 'il-ħwiejeż li Qedàr toqgħod fihom'; jista' jkun ukoll 'ir-rgħajja' bħala חצרים appartamenti"
+    }
+  ],
+  "translation": "Iħollu leħinhom id-deżert u l-ibliet tiegħu, il-bliet loħom li jgħixu fihom Qedàr; jgħajtu bil-ferħ li jgħixu fis-Sela', minn ras il-ġbiegel jgħajtu għal fuq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/42\/9-12.1792611761626.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "Iħollu leħinhom"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "id-deżert"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "u l-ibliet tiegħu"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "il-bliet loħom"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "li jgħixu fihom"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedàr"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "jgħajtu bil-ferħ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "li jgħixu"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "fis-Sela'"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "minn ras"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "il-ġbiegel"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "jgħajtu għal fuq"
+    }
+  ],
+  "timestamp": "2026-10-21T19:42:41.627081932Z",
+  "model": "glm-5.3"
+}

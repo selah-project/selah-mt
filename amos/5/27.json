@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהלאה לדמשק",
+      "rationale": "'il bogħod sa Damasku vs 'l hemm għal Damasku; LXX\/Aċtil 7:43 jaqraw 'l bogħod minn Damasku'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi għid biss 'Jaħwe Elohi Tsebawot ismu' —il-verb hu żejjed għaċ-ċentru tal-Malti"
+    }
+  ],
+  "translation": "U neżżelthom fil-eżilju ⟨את⟩ lilkom 'il bogħod sa Damasku, jgħid Jaħwe, Elohi Tsebawot ⟨hu⟩ ismu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/5\/25-27.1792615623866.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "U neżżelthom fil-eżilju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "'il bogħod"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "sa Damasku"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:47:03.867639908Z",
+  "model": "glm-5.3"
+}

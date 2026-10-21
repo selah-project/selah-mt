@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sospensjoni mużikali, mhux kelma fis-taħdit — żammet bħala Selaħ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għal dejjem",
+      "rationale": "עולמים plural ta' עולם, 'il-mill-etern sal-etern' — imtejjeb b''għal dejjem'"
+    }
+  ],
+  "translation": "Nistrieħ f'ċajtek għal dejjem; nieħu kenn fil-moħbi ta' ġwienaħkek. Selaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/61\/5-8.1792617249267.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Nistrieħ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "f'ċajtek"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nieħu kenn"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "fil-moħbi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ta' ġwienaħkek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:09.267869376Z",
+  "model": "glm-5.3"
+}

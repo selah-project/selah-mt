@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתירו",
+      "rationale": "hemm li j-qtiel jispjaw (KJV 'sent to descry') milli jixxerrku għal kummerċ; il-verbu jfisser 'iddawru madwar'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-kopula nieqsa fil-Lhudi, miżjuda bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "d-dar",
+      "rationale": "בית יוסף għal darb'oħra l-klan ta' Jussef, mhux bini"
+    }
+  ],
+  "translation": "U d-dar ta' Jussef bagħtet biex tagħmel spjuniġġ f'Bet-El — u l-isem tal-belt minn qabel ⟨kien⟩ Luz.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0557de95f573336e9ce75b1807a0c202d9c5664e6f1ae4afeee50773f258ac95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/22-23.1792623185499.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "bagħtet biex tagħmel spjuniġġ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "d-dar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ta' Jussef"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "f'Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'Bet-El"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u l-isem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tal-belt"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "minn qabel"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Luz"
+    }
+  ],
+  "timestamp": "2026-10-21T22:53:05.499884563Z",
+  "model": "glm-5.3"
+}

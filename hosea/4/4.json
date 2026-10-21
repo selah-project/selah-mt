@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועמך",
+      "rationale": "'Nies tiegħek' singular — lit-tradutturi mħawwdin: indirizzat lil min, lill-qeddsi (qassis) jew lir-re?"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב\/מריבי",
+      "rationale": "Għerq ריב jiġri darbtejn: l-imperattiv 'la tiġidlebx' u l-paragun 'bħal dawk li jġildbu ma' qassis'."
+    }
+  ],
+  "translation": "Imma ħadd ma jġidleb, u ħadd ma jwiddieb lil ħadd, għax in-nies tiegħek bħal dawk li jġildbu ma' qassis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/4\/1-4.1792615453564.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Imma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħadd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "jġidleb"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "jwiddieb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħadd"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "in-nies tiegħek"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "bħal dawk li jġildbu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ma' qassis"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:13.565988767Z",
+  "model": "glm-5.3"
+}

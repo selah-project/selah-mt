@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "Maltese article supplied before 'Ħallieq'; Hebrew עושהו has no article, only the suffix 'his'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-Ħallieq",
+      "rationale": "עושהו literally 'il-Fattur' (his Maker\/doer); 'Ħallieq' (creator) is the natural Maltese for the maker of a people."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiekol",
+      "rationale": "ואכלה literally 'and it will eat' the citadels; fire 'devouring' rendered with the same verb 'jiekol' to keep the picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעריו \/ ארמנתיה",
+      "rationale": "Singular 'his cities' after two subjects, then feminine 'her palaces'; Hebrew shifts referent — kept literally as 'tiegħu\/tagħha'."
+    }
+  ],
+  "translation": "U Jisrael nesa ⟨את⟩ ⟨il-Ħallieq⟩ tiegħu, u bena tempji; u Juda żied bliet iffortifikati; jien nibgħat nar fuq blietu, u jiekol l-imgħolqin tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/13-14.1792615383938.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "u nesa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Ħallieq tiegħu"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "il-Ħallieq tiegħu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "tempji"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "u Juda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "żied"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "iffortifikati"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "jien nibgħat"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "fuq blietu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "u jiekol"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "l-imgħolqin tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T20:43:03.938814600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iżda",
+      "rationale": "il-Malti jeħtieġ konġunzjoni qabel il-verb fil-pożizzjoni opposta, li mhux fit-test"
+    },
+    {
+      "kind": "substitution",
+      "subject": "beżżru minn",
+      "rationale": "וירא 'beżżru\/respettaw' — il-biża' bl-rispett flimkien"
+    },
+    {
+      "kind": "elision",
+      "subject": "אליהן",
+      "rationale": "il-pronom itternat fl-għanja ta' דבר u ma għandux bżonju kelma separata fil-Malti"
+    }
+  ],
+  "translation": "U l-qwieleb beżżru ⟨minn⟩ ⟨את⟩ Elohim, u ma għamlux kif kien qalilhom is-sultan ta' Mitsrajim, iżda żammew ħajjin ⟨את⟩ it-tfal.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/1\/17-20.1792599183118.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "beżżru"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "l-qwieleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlux"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kien qalilhom"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "żammew ħajjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tfal"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "it-tfal"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:03.119120021Z",
+  "model": "glm-5.3"
+}

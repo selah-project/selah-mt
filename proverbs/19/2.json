@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש is throat\/breath\/life-force, rendered by Maltese 'nefes' (from Arabic nafs), cognate of the Hebrew"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jaħtì l-mira",
+      "rationale": "חוטא is literally 'to miss (the mark)'; 'jiddnobb' (sins) is the standard reading but loses the archery picture"
+    }
+  ],
+  "translation": "Anki bla għarfien, in-nefes mhiex tajba; u min jaġġegla bil-ħriet, jaħtì l-mira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/1-4.1792618704082.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bla"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "għarfien"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "in-nefes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhiex"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajba"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "min jaġġegla"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "bil-ħriet"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "jaħtì l-mira"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:24.082594818Z",
+  "model": "glm-5.3"
+}

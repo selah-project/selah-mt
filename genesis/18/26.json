@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 18:26",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inħassar",
+      "rationale": "נשאתי 'niħlef\/għolli' — veru 'joħroq il-ħażin u jaħfer il-bqija', ġie tradott b''inħassar' (jaħfer\/isparnja)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיקים",
+      "gloss": "il-kelma 'ġusti' taħdem fuq l-istess għerq ta' tsedeq bħall-vers 25"
+    }
+  ],
+  "translation": "U Jaħwe qal: Jekk nsab f'Sodom ħamsin ġusti f'nofs il-belt, jien inħassar lill-post kollu għal ħtithom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9f7308fdd2f64189f25e60770d425e180d24b91354b3b1bdf2dcf843e7c85c89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/18\/26-28.1792602132404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nsab"
+    },
+    {
+      "surface": "בסדום",
+      "gloss": "f'Sodom"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ħamsin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ġusti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "ונשאתי",
+      "gloss": "jien inħassar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lill-post kollu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lill-post kollu"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "għal ħtithom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:02:12.405948889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 31:3",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tax-Xabbatot",
+      "rationale": "שבתות għandu jibqa' 'Xabbatot', l-isem mhux 'is-Sibt'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-kalendarju",
+      "rationale": "il-vers jgħodd l-għoti skont il-kalendarju ta' kuljum, kull Xabbat, xahar ġdid u festa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעלות...והעלות",
+      "rationale": "l-għerq עלה jitraddad tlett darbiet; ritorn parzjali bil-Malti biż-żewġ 'għall-olot'"
+    }
+  ],
+  "translation": "U s-sehem tas-sultan, minn ġidu għandu, għall-olot — għall-olot ta' fil-għodu u ta' filgħaxija — u għall-olot tax-Xabbatot u tax-xhur il-ġodda u tal-festi appuntati, skont miktub fit-Tora ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ea5009a50e452b2b0b0efe70e9b8908b466341dd1db535417d20d3effc095c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/31\/2-3.1792624090504.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנת",
+      "gloss": "U s-sehem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "רכושו",
+      "gloss": "ġidu għandu"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "għall-olot"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "għall-olot"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ta' fil-għodu"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "u ta' filgħaxija"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "u għall-olot"
+    },
+    {
+      "surface": "לשבתות",
+      "gloss": "tax-Xabbatot"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "u tax-xhur il-ġodda"
+    },
+    {
+      "surface": "ולמעדים",
+      "gloss": "u tal-festi appuntati"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "skont miktub"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "fit-Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T23:08:10.505395251Z",
+  "model": "glm-5.3"
+}

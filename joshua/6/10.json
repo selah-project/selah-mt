@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għalikom",
+      "rationale": "il-Lhudi għandu אליכם separat; il-Malti qabdu ma' 'ngħidilkom'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-istat ta' Iżrael",
+      "rationale": "ordni dirett ta' Ġożwè lill-poplu: somet totali sa jum il-ġlied"
+    },
+    {
+      "kind": "mystery",
+      "subject": "somet",
+      "rationale": "il-poplu msammer b'silenzju siewi sa ma jinstema' il-kelma — element maħbienny mill-għadu u mill-qarrej"
+    }
+  ],
+  "translation": "U lil ⟨את⟩ in-nies Ġożwè amarahom, biex jgħidu: Ma tgħajġħux u la taħarġux ⟨את⟩ leħnokom, u la joħroġ minn fomomkom kelma, sal-jum li ngħidilkom: Għajġħu! U intom tgħajġħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d036bbb6364b4ba3c0f065554cba73e08ce1d231398397886e5e28305e3fa34b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/6\/9-10.1792623205428.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lil ⟨את⟩",
+      "marks": "in-nies"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amarahom"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Ġożwè"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħidu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "tgħajġħux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "taħarġux leħnokom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leħnokom"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "leħnokom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u la"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "minn fomomkom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sal-"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ngħidilkom"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Għajġħu"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "u intom tgħajġħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:53:25.429060292Z",
+  "model": "glm-5.3"
+}

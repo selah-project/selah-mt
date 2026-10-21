@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel in exile",
+      "rationale": "L-ewwel persuna plurali — il-popl mlubb jgħidu l-ħsra tagħhom lilhom infushom."
+    },
+    {
+      "kind": "elision",
+      "subject": "f'",
+      "rationale": "Il-Lhudi juża l-objett dirett את; il-prepożizzjoni Maltija 'f'' miżjuda għar-razzett ta' ציון."
+    }
+  ],
+  "translation": "Fuq ix-xmajjar ta' Babilon, hemm qagħdna, u ukoll bkajna, meta ftakarna f'⟨את⟩ Sijon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/137\/1-4.1792618197516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Fuq"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ix-xmajjar"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ta' Babilon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "qagħdna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "u ukoll"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "bkajna"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "meta ftakarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sijon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:57.516909220Z",
+  "model": "glm-5.3"
+}

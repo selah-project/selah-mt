@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "לאמר ma jħallax 'biex'; miżjud bil-Malti biex id-diskors dirett jagħmel sens"
+    }
+  ],
+  "translation": "U Jaħwe sejjaħ lil Moxe, u tkellem miegħu minn ġol-Ohel Mo'ad, biex jgħid:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/1\/1-4.1792600462779.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "u tkellem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "minn ġol-Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħid"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:22.780333766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמהרים \/ תמהר",
+      "rationale": "Għerq wieħed מהר f'żewġ postijiet — 'dawk mgħaġġla' u 'jgħaġġel' — il-wisa' tal-għerq għadha ħajja fit-traduzzjoni."
+    },
+    {
+      "kind": "crux",
+      "subject": "נמהרים",
+      "rationale": "'Mgħaġġla' (rash) kontra 'tħawdan' (KJV 'rash' b'mod differenti) — il-kelma tista' tfisser dawk ta' spirtu mgħaġġel jew dawk li jżommogħhom."
+    }
+  ],
+  "translation": "U l-qalb ta' dawk mgħaġġla tifhem għar-għarfien, u ilsien l-istutteri jgħaġġel jitkellem b'mod ċar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/32\/1-4.1792611505086.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "U l-qalb"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "ta' dawk mgħaġġla"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tifhem"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "għar-għarfien"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "u ilsien"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "l-istutteri"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "jgħaġġel"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "jitkellem"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "b'mod ċar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:38:25.088464272Z",
+  "model": "glm-5.3"
+}

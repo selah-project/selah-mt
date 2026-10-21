@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefxu",
+      "rationale": "נפש hija 'nifs, ħajja, aptit' — 'ruħ' biss ikun tarżżun; ġejja mill-għerq Semitiku ta' nifs"
+    },
+    {
+      "kind": "crux",
+      "subject": "joqtgħok ġieh int",
+      "rationale": "ויודך f'sekonda persuna: jaħtabtu 'nies jfaħħruk' (KJV) jew 'u int (il-ġieni) tirringrazzja' — il-bidla għat-tieni persuna hi famuża u mhux ċara"
+    }
+  ],
+  "translation": "Għax nefxu jbierek fil-ħajja tiegħu, u nies joqtgħok ġieh int meta tagħmel il-ġid lilek innifsek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/17-20.1792617135303.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefxu"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "fil-ħajja tiegħu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "jbierek"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "u joqtgħok ġieh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "tagħmel il-ġid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek innifsek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:15.304385545Z",
+  "model": "glm-5.3"
+}

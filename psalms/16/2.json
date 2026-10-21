@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טובתי בל עליך",
+      "rationale": "'Il-ġid tiegħi mhux fuqek' (KJV) kontra 'ma għandi ġid barra míek' (JPS\/ASV); ħadt it-tieni qari."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Il-Malti jeħtieġ konjuzzjoni qabel il-ġustappożizzjoni li l-Lhudi jħalliha mfassla bla konjunn."
+    }
+  ],
+  "translation": "Għedt lil Jaħwe: Adonaj inti, ⟨u⟩ l-ġid tiegħi ma huwiex ⟨barra mínek⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/16\/1-4.1792616644896.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Għedt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "il-ġid tiegħi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma huwiex"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨barra mínek⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:04.896797471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tħobbha",
+      "rationale": "חשק huwa 'tqiegħed ma', iħobb b'saħħa, joħrog marid ma' — iktar b'saħħtu minn 'imħabba' sempliċi"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "gloss": "il-prepożizzjoni 'għalik' tinkorporata f'għal martek biex ma tenfurx"
+    }
+  ],
+  "translation": "u tara fil-priġunija mara sabiħa ta' wiċċ u figura, u tħobbha, u tieħu lilha għal martek:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8ad1da0e2ebf400578b100d2f5cf7aab2e4391626019673be8dd8334c3ea8e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/21\/9-12.1792605756748.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "u tara"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "fil-priġunija"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "sabiħa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ta' wiċċ u figura"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "u tħobbha"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lilha"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "u tieħu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għal martek"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "għal mara"
+    }
+  ],
+  "timestamp": "2026-10-21T18:02:36.749646058Z",
+  "model": "glm-5.3"
+}

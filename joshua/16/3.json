@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 16:3",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Lhudi juża והיו 'u ġara\/sar' — il-kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-fruntiera",
+      "rationale": "kontinwazzjoni tad-deskrizzjoni tal-fruntieri b'aktar postijiet"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימה",
+      "rationale": "'lejn il-baħar' = lejn il-punent fid-deskrizzjonijiet tal-fruntieri — il-baħar jindika d-direzzjoni"
+    }
+  ],
+  "translation": "u niżlet lejn il-baħar għal fruntiera tal-Jafliti, sal-fruntiera ta' Bet-Ħoron it-Taħtani, u sa Għezer; u l-ħruġ tagħha ⟨kien⟩ lejn il-baħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/16\/1-4.1792606632442.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "u niżlet"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-baħar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fruntiera"
+    },
+    {
+      "surface": "היפלטי",
+      "gloss": "tal-Jafliti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fruntiera"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Ħoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "it-Taħtani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u sa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Għezer"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u l-ħruġ"
+    },
+    {
+      "surface": "תצאתו",
+      "gloss": "tagħha"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:17:12.443873076Z",
+  "model": "glm-5.3"
+}

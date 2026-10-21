@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 2:6",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה וחי נפשך",
+      "rationale": "oath formula 'as YHWH lives and as your nefesh lives'; אם with negative verb is an oath-curse rendered as a simple negation"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש is throat\/breath\/life-force, not the immortal soul of later theology"
+    }
+  ],
+  "translation": "U qalu lilu Eliaħu: Ibrajk hawn, jekk jogħġbok, għax Jaħwe bagħtni lejn il-Ġordan. U huwa qal: Jaħwe ħaj, u ħaj in-nifs tiegħek, li qatt ma nħallik. U marru t-tnejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/2\/5-8.1792610107767.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaħu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ibqajk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "bagħtni"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "lejn il-Ġordan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "u ħaj"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "in-nifs tiegħek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "li qatt"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ma nħallik"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u marru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "it-tnejn"
+    }
+  ],
+  "timestamp": "2026-10-21T19:15:07.768356934Z",
+  "model": "glm-5.3"
+}

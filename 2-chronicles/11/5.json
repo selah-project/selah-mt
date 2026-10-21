@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għex",
+      "rationale": "וישב huwa 'poġġa\/bilħaqq', 'għex' biex il-Malti jinqara"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is-semmija tal-bliet",
+      "rationale": "bidu ta' lista ta' bliet mibnija — navetta ta' fortifikazzjonijiet"
+    }
+  ],
+  "translation": "U Reħabeam għex f'Jeruxalajim, u bena bliet għal fortizza f'Juda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/11\/5-8.1792622440004.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "u għex"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reħabeam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "għal fortizza"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "f'Juda"
+    }
+  ],
+  "timestamp": "2026-10-21T22:40:40.005205777Z",
+  "model": "glm-5.3"
+}

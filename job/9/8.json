@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במתי ים",
+      "rationale": "'heights of the sea' literally; KJV 'waves of the sea'; some read an allusion to the cosmic mount (Ugaritic Zaphon) — rendered literally 'il-qċaċiet tal-baħar'."
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "Maltese article on 'is-sema' where Hebrew has none on שמים."
+    }
+  ],
+  "translation": "Li jestendi ⟨waħdu⟩ is-sema, u jimxi fuq il-qċaċiet tal-baħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/9\/5-8.1792619191525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "jestendi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "waħdu"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "jimxi"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "il-qċaċiet"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tal-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:31.526708553Z",
+  "model": "glm-5.3"
+}

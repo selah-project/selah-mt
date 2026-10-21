@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-Malti jirrepeti l-pronoma wara 'Min' — 'Min jien jien' għal מי אני"
+    },
+    {
+      "kind": "you",
+      "subject": "ma' David",
+      "rationale": "David jindirizza lil Jaħwe direttament b'talb ta' umiltà"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sede quddiem Jaħwe",
+      "rationale": "וישב jista' jkun 'poġġa' jew 'għamlet l-omra quddiem' — fl-ambitu tat-tempju rakk ma jkunx għadu mibni, 'poġġa' hu l-aħjar"
+    }
+  ],
+  "translation": "U r-re David daħal u poġġa quddiem Jaħwe, u qal: Min jien jien, Jaħwe Elohim, u min darì, li ġejjieni sa hawn?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5b893a976ccf180e82bf5ea8607127b61dd5732d6e9d5f12c20924ae9d9a98d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/17\/13-16.1792621986611.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "U ... daħal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u poġġa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "u min"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "darì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "ġejjieni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hawn"
+    }
+  ],
+  "timestamp": "2026-10-21T22:33:06.613018758Z",
+  "model": "glm-5.3"
+}

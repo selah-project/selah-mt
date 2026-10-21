@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 23:35",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכוני \/ הלמוני",
+      "rationale": "żewġ verbi differenti għat-tajr — 'ħabbtuni \/ laqtuni' iżżomm id-doppja Lhudija"
+    },
+    {
+      "kind": "addition",
+      "subject": "inkun qieged",
+      "rationale": "אוסיף qiegħed biss għal 'inżid'; il-verb awżiljarju Malti miżjid"
+    },
+    {
+      "kind": "crux",
+      "subject": "għalih",
+      "rationale": "is-suffiss -ו f'אבקשנו jirreferi għall-inbid (jew għal dak l-istil ta' ħajja), mhux għall-persuni li laqtu"
+    }
+  ],
+  "translation": "Ħabbtuni, ma weġġejtx; laqtuni, ma ndunajtx; meta se nieqaf? Inkun qiegid infittexu għalih għal darb'oħra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "feb163848608604bbce5bbee1ad0f93b833777b8836bac80708b3509009a9890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/23\/33-35.1792618796590.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכוני",
+      "gloss": "ħabbtuni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "weġġejtx"
+    },
+    {
+      "surface": "הלמוני",
+      "gloss": "laqtuni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndunajtx"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "אקיץ",
+      "gloss": "se nieqaf"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "inkun qieged"
+    },
+    {
+      "surface": "אבקשנו",
+      "gloss": "infittexu għalih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għal darb'oħra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:39:56.591677564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Faħħu lil Jaħ",
+      "rationale": "imperattiv li jagħlaq is-salm b'seħħa ġdida"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "ħesed miżżum bħal kelma waħda, mhux 'ħniena' waħedha"
+    }
+  ],
+  "translation": "Għax ħesedu qawwi fuqna, u l-emet ta' Jaħwe għal dejjem. Faħħu lil Jaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/117\/1-2.1792617928410.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qawwi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ħesedu"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "u l-emet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Faħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lil Jaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:28.410998626Z",
+  "model": "glm-5.3"
+}

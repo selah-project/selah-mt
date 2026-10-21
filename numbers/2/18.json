@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 2:18",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימה",
+      "rationale": "lit. 'seaward' = westward; Maltese keeps the literal sea 'lejn il-baħar'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrew verbless clauses; Maltese copula supplied implicitly"
+    },
+    {
+      "kind": "measurement",
+      "subject": "camp positions",
+      "rationale": "verse fixes the camp's directional placement and names its leader"
+    }
+  ],
+  "translation": "Bandiera tal-maħanza ta' Efrajm lejn il-baħar, skont il-ġosti tagħhom; u n-naxxir għal wlied Efrajm Elixama bin Ammiħud.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a28691f239bb4cbd9aca30297254d5f490871aa5c5c7c992b2b0e4e75f6c0eae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/2\/17-20.1792602335911.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "bandiera"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tal-maħanza"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ta' Efrajm"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "skont il-ġosti tagħhom"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-baħar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "u n-naxxir"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "għal wlied"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elixama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammiħud"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:35.913340425Z",
+  "model": "glm-5.3"
+}

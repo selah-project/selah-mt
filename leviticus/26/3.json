@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hom",
+      "rationale": "suffiss 'hom' miżjud għax l-oġġett tal-verb tal-aħħar mhuwiex espress"
+    }
+  ],
+  "translation": "Jekk fl-istatuti tiegħi timxu, u ⟨את⟩ l-ordnijiet tiegħi taħarsu, u tagħmlu ⟨את⟩hom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/1-4.1792601266119.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "fl-istatuti tiegħi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "timxu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ordnijiet tiegħi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "l-ordnijiet tiegħi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "taħarsu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "u tagħmlu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hom — l-ordnijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:46.119957168Z",
+  "model": "glm-5.3"
+}

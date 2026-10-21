@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "talbu",
+      "rationale": "הפגעו literalment 'daħlu bi ħtifa fuq', talb b'saħħa lil isultan"
+    },
+    {
+      "kind": "elision",
+      "subject": "lill-",
+      "rationale": "il-prepożizzjoni Maltija b' biċċa żejda għal ב b'sema Lhudija"
+    }
+  ],
+  "translation": "U wkoll Elnatan u Delajahu u Gemarjahu talbu lill-isultan biex ma jħaraqx ⟨את⟩ il-mġieled, imma ma smagħhomx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2bdfd49a9a3f91bedeb271c3ab0b6eb0d113e948052756f254edaa5b0cb96a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/36\/25-28.1792613383095.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "U wkoll"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "u Delajahu"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "u Gemarjahu"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "talbu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "lill-isultan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "jħaraqx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mġieled"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "il-mġieled"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "imma ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "smagħ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "homx"
+    }
+  ],
+  "timestamp": "2026-10-21T20:09:43.096397630Z",
+  "model": "glm-5.3"
+}

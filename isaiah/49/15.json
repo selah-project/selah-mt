@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכח",
+      "rationale": "il-għerq 'tes' jinstema' erba' darbiet: il-mara tista' tinsi, dawn jistgħu jinsaw, jien ma ninsakx — ripetizzjoni retorika li tinżamm bil-Malti b'ninsa\/jinsaw"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mistoqsija",
+      "rationale": "mistoqsija retorika lill-qeddsiem — twassal għar-risposta ta' ġimagħtejn 16"
+    }
+  ],
+  "translation": "Jista' mara tinsa lil-tarbija tar-razżiena tagħha, li ma titħaninx ma' iben ġufha? Anki dawn jistgħu jinsaw, iżda jien — jien ma ninsakx int.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/49\/13-16.1792611952159.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Jista'... tinsa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "lil-tarbija tar-razżiena tagħha"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ma titħaninx"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ma' iben"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "ġufha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Anki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "jistgħu jinsaw"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iżda jien — jien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma... x"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ninsak int"
+    }
+  ],
+  "timestamp": "2026-10-21T19:45:52.160877629Z",
+  "model": "glm-5.3"
+}

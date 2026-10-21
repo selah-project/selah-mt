@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fl-iżball",
+      "rationale": "מחול hija żeffa ċirkolari; 'żball' huwa ż-żfin Malti, jitilef il-forma tonda."
+    },
+    {
+      "kind": "crux",
+      "subject": "בתף",
+      "rationale": "Topp Malti mhux fiss: 'tumbalina' jew 'tnabar' — l-istrument ta' Mirjam."
+    }
+  ],
+  "translation": "Faħħu lisim fl-iżball, bit-tumbalina u bil-kinor jaħdmulu mużika.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/149\/1-4.1792618316110.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Faħħu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lisim"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "fl-iżball"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "bit-tumbalina"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "u bil-kinor"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "jaħdmulu mużika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:56.111605087Z",
+  "model": "glm-5.3"
+}

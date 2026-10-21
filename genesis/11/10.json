@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Maltese requires the copula; Hebrew omits it."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is-sekwenza tal-età",
+      "rationale": "Toledot formula opening a genealogy with precise ages."
+    }
+  ],
+  "translation": "Dawn huma d-dixxendenzi ta' Sem: Sem kien ibn ta' mija sena, u wetlaq ⟨את⟩ lil Arpakxad, sentejn wara l-għargħar.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "d600afaaff682b9f32b6c86c247364ca07dbbdb67574b0c482e52c0d1978d9ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/11\/9-12.1792597901083.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dixxendenzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ibn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "u wetlaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Arpakxad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakxad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "sentejn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wara"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "l-għargħar"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:41.083825248Z",
+  "model": "glm-5.3"
+}

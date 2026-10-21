@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "l-aleph-tav mal-pronom (lili) ġie moħbi fil-pronom Malti 'għalija'"
+    }
+  ],
+  "translation": "Għax hekk ġie mxerred ⟨את⟩ għalija bil-kelma ta' Jaħwe, jgħidu: Ma tiekilx ħobż u lanqas tixrob ilma, u lanqas tirġa' mit-triq li mort biha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/13\/9-12.1792609673299.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ġie mxerred"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ għalija",
+      "marks": "għalija"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bil-kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tiekilx"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "tixrob"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tirġa'"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mit-triq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "mort biha"
+    }
+  ],
+  "timestamp": "2026-10-21T19:07:53.300183491Z",
+  "model": "glm-5.3"
+}

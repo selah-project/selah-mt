@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 25:15",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hi",
+      "rationale": "הוא għal mara — il-ktieb Lhudi juża l-maskil ukoll għal femminil; il-Malti jeħtieġ 'hi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כזבי",
+      "rationale": "l-isem Cozbi jixbaħ כזב 'gideb' — siġħa tal-istorja, mitlufa fit-traduzzjoni"
+    }
+  ],
+  "translation": "U l-isem tal-mara l-Medjanita l-maqtuła kien Kazbi bint Sur, ras ta' ġemgħat ta' dar missier f'Medjan, hi ⟨stess⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eff4c36b1f6fc95200c4fea687a22808b955d7ab914eb351baa741cbc510f686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/25\/13-16.1792604882051.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "U l-isem"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tal-mara"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "l-maqtuła"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "l-Medjanita"
+    },
+    {
+      "surface": "כזבי",
+      "gloss": "Kazbi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ta' ġemgħat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ta' dar"
+    },
+    {
+      "surface": "אב",
+      "gloss": "missier"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "f'Medjan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi ⟨stess⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T17:48:02.054018395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "minn ġlied kontrija",
+      "rationale": "מקרב לי: 'minn dawk li qrieżni' (KJV 'battle against me') jew 'biex ħadd ma joqgħod miegħi' (JPS); għażilt il-qari tal-ġlied kontra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħi",
+      "rationale": "נפש mhux ruħ fil-fiss ta' wara: hija l-ħajja, in-nifs, il-persuna ħajja"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ħafna kienu miegħi",
+      "rationale": "jista' jkun 'ħafna kienu miegħi' (alleati) jew 'ħafna kienu kontrija' (mtieħba qrieżda), bħal fis-Septwaġinta"
+    }
+  ],
+  "translation": "Feda b'patt tas-sliem ruwaħi minn ġlied kontrija; għaliex ħafna kienu miegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/55\/17-20.1792617219842.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Feda"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "b'patt tas-sliem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruwaħi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "minn ġlied kontrija"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "miegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:39.842995507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "waqgħet fuq",
+      "rationale": "נפל ב is literally 'fell in\/upon'; rendered 'waqgħet fuq' to keep the image of the word striking its target"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jagħaqov \/ Jisrael",
+      "rationale": "the parallel pair Jacob\/Israel, both names of the same patriarch, frames the line as poetry"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "the sent word is a declaration of judgment addressed to Jacob\/Israel"
+    }
+  ],
+  "translation": "Kelma bagħat Adonaj f'Jagħaqov, u waqgħet fuq Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "df6275adb3adaad5a003d6b73e81f7edf7db46682948a3d3fc3935328de293a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/9\/7-8.1792623410288.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kelma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "f'Jagħaqov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "u waqgħet"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "fuq Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:50.288904318Z",
+  "model": "glm-5.3"
+}

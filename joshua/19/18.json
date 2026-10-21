@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "il-konfin tagħhom",
+      "rationale": "Boundary list delimiting the tribal territory."
+    },
+    {
+      "kind": "substitution",
+      "subject": "U kien",
+      "rationale": "ויהי introduces the boundary formula; Malti needs the copula 'kien' which the nominal list does not carry by itself."
+    }
+  ],
+  "translation": "U kien il-konfin tagħhom: Jizreʿel, u l-Kesulot, u Xunem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f956bf34ce2910556de0fe2c35102d84c910d8bdb82fe9cdc1820fe95ce9e9f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/19\/17-20.1792606624661.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "il-konfin tagħhom"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Jizreʿel"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "u l-Kesulot"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "u Xunem"
+    }
+  ],
+  "timestamp": "2026-10-21T18:17:04.662226677Z",
+  "model": "glm-5.3"
+}

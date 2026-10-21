@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השירה",
+      "rationale": "'il-ħadra' — sir\/song femminil b'suffiss; il-Malti jħares is-sens ta' kant ritwali"
+    },
+    {
+      "kind": "elision",
+      "subject": "תמם",
+      "rationale": "Verb mal-possessiv implicitu — 'sa ma tlestiet' (il-ħadra); l-Ingliż iżid 'till they were ended'"
+    }
+  ],
+  "translation": "U Moxe tkellem f'widnejn il-kollha kemm hi ta' il-laqgħa ta' Jisrael ⟨את⟩ kliem din il-ħadra, sa ma tlestiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/31\/29-30.1792606002392.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "U tkellem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "f'widnejn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-kollha kemm hi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ta' il-laqgħa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kliem din il-ħadra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kliem"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "din il-ħadra"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tlestiet"
+    }
+  ],
+  "timestamp": "2026-10-21T18:06:42.393242067Z",
+  "model": "glm-5.3"
+}

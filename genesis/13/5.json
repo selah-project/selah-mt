@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ma'",
+      "rationale": "את hawn mhux il-markatur tal-oġġett dirett iżda l-prepożizzjoni 'ma'' (qrib), għalhekk mhux ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien hemm",
+      "rationale": "היה bil-Malti jeħtieġ 'hemm' biex jiffunzjona bħala 'kien hemm (possedimenti)'"
+    }
+  ],
+  "translation": "U lil Lot ukoll, li kien miexi ⟨את⟩ ma' Avram, kien hemm nagħaġ u mogħoż, u baqar, u ħatriet.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "06e976347f2316a08f954f210adf39444b26af9fa88fd7e473b9740501988198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/13\/5-8.1792597972405.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "u ... ukoll"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "lil Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "li kien miexi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nagħaġ u mogħoż"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "u baqar"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "u ħatriet"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:52.406438473Z",
+  "model": "glm-5.3"
+}

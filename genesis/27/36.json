@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 27:36",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעקב\/ויעקבני",
+      "rationale": "Il-isem Jagħaqov mill-verb għaqab — 'għaqqabni' miżżemm mal-għerq tal-isem; il-Malti b'għax-x jinżamm il-logħba"
+    },
+    {
+      "kind": "addition",
+      "subject": "oħra",
+      "rationale": "'barka oħra' — il-Malti jeħtieġ 'oħra' fit-talba; il-Lhudi għandu biss ברכה"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכי קרא שמו",
+      "rationale": "'Jaqaw għalhekk semmieh' — KJV 'rightly named' kontra YLT 'is it because one called' — mistoqsija ta' ġustizzja jew ta' eżegu"
+    }
+  ],
+  "translation": "U qal: Jaħawwel ismu Jagħaqov, għax għaqqabni żewġ darbiet: ⟨את⟩ dritt il-kbir tiegħi ħadha, u araw, issa ħa l-barka tiegħi. U qal: Mela ma żżammejtxli barka oħra?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9fbe6033ee10bf4ea66d340f04c405b2ad1bcfe46a2b0338760867f2d18c89fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/27\/33-36.1792598435448.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "Mela"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "semmieh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "ויעקבני",
+      "gloss": "għaqqabni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "darbiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dritt il-kbir"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "dritt il-kbir tiegħi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ħadha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u araw"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "il-barka tiegħi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Mela"
+    },
+    {
+      "surface": "אצלת",
+      "gloss": "ma żżammejtxli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barka oħra"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:35.450109217Z",
+  "model": "glm-5.3"
+}

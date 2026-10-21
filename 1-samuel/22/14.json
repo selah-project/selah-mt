@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 22:14",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-is-sultan Xa'ul",
+      "rationale": "difża ta' Aħimelek indirizzata direttament lis-sultan"
+    },
+    {
+      "kind": "crux",
+      "subject": "וסר אל משמעתך",
+      "rationale": "'ddaħħal fil-kunsill tiegħek' kontra 'jmur wara l-ordnijiet tiegħek' — משמעת tista' tkun jew smigħ jew obbedjenzja"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨il-⟩",
+      "rationale": "l-artiklu Malti m'hemmx fil-Lhudi f'każ ta' המלך"
+    }
+  ],
+  "translation": "U Aħimelek wieġeb ⟨את⟩ is-sultan u qal: U min fost il-qaddejja kollha tiegħek bħal David, sikwit, u l-iben fil-liġi tas-sultan, u jmur lejn is-smigħ tiegħek, u mfaħħar f'darek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/22\/13-16.1792608247026.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "U wieġeb"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aħimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-sultan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "U min"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fost il-kollha"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qaddejja tiegħek"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "bħal David"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "sikwit"
+    },
+    {
+      "surface": "וחתן",
+      "gloss": "u l-iben fil-liġi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "u jmur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "משמעתך",
+      "gloss": "is-smigħ tiegħek"
+    },
+    {
+      "surface": "ונכבד",
+      "gloss": "u mfaħħar"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "f'darek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:44:07.027637006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוענו\/בגוע",
+      "rationale": "għerq גוע imtenni — 'mħassna meta mħassnu' iżomm it-tgħawġa"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "gloss": "infinitiv ta' qarriela jerħi lil xejn f'ktubiet rqiqa; jingħata b'mod ġenerali"
+    },
+    {
+      "kind": "you",
+      "subject": "il-poplu ma' Moxe",
+      "rationale": "diskors dirett lejn Moxe u Aharon (b'kooperattiv 'intom' fil-vers 4)"
+    }
+  ],
+  "translation": "U l-poplu ġiddu ma' Moxe u qalu: Jit li mħassna meta mħassnu aħwa tagħna quddiem Jaħwe!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a3a2ca00832cf7147da871aaf6dee075e2dfc0e4f47759e3ee8c3f432fc0c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/20\/1-4.1792602964281.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "u ġiddu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "l-poplu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "qalhom"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "Jit li"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "mħassna"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "meta mħassnu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "aħwa tagħna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T17:16:04.286538030Z",
+  "model": "glm-5.3"
+}

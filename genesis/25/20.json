@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 25:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-kopula Maltija meħtieġa; l-Lhudi juża ויהי narrattiv"
+    },
+    {
+      "kind": "measurement",
+      "subject": "erbgħin sena",
+      "rationale": "għadd ta' snin għomor Jitsħaq fiż-żwieġ"
+    }
+  ],
+  "translation": "U Jitsħaq kien ibn erbgħin sena meta ħa ⟨את⟩ lil Rivka, bint Betuel l-Aramaj minn Paddan-Aram, oħt Lavan l-Aramaj, għalih bħala mara.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "65f578f379afddde7ad876c5069ff795069c8e374a4511d924ea63424a66fb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/25\/17-20.1792598344846.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsħaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ibn"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "erbgħin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "בקחתו",
+      "gloss": "meta ħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l-Aramaj"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "minn Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "oħt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l-Aramaj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bħala mara"
+    }
+  ],
+  "timestamp": "2026-10-21T15:59:04.847557581Z",
+  "model": "glm-5.3"
+}

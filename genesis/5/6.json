@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ħames snin u mija sena",
+      "rationale": "Għadd ta' snin qabel twelid Enox"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaldaq lil",
+      "rationale": "הוליד ikkwotat b'mod assolut; il-Lhudi jgħid sempliċement 'wellded'"
+    }
+  ],
+  "translation": "U Set għax ħames snin u mija sena, u jaldaq lil ⟨את⟩ Enox.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/5\/5-8.1792597727132.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ħames"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snin"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "u mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "jaldaq lil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enox"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enox"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:47.133470834Z",
+  "model": "glm-5.3"
+}

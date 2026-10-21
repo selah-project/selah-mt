@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 17:12",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויואל",
+      "rationale": "'rresta\/ħa l-ħsieb b'mod rifless' (JPS 'were resolved') vs 'rrefuża' (KJV margin) vs 'xtaq' (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "להוריש",
+      "rationale": "'jirbħu\/jiddispossedu' — litteralment 'jirtu b'tkeċċir ta' min kien qabel'"
+    }
+  ],
+  "translation": "Iżda ulied Manasse ma setgħu jirbħu ⟨את⟩ dawn il-bliet, u l-Kananit ħa l-ħsieb li joqgħod f'dan l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/17\/9-12.1792606685526.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "iżda ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "setgħu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "jirbħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-bliet"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dawn il-bliet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ħa l-ħsieb"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "l-Kananit"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "li joqgħod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "f'dan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T18:18:05.528237691Z",
+  "model": "glm-5.3"
+}

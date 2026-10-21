@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "Beljal: 'l-viles' \/ 'għedewwa' vs isem proprju Beljal — żammejtu bħala isem (JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משברי\/נחלי",
+      "rationale": "Żewġ imraġ għall-ilma (imġiebaħ u nixxiegħa) fuq מות u בליעל — par parallel mitlief parzjalment bil-Malti."
+    }
+  ],
+  "translation": "Għax l-imġiebaħ tal-mewt dawruni, in-nixxiegħa ta' Beljal bbexxex lil ħaddieħor — jogħġobni jibżgħuni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/22\/5-8.1792609053594.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "dawruni"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "l-imġiebaħ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tal-mewt"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "in-nixxiegħa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ta' Beljal"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "jibżgħuni"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:33.594700912Z",
+  "model": "glm-5.3"
+}

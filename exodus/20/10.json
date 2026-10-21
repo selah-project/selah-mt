@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Il-Lhudi m'għandux kopula; miżjud bil-Malti u mmarkat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bhejjem",
+      "rationale": "בהמה singular kollettiv; il-Malti juża l-plural qarib tal-Lhudi."
+    },
+    {
+      "kind": "you",
+      "subject": "imperattiv dwar ix-Xabbat",
+      "rationale": "Indirizz dirett lil Jisrael bil-lista ta' min jistrieħ."
+    }
+  ],
+  "translation": "U l-ijum is-seba' huwa Xabbat lil Jaħwe Elohim tiegħek: tagħmel l-ebda ħidma — inti, u ibnek, u bintek, l-iskjav tiegħek u l-iskjava tiegħek, il-bhejjem tiegħek, u l-barrani tiegħek li jinsab fi bibienek;",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/20\/9-12.1792599671805.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "U l-ijum"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "is-seba'"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Xabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "l-ebda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "xi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ħidma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "u ibnek"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "u bintek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "l-iskjav tiegħek"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "u l-iskjava tiegħek"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "il-bhejjem tiegħek"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "u l-barrani tiegħek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "fi bibienek"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:11.806655333Z",
+  "model": "glm-5.3"
+}

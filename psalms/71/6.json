@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tifħiri",
+      "rationale": "il-Malti jeħtieġ verb; il-Lhudi għandu biss il-fraża nominali בך תהלתי תמיד"
+    },
+    {
+      "kind": "crux",
+      "subject": "qta'għtiieni",
+      "rationale": "גוזי: 'qta'għtiieni mill-ġuf' (ħruġ) kontra 'għollejni\/għazarni'; l-għerq tfisser jaqta'"
+    }
+  ],
+  "translation": "Fuqek tnisselt minn ġuf, minn msaren ommi inti qta'għtieni; fiki tifħiri dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/5-8.1792617393720.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "tnisselt"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "minn ġuf"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "minn msaren"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ommi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "qta'għtieni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fik"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "tifħiri"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:33.721048641Z",
+  "model": "glm-5.3"
+}

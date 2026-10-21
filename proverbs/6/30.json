@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לגנב\/יגנוב",
+      "rationale": "il-għerq גנב jidher darbtejn — 'ħalliel\/jisraq' — il-Malti jżomm il-logħba b'ħalliel\/israq"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lilu nnifsu",
+      "rationale": "נפשו mhix ruħ imma l-ġuħ, il-ħtieġa tal-ħajja — 'lilu nnifsu' iżomm il-ħsibja ta' ġisem nieqes"
+    }
+  ],
+  "translation": "Ma jitbaxxux lit-ħalliel meta jisraq biex jimla lilu nnifsu meta jġu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/6\/29-32.1792618449988.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "jitbaxxux"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "lit-ħalliel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "jisraq"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "biex jimla"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lilu nnifsu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "jġu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:09.989659931Z",
+  "model": "glm-5.3"
+}

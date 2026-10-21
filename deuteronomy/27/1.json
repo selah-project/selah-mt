@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "Kmand dirett bil-imperattiv 'Osserva' lill-poplu ta' Jisrael mill-bokka ta' Moxe u x-xiħin."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "gloss": "l-aleph-tav mal-pronom 'lilkom' ma jibqax separat għax f'Malti huwa pronom wieħed."
+    }
+  ],
+  "translation": "U Moxe u x-xiħin ta' Jisrael amaraw ⟨את⟩ il-poplu, jgħidu: Osserva ⟨את⟩ il-kmand kollu li jien qiegħed nikkmanda ⟨את⟩ lilkom illum.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/27\/1-4.1792605929767.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "amaraw"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "u x-xiħin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Osserva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kmand kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "il-kmand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "qiegħed nikkmanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    }
+  ],
+  "timestamp": "2026-10-21T18:05:29.768371715Z",
+  "model": "glm-5.3"
+}

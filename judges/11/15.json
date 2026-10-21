@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaqsam",
+      "rationale": "'Hekk qal' bil-Malti; 'jaqsam' għandu ħoss formali ta' messaġġ li jixbaħ il-formula Lhudija כה אמר."
+    },
+    {
+      "kind": "you",
+      "subject": "lis-sultan ta' wlied Għammon",
+      "rationale": "Messaġġ dirett lis-sultan b'rispons għat-talba tiegħu dwar l-art."
+    }
+  ],
+  "translation": "u qalilu: Hekk jaqsam Jiftaħ: Ma ħax Jisrael ⟨את⟩ l-art ta' Moab u lanqas ⟨את⟩ l-art ta' wlied Għammon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "207e6d69b6cf370032646f726189dfb62e3175e9bb796a7b5b27b2733596d7be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/11\/13-16.1792607235207.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qalilu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jaqsam"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaħ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ħax"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art ta' Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-art ta' wlied Għammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta' wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Għammon"
+    }
+  ],
+  "timestamp": "2026-10-21T18:27:15.209211161Z",
+  "model": "glm-5.3"
+}

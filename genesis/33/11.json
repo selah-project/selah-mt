@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "barka",
+      "rationale": "ברכתי — il-barka ta' Ġagħaqov, l-istess kelma tal-barka misruqa minn Eżav (27:35); siewi tal-istorja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kollox",
+      "rationale": "יש לי כל — 'għandi kollox' wieħed mal-waqfa ta' Eżav 'għandi ħafna' (rab) fil-vers 9."
+    }
+  ],
+  "translation": "Ħu, jekk jogħġbok, ⟨את⟩ barka tiegħi li ġiet mgħoddija lilek, għax Elohim ħannini, u għax għandi kollox. U ġegħlu, u ħadha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/33\/9-12.1792598552681.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barka tiegħi"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "barka tiegħi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "ġiet mgħoddija"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ħannini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "u għax"
+    },
+    {
+      "surface": "יש",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "ġegħlu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ħadha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:32.682210138Z",
+  "model": "glm-5.3"
+}

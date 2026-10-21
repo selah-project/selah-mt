@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אבטח",
+      "rationale": "Bataħ = ġirred lejn kenn mingħajr ġaġala; il-Malti 'nilħa mill-ġdid il-kenn' iżomm il-ħsieb tas-sireni"
+    },
+    {
+      "kind": "you",
+      "subject": "addressee",
+      "rationale": "Indirizz dirett lil Elohim: 'f'lek nilħa l-kenn'"
+    }
+  ],
+  "translation": "Jum li nibża', jiena f'lek nilħa mill-ġdid il-kenn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/56\/1-4.1792617221350.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Jum"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "li nibża'"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "f'lek"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nilħa mill-ġdid il-kenn"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:41.351869723Z",
+  "model": "glm-5.3"
+}

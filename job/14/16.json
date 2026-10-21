@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ma tgħassix dwar il-ħatja tiegħi",
+      "rationale": "לא תשמור על חטאתי: KJV\/ASV jaqsmuha bħala mistoqsija ('dost thou not watch?'), YLT\/JPS bħala dikjarazzjoni; ġejt wara d-dikjarazzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħatja",
+      "rationale": "חטאתי tfisser ħatja u wkoll penażż\/offriena tal-ħatja; ħadt l-ewwel tifsira"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tgħodd il-passi",
+      "rationale": "ספר = tgħodd bħala rekord; Alla jgħodd il-passi tal-bniedem"
+    }
+  ],
+  "translation": "Għaliex issa l-passi tiegħi tgħoddihom; ma tgħassix dwar il-ħatja tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a61c64dadfa09e2eca5f49c9519674b3d02750aeb7a46fcfbda5cad8c2adc9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/14\/16-16.1792623837340.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "il-passi tiegħi"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "tgħoddihom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "tgħassi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dwar"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "il-ħatja tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:57.340797915Z",
+  "model": "glm-5.3"
+}

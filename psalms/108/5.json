@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ċpar",
+      "rationale": "שחקים litteralment 'trab rqaq \/ fajam irqiq', imqass għall-ħbubirma tas-sema."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים\/שחקים",
+      "rationale": "żewġ schemi wieħed fuq l-ieħor — sema u fajam — paralleliżmu mqiegħed f'qafas ta' kull ma jagħlaq."
+    }
+  ],
+  "translation": "Għaliex kbir 'l fuq mis-sema ħesedek, u saċ-ċpar l-emannek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/108\/5-8.1792617886383.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "'l fuq min-"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ħesedek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "iċ-ċpar"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "lemmenek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:46.383963599Z",
+  "model": "glm-5.3"
+}

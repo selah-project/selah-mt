@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זֻלּוּת",
+      "rationale": "זולות appears only here in the Tanakh; from the root זול (cheap, contemptible), rendered 'viltà' (vileness)."
+    },
+    {
+      "kind": "crux",
+      "subject": "כְּרֻם זֻלּוּת",
+      "rationale": "'when vileness is exalted' (KJV\/ASV take it as passive with כרום as pual of רום) vs 'as vileness is exalted by the sons of men' (YLT takes בני אדם as agent)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rasħaqin",
+      "rationale": "רשעים is 'the wicked' in its concrete sense of actively bad persons; Maltese 'rasħaq' keeps the Semitic root."
+    }
+  ],
+  "translation": "Minn kullimkien ir-rasħaqin iduru, meta l-viltà tiġi mgħollija fost il-bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b2778bfa2d03ee89d0f960057d56dd703d5cd57a8b8b89b82e2c82745f85fc0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/12\/9-9.1792616579653.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "minn kullimkien"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ir-rasħaqin"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "iduru"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "tiġi mgħollija"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "l-viltà"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fost il-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:59.653686586Z",
+  "model": "glm-5.3"
+}

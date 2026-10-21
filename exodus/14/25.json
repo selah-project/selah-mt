@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-Misrijin",
+      "rationale": "Lhudi jgħid Mitsrajim (l-isem tal-art) anki għan-nies; Malti għandu kelma għan-nies"
+    },
+    {
+      "kind": "crux",
+      "subject": "ta widda",
+      "rationale": "ויסר: 'neħħa\/warrab' ir-roti (KJV) kontra 'għamlithom idurru\/imbalanzati' (BSB)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Inħarbu",
+      "rationale": "אנוסה qalb komuni (cohortative) 'ħribu(na)' mhux sinjali ta' persuna waħda"
+    }
+  ],
+  "translation": "U ta widda ⟨את⟩ il-karrettun tar-roti tagħhom, u kienu jmexxuhom bi tqil; u qalu l-Misrijin: Inħarbu mill-wiċċ ta' Jisrael, għax Jaħwe qiegħed jiġġieled għalihom kontra Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2ac2b3fe7f019dbddc1aaaf7ee6be50b4ab62a4104c7e1167c559faaa6a0dca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/14\/25-28.1792599534718.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ta widda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-karrettun tar-roti tagħhom"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "il-karrettun tar-roti"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "tagħhom"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "jmexxuhom"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "bi tqil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l-Misrijin"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Inħarbu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mill-wiċċ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "jiġġieled"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kontra Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:18:54.719691390Z",
+  "model": "glm-5.3"
+}

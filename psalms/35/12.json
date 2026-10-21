@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישלמוני",
+      "rationale": "mis-sens ta' שלם (ħelsien\/sodda): huma 'jħallsu' — ironija, jiswa lil min ħallas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħassra",
+      "rationale": "שכול hija tensil ta' wild, 'tiltien' — aktar b'saħħitha minn 'ħassra'"
+    }
+  ],
+  "translation": "Iħallsuni ħażen minfloq il-ġid, ħassra għal ruwaħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/9-12.1792616930184.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Iħallsuni"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "minfloq"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "il-ġid"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ħassra"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "għal ruwaħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:50.185829284Z",
+  "model": "glm-5.3"
+}

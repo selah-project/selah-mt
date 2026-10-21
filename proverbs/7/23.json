@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "b'ħajtu",
+      "rationale": "נפש is throat\/breath\/life-force; rendered 'ħajja' (life), losing the life-force nuance."
+    },
+    {
+      "kind": "alternative",
+      "subject": "l-fwied",
+      "rationale": "כבדו 'his liver' — the seat of life in Hebrew thought; some render 'vital organs'."
+    }
+  ],
+  "translation": "Sa tninfed vleġġa l-fwied tiegħu; bħal għasfur bil-għaġla għan-nassa, u ma jaf li huwa b'ħajtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2edb5ac9898e9bf0e8987e5b05ee9734674af8989e1bd60be6c8e01629e1ebd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/7\/21-24.1792618503939.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "tninfed"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "vleġġa"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "l-fwied tiegħu"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "bil-għaġla"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "għasfur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "פח",
+      "gloss": "in-nassa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "b'ħajtu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:03.940123672Z",
+  "model": "glm-5.3"
+}

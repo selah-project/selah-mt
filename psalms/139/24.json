@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך עצב",
+      "rationale": "'triq ta' uġigħ\/idollu' — għerq עצב jagħti kemm idollu (Ps 16:4) kemm uġigħ; KJV 'wicked way', JPS 'grievous'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "rationale": "Literalment 'il-punt li jgħib' — żmien bla tarf; 'mill-qedem sal-iberu' iżżomm il-ġunjiura"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עצב",
+      "rationale": "Jista' jkun 'triq ta' uġigħ' (triq li twarrab lejn allat oħrajn)"
+    }
+  ],
+  "translation": "U ara jekk hemmx triq ta' uġigħ fija, u gxieldni fit-triq ta' mill-qedem sal-iberu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/139\/21-24.1792618241701.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "U ara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ta' uġigħ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fija"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "u gxieldni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta' mill-qedem sal-iberu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:41.702587130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מאד",
+      "rationale": "'unto very much' rendered idiomatically 'għal kollox' (utterly)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "plea addressed directly to God"
+    }
+  ],
+  "translation": "⟨את⟩ il-ħrieg tiegħek inżomm; la tħallinix għal kollox.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/5-8.1792618013656.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħrieg tiegħek"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "il-ħrieg tiegħek"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "inżomm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tħallinix"
+    },
+    {
+      "surface": "עד",
+      "gloss": "għal kollox"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "għal kollox"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:53.657465196Z",
+  "model": "glm-5.3"
+}

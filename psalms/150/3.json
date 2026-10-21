@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "shofar",
+      "rationale": "Horns of the instrument names left in Hebrew form — the shofar, nevel and kinor are names, not generic instruments."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bil-miġja",
+      "rationale": "תקע is the blast itself; 'bl-użu shofar' would be a freer reading."
+    }
+  ],
+  "translation": "Faħħuh bil-miġja ta' shofar, faħħuh bin-nevel u bir-kinor.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/150\/1-4.1792618315608.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "faħħuh"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "bil-miġja"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ta' shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "faħħuh"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "bin-nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "bir-kinor"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:55.609556295Z",
+  "model": "glm-5.3"
+}

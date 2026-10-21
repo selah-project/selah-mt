@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ħamsin sena",
+      "rationale": "età ta' rtirar miċ-ċomb tat-Tal-Leviti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ċomb",
+      "rationale": "צבא hawn means service-band, not army; 'ċomb tas-servizz' keeps the conscription picture"
+    }
+  ],
+  "translation": "U minn bniedem ta' ħamsin sena jerġa' lura miċ-ċomb tas-servizz, u mhux se jaqdi iktar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/8\/25-26.1792602538668.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "u minn bniedem ta'"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ħamsin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "jerġa' lura"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "miċ-ċomb"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tas-servizz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "jaqdi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    }
+  ],
+  "timestamp": "2026-10-21T17:08:58.669626821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 2:8",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אלו",
+      "gloss": "il-prepozizzjoni 'għandu' tidhol fil-verb Malti 'qalilu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרזות",
+      "rationale": "plural ta' 'art miftuħa bla swar' — tradott 'bħal bliet bla swar' biex il-figura tal-kobor tinżamm"
+    },
+    {
+      "kind": "you",
+      "subject": "dak iż-żagħżugħ",
+      "rationale": "imperattiv doppju addrezzat lill-żagħżugħ — Ċaqlaq, kellem"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bhejjem",
+      "rationale": "il-ħela ta' nies u bhejjem hija l-għan tal-kejl tal-ħabel"
+    }
+  ],
+  "translation": "U qalilu: Ċaqlaq, kellem lil dak iż-żagħżugħ, għidlu: Bħal bliet bla swar se toqgħod Jeruxalajim, minħabba l-ħela ta' nies u ta' bhejjem fi ħdanha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/2\/5-8.1792616170382.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qalilu"
+    },
+    {
+      "surface": "אלו",
+      "gloss": ""
+    },
+    {
+      "surface": "רץ",
+      "gloss": "Ċaqlaq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kellem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dak iż-żagħżugħ"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "għidlu"
+    },
+    {
+      "surface": "פרזות",
+      "gloss": "bħal bliet bla swar"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "se toqgħod"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "minħabba l-ħela ta'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nies"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "u bhejjem"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "fi ħdanha"
+    }
+  ],
+  "timestamp": "2026-10-21T20:56:10.383441499Z",
+  "model": "glm-5.3"
+}

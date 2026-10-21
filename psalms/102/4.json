@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קד",
+      "rationale": "קד (qēḏ): 'firebrand\/ħatab jaħraq' (ASV\/BSB) kontra 'hearth\/fuklar' (KJV\/JPS); għażilt 'mokda' qrib ta' מוקד."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קד",
+      "rationale": "Il-kelma קד tidher darba biss fit-Tanakh, f'dan il-vers."
+    }
+  ],
+  "translation": "Għaliex spiċċaw bħad-duħħan l-ġranet tiegħi, u għadamieti bħal mokda inħarqu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/1-4.1792617771730.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "spiċċaw"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "bħad-duħħan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "l-ġranet tiegħi"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "u għadamieti"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "קד",
+      "gloss": "mokda"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "inħarqu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:51.731080141Z",
+  "model": "glm-5.3"
+}

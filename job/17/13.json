@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 17:13",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jeħtieġha għal din is-sentenza nominali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Xeol",
+      "rationale": "שאול mhuwiex infern — id-dinja tal-mejtin taħt l-art; il-kelma Lhudija tibqaġ"
+    }
+  ],
+  "translation": "Jekk nistenna, Xeol ⟨hu⟩ dari; fid-dlami firxt it-torsejja tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/17\/13-16.1792619420166.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "אקוה",
+      "gloss": "nistenna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xeol"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "dari"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "fid-dlami"
+    },
+    {
+      "surface": "רפדתי",
+      "gloss": "firxt"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "it-torsejja tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:50:20.167002520Z",
+  "model": "glm-5.3"
+}

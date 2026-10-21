@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "intom",
+      "rationale": "pronom indirizz miżjud bir-retività, għax l-ebrajku jsejjaħ lis-smewwiet direttament"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "il-verb kopulattiv li nieħu bżonn u l-ebrajku ma għandux"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמי השמים",
+      "rationale": "semtejn is-smewwiet — superlattiv ebrajk, jinżamm il-kostrutt maħluq"
+    }
+  ],
+  "translation": "Ifaħħuh intom smewwiet is-smewwiet, u l-ilmijiet li ⟨huma⟩ fuq is-smewwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/148\/1-4.1792618325810.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Ifaħħuh"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "smewwiet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "u l-ilmijiet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:05.811500679Z",
+  "model": "glm-5.3"
+}

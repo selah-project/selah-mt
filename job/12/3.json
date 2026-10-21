@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qlub",
+      "rationale": "לבב hu d-doppju ta' לב — il-Malti 'qlub' iżomm il-plural, 'mohħ' jitilfu"
+    }
+  ],
+  "translation": "Jien ukoll għandi qlub bħalkom; m'inix inqas minnkom; u lil ⟨את⟩ min ma hemmx bħal dawn?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/1-4.1792619324893.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qlub"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "bħalkom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "inqas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "minnkom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemmx"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:44.894886841Z",
+  "model": "glm-5.3"
+}

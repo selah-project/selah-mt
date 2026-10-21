@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Xoxxannim",
+      "rationale": "שושנים = 'ħannewija'; baqa' bħala isem tal-melodija skont il-ħoss Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "maskil",
+      "rationale": "kelma tat-titlu li tfisser poeżija ta' tagħlim; ma tintradux"
+    }
+  ],
+  "translation": "Għad-direttur, fuq ix-Xoxxannim; għal wlied Korach; maskil; kant ta' maħbubin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/45\/1-4.1792617049945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "għad-direttur"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ix-Xoxxannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "għal wlied"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kant"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ta' maħbubin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:49.945794199Z",
+  "model": "glm-5.3"
+}

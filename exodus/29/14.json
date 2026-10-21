@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "offrita għad-dnub",
+      "rationale": "חטאת tfisser u d-dnub u l-offrita għad-dnub; il-kuntest jitlob is-sens ta' sagrifiċċju."
+    },
+    {
+      "kind": "addition",
+      "subject": "Imma",
+      "gloss": "il-vav hawn jikkontrasta mal-vers 13, mhux sempliċiment 'u'."
+    }
+  ],
+  "translation": "Imma ⟨את⟩ laħam il-barri u ⟨את⟩ ġildu u ⟨את⟩ ħmieġu taħarqhom fin-nar barra mill-kamp: offrita għad-dnub ⟨hu⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/13-16.1792600000911.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laħam il-barri"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il-barri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ġildu"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ġildu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ħmieġu"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ħmieġu"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "taħarqhom"
+    },
+    {
+      "surface": "באש",
+      "gloss": "fin-nar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "barra"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mill-kamp"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "offrita għad-dnub"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T16:26:40.912071241Z",
+  "model": "glm-5.3"
+}

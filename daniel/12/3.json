@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rqaq tas-sema",
+      "rationale": "רקיע huwa l-'estensjon' ħarxa — 'firmament' bil-Malti 'rqaq tas-sema' jaqreb."
+    },
+    {
+      "kind": "alternative",
+      "subject": "dawk li jqiegħdu d-dritt",
+      "rationale": "jista' wkoll 'dawk li jġustizzaw lil ħafna' — צדק bħala għerq ta' 'tsedeq'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sa mill-aħħar",
+      "rationale": "לעולם ועד hi ġest ta' żejda retorika — 'għal dejjem u għal dejjem iktar'."
+    }
+  ],
+  "translation": "U dawk li għandhom il-fehma jiddawl bħaż-żuħu tar-rqaq tas-sema, u dawk li jqiegħdu d-dritt lil ħafna bħall-kwiekeb, għal olam u sa mill-aħħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2d95ae562d8431f663a4358103d934815dd6c6740e404f853e14e360e492b4d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/12\/1-4.1792621042298.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "u dawk li għandhom il-fehma"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "jiddawl"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "bħaż-żuħu"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "tar-rqaq tas-sema"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "u dawk li jqiegħdu d-dritt"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "lil ħafna"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "bħall-kwiekeb"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal olam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u sa mill-aħħar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:17:22.299592116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נגש\/יגשו",
+      "rationale": "l-istess għerq 'qareb' jerġa' jiġi: joqrob... ma joqorbux — gradazzjoni ta' qrib\/bogħod ma tinżammx b'mod sħiħ bil-Malti."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jitilgħux",
+      "rationale": "jista' jinqra bħala imperattiv ('u l-poplu ma jitlaqx') milli futur; il-Malti żamm il-futur skont il-kontenxt."
+    }
+  ],
+  "translation": "U Moxe joqrob waħdu għand Jaħwe, u huma ma joqorbux, u l-poplu ma jitilgħux miegħu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "99c1979b4f2f9b89ef16d80c7a3ad64c56209db48fc19828b72770a7895511b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/24\/1-4.1792599800276.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "u joqrob"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "waħdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "u huma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "joqorbux"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "u l-poplu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "jitilgħux"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:20.277701049Z",
+  "model": "glm-5.3"
+}

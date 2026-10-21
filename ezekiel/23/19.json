@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 23:19",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "żiedet… biex ftakret",
+      "rationale": "לזכר can read as purpose ('in order to remember') or manner ('remembering'); the purpose reading matches v.21's deliberate recall."
+    }
+  ],
+  "translation": "U żiedet ⟨את⟩ żinitha, biex ftakret ⟨את⟩ l-ġranet ta' żogħżitha, meta żanet fl-art ta' Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/23\/17-20.1792614587687.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרבה",
+      "gloss": "u żiedet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żinitha"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "żinitha"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "biex ftakret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ġranet ta' żogħżitha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "l-ġranet"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ta' żogħżitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "żanet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T20:29:47.688953090Z",
+  "model": "glm-5.3"
+}

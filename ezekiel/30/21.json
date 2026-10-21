@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 30:21",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ben adam",
+      "rationale": "בן אדם literally 'iben adam', title ta' Eżekjel; MHUX 'bniedem' biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "dirgħajn",
+      "rationale": "זרוע singular fil-Lhudi; xi traduzzjonijiet qrajh bħala plural għall-metonimija tal-qawwa"
+    }
+  ],
+  "translation": "Iben tal-bniedem, ⟨את⟩ id-dirgħajn ta' Paroħ, sultan ta' Mitsrajim, ksirt, u ara, ma ġietx mborġa biex tagħti-fejqan, biex tpoġġi bendu biex tborġha, biex tsaħħha biex taqbad b'sejf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/30\/21-24.1792614777571.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tal-bniedem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dirgħajn"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "id-dirgħajn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroħ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "ksirt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חבשה",
+      "gloss": "ġietx mborġa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "biex tagħti"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "fejqan"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "biex tpoġġi"
+    },
+    {
+      "surface": "חתול",
+      "gloss": "bendu"
+    },
+    {
+      "surface": "לחבשה",
+      "gloss": "biex tborġha"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "biex tsaħħha"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "biex taqbad"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "b'sejf"
+    }
+  ],
+  "timestamp": "2026-10-21T20:32:57.572169040Z",
+  "model": "glm-5.3"
+}

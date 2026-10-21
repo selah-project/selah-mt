@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qdusija",
+      "rationale": "הקדש mill-għerq קדש — l-istess għerq ta' qaddis, miżmum b'kelma waħda"
+    }
+  ],
+  "translation": "U Jaħwe jirt ⟨את⟩ lil-Jehuda bħala s-sehma tiegħu fuq art il-qdusija, u għal darb'oħra jagħżel f'Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "388487df2e78417945281c8ea2ebe3a3394fb147bdf3db5208a12c7a875f9b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/2\/13-16.1792616153596.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "u jirt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil-Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lil-Jehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "bħala s-sehma tiegħu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "art"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "il-qdusija"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "u jagħżel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għal darb'oħra"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T20:55:53.597622793Z",
+  "model": "glm-5.3"
+}

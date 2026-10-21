@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי הדם הוא בנפש יכפר",
+      "rationale": "jien għedt 'id-demm hu li jagħmel il-maħfra bin-nifs'; JPS\/ASV: 'għaliex bin-nifs (tagħha) jagħmel il-maħfra' — is-suffiss hu fuq il-kelma jew fuq il-verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "'nifs' — ħajja\/vitalità, mhux 'ruħ' fil-modern; 'in-nifs tal-ġisem' = il-ħajja tal-ġisem."
+    },
+    {
+      "kind": "addition",
+      "subject": "ha",
+      "rationale": "il-Lhudi m'għandux verba kopula; il-Malti jeħtieġ 'hi' — immarkata."
+    }
+  ],
+  "translation": "Għaliex in-nifs tal-ġisem fid-demm hi ⟨ha⟩, u jien tajtku għalikom fuq l-artal biex jagħmel il-maħfra għal nfuskom; għaliex id-demm hu li jagħmel il-maħfra bin-nifs.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/17\/9-12.1792601005727.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "in-nifs"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "tal-ġisem"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "fid-demm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "tajtku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "biex jagħmel il-maħfra"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nfuskom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bin-nifs"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "jagħmel il-maħfra"
+    }
+  ],
+  "timestamp": "2026-10-21T16:43:25.729269630Z",
+  "model": "glm-5.3"
+}

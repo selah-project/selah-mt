@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija nifs \/ ħajja, mhux ruħ biss; kliem wieħed għal ħmits dottri"
+    },
+    {
+      "kind": "addition",
+      "subject": "li",
+      "rationale": "il-kostruzzjoni infinitiva bi temp teħtieġ konġunzjoni bil-Malti"
+    }
+  ],
+  "translation": "U ġara, meta spiċċa jkellem ma' Xaul, li nifs Jonothan inqdiet man-nifs ta' David, u Jonothan ħabbuh bħal nifsu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/18\/1-4.1792608098659.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "meta spiċċa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "jkellem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonothan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "inqdiet"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "man-nifs"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "u ħabbuh"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonothan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "bħal nifsu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:41:38.660410818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qalb",
+      "rationale": "לב mhux biss 'qalb' imma ukoll intelliġenza u rieda"
+    },
+    {
+      "kind": "crux",
+      "subject": "וואמרה לו",
+      "rationale": "Rashi jaqra bħala persuna ġejja; il-KJV 'she saith to him' tmur għall-persuna ta' qabel"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חסר לב",
+      "rationale": "espressjoni Lhudija għal 'min m'għandux sens', mhux persuna bla membri"
+    }
+  ],
+  "translation": "Min hu ċaħel, idur ġenb hawn; u lil min m'għandux qalb, t:għidlu:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/9\/13-16.1792618547725.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "hu ċaħel"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "idur ġenb"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "u lil min m'għandux"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "וואמרה",
+      "gloss": "tgħidlu",
+      "note": "perżmessa bħala kelma Lhudija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:47.726226532Z",
+  "model": "glm-5.3"
+}

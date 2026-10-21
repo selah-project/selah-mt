@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה occurs only here in the Tanakh — a bundle\/pack of belongings, rendered 'ħtiex'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישבתי",
+      "rationale": "Ketiv 'my dwelling' vs qere 'you who dwell'; rendered per qere as address to Jerusalem."
+    }
+  ],
+  "translation": "Ġbor mill-art il-ħtiex tiegħek, int li toqgħod taħt l-assedju.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/10\/17-20.1792612695211.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "Ġbor"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "il-ħtiex tiegħek"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "int li toqgħod"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "taħt l-assedju"
+    }
+  ],
+  "timestamp": "2026-10-21T19:58:15.211853389Z",
+  "model": "glm-5.3"
+}

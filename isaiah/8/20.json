@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחר",
+      "rationale": "'fajr' — xi traduzzjonijiet jqraw 'dawl' (metațeza għal אור), oħrajn jżommu 'filgħodu'; il-Malti jgħaqqad: 'dawl ta' filgħodu'"
+    },
+    {
+      "kind": "secret",
+      "subject": "Tora u x-xhieda",
+      "rationale": "issiġillit f'8:16 — l-awtorità msotta kontra dawk li jittfittxu lill-imwiet"
+    },
+    {
+      "kind": "addition",
+      "subject": "skond",
+      "rationale": "il-prepożizzjoni כְ saret 'skond' biex t-terminu jqarrek; il-Lhudi għandu biss il-kostrutt"
+    }
+  ],
+  "translation": "Għat-Tora u għax-xhieda! Jekk ma jgħidux skond din il-kelma, li m'għandux dawl ta' filgħodu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/8\/17-20.1792611012506.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "għat-Tora"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "u għax-xhieda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jgħidux"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "skond il-kelma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'għandux"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dawl ta' filgħodu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:30:12.507826539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħabel",
+      "rationale": "הבל litteralment 'nifs\/fwar' — tranżitorju u vojt"
+    },
+    {
+      "kind": "crux",
+      "subject": "tgerġir tar-ruwaħ",
+      "rationale": "רעות רוח: 'torment ta' ruħ' (KJV) kontra 'qbid wara r-riħ' (ASV) — מרעה tfisser rqad ta' wara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל\/רוח",
+      "rationale": "it-tnejn huma nifs\/riħ — void u riħ flimkien, il-ħoss jinfeaħħak"
+    }
+  ],
+  "translation": "Rajt ⟨את⟩ il-għemejiet kollha li saru taħt ix-xemx, u arah, il-kollox huwa ħabel u tgerġir tar-ruwaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/1\/13-16.1792620178247.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Rajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-għemejiet kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "il-għemejiet"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "li saru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ix-xemx"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u arah"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "il-kollox"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ħabel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "u tgerġir"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tar-ruwaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:58.248810707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עורר את חניתו",
+      "rationale": "'wielded\/lifted his spear' — KJV\/ASV\/JPS jiddeddizzjoni 'slew them' li ma hemmx fl-Ebrajk; hawn tħalliet it-tixrid tal-lanza biss."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא שם בשלושה",
+      "rationale": "'ma kellux isem fost it-tlieta' — kuntrarju għal 2 Sam 23:19 'welaħħan ma wasal għat-tlieta'; il-maqlub ta' Sifra tal-Kronisti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלל",
+      "rationale": "'midluf\/flieles' — KJV tipprova tqiegħed 'slew' minflok; il-kelma Ebrajk tgħid midluf."
+    },
+    {
+      "kind": "addition",
+      "subject": "kellux",
+      "rationale": "l-Ebrajk ma għandux verb ma' 'isem'; il-verb Malti miżjud u mmarkat."
+    }
+  ],
+  "translation": "U Avxaj, ħu Joab, hu kien ras tat-tlieta, u hu xerred ⟨את⟩ lanzaħtu fuq tliet mija midlufin, iżda ma ⟨kellux⟩ isem fost it-tlieta.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8fe3551f8283e3f4c1eade2d34faadab8eb82c9e11f6248b9c64427155f4ef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/11\/20-20.1792623939066.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "U Avxaj"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "tat-tlieta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "xerred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanzaħtu"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "lanzaħtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tliet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "midlufin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "fost it-tlieta"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:39.066837351Z",
+  "model": "glm-5.3"
+}

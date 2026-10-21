@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "L-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "invitation",
+      "subject": "faħħu \/ irrikonoxxu",
+      "rationale": "Imperattivi li jsejħu lill-qarrej għat-tifħir"
+    }
+  ],
+  "translation": "Faħħu lil Jaħ, irrikonoxxu lil Jaħwe, għax ⟨hu⟩ tajjeb, għax għal dejjem ħesedu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/106\/1-4.1792617902577.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaħ"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "irrikonoxxu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ħesedu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:02.578493309Z",
+  "model": "glm-5.3"
+}

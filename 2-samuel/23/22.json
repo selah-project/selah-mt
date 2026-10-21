@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kellu",
+      "rationale": "il-verb ”kellu” miżjud għal ”u לו שם” — ”u kien hemm isem għalih”"
+    },
+    {
+      "kind": "measurement",
+      "subject": "it-tliet il-ġellieda",
+      "rationale": "għadd ta' grad fil-ġerarkija tal-ġellieda ta' David"
+    }
+  ],
+  "translation": "Dawn għamel Benajahu bin Jehojada, u kellu isem fost it-tliet il-ġellieda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4221e281ecb62debe506b35d6e2f30235947221f30f6474d240e10bcd137e941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/23\/21-24.1792609184150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "u kellu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "fost it-tliet"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "il-ġellieda"
+    }
+  ],
+  "timestamp": "2026-10-21T18:59:44.150897956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Ġurament Lhudi: 'Jaħwe jgħix' — ħaj li huwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'ħlief \/ lanqas jekk': KJV jaqra sekwenza futur, YLT jaqra eċċezzjonali 'ħlief Jaħwe jidribu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yintilef",
+      "rationale": "ונספה litteralment 'jiġi miġbur magħhom (li mietet)' — maħrub jew meqrud"
+    }
+  ],
+  "translation": "U David qal: Jaħwe jgħix — ħlief Jaħwe jitfih, jew jiġi jumħu u jmut, jew jinżel fil-ġlied u jintilef.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/26\/9-12.1792608319257.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jgħix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ħlief"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "jitfih"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jumħu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jiġi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "u jmut"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "fil-ġlied"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "jinżel"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "u jintilef"
+    }
+  ],
+  "timestamp": "2026-10-21T18:45:19.258361498Z",
+  "model": "glm-5.3"
+}

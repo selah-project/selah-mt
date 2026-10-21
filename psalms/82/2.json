@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "it-tlugħ ta' wicc = partiġjanità; bil-Malti 'tneħħu wiċċ' biex tagħti r-rispett",
+      "alternatives": "jew litteralment 'tiġġorbu wiċċ ir-rħież'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "l-ellehim",
+      "rationale": "mistoqsja diretta lis-seduta tal-ġudikanti: 'Sa meta?'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-ġudikanti",
+      "rationale": "imperattiv sekond persuna plural maħruġ lill-ellehim tal-vers 1"
+    }
+  ],
+  "translation": "Sa meta thokkom bl-inġustizzja, u tneħħu ⟨wicc⟩ il-ħżiena? Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/82\/1-4.1792617555972.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "thokkom"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bl-inġustizzja"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "⟨wicc⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "il-ħżiena"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "tneħħu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:15.972845207Z",
+  "model": "glm-5.3"
+}

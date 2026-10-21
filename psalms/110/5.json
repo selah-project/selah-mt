@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rabħu",
+      "rationale": "אפו litteralment 'nejhru', użat b'idjom għall-għadab"
+    },
+    {
+      "kind": "idiom",
+      "subject": "nejhru",
+      "rationale": "l-għadab bl-ewwel ittra 'nejhru' bl-Ebrajk: l-anzjanà tqiegħed il-'''l-għadab'''"
+    },
+    {
+      "kind": "crux",
+      "subject": "minn fuq il-lemin tiegħek",
+      "rationale": "s Emendalment: ''Adonai (bil-lemin tiegħek) jolqot'' jew ''Adonai hemm fuq il-lemin tiegħek'' — il-maniżar hemmħa l-'lilmin"
+    }
+  ],
+  "translation": "Adonaj minn fuq il-lemin tiegħek; jisqat f'biċċiet is-slaten f'jum rabħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/110\/5-7.1792617972129.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "il-lemin tiegħek"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "jisqat f'biċċiet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "rabħu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "is-slaten"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:12.129438476Z",
+  "model": "glm-5.3"
+}

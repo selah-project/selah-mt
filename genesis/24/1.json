@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "Hebrew 'entered into days' = grew old; rendered 'daħal fl-iemien' keeping the picture"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fl-iemien",
+      "rationale": "old age counted in days\/years, a marking of time"
+    }
+  ],
+  "translation": "U Avraham sar xiħ, daħal fl-iemien, u Jaħwe bierek lil ⟨את⟩ Avraham f'kollox.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/1-4.1792598231396.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "U Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sar xiħ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "daħal"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "fl-iemien"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bierek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kollox"
+    }
+  ],
+  "timestamp": "2026-10-21T15:57:11.397360383Z",
+  "model": "glm-5.3"
+}

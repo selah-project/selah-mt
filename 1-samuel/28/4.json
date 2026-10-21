@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקבצו \/ ויקבץ",
+      "rationale": "L-istess għerq 'ġabar' għal Filistini u Xaul — il-paralŻel bejn żewġ armati."
+    }
+  ],
+  "translation": "U l-Filistini ġabru ruħhom, u ġew u kkampjaw f'Sunem; u Xaul ġabar ⟨את⟩ Jisrael kollu, u kkampjaw fil-Ġilboa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/28\/1-4.1792608476220.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ġabru ruħhom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "l-Filistini"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ġew"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kkampjaw"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "f'Sunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ġabar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kkampjaw"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "fil-Ġilboa"
+    }
+  ],
+  "timestamp": "2026-10-21T18:47:56.221310555Z",
+  "model": "glm-5.3"
+}

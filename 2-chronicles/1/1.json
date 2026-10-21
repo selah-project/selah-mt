@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Malti jeħtieġ il-kopula li l-Lhudi jħalli barra f'עמו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ipponta ruħu",
+      "rationale": "ויתחזק litteralment 'tbieket\/saħħaħ ruħu' — idjoma ta' qawwa maħtija"
+    }
+  ],
+  "translation": "U Xlomo bin David ipponta ruħu fis-saltna tiegħu, u Jaħwe Elohim tiegħu ⟨kien⟩ miegħu, u għollieh għoli kbir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "74a559d3fb215ed5566435f912a8be0f953b235e04da055d2384f22a2279d1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/1\/1-4.1792622307517.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "ipponta ruħu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xlomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "is-saltna tiegħu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim tiegħu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "u għollieh"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "għoli kbir"
+    }
+  ],
+  "timestamp": "2026-10-21T22:38:27.518388451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiena",
+      "rationale": "Il-verb Lhudi jinkludi lil min jitkellem iżda l-Malti jehtieg il-pronom"
+    }
+  ],
+  "translation": "U jiena nagħti ⟨את⟩ id-dar ta' Aħav bħad-dar ta' Jarobeam iben Nevat, u bħad-dar ta' Baasha iben Aħija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/9\/9-12.1792610320981.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar ta' Aħav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aħav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "bħad-dar"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "u bħad-dar"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Aħija"
+    }
+  ],
+  "timestamp": "2026-10-21T19:18:40.982466882Z",
+  "model": "glm-5.3"
+}

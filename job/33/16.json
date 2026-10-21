@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 33:16",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jikxef il-widna",
+      "rationale": "גָּלָה אֹזֶן litteralment 'jħoll il-widna' — idjom għal 'jikxef, juri'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובמסרם יחתם",
+      "rationale": "'u bit-twissija tagħhom jissiġilla' (KJV, YLT) kontra 'bit-tkastig tagħhom jissiġilla d-digriet' (JPS) kontra 'jibża'athom bit-twissijiet' (BSB, qari ta' יחתם bħala חתת); מוסר jista' jkun twissija jew kastig"
+    }
+  ],
+  "translation": "Mbagħad jikxef il-widna tal-irġiel, u bit-twissija tagħhom jissiġillaha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3dc3627b8b1b1215cfc8c786d3129a67a10ad326a2f456bdfa55fb31cdd97538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/33\/13-16.1792619647181.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mbagħad"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "jikxef"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "il-widna"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "tal-irġiel"
+    },
+    {
+      "surface": "ובמסרם",
+      "gloss": "bit-twissija tagħhom"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "jissiġillaha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:07.182119230Z",
+  "model": "glm-5.3"
+}

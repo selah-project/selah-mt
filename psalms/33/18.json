@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "il-Lhuid jaqbeż il-kopula; il-Malti jibħilha"
+    },
+    {
+      "kind": "invitation",
+      "subject": "għall-qarrej",
+      "rationale": "הנה ('Ara') jsejjaħ l-attenzjoni tal-qarrej direttament"
+    }
+  ],
+  "translation": "Ara, għajn Jaħwe hi ⟨fuq⟩ dawk li jibżgħu minnu, għal dawk li jistennew għall-ħesed tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/33\/17-20.1792616824160.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "עין",
+      "gloss": "għajn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨fuq⟩"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dawk li jibżgħu minnu"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "għal dawk li jistennew"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "għall-ħesed tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:04.161411415Z",
+  "model": "glm-5.3"
+}

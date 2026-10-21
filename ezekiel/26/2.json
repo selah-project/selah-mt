@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 26:2",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iben adam",
+      "rationale": "בן אדם literally 'iben adam', bniedem; jinżamm il-forma mhux 'bniedem' waħdu"
+    },
+    {
+      "kind": "crux",
+      "subject": "החרבה",
+      "rationale": "Sor jgħid 'immila' bil-wild tal-belt li ġiet mwarrba — KJV 'I shall be replenished, now she is laid waste'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "il-konġunzjoni יען אשר tifforma unità waħda 'għaliex'"
+    }
+  ],
+  "translation": "Iben adam, għaliex Sor qal kontra Jeruxalajim: Ha! inqasmet, il-bibien tal-ġnus; waslet għandi; ⟨se⟩ nimits b'dak li telaq nieqes.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/26\/1-4.1792614732943.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "יען",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "qal"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Sor"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "inqasmet"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "il-bibien"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tal-ġnus"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "waslet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "אמלאה",
+      "gloss": "nimits"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "b'dak li telaq nieqes"
+    }
+  ],
+  "timestamp": "2026-10-21T20:32:12.944957272Z",
+  "model": "glm-5.3"
+}

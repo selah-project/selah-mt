@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "הוא is emphatic in Hebrew; Maltese needs the copula bracketed"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Iġob",
+      "rationale": "Elifaz jindirizza lil Iġob b'mistoqsijiet sarkastiċi"
+    }
+  ],
+  "translation": "X'taf li aħna ma nafux? X'tifhem li mhux magħna ⟨hu⟩?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/15\/9-12.1792619276566.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "X'"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "taf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "li ma"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "nafux"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "tifhem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "li mhux"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "magħna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:56.567378450Z",
+  "model": "glm-5.3"
+}

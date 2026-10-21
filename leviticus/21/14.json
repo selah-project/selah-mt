@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "כי אם flimkjem tfisser 'ma... iżda'; il-אם waħduh ma għandu ekwivalenti Malti separat"
+    },
+    {
+      "kind": "addition",
+      "subject": "bħala",
+      "rationale": "il-Lhudi jgħid sempliċement 'jieħu mara'; 'bħala' miżjud għal-grammatika"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחללה",
+      "rationale": "ħalal: 'imħassra\/midluna' kontra 'profanata' — verżjoni waħda ta' mara mħarsa"
+    }
+  ],
+  "translation": "Armla, u divorzjata, u imħassra, żoni — ⟨את⟩ dawn ma jieħux; iżda btula minn fost niesu jieħu bħala mara.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9140dfa80f81c9a79f810af57a24a5fca1dcc9dd36c07f61470c19e049437d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/21\/13-16.1792601046979.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Armla"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "u divorzjata"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "u imħassra"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "żoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iżda"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "btula"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "minn fost niesu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bħala mara"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:06.980482256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדקה to-keep-shape bħala tsedeq, mhux 'ġustizzja' waħedha (D2)."
+    },
+    {
+      "kind": "crux",
+      "subject": "לישראל תפארתי",
+      "rationale": "'lil Jisrael is-sebħ tiegħi' — appozizzjoni lil Jisrael bħala l-ġemil tiegħi (KJV\/JPS), jew salvazzjoni mogħtija lil Jisrael flimkien ma' ġemil (BSB)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ħtieġa⟩",
+      "rationale": "il-Malti jeħtieġ prepożizzjoni qabel 'is-sebħ' għall-appozizzjoni; il-Lhudi għandu biss appozizzjoni."
+    }
+  ],
+  "translation": "Ġibbilt qrib it-tsedeq tiegħi, mhux se jbati bogħod, u s-salvazzjoni tiegħi mhux se tistenna; u npoġġi f'Sion salvazzjoni, lil Jisrael ⟨ħtieġa⟩ is-sebħ tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c86289585bb89cd143b327e6cfca267ea0eb894db0a06c836e7b7839e84aad2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/46\/13-13.1792611874523.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קֵרַבְתִּי",
+      "gloss": "ġibbilt qrib"
+    },
+    {
+      "surface": "צִדְקָתִי",
+      "gloss": "it-tsedeq tiegħi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תִרְחָק",
+      "gloss": "se jbati bogħod"
+    },
+    {
+      "surface": "וּתְשׁוּעָתִי",
+      "gloss": "u s-salvazzjoni tiegħi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תְאַחֵר",
+      "gloss": "se tistenna"
+    },
+    {
+      "surface": "וְנָתַתִּי",
+      "gloss": "u npoġġi"
+    },
+    {
+      "surface": "בְצִיּוֹן",
+      "gloss": "f'Sion"
+    },
+    {
+      "surface": "תְּשׁוּעָה",
+      "gloss": "salvazzjoni"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵל",
+      "gloss": "lil Jisrael"
+    },
+    {
+      "surface": "תִּפְאַרְתִּי",
+      "gloss": "is-sebħ tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:44:34.524083953Z",
+  "model": "glm-5.3"
+}

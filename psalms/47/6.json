@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תרועה",
+      "rationale": "Ċapċip ta' ferħ jew għajta tal-battalja; hemm telf fit-tifsira doppja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Sittiġ parallel: 'Elohim tela'... Jaħwe tela'' — żewġ ismijiet għal ħaddiem wieħed"
+    }
+  ],
+  "translation": "Elohim tela' biċ-ċapċip, Jaħwe bil-leħen tax-xufar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/47\/5-8.1792617138443.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "tela'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "biċ-ċapċip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bil-leħen"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "tax-xufar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:18.444491883Z",
+  "model": "glm-5.3"
+}

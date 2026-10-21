@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב\/יעקב",
+      "rationale": "l-istess għerq: ħataf bil-kejl (עקב) huwa għerq l-isem Jagħaqov — il-qerq tiegħu minn twelidu."
+    },
+    {
+      "kind": "crux",
+      "subject": "שרה",
+      "rationale": "'għeleb\/ġieġled' — l-istess verb ta' Ġen 32:29 li minnu ġie l-isem Jisrael; xi traduzzjonijiet jqisu bħala 'sar prinċep'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את (it-tieni)",
+      "rationale": "hawn את hu l-prepożizzjoni 'ma'', mhux is-sinjal tal-oġġett; ma' Elohim — l-istorja ta' Peniel."
+    }
+  ],
+  "translation": "Fil-ġuf ħataf ⟨את⟩ lil ħuh minn wara saqajh, u fis-saħħa tiegħu għeleb ⟨ma'⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/12\/1-4.1792615563560.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "fil-ġuf"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ħataf minn wara saqajh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħuh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "u fis-saħħa tiegħu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "għeleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T20:46:03.561142117Z",
+  "model": "glm-5.3"
+}

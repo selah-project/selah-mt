@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ שמעתיך",
+      "rationale": "infinitive and verb share the same root — 'by-hearing I heard you' — the repetition is flattened in Maltese"
+    }
+  ],
+  "translation": "Bi smigħ ta' widna smajtek, u issa għajni rattek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5db31f43f4df2a58f39b067c03851af0a814403ecfba73dcddd4ad016dfce239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/42\/5-8.1792619903961.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "bi smigħ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "widna"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "smajtek"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajni"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "rattek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:23.962112486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "żvelilt widnek",
+      "rationale": "'揭开耳朵' — idjom Lhudi għal 'rivila lill-iskjav', miżmum litterali"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-ħila",
+      "rationale": "mצא bi static ma jgħidx 'sab x'għandu jissellef'; il-Malti jeħtieġ nom — ⟨il-ħila⟩ miżjuda"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Elohim",
+      "rationale": "talba ta' David diretta lil Elohim"
+    }
+  ],
+  "translation": "Għaliex int, Elohim tiegħi, żvelilt ⟨את⟩ widnek ta' l-iskjav tiegħek, li Tibnielu dar; għalhekk l-iskjav tiegħek sab ⟨il-ħila⟩ jitlob quddiemek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/17\/25-27.1792622001167.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "żvelilt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widnek"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "widnek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ta' l-iskjav tiegħek"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "li Tibni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "sab"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "l-iskjav tiegħek"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "jitlob"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "quddiemek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:33:21.168142325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-falz",
+      "rationale": "שוא huwa ħsara\/gwiduna\/xejn — 'falz' jaqbad l-aktar is-sens morali"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ħajjini",
+      "rationale": "חיני causative: 'għinni ħajja \/ ajjorni', mhux biss 'agħtini ħajja'"
+    }
+  ],
+  "translation": "Għaddi l-bogħod għajnejja milli jaraw il-falz; fit-triq tiegħek ħajjini.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/37-40.1792618029690.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Għaddi l-bogħod"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejja"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "milli jaraw"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "il-falz"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "fit-triq tiegħek"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ħajjini"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:09.691082652Z",
+  "model": "glm-5.3"
+}

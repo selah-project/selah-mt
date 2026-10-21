@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש hija l-ħajja\/nifs, mhux ruħ fl-iskiet Platoniku"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-Malti jeħtieġ is-sillaba għas-soggett tal-verb"
+    }
+  ],
+  "translation": "Ir-ruħ tiegħi żammet l-ixhiediet tiegħek, u jien inħobbhom ħafna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/165-168.1792618090822.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "żammet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Ir-ruħ tiegħi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "l-ixhiediet tiegħek"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "u jien inħobbhom"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:10.823626981Z",
+  "model": "glm-5.3"
+}

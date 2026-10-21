@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Tamar",
+      "rationale": "תמר: 'Tamar' fin-Negueb (LXX) kontra 'Tadmor'\/Palmyra (ktib tat-test mqarraq, KJV\/JPS)"
+    }
+  ],
+  "translation": "u ⟨את⟩ Baʿalat u ⟨את⟩ Tamar, fid-deżert, fl-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/9\/17-20.1792609602493.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Baʿalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baʿalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:42.494092756Z",
+  "model": "glm-5.3"
+}

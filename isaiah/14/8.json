@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-qattiel ⟨li jaqta' s-siġar⟩",
+      "rationale": "הכרת huwa semantiku wieħed — 'dak li jaqta''; il-Malti jħtieġ l-għanja ta' 'siġar' miżjuda biex jifhem"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "siġra mhux ċerta: JPS\/BSB 'ċipressi', KJ\/V 'fir trees' — ċipress għażla tal-plural"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכבת\/יעלה",
+      "rationale": "il-mitbugħ 'lie down' (mewt ir-re) kontra jitla' 'ascend' — l-għawġ tal-ħajtiet tas-siġar jitkellem bħal bniedem"
+    }
+  ],
+  "translation": "Anke iċ-ċipressi ferħu bik, arżnu tal-Libanu: minn dak li int mitbugħ, ma jitla' kontrina l-qattiel ⟨li jaqta' s-siġar⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3c0e229e97c986ba9ca4648041a6e79689ea5243b6e717db61e137e13eb5cceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/14\/8-8.1792623399843.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anke"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "iċ-ċipressi"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ferħu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bik"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arżnu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "tal-Libanu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "minn dak"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "int mitbugħ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "jitla'"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "il-qattiel"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kontrina"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:39.844462825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "kopula miżjuda: il-Lhudi isemmi lil Aħija direttament mingħajr verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחיה",
+      "rationale": "xi manuskritti u l-qedem jaqraw 'il-ħutu' jew iżidu 'wlied' qabel; SH wissiet biex tibqa' bħala isem"
+    }
+  ],
+  "translation": "U fost il-Leviti ⟨kien⟩ Aħija fuq it-teżori tal-bert Elohim, u fuq it-teżori tal-ħaġa mqaddsa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/26\/17-20.1792622204659.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "u fost il-Leviti"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Aħija"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "it-teżori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tal-bert"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "u fuq it-teżori"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tal-ħaġa mqaddsa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:44.660320212Z",
+  "model": "glm-5.3"
+}

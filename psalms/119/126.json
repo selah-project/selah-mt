@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ħin għal Jaħwe jaġbel",
+      "rationale": "עת לעשות ליהוה: 'ħin li Jaħwe jaġbel' (biex jaġbel Hu) jew 'ħin ta' jaġbel għal Jaħwe' (obiċċju\/raġuni biex jaġbel); l-ambigwità tal-prepożizzjoni ל għadha hemm"
+    },
+    {
+      "kind": "addition",
+      "subject": "għax",
+      "rationale": "il-waqfa spjegattiva ta' אֵין\/כִּי mhux fis-test; miżjuda bil-parentesi ma kinetx meħtieġa għax il-Lhudi iħalli l-ġonta impliċita"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "l-istedina direta lel-Isem: ħin li Tu intervejni, għax qegħdin jiksbu lit-Tora tiegħek"
+    }
+  ],
+  "translation": "Ħin għal Jaħwe jaġbel, għax kisru lit-Tora tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1947eb59c44c28d134720372bcdf4dbcacc37f2f65a6ec6a5c2aac1159ccff56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/126-127.1792623865438.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Ħin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "jaġbel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "kisru"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "lit-Tora tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:25.439282821Z",
+  "model": "glm-5.3"
+}

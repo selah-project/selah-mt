@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני שחץ",
+      "rationale": "Litteralment 'wlied il-kburija'; KJV\/Ġenève jieħduha bħala 'il-ġrejjef tal-iljun' (שחץ bħala dans il-iljun), ASV\/JPS 'il-bhejjem kburja'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחץ \/ שחל",
+      "rationale": "Alliterazzjoni bejn שחץ (kburija) u שחל (iljun) — il-ħoss mitluq ma jgħaddix bil-Malti"
+    },
+    {
+      "kind": "mystery",
+      "subject": "it-triq",
+      "rationale": "Komplement ta' v.7: lanqas l-aktar bhejjem qawwija u kbira għaddew minn fuq it-triq moħbija"
+    }
+  ],
+  "translation": "Ma treedx fuqha wlied il-kburija, u ma tgħaddiet fuqha l-iljun",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/28\/5-8.1792619594971.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "treedx fuqha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "il-kburija"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "tgħaddiet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqha"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "l-iljun"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:14.972372593Z",
+  "model": "glm-5.3"
+}

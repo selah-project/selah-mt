@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "'ħalfu' minn שבע, 'seba' jinxtorxu seba' darbiet' — il-ħolma marbuta man-numru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שופרות",
+      "rationale": "qarn il-ħaruf għal שופר, il-qarn mgħawweġ"
+    }
+  ],
+  "translation": "U ħalfu lil Jaħwe b'leħen kbir, u b'għajta ta' ferħ, u bit-trumbetti u b'qarn il-ħaruf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af0de0f9b8f4702ce8e86a53a308cca277eaf6a59b7d5a57e07135f8ae128a70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/15\/14-15.1792624051325.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "u ħalfu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "b'leħen"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "u b'għajta ta' ferħ"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "u bit-trumbetti"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "u b'qarn il-ħaruf"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:31.326136896Z",
+  "model": "glm-5.3"
+}

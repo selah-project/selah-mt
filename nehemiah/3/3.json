@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרוהו",
+      "rationale": "il-verb qarà b'sens 'teħel il-qtrub (raħbiet tas-saqaf)' — 'qegħdu l-qtrub' vs 'bnewh' sempliċement."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנעוליו",
+      "gloss-il-problema": "gloss: kelma Maltija għall-bolt",
+      "rationale": "מנעול = bolt li jagħlaq;两个 kliem differenti ġew抵 weapons מנעול u בריח — żewġ tipi ta' għeluq."
+    }
+  ],
+  "translation": "U ⟨את⟩ il-bieb il-ħut bnew ulied is-Senaħ; huma qegħdu l-qtrub tiegħu u poġġew il-bibien tiegħu, l-vgvazzi (l-aktar) tiegħu u s-sireg tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "58d85b9bbec9fa0effb6bf849852b28ee4c2088ad02f600908eeecbb369d97a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/3\/1-4.1792621282406.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bieb"
+    },
+    {
+      "surface": "שער",
+      "gloss": "il-bieb"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "il-ħut"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bnew"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "is-Senaħ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "qegħdu l-qtrub tiegħu"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "u poġġew (wieqfa)"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "il-bibien tiegħu"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "il-lockijiet\/imslief tiegħu"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "u s-sireg tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:21:22.407344662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפכה",
+      "rationale": "'pouring-channel', a euphemism for the male member, occurs only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "pitsua daka",
+      "rationale": "פצוע דכא understood as 'wounded (in the testicles) and crushed' (cf. Lev 21:20) — KJV splits into two injuries; literal Hebrew is two participles, 'wounded-crushed'."
+    }
+  ],
+  "translation": "Ma jidħolx fil-qaħda ta' Jaħwe min hu midrub u msawwat fil-ġisem, jew imqatta' fil-kanal tal-ġisma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/23\/1-4.1792605789641.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "jidħolx"
+    },
+    {
+      "surface": "פְּצוּעַ",
+      "gloss": "midrub"
+    },
+    {
+      "surface": "דַּכָּא",
+      "gloss": "msawwat"
+    },
+    {
+      "surface": "וּכְרוּת",
+      "gloss": "jew imqatta'"
+    },
+    {
+      "surface": "שָׁפְכָה",
+      "gloss": "fil-kanal tal-ġisma"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "fil-qaħda"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:03:09.641864126Z",
+  "model": "glm-5.3"
+}

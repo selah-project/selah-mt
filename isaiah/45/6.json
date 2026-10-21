@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ebda ieħor",
+      "rationale": "עוד waħdu ma jagħmilx frażi sħiħa bil-Malti; miżjud biex jingħata l-qawl ta' KJV 'none else'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אפס",
+      "rationale": "'cessazzjoni, tmiem' — hawn avverbju ta' negazzjoni, ma jtraduċix kelma waħda"
+    }
+  ],
+  "translation": "Biex jafu minn fejn titla' ix-xemx u sa fejn tinżel, li m'hemm ⟨xejn⟩ barra minni; jien Jaħwe, u m'hemm ⟨ebda ieħor⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "852e2d5a56fca374c00684b5adf9dd00f6dacb9350217b8b3507c0994af05079",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/45\/6-7.1792623484110.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "minn fejn titla'"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ix-xemx"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "u sa fejn tinżel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "m'hemm ⟨xejn⟩"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "bara minni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ebda ieħor⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:04.111712069Z",
+  "model": "glm-5.3"
+}

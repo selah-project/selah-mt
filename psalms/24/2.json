@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימים",
+      "rationale": "plural Lhudi 'il-baħar' bil-Malti jittraskura l-plural"
+    }
+  ],
+  "translation": "Għax hu fuq il-baħar waqqafha, u fuq in-nixxigħat bniesha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/1-4.1792616751090.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "waqqafha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "in-nixxigħat"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "bniesha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:51.090958184Z",
+  "model": "glm-5.3"
+}

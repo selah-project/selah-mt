@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Għajjat bil-ferħ u għanni",
+      "rationale": "Feminine singular imperatives addressed to Zion as a woman."
+    },
+    {
+      "kind": "you",
+      "subject": "int li toqgħod f'Sijon",
+      "rationale": "Direct address to the inhabitant\/dweller of Zion, feminine participle."
+    },
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "Hebrew participle יוֹשֶׁבֶת carries the pronoun; Maltese needs the bracketed ⟨int li⟩ construction — marked by gloss structure."
+    }
+  ],
+  "translation": "Għajjat bil-ferħ u għanni, int li toqgħod f'Sijon, għax kbir f'nofsok il-Qaddis ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/12\/5-6.1792611098942.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Għajjat bil-ferħ"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "u għanni"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "int li toqgħod"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "f'Sijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "f'nofsok"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il-Qaddis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:31:38.942814614Z",
+  "model": "glm-5.3"
+}

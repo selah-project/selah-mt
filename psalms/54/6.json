@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסמכי",
+      "rationale": "'Adonaj fost\/dawk li jsostnu' — versjonijiet jaqsmu bejn 'magħhom' u 'huwa min jżomm'"
+    }
+  ],
+  "translation": "Ara, Elohim ⟨huwa⟩ min jgħinnli, Adonaj fost dawk li jżommu s-saħħa tal-nefxi tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/54\/5-8.1792617185193.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "jgħinn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "fost dawk li jżommu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nefxi tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:05.194576810Z",
+  "model": "glm-5.3"
+}

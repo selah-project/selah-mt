@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jehtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "smewwiet",
+      "rationale": "השמים huwa dual — żewġ; \"is-smewwiet\" iżomm il-pluralità"
+    }
+  ],
+  "translation": "Għal kollox ⟨hemm⟩ zmien, u żmien għal kull mixtja taħt is-smewwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/3\/1-4.1792620249391.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "għal kollox"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "zmien"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "u żmien"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "għal kull"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mixtja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:09.392238581Z",
+  "model": "glm-5.3"
+}

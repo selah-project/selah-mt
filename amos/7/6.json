@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kellu ħniena",
+      "rationale": "נחם litteralment 'nisef\/ieħu nifs qawwi' — 'kellu rimors', 'rieleth', 'kellu ħniena'; l-ebda waħda mhux eżatta"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ġie u",
+      "rationale": "il-Malti jeħtieġ infinitiv awżiljari li ma hemmx fil-Lhudi"
+    }
+  ],
+  "translation": "Ġie u Jaħwe kellu ħniena minn dan; dan ukoll ma jiġrix, jgħid Adonaj Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "017278a1acea0664c26e2371618b79c16cd1963aff64f0cfa7194ee702fbaf1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/7\/5-8.1792615810614.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "kellu ħniena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "minn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jiġrix"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T20:50:10.615643037Z",
+  "model": "glm-5.3"
+}

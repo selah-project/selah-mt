@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lit-talba",
+      "rationale": "appell dirett lil Elohim għall-ħelsien"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tellani f'għoli",
+      "rationale": "שגב tfisser poġġi f'post mgħolli u minn hemm sigur; id-dehra Maltija żżomm il-ġeografija tal-kelma"
+    }
+  ],
+  "translation": "Ħellisni minn għedewwa tiegħi, Elohim tiegħi; tellani f'għoli minn dawk li jqumu kontrieni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/1-4.1792617220828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ħellisni"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "minn għedewwa tiegħi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "minn dawk li jqumu kontrieni"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "tellani f'għoli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:40.828862340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויגבהה",
+      "rationale": "Jogbehah has no aleph-tav marker while the preceding city names do — the list's syntax breaks off, carried over as plain 'and'."
+    }
+  ],
+  "translation": "U ⟨את⟩ Atrot-Xofan u ⟨את⟩ Jażer u Jogbeħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "669d871f38122e4b2b85b91ca15e6edb17ca0fdbe6d9d49bce09b2b3a618654d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/32\/33-36.1792605097936.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Atrot-Xofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Xofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Jażer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jażer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "u Jogbeħa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:51:37.937653442Z",
+  "model": "glm-5.3"
+}

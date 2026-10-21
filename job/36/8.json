@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 36:8",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עני \/ עניים",
+      "rationale": "l-istess għerq עני bħal 'misħutin' fil-vers 6 — l-afflizzjoni torbot ma' dawk li Alla jħares"
+    },
+    {
+      "kind": "elision",
+      "subject": "-ון",
+      "rationale": "is-suffiss aramajk tal-plural f' ילכדון ma għandu ekwivalenti Malti"
+    }
+  ],
+  "translation": "U jekk imbagħad jinsabu marbutin fil-katina, u jingħabtu fil-ħbula tal-miskin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/36\/5-8.1792619741300.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "jinsabu marbutin"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "fil-katina"
+    },
+    {
+      "surface": "ילכדון",
+      "gloss": "jingħabtu"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "fil-ħbula"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tal-miskin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:55:41.301148758Z",
+  "model": "glm-5.3"
+}

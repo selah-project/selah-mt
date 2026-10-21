@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 11:1",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אפו",
+      "rationale": "litteralment 'imnejhieru ħarqu' — l-ebda kelma għar-rabja fil-Lhudi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כמתאננים",
+      "rationale": "il-verbu מתאונן huwa rari ħafna fit-Tanakh; id-dual ta' און jiċċara l-bniedem li jilmenta"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקצה המחנה",
+      "rationale": "'fil-lmita tal-kamp' (post) jew 'dawk li kienu fil-lmita' (nies, KJV)"
+    }
+  ],
+  "translation": "U ġara li l-poplu kien bħal dawk li jilmentaw bil-ħażen f'widnejn Jaħwe, u Jaħwe sma', u imnejhieru ħarqu, u qabad fosthom nar Jaħwe, u kienet tiekol fin-naħa ta' barra tal-kamp.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/11\/1-4.1792602735670.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U-ġara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "כמתאננים",
+      "gloss": "bħal-dawk-li-jilmentaw"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "f'widnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "u-sma'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "u-ħarqu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "imnejhieru"
+    },
+    {
+      "surface": "ויתבער",
+      "gloss": "u-qabad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fosthom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "u-kienet-tiekol"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "fin-naħa-ta'-barra"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tal-kamp"
+    }
+  ],
+  "timestamp": "2026-10-21T17:12:15.671636599Z",
+  "model": "glm-5.3"
+}

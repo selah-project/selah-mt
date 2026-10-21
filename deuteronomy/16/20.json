@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "tsedeq tsedeq",
+      "rationale": "it-tathbir tal-kelma צדק darbtejn, ppuntat u mqelleb fuq il-verb, jinżamm bit-tathbir eżatt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsegwi",
+      "rationale": "רדף tfisser litteralment 'tiredda wara' b'attenzjoni ostili; hawn metafora ta' segwitu attiv tal-ġustizzja"
+    }
+  ],
+  "translation": "Tsedeq, tsedeq tsegwi, biex tgħix u werret ⟨את⟩ l-art li Jaħwe Elohim tiegħek qed jagħti lilek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "acdcb6f3d0db02e32aed939a367a11fd4f2156ea10ddc239720229740f2e8d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/16\/17-20.1792605695151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "tsegwi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tgħix"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "u werret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qed jagħti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:01:35.152675794Z",
+  "model": "glm-5.3"
+}

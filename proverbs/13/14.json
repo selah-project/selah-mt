@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hija⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "insidji",
+      "rationale": "מוקש hija l-ħabel tal-kaċċa (noose); 'insedju' żżomm il-istampa tal-kaċċa"
+    }
+  ],
+  "translation": "Tora ta' ħakim ⟨hija⟩ għajn tal-ħajja, biex titbiegħed mill-insidji tal-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb6c3147f9e08a85b9bcee30626f8eea74e1c97f856cb57d264f358145ecd904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/13-16.1792618628509.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ta' ħakim"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "għajn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tal-ħajja"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "biex titbiegħed"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "mill-insidji"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tal-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:08.510015537Z",
+  "model": "glm-5.3"
+}

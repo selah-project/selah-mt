@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-Malti jeħtieġ verb għal vision ta' ġimgħa fin-nar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għadabhom",
+      "rationale": "אפם litteralment 'imħarhom'; idjom għall-ġeira"
+    }
+  ],
+  "translation": "allura ħaj kienu bliegħuna, meta qabad għadabhom fuqna;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/124\/1-4.1792618113227.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "allura"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "bliegħuna"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "meta qabad"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "għadabhom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fuqna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:33.228490128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vetoċima",
+      "rationale": "שכלה 'missier\/bereaved' — żiemel ta' mertu li titlef il-ħlejjaq tagħha; l-Ingliż juża 'barren\/bereaved'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכלם\/ושכלה",
+      "rationale": "il-verb jgħawweġ minn kollha-twellija għal waħda-vetoċima: ħoss jixbaħ lil xulxin (škl), jitlift fil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקצובות",
+      "rationale": "'imnissra' (shorn) kontra 'maqtugħin għal qafas' — kliem rari, l-istampar mhux ċert"
+    }
+  ],
+  "translation": "Snienek bħal merħla ta' nagħaġ imnissra li telgħet mill-ħasil; kollha kemm huma jagħtu t-twelija, u m'hemm l-ebda waħda vetoċima fosthom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ee9ac201cd9452d4fe751633bdeced77406941d519a3641bcf9345faa7df048c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/4\/2-3.1792623909693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "snienek"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "bħal merħla"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "imnissra"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "telgħet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "ħasil"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "kollha kemm huma"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "jagħtu t-twelija"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "waħda vetoċima"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemm l-ebda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fosthom"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:09.694352350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "żewġ ammi u nofs · amma u nofs",
+      "rationale": "L-iskrivanja tal-kaporet bl-amma, l-unità tal-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaporet",
+      "rationale": "Semit-Malti mill-Lhudi כפרת; 'mercy seat' jew 'siġġu tal-ħniena' jitilfu l-ħoss ta' kafar"
+    }
+  ],
+  "translation": "U għamel kaporet ta' deheb safi: żewġ ammi u nofs it-tul tagħha, u amma u nofs il-wisa' tagħha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "65ff8cd433a706fac5a3ccd5c9e632db4f75022f8ae92788d5e9b06882df973e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/37\/5-8.1792600236942.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "U għamel"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ta' deheb"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "żewġ ammi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "u nofs"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "it-tul tagħha"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "u amma"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "u nofs"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "il-wisa' tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:30:36.943776472Z",
+  "model": "glm-5.3"
+}

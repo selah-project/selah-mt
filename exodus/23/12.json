@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sitt ijiem \/ is-seba' jum",
+      "rationale": "l-għadd ta' jiem ta' xogħol u mistrieħ jirrifletti l-ħolqien"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשבת \/ Xabbat",
+      "gloss": null,
+      "rationale": "il-verb שׁבת huwa l-istess għerq ta' Xabbat; 'tixbatt' iżomm il-ħoss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jieħu nifs",
+      "rationale": "נפש hawnhekk verb — 'jieħu nifs, jerġa' jieħu l-ħajja' mhux sempliċiment 'jittieħeb'"
+    }
+  ],
+  "translation": "Sitt ijiem tagħmel l-għemejjel tiegħek, u fis-seba' jum tixbatt, biex jistrieħ il-barri tiegħek u l-ħmar tiegħek, u jieħu nifs iben il-kolha tiegħek u l-barrani.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/9-12.1792599773644.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sitt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "l-għemejjel tiegħek"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "u f'"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "is-seba' jum"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "tixbatt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "jistrieħ"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "il-barri tiegħek"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "u l-ħmar tiegħek"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "u jieħu nifs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "il-kolha tiegħek"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "u l-barrani"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:53.645885376Z",
+  "model": "glm-5.3"
+}

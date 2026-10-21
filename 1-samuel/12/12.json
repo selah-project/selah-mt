@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 12:12",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-Israel",
+      "rationale": "Samwel jindires direttament lill-poplu b'sekonda persuna plurali — retorika ta' akkuża."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך \/ ימלך \/ מלככם",
+      "rationale": "għerq m-l-k imtenni tliet darbiet — 'sultan, jirrenja, jirrenja fuqkom' — is-saħħa retorika taż-żewġ suwwetti tidher fil-Malti biss għax il-verb 'jirrenja' u s-sustantiv 'sultan' huma separati."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלככם",
+      "rationale": "ħafna traduzzjonijiet jagħmluh sustantiv 'kien is-sultan tagħkom', imma fil-Lhudi huwa verb mil-'imperfett bil-sufiss: 'kien jirrenja fuqkom'."
+    }
+  ],
+  "translation": "U rajtu li Naħas, is-sultan ta' wlied Amon, ġie kontrikom, u għidtuli: Le, imma sultan jirrenja fuqna — meta Jaħwe Elohim tagħkom kien jirrenja fuqkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/12\/9-12.1792607901319.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "u rajtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naħas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta' wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kontrikom"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "u għidtuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "jirrenja"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "meta Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jirrenja fuqkom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:38:21.320884006Z",
+  "model": "glm-5.3"
+}

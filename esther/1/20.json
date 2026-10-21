@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax-ish",
+      "subject": "פתגם",
+      "rationale": "kelma ta' flokk Persjan (patigama) għal digriet — ton ta' los Persjan tal-ktieb ta' Ester.”, ”kind”: ”hapax"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי רבה היא",
+      "rationale": "referent ambigwu: is-saltna kbira (KJV) jew id-digriet importanti (JPS 'kbir għalkemm huwa')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למגדול ועד קטן",
+      "rationale": "il-formula totali 'mill-kbir saż-żgħir' — merfuża aħħar naħa ma' ġebla."
+    }
+  ],
+  "translation": "U jintela' d-digriet tar-re li jagħmel f'saltnu kollha — għaliex hi kbira — u n-nisa kollha jagħtu ġieħ lill-irġiel tagħhom, mill-kbir saż-żgħir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/1\/17-20.1792620405689.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "U jintela'"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "d-digriet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'saltnu kollha"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "f'saltnu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u n-nisa kollha"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "n-nisa"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "jagħtu"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ġieħ"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "lill-irġiel tagħhom"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "mill-kbir"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "aż-żgħir"
+    }
+  ],
+  "timestamp": "2026-10-21T22:06:45.690840145Z",
+  "model": "glm-5.3"
+}

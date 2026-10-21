@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija l-ħajja\/nifs, mhux 'ruħ' fl-iskambju kliem Malti ta' wara."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחה\/לעפר · דבקה\/לארץ",
+      "rationale": "Paralleliżmu: tnaqqis għat-trab, tgħaqqad mal-art — struttura li tgħaddi bil-Malti."
+    }
+  ],
+  "translation": "Għax in-nifs tagħna għaddas għat-trab, u ż-żaqq tagħna telqet mal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "17217f569acff8ee961a15015fd62000bc868b72aab02af2f64f532683fe88a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/25-27.1792616996541.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "għaddas"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "għat-trab"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "in-nifs tagħna"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "telqet mal-"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "żaqq tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:56.542225703Z",
+  "model": "glm-5.3"
+}

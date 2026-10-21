@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "biex tqajjem lampa",
+      "rationale": "להעלת נר litteralment 'biex tagħti l-lampa titla'' — tqajjem\/tixgħol"
+    },
+    {
+      "kind": "you",
+      "subject": "int",
+      "rationale": "Indirizz dirett lil Moxe — 'u inti tikkmanda'"
+    }
+  ],
+  "translation": "U inti tikkmanda lil ⟨את⟩ wlied Jisrael, u jieħdu għandek żejt taż-żebbuġa safi, imħakk, għad-dawl, biex tqajjem lampa dejjem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/27\/17-20.1792599907857.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "u inti"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "tikkmanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wlied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "u jieħdu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "għandek"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "żejt"
+    },
+    {
+      "surface": "זית",
+      "gloss": "taż-żebbuġa"
+    },
+    {
+      "surface": "זך",
+      "gloss": "safi"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "imħakk"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "għad-dawl"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "biex tqajjem"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T16:25:07.858452965Z",
+  "model": "glm-5.3"
+}

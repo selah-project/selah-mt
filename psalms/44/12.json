@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "merħla",
+      "rationale": "tse'n = nagħaġ u mogħoż kollettiv; 'merħla' tieħu l-kollektiv"
+    }
+  ],
+  "translation": "Tgħatina bħala merħla għall-ikel, u fost il-ġnus tellaqtna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/9-12.1792616997248.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Tgħatina"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "bħala merħla"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "għall-ikel"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "u fost il-ġnus"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "tellaqtna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:57.249407479Z",
+  "model": "glm-5.3"
+}

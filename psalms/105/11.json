@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "חבל",
+      "rationale": "ħabel ta' kejl — il-porzjon tal-art imkejjel bil-ħabel; verżjonijiet jitħallfu għal 'lott'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבל\/נחלה",
+      "rationale": "il-ħabel (kejl) u l-wirt jidħlu fl-istess għanja ta'Art imkejjla"
+    }
+  ],
+  "translation": "jgħid: Lilek nagħti ⟨את⟩ art Kenaan, bħala ħabel ta' kejl, il-wirt tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/9-12.1792617782252.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "art Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ħabel ta' kejl"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "il-wirt tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:02.253550518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Is-subjekt tal-verb בעשתו mhux espost fil-Lhudi; miżjud biex iċ-ċarġja tkun ċara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "xellug",
+      "rationale": "שמאול tfisser tramuntana u xellug fl-istess ħin (orjentazzjoni lejn il-lvant); 'xellug' iżomm in-nofs tal-kelma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "xellug\/lemin",
+      "rationale": "Parallel ta' xellug u lemin (כילוס): l-istruttura mir-rakkont ta' Iġġob tniedi l-veduta totali — kull naħa ma tinħarax"
+    }
+  ],
+  "translation": "Fuq ix-xellug fejn ⟨hu⟩ jaħdem, u lanqas inħarsu lejh; jingħatta fuq il-lemin, u lanqas nara ⟨ħadd:::no:::placeholder:::no:::⟩",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1894cbef8c907fbc36d2784b3699e49f7f89e9937576da47c77de7713b79aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/23\/9-12.1792619475179.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "fuq ix-xellug"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "fejn jaħdem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "inħarsu lejh"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "jingħatti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "fuq il-lemin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nara"
+    }
+  ],
+  "timestamp": "2026-10-21T21:51:15.179829581Z",
+  "model": "glm-5.3"
+}

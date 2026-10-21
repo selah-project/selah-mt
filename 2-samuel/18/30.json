@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ruħek \/ ruħu",
+      "rationale": "Il-verb סב huwa riflessiv bil-forma; il-Malti jeħtieġ 'ruħek' għas-sens."
+    },
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "Imperattiv indirizzat direttament lil Aħimats."
+    }
+  ],
+  "translation": "U r-re qal: Dawwar ruħek u agħfas hawn. U dawwar ruħu u waqaf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "788bebdaae4b07be151c51cf8c63fc2727efb03454dbfce47825c057536fa767",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/18\/29-32.1792608972331.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Dawwar ruħek"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "agħfas"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "u dawwar ruħu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "u waqaf"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:12.332916632Z",
+  "model": "glm-5.3"
+}

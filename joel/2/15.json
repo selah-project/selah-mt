@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lil Sijon",
+      "rationale": "serje ta' imperattivi li jsejħu lill-poplu għal sawm u laqgħa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laqgħa solenni",
+      "rationale": "עֲצָרָה = assemblea solenni\/żmien miżmum, mhux 'veto' bħal YLT"
+    }
+  ],
+  "translation": "Duqqu x-xufar f'Sijon, qaddsu sawm, ħabbru laqgħa solenni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6055bc80e4d242b6a0afe396b2182a52064b985e2cc18710ee82734019282086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joel\/2\/13-16.1792615623436.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "duqqu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "x-xufar"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "f'Sijon"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qaddsu"
+    },
+    {
+      "surface": "צום",
+      "gloss": "sawm"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ħabbru"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "laqgħa solenni"
+    }
+  ],
+  "timestamp": "2026-10-21T20:47:03.437027408Z",
+  "model": "glm-5.3"
+}

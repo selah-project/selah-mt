@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "muntun",
+      "rationale": "איל hawnhekk huwa ram (muntun) għall-offerta, mhux ċerv (איל) jew pillar"
+    }
+  ],
+  "translation": "U qarreb ⟨את⟩ il-muntun tal-olà, u Aharon u uliedu poġġew ⟨את⟩ idejhom fuq ras il-muntun.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/17-20.1792600652606.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qarreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-muntun"
+    },
+    {
+      "surface": "איל",
+      "gloss": "il-muntun"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tal-olà"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "poġġew"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "u uliedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idejhom"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "idejhom"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il-muntun"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:32.606832067Z",
+  "model": "glm-5.3"
+}

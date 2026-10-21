@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Se",
+      "rationale": "Markatur tal-futur bil-Malti, m'hemmx fil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ngħanni",
+      "rationale": "זמר tfisser litteralment 'doqq il-kords' — għanja b'strumenti"
+    }
+  ],
+  "translation": "Se nitferħa u ⟨nferħan⟩ fīk; ngħanni l-isem tiegħek, Elijon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/1-4.1792616553642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Se nitferħa"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "u nsir ferħan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fīk"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngħanni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "l-isem tiegħek"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:33.643784169Z",
+  "model": "glm-5.3"
+}

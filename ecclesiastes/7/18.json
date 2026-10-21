@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "joħroġ ⟨את⟩ minnhom ilkoll",
+      "rationale": "יצא את כלם: 'comes out of them all' (KJV\/JPS) vs 'escapes them all' vs 'follows both warnings' (BSB)."
+    },
+    {
+      "kind": "elision",
+      "subject": "jibża' minn",
+      "rationale": "Maltese needs the preposition 'minn' after 'jibża'', which the Hebrew participle ירא אלהים lacks."
+    }
+  ],
+  "translation": "Tajjeb li taħdan lil dan, u anke minn dak la tħalli ⟨את⟩ lidek; għax min jibża' minn Elohim joħroġ ⟨את⟩ minnhom ilkoll.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/7\/17-20.1792620260372.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "taħdan"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "lil dan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u anke"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "minn dak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "tħalli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lidek"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "lidek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "min jibża'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "minn Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minnhom ilkoll"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "minnhom ilkoll"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:20.373265101Z",
+  "model": "glm-5.3"
+}

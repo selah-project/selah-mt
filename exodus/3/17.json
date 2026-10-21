@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זבת חלב ודבש",
+      "rationale": "'art li tigħrax ħalib u għasel' — idjomm ebrajk, il-verb זוב jfisser fil- literally 'tagħri' (izolģit hekk trasmess bħala eżaġerazzjoni letterali tal-għerq)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעני",
+      "rationale": "'għawġ' jew 'tgħriq\/oppressjoni' — l-istess għerq ta' ענה tal-iskjavitù"
+    }
+  ],
+  "translation": "U għidt: Nirfgħu ⟨את⟩ lilkom mill-għawġ ta' Mitsrajim, għal art il-Kenaani u l-Ħitti u l-Emori u l-Perizzi u l-Ħivvi u l-Jebusi, għal art li tigħrax ħalib u għasel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2005100f72f4c77e74267f87ec30189fb5e0dbda32230829456b792831c36db5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/17-20.1792599307941.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "u għidt"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nirfgħu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom mill-għawġ ta' Mitsrajim"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "mill-għawġ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il-Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "u l-Ħitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "u l-Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "u l-Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "u l-Ħivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "u l-Jebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "li tigħrax"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ħalib"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "u għasel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:15:07.942087383Z",
+  "model": "glm-5.3"
+}

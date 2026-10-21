@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ma ninħallx ir-riħa",
+      "rationale": "'ma nerfgħux ir-riħa' — idjom Lhudi għal rifjut tal-offerti; irreġistrata kemm kemk litterali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "riħa ta' mistrieħ",
+      "rationale": "ניחוח litteralment 'dik li tagħti mistrieħ' — epitet fiss tal-offerti, mhux sempliċement 'riħa tajba'"
+    }
+  ],
+  "translation": "U nagħmel ⟨את⟩ blietkom ħerba, u nwarrab ⟨את⟩ santiwerji tagħkom, u ma ninħallx ir-riħa ta' mistrieħ tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb1963de30ad6386726925a00139426214ecd3a671cf9d567642991dae0bc832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/30-33.1792602324377.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "u nagħmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blietkom"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "blietkom"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ħerba"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "u nwarrab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santiwerji tagħkom"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "santiwerji tagħkom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ninħallx"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ir-riħa"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ta' mistrieħ tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:24.379306213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 51:5",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "armla",
+      "rationale": "אלמן litteralment 'armla\/mwarrfa': KJV 'forsaken' kontra JPS 'widowed'; il-forma tal-ikel tibqa' metafora ta' mart abbandunata."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħtija",
+      "rationale": "אשם jista' jkun ukoll offerta tall-ħtija; hawn ħadt 'ħtija' biss."
+    }
+  ],
+  "translation": "Għax m'hux armla Jisrael u lanqas Żuda minn Elohim tiegħu, minn Jaħwe Tsebawot; għax l-art tagħhom mimlija ħtija quddiem il-Qaddis ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82c3b9a6ca7a0e787b7bad66e3b682316d48e30fcbd34ecc782917694fecd745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/51\/5-8.1792613764193.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m'hux"
+    },
+    {
+      "surface": "אלמן",
+      "gloss": "armla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "u lanqas Żuda"
+    },
+    {
+      "surface": "מאלהיו",
+      "gloss": "minn Elohim tiegħu"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "minn Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "l-art tagħhom"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mimlija"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ħtija"
+    },
+    {
+      "surface": "מקדוש",
+      "gloss": "quddiem il-Qaddis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T20:16:04.194154578Z",
+  "model": "glm-5.3"
+}

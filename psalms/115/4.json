@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "Kopula miżjuda għax il-Lhudi m'għandux"
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "עצבים tfisser l-istatwi ttaxxibba; 'allat' skont D1 għall-idoli tal-ġnus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצבים\/עצב",
+      "rationale": "Għerq qrib ta' 'uġigħ, tbatija' — l-idoli bħala uġigħ; mitluf bil-Malti"
+    }
+  ],
+  "translation": "L-allat tagħhom ⟨huma⟩ fidda u deheb, għemil idejn il-bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c8637f92783e36695d30d9c479b9b684a75834573bea6a5fc2782dc1af30c8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/3-4.1792623850815.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "l-allat tagħhom"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "u deheb"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "il-bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:10.815916678Z",
+  "model": "glm-5.3"
+}

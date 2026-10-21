@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elzraħbija",
+      "rationale": "Lil עבדיך: l-ilsirejn mhux 'ilsir f'ambjent li ġej akt tard"
+    },
+    {
+      "kind": "crux",
+      "subject": "mxerrded",
+      "rationale": "השפוך: 'id-demm mxerrded' jew 'li ttredges'; verbi statali"
+    }
+  ],
+  "translation": "Għaliex jgħidu l-ġnus: Fejn huma eluħimhom? Jkunu magħrufa fost il-ġnus quddiem għajnejna l-vendetta tad-demm ta' l-ilsirejn tiegħek, id-demm mxerrded.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/79\/9-12.1792617549406.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "l-ġnus"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Fejn"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "huma eluħimhom"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "Jkunu magħrufa"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "fost il-ġnus"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "quddiem għajnejna"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "l-vendetta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tad-demm"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ta' l-ilsirejn tiegħek"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "id-demm mxerrded"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:09.406915062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-għadu",
+      "rationale": "l-Ebrajk jgħid biss 'biex jagħtihom f'idejn' — mingħajr jissemma min; il-Malti jeħtieġ persuna għal darba waħda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהי אדום",
+      "rationale": "'l-allat ta' Edom' b'ittra żgħira — allat barranin, mhux Elohim"
+    }
+  ],
+  "translation": "U Amatsjaħu ma semagħ; għaliex minn Elohim kienet, biex jagħtihom f'idejn ⟨il-għadu⟩, għaliex kienu fittxew ⟨את⟩ l-allat ta' Edom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3c73157d85abfb30c9da5ae49ebe9d8351a0879b6fb9600d18723f267b9f09d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/25\/17-20.1792622743856.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "U ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "semagħ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjaħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "minn Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "jagħtihom"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "kienu fittxew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-allat ta' Edom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l-allat"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ta' Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:43.858318869Z",
+  "model": "glm-5.3"
+}

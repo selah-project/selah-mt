@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qasira",
+      "rationale": "מקרוב litteralment 'minn qrib' (ta' żmien qasir); il-Malti jsemmi t-tul, mhux il-qrib"
+    },
+    {
+      "kind": "crux",
+      "subject": "miment",
+      "rationale": "רגע litteralment 'tbattija ta' għajn' — miment uċuħ; b'verbali għandhom 'qasira', LXX u tradizzjonijiet oħra jvarjaw"
+    },
+    {
+      "kind": "addition",
+      "subject": "biss",
+      "rationale": "żvilkup tal-qosor tal-Ħiberno, mhux fil-Lhud"
+    }
+  ],
+  "translation": "Għax il-beraħ tar-rħżen għandha tkun qasira, u l-ferrħa tal-Ħanef għal miment biss.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/20\/5-8.1792619370187.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "il-beraħ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tar-rħżen"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "qasira"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "u l-ferrħa"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "tal-Ħanef"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "għal"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "miment biss"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:30.188280980Z",
+  "model": "glm-5.3"
+}

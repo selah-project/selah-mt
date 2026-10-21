@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-Eġizzjani",
+      "rationale": "מצרים qiegħed hawn b'tifsira ta' nies, mhux ta' l-art; l-istess kelma bħal fuq il-pajjiż aktar 'il quddiem fil-vers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים\/מצרים",
+      "rationale": "l-istess kelma tiffirma l-imgħallem (persuni) u l-mira (l-art), ripetizzjoni retorika li tinżemm b'żewġ kelmiet Maltin differenti"
+    }
+  ],
+  "translation": "U l-Eġizzjani se jafu li jien Jaħwe, meta nfirħet ⟨את⟩ idi fuq Mitsrajim, u ħriġt ⟨את⟩ wlied Jisrael minn fosthom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/7\/5-8.1792599256969.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "u se jafu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l-Eġizzjani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "meta nfirħet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "u ħriġt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wlied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "minn fosthom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:16.969892015Z",
+  "model": "glm-5.3"
+}

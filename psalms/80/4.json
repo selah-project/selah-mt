@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Appell dirett b'imperattivi: 'erġa' ġibna lura... u ddawwal'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refrain",
+      "rationale": "Dan ir-refrajn jerġa' jiġi fil-versi 8 u 20 tal-istess salm — struttura korali."
+    }
+  ],
+  "translation": "Elohim, erġa' ġibna lura, u ddawwal wiċċek, u nsalvaw.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/80\/1-4.1792617603808.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "erġa' ġibna lura"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "u ddawwal"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "u nsalvaw"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:03.809552475Z",
+  "model": "glm-5.3"
+}

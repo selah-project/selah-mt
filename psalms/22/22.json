@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עניתני",
+      "rationale": "hin passat 'int weġejtni' (KJV, BSB) jew talba 'weġibni' (JPS, Geneva) — il-Lhudi għandu passat, iżda s-sentenza tinstaqgħad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "barri salvaġġ",
+      "rationale": "ראם huwa barru salvaġġ, mhux 'unikornu' bħal KJV"
+    }
+  ],
+  "translation": "Ħlisni minn fommet l-iljun, u mill-qrun tal-barri salvaġġ int weġejtni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/22\/21-24.1792616722458.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ħlisni"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "minn fommet"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "l-iljun"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "u mill-qrun"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "tal-barri salvaġġ"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "int weġejtni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:22.459006924Z",
+  "model": "glm-5.3"
+}

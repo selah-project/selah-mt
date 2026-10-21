@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħlewwież",
+      "rationale": "כבוד literally 'piż\/ħitna', weight — splendor; l-ebda kelma Maltija ma torbot id-dawl mal-piż, għalhekk ħlewwież"
+    },
+    {
+      "kind": "alternative",
+      "subject": "l-għammara",
+      "rationale": "מעון huwa l-abitazzjoni; jista' wkoll 'il-maħla ta' darek'"
+    }
+  ],
+  "translation": "Jaħwe, ħabbejt il-għammara ta' darek, u l-post ta' Mixkan il-ħlewwież tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "353a8dc01b3fcf1dc9379ecf039dedc7411c9e3046897da66eca4498dea10457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/26\/8-8.1792623725927.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ħabbejt"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "l-għammara"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ta' darek"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "u l-post"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ta' Mixkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "il-ħlewwież tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:05.927552679Z",
+  "model": "glm-5.3"
+}

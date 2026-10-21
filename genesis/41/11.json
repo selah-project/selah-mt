@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלם",
+      "rationale": "għerq חלם jidher tliet darbiet fil-vers wieħed (ħolmna, ħolmu, ħolmna) — fużjoni ta' ħolm u tifsira."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "rationale": "literralment 'raġel' = 'kull raġel (minn żewġhom)'; mgħoddija bħala 'kull wieħed'."
+    }
+  ],
+  "translation": "U ħolmna ħolm f'lejl waħda, jien u hu; kull wieħed skond l-interpretazzjoni ta' ħolmu ħolmna.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/41\/9-12.1792598879638.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "U ħolmna"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ħolm"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "f'lejl"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "skond l-interpretazzjoni"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "ta' ħolmu"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "ħolmna"
+    }
+  ],
+  "timestamp": "2026-10-21T16:07:59.639899196Z",
+  "model": "glm-5.3"
+}

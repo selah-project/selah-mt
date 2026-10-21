@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-Israel",
+      "rationale": "indirizz dirett b'imperattiv lil Israel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "santwarju",
+      "rationale": "מקדשי mill-għerq קדש — 'l-post il-qaddis tiegħi'; santwarju għadda għall-faċilità"
+    }
+  ],
+  "translation": "⟨את⟩ l-imxiet tiegħi taħarsu, u s-santwarju tiegħi tibżgħu; jien Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/1-4.1792601266119.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-imxiet (is-Xabbattijiet) tiegħi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "l-imxiet tas-Xabbatt tiegħi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "taħarsu"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "u s-santwarju ta' ħdusija tiegħi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tibżgħu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:46.119813282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "barri salvaġġ",
+      "rationale": "ראם: 'barri salvaġġ' (kif f'tabella D4) kontra 'unjukorn' (KJV\/Geneva)"
+    },
+    {
+      "kind": "addition",
+      "subject": "int",
+      "gloss": "suffiss fit-tempju ותרם (it-tieni persuna) ma jinstanarx b'mod separat fil-Malti",
+      "rationale": "verb second-person implied by Hebrew form"
+    }
+  ],
+  "translation": "U int tellgħet 'il fuq il-qarn tiegħi bħal tal-barri salvaġġ; tlijt bl-żejt frisk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/92\/9-12.1792617706566.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "U int tellgħet 'il fuq"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "bħal tal-barri salvaġġ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "il-qarn tiegħi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tlijt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bl-żejt"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "frisk"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:46.567128088Z",
+  "model": "glm-5.3"
+}

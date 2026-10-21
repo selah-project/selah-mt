@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nifs",
+      "rationale": "נפש hija ħjieġa\/taiħ\/nifs-ħajja, mhux 'ruħ' biss"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-prepożizzjoni Maltija għall-oġġett diretta, ma hemmx fl-Ebrajk"
+    },
+    {
+      "kind": "you",
+      "subject": "l-għassiesa",
+      "rationale": "mistoqsija diretta lill-għassiesa tal-belt"
+    }
+  ],
+  "translation": "Sibuni l-għassiesa, dawk li jduru ma' l-belt: ⟨את⟩ lil dak li ħabbet in-nifs tiegħi, rajtuh?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bf0b8a7b2c6aa48d1b7d6be476f8c4219e91fe34bb1b2d6c733788ced8347208",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/3-4.1792623907555.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "sibuni"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "l-għassiesa"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "li jduru ma'"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "fil-belt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil dak li ħabbet in-nifs tiegħi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "li ħabbet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nifs tiegħi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "rajtuh?"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:07.556141068Z",
+  "model": "glm-5.3"
+}

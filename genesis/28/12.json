@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 28:12",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sellum",
+      "rationale": "סלם — sellum bit-tarbja jew garigoro; mhux 'sellum' wieħed twil biss, iżda stairway"
+    },
+    {
+      "kind": "elision",
+      "subject": "id-dwal ta' שמים",
+      "rationale": "שמים huwa dual — 'żewġ sema' — il-plural bil-Malti jaqilgħu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "messaġġieri",
+      "rationale": "מלאכי litteralment 'messaġġieri' — mhux necessarily ”anġli” b'konnotazzjoni ttikkja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "telgħin u nieżlin",
+      "rationale": "כיאזmu: עלים\/יורדים żewġ partiċipji f'sedda — il-moviment kontinwu fuq is-sellum, naqas ftit bil-Malti"
+    }
+  ],
+  "translation": "U ħolm, u arah sellum wieqaf fl-art u rasu tasal sas-sema, u arah il-messaġġieri ta' Elohim telgħin u nieżlin fuqu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/28\/9-12.1792598438641.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "u ħolm"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u arah"
+    },
+    {
+      "surface": "סלם",
+      "gloss": "sellum"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "wieqaf"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "u rasu"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "tasal"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "sas-sema"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u arah"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "messaġġieri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "telgħin"
+    },
+    {
+      "surface": "וירדים",
+      "gloss": "u nieżlin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fuqu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:38.642322272Z",
+  "model": "glm-5.3"
+}

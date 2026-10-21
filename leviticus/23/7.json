@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאכת עבדה",
+      "rationale": "'xogħol qad-dulumann' kontra 'kull xogħol' — ġlidiet fost it-tradutturi dwar jekk עבודה tillimitax"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mla",
+      "rationale": "מקרא literally 'sejħa mill-barra', mla, laqgħa pubblika"
+    }
+  ],
+  "translation": "Fl-ewwel jum ikun għandkom mla qaddis; kull xogħol ta' qad-dulumann le tagħmlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/23\/5-8.1792601130649.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Fl-ewwel jum"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ewwel"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "mla"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ikun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għandkom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "xogħol"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ta' qad-dulumann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tagħmlu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:45:30.650011047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 59:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "it-tsedeq",
+      "rationale": "צדקה miżjuda l-artiklu bil-Malti; il-Lhudi m'għandux artiklu hawn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש\/תלבשת",
+      "rationale": "l-istess għerq 'libes' jidher darbtejn — libes u libsa — gimja li tibqa' ħajja bit-traduzzjoni"
+    }
+  ],
+  "translation": "U libes it-tsedeq bħal kiras, u l-elmu tas-salvezza fuq rasu; u libes ilbies tar-rivanza bħala libsa, u dawwar bħal mant il-qin'a.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b6a0312c5539664d2a9bc22a0d217ee5f68cc3c712bc4c5069c04c9b9af8915c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/59\/17-20.1792612066455.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "u libes"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "it-tsedeq"
+    },
+    {
+      "surface": "כשרין",
+      "gloss": "bħal kiras"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "u l-elmu"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "tas-salvezza"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "fuq rasu"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "u libes"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilbies"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tar-rivanza"
+    },
+    {
+      "surface": "תלבשת",
+      "gloss": "bħala libsa"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "u dawwar"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "bħal mant"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "il-qin'a"
+    }
+  ],
+  "timestamp": "2026-10-21T19:47:46.455997889Z",
+  "model": "glm-5.3"
+}

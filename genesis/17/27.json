@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-missur fid-dar",
+      "rationale": "יליד בית 'missur fid-dar' — is-serv mitlub fid-dar, mhux iben biologiku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨miegħu⟩",
+      "rationale": "אתו H854 il-prepożizzjoni 'ma';Mi'; il-Malti jżidha fil-parentesi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bil-fidda",
+      "rationale": "כסף tfisser fidda u flus fl-istess ħin; il-Malti jqiegħed 'fidda'"
+    }
+  ],
+  "translation": "U l-irġiel kollha tad-dar tiegħu, il-missur fid-dar u dawk mixtrija bil-fidda mingħand ħaddiem barrani, tqattgħu ⟨את⟩ ⟨miegħu⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/17\/25-27.1792598013673.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "U kollha"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tad-dar tiegħu"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "il-missur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "u dawk mixtrija"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bil-fidda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ħaddiem"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "barrani"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "tqattgħu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨miegħu⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T15:53:33.673959477Z",
+  "model": "glm-5.3"
+}

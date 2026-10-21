@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צהרים",
+      "rationale": "Dwal ta' צהרים — id-dwal jibqa' magħluq fil-kelma Maltija 'nofsinhar'; l-għerq jgħid 'dwal', mhux 'ħin'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nofsinhar",
+      "rationale": "Id-dwal ġie miżjud biex jżomm il-forma tad-dwal ta' צהרים, li tfisser 'l-ewwel dwal' — żewġ dwal tas-sebħ u tan-nofs."
+    }
+  ],
+  "translation": "U joħroġ it-tsedeq tiegħek bħad-dawl, u ġ-ġudizzju tiegħek bħall-ewwel dwal tan-nofsinhar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/5-8.1792616918445.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "u joħroġ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "bħad-dawl"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "it-tsedeq tiegħek"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "u ġ-ġudizzju tiegħek"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "bħall-ewwel dwal tan-nofsinhar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:38.445841113Z",
+  "model": "glm-5.3"
+}

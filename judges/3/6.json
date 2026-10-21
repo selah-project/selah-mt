@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהיהם hawn allat tal-ġnus (plural ta' idolu), għalhekk 'allat' b'ittra żgħira skont D1 (Eżodu 32:8), mhux Elohim"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lill-ewwelhom",
+      "rationale": "לבניהם 'lis-subien tagħhom' — 'l-ewwelhom' bil-Malti tfisser 'subienhom' f'reġistr tal-qedem"
+    }
+  ],
+  "translation": "U ħadu lil bnietihom għalihom bħala nisa, u lil bnietihom tawhom lill-ewwelhom, u qimu lil allat tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/3\/5-8.1792606898841.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "U ħadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil bnietihom"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bnietihom"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "bħala nisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil bnietihom"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bnietihom"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "tawhom"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "lill-ewwelhom"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "u qimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil allat tagħhom"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allat tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:21:38.842059383Z",
+  "model": "glm-5.3"
+}

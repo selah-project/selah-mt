@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 2:11",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהים here refers to pagan gods, so the small-letter Maltese 'allat' is used, not Elohim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההימיר…המיר",
+      "rationale": "Same verb 'exchange' frames the question and the accusation; Maltese keeps ibdel\/bidlet."
+    }
+  ],
+  "translation": "Jaqaw ġens ibdel lil allat — u huma lanqas biss allat — u niesi bidlet il-ġeħja tagħha għal dak li ma jiswa xejn?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/2\/9-12.1792612302085.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההימיר",
+      "gloss": "Jaqaw…ibdel"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ġens"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allat"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "u huma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allat"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "u niesi"
+    },
+    {
+      "surface": "המיר",
+      "gloss": "bidlet"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "il-ġeħja tagħha"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "jiswa xejn"
+    }
+  ],
+  "timestamp": "2026-10-21T19:51:42.086138191Z",
+  "model": "glm-5.3"
+}

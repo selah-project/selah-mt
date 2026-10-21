@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "joqtlu bil-ħsieb",
+      "rationale": "רצח hija qtil ippjanat — kelma partikolari għall-qtil tal-bniedem, distint minn הרג."
+    }
+  ],
+  "translation": "Lill-armla u lill-barrani joqtlu, u lill-iltieli joqtlu bil-ħsieb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/94\/5-8.1792617720980.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "lill-armla"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "u lill-barrani"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "joqtlu"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "u lill-iltieli"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "joqtlu bil-ħsieb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:00.980654789Z",
+  "model": "glm-5.3"
+}

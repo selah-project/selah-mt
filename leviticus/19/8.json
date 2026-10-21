@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nefes",
+      "rationale": "נפש mhix 'ruħ' fl-immaġni Griega: ħlejqa li tieħu nifs, il-persuna ħajja — 'in-nefes' iżżomm il-qraba."
+    },
+    {
+      "kind": "addition",
+      "subject": "fost",
+      "rationale": "מעמיה litteralment 'minn niesha'; 'fost' miżjud għal idjom Malti."
+    }
+  ],
+  "translation": "U min jiekilha jġorr il-ħażin tiegħu, għax profana ⟨את⟩ il-qaddis ta' Jaħwe; u dik in-nefes tinqata' minn fost niesha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/5-8.1792600960017.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "U min jiekilha"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "il-ħażin tiegħu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "jġorr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qaddis ta' Jaħwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "il-qaddis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "profana"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "u tinqata'"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "in-nefes"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dik"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "minn fost niesha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:42:40.018528273Z",
+  "model": "glm-5.3"
+}

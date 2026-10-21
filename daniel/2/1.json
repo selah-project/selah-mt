@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 2:1",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלם חלמות",
+      "rationale": "verb חלם u plural חלמות jirrepetu l-istess għerq — 'ħolem ħolmiet' żżomm il-ġibda tal-Lhudi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושנתו נהיתה עליו",
+      "rationale": "litteralment 'rqadu sar fuqu'; verżjonijiet qodma jaqsmu bejn 'rqadu telaq minnu' (KJV) u 'rqadu niżel fuqu' (Geneva)"
+    }
+  ],
+  "translation": "U fis-sena tnejn tas-saltnet ta' Nebukadnessar, Nebukadnessar ħolem ħolmiet, u ruwaħu tfixkel, u rqadu sar fuqu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/1-4.1792620600321.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "u fis-sena"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tnejn"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "tas-saltnet"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ħolem"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ħolmiet"
+    },
+    {
+      "surface": "ותתפעם",
+      "gloss": "u tfixkel"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruwaħu"
+    },
+    {
+      "surface": "ושנתו",
+      "gloss": "u rqadu"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "sar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:10:00.322089183Z",
+  "model": "glm-5.3"
+}

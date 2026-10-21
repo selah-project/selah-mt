@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inxtehet",
+      "rationale": "וישתחו huwa biċ-ċaħda quddiem Alla; 'inxtehet' iżomm il-ġest, 'qerdec' kien jagħti interpretazzjoni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ħassar rashu",
+      "rationale": "ויגז għerq tal-ħsir tal-ħaruf; hawn ħsar ir-ras b'sinjal ta' l-imgħax"
+    }
+  ],
+  "translation": "U Ġob qam, iċċarrat ⟨את⟩ il-mantell tiegħu, ħassar ⟨את⟩ rashu, waqa' bl-art u inxtehet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd6d8951f1538ad98551daea738b9056ecb2d7360d5930618c0ac843ec918a67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/1\/17-20.1792619104784.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "u qam"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ġob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "iċċarrat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mantell tiegħu"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "il-mantell tiegħu"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ħassar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rashu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rashu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "waqa'"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bl-art"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "u inxtehet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:45:04.786267222Z",
+  "model": "glm-5.3"
+}

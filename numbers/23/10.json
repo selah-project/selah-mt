@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "'ir-rubagħ' (kwart, kwart ta' kamp) vs JPS 'stock' (żerriegħa) — l-aktar traduzzjonijiet jqisu bħala kwart ta' Jisrael jew sħaħtra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruħ \/ ħaja",
+      "rationale": "נפשי hawn ma jittraduċix 'ruħ' imma 'ħaja\/nifs' — 'ħalli mewt ta' nifsi tkun il-mewt tad-dritt'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמת נפשי מות",
+      "rationale": "infinitiv assolut מות qabel il-verb: 'mut — mut in-nifs' tendenza tar-repeti għall-aħrab, imqatta' fil-Malti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "għadd it-trab",
+      "rationale": "il-vers joqgħod fuq għadd li ma jistax jitwettaq — kejl ta' moltitudni ta' Jisrael"
+    }
+  ],
+  "translation": "Min jimmaniġġa jgħodd it-trab ta' Jagħaqov, u n-numru ⟨את⟩ ir-rubagħ ta' Jisrael? Ħalli immut il-mewt tal-ġusti, u ħalli tmiemi jkun bħal tagħhom!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/23\/9-12.1792603067739.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "jgħodd"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "it-trab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "u n-numru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ir-rubagħ ta' Jisrael"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ir-rubagħ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "Ħalli immut"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "il-mewt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tal-ġusti"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tal-ġusti"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "u ħalli"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "tmiemi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "jkun bħal tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:17:47.741003939Z",
+  "model": "glm-5.3"
+}

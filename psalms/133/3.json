@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "deww Ħermon fuq Sajon",
+      "rationale": "Ġeografiċament iċ-ċpar ta' Ħermon ma jaqax fuq Sajon; qarreħ jaħsbu: tqabbil ta' abbondanza jew tradizzjoni ta' deww simili"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-olam",
+      "rationale": "עולם 'maħbi, punt li jgħib' — żmien mingħajr tarf; 'l-olam' miżmum qrib il-ħoss"
+    }
+  ],
+  "translation": "Bħad-deww ta' Ħermon li jinżel fuq il-muntanji ta' Sajon; għax hemm ħatar Jaħwe ⟨את⟩ l-berka, ħajja sa l-olam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/133\/1-3.1792618155024.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Bħad-deww"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ta' Ħermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "li jinżel"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "il-muntanji"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ta' Sajon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ħatar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-berka"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "l-berka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "l-olam"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:15.025735672Z",
+  "model": "glm-5.3"
+}

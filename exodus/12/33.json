@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כלנו מתים",
+      "rationale": "litteralment 'aħna lkoll mejtin', doċż 'aħna lkoll sejrin għall-mewt'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sfurzaw",
+      "rationale": "ותחזק litteralment 'saret qawija fuq' — il-ħila ntreddgħet b'verb attiv"
+    }
+  ],
+  "translation": "U dawk ta' Mitsrajim sfurzaw il-poplu biex jitilgħuhom malajr mill-art, għax qalu: Aħna lkoll mejtin.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/33-36.1792599520004.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "sfurzaw"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dawk ta' Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "malajr"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "biex jitilgħuhom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "aħna lkoll"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mejtin"
+    }
+  ],
+  "timestamp": "2026-10-21T16:18:40.005423194Z",
+  "model": "glm-5.3"
+}

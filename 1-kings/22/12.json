@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 22:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ha",
+      "rationale": "il-verb Malti jeħtieġ oġett; il-Lhudi għandu biss ונתן (u jagħti)"
+    },
+    {
+      "kind": "elision",
+      "subject": "it",
+      "rationale": "in-nuqqas ta' oġett f'ונתן ma jistax jgħaddi bil-Malti; l-oġett magħluq huwa Ramot-Gilgħad"
+    }
+  ],
+  "translation": "U l-profeti kollha kienu jqabbżu hekk, jgħidu: Tilgħa lejn Ramot-Gilgħad u irnexxi, u Jaħwe jagħtiha f'idejn ir-re.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f3ad31271235039b956a3fc998845b80599859e15be0baf40c3a1cf8c4dc19d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/12-12.1792623329622.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "U l-"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeti kollha"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "kienu jqabbżu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Tilgħa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgħad"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "u irnexxi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "u jagħtiha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:29.623423481Z",
+  "model": "glm-5.3"
+}

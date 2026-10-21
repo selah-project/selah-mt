@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 5:1",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minħa",
+      "rationale": "מנחה hawn tfisser tribut\/taqsira lil sultan, mhux offerta tat-tempju"
+    },
+    {
+      "kind": "crux",
+      "subject": "הנהר",
+      "rationale": "'Ix-xmara' bla isem: l-Ewfrate skont il-biċċa l-kbira, iżda t-test ma jgħidx"
+    }
+  ],
+  "translation": "U Slimien kien jirregi fuq ir-renji kollha, mix-xmara sa art il-Filistej sal-fruntiera ta' Mitsrajim; kienu jġibu minħa u kienu jaqdmu lil ⟨את⟩ Slimien il-ġranet kollha ta' ħajtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/5\/1-4.1792609394739.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "U Slimien"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "jirregi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fuq ir-renji kollha"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "ir-renji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ix-xmara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa art"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "il-Filistej"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sal"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fruntiera"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "kienu jġibu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minħa"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "u kienu jaqdmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Slimien"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Slimien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-ġranet kollha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "il-ġranet"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ta' ħajtu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:03:14.740433565Z",
+  "model": "glm-5.3"
+}

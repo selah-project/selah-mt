@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "gloss": "mgħoddija għaliex ויוסף עוד flimkien tfisser 'kompla għal darb'oħra'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "f'idejk",
+      "rationale": "בידך — idjom: 'f'idejk' = f'qawwetek, f'kummerċ tiegħek"
+    }
+  ],
+  "translation": "U David kompla jistaqsi f'Ġaħwe, u Ġaħwe wieġbu, u qal: Qum, inżel Kejla, għaliex jien se nagħti ⟨את⟩ il-Plixtin f'idejk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0ff76f86f965a3bb19e8739d2615bbd7d71d83f7dc8c2ba8d4958cef6bda0e04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/23\/1-4.1792608323902.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "kompla"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "jistaqsi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "f'Ġaħwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "wieġbu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ġaħwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Qum"
+    },
+    {
+      "surface": "רד",
+      "gloss": "inżel"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kejla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "se nagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Plixtin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "il-Plixtin"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "f'idejk"
+    }
+  ],
+  "timestamp": "2026-10-21T18:45:23.904219098Z",
+  "model": "glm-5.3"
+}

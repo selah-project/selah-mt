@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "waħda",
+      "rationale": "Il-Malti jeħtieġ 'kelma waħda' għal דבר singular b'dan il-kuntest, bħall-KJV 'one word'."
+    },
+    {
+      "kind": "you",
+      "subject": "sultan",
+      "rationale": "Talba diretta lis-sultan biex jisma' l-iskava tiegħu."
+    }
+  ],
+  "translation": "U l-mara qalet: Ħallini nkelllem jekk jogħġbok, l-iskava tiegħek, ma' sid is-sultan, kelma waħda. U huwa qal: Kellim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/14\/9-12.1792608771104.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "u qalet"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "l-mara"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ħallini nkelllem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "l-iskava tiegħek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kellim"
+    }
+  ],
+  "timestamp": "2026-10-21T18:52:51.105804569Z",
+  "model": "glm-5.3"
+}

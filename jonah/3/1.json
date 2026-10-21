@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ il-verbu; il-Lhudi jibda bil-wayyiqtol ויהי"
+    },
+    {
+      "kind": "you",
+      "subject": "kelma ta' Jaħwe",
+      "rationale": "Dwarba diretta ta' Elohim ma' Jona"
+    }
+  ],
+  "translation": "U ⟨kien⟩ kelma ta' Jaħwe lil Jona għat-tieni darba, li tgħid:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1598c608c54b2c3303f31bc4961b6b3ff43b1815d2272faab2a9adeb44f79505",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/3\/1-4.1792615758388.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "għat-tieni darba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li tgħid"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:18.389256963Z",
+  "model": "glm-5.3"
+}

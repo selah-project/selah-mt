@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sar",
+      "rationale": "מלך hawn hija forma 'il-past perfett', 'sar sultan' bil-Malti jżid 'sar'."
+    },
+    {
+      "kind": "you",
+      "subject": "lil David",
+      "rationale": "Diskors dirett lejn is-sultan David."
+    }
+  ],
+  "translation": "U issa, ara, Adonija sar sultan, u int, sidi s-sultan, ma tafx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/17-20.1792609251372.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonija"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sar sultan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tafx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:51.373219110Z",
+  "model": "glm-5.3"
+}

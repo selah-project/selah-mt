@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "l-istress Malti fuq is-suġġett fil-ħelsien tan-negazzjoni; il-Lhudi għandu biss ידעתי"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "il-'u' f'ולא saret 'iżda' biex tinżan ir-reżulta Maltija"
+    }
+  ],
+  "translation": "U l-mara ħadet ⟨את⟩ it-tnejn irġiel u ħbithom, u qalit: Iva, daħlu għandi l-irġiel, iżda jien ma kont naf minn fejn huma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/2\/1-4.1792606183938.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "u ħadet"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "l-mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tnejn irġiel"
+    },
+    {
+      "surface": "שני",
+      "gloss": "it-tnejn"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "u ħbithom"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "u qalit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Iva"
+    },
+    {
+      "surface": "באו",
+      "gloss": "daħlu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "l-irġiel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kont naf"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "minn fejn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    }
+  ],
+  "timestamp": "2026-10-21T18:09:43.939900977Z",
+  "model": "glm-5.3"
+}

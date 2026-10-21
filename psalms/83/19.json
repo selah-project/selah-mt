@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux copula; il-Malti jippretendha"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליון",
+      "rationale": "titlu ta' Alla (El Elyjon) jew sempliċiment 'l-ogħla'; il-Malti 'għolja fuq kollha' iżżomm it-tnejn"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "appell dirett lil Jaħwe fit-talba"
+    }
+  ],
+  "translation": "U jkunu jafu li inti, ismek huwa Jaħwe, int waħdek għolja fuq l-art kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/83\/17-19.1792617543671.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "U jkunu jafu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "int waħdek"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "għolja"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:03.672202462Z",
+  "model": "glm-5.3"
+}

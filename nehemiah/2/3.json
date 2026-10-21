@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 2:3",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Għeħemja lis-sultan",
+      "rationale": "Rispett formali: 'is-sultan jgħix għal dejjem' indirizzat direttament lill-Persjan."
+    },
+    {
+      "kind": "idiom",
+      "subject": "המלך לעולם יחיה",
+      "rationale": "Formula tal-qorti Persjana, ' ħajja s-sultan għal dejjem', mhux dikjarazzjoni litteralja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maqbda bin-nar",
+      "rationale": "אכלו litteralment 'ma nlqgħu (mgħarrqa bin-nar)' — il-bibien 'mangrati' min-nar."
+    }
+  ],
+  "translation": "U għdit lis-sultan: Is-sultan jgħix għal dejjem! Għaliex ma jkunx wiċċi imdejjaq, meta l-belt, dar ta' oqbra ta' missirijieti, hija meqruda, u bwiebbiha maqbda bin-nar?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/2\/1-4.1792621272345.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "u għdit"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lis-sultan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "jgħix"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "jkunx imdejjaq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "ta' oqbra"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ta' missirijieti"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "hija meqruda"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "u bwiebbiha"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "maqbda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:21:12.346693444Z",
+  "model": "glm-5.3"
+}

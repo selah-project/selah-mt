@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 12:30",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "il-ħarsien ta' dar Xaul",
+      "rationale": "משמרת בית שאול: litteralment 'il-għassa tad-dar ta' Xaul',jiġifieri lealtà lejn id-dar ta' Xaul."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tlett elef",
+      "rationale": "Għadd ta'emmieni ta' Binjamin."
+    }
+  ],
+  "translation": "U minn ulied Binjamin, aħwa ta' Xaul, tlett elef; għad hawn il-biċċa l-kbira tagħhom żammew il-ħarsien ta' dar Xaul.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "721468fea0e62d791f5415c9137fe995e84cddddca962d41856c50249c760be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/12\/29-32.1792621903572.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "U minn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "aħwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ta' Xaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elef"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "għad"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "מרביתם",
+      "gloss": "il-biċċa l-kbira tagħhom"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "żammew"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "il-ħarsien"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ta' dar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:43.573581401Z",
+  "model": "glm-5.3"
+}

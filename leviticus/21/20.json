@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "irqiq",
+      "rationale": "דק: 'irqiq\/maħsun' bil-qedem kontra 'qasir' (KJV dwarf, LXX); thallitna bil-veduta litterali"
+    },
+    {
+      "kind": "hapax",
+      "subject": "tikħil",
+      "rationale": "תבלל — kelma li tinstab darba biss fit-Tanakh, ċataratta fl-għajn"
+    },
+    {
+      "kind": "hapax",
+      "subject": "korfa",
+      "rationale": "ילפת — kelma li tinstab darba biss fit-Tanakh, sorte ta' skerża niexfa"
+    }
+  ],
+  "translation": "jew mgħawweġ id-dahar, jew irqiq, jew b'tikħil fl-għajn, jew bil-ġrad, jew bil-korfa, jew b'testikolu mkisser.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb1a6bd847fb8230b8e127ec879b94d9466be40eb1c6fc00c5f05e6295b5a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/21\/17-20.1792601091569.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "mgħawweġ id-dahar"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "דק",
+      "gloss": "irqiq"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "tikħil"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "fl-għajn"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ġrad"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "korfa"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "mkisser"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "testikolu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:51.570630553Z",
+  "model": "glm-5.3"
+}

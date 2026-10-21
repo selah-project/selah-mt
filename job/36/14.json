@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 36:14",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefex",
+      "rationale": "נפש hija n-nifs il-ħajja, mhix 'ruħ' għal qalba waħda"
+    },
+    {
+      "kind": "crux",
+      "subject": "il-qaddisin",
+      "rationale": "בקדשים: il-kelma tfisser midlukin\/devoti ta' đaqqa tat-tempju (prostituti maskilin); 'l-ħnieżer' (kjv), 'id-dgħajfin morali' (jps)"
+    },
+    {
+      "kind": "addition",
+      "subject": "tal-ħażen",
+      "rationale": "l-għażla ta' dqiq ġiet miżjuda bl-għajd tar-ruħ tal-kelma, għax 'qaddisin' soltu tfisser l-oppost"
+    }
+  ],
+  "translation": "Tagħmut fiż-żgħożit in-nefex tagħhom, u ħajjithom fost il-qaddisin ⟨tal-ħażen⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/36\/13-16.1792619764027.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "tagħmut"
+    },
+    {
+      "surface": "בנער",
+      "gloss": "fiż-żgħożit"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "in-nefex tagħhom"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "u ħajjithom"
+    },
+    {
+      "surface": "בקדשים",
+      "gloss": "fost il-qaddisin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:04.028507374Z",
+  "model": "glm-5.3"
+}

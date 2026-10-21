@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "talba lil El",
+      "rationale": "Il-psalmista jistedenn lill-alla jeszaminah — imperattivi mhux ta' bniedem ieħor"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחנני",
+      "gloss": "'ġarrabni' bħal provi tal-metalli (Ġen 22:1)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ודע ... ודע",
+      "rationale": "It-tlussien ta' 'kun taf' mtenni, jirrepeti l-echo ta' vers 1-2"
+    }
+  ],
+  "translation": "Fittex fija, El, u kun taf il-qalb tiegħi; ġarrabni u kun taf il-ħsibijiet tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/139\/21-24.1792618241701.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Fittex fija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "u kun taf"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "il-qalb tiegħi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ġarrabni"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "u kun taf"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "il-ħsibijiet tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:41.702466993Z",
+  "model": "glm-5.3"
+}

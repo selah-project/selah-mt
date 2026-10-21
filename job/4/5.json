@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tolqot saqtek",
+      "rationale": "תגע עדיך literalment 'tilħaq saqtek' — idjom Lhudi għal xi ħaġa li tasal sa ħdejk bis-sħiħ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "u tħawwad",
+      "rationale": "ותבהל jista' jkun 'tħawwad' jew 'tidħak f'rabta' — il-biża' f'qalbek; ħadt it-tifsira l-aktar komuni."
+    }
+  ],
+  "translation": "Imma issa li waslet għalik, int għejjiet; tolqot saqtek, u tħawwad.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/4\/5-8.1792619063381.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "waslet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "u għejjiet"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "tolqot"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "saqtek"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "u tħawwad"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:23.381583929Z",
+  "model": "glm-5.3"
+}

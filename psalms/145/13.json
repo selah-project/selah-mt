@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "Il-Lhudi ma għandux kopula; żżiditha bil-Malti u ssiġillitha b'⟨…⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכותך מלכות",
+      "rationale": "Ripetizzjoni: 'is-saltna tiegħek — saltna', inċipit rappreżentattiv tal-psalm alfabetiku"
+    }
+  ],
+  "translation": "Is-saltna tiegħek ⟨hi⟩ saltna ta' kull żmien moħbi, u l-ħakma tiegħek f'kull ġenerazzjoni u ġenerazzjoni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/145\/13-16.1792618244791.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "is-saltna tiegħek"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "saltna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "żmien moħbi"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "u l-ħakma tiegħek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kull"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ġenerazzjoni"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "u ġenerazzjoni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:44.791966614Z",
+  "model": "glm-5.3"
+}

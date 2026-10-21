@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "il-partiċella כי ma għandha ekwivalenti wieħed bil-Malti f'din il-kostruzzjoni אף כי; ingħadet ma' 'kemm iktar'"
+    },
+    {
+      "kind": "crux",
+      "subject": "jitħallas fl-art",
+      "rationale": "ישלם בארץ: 'jitħallas (mgħarraf) fl-art' — jew skont xi qari 'titħallas ħaġa mill-art'"
+    }
+  ],
+  "translation": "Ara, ir-raġel ġust fl-art jitħallas — kemm iktar il-ħażin u l-midneb!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/11\/29-31.1792618574765.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ir-raġel ġust"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "jitħallas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kemm iktar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "u l-midneb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:14.766087566Z",
+  "model": "glm-5.3"
+}

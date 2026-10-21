@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/וישבר",
+      "rationale": "Għerq imtenni — 'jqassam' u 'qassam' iżomm ir-ripetizzjoni Lhudija"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-arżar",
+      "rationale": "Plural ארזים ma għandux plural Malti; 'l-arżar' iġbor il-plural ta' siġar"
+    }
+  ],
+  "translation": "Il-leħen ta' Jaħwe jqassam l-arżar; iva, Jaħwe qassam ⟨את⟩ l-arżar tal-Libanu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/29\/5-8.1792616813824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "il-leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "jqassam"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "l-arżar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "iva, qassam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-arżar tal-Libanu"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "l-arżar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "tal-Libanu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:53.825079917Z",
+  "model": "glm-5.3"
+}

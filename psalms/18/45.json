@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לשמע\/ישמעו",
+      "rationale": "Radd ta' שׁמע darbtejn: 'smigħ widna jisimgħu' — lil qal it-tifsir dwar sema' u obbidjenza fl-istess kelma."
+    },
+    {
+      "kind": "crux",
+      "subject": "jinnegawni",
+      "rationale": "יכחשו tfisser 'jiddeċiedu\/jinnegaw'; hawn l-ambigwita' bejn 'jinnegawni' (jiddeċieduni) u 'jidubitu obbidjenza' (ylt)."
+    }
+  ],
+  "translation": "Biex tismagħ widna jisimgħuni; ulied il-barranin jinnegawni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/45-48.1792616617273.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "biex tismagħ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "widna"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "jisimgħu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "il-barranin"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "jinnegaw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:37.273766123Z",
+  "model": "glm-5.3"
+}

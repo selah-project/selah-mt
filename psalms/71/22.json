@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמתך",
+      "rationale": "'l-emet tiegħek' — appożattiv għall-instrument (KJV) jew għall-faħħar (Geneva): is-sintassi Lhudija tħalli t-tnejn"
+    },
+    {
+      "kind": "elision",
+      "subject": "אודך",
+      "rationale": "għerq ידה = 'jitlef ġeġa'; 'infaħħar' jitlaq il-ħatra liturġika"
+    }
+  ],
+  "translation": "Jien ukoll infaħħar bi strument ta' nevel l-emet tiegħek, Elohim tiegħi; naħdu lek bil-kinor, qaddis ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/21-24.1792617404528.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "infaħħar"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "bi strument ta'"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "l-emet tiegħek"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "naħdu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bil-kinor"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:44.528684589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועז מלך משפט אהב",
+      "rationale": "'and the strength of the King — he loves judgment' or 'and the mighty King loves judgment'; the construct can be read both ways."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפט ... משפט",
+      "rationale": "the word 'judgment' appears twice in one verse, framing the verse with the same verdict."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "the verse turns from description to direct second-person address: 'You established... You did'."
+    }
+  ],
+  "translation": "U l-qawwa tas-Sultan — il-ġudizzju iħobb; inti stabbilajt dritt, ġudizzju u tsedeq f'Jagħaqov inti għamilt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/1-4.1792617733302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "U l-qawwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tas-Sultan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il-ġudizzju"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iħobb"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "stabbilajt"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dritt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ġudizzju"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "u tsedeq"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "f'Jagħaqov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "għamilt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:13.303645717Z",
+  "model": "glm-5.3"
+}

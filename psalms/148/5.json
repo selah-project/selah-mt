@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Biex",
+      "rationale": "il-kostruzzjoni infinitiva tal-Lhudi tittraduċi b'\"biex\" biex tifforma skop"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "rationale": "il-kostrutt ta' שם יהוה jeħtieġ \"ta'\" bil-Malti"
+    }
+  ],
+  "translation": "Biex ifaħħru ⟨את⟩ l-isem ta' Jaħwe, għax hu talli amar u ġew maħluqin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/148\/5-8.1792618330932.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ifaħħru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-isem ta' Jaħwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "l-isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amar"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "u ġew maħluqin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:10.932704058Z",
+  "model": "glm-5.3"
+}

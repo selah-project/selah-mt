@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Verb 'kienu' miżjud bil-Malti; il-Lhudi għandu biss זקנים המה."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדברים",
+      "rationale": "'b'kliem' — qari ieħor: 'stenna lil Ijov jitkellem' (b'kliem bħala dittarju ta' חכה, il-ktib 'għal kliem')."
+    }
+  ],
+  "translation": "U Eliħu stenna lil ⟨את⟩ Ijov b'kliem, għax dawn kienu akbar minnu snin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/32\/1-4.1792619689233.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "u Eliħu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "stenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Ijov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "b'kliem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "akbar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "snin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:49.234684293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Job turns to address Eloah directly (the 'two things' are spelled out in the next verse: withdraw your hand, let not your dread terrify me)."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "The Hebrew deprecative negation אל is fused into the Maltese prohibitive suffix '-x' on 'tagħmel', no separate word."
+    }
+  ],
+  "translation": "Imma biss żewġ affarijjiex tagħmel magħni; allura ma nħebbax minn wiċċek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/13\/17-20.1792619311009.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Imma biss"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-x"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "magħni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allura"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "minn wiċċek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "nħebbax"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:31.010268136Z",
+  "model": "glm-5.3"
+}

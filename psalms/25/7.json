@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תזכר \/ זכר",
+      "rationale": "l-istess għerq זכר darbtejn b'maħsub oppost — 'la tiftakar' u 'ftakar' — kliem bil-moħbi, mir-reqqa"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiftakarhom",
+      "rationale": "il-pronom oġġett 'hom' miżjud bil-Malti għax l-istorbju ta' חטאות jeħtieġ suffix; il-Lhudi għandu biss il-verb"
+    },
+    {
+      "kind": "you",
+      "subject": "talbit lil Jaħwe",
+      "rationale": "indirizz dirett lil Jaħwe fit-talba"
+    }
+  ],
+  "translation": "Il-ħtiet ta' żgħożiti u d-ribelljonijiet tiegħi la tiftakarhom; skond il-ħesed tiegħek ftakar inti għalija, għall-għan it-tjub tiegħek, Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/5-8.1792616724817.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Il-ħtiet"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ta' żgħożiti"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "u d-ribelljonijiet tiegħi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "tiftakar"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "skond il-ħesed tiegħek"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ftakar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "għall-għan"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "it-tjub tiegħek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:24.817961296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 20:32",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפשי litteralment 'in-nifs tiegħi' — ħajja-nifs, mhux ruħ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Malti jkollu bżonn il-pronom fil-mistoqsija 'Għadux ħaj huwa?' — il-Lhudi għandu biss העודנו חי"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחי הוא",
+      "rationale": "'huwa ħu' — l-istqarrija tal-allelwja meħtieġa għall-kuntest; ħafna traduzzjonijiet iżidu mistoqsija jew interjezzjoni, il-Lhudi għandu dikjarazzjoni sempliċi"
+    }
+  ],
+  "translation": "U jarbu l-qghus fuq l-irkopptejna u ħbula fuq rashom, u daħlu għand sultan Jisriel u qalu: Il-qaddej tiegħek Ben-Hadad jgħid: Ħallini ngħix, immi, ⟨הַנֶּפֶשׁ תחי נא נפשי⟩. U huwa qal: Għadux ħaj huwa? Huwa ħu ⟨hu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8138d0c32df9be03b6ecdd54548ed51f2aaf7d0d6b4276e81c9b690037d4770e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/20\/29-32.1792610008830.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחגרו",
+      "gloss": "u jarbu"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "l-qghus"
+    },
+    {
+      "surface": "במתניהם",
+      "gloss": "fuq l-irkopptejna"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "u ħbula"
+    },
+    {
+      "surface": "בראשיהם",
+      "gloss": "fuq rashom"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "u daħlu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisriel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Il-qaddej tiegħek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "תחי",
+      "gloss": "Ħallini ngħix"
+    },
+    {
+      "surface": "נא",
+      "gloss": "immi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nifsi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U huwa qal"
+    },
+    {
+      "surface": "העודנו",
+      "gloss": "Għadux"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:13:28.831623624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "prepositional את (H854, 'minn'), distinct from the DOM marker, rendered 'minn' with the ⟨את⟩ glyph kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ħsara",
+      "rationale": "בדק is a gap or leak in a building, mhux sempliċement 'ħsara'"
+    }
+  ],
+  "translation": "U qabelu l-qassisin biex ma titħasrex fidda minn ⟨את⟩ il-poplu, u biex ma tissikkax ⟨את⟩ il-ħsara tad-dar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "333c61034ffc91e9d99407bf98b6e91c9ef5a2654df6e1af014ea0b0467a984d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/12\/9-12.1792610403626.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "u qabelu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "l-qassisin"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "titħasrex"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "u biex ma"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tissikka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħsara"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "il-ħsara"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tad-dar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:03.626866077Z",
+  "model": "glm-5.3"
+}

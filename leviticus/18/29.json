@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 18:29",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-erwieħ",
+      "rationale": "נפש היא l-erwieħ\/eżistenzi li jieħu n-nifs, mhux ruħ fl-immaġni ta' ħaħa"
+    },
+    {
+      "kind": "addition",
+      "subject": "waħda",
+      "rationale": "מכל bil-Malti jirrekjedi 'waħda minn' għal ċar"
+    },
+    {
+      "kind": "idiom",
+      "subject": "min-nofs ta' nieshom",
+      "rationale": "מקרב עמם — literal 'mill-qalb\/ġewwa ta' nieshom'"
+    }
+  ],
+  "translation": "Għaliex kull min jagħmel waħda minn dawn l-abominazzjonijiet, l-erwieħ li jagħmlu dan jinqatgħu min-nofs ta' nieshom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "41219a2705ee78e30991ffe8a6537282d9646fce40aaa5f1d63ce9a307877912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/18\/29-30.1792600892703.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "l-abominazzjonijiet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "u jinqatgħu"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "l-erwieħ"
+    },
+    {
+      "surface": "העשת",
+      "gloss": "li jagħmlu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "min-nofs"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ta' nieshom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:32.703899438Z",
+  "model": "glm-5.3"
+}

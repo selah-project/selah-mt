@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע \/ ראו ראו",
+      "rationale": "Infinitive-absolute doubling after the imperative — 'hearing, hear… seeing, see' — rhythm lost in Maltese"
+    },
+    {
+      "kind": "crux",
+      "subject": "imperatives vs indicatives",
+      "rationale": "Hebrew imperatives 'hear… see' read by KJV\/JPS as concessive ('hear indeed'), by YLT as commands"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ismaġħu… taraw",
+      "rationale": "The prophet is sent to address the people directly with imperatives"
+    }
+  ],
+  "translation": "U qal: Mur, u għid lil dan il-poplu: Ismagħu, smigħ, iżda la tifhmux; taraw, tara, iżda la tkunu jafu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/6\/9-12.1792611041042.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mur"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "u għid"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lil dan il-poplu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ismagħu"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "smigħ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iżda la"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "tifhmux"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "taraw"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iżda la"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tkunu jafu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:30:41.043181695Z",
+  "model": "glm-5.3"
+}

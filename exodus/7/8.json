@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "l-infinitiv 'li jgħid' tal-messaġġ li ġej tradott bħala 'biex jgħidu' biex jinfetaħ id-diskors"
+    }
+  ],
+  "translation": "U Jaħwe qal lil Moxe u lil Aharon, biex jgħidu:",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/7\/5-8.1792599256969.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħidu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:16.970486692Z",
+  "model": "glm-5.3"
+}

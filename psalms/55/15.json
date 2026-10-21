@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "is-sod — il-kunsill sigriet, il-ħbiberija moħbija maqsma bejn żewġ persuni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħlewwnejna",
+      "rationale": "נמתיק verbu 'nħelwa' fuq il-kunsill — 'sweeten counsel' literal, mhux sempliċement 'qbidna"
+    }
+  ],
+  "translation": "li flimkien ħlewwnejna s-sod, fid-dar ta' Elohim konna nimxu fost il-ħeġġa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b253a0c41a131a291ebed9375d1be76fb6f6ff443e2b826b67ddc7f0eea2f34c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/55\/13-16.1792617220970.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "ħlewwnejna"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "is-sod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "konna nimxu"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "fost il-ħeġġa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:40.971067304Z",
+  "model": "glm-5.3"
+}

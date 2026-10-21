@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qarn",
+      "rationale": "קרן tfisser litteralment qarn — simbolu ta' qawwa; mhux 'qawwa' waħedha"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Mulej",
+      "rationale": "it-tmiem bit-tempu tat-tieni persuna (tisellimni) jaqleb il-ħajja għal kliem dirett lemn iħu Alla"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישע\/משעי\/תשעני",
+      "rationale": "għerq ישע jidher darbtejn (משעי, תשעני) ma' ישעי fil-vers; ir-repetizzjoni tal-għerq tal-ħelsien titlef ftit bil-Malti"
+    }
+  ],
+  "translation": "Elohim, is-sengħa tiegħi — fih inħebeż; tarka tiegħi, u l-qarn tal-ħelsien tiegħi, il-għolja fortifikata tiegħi, u l-post tal-ħarba tiegħi; liberatur tiegħi, mill-vjolenza tisellimni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/22\/1-4.1792609086890.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "is-sengħa tiegħi"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "inħebeż"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tarka tiegħi"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "u l-qarn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tal-ħelsien tiegħi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "il-għolja fortifikata tiegħi"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "u l-post tal-ħarba tiegħi"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "liberatur tiegħi"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "mill-vjolenza"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "tisellimni"
+    }
+  ],
+  "timestamp": "2026-10-21T18:58:06.891884608Z",
+  "model": "glm-5.3"
+}

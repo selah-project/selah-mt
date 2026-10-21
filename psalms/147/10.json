@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שוקי האיש",
+      "rationale": "lit. 'riġlejn (ta' taħt) il-bniedem' — is-saħħa ta' ġisimtu, idiom għall-ħila tal-bniedem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבורת הסוס \/ שוקי האיש",
+      "rationale": "parallelismu: il-ħila ta' żwiemel u saqajn bniedem, it-tnejn miċħuda"
+    }
+  ],
+  "translation": "Mhux fil-qlubija tas-siġra jogħġob lilu, u mhux fi saqajn il-bniedem jieħu pjaċir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/9-12.1792618315898.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "fil-qlubija"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "tas-siġra"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "jogħġob lilu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "fi saqajn"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "jieħu pjaċir"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:55.899038689Z",
+  "model": "glm-5.3"
+}

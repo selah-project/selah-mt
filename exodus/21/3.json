@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגפו ... בגפו",
+      "rationale": "iterazzjoni eżatta: dak li daħal b'ġismu joħroġ b'ġismu — struttura ta' mibegħdsa miżmuma bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגפו",
+      "rationale": "'b'ġismu waħdu' jew 'bil-ġisem magħluq' (bla martu); it-tifsira litterali hi 'bil-ġwieh\/sidru tiegħu'"
+    }
+  ],
+  "translation": "Jekk b'ġismu jidħol, b'ġismu joħroġ; jekk raġel ta' mara hu, martu toħroġ miegħu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/21\/1-4.1792599804389.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "b'ġismu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jidħol"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "b'ġismu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "raġel (sid)"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "u toħroġ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "martu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:24.390216403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jien",
+      "rationale": "l-Ebrajk m'għandux verb 'jkun' — kopula miżjeda bil-Malti, immarkata"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "awturiżzazzjoni tal-patt indirizzata direttament lil Jisrael"
+    }
+  ],
+  "translation": "⟨Jien⟩ Jaħwe, Elohim tiegħek, li ħriġtek mill-art ta' Mitsrajim, mid-dar tal-ilsiera.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/20\/1-4.1792599666668.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ħriġtek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mid-dar"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tal-ilsiera"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:06.669271427Z",
+  "model": "glm-5.3"
+}

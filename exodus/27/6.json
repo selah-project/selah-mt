@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bir-ram",
+      "rationale": "נחשת huwa ram\/ħadid ram; 'brass' ta' KJV mhux eżatt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בדים ... בדי",
+      "rationale": "ripetizzjoni apposta: il-bastuni tal-miżbeaħ, bħal ma ntarzm fil-25"
+    }
+  ],
+  "translation": "U tagħmel bastuni għall-miżbeaħ, bastuni ta' inju ta' akaċja, u tgħattihom bir-ram.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/27\/5-8.1792599931461.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "U tagħmel"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "bastuni"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "għall-miżbeaħ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bastuni ta'"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "inju ta'"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akaċja"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "u tgħattihom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lilhom (il-bastuni)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bir-ram"
+    }
+  ],
+  "timestamp": "2026-10-21T16:25:31.462296652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "Il-Lhudi ma għandux il-pronom; miżjud bil-parentesi merħba — hawn barra sabiex is-sentenza tiflaħ bil-Malti."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ta' għonq iebes",
+      "rationale": "קשה ערף literalment 'iebes ta' nuca' — il-manjiera li tqilġu ras biex tbaxxi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nħallik",
+      "rationale": "אכלך minn כלה — 'nitlef wisq għalik \/ nħassrek'; il-verbu jfisser nara b'kollox."
+    }
+  ],
+  "translation": "għal art li tgħarrex ħalib u għasel, għax jien ma nitla'x f'nofskom, għax int poplu ta' għonq iebes, ħalli ma nħallikx fit-triq.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/33\/1-4.1792600195389.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "li tgħarrex"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ħalib"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "u għasel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nitla'x"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "f'nofskom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "iebes"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ta' għonq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ħalli ma"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "nħallikx"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    }
+  ],
+  "timestamp": "2026-10-21T16:29:55.390350061Z",
+  "model": "glm-5.3"
+}

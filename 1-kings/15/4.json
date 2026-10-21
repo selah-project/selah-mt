@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lampiera",
+      "rationale": "ניר, mjara: stampa ta' dawl li jibqa' ħaj mid-dar ta' David, mhux sempliċiment 'wirt'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "biex iqum bil-iben",
+      "rationale": "להקים את בנו jista' jkun 'biex iqum lill-iben tiegħu' bħala oġġett dirett; il-Malti juża 'biex iqum bil-iben' għal ċarja."
+    }
+  ],
+  "translation": "Għax minħabba David, Jaħwe Elohim tiegħu ta lilu lampiera f'Jeruxalajim, biex iqum bil-iben tiegħu warajh u biex iżomm ⟨את⟩ lil Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/1-4.1792609752741.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "למען",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim tiegħu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampiera"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "biex iqum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil iben tiegħu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "l-iben tiegħu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "warajh"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "u biex iżomm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jeruxalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lil Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:09:12.742711815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 36:19",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-allat",
+      "rationale": "אלהי tal-ġnus jittraduċu b'ittra żgħira skont D1 (Eżodu 32:8), għax hawn huma l-idoli ta' Ħamat, Arpad u Sefarvajim"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "il-Malti jeħtieġ il-verbu kopulattiv; il-Lhudi għandu biss איה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איה … איה",
+      "rationale": "iterazzjoni retorika ta' mistoqsija għadwejja — 'Fejn?' darbtejn — sfida maħsuba tal-Axur"
+    }
+  ],
+  "translation": "Fejn ⟨huma⟩ l-allat ta' Ħamat u Arpad? Fejn ⟨huma⟩ l-allat ta' Sefarvajim, u kif ħelsjew ⟨את⟩ Xomron minn idejni?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "617b29e03a97e108864d34764cdb0caa3f28838ea7849209264ceeef5dae10a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/36\/19-20.1792623500346.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Fejn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l-allat"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ta' Ħamat"
+    },
+    {
+      "surface": "וארפד",
+      "gloss": "u Arpad"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Fejn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l-allat"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "ta' Sefarvajim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "u kif"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ħelsjew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Xomron"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "minn idejni"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:20.347022845Z",
+  "model": "glm-5.3"
+}

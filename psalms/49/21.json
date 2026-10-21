@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "Paronomasia: 'he is likened' (נמשל) and 'they perish\/are silenced' (נדמו) share the root consonants מ-ש-ל\/ד-מ-ה assonance — the comparison and the destruction rhyme; lost in Maltese."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נדמו",
+      "rationale": "Root דמה means both 'be silent\/dumb' and 'perish\/be destroyed' — the beasts' dumbness and man's perishing are one word."
+    },
+    {
+      "kind": "addition",
+      "subject": "u \/ ma",
+      "rationale": "Conjunction and comparative particle supplied in Maltese to carry the relative and simile structure."
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "The psalm's wisdom refrain addresses the hearer directly with its closing verdict on the rich who lack understanding."
+    }
+  ],
+  "translation": "Bniedem fi ġieħ ⟨u⟩ li ma jifhemx, tixbaħ ⟨ma⟩ l-bhejjem — huma nqatgħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc6b7c77f76eb66697796be341fc5d46f0785a167995223d72f36ffde2e9ea8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/21-21.1792617092463.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "fi ġieħ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u li ma"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "jifhemx"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "tixbaħ"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ma l-bhejjem"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "huma nqatgħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:32.463939956Z",
+  "model": "glm-5.3"
+}

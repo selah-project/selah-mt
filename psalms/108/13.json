@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצר",
+      "rationale": "narrow\/tight place: 'mill-angustja' vs 'kontra l-għadu' (ASV\/JPS read the enemy)."
+    },
+    {
+      "kind": "you",
+      "subject": "il-qarrej lil Jaħwe",
+      "rationale": "talba diretta: imperattiv lejn Jaħwe fil-plural."
+    },
+    {
+      "kind": "substitution",
+      "subject": "difiża",
+      "rationale": "תשועה hija salvazzjoni\/defiża — kelma waħda b'żewġ wiċċiet."
+    }
+  ],
+  "translation": "Agħtina għajnuna mill-angustja, għax fleret hija d-difiża tal-bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/108\/13-14.1792617858060.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "agħti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "għajnuna"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mill-angustja"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "għax fleret"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "id-difiża"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tal-bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:18.061475681Z",
+  "model": "glm-5.3"
+}

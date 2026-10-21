@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אף",
+      "rationale": "Fuq il-mnieħer — l-angerju (l-ewwel tifsira tal-kelma אף huwa mnief); tradott bħala għadab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tagħtini l-ħajja",
+      "rationale": "תחיני litteralment 'tgħixni' — tfakkar għal ħajja; il-Malti jieħu żewġ kelmiet għal waħda"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jekk",
+      "rationale": "אם tista' tinqara bħala ħajra ('Għalkemm') jew bħala ħtif bis-siġġifika: 'Jekk nimxi... inti tagħtini l-ħajja'"
+    }
+  ],
+  "translation": "Jekk nimxi f'nofs il-ħasra, inti tagħtini l-ħajja; kontra l-għadab tal-għedewwa tiegħi tbiddel idek, u ddek il-lemin ttaffiġni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/138\/5-8.1792618233996.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nimxi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "il-ħasra"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "tagħtini l-ħajja"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l-għadab"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "tal-għedewwa tiegħi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "tbiddel"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "idek"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "u ttaffiġni"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ddek il-lemin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:33.997498339Z",
+  "model": "glm-5.3"
+}

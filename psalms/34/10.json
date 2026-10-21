@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minnu",
+      "rationale": "pronoun supplied in Maltese to clarify the object of fear"
+    },
+    {
+      "kind": "you",
+      "subject": "ja qaddisin tiegħu",
+      "rationale": "direct address to the saints, imperative"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראו\/ליראיו",
+      "rationale": "root ירא repeated: command to fear grounded in the fear of those who lack nothing"
+    }
+  ],
+  "translation": "Bżomm 'l ⟨את⟩ Jaħwe, ja qaddisin tiegħu, għax m'hemm ebda nuqqas lil dawk li jibżgħu minnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc12b3639f63da0bdbd13ab992c95110f7f908474c2e2ed11559033d00575f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/34\/10-11.1792623805969.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Bżomm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ja qaddisin tiegħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemm ebda"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "nuqqas"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "lil dawk li jibżgħu minnu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:25.969847987Z",
+  "model": "glm-5.3"
+}

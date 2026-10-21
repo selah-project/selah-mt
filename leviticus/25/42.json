@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "Il-pronom enfatiku miżjud bil-Malti għall-verb הוצאתי"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "Jaħwe jindema lill-Israwel b'regola dwar l-iskjavitu ta' ħutthom — ma jinbiegħux bħall-iskjavi"
+    }
+  ],
+  "translation": "Għax l-iskjavi tiegħi huma, li jien ħriġt ⟨את⟩ lilhom minn art Mitsrajim; ma jinbiegħux bil-bejgħ ta' skjav.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/25\/41-44.1792601214964.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "l-iskjavi tiegħi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ħriġt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lilhom — l-iskjavi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "minn art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "jinbiegħux"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "bil-bejgħ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ta' skjav"
+    }
+  ],
+  "timestamp": "2026-10-21T16:46:54.965596173Z",
+  "model": "glm-5.3"
+}

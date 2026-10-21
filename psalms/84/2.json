@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ il-verbi għall-esclamazzjoni; l-Lhudi m'għandux."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-Mixkan",
+      "rationale": "משכנותיך huwa plural ('il-Mixkanat tiegħek'); għażilna isem wieħed qarib ta' משכן skont D2."
+    }
+  ],
+  "translation": "Kemm huma maħbuba l-Mixkan tiegħek, Jaħwe Tsebawot!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/84\/1-4.1792617618854.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kemm"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "maħbuba"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "l-Mixkan tiegħek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:18.855346188Z",
+  "model": "glm-5.3"
+}

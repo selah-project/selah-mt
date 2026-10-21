@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ruwaħ \/ tromba ta' riħ",
+      "rationale": "רוח (wind) sown yields סופה (storm-wind) harvested — sowing\/reaping escalation from breath to hurricane; also קמה\/צמח\/קמח near-identical roots (stalk\/sprout\/flour), a triple sound-chain lost in translation."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħabbila",
+      "rationale": "קמה literally 'standing grain-stalk', rendered with the grain-ear word to keep the agricultural image."
+    }
+  ],
+  "translation": "Għax ruwaħ jizra', u tromba ta' riħ jħasdu: ħabbila ma hemmx għalih; zergħa ma tagħmel dqiq; jekk forsi tagħmel, barranin jiblagħuha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/5-8.1792615465822.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "jizra'"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "u tromba ta' riħ"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "jħasdu"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ħabbila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemmx"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "zergħa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "dqiq"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "jekk forsi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "barranin"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "jiblagħuha"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:25.823541944Z",
+  "model": "glm-5.3"
+}

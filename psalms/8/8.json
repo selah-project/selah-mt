@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħrief",
+      "rationale": "צנה (tzon) hija kelma kollettiva għall-merħla żgħira — ħrief u mogħoż flimkien"
+    },
+    {
+      "kind": "substitution",
+      "subject": "baqar",
+      "rationale": "אלפים letteralment 'alufim' — tmijal mroġġla, mill-għerq ta' jelq"
+    }
+  ],
+  "translation": "Ħrief u baqar, ilkoll, u anki l-bhejjem tas-sieraħ,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "23f9b59cf0eb736633de6ad1bfaad931282b90671c9399ec4a0cdc3d19e3d689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/8-8.1792623719098.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ħrief"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "u baqar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ilkoll"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u anki"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "l-bhejjem"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tas-sieraħ"
+    }
+  ],
+  "timestamp": "2026-10-21T23:01:59.099037402Z",
+  "model": "glm-5.3"
+}

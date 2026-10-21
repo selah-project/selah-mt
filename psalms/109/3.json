@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סבבוני",
+      "rationale": "the verb 'surround' echoes itself sonically; encirclement by words mirrors the battle verb that follows"
+    }
+  ],
+  "translation": "U b'kliem ta' għedewwa dawruni madwar, u ġġielduni bla ħtieġa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/1-4.1792617919731.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "b'kliem"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ta' għedewwa"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dawruni madwar"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "u ġġielduni"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bla ħtieġa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:19.732595034Z",
+  "model": "glm-5.3"
+}

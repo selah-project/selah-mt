@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "lill-iżgħar tiegħu",
+      "rationale": "לנערו jista' jkun 'il-qaddej żagħżugħ tiegħu' jew 'lill-iżgħar tiegħu'; l-ewwel qari jiffoka fuż-żgħażagħ."
+    },
+    {
+      "kind": "you",
+      "subject": "Boaz lill-iżgħar tiegħu",
+      "rationale": "Mistoqsija diretta mill-ħakem tal-ħasad."
+    }
+  ],
+  "translation": "U Boaz qal lill-iżgħar tiegħu, lil dak mit-tellieb fuq il-ħsad: Ta' min hija din il-mara żagħżugħa?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5eb591d7658729eed0e777274056bd6a9136806cd54dcf38ee422c23b5b7707b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ruth\/2\/5-8.1792620056764.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "lill-iżgħar tiegħu"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "mit-tellieb"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "il-ħasad"
+    },
+    {
+      "surface": "למי",
+      "gloss": "Ta' min"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "il-mara żagħżugħa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dini"
+    }
+  ],
+  "timestamp": "2026-10-21T22:00:56.765038051Z",
+  "model": "glm-5.3"
+}

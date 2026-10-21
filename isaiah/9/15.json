@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מאשרי",
+      "rationale": "għerq אשר hawn biss bil-Partiċipja Piel — 'dawk li jbierku\/jgħidu imbierek' kontra l-qari 'dawk li jmexxu' (KJV, JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבלעים",
+      "rationale": "Pual milli jidher 'miblugħa' (KJV 'destroyed', YLT 'consumed') — l-istess għerq bħal 'jaħarbu b'ħalqhom miftuħ' ta' 9:11"
+    }
+  ],
+  "translation": "U dawk li jbierku lil dan il-poplu qegħdin jitilfu t-triq, u dawk li jitmexxew minnhom jiġu miblugħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/9\/13-16.1792611051619.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "U kienu"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "dawk li jbierku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "qegħdin jitilfu t-triq"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "u dawk li jitmexxew minnhom"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "jiġu miblugħa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:30:51.620821448Z",
+  "model": "glm-5.3"
+}

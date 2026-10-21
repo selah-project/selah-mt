@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "il-verbu 'jafdaw'",
+      "rationale": "l-Ebrajk m'għandux verbu — 'dawk bil-karrijiet' hemmeż biss; il-verżjoniet jqiegħdu 'jafdaw' li ma hemmx"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ele... ve'ele... va'anachnu",
+      "rationale": "l-istorbju ta' dawn\/dawk\/imma aħna — kontrast ta' tliet daqqiet, ritt antik"
+    }
+  ],
+  "translation": "Dawk bil-karrijiet, u dawk biż-żwiemel; imma aħna fl-isem ta' Jaħwe, l-Elohim tagħna, niftakru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/20\/5-8.1792616780142.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawk"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "bil-karrijiet"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "u dawk"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "biż-żwiemel"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "imma aħna"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "fl-isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "l-Elohim tagħna"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "niftakru"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:20.143324712Z",
+  "model": "glm-5.3"
+}

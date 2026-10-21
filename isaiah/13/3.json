@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "litteralment 'imni tiegħi' (nciċċ ta' ghadab), mogħti bħala ghadab"
+    },
+    {
+      "kind": "crux",
+      "subject": "למקדשי",
+      "rationale": "'mqaddsa tiegħi' — min huma? truppi Medjani kontra t-tempju; spiss maħsub bħala suldati mħatra"
+    }
+  ],
+  "translation": "Jien amart lil mqaddsa tiegħi, sejjaħt ukoll lill-ġellieda tiegħi għall-ghadab tiegħi, dawk li jifirħu bil-kburija tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "809548fa91c162458d83e0632e992dba136850f1d5a33e96bb4e313bd59cdc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/13\/1-4.1792611168721.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "amart"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "lill-mqaddsa tiegħi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sejjaħt"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "lill-ġellieda tiegħi"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "għall-ghadab tiegħi"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "dawk li jifirħu"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "bil-kburija tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:32:48.722550907Z",
+  "model": "glm-5.3"
+}

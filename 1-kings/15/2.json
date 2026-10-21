@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "Il-Lhudi ma għandux kopula fil- frażi 'l-isem ta' ommu Maaka'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Tliet snin",
+      "rationale": "Tul tar-rejnat ta' Avijam."
+    }
+  ],
+  "translation": "Tliet snin ħakem f'Jeruxalajim, u l-isem ta' ommu ⟨kien⟩ Maaka, bint Avixalom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/1-4.1792609752741.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Tliet"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ħakem"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u l-isem"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ta' ommu"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avixalom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:09:12.742278484Z",
+  "model": "glm-5.3"
+}

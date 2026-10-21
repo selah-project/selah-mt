@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רעה רוח",
+      "rationale": "'jirgħa fuq ir-ruwaħ' — idjoma: jipprova jaqgħu fuq xi ħaġa vojta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדים",
+      "rationale": "il-lvant ukoll 'quddiem' — ir-riħ tal-lvant jġib nixfa, qerda; imtela ma' Mitsrajim u Ashur, il-potenzi ta' dak in-naħa."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "'jaqtgħu patt' — il-Lhudi jqiegħed lil litteralment: il-patt jinqata' billi jgħaddu bejn il- biċċiet."
+    }
+  ],
+  "translation": "Efraim jirgħa ⟨fuq⟩ ir-ruwaħ u jippersegwi r-riħ tal-lvant; il-ġurnata kollhu jżid gideb u ħsara; u patt ma' Ashur jaqtgħu, u żejt lejn Mitsrajim jiġi mwassal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/12\/1-4.1792615563560.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jirgħa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "u jippersegwi"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "riħ tal-lvant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gideb"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "u ħsara"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "jżid"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "u patt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "jaqtgħu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "u żejt"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "lejn Mitsrajim"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jiġi mwassal"
+    }
+  ],
+  "timestamp": "2026-10-21T20:46:03.560771298Z",
+  "model": "glm-5.3"
+}

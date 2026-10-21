@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nafsi",
+      "rationale": "נפש is throat\/breath\/life-force, not 'soul' in the Greek sense"
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Hebrew nominal clause lacks copula; Maltese requires 'huwa'"
+    }
+  ],
+  "translation": "\"Jaħwe huwa sebaħ tiegħi\", qalet in-nafsi tiegħi, għalhekk nistenna lilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/3\/21-24.1792620135147.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "sebaħ tiegħi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "qalet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nafsi tiegħi"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "nistenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:15.148249791Z",
+  "model": "glm-5.3"
+}

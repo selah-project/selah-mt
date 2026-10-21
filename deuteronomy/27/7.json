@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "xelamim",
+      "rationale": "שְׁלָמִים mhux 'offruti ta' paċi' biss: offrundi ta' shalom, sliem\/ħila sħiħa — il-kelma Lhudija miżmuma."
+    },
+    {
+      "kind": "elision",
+      "subject": "quddiem",
+      "rationale": "לִפְנֵי letteralment 'il-wiċċ ta'' — idjom Ebrajk għal 'fil-preżenza ta''."
+    }
+  ],
+  "translation": "U toqtol xelamim, u tiekol hemm, u tifraħ quddiem Jaħwe, l-Elohim tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a726ccf7e5c1c3038c01f39bb36aeb21a5be93f8eec6609eb2c047837b2946d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/27\/5-8.1792605957666.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "u toqtol"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "xelamim"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "u tiekol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "u tifraħ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-Elohim tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:05:57.667564699Z",
+  "model": "glm-5.3"
+}

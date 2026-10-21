@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-verb kopulattiv Malti miżjud għax l-Ebrajk għandu biss הוא (huwa) bla verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is-sandliet",
+      "rationale": "נעלים: literalment 'ilsien ta' sandlu', jiġifieri sandlu; il-Malti jżomm 'sandliet'"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "Jaħwe jkellem lil Moxe direttament, b'imperattiv"
+    }
+  ],
+  "translation": "U qal: Tqarribx hawn; ħoll is-sandliet tiegħek minn fuq riġlejk, għax il-post li int tqiegħed fuqu art qaddisa ⟨hu⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "12eb4d220d88825ec44d1648ef2d789940bdc971d62ccc8c4be888690469b1bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/5-8.1792599221951.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tqarribx"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "tqarribx"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "של",
+      "gloss": "ħoll"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "is-sandliet tiegħek"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "riġlejk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "il-post"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "tqiegħed"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "art"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:41.951713079Z",
+  "model": "glm-5.3"
+}

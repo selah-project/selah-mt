@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויענה",
+      "rationale": "'ħakimha' għal ענה — litteralment 'fizzelha\/deprimita', l-istess għerq ta' 'imnieħer'; tradizzjonijiet jqisu 'iġġiegħilha'."
+    },
+    {
+      "kind": "elision",
+      "subject": "וישכב",
+      "rationale": "'raqad magħha' — Lhudu juża verbu banali għal att vjolent; il-ftuħ fin-narrazzjoni huwa apposta."
+    }
+  ],
+  "translation": "U ma riedx jisma' leħinha; imma kien agħlaq minnha, u ħakimha, u raqad ⟨את⟩ magħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/13\/13-16.1792608808058.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "U ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "riedx"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "jisemgħu"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "leħinha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "imma kien agħlaq minnha"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "minnha"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "u ħakimha"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "u raqad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "magħha (hi)"
+    }
+  ],
+  "timestamp": "2026-10-21T18:53:28.059693758Z",
+  "model": "glm-5.3"
+}

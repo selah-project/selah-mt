@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefex",
+      "rationale": "נפש hija ħaġa li tieħu n-nifs, ħajja-saħħa u s-sħana — mhux rwieħ fil-mod Plaċoniku; 'nefex' żżomm il-ħoss u s-sens ta' appraisal\/ħuġġieġa"
+    },
+    {
+      "kind": "crux",
+      "subject": "tqasser",
+      "rationale": "תחסר: 'tqasser' (tonqos) kontra qari bħal 'qatt ma tissodisfaw' (lil Wycliff, 'unable to be filled') — it-Talmut ta' kelma waħda għal żaqq tan-nies ħżiena"
+    }
+  ],
+  "translation": "Il-ġust jiekol sażżieda ta' nefexu, imma ż-żaqq tal-ħżar tqasser.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/25-25.1792618564648.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Il-ġust"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sażżieda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ta' nefexu"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "imma ż-żaqq"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tal-ħżar"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "tqasser"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:04.649208765Z",
+  "model": "glm-5.3"
+}

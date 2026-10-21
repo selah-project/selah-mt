@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kbir",
+      "rationale": "הראש: 'ir-ras' fil-litterali — ras il-familja, mhux 'l-ikbar wieħed' biss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għadd",
+      "rationale": "לפקדה: 'viżita' jew 'inpjezzjar' fil-litterali — tgħadd ta' nies għal xogħol"
+    },
+    {
+      "kind": "addition",
+      "subject": "għalhekk",
+      "rationale": "Konjunkzjoni loġika miżjuda għall-Malti; il-Lhudi għandu biss ו"
+    },
+    {
+      "kind": "measurement",
+      "subject": "għadd wieħed",
+      "rationale": "Tgħodd għal skopijiet ta' xogħol fit-tempju"
+    }
+  ],
+  "translation": "U Jaħat kien ⟨il-kbir⟩ u Żiza t-tieni. U Jeux u Berija ma żveġġux ħafna ulied; għalhekk saru ⟨waħda⟩ bħala familja ta' missier, bi għadd wieħed.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1e8b196fa18b2ed4798f30f3504a36d1878fcab9233c0755b6c787333dab0d01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/23\/9-12.1792622036219.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jaħat"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "il-kbir"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "u Żiza"
+    },
+    {
+      "surface": "השני",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "U Jeux"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "u Berija"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "żveġġux ħafna"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "għalhekk saru"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "familja"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ta' missier"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "bi għadd"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wieħed"
+    }
+  ],
+  "timestamp": "2026-10-21T22:33:56.220343613Z",
+  "model": "glm-5.3"
+}

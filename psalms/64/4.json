@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרכו",
+      "rationale": "דרך fuq vleġġa: tir-raxt u tillifta (kif tmexxi l-qaws bit-trak ta' riġlek) — 'ħejjew' inaqqas il-pittura"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שננו\/חצם",
+      "rationale": "il-parallel triq: ilsien xemmun bħal xabla — vleġġa mqiegħda — kelma morra; il-vleġġa HIJA l-kelma, u dan ma jinstiex jimmarka aktar milli hemm"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר מר",
+      "rationale": "'kelma morra' (KJV, JPS sa 'kelma msiemma') — il-vleġġa hija l-kelma nnifisha, appożizzjoni mhux paragun"
+    }
+  ],
+  "translation": "Li xxewwew bħal xabla lsienhom, ħejjew il-vleġġa tagħhom — kelma morra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/64\/1-4.1792617325712.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Li"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "xxewwew"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "bħal xabla"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lsienhom"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ħejjew"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "il-vleġġa tagħhom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "מר",
+      "gloss": "morra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:25.713136574Z",
+  "model": "glm-5.3"
+}

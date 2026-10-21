@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "xamir",
+      "rationale": "שמיר: 'siment\/ħaġar ieħor ieħor iebes' vs 'xewk' — ħaġar li jaqta', għalhekk 'xamir' skont il-ħoss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "unċin",
+      "rationale": "צפרן litteralment 'difer' (unċin tal-bniedem) — il-ponta tal-pinna"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jehuda",
+      "rationale": "l-ilsien jaqbad 'tagħkom' — passiġġ b'reference mill-bogħod lis-semmiegħa"
+    }
+  ],
+  "translation": "Id-dnub ta' Jehuda miktub b'pinna ta' ħadid, b'unċin ta' xamir, imnaqqxa fuq il-lawża ta' qlubhom, u fuq il-qrun tal-artal tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/17\/1-4.1792612866638.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "id-dnub"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "miktub"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "b'pinna"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ta' ħadid"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "b'unċin"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ta' xamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "imnaqqxa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "il-lawża"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ta' qlubhom"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "u fuq il-qrun"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "tal-artal tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:01:06.639204396Z",
+  "model": "glm-5.3"
+}

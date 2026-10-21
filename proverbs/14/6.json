@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "faċli",
+      "rationale": "נקל b'mod literali 'iftir' — il-ħikma tqil għall-mżewweq u ħafifa għall-fehim; 'faċli' jifqa' l-idea ta' piż."
+    }
+  ],
+  "translation": "Jfittex il-mżewweq ħikma u m'hniex; u l-għarfien għall-fehim ⟨hu⟩ faċli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/5-8.1792618584010.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "jfittex"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "il-mżewweq"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ħikma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hniex"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "u l-għarfien"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "għall-fehim"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "faċli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:24.011457886Z",
+  "model": "glm-5.3"
+}

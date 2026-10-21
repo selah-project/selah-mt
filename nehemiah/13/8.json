@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וירע לי",
+      "rationale": "litteralment 'u kien ħażin għalija'; rendut b'idjoma Malti 'ħadetni ħażin'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלי בית טוביה",
+      "rationale": "KJV jaqra 'l-ħwejjeġ ta' Tobija' bħala oġġetti tad-dar; 'l-irħam tad-dar' għandu l-istess sens"
+    }
+  ],
+  "translation": "u ħadetni ħażin ħafna, u xejjirt ⟨את⟩ kollha l-ħwejjeġ tad-dar ta' Tobija 'l barra mis-sqija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "62c7f5a504490d6ac81889f31a6ffbbcb2ee900581933618a65148de1011b029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/13\/5-8.1792621630500.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "u ħadetni ħażin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "u xejjirt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kollha l-ħwejjeġ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "l-ħwejjeġ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ta' Tobija"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "'l barra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "is-sqija"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:10.502217954Z",
+  "model": "glm-5.3"
+}

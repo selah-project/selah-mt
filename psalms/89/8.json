@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jiġi⟩",
+      "rationale": "Il-Lhudi m'għandux verbu kopula; il-Malti jeħtieġh"
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד (sod)",
+      "rationale": "Is-sod — il-kunsill maħbuż, il-ġemgħa intimi ta' wħud"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבה",
+      "rationale": "Sempliment 'kbir' jew jaqra 'Rabba' bħala isem (ras il-kunsill)"
+    }
+  ],
+  "translation": "El lin-biċċa l-kbar ⟨jiġi⟩ mibżugħ fis-sod tal-qaddisin, u ta' biża' fuq kollha minn-dawk li-madwaru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "35795da62ff0c5f8fa39c8c7c699137bd8e52afa9586ee65fcc523056486f749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/8-8.1792623791432.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "lin-biċċa l-kbar mibżugħ"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "fis-sod"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tal-qaddisin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lin-biċċa l-kbar"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "u ta' biża'"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kol\/li dawk kollha"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "li-madwaru"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:11.433303192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 7:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Courtyard construction specified as three courses of stone plus one of cedar beams."
+    },
+    {
+      "kind": "substitution",
+      "subject": "portiku",
+      "rationale": "אולם is the vestibule\/porch bound to the building; 'portiku' is the nearest Maltese architectural term."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולחצר בית יהוה",
+      "rationale": "'For\/like the inner court': KJV reads as applying to the courtyard, ASV\/JPS read 'like as' — comparison or continuation."
+    }
+  ],
+  "translation": "U l-bitħa l-kbira madwarha: tlett safi ta' ġebel imqatta' u saf ta' travi maqtugħin ta' ċedru; u għal bitħa ta' dar Jaħwe ta' ġewwa, u għall-portiku tad-dar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "07631bd005a7b79f0fc7eaecf4aaf6ca85f1be55d43977b2bcabadcab4aef31a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/7\/9-12.1792609435722.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "u l-bitħa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "l-kbira"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwarha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "safi"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ta' ġebel imqatta'"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "u saf"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "ta' travi maqtugħin"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ta' ċedru"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "u għal bitħa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ta' dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ta' ġewwa"
+    },
+    {
+      "surface": "ולאלם",
+      "gloss": "u għall-portiku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tad-dar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:03:55.723263929Z",
+  "model": "glm-5.3"
+}

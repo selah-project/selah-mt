@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ 'hemm' għal תהיה b'dan il-kuntest"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמה...זמה",
+      "rationale": "l-istess kelma tiffirma l-bidu u t-tmiem tal-vers — inclusju, miżmuma bir-ripetizzjoni 'żimma...żimma'"
+    }
+  ],
+  "translation": "U raġel li jieħu ⟨את⟩ lil mara u ⟨את⟩ lil ommha — żimma hi; fin-nar inħarqu ⟨את⟩ lilu u ⟨את⟩ lilhom, u ma jkunx hemm żimma fostkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/13-16.1792601132943.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "U raġel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ommha"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ommha"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "żimma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "fin-nar"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "inħarqu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lil raġel"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "u ⟨את⟩ lilhom",
+      "marks": "lil mara u lil ommha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jkunx hemm"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "żimma"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "fostkom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:45:32.944475056Z",
+  "model": "glm-5.3"
+}

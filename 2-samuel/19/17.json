@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 19:17",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raġel ta' Ġuda",
+      "rationale": "אישׁ יהודה litteralment 'raġel ta' Ġuda', kollettiv għall-irġiel ta' Ġuda"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ kopula f'אֲשֶׁר מִבַּחוּרִים, 'li kien minn Baħurim'"
+    }
+  ],
+  "translation": "U Ximi bin Gera l-Binjaminita, li kien minn Baħurim, ħaffef u niżel mar-raġel ta' Ġuda biex jiltaqa' mas-sultan David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "312fa536f2ed41b050ed27c41226ea915659f49899ddeb1f60d2a071ae0d8098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/19\/17-20.1792608995287.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ħaffef"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Ximi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "Gera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "il-Binjaminita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "מבחורים",
+      "gloss": "minn Baħurim"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "u niżel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ir-raġel"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Ġuda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "biex jiltaqa' ma'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:35.288445007Z",
+  "model": "glm-5.3"
+}

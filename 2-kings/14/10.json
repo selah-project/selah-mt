@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הכה הכית",
+      "rationale": "Infinitive absolute before the finite verb intensifies: 'you have smitten — smitten indeed'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הכבד",
+      "rationale": "Literally 'be heavy\/glorify yourself': 'glory in that' vs 'take credit'; some read as imperative, some as question (JPS)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Amacjahu",
+      "rationale": "Direct second-person warning delivered through the messengers to Amaziah."
+    }
+  ],
+  "translation": "Tassew tilqit ⟨את⟩ Edom, u qalbek tellgħetek; iftaħar f'dak u aqgħad f'darek; u għaliex trid tistimula fil-ħażen, biex taqa' int u Jehuda miegħek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/9-12.1792610481280.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "tassew"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tilqit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "u tellgħetek"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbek"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "iftaħar"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "u aqgħad"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "f'darek"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "u għaliex"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "trid tistimula"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "fil-ħażen"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "biex taqa'"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "u Jehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T19:21:21.281747006Z",
+  "model": "glm-5.3"
+}

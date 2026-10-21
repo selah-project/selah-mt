@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מישור",
+      "rationale": "literally 'livell\/ugwal', plains-levelness rendered 'bid-dritt' (b'ġustizzja)"
+    },
+    {
+      "kind": "addition",
+      "subject": "hom",
+      "rationale": "suffiss femminili Malti miżjud għal תנחם"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאמים\/עמים",
+      "rationale": "repetizzjoni ta' żewġ kliem għall-ġnus\/popli, parallaliżmu mibni fuq l-istess ħoss"
+    }
+  ],
+  "translation": "Joħorgu ferħanin u jgħajtu bil-ferħ, il-ġnus, għax inti tħallim il-popli bid-dritt, u l-ġnus fl-art inti tmexxihom. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/67\/5-8.1792617300458.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "joħorgu ferħanin"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "u jgħajtu bil-ferħ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "tħallim"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "il-popli"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "bid-dritt"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "u l-ġnus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "tmexxihom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:00.459191282Z",
+  "model": "glm-5.3"
+}

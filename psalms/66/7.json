@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "għal dejjem",
+      "rationale": "עולם jista' jkun ukoll 'mill-bidu ta'żmien' — 'għal dejjem' huwa l-qari l-iqsar"
+    },
+    {
+      "kind": "addition",
+      "subject": "għal fuq",
+      "rationale": "ירימו litteralment 'jitilgħu' — żdied 'għal fuq' biex jifhem ir-ribelljon"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "partiċella enfattika bla ekwivalenti Malti, ma tirrendrix"
+    }
+  ],
+  "translation": "Jħakem bil-ħila tiegħu għal dejjem; għajnejh jissorveljaw il-ġnus; ir-ribelli ma jitilgħux ⟨għal fuq⟩. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "114a2c02ea9055c230cd38e9399723ea0dde313fd176b7cc3965d6efaac313ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/66\/7-8.1792623812850.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "jħakem"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "bil-ħila tiegħu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "għajnejh"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fil-ġnus"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "jissorveljaw"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "ir-ribelli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma ... jix"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "jitilgħu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "lilhom infushom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:32.850801493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tagħlim",
+      "rationale": "מוֹסָר is chastisement\/discipline-instruction; rendered 'tagħlim' (instruction), losing the disciplinary edge."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אָשִׁית לִבִּי",
+      "rationale": "'I set my heart' — the sages' idiom for deliberate reflection."
+    }
+  ],
+  "translation": "Jiena rajt, u ħadtuh f'moħħi; stajt u ħadtit tagħlim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4baf22e5432b636a22c33e351a86a220fd2154ba986f6a9e65d01035f0fa773b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/24\/29-32.1792618892916.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "rajt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ħadtuh f'moħħi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "f'moħħi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "stajt"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ħadtit"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tagħlim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:32.917341297Z",
+  "model": "glm-5.3"
+}

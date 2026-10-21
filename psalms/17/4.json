@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "żammejt lili mill-mogħdijiet",
+      "rationale": "il-Lhudi jgħid 'ħarżejt il-mogħdijiet tal-vjolenti' — il-verbi jħarsu, il-prepożizzjoni 'minn' miżjeda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vjolenti",
+      "rationale": "פריץ — dak li jqassam, il-qawwi li jgerrex; l-istemma ta' paritz"
+    }
+  ],
+  "translation": "Għall-għemejjel tal-bniedem, bil-kelma ta' xufftejk jien żammejt lili ⟨mbogħod⟩ mill-mogħdijiet tal-vjolenti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/17\/1-4.1792616669738.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Għall-għemejjel"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tal-bniedem"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bil-kelma"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ta' xufftejk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "żammejt"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mill-mogħdijiet"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "tal-vjolenti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:29.739648223Z",
+  "model": "glm-5.3"
+}

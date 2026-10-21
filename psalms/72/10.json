@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישיבו",
+      "rationale": "'jagħtu lura \/ jirritornaw' minħa bħala tribut — YLT 'send back' vs KJV 'bring'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אשכר",
+      "rationale": "Kelma rari — rigal\/gratċita; deheret biss hawn u f'Isaija 45:14."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבא \/ סבא",
+      "rationale": "Żewġ ismijiet kważe identiċi (Sheba\/Seba) fl-istess vers — paralleliżmu fonetiku."
+    }
+  ],
+  "translation": "Slaten Tarxix u l-gżejjer jagħtu minħa, slaten Sewa u Sewa rigal jaqrbu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/9-12.1792617384440.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "slaten"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarxix"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "u l-gżejjer"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minħa"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "jagħtu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "slaten"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sewa"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "u Sewa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "rigal"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "jaqrbu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:24.441391157Z",
+  "model": "glm-5.3"
+}

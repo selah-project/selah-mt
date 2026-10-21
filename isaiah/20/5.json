@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-sebħ",
+      "rationale": "תפארת literally 'ornament, beauty', rendered 'glory'; 'sebħ' keeps the sense of splendour."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבטם",
+      "rationale": "מבט from בטח-expectation: 'confidence\/expectation' vs 'object of gaze' from בטא; most read 'hope placed in'."
+    }
+  ],
+  "translation": "U ċedew u jistħew minn Kux, il-mistenni tagħhom, u minn Mitsrajim, is-sebħ tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/20\/5-6.1792611229437.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "u ċedew"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "u jistħew"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "minn Kux"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "il-mistenni tagħhom"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "u minn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "is-sebħ tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:33:49.438312767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "'qadim\/antik' — 'li jdum' (KJV\/ASV), 'prezzjuż' (Rashi: ġid magħżul), 'kbir\/ġdivi' (LXX 'eisin dikaia)'"
+    },
+    {
+      "kind": "addition",
+      "subject": "prezzjuż u li jdum",
+      "rationale": "kelma waħda Għarbija rridet żewġ kelmiet bil-Malti"
+    }
+  ],
+  "translation": "Ġid u unur hemm miegħi ⟨את⟩, ġid ⟨prezzjuż u li jdum⟩ u tsedeqa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/8\/17-20.1792618520730.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Ġid"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "u unur"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ miegħi",
+      "marks": "Ġid u unur"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ġid"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "prezzjuż u li jdum"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "u tsedeqa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:20.730687242Z",
+  "model": "glm-5.3"
+}

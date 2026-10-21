@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 16:13",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kliewi",
+      "rationale": "כליות literal 'kidneys', fit-tanakh sede tal-ħsejjes ta' ġewwa, mhux biss organu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מררתי",
+      "rationale": "il-morr (gall) jieħu ħsejjes ma' מרר l-imrar ta' Ġob kollu"
+    }
+  ],
+  "translation": "L-arċieri tiegħu jduru madwari; jaqta' f'lenti ⟨את⟩ il-kliewi tiegħi u ma joħlomx; jixxerred fl-art il-morr tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8552818e8be4d4a25762ee92f9e05ae2d078abb39d5dd6cc265d2059fc2b2a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/16\/13-16.1792619400083.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסבו",
+      "gloss": "jduru madwari"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontri"
+    },
+    {
+      "surface": "רביו",
+      "gloss": "l-arċieri tiegħu"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "jaqta' f'lenti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kliewi tiegħi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "il-kliewi tiegħi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "joħlomx"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "jixxerred"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "מררתי",
+      "gloss": "il-morr tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:50:00.084321544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנפלים … נפלו",
+      "rationale": "Root נפל repeated: 'the fallen-ones who fell to the king of Babylon', the paronomasia kept with 'il-ħarbin li waqgħu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ħarbin",
+      "rationale": "הנפלים is literally 'the fallers\/deserters'; rendered 'il-ħarbin' (the fugitives), a role gloss for the Hebrew's falling picture."
+    }
+  ],
+  "translation": "U ⟨את⟩ il-fdal tal-poplu li kien baqa' fil-belt, u ⟨את⟩ il-ħarbin li waqgħu ma' ir-re ta' Babilon, u ⟨את⟩ il-fdal tal-merħla, eżilja Nebuzaradan ir-rav tat-tabbaħin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/9-12.1792610726175.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "U ⟨את⟩",
+      "marks": "il-fdal tal-poplu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il-fdal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "li kien baqa'"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "fil-belt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ħarbin"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "il-ħarbin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "waqgħu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ta' Babilon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-fdal tal-merħla"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il-fdal"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "tal-merħla"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "eżilja"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ir-rav"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tat-tabbaħin"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:26.176807854Z",
+  "model": "glm-5.3"
+}

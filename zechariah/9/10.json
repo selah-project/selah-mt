@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 9:10",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "s-saltna tiegħu",
+      "rationale": "וּמָשְׁלוֹ huwa nom (imperju), mhux verbu; il-Malti jeħtieġ sostantiv b'suffiss"
+    },
+    {
+      "kind": "crux",
+      "subject": "mix-xmara",
+      "rationale": "הַנָּהָר bl-artiklu: speċifikament l-Ewfrat (KJV 'the River') jew xmara ġenerika"
+    },
+    {
+      "kind": "addition",
+      "subject": "tieghu",
+      "rationale": "suffiss possessiv tal-Malti miżjud biex is-saltna tkun ċara"
+    }
+  ],
+  "translation": "U naqta' l-karrettuni minn Efrajm u ż-żiemel minn Jeruxalajim, u tinqata' qaws il-ġlied; u jitkellem paċi lill-ġnus, u s-saltna tiegħu minn baħar sa baħar, u mix-xmara sa t-truf tal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/9\/9-12.1792616293602.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "u naqta'"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "l-karrettuni"
+    },
+    {
+      "surface": "מאפרים",
+      "gloss": "minn Efrajm"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "u ż-żiemel"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "minn Jeruxalajim"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "u tinqata'"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qaws"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "il-ġlied"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "u jitkellem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paċi"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "lill-ġnus"
+    },
+    {
+      "surface": "ומשלו",
+      "gloss": "u s-saltna tiegħu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "minn baħar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baħar"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "u mix-xmara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "it-truf"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:58:13.603272354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 44:13",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kull wieħed",
+      "rationale": "איש singular distributiv, 'kull wieħed' bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħwejjeġ",
+      "rationale": "שִׂמְלָה hija l-ħwejjeġ tas-soltu, mhux sempliċement 'lbies'"
+    }
+  ],
+  "translation": "U qatgħu lil ħwejjeġhom, u kull wieħed tella' fuq ħmaru, u tirbu lura lejn il-belt.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "96d12357e9f5a5c52718cf45f1d6e959d15cf689fe1fcafc1f6c07fd3da47bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/44\/13-16.1792598968887.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרעו",
+      "gloss": "u qatgħu"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ħwejjeġhom"
+    },
+    {
+      "surface": "ויעמס",
+      "gloss": "u tella'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ħmaru"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u tirbu"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "lura lejn il-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:28.888599956Z",
+  "model": "glm-5.3"
+}

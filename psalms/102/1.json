@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שיחו",
+      "rationale": "שיח hu kontemplazzjoni jew lamentu; 'complaint' (KJV\/JPS) kontra 'meditation' (Geneva); għażilt 'lamentu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jgħattif",
+      "rationale": "עטף litteralment 'jilbsu bi ħbit' — jgħattif ŻŻMOM il-ħolqien, mhux biss 'idgħjif'."
+    }
+  ],
+  "translation": "Talb ta' l-imċaħħaħ, meta jgħattif, u quddiem Jaħwe jixerred il-lamentu tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/1-4.1792617771730.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Talb"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ta' l-imċaħħaħ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "jgħattif"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "u quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "jixerred"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "il-lamentu tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:51.730622155Z",
+  "model": "glm-5.3"
+}

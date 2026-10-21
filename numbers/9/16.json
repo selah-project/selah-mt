@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kien",
+      "rationale": "יִהְיֶה huwa imperfett — 'kien dejjem' jagħti s-sens ta' abitudni kontinwa ta' bil-lejl u binhar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכסנו",
+      "rationale": "l-istess għerq כסה tal-vers 15; il-verb issa bidel għal suffiss –ennu, jaħtih."
+    }
+  ],
+  "translation": "Hekk kien dejjem: is-sħab jaħtih, u dehra ta' nar bil-lejl.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "107642ca5dee90ccb1b9725a0fa3826d2c7ad0883183103c79151034008da2c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/9\/13-16.1792602609532.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "is-sħab"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "jaħtih"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "u dehra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ta' nar"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bil-lejl"
+    }
+  ],
+  "timestamp": "2026-10-21T17:10:09.538756100Z",
+  "model": "glm-5.3"
+}

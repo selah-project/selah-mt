@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien hemm",
+      "rationale": "il-Lhudi m'għandux copula; miżjuda għall-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "il-ġobon",
+      "rationale": "הרהטים: troughs (broddiet) vs trazzi tal-ilma; 'ġobon' meħud bħala sens ta' amment\/trawwa żgħira"
+    }
+  ],
+  "translation": "U lill-qassis ta' Midjan kien hemm seba' bniet, u ġejjin, u ttellu l-ilma, u mlajn ⟨את⟩ il-ġobon biex jixorbu n-nagħaġ ta' missierhom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/13-16.1792599167851.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "U lill-qassis"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ta' Midjan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba'"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bniet"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "u ġejjin"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "u ttellu l-ilma"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "u mlajn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġobon"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "il-ġobon"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "biex jixorbu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "in-nagħaġ"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ta' missierhom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:47.852895741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħhom",
+      "rationale": "נפש thohna għalja ruwaħ (nifs\/ħajja), mhux 'anima' fil-każ Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tgħatti",
+      "rationale": "תתעטף litteralment 'tgħatti ruħha b'ħwejjeġ' — titkaxkar\/mrdna"
+    }
+  ],
+  "translation": "Ix-xtal anke għat-taħt il-battar, ruwaħhom fi ħdanhom tgħatti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/5-8.1792617855428.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "ix-xtal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anke"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "għat-taħt il-battar"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ruwaħhom"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fi ħdanhom"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "tgħatti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:15.428776294Z",
+  "model": "glm-5.3"
+}

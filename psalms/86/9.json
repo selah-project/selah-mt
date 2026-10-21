@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Maltese needs a future particle where Hebrew uses the yiqtol alone"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "the relative rendered as the single Maltese particle 'li'"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonaj",
+      "rationale": "direct address to Adonaj within the psalmist's prayer"
+    }
+  ],
+  "translation": "Il-ġnus kollha li għamilt se jiġu u jinxteħtu quddiemek, Adonaj, u jikkonoraw ⟨את⟩ isemek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a8d55b0bff19daab32d0140ef27a4b8b5dcba43105abd7ab7cf05938910c57b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/86\/9-12.1792617590700.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "għamilt"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "se jiġu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "u jinxteħtu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "quddiemek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "u jikkonoraw"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "isemek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:50.700666475Z",
+  "model": "glm-5.3"
+}

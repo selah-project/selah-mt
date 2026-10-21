@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 24:5",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הם",
+      "rationale": "pronom emfatiku li ma jgħaddix b'mod naturali fil-Malti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "דברי הימים",
+      "rationale": "ktub il-kliem tal-ġranet — l-aċċessor tal-kronaki"
+    }
+  ],
+  "translation": "U l-bqija ta' kliem Jehojakim, u kull ma għamel, m'hux miktub fuq ktub il-kliem tal-ġranet għal sulkien ta' Jehuda?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/24\/5-8.1792610724179.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "U l-bqija"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ta' kliem"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "m'hux"
+    },
+    {
+      "surface": "הם",
+      "gloss": "(issagar)"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "miktub"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ktub"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "tal-ġranet"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "għal sulkien"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:24.180465594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תוללינו",
+      "rationale": "Setgħet tkun 'dawk li jerfgħuna għoli' (għerq תלל) jew 'xebbiena tagħna' — rajt l-ewwel sens ta' qerda u pressjoni."
+    },
+    {
+      "kind": "elision",
+      "subject": "biex jifrhuna",
+      "rationae": "שמחה sostantiv 'ferħ' immaniġġjat bħala talba; il-Malti jeħtieġ stil indirett."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Israel l-eżiljati (mill-ħatriet tagħhom)",
+      "rationale": "Kelma direktta tal-ħatriet: 'Għannulna'."
+    }
+  ],
+  "translation": "Għax hemm staqsuna dawk li ħaduna priġunieri kliem ta' għanja, u dawk li jgħagħluna biex jifrhuna: Għannulna waħda mill-għanjiet ta' Sijon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/137\/1-4.1792618197516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "staqsuna"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "dawk li ħaduna priġunieri"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kliem"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ta' għanja"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "u dawk li jgħagħluna biex jifrhuna"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "biex jifrhuna"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Għannulna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ulna"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "waħda mill-għanjiet"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ta' Sijon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:57.517229957Z",
+  "model": "glm-5.3"
+}

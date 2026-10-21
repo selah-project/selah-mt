@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebat ijiem",
+      "rationale": "Għadd ta' jiem ta' stennija skont il-moed maqtugħ minn Xemwel."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר שמואל",
+      "gloss": "Il-Lhudi jgħid biss 'il-moed li [ta] Xemwel'; il-verb 'ta' m'hemmx fit-test."
+    }
+  ],
+  "translation": "U stenna sebat ijiem skont il-ħin maqtugħ ma' Xemwel; iżda Xemwel ma ġie× f'Gilgal, u l-poplu nxtered minn fuqu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/13\/5-8.1792607882064.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "U stenna"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "skont il-ħin maqtugħ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Xemwel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Xemwel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "f'Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "u nxtered"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "minn fuqu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:38:02.066133543Z",
+  "model": "glm-5.3"
+}

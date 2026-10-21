@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-armata tagħhom",
+      "rationale": "צבאם 'il-ħost\/ġemgħa organizzata tagħhom', l-istess kelma ta' Tsebawot"
+    },
+    {
+      "kind": "addition",
+      "subject": "ġew",
+      "rationale": "il-Lhudi għandu verb wieħed ויכלו, il-Malti jeħtieġ l-għajnuna"
+    }
+  ],
+  "translation": "U ġew mlesta s-sema u l-art, u l-armata tagħhom kollha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/2\/1-4.1792597743133.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ġew mlesta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "u l-art"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "l-armata tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:03.134080646Z",
+  "model": "glm-5.3"
+}

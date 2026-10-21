@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ħadd",
+      "rationale": "Maltese negation needs 'ħadd' (no-one); Hebrew says only 'not found sword and spear in the hand of all the people'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nstriet",
+      "rationale": "Hebrew passive 'was found' rendered with the Maltese passive nstriet to keep the impersonal shape."
+    }
+  ],
+  "translation": "U ġra fil-jum tal-ġlied, li ma nstriet xifla u lanza f'idejn ħadd mill-poplu li kien ma' ⟨את⟩ Sawl u ⟨את⟩ Jonatan; iżda ma' Sawl u ma' Jonatan ibnu nstriet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "120d8c878cc517918208a6576b7c2857257af530c550366fea7ce813295c2815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/13\/21-23.1792607868944.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "U ġra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "tal-ġlied"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "li ma"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nstriet"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "xifla"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "u lanza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ħadd mill-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li kien"
+    },
+    {
+      "surface": "את",
+      "gloss": "ma' ⟨את⟩",
+      "marks": "Sawl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "iżda ... nstriet"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ma' Sawl"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "u ma' Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:37:48.945500757Z",
+  "model": "glm-5.3"
+}

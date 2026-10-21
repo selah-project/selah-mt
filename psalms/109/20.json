@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפש hija nifs\/ħajja, mhux 'ruħ' fil-ħsieb Grieg."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת = מן + את (prepożizzjoni), żżomm ⟨את⟩ bħala markatur."
+    }
+  ],
+  "translation": "Din tkun il-ħlas tal-akkużaturi tiegħi mingħand Jaħwe ⟨את⟩, u ta' dawk li jgħidu ħażin kontra nifsi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/17-20.1792617945007.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "il-ħlas"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "tal-akkużaturi tiegħi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mingħand ⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "u ta' dawk li jgħidu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nifsi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:45.008328740Z",
+  "model": "glm-5.3"
+}

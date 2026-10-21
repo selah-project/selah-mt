@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהיהם għall-allat tal-Filisttin, miktub b'ittra żgħira skond D1"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kranju",
+      "rationale": "גלגלתו tassew tfisser 'kranju', mhux sempliċement 'ras'"
+    }
+  ],
+  "translation": "U poġġew ⟨את⟩ l-armatura tiegħu fid-dar tal-allat tagħhom, u ⟨את⟩ il-kranju tiegħu ffirmaw fid-dar ta' Dagon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e78696b2de13590eccb5d60b5a5ffcbed96bc6aad63f1c2ab9f0ca4c13162c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/10\/10-11.1792623944489.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "u poġġew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-armatura tiegħu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "l-armatura tiegħu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tal-allat tagħhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-kranju tiegħu"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "il-kranju tiegħu"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ffirmaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ta' Dagon"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:44.490647962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ikun",
+      "rationale": "il-Lhudi m'għandux kopula; il-verb jidher biss fil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imniġġes",
+      "rationale": "יטמא tfisser 'jkun imniġġes b'ċerimonja', mhux sempliċement maħmuġ"
+    }
+  ],
+  "translation": "U kull oġġett tal-fuħħar li jaqa' minnhom ġo fih, kull dak li hemm ġo fih ikun imniġġes, u lilu taqsgħuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/33-36.1792600627593.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "U kull"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "oġġett"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tal-fuħħar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ġo"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull dak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ġo fih"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ikun imniġġes"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "taqsgħuh"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:07.593644912Z",
+  "model": "glm-5.3"
+}

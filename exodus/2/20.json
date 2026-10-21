@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss": "il-pronom suffiss f'קראן לו tibqa' għadha fil-verb 'Sejħulu'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "jiekol ħobż",
+      "rationale": "'iekol ħobż' = idjom Ebrajk għal jiekel ikel\/osta lit-trik, il-Malti iżomm il-forma litterali"
+    }
+  ],
+  "translation": "U qal lil bintu: U fejn hu? Għaliex dan ħallejtu lil ⟨את⟩ ir-raġel? Sejħulu u jiekol ħobż.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6ef902e650cfb46a2d455753ba0f3c24bf9d15fe29c3295b9fa869d5e91ba189",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/17-20.1792599155380.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "bintu"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "U fejn hu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ħallejtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ir-raġel"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ir-raġel"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Sejħulu"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "u jiekol"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:35.381944603Z",
+  "model": "glm-5.3"
+}

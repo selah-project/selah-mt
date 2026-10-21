@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ftakar",
+      "rationale": "imperattiv li jsejjaħ lis-smigħ — l-ewwel kelma tal-paragrafu"
+    },
+    {
+      "kind": "you",
+      "subject": "lominated",
+      "rationale": "addressed to Israel bil-plural (בצאתכם)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġara ma:",
+      "rationale": "עשה לך litteralment 'għamel lejk'; bil-Malti 'ġara ma: Amaleq'"
+    }
+  ],
+  "translation": " Ftakar ⟨את⟩ dak li ġara ma: Amaleq fit-triq, meta ħriġtu minn Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/25\/17-19.1792605929664.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li ġara ma: Amaleq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ġara ma:"
+    },
+    {
+      "surface": "לך",
+      "gloss": "int"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "meta ħriġtu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "minn Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T18:05:29.664599179Z",
+  "model": "glm-5.3"
+}

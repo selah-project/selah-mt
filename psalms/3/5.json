@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "sospensjoni mużikali, miżjuma bħala 'Selah' bl-istess ħoss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qdusitu",
+      "rationale": "קדשו huwa sostantiv 'qdusija' fit-tratt, mhux aġġettiv 'qaddisa'"
+    }
+  ],
+  "translation": "B'vuċi għal Jaħwe sejjaħ, u wieġebni mill-muntanja ta' qdusitu. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/3\/5-8.1792616564735.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "b'vuċi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sejjaħ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "u wieġebni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mill-muntanja"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ta' qdusitu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:44.736211725Z",
+  "model": "glm-5.3"
+}

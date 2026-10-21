@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרוע \/ קלוט",
+      "rationale": "'imtawwal jew imqassar' — membru żejjed jew nieqes (KJV 'superfluous or lacking'); l-ebda konsensus lessikal."
+    },
+    {
+      "kind": "addition",
+      "subject": "tista'",
+      "rationale": "Il-permissiv Malti miżjud għall-kostruzzjoni infinitiva absoluta żviluppata mit-tradizzjoni."
+    }
+  ],
+  "translation": "U barri jew ħaruf imtawwal jew imqassar — bħala offerta voluntarja tista' tagħmel ⟨את⟩ lilu, iżda għal neder ma jintiżilx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/21-24.1792601114624.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "U barri"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "jew ħaruf"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "imtawwal"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "jew imqassar"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "bħala offerta voluntarja"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tista' tagħmel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu — lill-barri jew lill-ħaruf"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "izda għal neder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "jintiżilx"
+    }
+  ],
+  "timestamp": "2026-10-21T16:45:14.625055675Z",
+  "model": "glm-5.3"
+}

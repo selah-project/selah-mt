@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 15:21",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ktub il-kliem ta' l-ġranet",
+      "rationale": "ספר דברי הימים — 'il-ktieb tal-kliem tal-ġranet', idjom għall-kronaki; il-forma litterali miżjuma."
+    },
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "rationale": "il-mibgħud retoriku 'mhux...?' jissorvendja n-negazzjoni semantika biex ifformula mistoqsija retorika."
+    }
+  ],
+  "translation": "U l-bqija ta' kliem Menachem, u kull ma għamel, mhux miktubin fuq ktub il-kliem ta' l-ġranet għas-slaten ta' Jisrael?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "74b205606fd25b1645b177ed4ffd7d06409f6cadca7dbf67b452fb7e3e935c08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/15\/21-24.1792610441041.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "u l-bqija"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ta' kliem"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "miktubin"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ktub"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "il-kliem ta'"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "l-ġranet"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "għas-slaten ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:41.042477337Z",
+  "model": "glm-5.3"
+}

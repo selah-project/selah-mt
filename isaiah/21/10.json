@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לכם",
+      "rationale": "Il-pronum ġie assorbut f'ħabbirtkom; ma jittraskurax iżda l-glossa tiegħu vojta għaliex il-Ħabbirtkom-i kompli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Meddusa",
+      "rationale": "מדשתי ”l-middusa tiegħi” — metafora: nies mgħaffġa bħall-qamħ fil-meddud; l-identità ta' min jitmaddad m'hijiex identifikata fit-test"
+    }
+  ],
+  "translation": "Meddusa tiegħi u wild ta' gorn tiegħi: dak li smajt minn ⟨את⟩ Jaħwe Tsebawot, Elohim ta' Jisrael, ħabbirtkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/21\/9-12.1792611239359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Meddusa tiegħi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "u wild ta'"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "gorn tiegħi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "smajt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn ⟨את⟩",
+      "marks": "Jaħwe Tsebawot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ħabbirtkom"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-21T19:33:59.360148064Z",
+  "model": "glm-5.3"
+}

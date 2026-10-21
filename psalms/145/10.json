@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jgħidulek ħajr",
+      "rationale": "jodħu hija biċċa waħda; il-Malti jħares lejn 'jgħid ħajr' milli 'jixħet' b'sens antik"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jodħu \/ jibbierku",
+      "rationale": "żewġ verbi paralleli ta' tifħir, l-istruttura tal-pożità tinżamm iżda l-gergor tal-għerq jaqa'"
+    }
+  ],
+  "translation": "Jgħidulek ħajr, Jaħwe, il-għemejjel tiegħek kollha, u l-ħasidim tiegħek jibbierkulek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/145\/9-12.1792618236112.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Jgħidulek ħajr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "il-għemejjel tiegħek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "u l-ħasidim tiegħek"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "jibbierkulek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:36.112740486Z",
+  "model": "glm-5.3"
+}

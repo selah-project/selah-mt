@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Il-Malti jeħtieġ lil quddiem l-oġġett diret tas-singular definitt; il-Lhudi juża את."
+    },
+    {
+      "kind": "crux",
+      "subject": "והבא אל הבית",
+      "rationale": "Min iddaħħal fid-dar' (passiv) kontra l-ordni 'min jidħol jiġi maqtul' — passiv impersonali Lhudi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħodor",
+      "rationale": "כלי tfisser sgrott\/arma\/apparat; 'ħodor' jaqbad l-għan hawn."
+    }
+  ],
+  "translation": "U l-Leviti jdawru lil-⟨את⟩ is-sultan minn kull naħa, kull raġel bil-ħodor tiegħu f'idu; u min iddaħħal fid-dar jinħatel; u ikunu ⟨את⟩ m'⟨את⟩ is-sultan meta jidħol u meta joħroġ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8f7d7655baeacddefe05aca29c2d1aea656b8be5652894a7ccccf09ca12fd9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/23\/5-8.1792622729979.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "u jdawru"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "il-Leviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-sultan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "minn kull naħa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull raġel"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "bil-ħodor tiegħu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idu"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "u min iddaħħal"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "jinħatel"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u ikunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ m'",
+      "marks": "is-sultan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "meta jidħol"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "u meta joħroġ"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:29.980897569Z",
+  "model": "glm-5.3"
+}

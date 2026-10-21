@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fit-tinda tiegħu",
+      "rationale": "באהלו — 'fit-tinda tiegħu' jew 'fit-tinda ta' Jaħwe' (xi qari antiki)? is-suffiss jgħid 'tiegħu', ta' David jew ta' Moses."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כליו",
+      "rationale": "Kelma li tfisser 'tagħmir' b'mod wiesa'; hawn l-armi tal-Plishti, mhux biss il-ħwejjeġ."
+    }
+  ],
+  "translation": "U David ħa ⟨את⟩ ras il-Plishti u ġibha Jeruxalajim, u ⟨את⟩ l-armi tiegħu poġġa fit-tinda tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/53-56.1792608044308.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ras il-Plishti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il-Plishti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ġibha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-armi tiegħu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "l-armi tiegħu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "fit-tinda tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:44.309318023Z",
+  "model": "glm-5.3"
+}

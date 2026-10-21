@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראשית\/אונים",
+      "rationale": "il-bikur bħala 'l-ewwel tal-qawwa' — formula tal-ferħ li tilħaq il-qofol tal-plaga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tindi ta' Ħam",
+      "rationale": "ħjien\/il-padrini ta' Kem, oħt Mitsrajim; 'tindi ta'' jżomm l-istampa tan-nomina"
+    }
+  ],
+  "translation": "U laqat kull bikur f'Mitsrajim, l-ewwel tar-ruħ ta' qawwithom fit-tindi ta' Ħam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/49-52.1792617456666.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "U laqat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bikur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ta' qawwithom"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "fit-tindi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ta' Ħam"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:36.667471876Z",
+  "model": "glm-5.3"
+}

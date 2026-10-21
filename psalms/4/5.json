@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגזו",
+      "rationale": "'Irreġġgħu\/erġgħu bil-biża'' kontra 'inktar' — LXX għandha 'inktar u tidnubbux' (Efes 4:26), il-MT jippermetti it-tnejn."
+    },
+    {
+      "kind": "addition",
+      "subject": "oqogħdu fis-skiet",
+      "gloss": "ודמו litteralment 'oqogħdu mormijiet'"
+    },
+    {
+      "kind": "you",
+      "subject": "lis-segwaċi ta' David",
+      "rationale": "Imperattivi fil-plural imqassra direttament lil dawk li jsemmu l-Ismijiet (v. 6)."
+    }
+  ],
+  "translation": "Irreġġgħu u tidnubbux; għidu f'qlubkom, fuq sododkom, u eskondew? le — u oqogħdu fis-skiet. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/4\/5-8.1792616540335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "irreġġgħu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u (mhux)"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "tidnubbux"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "għidu"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "f'qlubkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "sododkom"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "u oqogħdu fis-skiet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:20.335497122Z",
+  "model": "glm-5.3"
+}

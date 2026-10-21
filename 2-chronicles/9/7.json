@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kemm huma hieni",
+      "rationale": "אשרי hu plural ta' 'o the happiness' — interjezzjoni, mhux sentenza sħiħa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי...אשרי",
+      "rationale": "repetizzjoni parallila, iż-żewġ streaks mbierka"
+    }
+  ],
+  "translation": "Kemm huma hieni l-irġiel tiegħek, u kemm huma hieni dawk il-qaddejja tiegħek, li jkunu wieqfa quddiemek dejjem, u jisimgħu ⟨את⟩ ħikmetek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/9\/5-8.1792622421480.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kemm huma hieni"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "l-irġiel tiegħek"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "u kemm huma hieni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "il-qaddejja tiegħek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawk"
+    },
+    {
+      "surface": "העומדים",
+      "gloss": "li jkunu wieqfa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "quddiemek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "u jisimgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħikmetek"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ħikmetek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:40:21.481732942Z",
+  "model": "glm-5.3"
+}

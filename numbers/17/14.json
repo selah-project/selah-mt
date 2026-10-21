@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-veru 'to be' miżjud għax il-Malti jeħtieġu għal din il-kostruzzjoni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "erbatax-il elf u seba' mija",
+      "rationale": "għadd eżatt tal-mejtin, bil-Malti sħaħ bħall-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-każ",
+      "rationale": "דבר tfisser 'kelma\/ħaġa\/każ' — 'każ' jaqbez għal din is-sitwazzjoni"
+    }
+  ],
+  "translation": "U dawk li mietu bil-pesta kienu erbatax-il elf u seba' mija, barra minn dawk li mietu dwar il-każ ta' Korak.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8532717346571cd1685c516bb1c1b35099c01211a7d228dec66fa84fcae5f33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/17\/13-16.1792602972769.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dawk li mietu"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "bil-pesta"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "erba'"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "erbatax"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "u seba'"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "barra minn"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dawk li mietu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dwar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il-każ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korak"
+    }
+  ],
+  "timestamp": "2026-10-21T17:16:12.775284146Z",
+  "model": "glm-5.3"
+}

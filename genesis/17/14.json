@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefs",
+      "rationale": "נפש hi nifs\/ħajja, mhux 'ruħ' fl-isfera Griega; bil-Malti 'nefs' żżomm il-qraba Semitika."
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "הפר huwa perfett bla kopula; bil-Malti tkun meħtieġa 'huwa' qabel 'kiseru'."
+    }
+  ],
+  "translation": "U raġel mhux imnaqqas li ma jitnaqqasx ⟨את⟩ il-laħam tal-prepjuċju tiegħu, dik in-nefs tinqata' minn niesha; ⟨את⟩ il-patt tiegħi huwa kiseru.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/17\/13-16.1792598050524.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "mhux imnaqqes"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "jitnaqqasx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-laħam tal-prepjuċju"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "il-laħam"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "tal-prepjuċju tiegħu"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "u tinqata'"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "in-nefs"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dik"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "minn niesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-patt tiegħi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il-patt tiegħi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "kiseru"
+    }
+  ],
+  "timestamp": "2026-10-21T15:54:10.525551685Z",
+  "model": "glm-5.3"
+}

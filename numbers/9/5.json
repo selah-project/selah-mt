@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "xahar",
+      "rationale": "בראשון huwa aggettiv waħdu; il-Malti jrid isem (xahar l-ewwel)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nhar ta' erbatax-il jum tax-xahar",
+      "rationale": "data sħiħa tal-kalendarju: ix-xahar, il-jum, il-ħin (bejn l-għaxexijiet)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bejn l-għaxexijiet",
+      "rationale": "בין הערבים — litteralment 'bejn l-għasrin', jiġifieri bejn nofsinhar u dalq"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו ... עשו",
+      "rationale": "l-istess għerq 'għamlu' tennut fil-bidu u fit-tmiem, pożizzjoni kijastika ma' 'ġabar'"
+    }
+  ],
+  "translation": "U għamlu ⟨את⟩ il-Pesah f'xahar ⟨l-ewwel⟩, nhar ta' erbatax-il jum tax-xahar, bejn l-għaxexijiet, fid-deżert ta' Sina; skont kull ma ġabar Jaħwe ⟨את⟩ lil Moxe, hekk għamlu wlied Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec93a7a2e7524f06c6e56cbc30a2ddc503da22f4aedc18b2974187a86cf7d735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/9\/5-8.1792602610993.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "u għamlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "il-Pesah"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "f'xahar l-ewwel"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "erbatax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tax"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "tax-xahar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "l-għaxexijiet"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ta' Sina"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "skont kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ġabar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moxe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T17:10:10.994605845Z",
+  "model": "glm-5.3"
+}

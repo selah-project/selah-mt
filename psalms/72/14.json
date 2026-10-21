@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jifdi",
+      "rationale": "גאל — il-fidwa skont il-liġi tal-qraba (il-goel), mhux 'iftirar' ġenerali."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifsilhom",
+      "rationale": "נפש = nifs \/ ħajja, mhux 'ruħ'."
+    }
+  ],
+  "translation": "Mill-oppressjoni u mill-vjolenza jifdi n-nifsilhom, u jisir għali d-dmilhom f'għajnejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/13-16.1792617448246.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "mill-oppressjoni"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "u mill-vjolenza"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "jifdi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "n-nifsilhom"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "u jisir għali"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "d-dmilhom"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:28.246784777Z",
+  "model": "glm-5.3"
+}

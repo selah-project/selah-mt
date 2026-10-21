@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Maltese needs the pronoun 'huwa' to make clear that Mordecai, not Esther, refused the clothes; Hebrew has only קבל."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותתחלחל",
+      "rationale": "the Hebrew verb pictures writhing\/twisting in anguish; rendered 'tħawwad' (agitated), the bodily picture softened."
+    }
+  ],
+  "translation": "U n-nisa ta' Ester u l-ewnuki tagħha ġew u għarrfuhha, u r-reġina tħawwad ħafna, u bagħtet l-ilbies biex tilbes lil ⟨את⟩ Mordokaj u tneħħi s-saċċ minn fuqu, u huwa ma aċċettax.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/4\/1-4.1792620491375.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "U ... ġew"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "n-nisa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ta' Ester"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "u l-ewnuki tagħha"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "u għarrfu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lilha"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "u tħawwad"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ir-reġina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "u bagħtet"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "l-ilbies"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "biex tilbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokaj"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "lil Mordokaj"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "u tneħħi"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "is-saċċ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "minn fuqu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "aċċettax"
+    }
+  ],
+  "timestamp": "2026-10-21T22:08:11.377743599Z",
+  "model": "glm-5.3"
+}

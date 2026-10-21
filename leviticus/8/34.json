@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kopertura",
+      "rationale": "לכפר is literally 'to cover'; rendered 'kopertura' keeps the picture where 'maħfra\/atonement' would hide it."
+    }
+  ],
+  "translation": "Kif sar f'dan il-jum, hekk amar Jaħwe li jsir, biex jagħmel il-kopertura fuqkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a92882fcb901808f294fa10daee248357e112c10b2b9df5b4ac63afb3e44f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/33-36.1792600624065.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dan il-jum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "li jsir"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "biex jagħmel il-kopertura"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fuqkom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:04.066410327Z",
+  "model": "glm-5.3"
+}

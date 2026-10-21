@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרסה\/מפרסת\/שסע\/שסעת",
+      "rationale": "Għerq פרס jirrepeti għal qrib ma' שסע — il-ġemi ta' qsim tal-parsa, li jitil fil-Malti biss parzjalment (farres\/qaqsam)."
+    }
+  ],
+  "translation": "Kull min jfarres parsa u jaqsam il-parsa f'żewġ naħat, u jerħin il-ġieri — mill-bhejjem, lilu tistgħu tieklu ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/1-4.1792600667537.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kull"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "jfarres"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parsa"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "u jaqsam"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "f'żewġ naħat"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "il-parsa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "jerħin"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "il-ġieri"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mill-bhejjem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tistgħu tieklu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:47.538535521Z",
+  "model": "glm-5.3"
+}

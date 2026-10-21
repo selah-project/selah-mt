@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדי\/שדים",
+      "rationale": "Xaddaj u sidrijha jieħdu l-istess għerq fil-Lhudi — il-ġuf ta' Xaddaj jerġa' jidher fil-barkiet tas-sidrijha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidrijha",
+      "rationale": "שדים tfisser litteralment is-sidir (il-ġewwieni li jitberek), mhux metafora ġenerali"
+    }
+  ],
+  "translation": "Minn El missierek, li jgħinek, u ⟨את⟩ Xaddaj, li jbierkek, bi barkiet is-sema minn fuq, barkiet it-teħom mistrieħa taħt, barkiet is-sidrijha u r-raħem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "45a2df613e7481f28f920b62cfce61ee1061ef1e8ef0b85d8f57dea01516d529",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/49\/25-28.1792599160612.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Minn El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "missierek"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "li jgħinek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Xaddaj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Xaddaj"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "li jbierkek"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bi barkiet"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barkiet"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "it-teħom"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "mistrieħa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barkiet"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "is-sidrijha"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "u r-raħem"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:40.612716926Z",
+  "model": "glm-5.3"
+}

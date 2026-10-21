@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wċieħnek",
+      "rationale": "אפך litteralment 'mneħirk\/nożejk' — l-għadab fil-Bibbja jaħraq minn imneħir il-wiċċ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "reġġgħajt lura",
+      "rationale": "השיבות mingħajr oġġett speċifikat — 'durit lura' mill-ħruq ta' wċieħnek"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Ġbiert",
+      "rationale": "אספת jista' jkun ukoll 'tlefst' il-għadab bħal ma jitlef xi ħaġa mkobra — il-ġbir tal-ħruxija mneħħija"
+    }
+  ],
+  "translation": "Ġbiert ⟨את⟩ il-għadab kollu tiegħek, reġġgħajt lura mill-ħruq ta' wċieħnek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/85\/1-4.1792617578344.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Ġbiert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-għadab kollu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "tiegħek"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "reġġgħajt lura"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "mill-ħruq"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ta' wċieħnek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:38.345339186Z",
+  "model": "glm-5.3"
+}

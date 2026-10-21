@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "hawn אתה mhux il-markatur את iżda l-pronum 'ilha' mal-verb נתן; ma jinkitibx ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "li",
+      "rationale": "konġunzjoni meħtieġa għall-kostruzzjoni komparattiva 'Tajjeb li... milli...'"
+    },
+    {
+      "kind": "you",
+      "subject": "Laban",
+      "rationale": "indirizz dirett lil Jagħaqov bl-imperattiv 'oqgħod'"
+    }
+  ],
+  "translation": "U Laban qal: Tajjeb li nagħtiha lilek milli nagħtiha lil raġel ieħor; oqgħod għandi.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/29\/17-20.1792598442080.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tajjeb"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "li nagħtiha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ilha",
+      "marks": "lilek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "milli nagħtiha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ilha",
+      "marks": "lil raġel ieħor"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "lil raġel"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ieħor"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "oqgħod"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "għandi"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:42.080947964Z",
+  "model": "glm-5.3"
+}

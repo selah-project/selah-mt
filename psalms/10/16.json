@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Malti jrid kopula; il-Lhudi għandu biss 'Jaħwe sultan'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "żewġ kliem għal dejjem, parallel — il-Malti jirrepeti 'għal dejjem u għal dejjem' biex iżomm il-paralleliżmu"
+    }
+  ],
+  "translation": "Jaħwe ⟨hu⟩ sultan għal dejjem u għal dejjem; in-nazzjonijiet ṗerdu minn artu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/13-16.1792616516127.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u għal dejjem"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ṗerdu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "in-nazzjonijiet"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "minn artu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:56.128138827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Netinim",
+      "rationale": "Isem proprju mibqux maħdum — is-servi mogħtija għas-servizz tat-Tempju."
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Il-Lhudi ma għandux 'kienu' — miżjuda bil-Malti."
+    }
+  ],
+  "translation": "U dawk li kienu jgħixu l-ewwel fil-possedimenti tagħhom, fil-ibliet tagħhom, kienu Jisrael, il-qassisin, il-Lewiti u n-Netinim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/9\/1-4.1792621833283.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "U dawk li kienu jgħixu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "fil-possedimenti tagħhom"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "fil-ibliet tagħhom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "il-qassisin"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "il-Lewiti"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "u n-Netinim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:30:33.284149440Z",
+  "model": "glm-5.3"
+}

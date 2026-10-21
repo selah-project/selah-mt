@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kennit",
+      "rationale": "חסיתי tfisser 'iltqa' għall-kenn' — il-ġibda ta' dak li jirrifjuta; 'fdata' tkun baxx wisq."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Talba diretta lil Jaħwe bil-quietus 'ħarbisni'."
+    }
+  ],
+  "translation": "Fik, Jaħwe, jien kennit; ħallini ma nistħix għal dejjem; fit-tsedeq tiegħek ħarbisni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/31\/1-4.1792616846704.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Fik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jien kennit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ħallini ma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nistħix"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "fit-tsedeq tiegħek"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ħarbisni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:26.704677674Z",
+  "model": "glm-5.3"
+}

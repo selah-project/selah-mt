@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלח",
+      "rationale": "L-infinitiv absolut bil-verb fil-futur — 'tibgħat żgur tibgħat' — intensifikazzjoni li bil-Malti tharbt biss bir-repetizzjoni Ibgħat tibgħat."
+    },
+    {
+      "kind": "addition",
+      "subject": "ikun",
+      "rationale": "Il-Malti jeħtieġ il-kopula għal jitav laka; l-Lhudi għandu biss il-verb."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "Imperattiv dirett: ibgħat... tieħu għalik — il-merkant għandu jibgħat il-omm ħajja."
+    }
+  ],
+  "translation": "Ibgħat tibgħat lil ⟨את⟩ l-omm, u ⟨את⟩ il-wlied tieħu għalik, sabiex ikun tajjeb għalik u ttawwal il-ġranet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4ae36c50f2a313738ef1b89ef71a1800babe13827d2018ae8ab21c5df7a7ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/22\/6-7.1792623133122.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ibgħat"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "tibgħat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil l-omm"
+    },
+    {
+      "surface": "האם",
+      "gloss": "l-omm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-wlied"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "il-wlied"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tieħu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabiex"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ikun tajjeb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "u ttawwal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "il-ġranet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:13.123347245Z",
+  "model": "glm-5.3"
+}

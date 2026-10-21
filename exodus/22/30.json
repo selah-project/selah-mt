@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנשי קדש",
+      "rationale": "'irġiel ta' qdusija' — il-ħila qaddisija tinżamm b'kelma waħda minn għerq קדש"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mitmugħ minn annimal",
+      "rationale": "טרפה: laħam mserrp minn annimal ieħor, mhux sempliċement 'tneħħiet'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובשר",
+      "rationale": "il-waw mill-ġdid ma għandux kopja Maltija separata; 'u' tagħha għadha fil-kelma 'u laħam'"
+    }
+  ],
+  "translation": "U irġiel ta' qdusija tkunu lili; u laħam tal-għalqa mitmugħ minn annimal ma tiekluh — lill-kelb tirmituh ⟨אתו⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0daa481e6d8d6b0dcc39aa380373fcba324226b4ba7538638f24e1179dc53b22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/29-30.1792599724021.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "u irġiel"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ta' qdusija"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "tkunu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "u laħam"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tal-għalqa"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "mitmugħ minn annimal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tiekluh"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "lill-kelb"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "tirmituh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "u laħam mitmugħ (l-oġġett mirfef)"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:04.021916933Z",
+  "model": "glm-5.3"
+}

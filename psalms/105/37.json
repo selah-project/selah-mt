@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tribù",
+      "rationale": "שבט huwa l-istess kelma għal 'bastun' u 'tribù'; hawn 'tribù', iżda l-forma doppja tal-kelma titlef."
+    },
+    {
+      "kind": "alternative",
+      "subject": "min jixxengel",
+      "rationale": "כושל jaf tfisser 'min jinsa' jew 'min jixxengel'; JPS għażel 'stumbled'."
+    }
+  ],
+  "translation": "Ħarġilhom bil-fidda u d-deheb, u m'hemmx fit-tribù tiegħu min jixxengel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/37-40.1792617823736.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "Ħarġilhom"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bil-fidda"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "u d-deheb"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "fit-tribù tiegħu"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "min jixxengel"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:43.736606272Z",
+  "model": "glm-5.3"
+}

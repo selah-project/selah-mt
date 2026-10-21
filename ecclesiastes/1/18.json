@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm \/ ukoll",
+      "rationale": "Il-Malti jeħtieġ verb 'hemm' u 'ukoll' fejn il-Lhudi juża żewġ klawsi nominals u infinitifs kompletivi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rabiġ",
+      "rationale": "כעס hu vexation\/rabiġ, mhux 'rabja' biss — l-imħabba ta' ħafna traduzzjonijiet bħala 'grief' tirxaħħax it-tifsira."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רב…רב \/ יוסיף…יוסיף",
+      "rationale": "Ripetizzjoni parallela — 'f'abbundanza…abbundanza', 'izżid…izżid' — tinżamm bħall-Lhudi."
+    }
+  ],
+  "translation": "Għax f'abbundanza ta' ħikma hemm abbundanza ta' rabiġ, u min izżid għarfien izżid ukoll uġigħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/1\/17-18.1792620178269.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "f'abbundanza"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ta' ħikma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abbundanza"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ta' rabiġ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "u min izżid"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "għarfien"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "izżid ukoll"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "uġigħ"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:58.269571792Z",
+  "model": "glm-5.3"
+}

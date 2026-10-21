@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "virga ta' kibur",
+      "rationale": "חטר גאוה: virga li ttikkah għall-kibir tal-istupitu (KJV) jew virga minħabba kibru; BSB tqarraq u tgħid 'kbir fil-ħlas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-verb 'hemm' miżjed bil-Malti għas-sentenza nominali Lhudija"
+    }
+  ],
+  "translation": "F'ħalq l-istupitu hemm virga ta' kibur, iżda xofftejn il-għorfa jħarsuhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/1-4.1792618607990.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "f'ħalq"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "l-istupitu"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "virga"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ta' kibur"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "iżda xofftejn"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "il-għorfa"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "jħarsuhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:47.991067837Z",
+  "model": "glm-5.3"
+}

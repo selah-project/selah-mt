@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "merħla",
+      "rationale": "צאן kollettiv — nagħaġ u mogħoż; 'merħla' tieħu l-kollektiv wieħed"
+    },
+    {
+      "kind": "crux",
+      "subject": "המקנה ההוא",
+      "rationale": "'dak il-bhejjem': jew in-nagħaġ meħuda qabel minn Amaleq, jew il-bhejjem ta' David; il-qrielej jaqsmu"
+    }
+  ],
+  "translation": "U David ħa ⟨את⟩ il-merħla kollha u l-baqar; imexxewilhom quddiem dak il-bhejjem, u qalu: Dan huwa s-serq ta' David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/30\/17-20.1792608451257.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-merħla kollha u l-baqar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il-merħla"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "u l-baqar"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "imexxewilhom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "il-bhejjem"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "is-serq"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:47:31.258700197Z",
+  "model": "glm-5.3"
+}

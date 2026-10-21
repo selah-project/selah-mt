@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pikkudim",
+      "rationale": "מפקודיך mitmaħħad bħala 'pikkudim' (mandati\/statuti), kelma li ġġorr il-ħoss tal-Lhudi milli terminu ġeneriku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "joħroġ għarfieni",
+      "rationale": "אתבונן hithpael ta' בין — 'insegwi bi nmilli', mhux sempliċiment 'nifhem'"
+    },
+    {
+      "kind": "addition",
+      "subject": "għalhekk",
+      "rationale": "על כן — 'għal\/hekk', konjuzzjoni rakkomandata bil-Malti"
+    }
+  ],
+  "translation": "Mill-pikkudim tiegħek joħroġ għarfieni; għalhekk jobgħod kull triq ta' qerq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "67b62bf9f5961438546b57fd34ecb2771e5b527b9db3355ff309e4e6b89cdba8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/104-104.1792623833892.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "mill-pikkudim tiegħek"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "joħroġ għarfieni"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jobgħod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "triq"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ta' qerq"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:53.893320666Z",
+  "model": "glm-5.3"
+}

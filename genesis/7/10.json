@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wara",
+      "rationale": "il-prepożizzjoni ל m'għandha ekwivalenti dirett; 'wara' tagħti s-sens temporali"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebat ijiem",
+      "rationale": "għadd ta' jiem qabel il-għargħar"
+    }
+  ],
+  "translation": "U ⟨kien⟩ wara sebat ijiem, u l-ilmiet tal-għargħar kienu fuq l-art.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1517930cbdce0b6e78836d467255734e92ce3af7268d11c0762735b8f7cc4483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/7\/9-12.1792597775900.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ⟨kien⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "wara sebat"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "u l-ilmiet"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tal-għargħar"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:35.901518186Z",
+  "model": "glm-5.3"
+}

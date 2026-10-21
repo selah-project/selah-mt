@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "satan",
+      "rationale": "שטן bla artiklu hawn ifisser 'avversarju', mhux isem; ħliefit il-kelma Lhudija biex il-ħoss joħroġ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-kopula bil-Malti meħtieġa; il-Lhudi għandu biss הוא bla verb"
+    }
+  ],
+  "translation": "U Jaħwe qajjem satan lil Salomawn: ⟨את⟩ Ħadad l-Adommi, minn Żerġġ ir-re — hu ⟨kien⟩ f'Edom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/13-16.1792609576204.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "U qajjem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "lil Salomawn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ħadad l-Adommi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ħadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "l-Adommi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "minn Żerġġ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "f'Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:16.205713786Z",
+  "model": "glm-5.3"
+}

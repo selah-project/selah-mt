@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלילים",
+      "rationale": "'maġistrati\/ġudijiet' — jiġifieri l-għedewwa stess, jekk jħalluh jitkellmu, jagħtu raġuni lil Ħaħar Israel; xi traduzzjonijiet jitilqu 'xhieda'."
+    }
+  ],
+  "translation": "Għax mhuwiex bħal Ħaħarna l-Ħaħar tagħhom, u l-għedewwa tagħna ⟨huma⟩ l-ġudijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/32\/29-32.1792606219302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "bħal Ħaħarna"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "l-Ħaħar tagħhom"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "u l-għedewwa tagħna"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "l-ġudijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T18:10:19.303838601Z",
+  "model": "glm-5.3"
+}

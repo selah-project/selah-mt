@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨l-ilma⟩",
+      "rationale": "Maltese needs a subject for jimxu; Hebrew participle המשלח doubles as relative 'who sends forth'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "għajniet",
+      "rationale": "מעינים (springs) and Maltese għajn (spring\/eye) share the same water-from-the-ground picture"
+    }
+  ],
+  "translation": "Li jbattet għajniet ta' l-ilma fl-inħiet, bejn il-muntanji jimxu ⟨l-ilma⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/9-12.1792617786267.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "li jbattet"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "għajniet ta' l-ilma"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "fl-inħiet"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "il-muntanji"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "jimxu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:06.268571311Z",
+  "model": "glm-5.3"
+}

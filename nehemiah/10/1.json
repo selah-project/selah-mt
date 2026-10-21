@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 10:1",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כרתים אמנה",
+      "rationale": "'naħbtu amana' — literal: 'aħna qatgħu amana', idjoma Lhudi għal patt (biż-żejjed 'naħbtu' ngħaddu l-figura tal-qtigħ)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת",
+      "rationale": "il-Lhudi 'jaqta' patt — il-Malti jaħbat il-patt bħalma jagħmel il-Lhudi meta jaqtgħu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-lista tal-ħatimin",
+      "rationale": "il-vers jiftaħ lista ta' ismijiet li tir-rekordja min fissaċ-ċirku"
+    }
+  ],
+  "translation": "U minnkejn dan kollu, aħna naħbtu amana u niktbuha, u fuq il-ħatim inħatmu l-istednadar tagħna, il-Lewjiti tagħna, il-kohanim tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/10\/1-4.1792621456234.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "u minnkejn dan kollu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "naħbtu"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "amana"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "u niktbuha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "il-ħatim"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "l-istedna tagħna"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "il-Lewjiti tagħna"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "il-kohanim tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T22:24:16.235433579Z",
+  "model": "glm-5.3"
+}

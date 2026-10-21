@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ħaġra u ħaġra, efa u efa",
+      "rationale": "l-għadda Lhudija 'X u X' tfisser żewġ piżi differenti; miżmuma kif huma għax il-forma hija l-punt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħaġra",
+      "rationale": "אבן hawnhiex ħaġra ordinarja żgħira użata bħala piż — idjoma tal-piżi, mhux tradotta 'piż'"
+    }
+  ],
+  "translation": "Ħaġra u ħaġra, efa u efa — abominazzjoni għal Jaħwe huma ż-żewġ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/20\/9-12.1792618781351.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Ħaġra"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "u ħaġra"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "u efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abominazzjoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ż-żewġ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:39:41.351989511Z",
+  "model": "glm-5.3"
+}

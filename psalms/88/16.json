@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפונה",
+      "rationale": "hapax mill-għerq pwn — 'ninżel għal qalbi \/ nieqaf iber bih \/ inbiegħed'; hawn nħass il-qalba bħala l-aktar qarija li tqis"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפונה",
+      "rationale": "kelma li tidher darba biss fit-Tanakh, f'dan il-vers"
+    },
+    {
+      "kind": "substitution",
+      "subject": "u miet",
+      "rationale": "וגוע — 'nieħu n-nifs barra', qrib tal-mewt; il-kontìnwu jifhem 'għadu se mmut'"
+    }
+  ],
+  "translation": "Imħasseb jien u miet minn żgħożiti; ġarrbt l-biża' tiegħek — nħass il-qalba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/88\/13-16.1792617641537.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Imħasseb"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "u miet"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "minn żgħożiti"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ġarrbt"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "l-biża' tiegħek"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "nħass il-qalba"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:41.538576813Z",
+  "model": "glm-5.3"
+}

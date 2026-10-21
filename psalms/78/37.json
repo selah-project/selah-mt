@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "żammuh ruħhom",
+      "rationale": "נאמנו mill-għerq אמן: fidiħu, imma l-Malti jehmeż il-pronome; il-forma hija 'ffirmaw\/fidilment żammew'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-Lhudi jaqta' l-verbu 'to be'; il-Malti jehtieġ 'kienu'"
+    }
+  ],
+  "translation": "U qlubhom ma kinux stabil miegħu, u lanqas żammuh ruħhom fil-patt tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/37-40.1792617475664.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "u qlubhom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kienu stabil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "żammuh ruħhom"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "fil-patt tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:55.665339251Z",
+  "model": "glm-5.3"
+}

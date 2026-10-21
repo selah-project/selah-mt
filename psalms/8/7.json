@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tagħtih jaħkem",
+      "rationale": "תמשילהו hifil wieħed; il-Malti jkisser f'żewġ kelmiet."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Indirizz dirett lil Jaħwe — 'għemejl idejk', 'taħt riġlejtu'."
+    }
+  ],
+  "translation": "Tagħtih jaħkem fuq għemejl idejk; kollox poġġejt taħt riġlejtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ac5561097db4662b8e19ba06c397353c458f5771d0c853653abbf91c5a0896c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/6-7.1792623729025.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "tagħtih jaħkem"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "fuq għemejl"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "idejk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "poġġejt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "riġlejtu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:09.025838914Z",
+  "model": "glm-5.3"
+}

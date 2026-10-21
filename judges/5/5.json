@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "lit. 'mid-dahr ta'' Jaħwe; rendered 'minn quddiem'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפני יהוה",
+      "rationale": "the refrain repeats twice in the verse; the repetition kept intact"
+    }
+  ],
+  "translation": "Il-muntanji rdizzaw għal ilma minn quddiem Jaħwe — dan, is-Sinaj — minn quddiem Jaħwe, Elohim ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/5\/5-8.1792607039499.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "il-muntanji"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "rdizzaw għal ilma"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "is-Sinaj"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T18:23:59.500296347Z",
+  "model": "glm-5.3"
+}

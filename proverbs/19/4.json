@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jinfired",
+      "rationale": "voice ambiguity: 'the poor is separated from his friend' (KJV) vs 'his friend separates himself' (JPS); Hebrew יפרד allows both"
+    }
+  ],
+  "translation": "Il-ġid iżżid ħbieb ħafna, u l-miskin mill-ħabib tiegħu jinfired.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/1-4.1792618704082.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "il-ġid"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "iżżid"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ħbieb"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "u l-miskin"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "mill-ħabib tiegħu"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "jinfired"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:24.082844873Z",
+  "model": "glm-5.3"
+}

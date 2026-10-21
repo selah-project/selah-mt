@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sitt xhur",
+      "rationale": "tul ta' żmien iffinut — sitt xhur ta' okkupazzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qered",
+      "rationale": "הכרית litteralment 'qata'' (cut off); bil-Malti 'qered' biex ma jibqax ambigwu"
+    }
+  ],
+  "translation": "Għax sitt xhur Joab u Jisrael kollha waqfu hemm, sa ma qered lil kull raġel f'Edom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/13-16.1792609576204.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "xhur"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "waqfu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "qered"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "f'Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:16.206153822Z",
+  "model": "glm-5.3"
+}

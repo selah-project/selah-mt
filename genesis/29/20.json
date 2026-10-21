@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "f'għajnejn",
+      "rationale": "l-espressjoni Lhudija 'f'għajnejn' = 'f'għajnejn' tfisser 'dehrlu\/tajbu'; il-litteralità miżmuma għax il-Malti għandu l-istess idjom"
+    },
+    {
+      "kind": "addition",
+      "subject": "biss",
+      "rationale": "'kienu f'għajnejn biss żminjit' — 'biss' isir biex jirreż l-ebda ftit sigħat"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seba' snin",
+      "rationale": "l-għadd tas-snin imqabbel ma' 'biss żminjit' — is-sors tal-qafas narrattiv"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "il-pronum 'lejha' ma' אהב, mhux il-markatur את; miżjod fil-verb 'imħabbtu lejha'"
+    }
+  ],
+  "translation": "U Jagħaqov qeda seba' snin għal Raħel; u kienu f'għajnejn biss żminjit qalb tal-ħabiba, minn imħabbtu ⟨את⟩ lejha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/29\/17-20.1792598442080.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "u qeda"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "għal Raħel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba'"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "biss żminjit"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "qalb tal-ħabiba"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "minn imħabbtu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lejha",
+      "marks": "Raħel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:42.081156806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jħtieġha fil-fraza nominali."
+    },
+    {
+      "kind": "crux",
+      "subject": "נסמכו",
+      "rationale": "'jistrieħu\/jiddependu fuq' — hafifa ta' סמך, tingħata wkoll bħala 'jitnejħew' fil-pożizzjoni ta' sostenn."
+    }
+  ],
+  "translation": "Għaliex mill-belt il-qaddisa jissejħu, u fuq l-Elohim ta' Jisrael jistrieħu; Jaħwe Tsebawot ⟨hu⟩ ismu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/48\/1-4.1792611925431.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mill-belt"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "il-qaddisa"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "jissejħu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l-Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "jistrieħu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:45:25.436261135Z",
+  "model": "glm-5.3"
+}

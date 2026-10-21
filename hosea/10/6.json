@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירב",
+      "rationale": "Jarèv: isem simboliku (jirib = 'jid-dibatti\/jikkontesta') għal re ta' Ashshur, jew titlu, jew isem propri — ma jiġix tradott."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "hawn minħa = ħaraġ (tribute) lejn Assirja, mhux offerta; għalhekk 'rigal ta' ħaraġ'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בשנה",
+      "rationale": "'l-għajb jieħu lil Efrajm' (il-vergogna bħala sustanza) milli 'Efrajm jittieħed bil-għajb'; l-ewwel aktar litterali."
+    }
+  ],
+  "translation": "Anki ⟨את⟩ għal Ashshur jittrasporta, rigal ta' ħaraġ lir-re Jarèv; bil-għajb jittieħed Efrajm, u Jisrael jistħi tal-parir tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5be1c5f40aafa56264eebb268922b2cfe6bdf8d88c1d774a75c041c2bf2d8157",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/10\/5-8.1792615587745.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anki"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "il-għoġol ta' Bet Aven"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "għal Ashshur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jittrasporta"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "rigal ta' ħaraġ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lir-re"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarèv"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "bil-għajb"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jittieħed"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "u jistħi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "tal-parir tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:46:27.746194113Z",
+  "model": "glm-5.3"
+}

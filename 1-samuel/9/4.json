@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעבר...ויעבר...ויעברו...ויעבר",
+      "rationale": "erba' darbiet 'għadda' f'kadenza — it-tfittxija tinbena b'repetizzjoni li tgħaddi minn art għal art"
+    },
+    {
+      "kind": "addition",
+      "subject": "hom",
+      "rationale": "il-pronom 'hom' miżjud f'sabuhomx għax il-Lhudi מצאו jaħlit l-oġġett impliċitu (il-ħmariet)"
+    }
+  ],
+  "translation": "U għadda mill-muntanja ta' Efrajm, u għadda mill-art ta' Xalixà, u ma sabuhomx; u għaddew mill-art ta' Xa'alim, u ma kien hemm; u għadda mill-art ta' Jemini, u ma sabuhomx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/9\/1-4.1792607823915.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "U għadda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mill-muntanja"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ta' Efrajm"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "u għadda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ta' Xalixà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "sabuhomx"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "u għaddew"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ta' Xa'alim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u ma kien hemm"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "u għadda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ta' Jemini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "sabuhomx"
+    }
+  ],
+  "timestamp": "2026-10-21T18:37:03.917384224Z",
+  "model": "glm-5.3"
+}

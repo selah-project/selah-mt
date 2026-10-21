@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יספרו",
+      "rationale": "KJV\/jps 'speak\/tell' vs YLT 'recount'; hawn ridut bħala 'jaħarbtu' (jilgħab b'kelma b'ħsieb ħazin)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומכחש",
+      "rationale": "BDD jiftaħ 'emaciation' litteralment, iżda hawn 'gideb' (kemm temp 'bil-gideb' bħalma 'bis-silla')"
+    }
+  ],
+  "translation": "Ħata' ta' ħalqhom, kelma ta' xofftejhom — u jinqabdu fil-għoruk tagħhom, u bis-silla u bil-gideb jaħarbtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/13-16.1792617213404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ħata'"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ta' ħalqhom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ta' xofftejhom"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "u jinqabdu"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "fil-għoruk tagħhom"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "u bis-silla"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "u bil-gideb"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "jaħarbtu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:33.405433456Z",
+  "model": "glm-5.3"
+}

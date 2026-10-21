@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "huma",
+      "rationale": "הוא u הם huma pronomi fil Singular għal suġġett plural ('il-fidda u d-deheb HUWA tiegħi') — il-Malti juża il-plural."
+    },
+    {
+      "kind": "crux",
+      "subject": "הטובים",
+      "rationale": "'l-aħjar' kontra 'it-tajjeb': l-aġettiv jillimita lil-xi nisa u ulied biss, mhux lilthom kollha."
+    }
+  ],
+  "translation": "U qallu: Hekk jgħid Ben-Hadad: Fiddtek u d-deheb tiegħek huma; u nisajk u uliedek, l-aħjar, tiegħi huma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/20\/1-4.1792609987047.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qallu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "Fiddtek"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "u d-deheb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tiegħek huma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huma"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "u nisajk"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "u uliedek"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "l-aħjar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tiegħi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    }
+  ],
+  "timestamp": "2026-10-21T19:13:07.048708727Z",
+  "model": "glm-5.3"
+}

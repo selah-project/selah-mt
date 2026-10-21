@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tramuntana",
+      "rationale": "צפון veru tfisser 'moħbi, dak li hu maħbub' — l-tramuntana bħala kwartier imbiegħed; il-Malti għandu biss il-kelma ġeografika"
+    },
+    {
+      "kind": "addition",
+      "subject": "bil-ferħ",
+      "rationale": "ירננו hu verb waħed ('jieħu ħoss bħal triqqa, jgħajt għall-ferħ'); il-Malti jrid żewġ kelmiet"
+    }
+  ],
+  "translation": "It-tramuntana u l-lemin Int ħliqthom; Tabor u Ħermon b'ismik jitgħajtu bil-ferħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/13-16.1792617667589.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "it-tramuntana"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "u l-lemin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Int"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ħliqthom"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "u Ħermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "b'ismik"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jitgħajtu bil-ferħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:07.590063102Z",
+  "model": "glm-5.3"
+}

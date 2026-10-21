@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "the pronoun הוא is present in the Hebrew, serving as an emphatic copula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול ורם",
+      "rationale": "the pair 'great and high' — two titles of majesty placed side by side, one in Zion, one over the peoples."
+    }
+  ],
+  "translation": "Jaħwe huwa kbir fi Tzion, u għoli huwa fuq kollha mill-popli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/1-4.1792617733302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "fi Tzion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "u għoli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mill-popli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:13.303394198Z",
+  "model": "glm-5.3"
+}

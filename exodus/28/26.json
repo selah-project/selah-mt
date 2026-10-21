@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "xofftu",
+      "rationale": "שפה litteralment 'xoffa', użata hawn għar-raba' taħ-ħoġen"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביתה",
+      "rationale": "'lejn ġewwa' — l-avverbju mid-direzzjoni 'dar', mhux 'fl-inħawi'"
+    }
+  ],
+  "translation": "U tagħmel żewġ ċrieket tad-deheb, u tpoġġihom ⟨את⟩ fuż-żewġ truf taħ-ħoġen, fuq xofftu, fin-naħa li tagħti lejn l-epod, ġewwa.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1e1f22d9ed16ddccde73bda8ae0d392a85cc4a72c69f9457bbf7e35b20985a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/28\/25-28.1792600028355.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "U tagħmel"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ċrieket"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "u tpoġġihom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "fuż-żewġ truf taħ-ħoġen"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iż-żewġ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "truf"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "taħ-ħoġen"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "xofftu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tagħti lejn"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "in-naħa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "tal-epod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ġewwa"
+    }
+  ],
+  "timestamp": "2026-10-21T16:27:08.356754536Z",
+  "model": "glm-5.3"
+}

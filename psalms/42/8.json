@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "taħma għand taħma",
+      "rationale": "repetiżjoni ta' תהום — l-għerusija bejn żewġ ibħra, ma tinżammx ħlief bir-repetiżjoni"
+    },
+    {
+      "kind": "crux",
+      "subject": "צנוריך",
+      "rationale": "'culvert\/waterspouts' — għajniet tal-ilma, kaskati, jew blowholes"
+    }
+  ],
+  "translation": "Taħma għand taħma jsejjaħ lejn ħoss il-għajniet tiegħek; il-mewġ tiegħek kollu u l-mewġiet kbar tiegħek għaddew fuqi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/42\/5-8.1792617084960.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Taħma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "taħma"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "jsejjaħ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lejn ħoss"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "il-għajniet tiegħek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "il-mewġ tiegħek"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "u l-mewġiet kbar tiegħek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "għaddew"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:24.963241827Z",
+  "model": "glm-5.3"
+}

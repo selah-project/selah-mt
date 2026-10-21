@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sidu \/ għas-sid tagħha",
+      "rationale": "אדניו hawn jirreferi għal bniedem, għalhekk 'sid' mhux 'Adonaj'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-Malti jerħi l-plural",
+      "rationale": "תהיה singular fil-Lhudi (il-mara u wledha tagħha), bil-Malti ħriġniethu plural"
+    }
+  ],
+  "translation": "Jekk sidu jagħtihu mara u twelidlu subien jew bniet, il-mara u wledha jkunu għas-sid tagħha, u hu joħroġ b'ġismu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/21\/1-4.1792599804389.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sidu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jagħti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "u twelidlu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "subien"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bniet"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "il-mara"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "u wledha"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "għas-sid tagħha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "b'ġismu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:24.390377750Z",
+  "model": "glm-5.3"
+}

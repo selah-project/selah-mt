@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונתשתי...נתוש",
+      "rationale": "Għerq wieħed ntasha\/ntowsh — l-istess għerq għal darbtejiet, infintor: 'inqelleb... qtigħ', ir-repetizzjoni tit-taħt titilfu."
+    },
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "rationale": "Il-pronom demostrattiv Lhudi ingħata b'dak magħmul man-nom; il-Malti ma jħallix telfa nadifa."
+    }
+  ],
+  "translation": "U jekk ma jisimgħux, inqelleb ⟨את⟩ dak in-nazzjon bl-għerq, qtigħ u qerda, jgħid Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3bf16125604b4b9b6242544935f485eac6e5a1b15f83f722058cc61b3aa4000a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/12\/17-17.1792612639131.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "U jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "jisimgħux"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "inqelleb bl-għerq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak in-nazzjon"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "dak in-nazzjon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "qtigħ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "u qerda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:57:19.132108295Z",
+  "model": "glm-5.3"
+}

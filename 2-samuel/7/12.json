@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 7:12",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "torqod ma' missirietek",
+      "rationale": "שכב עם אבות — eufemiżmu għall-mewt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "żerriegħa",
+      "rationale": "זרע litteralment 'żerriegħa', tektek 'il-werried' — bqa' sempliċi għall-plural inestabbli"
+    },
+    {
+      "kind": "note",
+      "subject": "את f' 'את אבתיך'",
+      "rationale": "hawn את hija preposizzjoni 'ma'', mhux is-suġġett marker; gliżata bħala 'ma' mingħajr parentesi għax kelma ebrajka prepożizzjonali"
+    }
+  ],
+  "translation": "Meta jimlew il-jiem tiegħek u torqod ⟨את⟩ ma' missirietek, inqajjem ⟨את⟩ lil żerriegħa warajk, li joħroġ minn żaqqok, u nwieqfed ⟨את⟩ is-saltna tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/7\/9-12.1792608684431.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Meta"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "jimlew"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "il-jiem tiegħek"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "u torqod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "missirietek"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "inqajjem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil żerriegħa warajk"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "żerriegħa tiegħek"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "warajk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "minn żaqqok"
+    },
+    {
+      "surface": "והכינתי",
+      "gloss": "u nwieqfed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-saltna tiegħu"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "is-saltna tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:51:24.432996677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jggergem",
+      "rationale": "יהגה tfisser 'jgemgem\/jiċċitera' (bħall-ħlewwa ta' ħalq ibati) — 'jitkellem' waħdu jitlef il-ħoss tal-kelma."
+    },
+    {
+      "kind": "addition",
+      "subject": "il-ħażen",
+      "rationale": "רשע qiegħed għal kollox wara תועבת; l-ordni Malti jżid artiklu u l-virgola ta' suġġett."
+    }
+  ],
+  "translation": "Għax ħalqi jiggergem verità, u l-ħażen huwa għajb għal xufftej.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/8\/5-8.1792618490398.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verità"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "jggergem"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ħalqi"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "għajb"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "għal xufftej"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:50.399664089Z",
+  "model": "glm-5.3"
+}

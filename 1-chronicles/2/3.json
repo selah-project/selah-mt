@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 2:3",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kbir",
+      "rationale": "בכור literally 'il-mibkur', l-ewwel twelid; 'il-kbir' jaqraq it-tifsira"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Ħu⟩",
+      "rationale": "Suffiss ta' וימיתהו (lilu) ma jinstax faċilment bil-Malti; il-pronom miżjud"
+    },
+    {
+      "kind": "idiom",
+      "subject": "f'għajnejn Jaħwe",
+      "rationale": "בעיני יהוה idjom Ebrajk: 'f'għajnejn' = fil-ġudizzju ta'"
+    }
+  ],
+  "translation": "Wlied Jehuda: Er, Onan u Xela; tliet twieldu lilu minn binet Xugħa l-Kennanita. U Er, il-kbir ta' Jehuda, kien ħażin f'għajnejn Jaħwe, u ⟨Ħu⟩ qatlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7992844fe8275e20f92f59a8ab6cef3eda2098ca62b4f832102ccab180f599b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/2\/1-4.1792621676116.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wlied"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "u Onan"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "u Xela"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "tliet"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "twieldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "מבת",
+      "gloss": "minn binet"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Xugħa"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "l-Kennanita"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "U ... kien"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "il-kbir"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ומיתהו",
+      "gloss": "qatlu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:56.117738603Z",
+  "model": "glm-5.3"
+}

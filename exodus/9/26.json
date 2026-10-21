@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ebda",
+      "rationale": "il-Malti jeħtieġ 'ebda' tan-negazzjoni mal-'ma' għal 'ma kien hemm ebda'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "'fejn kienu hemm' — il-verb 'kien' bil-Malti jitlob 'hemm' fejn il-Lhudi għandu biss שם"
+    }
+  ],
+  "translation": "Biss fl-art ta' Gošen, fejn kienu hemm ulied Jisrael, ma kien hemm ebda silġ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "45f0a0a708101b2dcd8388913491dda78a60b7ca9da39a414a691cad7797e1aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/9\/26-28.1792602097536.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Biss"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ta' Gošen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "silġ"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:37.538238636Z",
+  "model": "glm-5.3"
+}

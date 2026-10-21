@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dak li jifdi",
+      "rationale": "גואל huwa l-qrubi li jifdi skont id-dritt tal-familja; l-asterisk traduzzjonali 'Redentur' iġib tagħbija 'il-ġdid"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולשבי פשע",
+      "rationale": "'dawk li jerġgħu lura mit-trasgressjoni' (maġġoranza) kontra 'dawk mitrati\/trasgressuri' bħala qari passiv"
+    }
+  ],
+  "translation": "U jiġi għal Tsyjon dak li jifdi, u għal dawk li jerġgħu lura mit-trasgressjoni f'Jagħaqov, jgħid Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b6a0312c5539664d2a9bc22a0d217ee5f68cc3c712bc4c5069c04c9b9af8915c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/59\/17-20.1792612066455.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "u jiġi"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "għal Tsyjon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "dak li jifdi"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "u għal dawk li jerġgħu lura"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mit-trasgressjoni"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "f'Jagħaqov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:47:46.456543325Z",
+  "model": "glm-5.3"
+}

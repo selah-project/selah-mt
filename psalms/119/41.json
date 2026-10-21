@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "ħesed Miż-Tabella D2 — ma tradux ħafna bħal 'ħniena' waħedha"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u l-ħelsien tiegħek",
+      "rationale": "il-kopula 'u' m'hijiex fil-Lhud; versett jibda b'jussiv mixtieq"
+    }
+  ],
+  "translation": "U li jiġini l-ħesed tiegħek, Jaħwe, u l-ħelsien tiegħek, skont kliemek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/41-44.1792618027486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "u li jiġini"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "l-ħesed tiegħek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "l-ħelsien tiegħek"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "skont kliemek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:07.487040359Z",
+  "model": "glm-5.3"
+}

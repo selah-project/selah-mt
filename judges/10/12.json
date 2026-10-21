@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħoss għall-ʿajn",
+      "rationale": "ʿAmaleq bil-għain Maltija għall-ע; isem ma jiġix tradott"
+    },
+    {
+      "kind": "crux",
+      "subject": "Maon",
+      "rationale": "וּמָעוֹן: 'il-Maoniti' (KJV\/JPS) kontra LXX li jaqra 'Midjan';forom oħra jaqru 'Kenaan'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "minn idejhom",
+      "rationale": "מִיָּדָם litteralment 'minn idhom' — il-id bħala simbolu ta' setgħa"
+    }
+  ],
+  "translation": "U t-Tidoniżi u ʿAmaleq u Maon għassrukom, u intom seħħejtu lejja, u ħlisniekom minn idejhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/10\/9-12.1792607205604.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "U t-Tidoniżi"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "u ʿAmaleq"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "u Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "għassru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kom⟩",
+      "marks": "kom (l-objett dirett suffissat)"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "u intom seħħejtu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejja"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "u ħlisniekom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kom⟩",
+      "marks": "kom (l-objett dirett suffissat)"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "minn idejhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:26:45.605383779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחש",
+      "rationale": "annimal mhux ċert: 'ġlued tat-taħax' miżżumma bħala isem, vs 'ġlued tal-fokki' (ASV\/JPS) jew 'ġilda fini' (BSB)"
+    }
+  ],
+  "translation": "U ⟨את⟩ il-ktiba tal-ġlued tal-irmieli l-immlewmin bl-aħmar, u ⟨את⟩ il-ktiba tal-ġlued tat-taħax, u ⟨את⟩ il-parandża tal-velu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/39\/33-36.1792600380389.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ktiba tal-ġlued tal-irmieli"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "il-ktiba"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "tal-ġlued"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "tal-irmieli"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "l-immlewmin bl-aħmar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ktiba tal-ġlued tat-taħax"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "il-ktiba"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "tal-ġlued"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tat-taħax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-parandża"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "il-parandża"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "tal-velu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:00.390563964Z",
+  "model": "glm-5.3"
+}

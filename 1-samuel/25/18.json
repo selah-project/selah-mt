@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 25:18",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "il-lista tal-provvisti",
+      "rationale": "numri sħaħ bil-Malti bħall-Lhudi: mitejn, żewġ, ħames, ħames, mija, mitejn"
+    },
+    {
+      "kind": "addition",
+      "subject": "dawn",
+      "rationale": "il-pronum 'dawn' miżjud bil-Malti għax il-verb ותשם jeħtieġ oġġett espliċitu"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבלי",
+      "rationale": "ל-heb nagħal נבל tfisser ġilda\/tnabar li tinżel meta tkun vojta — 'fnieren' mhux 'fliexken"
+    }
+  ],
+  "translation": "U Avgajil ħarbet u ħadet mitejn ħobż u żewġ fnieren inbid, u ħames nagħaġ imsajjla, u ħames siegħ qamħ mixwi, u mija ċiringi mxewxin, u mitejn fkiet tin, u poġġiet dawn fuq il-ħmir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/17-20.1792608358276.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "u ħarbet"
+    },
+    {
+      "surface": "אבוגיל",
+      "gloss": "Avgajil"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "u ħadet"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mitejn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "u żewġ"
+    },
+    {
+      "surface": "נבלי",
+      "gloss": "fnieren"
+    },
+    {
+      "surface": "יין",
+      "gloss": "inbid"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "u ħames"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nagħaġ"
+    },
+    {
+      "surface": "עשוות",
+      "gloss": "imsajjla"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "u ħames"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "siegħ"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "qamħ mixwi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "u mija"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "ċiringi mxewxin"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "u mitejn"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "fkiet tin"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "u poġġiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "il-ħmir"
+    }
+  ],
+  "timestamp": "2026-10-21T18:45:58.277611417Z",
+  "model": "glm-5.3"
+}

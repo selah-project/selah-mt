@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "allat pagani fil-ħalf ta' Iżebel (plural, allat ta' Baal) vs 'Elohim' l-alla ta' Israel; l-glossa Maltija 'l-allat' tżomm il-plural"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "nefex = nifs\/ħaja, mhux 'ruħ' biss; l-istess kelma tirrikorri f'vers 3 u 4"
+    }
+  ],
+  "translation": "U Iżebel bagħtet mibgħut lil Elijaħu biex jgħid: Hekk jagħmlu l-allat u hekk iżidu, għaliċ-ċertu sa dak il-ħin ghada nagħmel ⟨את⟩ nefsek bħal nefes ta' waħda minnhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/19\/1-4.1792609905979.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "bagħtet"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iżebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mibgħut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaħu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħid"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "jagħmlu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "l-allat"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "u hekk"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "iżidu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliċ-ċertu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "sa dak il-ħin"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ghada"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefsek"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefsek"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "bħal nefes"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ta' waħda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "minnhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:11:45.979815859Z",
+  "model": "glm-5.3"
+}

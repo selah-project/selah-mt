@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הגדל\/הקטן",
+      "rationale": "Kuntrast kbir\/żgħir, il-ħames darba f'Ġenesi 1 — l-għadd tnejn jibqa' plural."
+    }
+  ],
+  "translation": "U Elohim għamel ⟨את⟩ id-dwal il-kbar tnejn, ⟨את⟩ id-dawl il-kbir għal-governat tal-jum, u ⟨את⟩ id-dawl iż-żgħir għal-governat tal-lejl, u ⟨את⟩ l-istilel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/13-16.1792597675180.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "U għamel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dwal il-kbar tnejn"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tnejn"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "id-dwal"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "il-kbar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dawl il-kbir"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "id-dawl"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "il-kbir"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "għal-governat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tal-jum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-dawl iż-żgħir"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "id-dawl"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "iż-żgħir"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "għal-governat"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tal-lejl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-istilel"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "l-istilel"
+    }
+  ],
+  "timestamp": "2026-10-21T15:47:55.181309997Z",
+  "model": "glm-5.3"
+}

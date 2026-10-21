@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידע",
+      "rationale": "'għaraf' (knew) = eufemizm għall-att sesswali; it-traduzzjoni litterali tal-verb jibqa' milli t-teoloġija iktar tard"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שת \/ שת",
+      "rationale": "isem Xet jirriflessi l-verb 'poġġa\/sama' — ġuġ PUN Hebrew mitlub mal-isem, mhux viżibbli bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "qaħħita ta' Ħava",
+      "rationale": "il-kliem 'għax Elohim poġġa għali' hija kliem ta' Ħava, l-omm, mhux narrazzjoni"
+    }
+  ],
+  "translation": "U Adam għaraf ⟨את⟩ martu oħra darb'oħra, u hi welldet iben, u sejħet ⟨את⟩ ismu Xet, għax Elohim poġġa għali żergħa oħra minflok Ħabel, għax Qajn qatlu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4d5039aab7eff64e99e045ff1470e47bea53718d013b96923875afc30cd990bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/4\/25-26.1792597648061.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "għaraf"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "darb'oħra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "martu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "martu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "welldet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "sejħet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Xet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שת",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "żergħa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "oħra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "minflok"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Ħabel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "qatlu"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qajn"
+    }
+  ],
+  "timestamp": "2026-10-21T15:47:28.062431635Z",
+  "model": "glm-5.3"
+}

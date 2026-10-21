@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דם נקי x2",
+      "rationale": "'Demm innoċenti' għaddietiżda f'żewġ nofsin tal-vers — il-ħolqien Q semitiku, miżmum bil-Malti bl-istess ripetizzjoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ġerusalem",
+      "rationale": "Ħlief meta hemm bżonn ta' l-ortografija uffiċjali Maltija 'Ġerusalemm', il-forma li tqarreb lill-Lhudi hija ppreferuta hawn skont id-dokument tas-siġġu."
+    }
+  ],
+  "translation": "U anki d-demm innoċenti li ħarrex, għax hu mela ⟨את⟩ Ġerusalem bid-demm innoċenti; u Jaħwe ma riedx jaħfer.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "567e3f789d38c95868f25ae4f9cfc7b22c9d5f37bb7b79e92a7853089d7a5164",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/24\/1-4.1792610774395.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "U anki"
+    },
+    {
+      "surface": "דם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "innoċenti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ħarrex"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ġerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ġerusalem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bid-demm"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innoċenti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "riedx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "jaħfer"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:14.397260851Z",
+  "model": "glm-5.3"
+}

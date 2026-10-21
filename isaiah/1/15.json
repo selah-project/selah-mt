@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "palauni",
+      "rationale": "כף hija l-pala tal-id miftuħa fil-talb, mhux sempliċement 'id'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמים",
+      "rationale": "Il-plural ta' דם — 'dmijiet', demm mbuttat b'mod plurali; il-Malti jagħti singular."
+    }
+  ],
+  "translation": "U meta tferrħu l-palauni tagħkom, inaqqas għajnejja minnkom; anki meta tkathru talb, jien ma nismax; idejkom mimlija demm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/1\/13-16.1792610898620.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "U meta tferrħu"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "l-palauni tagħkom"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "inaqqas"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejja"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "minnkom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "tkathru"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "talb"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "jien ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nismax"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "idejkom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "demm"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mimlija"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:18.622122985Z",
+  "model": "glm-5.3"
+}

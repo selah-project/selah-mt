@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שומר\/ישמיד",
+      "rationale": "jħares kontra jeqred — żewġ għeruq מל pes bejn iż-żewġ nofsi tal-vers, arja nieqsa fil-Malti"
+    }
+  ],
+  "translation": "Iħares Jaħwe ⟨את⟩ lil dawk kollha li jħobbu, u ⟨את⟩ lill-ħżiena kollha jeqred.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/145\/17-20.1792618254525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Iħares"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil dawk kollha li jħobbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "dawk li jħobbu"
+    },
+    {
+      "surface": "וואת",
+      "gloss": "⟨את⟩",
+      "marks": "lill-ħżiena kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "lill-ħżiena"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "jeqred"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:54.526664746Z",
+  "model": "glm-5.3"
+}

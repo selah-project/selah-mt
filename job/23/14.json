@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 23:14",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ verb eżistentjali li ma hemmx fl-Ebrajk"
+    },
+    {
+      "kind": "crux",
+      "subject": "חקי",
+      "rationale": "'l-ħaqq \/ id-digriet tiegħi' (daqqa kontra Ġob) jew 'il-porzjon Mogħti lili'; l-anzjani qraw it-tnejn"
+    }
+  ],
+  "translation": "Għax Hu jikkompli l-ħaqq tiegħi, u bħal dawn ħafna hemm miegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/23\/13-16.1792619487675.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "ישלים",
+      "gloss": "jikkompli"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "l-ħaqq tiegħi"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "u bħal dawn"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:51:27.676192942Z",
+  "model": "glm-5.3"
+}

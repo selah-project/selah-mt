@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היתרת",
+      "rationale": "il-loppu tal-fwied: 'iż-żieda tal-fwied' vs 'il-kliewi' — ktibt 'iż-żieda ta' fuq il-kliewi' b'taħlita"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכבד",
+      "rationale": "il-fwied — ktibt 'il-kliewi' b'żball; il-fwied huwa הכבד"
+    }
+  ],
+  "translation": "u ⟨את⟩ żewġ il-kliewi, u ⟨את⟩ ix-xaħam li hemm fuqhom, li hemm fuq il-ġnub, u ⟨את⟩ iż-żieda ta' fuq il-kliewi ma' l-imsaren inehħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/3\/9-12.1792600381595.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "żewġ il-kliewi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "il-kliewi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ix-xaħam"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ix-xaħam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "il-ġnub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iż-żieda ta' fuq il-kliewi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "iż-żieda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta' fuq"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "il-kliewi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "l-imsaren"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "inehħu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:01.596721271Z",
+  "model": "glm-5.3"
+}

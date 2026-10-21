@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jiznew",
+      "rationale": "il-verb זנה fil-Hiphil (והזנו) huwa kkawżattiv: 'jagħmlu wliedek jiznew'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וזנו ... והזנו",
+      "rationale": "l-istess għerq darbtejn — l-atti tagħhom jixbtu lil wliedek"
+    }
+  ],
+  "translation": "U tieħu minn bnietu għal wliedek, u l-bniet tiegħu jiznew wara l-allat tagħhom, u jdaħħlu lil ⟨את⟩ wliedek biex jiznew wara l-allat tagħhom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ee0715402b3258dedc41e0ed42b2c7c9aa9b1feb58c64b69706f7868f29e4bdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/34\/13-16.1792600154643.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "u tieħu"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "minn bnietu"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "għal wliedek"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "u jiznew"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "l-bniet tiegħu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "l-allat tagħhom"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "u jdaħħlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil wliedek"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "lil wliedek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "l-allat tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:29:14.644760806Z",
+  "model": "glm-5.3"
+}

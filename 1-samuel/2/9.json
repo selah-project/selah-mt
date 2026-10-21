@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ suġġett għal ישמר, il-Lhudi ma għidx"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידמו",
+      "rationale": "'jinħabsu fil-ħajja' (jinħabsu għal dejjem) kontra 'jistħtu' — minn דמם, li t-tnejn huwa possibbli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האסיד",
+      "rationale": "ħasid = il-persuna fid-dawl ta' חסד; 'qaddis' iwassal biss lejn nofs il-figura"
+    }
+  ],
+  "translation": "Saqajn il-ħasid tiegħu ⟨hu⟩ jħares, u l-ħżarħħien fid-dlam jidmu; għax mhux bil-qawwa jagħti ruħu l-irġiel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/2\/9-12.1792607615543.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "saqajn"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "il-ħasid tiegħu"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "u l-ħżarħħien"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "fid-dlam"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "jidmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "bil-qawwa"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "jagħti ruħu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l-irġiel"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:35.543709992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Imraffna",
+      "rationale": "צרף huwa terminu tal-metallurġija — tittratta l-fidda fin-nar; il-figura tat-tisfija tinżamm."
+    },
+    {
+      "kind": "addition",
+      "subject": "ha",
+      "rationale": "Il-pronum suffiss fuq אהבה jirreferi għall-kelma; il-Malti jeħtieġ 'iħobbha'."
+    }
+  ],
+  "translation": "Imraffna ferm il-kelma tiegħek, u l-qaddej tiegħeħ iħobbha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/137-140.1792618085339.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "Imraffna"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "il-kelma tiegħek"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ferm"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "u l-qaddej tiegħeħ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "iħobbha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:05.340025615Z",
+  "model": "glm-5.3"
+}

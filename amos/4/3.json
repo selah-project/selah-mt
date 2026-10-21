@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 4:3",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ההרמונה",
+      "rationale": "Kelma li tinstab hawn biss fit-Tanakh; post mhux magħruf (Jebel as-Sayyid? Ħermon?)"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-Harmona",
+      "rationale": "Post proprju, il-muntanja Ħermon, jew 'il-palazz' (minn רום) — l-aqwa qlub ta' tradutturi jaqgħu hawn"
+    },
+    {
+      "kind": "addition",
+      "subject": "kull",
+      "rationale": "אשה נגדה — 'mara quddiemha'; 'kull' miżjud biex il-plural jifhem"
+    }
+  ],
+  "translation": "U bit-tqassrież toħorgu, kull mara quddiemha, u tittrembmun sa l-Harmona, jgħid Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8201392b02767ec64cf02cab1fa1e3687c72369a0b49078c2d876b5d34698cbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/4\/1-4.1792615729385.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרצים",
+      "gloss": "bit-tqassrież"
+    },
+    {
+      "surface": "תצאנה",
+      "gloss": "toħorgu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kull mara"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "quddiemha"
+    },
+    {
+      "surface": "והשלכתנה",
+      "gloss": "u tittrembmun"
+    },
+    {
+      "surface": "ההרמונה",
+      "gloss": "sa l-Harmona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T20:48:49.386264465Z",
+  "model": "glm-5.3"
+}

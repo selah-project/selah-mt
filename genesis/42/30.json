@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר קשות",
+      "rationale": "Hebrew 'spoke hard\/harshly', rendered 'kellem bil-ħruxija'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתן אתנו כמרגלים",
+      "rationale": "'took us for spies' (KJV) vs 'made\/put us as spies' (YLT); Maltese 'ta lilna bħal spjjuni' keeps the literal 'gave\/put'"
+    }
+  ],
+  "translation": "Il-bniedem, sid l-art, kellem lilna ⟨את⟩ bil-ħruxija, u ta lilna ⟨את⟩ bħal spjjuni ta' l-art ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "5933c0637e91465dd8ddabbdc8d586683311ae72728660062db239ddca332a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/29-32.1792598984712.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kellem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "lilna ⟨את⟩",
+      "marks": "il-kliem bil-ħruxija li semgħna"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "bil-ħruxija"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ lilna",
+      "marks": "⟨את⟩ lilna"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "bħal spjjuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:44.713529203Z",
+  "model": "glm-5.3"
+}

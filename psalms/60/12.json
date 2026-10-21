@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-Elohim",
+      "rationale": "indirizz dirett lil Elohim b'mistoqsija ta' talba u lment"
+    },
+    {
+      "kind": "crux",
+      "subject": "ħin ta' זנחתנו",
+      "rationale": "ħidma li għaddiet ('li ċċaħħtna', KJV) jew preżenti persistenti ('qed iċċaħħtna', BSB 'Have You not rejected us')"
+    }
+  ],
+  "translation": "Mhux int, Elohim, li ċċaħħtna? U ma toħroġx, Elohim, ma' l-armati tagħna?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/60\/9-12.1792617202353.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mhux...?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "li ċċaħħtna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "toħroġx"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ma' l-armati tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:22.354648134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħarset",
+      "rationale": "המביט = li jħares b'attenzjoni; ma ntradmitx bħala parteċipa attiva"
+    }
+  ],
+  "translation": "Li jħares lejn l-art u titremex; jmiss lill-ġebel u jagħtu duħħan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/29-32.1792617830565.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "li jħares"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lejn l-art"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "u titremex"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "jmiss"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "lill-ġebel"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "u jagħtu duħħan"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:50.566163615Z",
+  "model": "glm-5.3"
+}

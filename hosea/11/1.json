@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'Meta\/When' (KJV, JPS) kontra 'Għax\/Because' (YLT) — l-ebda għarfien minn qabel dwar Matt 2:15."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Jaħwe jitkellem ma' u dwar ibnu Jisrael b'seħħa personali."
+    }
+  ],
+  "translation": "Meta Jisrael kien tifel, ħabbith, u minn Mitsrajim sejjaħt lil ibni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/11\/1-4.1792615529855.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tifel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ħabbith"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "u minn Mitsrajim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sejjaħt"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lil ibni"
+    }
+  ],
+  "timestamp": "2026-10-21T20:45:29.855943764Z",
+  "model": "glm-5.3"
+}

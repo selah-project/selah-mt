@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ verb eżistenti fejn il-Lhudi għandu biss frażi nominali"
+    },
+    {
+      "kind": "crux",
+      "subject": "דמיה",
+      "rationale": "'tifħir tas-skiet' (silenzju ta' devozzjoni li jistenna) kontra 'tifħir jistenna' (KJV 'praise waiteth') kontra 'siegħa mistrieħa'"
+    }
+  ],
+  "translation": "Lilek, taħt is-skiet, hemm it-tifħir, Elohim, f'Sjon; u lilek jitħallas il-wegħda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/65\/1-4.1792617330969.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Lilek"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "taħt is-skiet"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "it-tifħir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "f'Sjon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "u lilek"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "jitħallas"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "il-wegħda"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:30.970642792Z",
+  "model": "glm-5.3"
+}

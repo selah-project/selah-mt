@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Maltese copula supplied; Hebrew has no verb in the simile."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaħbatu",
+      "rationale": "כשל is to totter\/stumble through ankle-weakness; 'stumble' keeps the bodily picture."
+    }
+  ],
+  "translation": "It-triq tal-ħżiena hija bħad-dlam; ma jafux f'xi jaħbatu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f247464e99da4c63f87e67767afdfabe67bf5822e6f0e20f739ed98385275892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/4\/17-20.1792618434521.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "it-triq"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tal-ħżiena"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "bħad-dlam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafux"
+    },
+    {
+      "surface": "במה",
+      "gloss": "f'xi"
+    },
+    {
+      "surface": "יכשלu",
+      "gloss": "jaħbatu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:54.522666705Z",
+  "model": "glm-5.3"
+}

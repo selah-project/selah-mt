@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "job 34:37",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסיף\/יספוק",
+      "rationale": "Ellipsis ta' ħoss bejn 'jżid' u 'jisfar sakpar' bil-Lhudi (yosif\/yispoq), telfiet fit-traduzzjoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kliemu",
+      "rationale": "אמריו huwa 'l-qraw tiegħu', kelma poetika rari għal 'kliem' mhux il-kelma tas-soltu דברים."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לאל",
+      "rationale": "Yaqtu 'la-El' ('għal El', quddiem El) mhux biss 'kontra El'; il-KJV għandu 'against'."
+    }
+  ],
+  "translation": "Għaliex jżid fuq dnubu rribelljoni; bejnna jisfar sakpar, u jikber f'kliemu kontra El.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "962879fd937af09f115629d43fab09bada54a8bef18f2f850c6ae7c580647581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/34\/37-37.1792619699376.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "jżid"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dnubu"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rribelljoni"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "bejnna"
+    },
+    {
+      "surface": "יספוק",
+      "gloss": "jisfar sakpar"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "u jikber"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "f'kliemu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kontra El"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:59.377086925Z",
+  "model": "glm-5.3"
+}

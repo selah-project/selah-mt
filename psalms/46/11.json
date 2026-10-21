@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Nieqfu",
+      "rationale": "harpu bil-Lhudi huwa 'arloħ ħfirkom, slakkaw' — imperattiv kontra l-paniku, mhux sempliċement 'kun taħen'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארום...ארום",
+      "rationale": "Ripetizzjoni identika tal-verb 'għolla' fl-aħħar żewġ klawsoli, sens ta' rifu"
+    }
+  ],
+  "translation": "Nieqfu, u kunu jafu li jien Elohim; ngħolla fost in-nazzjonijiet, ngħolla fl-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/46\/9-12.1792617111486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Nieqfu"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "u kunu jafu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ngħolla"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fost in-nazzjonijiet"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ngħolla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:51.487367701Z",
+  "model": "glm-5.3"
+}

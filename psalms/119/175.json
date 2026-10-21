@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hija l-ħajja\/nifs, mhux ruħ fl-għerq Platuniku"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ħalli",
+      "rationale": "il-preżent jussiv Lhudi jittradutt b'verb talb miżjud bil-Malti"
+    }
+  ],
+  "translation": "Ħalli ruħi tgħix u tqarrek, u l-ġudizzji tiegħek jgħinuni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/173-176.1792618092015.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "tgħix"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "u tqarrek"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "u l-ġudizzji tiegħek"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "jgħinuni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:12.016680599Z",
+  "model": "glm-5.3"
+}

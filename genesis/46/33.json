@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 46:33",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se jkun",
+      "rationale": "il-verb futur meħtieġ bil-Malti għal והיה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħila",
+      "rationale": "מעשיכם litteralment 'l-għemejl tagħkom', jiġifieri l-ħila u l-ġid ta' kuljum"
+    }
+  ],
+  "translation": "U ⟨se jkun⟩ li meta Paro jsejjaħ lilkom, u jgħid: X'inhu l-ħila tagħkom?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "7a7eeaa7969d0de1ffab0635c00cfead3b504550f81fbd36e5b6a2227cbcb167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/46\/33-34.1792599001991.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u ⟨se jkun⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li meta"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "jsejjaħ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lilkom"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "u jgħid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'inhu"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "l-ħila tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:10:01.992377111Z",
+  "model": "glm-5.3"
+}

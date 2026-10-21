@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "litteralment 'riħi' — l-imrar ta' Alla jieħu l-forma tan-narīħ, m'għandux jiġi tradott b'kelma astratta biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "ħallini",
+      "rationale": "הניחה לי jista' jkun offerta li tistieden lis-suwwett ta' Moxe jew urden; it-traduzzjonijiet jaqsmu bejn 'ħallini' u 'aqbel milli nagħmel hekk'"
+    }
+  ],
+  "translation": "U issa ħallini, u jaħraq imrar riħi fuqhom u nikkonsmahom, u nagħmel ⟨את⟩ lilek għal ġens kbir.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/32\/9-12.1792600127458.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ħallini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "u jaħraq"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "immar riħi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "u nikkonsmahom"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "u nagħmel"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ lilek",
+      "marks": "lilek"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "għal ġens"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    }
+  ],
+  "timestamp": "2026-10-21T16:28:47.459713343Z",
+  "model": "glm-5.3"
+}

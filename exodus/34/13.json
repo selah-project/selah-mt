@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-istele",
+      "rationale": "מצבה huwa ġebla mitluqa (kolonna), mhux biss 'statwa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-Asserim",
+      "rationale": "אשרה: divinità femminili \/ arżnu tagħha — 'għelieqi' (groves) f'KJV hi traduzzjoni ħażina"
+    }
+  ],
+  "translation": "Għaliex ⟨את⟩ l-altieri tagħhom taqilgħu, u ⟨את⟩ l-istele tagħhom tkisruhom, u ⟨את⟩ l-Asserim tiegħu taqtgħuhom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ee0715402b3258dedc41e0ed42b2c7c9aa9b1feb58c64b69706f7868f29e4bdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/34\/13-16.1792600154643.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-altieri tagħhom"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "l-altieri tagħhom"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "taqilgħu"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-istele tagħhom"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "l-istele tagħhom"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "tkisruhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-Asserim tiegħu"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "l-Asserim tiegħu"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "taqtgħuhom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:29:14.644264748Z",
+  "model": "glm-5.3"
+}

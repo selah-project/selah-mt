@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קבע",
+      "rationale": "kelma rari 'kopri\/defrawd': 'jistaħsirhom' (jieħu l-ħajja tagħhom) jew 'jitlef lil dawk li defrawdhom'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש hija ħeġġa\/ħajja, mhux ruħ immortali"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "il-markatur ⟨את⟩ ma jistax jidher fil-Malti bla ħsara; kien jipponta lejn l-oġġett"
+    }
+  ],
+  "translation": "għaliex Jaħwe jiddefendi l-każ tagħhom, u jerfa' ruħ ⟨את⟩ dawk li jistħasruhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/22\/21-24.1792618837727.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "jiddefendi"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "l-każ tagħhom"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "u jerfa'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawk li jistħasruhom"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "dawk li jistħasruhom"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:40:37.728708688Z",
+  "model": "glm-5.3"
+}

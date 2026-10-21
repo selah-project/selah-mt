@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 28:8",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bejn iż-żewġ għaxxiet",
+      "rationale": "בין הערבים bil-qosra l-plural (dual): 'bejn iż-żewġ għaxxiet' — il-ħin tal-għaxija; il-forma tżżomm id-dualità taz-zekq."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bħala⟩",
+      "rationale": "M'hemmx prepożizzjoni qabel אשה fil-Lhudi; miżjuda biex tar-rabta tkun ċara."
+    }
+  ],
+  "translation": "U ⟨את⟩ il-ħaruf it-tieni tagħmlu bejn iż-żewġ għaxxiet; bħall-minħa ta' filgħodu u bħan-nisk tagħha tagħmlu ⟨bħala⟩ offerta tan-nar, riħ ta' hena lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7672d6aeecda68b44684de4677fa4f24e49ca3ff994455892f4c1817dddc7ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/28\/5-8.1792605010611.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħaruf it-tieni"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "il-ħaruf"
+    },
+    {
+      "surface": "השני",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmlu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iż-żewġ għaxxiet"
+    },
+    {
+      "surface": "כמנחת",
+      "gloss": "bħall-minħa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ta' filgħodu"
+    },
+    {
+      "surface": "וכנסכו",
+      "gloss": "ubħan-nisk tagħha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmlu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta tan-nar"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "riħ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ta' hena"
+    },
+    {
+      "surface": "ליהווה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T17:50:10.612851612Z",
+  "model": "glm-5.3"
+}

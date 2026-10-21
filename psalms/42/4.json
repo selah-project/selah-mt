@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ verbji kopula għal 'Fejn' li l-Lhudi jlaħħaqha kelma waħda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם ולילה \/ כל היום",
+      "rationale": "it-traduzzjoni tqassam il-kelma כל היום f'kuljum waħda biex tevita r-repetizzjoni tqil ta' 'jum'"
+    }
+  ],
+  "translation": "Saret għalija d-dmugħ tiegħi ħobż, binhar u billejl, meta jgħiduli kuljum: Fejn hu Elohim tiegħek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/42\/1-4.1792617072051.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Saret"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "id-dmugħ tiegħi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "binhar"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "u billejl"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "meta jgħidu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "-li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "(il-jum)"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Fejn hu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:12.052567993Z",
+  "model": "glm-5.3"
+}

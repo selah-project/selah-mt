@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משמאל לדמשק",
+      "rationale": "litteralment 'fuq ix-xellug ta' Damasku' — l-orjentazzjoni Lhudija tiffaċċja l-lvant, mela x-xellug = it-tramuntana; 'tramuntana ta'' jikkwadra ġeografikament"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחלק",
+      "gloss": "",
+      "rationale": "'qasam (l-forzi) kontrihom' — il-verbi jfissru azzjoni militari maħsuba, mhux għażla każwali"
+    }
+  ],
+  "translation": "U qasamhom bil-lejl, hu u qaddejja tiegħu, u ħadithom, u taħabbhom sa Ħoba, li hija fuq ix-xellug ta' Damasku.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/14\/13-16.1792597946579.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "u qasam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "-hom"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "u qaddejja tiegħu"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "u ħadithom"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "u taħabbhom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "Ħoba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "fuq ix-xellug"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "ta' Damasku"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:26.581074238Z",
+  "model": "glm-5.3"
+}

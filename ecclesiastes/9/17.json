@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bil-mistrieħ",
+      "rationale": "בנחת literally 'bi qbuzija' — trankwillità, bil-kalm; mhux sempliċiment 'silenzju'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מושל",
+      "rationale": "qari ġerundju 'min jikkmanda' vs sustantiv 'mexxej\/sultan'; il-kliem jista' jkun it-tnejn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמים\/כסילים",
+      "rationale": "kuntrast ħarġef\/ignoranti jikkontesta ma' 9:16, dawra fuq l-istess tema"
+    }
+  ],
+  "translation": "Il-kliem tal-għorief jinstemgħu bil-mistrieħ, aktar minn ċrieħ ta' min jikkmanda fost l-ignoranti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4942a5bb515b16e718bf405fea6d11ec38523fd37d1c5d9bf58424b5c7cf178a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/9\/17-18.1792620285648.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Il-kliem"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "tal-għorief"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "bil-mistrieħ"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "jinstemgħu"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "minn ċrieħ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ta' min jikkmanda"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "fost l-ignoranti"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:45.648887008Z",
+  "model": "glm-5.3"
+}

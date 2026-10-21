@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סתר",
+      "rationale": "'moħbi\/kopertura' — KJV 'covert', BSB 'ravine'; il-kelma tfisser post mgħotti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלתה הרעה f' v.17 \/ לקראתה",
+      "rationale": "לקראת tfisser 'biex tiltaqa' ma' magħha', mhux biss 'kontra'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "għal רכבת על il-Malti jgħaqqad f'tmur bil-ħmar; il-prepożizzjoni tlittbet ġewwa l-verb"
+    }
+  ],
+  "translation": "U kien hi tkun tmur bil-ħmar u nieżla fin-naħa moħbija tal-muntanja, u ara, David u l-irġiel tiegħu jinżluilhiēha u tilqathom ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/17-20.1792608358276.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "tkun tmur bil-"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ħmar"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "u nieżla"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "fin-naħa moħbija"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tal-muntanja"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "u l-irġiel tiegħu"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "jinżlu"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "biex jiltaqgħu magħha"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "u tilqathom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lilhom (David u l-irġiel tiegħu)"
+    }
+  ],
+  "timestamp": "2026-10-21T18:45:58.277966031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "Suffiss possessiv miżjud bir-reġistratur Malti għal ċarezza, kif fis-sors ma jidhirx bħala kelma separata."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nieqetni",
+      "rationale": "נחר: ħaraq, nibet, ifran — ”inħaraqni\/nieqetni” għal ħalq nixef bil-ħeġġa."
+    }
+  ],
+  "translation": "Għejjt b'ħeġġa'i, nieqetni ħalqi, għejjew għajnejn fil-waar għal Elohim tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/1-4.1792617348802.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "għejjt"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "b'ħeġġa'i"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "nieqetni"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ħalqi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "għejjew"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejn"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "fil-waar"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "għal Elohim tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:48.802915624Z",
+  "model": "glm-5.3"
+}

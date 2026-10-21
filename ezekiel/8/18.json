@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "l-aleph-tav mal-pronom suffissat; il-glossa Maltija 'lilhom' ġiet meħuda bħala l-objett dirett tal-verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bl-aħrax",
+      "rationale": "בחמה tfisser 'is-sħana', użata għar-rabja; il-Malti jitlef il-ħoss ta' 'ħamiem'"
+    }
+  ],
+  "translation": "U jien ukoll naġmel bl-aħrax; għajni ma ttiefx ħniena u lanqas nierħa; u jgħajtu f'widnejja b'leħen għoli, u jien ma nisimgħax ⟨את⟩ lilhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "77b8fa1e0b355580b60e4b4872b538b2f2dd331c7959ac955c28091a6d4da268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/8\/17-18.1792614120262.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "u ukoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "naġmel"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "bl-aħrax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ttiefx ħniena"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "nierħa"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "u jgħajtu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "f'widnejja"
+    },
+    {
+      "surface": "קול",
+      "gloss": "b'leħen"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "għoli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nisimgħax"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ lilhom",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-10-21T20:22:00.263614803Z",
+  "model": "glm-5.3"
+}

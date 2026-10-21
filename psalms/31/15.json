@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-fiduża tiegħi",
+      "rationale": "il-Malti jeħtieġ nominali wara 'tqiegħed'; il-Lhudi għandu biss il-verb בטחתי"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jaħwe",
+      "rationale": "appell dirett lil Jaħwe b'ismu u b'dikjarazzjoni ta' fiduża"
+    }
+  ],
+  "translation": "Iżda jiena fuqek tqiegħedt il-fiduża tiegħi, Jaħwe; għidt: Elohim tiegħi inti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/31\/13-16.1792616836194.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "iżda jiena"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tqiegħedt il-fiduża tiegħi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:16.195571651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Hawn את hija prepozizzjoni (H854) li tfisser 'ma'', mhux l-oġġett dirett; żammejtha bħala ⟨את⟩ skont ir-regola."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tnax-il ħutu",
+      "rationale": "Għadd ta' aħwa msemmi b'mod esatt, mhux imtedded."
+    },
+    {
+      "kind": "elision",
+      "subject": "איננו",
+      "rationale": "'ma hemmx \/ m'għadux' — negativity sħiħa fi kelma waħda."
+    }
+  ],
+  "translation": "U qalu: Tnax-il ħutu, l-ilsiera tiegħek, aħna aħwa, ulied raġel wieħed fl-art Kenaan; u araw, l-iżgħar ⟨את⟩ missirna llum, u wieħed m'għadux.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/13-16.1792598952658.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "U qalu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Tnax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-il"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "l-ilsiera tiegħek"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "aħwa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u araw"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "l-iżgħar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "missirna"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "missirna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "llum"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "u wieħed"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "m'għadux"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:12.659079471Z",
+  "model": "glm-5.3"
+}

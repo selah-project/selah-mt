@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבנים",
+      "rationale": "Dwal ta' אבן: 'żewġ ġebel' (siġġu tal-levatriċi) jew il-mitħna tal-faħħam; il-kelma tħares lejn iż-żewġ ma'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וחיה",
+      "rationale": "Jista' jkun imperattiv 'ħiha' (għal dawk li jisimgħu) jew futur 'tgħix'"
+    }
+  ],
+  "translation": "u qal: Meta tqiegħdu lit-tfal tan-nisa Ebrej, u tarawhom fuq iż-żewġ ġebel: jekk iben hu, qtuluh; u jekk bint hi, ħallitha ħajja.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/1\/13-16.1792599155844.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "Meta tqiegħdu lit-tfal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tan-nisa Ebrej"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "tan-nisa Ebrej"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "u tarawhom"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "iż-żewġ ġebel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "qtuluh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iben"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ħallitha ħajja"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:35.846199505Z",
+  "model": "glm-5.3"
+}

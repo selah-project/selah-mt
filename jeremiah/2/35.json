@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 2:35",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "il-כי hawn jaqbel għal-null; il-konnessjoni diġà miżjuda mal-verb 'għedt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħadbu",
+      "rationale": "אף verament 'mnieħer\/nostrils' — id-dawl ta' rabja; bil-Malti 'ħadbu' (ġbid għajnejh) jerfgħu il-marka."
+    }
+  ],
+  "translation": "U għedt: Jien ħieles; żgur ir-riħa ta' ħadbu tirpilja minni. Ara, jien għadni nġġudikawk minħabba kliemek: Ma dnobtx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "281c7d884e89a2049df56feed76be65f1193cc8e9225dcd7ef3019887ee0a67f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/2\/33-36.1792612357589.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "U għedt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "Jien ħieles"
+    },
+    {
+      "surface": "אך",
+      "gloss": "żgur"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tirpilja"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ir-riħa ta' ħadbu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ara, jien għadni"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "nġġudikawk"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "kliemek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dnobtx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:52:37.590626472Z",
+  "model": "glm-5.3"
+}

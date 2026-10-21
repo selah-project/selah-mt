@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "minn Geba sa Gezer",
+      "rationale": "il-versa jkejjel il-firxa ġeografika tar-rebħa bejn żewġ postijiet"
+    },
+    {
+      "kind": "crux",
+      "subject": "באך",
+      "rationale": "'sa ma tiġi' — it-tieni persuna singular (il-qarrej\/is-semmiegħ), mhux 'il-ħin li ġie'; il-bibbliji jaqsmu hawn"
+    }
+  ],
+  "translation": "U David għamel hekk, kif ħallstu Jaħwe, u laqat lil ⟨את⟩ il-Filistin minn Geba sa ma tiġi għaż-Żeżer.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/5\/25-25.1792608533238.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ħallstu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "u laqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Filistin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "il-Filistin"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "minn Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ma tiġi"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "għaż-Żeżer"
+    }
+  ],
+  "timestamp": "2026-10-21T18:48:53.238868970Z",
+  "model": "glm-5.3"
+}

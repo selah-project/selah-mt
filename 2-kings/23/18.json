@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איש אל ינע",
+      "rationale": "Negazzjoni ebraika 'raġel mela jċaqlaq' = 'ħadd ma jċaqlaq'.",
+      "target": "ħadd ma jċaqlaq"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וימלטו",
+      "rationale": "Lens 'ħelsaw\/ħarġlu' — il-għadam 'naqbu milli' jintużaw; ittraskinnajt b'sens attiv.",
+      "target": "u ħelsu"
+    }
+  ],
+  "translation": "U qal: Ħallu lilu; ħadd ma jċaqlaq ⟨lil⟩ għadamu. U ħelsu għadamu flimkien ma' ⟨את⟩ għadam il-profeta li ġie minn Somron.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/17-20.1792610819121.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "Ħallu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħadd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "jċaqlaq"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "għadamu"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "u ħelsu"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "għadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għadam il-profeta"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "għadam"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il-profeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "minn Somron"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:59.123862531Z",
+  "model": "glm-5.3"
+}

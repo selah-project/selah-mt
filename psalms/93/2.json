@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "L-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאז \/ מעולם",
+      "rationale": "tgergir ta' żewġ kliem tal-ħin wieħed wara l-ieħor, qrib tal-qedem tal-Lhudi"
+    }
+  ],
+  "translation": "Stabbilit minn dak iż-żmien ⟨hija⟩ t-tron tiegħek; minn żmien il-qedem inti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "34da5ee204e8d6b7ab0aa070ef43b3116086a57bbee031892d505fe4f8f74b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/93\/2-3.1792623803653.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "stabbilit"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "it-tron tiegħek"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "minn dak iż-żmien"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "minn żmien il-qedem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:23.653826722Z",
+  "model": "glm-5.3"
+}

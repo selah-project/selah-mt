@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fuq",
+      "rationale": "Il-Lhudi għandu biss המזבחה bla prepożizzjoni; il-Malti jehtieġ 'fl-artal'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "riħa pjaċevoli",
+      "rationale": "ריח ניחוח literalment 'riħa ta' mistrieħ' — idjom ta' offerta aċċettata"
+    }
+  ],
+  "translation": "U l-ġewwa tiegħu u saqajh jiġu maħsula bl-ilma; u l-qassis jinaqqas ⟨את⟩ il-koll fl-artal: olosta, offerta tan-nar, riħa pjaċevoli għal Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/1\/9-12.1792600451661.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "l-ġewwa tiegħu"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "saqajh"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "jiġi maħsul"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bl-ilma"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "jinaqqas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-koll"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "il-koll"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "fl-artal"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olosta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta tan-nar"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "riħa"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "pjaċevoli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:11.662143932Z",
+  "model": "glm-5.3"
+}

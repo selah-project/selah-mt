@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "misluf",
+      "rationale": "גר huwa min joqgħod bħala barrani fost Israel; 'misluf' jaqbad il-ħoss tal-għajxien mal-ġens ieħor"
+    },
+    {
+      "kind": "you",
+      "subject": "Minn fejn int?",
+      "rationale": "David jindirizza direttament lill-Amalekit"
+    }
+  ],
+  "translation": "U David qal lill-iżagħżugħ li kien jarraflu: Minn fejn int? U huwa qal: Iben raġel misluf, Amalekit, jien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/1\/13-16.1792608482296.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "iżagħżugħ"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "li kien jarraflu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Minn"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "גר",
+      "gloss": "misluf"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    }
+  ],
+  "timestamp": "2026-10-21T18:48:02.296751730Z",
+  "model": "glm-5.3"
+}

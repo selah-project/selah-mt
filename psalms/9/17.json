@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Higgajon Selaħ",
+      "rationale": "termini mużikali Lhud mhux tradotti, miktuba skont il-ħoss"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "l-għarbu li l-Malti jeħtieġ għall-kostruzzjoni passiva 'magħruf hu'"
+    }
+  ],
+  "translation": "Magħruf hu Jaħwe, ġudizzju għamel; fl-għemil ta' idejh inqabad l-ħażin. Higgajon. Selaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/17-20.1792616534219.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Magħruf hu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ġudizzju"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "fl-għemil"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ta' idejh"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "inqabad"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "l-ħażin"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:14.220401751Z",
+  "model": "glm-5.3"
+}

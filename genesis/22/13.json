@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 22:13",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ċerv",
+      "rationale": "איל huwa ċerv (ram) skont it-tabella tal-annimali; mhux 'muntun' jew 'pantera'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olokausto",
+      "rationale": "לעלה = offronda maħruqa sħiħa, 'dak li jitla' lejn Elohim"
+    }
+  ],
+  "translation": "U Avraham għolla ⟨את⟩ għajnejh u ra, u aruna ċerv wara, maqbud fis-siġar imħabbtin bl-qrun tiegħu; u Avraham mar u ħa ⟨את⟩ il-ċerv, u offrih għal olokausto flok ibnu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/22\/13-16.1792598214030.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "għolla"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għajnejh"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "għajnejh"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "u ra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u aruna"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ċerv"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wara"
+    },
+    {
+      "surface": "נאחז",
+      "gloss": "maqbud"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "fis-siġar imħabbtin"
+    },
+    {
+      "surface": "בקרניו",
+      "gloss": "bl-qrun tiegħu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ċerv"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il-ċerv"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "u offrih"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "għal olokausto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "flok"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:54.031075106Z",
+  "model": "glm-5.3"
+}

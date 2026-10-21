@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונאספו נאספו",
+      "rationale": "għażla doppja ta' אסף — il-ġabra tirrepeti bħal għajd, ma tinstax bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "f'żriġi",
+      "rationale": "בצלעי: 'f'żriġi' (meta żrent, YLT) kontra 'fl-avversità tiegħi' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-aħfar",
+      "rationale": "נכים litteralment 'dawbaturi', figurattivament qattieħa tal-isem — 'aħfar'"
+    }
+  ],
+  "translation": "Imma f'żriġi ferħu u ġabaraw; inġabaraw kontrija l-aħfar, u jien ma kontx naf; qatgħuni u ma waqfux.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/13-16.1792616971657.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "imma f'żriġi"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ferħu"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "u ġabaraw"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "inġabaraw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "l-aħfar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kontx naf"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "qatgħuni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "waqfux"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:31.658488764Z",
+  "model": "glm-5.3"
+}

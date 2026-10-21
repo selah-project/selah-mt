@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nofsha",
+      "rationale": "בתוכה 'f'nofsha' — fis-sit ta' fuq, jiġifieri f'nofs ix-xmajjar ta' Babilon."
+    }
+  ],
+  "translation": "Fuq is-siġar tal-inxir f'nofsha ddejlina l-kinuri tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/137\/1-4.1792618197516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Fuq"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "is-siġar tal-inxir"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "f'nofsha"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ddejlinа"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "l-kinori tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:57.517064839Z",
+  "model": "glm-5.3"
+}

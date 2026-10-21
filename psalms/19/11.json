@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Huma",
+      "rationale": "Il-pronom fil-Malti jirreferi għal-pikkudim\/mitsvot tal-versi ta' qabel; il-Lhudi jibda bl-artiklu partiċipali."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nopet tas-suf",
+      "rationale": "נפת צופים litteralment 'qatra li tinżel mill-kraxx tal-għasel' — żewġ kelmiet Lhud għal wicked waħda semantika."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צופים",
+      "rationale": "Il-kelma għall-kraxx tal-għasel tidher fi ftit postijiet biss; il-menti tagħha speċifiku u konkret."
+    }
+  ],
+  "translation": "Huma maħbuba iktar mid-deheb, iva, minn ħafna deheb fin; u ħelwin iktar mill-għasel u n-nopet tas-suf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/19\/9-12.1792616711351.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "maħbuba"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "mid-deheb"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "minn deheb fin"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "ħelwin"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "mill-għasel"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "in-nopet"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "tas-suf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:11.352679723Z",
+  "model": "glm-5.3"
+}

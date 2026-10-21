@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igħollik għoli",
+      "rationale": "ישגב = jagħmel 'il għoli \/ ma jaqxgħux — 'proteġi' ta' KJV titlef it-tixbit tal-għoli"
+    },
+    {
+      "kind": "you",
+      "subject": "lir-re",
+      "rationale": "Appell dirett b'seconda persuna — talb għal ħaddieħor, probabbilment ir-re qabel il-battalja"
+    }
+  ],
+  "translation": "Iwieġbek Jaħwe f'jum it-tbatija; isem Elohim ta' Jagħaqov igħollik ⟨għoli⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/20\/1-4.1792616759624.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Iwieġbek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "it-tbatija"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "igħollik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:59.624607749Z",
+  "model": "glm-5.3"
+}

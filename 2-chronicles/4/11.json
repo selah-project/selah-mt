@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-qaddarov",
+      "rationale": "הסירות: qaddarov tal-bronż għall-ħadir, mhux 'ċomb' tad-djar; eżatt l-istess kelma tista' tfisser 'xewk'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ħuram\/Ħiram",
+      "rationale": "l-istess bniedem miktub b'żewġ forom fil-verb wieħed stess: חורם u חירם; miżmuma t-tnejn fil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "f'dar Elohim",
+      "rationale": "il-Malti jeħtieġ il-prepożizzjoni imwaħħla għal בבית, waħda mal-Lhudi"
+    }
+  ],
+  "translation": "U Ħuram għamel ⟨את⟩ il-qaddarov u ⟨את⟩ l-għarbiel u ⟨את⟩ il-tnabar; u Ħiram spicċa jagħmel ⟨את⟩ il-ħidma li għamel għar-re Slimun f'dar Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "25671b9654d4442c6d09b5a33a369474496b823e83ef909018843d2487ebf138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/10-11.1792624025721.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "U għamel"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Ħuram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qaddarov"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "il-qaddarov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "l-għarbiel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "il-tnabar"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "u spicċa"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ħiram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħidma"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "il-ħidma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "għar-re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Slimun"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:05.721933996Z",
+  "model": "glm-5.3"
+}

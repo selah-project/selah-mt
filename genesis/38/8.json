@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויבם",
+      "rationale": "verb rari ħafna (yibbem, levirat): 'aġixxi bħala levir' vs 'żżewwiġha' (KJV) — il-kelma tiddeskrivi d-dmir tal-ħu l-mewt, mhux żwieġ ordinju"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Onan",
+      "rationale": "imperattiv dirett ta' Jehuda lil Onan: 'Iddħol… aġixxi… qqegħed'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "żer'",
+      "rationale": "זרע tfisser 'żer'', u għalhekk telid — il-plural ta' Ġen 1 jibqa' ssemà"
+    }
+  ],
+  "translation": "U Jehuda qal lil Onan: Iddħol għand mara ħok, u aġixxi magħha bħala levir, u qqegħed żer' għal ħok.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/38\/5-8.1792598774919.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "lil Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Iddħol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ħok"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "u aġixxi bħala levir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "magħha"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "u qqegħed"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "żer'"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "għal ħok"
+    }
+  ],
+  "timestamp": "2026-10-21T16:06:14.920809601Z",
+  "model": "glm-5.3"
+}

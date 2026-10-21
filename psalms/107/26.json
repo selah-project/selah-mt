@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħhom",
+      "rationale": "נפש mhix 'anima' biss — ħajja\/nifs; ruwaħ tgħattiha"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "il-kopula Maltija ma tinsabx fil-Lhudi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ittlu\/inżlu",
+      "rationale": "l-antitesi smewwiet\/Imgħarqin tiżżomm l-għola u l-ikbira tal-fond"
+    }
+  ],
+  "translation": "Ittlu sal-smewwiet, inżlu għall-Imgħarqin; ruwaħhom fiż-żgħir kienet tidub.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/25-28.1792617876465.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ittlu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sal-smewwiet"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "inżlu"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "għall-Imgħarqin"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ruwaħhom"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "fiż-żgħir"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "kienet tidub"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:36.465712336Z",
+  "model": "glm-5.3"
+}

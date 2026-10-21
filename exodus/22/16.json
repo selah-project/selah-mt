@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאן ימאן",
+      "rationale": "Infinitiv assolut + verb mill-għerq מאן — 'jċaħad jċaħad', id-doppja riflessa b''jċaħad bil-kbir jċaħad'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jeżen fidda",
+      "rationale": "il-pagi tal-fidda tiżen — miżin skont il-ħlas tal-ħraxes"
+    }
+  ],
+  "translation": "Jekk missierha jċaħad bil-kbir li ma jagħtihax lilu, jeżen fidda skont il-ħlas tal-ħraxes.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/13-16.1792599759231.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "jċaħad bil-kbir"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "jċaħad"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "missierha"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "li ma jagħtihax"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "jeżen"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "skont il-ħlas"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "tal-ħraxes"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:39.232845524Z",
+  "model": "glm-5.3"
+}

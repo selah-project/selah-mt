@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nafşi",
+      "rationale": "nefeš: nifs\/ħajja, mhux ruħ b'sens platoniku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ħenn...ħenn \/ sibet kenn...insib kenn",
+      "rationale": "it-tkarkir ta' ħanan u ħasa ma jgħaddix mit-traduzzjoni"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-qaħba ta' David",
+      "rationale": "talba diretta lil Elohim"
+    }
+  ],
+  "translation": "Ħenn għalija, Elohim, ħenn għalija, għax fiek nafşi sibet kenn, u fid-dell tal-ġwienaħ tiegħek insib kenn, sa ma jgħaddu l-ħsarat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/57\/1-4.1792617252812.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ħenn għalija"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ħenn għalija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fiek"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "sibet kenn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafşi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "u fid-dell"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tal-ġwienaħ tiegħek"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "insib kenn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "jgħaddu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "l-ħsarat"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:12.812731985Z",
+  "model": "glm-5.3"
+}

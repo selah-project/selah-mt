@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 31:2",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלק",
+      "gloss": "'portion\/allotment' rendered 'jaċċatta' (share); glosses 'lotto' or 'porzjon' possible"
+    },
+    {
+      "kind": "alternative",
+      "subject": "verse 2 connection",
+      "rationale": "may read as Job's question ('what portion would I have?') or as continuation of verse 1 ('how could I… when what portion…?')"
+    }
+  ],
+  "translation": "Għaliex, jaċċatta Elowaħ minn fuq, u wirt ta' Xaddaj mill-għolieq?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b5ac2bfc9d09541da6be469023606aef4302fad1a3253832f911418c0059726f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/31\/1-4.1792619614355.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "jaċċatta"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elowaħ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "u wirt"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ta' Xaddaj"
+    },
+    {
+      "surface": "ממרמים",
+      "gloss": "mill-għolieq"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:34.355759014Z",
+  "model": "glm-5.3"
+}

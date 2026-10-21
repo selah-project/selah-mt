@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ il-verb 'kien' għall-passat imwettaq; il-Lhudi għandu biss מת."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dak li jġorr il-ħwejjeġ",
+      "rationale": "נשא כליו biss jgħid 'il-berrier tal-ħwejjeġ tiegħu', mingħajr kelma għal 'armurbearer'."
+    }
+  ],
+  "translation": "U ra dak li jġorr il-ħwejjeġ tiegħu li Xa'ul kien miet, u waqa' wkoll hu stess fuq ix-xabla u miet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/10\/5-8.1792621914466.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "u ra"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dak li jġorr"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "il-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kien miet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xa'ul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "u waqa'"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wkoll"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu stess"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ix-xabla"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "u miet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:54.467312741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירכו",
+      "rationale": "kosca — l-ewwel post tal-xabla fis-sieqta; kultant eufemiżmu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלילות",
+      "rationale": "plural ta' 'lejliet' mhux lejl wieħed — biża' li ddum"
+    }
+  ],
+  "translation": "Kollha jżommu x-xabla, mgħallma tal-gwerra; kull raġel x-xabla tiegħu fuq kosctu, minn biża' fil-lejliet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/5-8.1792619951299.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Kollha"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "jżommu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "xabla"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mgħallma"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "tal-gwerra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull raġel"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "x-xabla tiegħu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "kosctu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "minn biża'"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "fil-lejliet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:59:11.300879416Z",
+  "model": "glm-5.3"
+}

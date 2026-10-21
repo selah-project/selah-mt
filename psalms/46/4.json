@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהמו יחמרו",
+      "rationale": "Żewġ verbi tal-ġrajjiet konsonantiċi (h-m \/ ħ-m-r) jiddeskrivu l-baħar jagħli — ritmu mimli bl-istess ħsejjes."
+    },
+    {
+      "kind": "crux",
+      "subject": "בגאותו",
+      "rationale": "'fil-kobor tagħha' (tal-baħar, femminil bil-Malti) — il-Lhudi singular; xi jaqraw 'bi tkabbir' jew 'bir-ragħwa tagħha'."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Istruzzjoni mużikali, trażmess bħala isem: Sela."
+    }
+  ],
+  "translation": "Jgħajtu, jorqu l-ilmijiet tiegħu; jirtremu l-għoljiet fil-kobor tagħha. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/46\/1-4.1792617031269.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Jgħajtu"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "jorqu"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "l-ilmijiet tiegħu"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "jirtremu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "l-għoljiet"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "fil-kobor tagħha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:31.269977988Z",
+  "model": "glm-5.3"
+}

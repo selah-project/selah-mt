@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 41:7",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאוה אפיקי מגנים",
+      "rationale": "'his pride — rows of shields': גאוה can be concrete 'ornament'; alternatives: 'his pride is in the rows of his shields' (the scales)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "siġill tent",
+      "rationale": "חותם צר literally 'a seal pressed tight'; 'tent' renders צר (narrow\/close-fitting)"
+    }
+  ],
+  "translation": "Il-kburija — korsiji ta' tarki, magħluqa bħal siġill tent.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/41\/5-8.1792619822894.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאוה",
+      "gloss": "il-kburija"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "korsiji ta'"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "tarki"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "magħluqa"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "bħal siġill"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tent"
+    }
+  ],
+  "timestamp": "2026-10-21T21:57:02.895611816Z",
+  "model": "glm-5.3"
+}

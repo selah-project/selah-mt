@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 15:6",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "żewġ isaron, terz ta' hin",
+      "rationale": "Grain measure: two tenths (of an efa) of flour; oil measure: a third of a hin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dqiq",
+      "rationale": "סלת literally flour 'chipped off' — fine flour."
+    }
+  ],
+  "translation": "Jew għal muntun tagħmel minħa, dqiq, żewġ isaron, imħallta bż-żejt, terz ta' hin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0da9bec413acc667c13e32759aeeba09f1fc45b6c3ddbacf5770a52b063cc359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/15\/5-8.1792602785402.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Jew"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "għal muntun"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minħa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "dqiq"
+    },
+    {
+      "surface": "שני",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "isaron"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "imħallta"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bż-żejt"
+    },
+    {
+      "surface": "שלשית",
+      "gloss": "terz"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ta' hin"
+    }
+  ],
+  "timestamp": "2026-10-21T17:13:05.406966951Z",
+  "model": "glm-5.3"
+}

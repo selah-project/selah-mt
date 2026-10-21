@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושלחתי \/ ישלח",
+      "rationale": "l-istess verb שלח għand Jaħwe u għand is-sultan: Jaħwe 'jibgħat' idu, is-sultan 'jibgħat' lilhom — strumentalità fl-istess kelma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפלאתי",
+      "rationale": "il-gwagħ (atti ta' meraħħba) bħala traduzzjoni ta' פלא — il-Lhudi għandu il-'fatti li ma jinftehmuex'"
+    }
+  ],
+  "translation": "U nibgħat ⟨את⟩ idii, u nawgab lil ⟨את⟩ Mitsrajim b'kull gwagħ tiegħi li nagħmel f'nofsu; u wara dan, huwa jbiegħed ⟨את⟩ lilkom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2005100f72f4c77e74267f87ec30189fb5e0dbda32230829456b792831c36db5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/17-20.1792599307941.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "u nibgħat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idii"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "u nawgab lil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "b'kull"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "gwagħ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "f'nofsu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "u wara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "jbiegħed lil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "jbiegħed lilkom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:15:07.942690861Z",
+  "model": "glm-5.3"
+}

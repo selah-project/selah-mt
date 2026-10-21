@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lill-mexxej tal-kor",
+      "rationale": "למנצח litteralment 'lill-bniedem li jiddi minn bogħod', superattendent tal-mużika tat-tempju"
+    },
+    {
+      "kind": "elision",
+      "subject": "mizmor",
+      "rationale": "Kelma Lhudija għal poeżija b'mużika, ma tgħaddix għal 'salm' ta' kull jum"
+    }
+  ],
+  "translation": "Lill-mexxej tal-kor; għal ulied Korach; mizmor.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/85\/1-4.1792617578344.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "lill-mexxej tal-kor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "għal ulied"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:38.344923736Z",
+  "model": "glm-5.3"
+}

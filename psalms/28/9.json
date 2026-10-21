@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-etern",
+      "rationale": "העולם huwa 'dak li jibqa' moħbi', il-punt li jgħib; 'etern' huwa qrib iżda jitlaq mill-ħoss"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ġibhom 'il fuq",
+      "rationale": "ונשאם tista' tkun ukoll 'ilhom' \/ 'trajhom' bħala rgħaj (JPS 'carry them'); għażilt 'Ġibhom 'il fuq' bħal KJV"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמך \/ נחלתך \/ ורעם \/ ונשאם",
+      "rationale": "il-pronom suffiss -k\/-m irripeta, u t-tnaqqis tan-nies għal sufiss wieħed (-em) f'ורעם ונשאם — mard tas-suffissi li jgħidu 'niesek, eritek, irgħahom, ġibhom'"
+    }
+  ],
+  "translation": "Ħallash ⟨את⟩ niesek, u berik ⟨את⟩ l-erita tiegħek; irgħahom, u ġibhom 'il fuq sa mill-għażira ⟨sa l-etern⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "148f3cb8edf9a33d506ebfe46cde3702e171ff4e49225e6ff3010540e0c90737",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/28\/9-9.1792616790416.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ħallash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niesek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "niesek"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "u berik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-erita tiegħek"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "l-erita tiegħek"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "irgħahom"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "u ġibhom 'il fuq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "l-etern"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:30.417122322Z",
+  "model": "glm-5.3"
+}

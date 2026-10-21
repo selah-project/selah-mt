@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרצחו",
+      "rationale": "'toqtluh' (imperattiv\/fin, KJV) kontra 'għandkom mewt' (Geneva tonqos f'sens passiv) — il-Lhudi jista' jkun it-tnejn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דומיה \/ תהותתו",
+      "rationale": "il-kuntrast bejn is-skiet ta' David (v.2) u l-ġlied kontra ħaddiem (taħbita) fuq raġel wieħed"
+    },
+    {
+      "kind": "hapax",
+      "subject": "התת",
+      "rationale": "il-verb הָתַת jidher ftit drabi biss fit-Tanakh — 'taħbat, toqgħod fuq' bil-vjolenza"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-għedewwa ta' David",
+      "rationale": "mistoqsja diretta: 'Sas-meta se taħbtu... ilkollkom?'"
+    }
+  ],
+  "translation": "Sas-meta se taħbtu fuq raġel, biex toqtluh, ilkollkom, bħal ħajt imxewwel, bħal ħajt mdawwar imwaqqa'?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/62\/1-4.1792617265806.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sas-"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "se taħbtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "biex toqtluh"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ilkollkom"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "bħal ħajt"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "imxewwel"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "bħal ħajt mdawwar"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "imwaqqa'"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:25.807060634Z",
+  "model": "glm-5.3"
+}

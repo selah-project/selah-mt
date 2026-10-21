@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Maltese needs an auxiliary for the habitual past; Hebrew participle קראים carries no verb 'to be'."
+    },
+    {
+      "kind": "crux",
+      "subject": "his priests",
+      "rationale": "Moses was never a priest; 'among his priests' is read either as 'among his priests' (leaders of worship) or as 'among his princes\/nobles' (cf. כהן of high rank)."
+    }
+  ],
+  "translation": "Moxe u Aharon fost qassisih, u Xemuwel fost dawk li jsejħu b'ismu; kienu jsejħu lejn Jaħwe, u hu kien wieġebhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/5-8.1792617748423.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "u Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "fost qassisih"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "u Xemuwel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "fost dawk li jsejħu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "b'ismu"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "kienu jsejħu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "wieġebhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:28.424040049Z",
+  "model": "glm-5.3"
+}

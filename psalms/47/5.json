@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi m'għandux pronom għal suġġett maħsub; miżjud bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאון",
+      "rationale": "'Kburija' jew 'għoli'; il-verżjonijiet qasmu bejn 'excellency', 'glory', 'pride'"
+    }
+  ],
+  "translation": "Jagħżel għalina ⟨את⟩ l-wirt tagħna, ⟨את⟩ l-kburija ta' Jagħaqov, li hu ħabb. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/47\/5-8.1792617138443.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Jagħżel"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "għalina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-wirt tagħna"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "l-wirt tagħna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-kburija ta' Jagħaqov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l-kburija"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ħabb"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:18.444311189Z",
+  "model": "glm-5.3"
+}

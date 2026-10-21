@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבנון\/כרמל",
+      "rationale": "inversion of cultivated and wild — Lebanon the forest becomes an orchard, the orchard becomes forest; the reversal is the point"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כרמל",
+      "gloss_note": "",
+      "rationale": "כרמל is a planted field\/orchard, not the proper name Mount Carmel here; rendered 'għalqa maħluqa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מעט מזער",
+      "rationale": "the verse measures time: 'a very little while'"
+    }
+  ],
+  "translation": "Mhux għadu żmien qasir ħafna, u l-Libanon jiġi mqies bħal għalqa maħluqa, u l-għalqa maħluqa tiġi mqies bħal foresta?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "040888d57d601ac67184603210ccfac979d0af3707afae0561ea52fa8887bffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/29\/17-20.1792611415636.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "żmien qasir"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "qasir ħafna"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "jiġi mqies"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "l-Libanon"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "bħal għalqa maħluqa"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "u l-għalqa maħluqa"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "bħal foresta"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "tiġi mqies"
+    }
+  ],
+  "timestamp": "2026-10-21T19:36:55.636749605Z",
+  "model": "glm-5.3"
+}

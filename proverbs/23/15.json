@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tkun",
+      "rationale": "il-Lhudi m'għandux kopula; miżjuda bil-Malti u mmarkata"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-iben",
+      "rationale": "indirizz dirett ta' missier lill-iben, bħal-bqija tas-sezzjoni"
+    }
+  ],
+  "translation": "Ibni, jekk ⟨tkun⟩ għerfa qalbek, qalbi tifraħ, jiena wkoll.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/23\/13-16.1792618811064.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ibni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "għerfa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbek"
+    },
+    {
+      "surface": "יִשמח",
+      "gloss": "tifraħ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wkoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jiena"
+    }
+  ],
+  "timestamp": "2026-10-21T21:40:11.064943581Z",
+  "model": "glm-5.3"
+}

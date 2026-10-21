@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħajja",
+      "rationale": "נפש hija n-nifs\/il-ħajja-forza, mhux ruħ separata"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sa fil-axxija",
+      "rationale": "Żmien it-tindif imkejjel: mniesż sa ma nxetel ix-xemx"
+    }
+  ],
+  "translation": "Il-ħajja li tmiss lil dak tissir mniesża sa fil-axxija, u ma jiekolx mill-ħwejjeġ tal-qdusija, jekk ma jħaselx ġismu fl-ilma",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/5-8.1792601029486.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "il-ħajja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "tmiss"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lil dak"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "tissir mniesża"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "fil-axxija"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekolx"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "il-ħwejjeġ tal-qdusija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "jħaselx"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ġismu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "fl-ilma"
+    }
+  ],
+  "timestamp": "2026-10-21T16:43:49.487056483Z",
+  "model": "glm-5.3"
+}

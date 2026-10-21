@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 2:33",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "imma",
+      "rationale": "il-vojt bejn il- żewġ nofsien tal-vers jibqa' bla kelma Lhudija; miżjud bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמיהם\/דוד",
+      "rationale": "il-ħoss dem\/David jiġbor il-vers: id-demm jerġa' lura fuq Joab, iż-żerriegħa tad-demm tiġi fuq żerriegħa David"
+    },
+    {
+      "kind": "substitution",
+      "subject": "żerriegħtu",
+      "rationale": "זרע literally żerriegħa; tfisser nisel"
+    }
+  ],
+  "translation": "U d-demm tagħhom jerġa' jaqa' fuq ras Joab u fuq ras żerriegħtu għal dejjem; imma lil David, u lil żerriegħtu, u lil daru, u lil tronu tiegħu, ikun hemm paċi għal dejjem mingħand Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/2\/33-36.1792609315403.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "jerġa' jaqa'"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "d-demm tagħhom"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "fuq ras"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ובראש",
+      "gloss": "u fuq ras"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "żerriegħtu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "ולדוד",
+      "gloss": "imma lil David"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "u lil żerriegħtu"
+    },
+    {
+      "surface": "ולביתו",
+      "gloss": "u lil daru"
+    },
+    {
+      "surface": "ולכסאו",
+      "gloss": "u lil tronu tiegħu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ikun hemm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paċi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "għal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mingħand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:01:55.403663045Z",
+  "model": "glm-5.3"
+}

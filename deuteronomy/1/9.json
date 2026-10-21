@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitiv costrutt li jsegwi verbu tal-qlub; mogħni b'niegħed biex il-Malti jifflowtixxi"
+    },
+    {
+      "kind": "you",
+      "subject": "lilkom",
+      "rationale": "Mosè jindirizza lil Jisrael direttament, b'retrospettiv"
+    }
+  ],
+  "translation": "U għidt lilkom dak iż-żmien, niegħed: Ma nista' jien waħdi nġorr lilkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/9-12.1792605210125.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "u għidt"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "lilkom"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iż-żmien"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "niegħed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nista'"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "waħdi"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nġorr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "⟨את⟩ + lilkom (l-objett suffissat)"
+    }
+  ],
+  "timestamp": "2026-10-21T17:53:30.125925312Z",
+  "model": "glm-5.3"
+}

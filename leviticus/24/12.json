@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי",
+      "rationale": "literally 'upon the mouth of', rendered idiomatically as 'skont' (according to)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kelma",
+      "rationale": "פי is 'mouth'; idiom 'mouth of Jaħwe' rendered as 'kelma ta' Jaħwe' (word of Jaħwe)"
+    }
+  ],
+  "translation": "U ħalluh taħt kustodja, biex jinfthom għalihom skont ⟨il-⟩ kelma ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/24\/9-12.1792601164819.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "U ħalluh"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "taħt kustodja"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "biex jinfthom"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "על",
+      "gloss": "skont"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:46:04.820293088Z",
+  "model": "glm-5.3"
+}

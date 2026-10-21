@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הגדילו",
+      "rationale": "literally 'they made [themselves] great' — idiom for boasting, rendered 'kbirru ruħhom'"
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Maltese presentative added; Hebrew has no copula"
+    }
+  ],
+  "translation": "Għax għedt: M'għandux ikun li jifirħu fuqi; metaċċat riġli, huwa kontrija li kbirru ruħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/38\/17-20.1792616932861.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għedt"
+    },
+    {
+      "surface": "פן",
+      "gloss": "m'(biex) ma"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "jifirħu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "metaċċat"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "riġli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "kbirru ruħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:52.862127235Z",
+  "model": "glm-5.3"
+}

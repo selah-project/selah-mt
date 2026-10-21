@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פשטנו",
+      "rationale": "litteralment 'firxna ruħna' — għażla ta' kliem għal rejda militari"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרתי",
+      "rationale": "Keretit: plejer ta' Cerethites jew isem grupp fin-Nofsinhar; Lanqas 'gassda ta' Saul' ma żgura"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħarqnaha",
+      "rationale": "il-Malti jeħtieġ l-oggett suffiss apper l-verb, iżda צקלג ġej bil-ktib separat"
+    }
+  ],
+  "translation": "Aħna ħriġna għar-rejda fin-Negèv tal-Keretit, u fuq dak li huwa ta' Jehuda, u fuq in-Negèv ta' Kaleb; u ⟨את⟩ Tsiklag ħarqnaha bin-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/30\/13-16.1792608449773.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "ħriġna għar-rejda"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "in-Negèv"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "tal-Keretit"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "in-Negèv"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ta' Kaleb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "ħarqnaha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:47:29.774134355Z",
+  "model": "glm-5.3"
+}

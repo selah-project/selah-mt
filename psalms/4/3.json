@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מה",
+      "rationale": "עד מה idjomatiku 'sa fejn \/ sal-meta' — il-מה ma jittraduċix waħdu"
+    },
+    {
+      "kind": "crux",
+      "subject": "כבודי לכלמה",
+      "rationale": "'ġid tiegħi għall-għajb' jew verb f'qtil 'tgħawwxu l-ġid tiegħi' — KJV\/ASV jieħdu verb, YLT jaqra preposizzjonali"
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "il-Malti jeħtieġ futur awżiljarju li l-Ħhudi ma għandux"
+    },
+    {
+      "kind": "you",
+      "subject": "Wlied ta' raġel",
+      "rationale": "appell dirett lill-avversarji ta' David"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "sospensjoni mużikali — ma għandha ekwivalenti, maħlusa bħala isem Selah"
+    }
+  ],
+  "translation": "Wlied ta' raġel, sa fejn ⟨se⟩ tkun il-ġid tiegħi għall-għajb? Tħobbu l-vanjità u tfittxu l-gideb. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/4\/1-4.1792616562764.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wlied"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta' raġel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa fejn"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "il-ġid tiegħi"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "għall-għajb"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Tħobbu"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "l-vanjità"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "u tfittxu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "l-gideb"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:42.765646958Z",
+  "model": "glm-5.3"
+}

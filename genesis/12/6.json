@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "balluta",
+      "rationale": "אלון: siġra qawwija — balluta (oak) kontra siġra tal-terpint (terebinth) jew pjanura (LXX)."
+    },
+    {
+      "kind": "addition",
+      "subject": "dik il-ħin",
+      "rationale": "אז 'mbagħad\/dak iz-żmien' teħtieġ verb kopulattiv bil-Malti."
+    },
+    {
+      "kind": "you",
+      "subject": "l-Kenaani fl-art",
+      "rationale": "jikteb il-qarrej: il-Kenaani għadu fl-art, turbatura għal wegħda l-art."
+    }
+  ],
+  "translation": "U Avraham għadda mil-art sa post Xekem, sa lejn il-balluta ta' More; u l-Kenaani kien għadu ⟨dik il-ħin⟩ fl-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b56fb97314156a0feb47969424576c4a43b35a550cd6480bdafdac0e52518c82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/12\/6-8.1792602111698.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "għadda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mil-art"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "post"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Xekem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa lejn"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "il-balluta"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ta' More"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "u l-Kenaani"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dik il-ħin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:51.699855787Z",
+  "model": "glm-5.3"
+}

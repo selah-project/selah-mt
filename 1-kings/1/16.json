@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "x'hemm għalik",
+      "rationale": "מה־לך idjome Lhudija: 'x'inhu hemm għalik?' = 'x'trid?'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ותקד",
+      "rationale": "קוד jidher b'dak il-mod fin-Naqb; verb rari ħafna: 'tinża' bi tqarbija"
+    }
+  ],
+  "translation": "U Bat-Xeba inċiniet u tinqieżet quddiem is-sultan, u s-sultan qal: X'hemm għalik?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6c69edec50781295b2e58ebe30217b1d3f0b96a12e6686d6e81dae9a6daa9d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/13-16.1792609213657.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "u inċiniet"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Xeba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "u tinqieżet quddiem"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lil is-sultan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hemm għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:13.659126313Z",
+  "model": "glm-5.3"
+}

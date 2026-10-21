@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raġebi",
+      "rationale": "אפי litteralment 'imni\/nifs'i' — il-wiċċ li jaħraq; Malti juża 'raġeb' għall-istess għerq metaforiku."
+    },
+    {
+      "kind": "crux",
+      "subject": "minnu",
+      "rationale": "Singular 'minnu' wara plural 'tagħhom' — KJV iżomm is-singular; xi traduzzjonijiet jirranġawh għal 'minnhom'."
+    }
+  ],
+  "translation": "Nfejjaq lil mewġithom, nħobbhom bil-ħelsien, għex raġebi rġa' telaq minnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/14\/5-8.1792615547919.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "nfejjaq"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "mewġithom"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "nħobbhom"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "bil-ħelsien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għex"
+    },
+    {
+      "surface": "שב",
+      "gloss": "rġa' telaq"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "raġebi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:45:47.920271907Z",
+  "model": "glm-5.3"
+}

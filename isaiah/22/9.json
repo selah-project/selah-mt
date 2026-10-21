@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fetħiet tal-belt",
+      "rationale": "L-għassed tas-sit tal-belt ta' David — meħud in-nuqqasijiet u l-ilma tqies b'mod konkrett."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fetħiet",
+      "rationale": "בקיעי = l-inċiżjonijiet\/fetħiet fil-ħitan, mhux sempliċiment 'ħsarat'."
+    }
+  ],
+  "translation": "U ⟨את⟩ il-fetħiet tal-belt ta' David rajtu, għax kibu ħafna, u ġbirtu ⟨את⟩ l-ilma tal-ġibjun ta' isfel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/22\/9-12.1792611251186.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-fetħiet tal-belt ta' David"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "il-fetħiet"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "belt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "rajtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "kibu"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ġbirtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ilma"
+    },
+    {
+      "surface": "מי",
+      "gloss": "l-ilma"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tal-ġibjun"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ta' isfel"
+    }
+  ],
+  "timestamp": "2026-10-21T19:34:11.186946678Z",
+  "model": "glm-5.3"
+}

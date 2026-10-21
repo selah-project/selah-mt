@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בְּעוֹר שִׁנָּי",
+      "rationale": "'b'qoxra ta' sniji' — idjoma li tfisser sfaxxar bi ftit; il-Malti jżomm il-figura litterali"
+    },
+    {
+      "kind": "crux",
+      "subject": "דָּבְקָה עַצְמִי",
+      "rationale": "litteralment 'għadam tiegħi inqas' — magħruf bħala 'telgħet ġilda fuq għadami' milli 'telgħet fuq ġildha' (qari mit-Targum u Midrash: נשרת בשרי)"
+    }
+  ],
+  "translation": "Għad-twilda u għaġla tiegħi inqast għad-għadam tiegħi; u ħlit b'qoxra ta' sniji.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/19\/17-20.1792619392097.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "Għad-twilda"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "u għaġla tiegħi"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "inqast"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "għad-għadam tiegħi"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "u ħlit"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "b'qoxra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ta' sniji"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:52.098411911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "rationale": "1,775 xeqel — il-bqija tal-beka ta' 38:26, mgħoddija għall-ganċijiet.",
+      "subject": "leftover silver"
+    },
+    {
+      "kind": "addition",
+      "rationale": "'xeqel' miżjud fil-parentesi: it-test jgħid biss in-numru, l-unità ġejja mill-kuntest.",
+      "subject": "⟨xeqel⟩"
+    },
+    {
+      "kind": "crux",
+      "rationale": "וחשק: KJV\/ASV 'filleted them' (rabba b'ċirijiet) minn għerq 'joħloq\/waħħal'; oħrajn jaqraw 'għammorhom b'ħbula' — elezzjoni bejn il-qari tal-piż u tal-għerq.",
+      "subject": "וחשק אתם"
+    },
+    {
+      "kind": "elision",
+      "rationale": "אתם suffiss fuq il-verb — il-marluż innifsu, ma jibqax xehed bil-Malti.",
+      "subject": "אתם"
+    }
+  ],
+  "translation": "U ⟨את⟩ l-elf u sebgħa mija u ħamsa u sebgħin ⟨xeqel⟩ għamel ganċijiet għall-pilastri, u dgħaff il-kapitelli tagħhom, u marhom b'ċirijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a67051799a9460123e09ac7716ddbe652052268990977e81b2a6f793f2cdf695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/38\/26-28.1792602295652.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-elf u sebgħa mija u ħamsa u sebgħin"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "l-elf"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "u sebgħa"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "u ħamsa"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "u sebgħin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "וגוים",
+      "gloss": "ganċijiet"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "għall-pilastri"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "u dgħaff"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "il-kapitelli tagħhom"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "u marhom b'ċirijiet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T17:04:55.654992765Z",
+  "model": "glm-5.3"
+}

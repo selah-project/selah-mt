@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-qaddej",
+      "rationale": "עבדו tfisser 'l-iskjav\/serv tiegħu'; 'qaddej' hija l-kelma Maltija ta' l-imgħoddi għal serv ta' Alla."
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Kopula miżjuda bil-Malti."
+    }
+  ],
+  "translation": "wirt lil Jisrael, il-qaddej tiegħu, għaliex għal dejjem ⟨hu⟩ l-ħesed tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "84291bdc12c4bc9b8d48626687e4bf38fb00762379d8cdb3e254505699c1a9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/136\/21-24.1792618179572.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "wirt"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lil Jisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "il-qaddej tiegħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliess"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "l-ħesed tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:39.573500056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tibża'",
+      "rationale": "תירא huwa 'bi tqila\/bi ħażż' — bi tqila mħallta ma' qima, mhux biża' biss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשבע",
+      "rationale": "שבע għerq ma' 'sebgħa' — il-ġurament bħal dikjarazzjoni mrepetiħa sebħ darbiet, mitluf bil-Malti"
+    }
+  ],
+  "translation": "Lil ⟨את⟩ Jaħwe Elohim tiegħek tibża' ⟨את⟩ u lilu tinqed u b'ismu tiġġurament.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/6\/13-16.1792605478089.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tibża' (tibża' minn)"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ u lilu",
+      "marks": "lilu"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tinqed"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "u b'ismu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tiġġurament"
+    }
+  ],
+  "timestamp": "2026-10-21T17:57:58.090265812Z",
+  "model": "glm-5.3"
+}

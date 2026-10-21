@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תועבת\/התועבת",
+      "rationale": "l-istess kelma tidher darbtejn fil-vers — l-għerq tar-rabta ma' vers 9 (תועבת) u ma' vers 13"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jkeċċi",
+      "rationale": "מוריש = 'jġib biex jirtu' — joħroġ lil min hemm biex ieħor jirt; 'jkeċċi' jaqbad il-ħsibja prinċipali"
+    }
+  ],
+  "translation": "Għaliex toeva għal Jaħwe ⟨huwa⟩ kull min jagħmel dawn, u minħabba dawn it-toevot Jaħwe Elohim tiegħek jkeċċihom minn quddiemek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/18\/9-12.1792605689445.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "toeva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "min jagħmel"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "u minħabba"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "it-toevot"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "jkeċċi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jkeċċihom (ihom)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "minn quddiemek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:01:29.446863311Z",
+  "model": "glm-5.3"
+}

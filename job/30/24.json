@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 30:24",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "vers kollu",
+      "rationale": "Wieħed mill-aktar versi diffiċli ta' Job: KJV jaqra 'mhux jestendi idu għall-qabar', ASV 'jaħbat id f'waqgħa?', JPS 'mhux għal merħla miksura'; it-test konsonanti ambigwu ħafna."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בעי",
+      "rationale": "Kelma rari — 'talba' — li tagħti l-qari l-aktar probabbli: 'Ġilt le, f'talba ma jintbagħat id'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "qari tal-JPS",
+      "rationale": "ישלח יד 'jestendi id' għal merħla mgħarrqa — ir-refuġju ma jsibx għajnuna fil-kalamità tiegħu."
+    }
+  ],
+  "translation": "Ġilt għajnuna jitlaqqat id; jekk f'diżgraċja tiegħu, għalhekk għajta għall-għajnuna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/30\/21-24.1792619555112.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ġilt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "għajnuna jitlaqqat"
+    },
+    {
+      "surface": "בעי",
+      "gloss": "f'talba"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "jitlaqqat id"
+    },
+    {
+      "surface": "יד",
+      "gloss": "id"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "בפידו",
+      "gloss": "f'diżgraċja tiegħu"
+    },
+    {
+      "surface": "להן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "għajta għall-għajnuna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:35.113418835Z",
+  "model": "glm-5.3"
+}

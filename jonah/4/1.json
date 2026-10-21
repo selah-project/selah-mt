@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירע\/רעה",
+      "rationale": "Il-verb u n-noun għandhom l-istess għerq רע: 'ħażet... ħażina' — l-istess tliet ittri Lhud, mifruxa f'żewġ kliem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħaraq",
+      "rationale": "חרה tfissru 'tixħan, taħraq' bil-wiċċ — bil-Malti baqa' d-dawl tas-sħana, mhux biss l-għadab."
+    }
+  ],
+  "translation": "U ħażet lil Giona ħażina — ħażina kbira — u ħaraq-ilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/4\/1-4.1792615815437.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "u ħażet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħażina"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "u ħaraq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-ilu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:50:15.438825144Z",
+  "model": "glm-5.3"
+}

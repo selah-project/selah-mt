@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זבחו זבחי",
+      "rationale": "Verb u sustantiv mill-istess għerq — 'offru l-offri' — il-ħoss tar-ripetizzjoni jibqa'."
+    },
+    {
+      "kind": "you",
+      "subject": "lis-segwaċi",
+      "rationale": "Imperattivi oħra fl-istess indirizz."
+    }
+  ],
+  "translation": "Offru l-offri ta' tsedeq, u ittama f'Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/4\/5-8.1792616540335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "offru"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "l-offri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "u ittama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:20.335642892Z",
+  "model": "glm-5.3"
+}

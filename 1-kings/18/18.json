@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Koppla ġdida 'imma' biex tgħaddi biss, כי אם ma għandhx ekwivalenti wieħed bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכר",
+      "rationale": "Elia jqiegħed l-istess kelma ta' Aħab lura fuqu: 'int il-fixkil, mhux jien'"
+    }
+  ],
+  "translation": "U qal: Jien ma fixklejtx ⟨את⟩ lil Jisrael, imma int u d-dar ta' missierek, meta ħallejtu ⟨את⟩ il-ktieb tal-mitzvot ta' Jaħwe u mxejtu wara l-Baħalim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/18\/17-20.1792609871157.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "fixklejtx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "u d-dar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ta' missierek"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "meta ħallejtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mitzvot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "il-mitzvot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "u mxejtu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "l-Baħalim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:11:11.158178288Z",
+  "model": "glm-5.3"
+}

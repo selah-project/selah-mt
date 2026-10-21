@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "elf u mija elf",
+      "rationale": "in-numri jibqaw sħaħ: אלף (elf) u רבבה (mija elf)"
+    },
+    {
+      "kind": "addition",
+      "subject": "imma",
+      "rationale": "l-oppożizzjoni bejn il-waqgħa tal-ħafna u s-salvazzjoni tal-qarrej mhix espressa fil-Lhudi"
+    }
+  ],
+  "translation": "Elf jaqa' ma' ġenbek, u mija elf ma' idek il-leminija; imma ma jersaqx lejk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/91\/5-8.1792617692255.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ma' ġenbek"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "u mija elf"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ma' idek il-leminija"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lejk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "jersaq… lejk"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:32.256552661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 14:20",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-wiċċ tal-każ",
+      "rationale": "סבב את פני הדבר: idum ma jgħidx 'jiżvolġi l-wiċċ tal-każ', mit-taħlita ta' 'dur' u 'wiċċ'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mibgħut ta' Elohim",
+      "rationale": "מלאך jista' jkun anġlu jew bniedem mibgħut; KJV 'angel', YLT 'messenger'"
+    }
+  ],
+  "translation": "Biex jirravvolġi l-wiċċ tal-każ, għamel il-qaddej tiegħek Joab ⟨את⟩ il-każ dan; u sidi ⟨hu⟩ għaref skont l-għerf ta' mibgħut ta' Elohim, biex jaf ⟨את⟩ kollox li hemm fl-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bd2a872c270a2eea9d35126a3dd2921e3c37dde98541f6253ad842fcbfae4302",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/14\/20-20.1792623273863.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבעבור",
+      "gloss": "biex"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "jirravvolġi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-wiċċ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il-wiċċ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tal-każ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il-qaddej tiegħek"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-każ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il-każ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "u sidi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "għaref"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "skont l-għerf"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ta' mibgħut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "biex jaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kollox"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:33.864769284Z",
+  "model": "glm-5.3"
+}

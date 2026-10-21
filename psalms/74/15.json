@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'permanent, li ma jinbidilx' — 'xmajjar ta' dejjem' vs 'xmajjar qawwija' (KJV) vs 'kapu' (chieftain)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nexxift",
+      "rationale": "הובשת huwa Hif'il ta' יבש għandu żewġ tifsiriet: 'biċċieht' (il-qawwi) jew 'nexxift' — hawn dwar l-ilma, għalhekk 'nexxift'."
+    }
+  ],
+  "translation": "Int fetħt għajn u widien, Int nexxift ix-xmajjar ta' dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2180ad35b32565ea24de8643809ada9243ec9df2b1caac2808d036186a15b25e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/14-15.1792623823057.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Int"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "fetħt"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "għajn"
+    },
+    {
+      "surface": "וונחל",
+      "gloss": "u widien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Int"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "nexxift"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ix-xmajjar"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ta' dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:43.059780704Z",
+  "model": "glm-5.3"
+}

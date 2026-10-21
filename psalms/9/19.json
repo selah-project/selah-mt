@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישכח\/שכחי",
+      "rationale": "l-istess għerq 'nieś' jrid il-vers 18 ('dawk li jinsu lil Elohim') u l-19 ('mhux jintnes il-foqru') — ironija maqtugħa fit-traduzzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tama",
+      "rationale": "תקוה litteralment ħabel\/fil; 'tama' żżomm il-figurattiv u mhux l-immaġni litterali"
+    }
+  ],
+  "translation": "Għaliex mhux għal-dejjem jintnes lill-foqru; it-tama ta' l-umli ma tintilifx għal-dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/17-20.1792616534219.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "jintnes"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "lill-foqru"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "it-tama"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ta' l-umli"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ma tintilifx"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "għal-dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:14.220702931Z",
+  "model": "glm-5.3"
+}

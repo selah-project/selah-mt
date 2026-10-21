@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tzidkom titilgu",
+      "rationale": "בהעלותי huwa bil-kostruzzjoni infinitiv 'fit-tlugħ tiegħi', mhux verb finit bħal-input"
+    },
+    {
+      "kind": "you",
+      "subject": "niesi",
+      "rationale": "kelma narrativ indirizzata lil Iżrael il-mejjet, l-aħħar kelma tal-vers"
+    }
+  ],
+  "translation": "U tkunu tafu li jien Jaħwe, meta niftaħ ⟨את⟩ l-oqbra tagħkom u nzidkom titilgu ⟨את⟩ mill-oqbra tagħkom, niesi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f655020aca498b37a406df189e54182ff6b2c59680957d06f84273514fa0c5b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/37\/13-16.1792615091643.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "u tkunu tafu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "meta niftaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-oqbra tagħkom"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "l-oqbra tagħkom"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "u nzidkom titilgu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kom (mill-oqbra tagħkom)"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "mill-oqbra tagħkom"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "niesi"
+    }
+  ],
+  "timestamp": "2026-10-21T20:38:11.644250328Z",
+  "model": "glm-5.3"
+}

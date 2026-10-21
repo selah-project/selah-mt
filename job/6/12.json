@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jaħseb li hu",
+      "rationale": "il-Lhudi jgħid biss 'ram' — copula miżjuda bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כח\/כחי",
+      "rationale": "repetizzjoni ta' כח fil-vers, rużżan retoriku li jibqa' qiegħed"
+    }
+  ],
+  "translation": "Jaqaw il-qawwa tiegħi qawwa tal-ġebel? jew laħmi jaħseb li hu ram?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/6\/9-12.1792619065791.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jaqaw"
+    },
+    {
+      "surface": "כח",
+      "gloss": "qawwa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "tal-ġebel"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "l-qawwa tiegħi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jew"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "laħmi"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ram"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:25.792868910Z",
+  "model": "glm-5.3"
+}

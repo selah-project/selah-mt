@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "porzjon wieħed appajim",
+      "rationale": "מנה אחת אפים: idjom dual ta' אף (wiċċ) — 'porzjon ta' żewġ wiċċiet' (KJV 'worthy portion', ASV 'double portion')"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Lhudi juża participju preżenti għal azzjoni li titripplika; il-Malti jżid 'kien'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סגר רחמה",
+      "rationale": "il-verb 'għalaq' mar-reħem jirrepeti fil-vers 6 u 7 — iterazzjoni retorika fuq l-istess kliem"
+    }
+  ],
+  "translation": "U lil Ħanna kien jagħti porzjon wieħed appajim, għax ⟨את⟩ Ħanna kien iħobb-u, u Jaħwe għalaq raħemha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/1\/5-8.1792607640890.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "U lil Ħanna"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kien jagħti"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "porzjon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "appajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ħanna"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ħanna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kien iħobb-u"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "għalaq"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "raħemha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:34:00.891314073Z",
+  "model": "glm-5.3"
+}

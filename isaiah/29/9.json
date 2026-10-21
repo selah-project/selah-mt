@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התמהמהו\/ותמהו · השתעשעו\/ושעו",
+      "rationale": "Zerlegung doppja mill-istess għerq (מהה, שעע) — ir-repetizzjoni tar-ringiż tingħad u ma tinfterdex fit-traduzzjoni."
+    },
+    {
+      "kind": "crux",
+      "subject": "השתעשעו",
+      "rationale": "Lexicographers jaqsmu: 'torbdu għajnejnkom' (KJV\/JPS) kontra 'ħadu pjaċir' (ASV) mill-aktaracceptazzjoni ta' שָׁעַע."
+    },
+    {
+      "kind": "you",
+      "subject": "Ġerusalemm",
+      "rationale": "Imperattivi plurali jindirizzaw lil-poplu ta' Sijon direttament."
+    }
+  ],
+  "translation": "Iddewmu u stagħġbu; ittorbdu għajnejnkom u torobdu; intossikaw, u mhux bl-inbid; rawnew, u mhux bis-sakra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3434340f9d68c026a5316114cd38c31334a242ee9fe077744b72acf637ad71ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/29\/9-10.1792623502796.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Iddewmu"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "u stagħġbu"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "ittorbdu għajnejnkom"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "u torobdu"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "intossikaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bl-inbid"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "rawnew"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bis-sakra"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:22.797180669Z",
+  "model": "glm-5.3"
+}

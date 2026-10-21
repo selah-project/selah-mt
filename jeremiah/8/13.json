@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 8:13",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסיפם",
+      "rationale": "Infinitiv assolut + verb: 'niġborhom in-neħħihom' — ripetizzjoni li tenfasar il-ġbir totali, immarkata biss bil-kostruzzjoni."
+    },
+    {
+      "kind": "crux",
+      "subject": "יעברום",
+      "rationale": "Kelma diffiċli: 'jitbiegħdu minnhom' (il-ħaġa mogħtija tgħaddi), jew 'jitraskurawhom' (huma jkunu xellugin); il-KJV u l-JPS jaqsmu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלה נבל",
+      "rationale": "Riklam letterali 'il-weraq inxef' — il-plural ġie miċċentwat bħala singular għax il-Malti jimxi hekk."
+    }
+  ],
+  "translation": "Niġborhom in neħħihom, jgħid Jaħwe; m'hemmx għeneb fil-għarina u m'hemmx tin fit-tina, u l-weraq nixef, u dak li tajthom jitbiegħed ⟨minnhom⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e19a54080b3db9253b4e2bfd8ff910e202404d625d7911012b33081568bad122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/8\/13-16.1792612513470.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Niġborhom"
+    },
+    {
+      "surface": "אסיפם",
+      "gloss": "in-neħħihom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "għeneb"
+    },
+    {
+      "surface": "בגפן",
+      "gloss": "fil-għarina"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "tin"
+    },
+    {
+      "surface": "בתאנה",
+      "gloss": "fit-tina"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "u l-weraq"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nixef"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "u tajthom"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dak"
+    },
+    {
+      "surface": "יעברום",
+      "gloss": "jitbiegħed"
+    }
+  ],
+  "timestamp": "2026-10-21T19:55:13.471159283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפרס",
+      "rationale": "l-ajkla li tkisser l-għadam (ossifrage\/gier-eagle) kontra l-vultar imsemmi; kelma rari, zgur mhux l-ghasfur"
+    },
+    {
+      "kind": "crux",
+      "subject": "העזניה",
+      "rationale": "l-ajkla tal-baħar (osprey\/sea-eagle) — identifikazzjoni inċerta"
+    }
+  ],
+  "translation": "U dan huwa li ma tieklu minnhom: l-ajkla, u l-ajkla ta' l-għadam, u l-ajkla tal-baħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b90ab3a2decfc3aa59e6197714a046f66719e86d9502ab290c84b33ec1d71dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/14\/12-12.1792623103663.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tieklu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "l-ajkla"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "u l-ajkla ta' l-għadam"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "u l-ajkla tal-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:51:43.664165613Z",
+  "model": "glm-5.3"
+}

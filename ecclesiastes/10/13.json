@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ il-kopula li ma hemmx bil-Lhudi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פיהו ... פיהו",
+      "rationale": "ripetizzjoni ta' 'ħalqu' fil-bidu u fit-tmiem, chiastiċi ma' תחלת\/אחרית"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוללות",
+      "rationale": "'ġenn misħut' (KJV 'mischievous madness') kontra sempliċiment 'ġenn' (JPS 'grievous madness')"
+    }
+  ],
+  "translation": "Il-bidu tal-kliem ta' ħalqu ⟨hu⟩ stultà, u t-tmiem ta' ħalqu ġenn ħażin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/10\/13-16.1792620313176.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "il-bidu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tal-kliem"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ta' ħalqu"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "stultà"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "u t-tmiem"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ta' ħalqu"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ġenn"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T22:05:13.176598402Z",
+  "model": "glm-5.3"
+}

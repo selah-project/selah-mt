@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "והוא emphatic pronoun rendered as bracketed copula in Maltese"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ilsir għaċ-ċaħla",
+      "rationale": "כסיל literally 'fat', figuratively stupid — Maltese idiom keeps the sense of dullness"
+    }
+  ],
+  "translation": "Aħjar il-foqra li jimxi fit-tummu, milli min għandu xofftejn mgħawġa u ⟨hu⟩ ilsir għaċ-ċaħla.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/1-4.1792618704082.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "רש",
+      "gloss": "il-foqra"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "li jimxi"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "fit-tummu"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "mgħawġa"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "xofftejn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u ⟨hu⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ilsir għaċ-ċaħla"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:24.082429907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "foħdijiet",
+      "rationale": "משחיתות jista' jkun 'fosdiet' fiżiċi (bwar) jew qerda — 'graves' (JPS) kontra 'destructions' (KJV)"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil-kelmtu",
+      "rationale": "il-Malti jeħtieġ 'lil' mal-verb 'ibgħat' meta l-oġġett joħroġ 'il-barra"
+    }
+  ],
+  "translation": "Ibgħat lil-kelmtu u jfejjaq lilhom, u jeħlishom minn foħdijiet tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/17-20.1792617891089.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ibgħat"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lil-kelmtu"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "u jfejjaq lilhom"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "u jeħlishom"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "minn foħdijiet tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:51.090133885Z",
+  "model": "glm-5.3"
+}

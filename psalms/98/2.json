@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għarraf",
+      "rationale": "הודיע huwwa 'għamel jkun magħruf', mhux sempliċiment 'għarraf'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħarġet fid-dieher",
+      "rationale": "גלה litteralment 'żarmat\/neħħa l-ħ Cover', il-Malti jrid żewġ kelmiet"
+    },
+    {
+      "kind": "elision",
+      "subject": "גלה",
+      "rationale": "l-iskrutinju ta' 'għamel jidher fil-beraħ' tqassar għal metafora waħda"
+    }
+  ],
+  "translation": "Jaħwe għarraf ⟨את⟩ fejqiena tiegħu; quddiem għajnejn il-ġnus ħarġet fid-dieher tsedeq tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "21c2e07fbebf2ce78d3f7a11c17cfcc58427b0aa6074eaee8447cf6d1822cbde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/98\/2-3.1792623816745.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "għarraf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "⟨את⟩ fejqiena tiegħu",
+      "marks": "fejqiena tiegħu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "quddiem għajnejn"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ħarġet fid-dieher"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeq tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:36.746014469Z",
+  "model": "glm-5.3"
+}

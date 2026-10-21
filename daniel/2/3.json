@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is-sultan jħabbret lill-ħartummim",
+      "rationale": "diskors diret tas-sultan lill-gruppi msejħa"
+    },
+    {
+      "kind": "mystery",
+      "subject": "il-ħolm",
+      "rationale": "is-sultan jistenna li jkunu jafu l-ħolm mingħajr ma jgħidhomh — għarfien moħbi"
+    }
+  ],
+  "translation": "U qal lilhom is-sultan: Ħolm ħlemt, u ruwaħi tfixkel, biex inkun naf ⟨את⟩ il-ħolm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/1-4.1792620600321.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ħolm"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ħlemt"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "u tfixklet"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruwaħi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "biex inkun naf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħolm"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "il-ħolm"
+    }
+  ],
+  "timestamp": "2026-10-21T22:10:00.322475438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כויה\/פצע\/חבורה",
+      "rationale": "Tliet darbiet l-istess struttura X taħt X — ripetizzjoni formali tal-lex talionis, miżjuma mal-versi 24"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ħruq taħt ħruq",
+      "rationale": "Kumpensazzjoni immisura b'mod eżatt — ġilda għal ġilda"
+    }
+  ],
+  "translation": "Ħruq taħt ħruq, bir taħt bir, tkasbir taħt tkasbir.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/21\/25-28.1792599755968.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ħruq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ħruq"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "bir"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "bir"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tkasbir"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tkasbir"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:35.969308594Z",
+  "model": "glm-5.3"
+}

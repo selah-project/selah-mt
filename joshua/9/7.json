@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "intom",
+      "rationale": "l-Ebrajk għandu singular 'אתה int' filwaqt li l-Malti jeħtieġ plural għal nies; xi verżjonijiet iżommu singular kontra l-Ħivita"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Ħiviti",
+      "rationale": "indirizz diretta tal-irġiel ta' Jisrael lill-Ħiviti bi mistoqsija ta' suspett"
+    }
+  ],
+  "translation": "U l-irġiel ta' Jisrael qalu lill-Ħiviti: Forsi fil-ġewwieni tagħna intom qegħdin toqogħdu, u kif naqtgħu magħkom patt?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "13a945607580002e073b48087e4f52cea151529219177e00709f44a7a29a85c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/9\/5-8.1792606442646.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l-irġiel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ħiviti"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Forsi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "fil-ġewwieni tagħna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "intom"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "qegħdin toqogħdu"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "u kif"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "naqtgħu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magħkom"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "patt"
+    }
+  ],
+  "timestamp": "2026-10-21T18:14:02.648039741Z",
+  "model": "glm-5.3"
+}

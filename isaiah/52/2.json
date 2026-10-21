@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 52:2",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-qrati",
+      "rationale": "Appell dirett lil Jeruxalajim, imsejħa 'bint Sajon'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ruħek",
+      "rationale": "Il-verb hitpa'el Ebrajk huwa riflessiv; il-Malti jieħu 'ruħek' għalih — mibni fil-verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבי ... שביה",
+      "rationale": "שבי (poġġi) u שביה (miżmuma) — ħoss komli, jilgħab bejn 'bilqiegħda' u 'l-iskravizzata'."
+    }
+  ],
+  "translation": "Ħawwad ruħek mit-trab, qum, poġġi, Jeruxalajim; ħallu l-ħjiem ta' għonqok, int il-miżmuma, bint Sajon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/52\/1-4.1792611953635.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "Ħawwad ruħek"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "mit-trab"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "qum"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "poġġi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "ħallu"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "l-ħjiem"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ta' għonqok"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "il-miżmuma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sajon"
+    }
+  ],
+  "timestamp": "2026-10-21T19:45:53.636476895Z",
+  "model": "glm-5.3"
+}

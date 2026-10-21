@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "qabel mewtu",
+      "rationale": "לפני מותו litteralment 'faċċata mewtu' — 'il-wiċċ ta' qabel il-mewt'."
+    }
+  ],
+  "translation": "U din hija l-barka li biha Moxe, raġel ta' Elohim, bierek lil ⟨את⟩ wlied Jisrael qabel mewtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39e85ab2e9b07d420b4f3a56b08668d0b1e10b096e72a843cea554185d4ea437",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/33\/1-4.1792606241196.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "u din"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "l-barka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bierek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wlied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "mewtu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:10:41.197440345Z",
+  "model": "glm-5.3"
+}

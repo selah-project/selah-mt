@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "sejħa lil Jaħwe",
+      "rationale": "imperattiv indirizzat direttament lil Jaħwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחמיך",
+      "rationale": "il-plural ta' raħam — l-ilsien Malti juża plural ta' ħniena; it-tifsira tal-ġuf\/ħniena ta' omm tintilef"
+    }
+  ],
+  "translation": "Ftakar il-ħnieniet tiegħek, Jaħwe, u l-ħesed tiegħek, għax minn dejjem huma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/5-8.1792616724817.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "il-ħnieniet tiegħek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "u l-ħesed tiegħek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "minn dejjem"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:24.817827679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נדף\/תנדף",
+      "rationale": "għerq wieħed mitrepet fil-Lhudi (nudaf\/tenudaf) — simmetrija li tinħareġ fit-traduzzjoni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hekk itkeccihom",
+      "rationale": "l-imperattiv 'itkeccihom' huwa interpezjata; ħsieb ieħor: tistma biss bħala tentat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaqilgu",
+      "rationale": "ivdu: 'jinqerdu\/jghibu' — 'jaqilgu' jzomm il-hoss tal-qerda"
+    }
+  ],
+  "translation": "Kif jitkeċċi d-duħħan, hekk itkeċċihom; kif idubu x-xama' quddiem in-nar, hekk jaqilgħu l-ħżiena minn quddiem Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/68\/1-4.1792617312281.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Kif jitkeċċi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "d-duħħan"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "hekk itkeċċihom"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kif idubu"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "x-xama'"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "in-nar"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "jaqilgħu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "l-ħżiena"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:12.282491695Z",
+  "model": "glm-5.3"
+}

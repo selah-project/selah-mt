@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתתי\/אתננה\/אתן",
+      "rationale": "għerq נתן mtenni tlett darbiet fil-vers — għotja ripetuta bil-ħila tal-ħoss"
+    },
+    {
+      "kind": "addition",
+      "subject": "-ha",
+      "rationale": "il-pronom suffiss f'אתננה diġà fl-Lhudi; il-Malti iżomm 'nagħtiha' b'suffiss simili"
+    }
+  ],
+  "translation": "U ⟨את⟩ l-art li tajt lil Avraham u lil Jitsħaq, lilek nagħtiha, u lil żerriegħek warajk nagħti ⟨את⟩ l-art.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "8ca4f03839b236cb80761e08b2932bfc0eec8520b69d78ced693d13e855d4623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/35\/9-12.1792598664456.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tajt"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lil Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "u lil Jitsħaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nagħtiha"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "u lil żerriegħek"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "warajk"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T16:04:24.457444801Z",
+  "model": "glm-5.3"
+}

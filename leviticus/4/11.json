@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "'ma' hemm' fl-oriġinal huwa prepożizzjoni waħdha; mogħtija bħala 'ma' sempliċement — l-imgħallem tagħha jidher fil-lista tal-parti"
+    }
+  ],
+  "translation": "U ⟨את⟩ ġilda il-barri, u ⟨את⟩ laħmu kollu, ma' rasu u ma' saqajh, u ⟨את⟩ dak li ġewwa tiegħu u ⟨את⟩ ħmieġu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/9-12.1792600494699.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ġilda il-barri"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ġilda"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il-barri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "laħmu kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "laħmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rasu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u ma'"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "saqajh"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "u dak li ġewwa tiegħu"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "u ħmieġu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:54.700384059Z",
+  "model": "glm-5.3"
+}

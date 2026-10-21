@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huwa⟩",
+      "rationale": "il-Malti jeħtieġ il-kopula fil-ġrajja nominali"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורה",
+      "rationale": "għerq ירה — 'jibni' (bħal ram il-qlugħ), 'jgħallem' (l-istess għerq ta' Tora), jew 'jiddirigi'; il-vers jagħti l-għażla"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישר \/ בדרך",
+      "rationale": "'dritt' u 'triq' jirrepeti l-istampa ta' mogħdija s-sewwa; il-figura tibqa' ħajja bil-Malti"
+    }
+  ],
+  "translation": "Tajjeb u dritt ⟨huwa⟩ Jaħwe; għalhekk jiddirigi lill-ħatjin fit-triq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/5-8.1792616724817.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tajjeb"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "u dritt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "jiddirigi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "lill-ħatjin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:24.818112934Z",
+  "model": "glm-5.3"
+}

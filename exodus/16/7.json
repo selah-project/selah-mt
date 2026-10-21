@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "u aħna x'aħna",
+      "rationale": "ונחנו מה — 'aħna x?', idjom ta' umiltà; litteral 'u aħna x'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלנתיכם \/ תלונו",
+      "rationale": "Għerq תלנה wieħed darbtejn fil-vers — il-iltiġġ tal-poplu u l-verb tal-iltiġġ, ripetizzjoni retorika."
+    },
+    {
+      "kind": "you",
+      "subject": "lil ulied Jisrael",
+      "rationale": "Diskors dirett lis-sema' tal-poplu bil-plural."
+    }
+  ],
+  "translation": "U filgħodu taraw ⟨את⟩ il-ġieħ ta' Jaħwe, meta jisma' ⟨את⟩ l-iltiġġijiet tagħkom kontra Jaħwe; u aħna x'aħna, li tagħmlu l-iltiġġ kontrina?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1e3ce2aed1ffe699fe3b628c84023717eed6263d713c160e6e2ff5f400bcc454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/5-8.1792599699880.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "u filgħodu"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "taraw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġieħ ta' Jaħwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-ġieħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "meta jisma'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-iltiġġijiet tagħkom"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "l-iltiġġijiet tagħkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "u aħna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'aħna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "tagħmlu l-iltiġġ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kontrina"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:39.881545232Z",
+  "model": "glm-5.3"
+}

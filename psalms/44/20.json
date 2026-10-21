@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "lupi (jackals) kontra mostru tal-baħar (תנין): il-maġġoranza taqra 'il-lupi' għal postijiet меrħa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dell tal-mewt",
+      "rationale": "צלמות hija kelma waħda komposta 'dell-mewt', mantlija b'żewġ kelmiet bil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Għalkemm",
+      "rationale": "כי jista' jkun ukoll introduttivju sempliċi 'għaliex\/Jaħwe għaffeġna', iżda 'għalkemm' iżomm it-twettieq tad-devojazzjoni f'v.18-19"
+    }
+  ],
+  "translation": "Għalkemm għaffeġtna f'post il-lupi, u ħlitt fuqna bid-dell tal-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/17-20.1792617045263.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għalkemm"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "għaffeġtna"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "f'post"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "il-lupi"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "u ħlitt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "bid-dell tal-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:45.264589787Z",
+  "model": "glm-5.3"
+}

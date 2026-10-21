@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "offerta tal-ħtija",
+      "rationale": "אשם huwa l-istess kelma għal 'ħtija' u għall-offerta għalih; il-Malti jgħid iż-żewġ biċċiet"
+    },
+    {
+      "kind": "elision",
+      "subject": "hi",
+      "rationale": "l-glossa ta' הוא tittraduċi bħala copula; il-Lhudi juża l-pronunbju b'mod emphatiku"
+    }
+  ],
+  "translation": "U l-qassis jaħarqhom ⟨אתם⟩ fuq l-artar, bħala offerta tan-nar lil Jaħwe; hi offerta tal-ħtija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/7\/5-8.1792600498492.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "u jaħarqhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "l-ħwijeż tal-ašam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "fuq l-artar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta tan-nar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "offerta tal-ħtija"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:58.493234387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħmieġ",
+      "rationale": "הבל hu nifs, duħħan, dak li jgħaddi; għażilna 'ħmieġ' (ħażin) għax 'vanità' ma tolqotx"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hela",
+      "rationale": "'hela' jew 'fidwa' — dak li ma jibqa' qatt, ħoss li jintilef fl-arja"
+    }
+  ],
+  "translation": "Jaħwe jaf il-ħsibijiet tal-bniedem, li huma ⟨ħmieġ⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/94\/9-12.1792617710636.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "il-ħsibijiet"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tal-bniedem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨ħmieġ⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:50.637766413Z",
+  "model": "glm-5.3"
+}

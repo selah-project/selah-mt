@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fit-tmen",
+      "rationale": "בצר litteralment 'post dejjaq' — il-Malti jżomm il-ħoss tal-għerq bħal 'tight'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ħelishom",
+      "rationale": "יצילם 'selvaġġ' jew 'ħeles' — il-kuntest jagħti ħelsien"
+    }
+  ],
+  "translation": "U seħħew lejn Jaħwe fit-tmen tagħhom, u mill-mekk tiegħu ħelishom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/5-8.1792617855428.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "u seħħew"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "fit-tmen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tagħhom"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "mill-mekk tagħhom"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ħelishom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:15.428959642Z",
+  "model": "glm-5.3"
+}

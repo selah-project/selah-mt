@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרא\/שמע",
+      "rationale": "Symmetrical talion: call\/not-hear reversed — 'he called and they heard not, they call and I hear not' — the mirror is kept with the same two verbs."
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "Maltese needs the explicit pronoun 'jien' with אשמע; Hebrew carries it in the verb form."
+    }
+  ],
+  "translation": "U ġara li kif sejħet u huma ma smgħux, hekk huma sejħu u jien ma nisma', jgħid Jaħwe Tsebawot.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2004d58ef8dcebf1e2c667b8d9c16d62efcbe2b3fa2a57faff758f44ad704c89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/7\/13-14.1792616265657.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sejħet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "smgħux"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "sejħu"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nisma'"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    }
+  ],
+  "timestamp": "2026-10-21T20:57:45.658448796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħabel",
+      "rationale": "הבל = ħabel bil-Malti — il-fwar li jgħib, l-istess għerq ta' Ħabil\/Abel"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פקדתם",
+      "rationale": "ħatra (visitation) bil-Lhudi tfisser żjara uffiċjali — għall-ġustizzja jew għall-kastig"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "kopula miżjuda bil-Malti; il-Lhudi jgħid sempliċement 'ħabel huma' b'enfasi"
+    }
+  ],
+  "translation": "Ħabel huma, xogħol ta' qerq; meta tiġi l-ħatra tagħhom, jinqerdu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/10\/13-16.1792612725360.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ħabel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "xogħol"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ta' qerq"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "meta tiġi"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "l-ħatra tagħhom"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "jinqerdu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:58:45.362067958Z",
+  "model": "glm-5.3"
+}

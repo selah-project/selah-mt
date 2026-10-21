@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jikxfu x-xifer",
+      "rationale": "גלה כנף, 'to uncover the wing\/skirt (of a garment)', idiom for sexual relations; literal picture of the garment's edge kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "xifer",
+      "rationale": "כנף is literally 'wing', extended to the corner\/hem of a garment; no single Maltese word carries both."
+    }
+  ],
+  "translation": "M'għandux raġel jieħu ⟨את⟩ lil mart missieru, u lanqas jikxfu x-xifer ta' missieru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/23\/1-4.1792605789641.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "m'għandux"
+    },
+    {
+      "surface": "יִקַּח",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "mart missieru"
+    },
+    {
+      "surface": "אֵשֶׁת",
+      "gloss": "mart"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "missieru"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "יְגַלֶּה",
+      "gloss": "jikxfu"
+    },
+    {
+      "surface": "כְּנַף",
+      "gloss": "xifer"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "ta' missieru"
+    }
+  ],
+  "timestamp": "2026-10-21T18:03:09.641666599Z",
+  "model": "glm-5.3"
+}

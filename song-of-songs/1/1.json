@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "għanja tal-għanijiet",
+      "rationale": "Superlattiv Ebrajk — 'l-aqwa għanja'; miżjoma l-artiklu Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "Kopula miżjuda bil-Malti; l-Lhudi ma għanduha xejn"
+    }
+  ],
+  "translation": "L-għanja tal-għanijiet, li hi ta' Xlomo.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/1\/1-4.1792619882679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "għanja"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "tal-għanijiet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ta' Xlomo"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:02.679848662Z",
+  "model": "glm-5.3"
+}

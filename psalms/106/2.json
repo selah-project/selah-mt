@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jagħti li jinstema'",
+      "rationale": "ישמיע qejjed 'jagħmel (tifħiru) jinstema' — smigħ mess għal ħarġa"
+    },
+    {
+      "kind": "mystery",
+      "subject": "min jista' jirrakkonta",
+      "rationale": "Mistoqsija retorika: l-ġebburiet ta' Jaħwe qatt ma jistgħu jingħadu bis-sħaħ"
+    }
+  ],
+  "translation": "Min jista' jirrakkonta l-ġebburiet ta' Jaħwe? Min jista' jagħti li jinstema' tifħiru kollu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/106\/1-4.1792617902577.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "jirrakkonta"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "l-ġebburiet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "jagħti li jinstema'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tifħiru"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:02.578676657Z",
+  "model": "glm-5.3"
+}

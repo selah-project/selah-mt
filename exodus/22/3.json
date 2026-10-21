@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המצא תמצא",
+      "rationale": "Infinitiv absolutu — 'tinstab tinstab tassew' — ripetizzjoni għal enfasi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "iħallas tnejn",
+      "rationale": "Kumpens tal-plagi tar-ripetizzjoni — żewġ darbiet il-valur"
+    }
+  ],
+  "translation": "Jekk tinstab — tinstab tassew — f'idu s-serqa għadha ħajja, minn baqar sa ħmar sa ħaruf, iħallas tnejn.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/1-4.1792599807354.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tinstab"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tinstab tassew"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idu"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "is-serqa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "minn baqar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ħmar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ħaruf"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tnejn"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "iħallas"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:27.355281431Z",
+  "model": "glm-5.3"
+}

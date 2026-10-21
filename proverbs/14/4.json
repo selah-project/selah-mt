@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "בר: 'nadif\/vojt' (KJV 'clean') jew 'qamħ' (l-għarb tar-Rabini); il-kuntest tal-griebel jaħbat lejn 'nadif (vojt)'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלפים",
+      "gloss": "baqar: אלף hawn tfisser bhima misjuba (ox), mhux elf"
+    }
+  ],
+  "translation": "Fejn m'hemmx baqar, il-griebel huwa nadif, iżda ħafna għelejjel bit-qawwa ta' l-għoġol.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/1-4.1792618607990.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "fejn m'hemmx"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "il-griebel"
+    },
+    {
+      "surface": "בר",
+      "gloss": "nadif"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "iżda ħafna"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "għelejjel"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "bit-qawwa ta'"
+    },
+    {
+      "surface": "שור",
+      "gloss": "l-għoġol"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:47.991218988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħti",
+      "rationale": "ruwaħ wieħed kelma għall-רוח — spirtu, riħ, nifs — kif jitlob id-dokument D2"
+    },
+    {
+      "kind": "crux",
+      "subject": "tgħatti għalija",
+      "rationale": "בהתעטף: 'tgħatti, twarrab' — KJV 'overwhelmed', YLT 'feeble'; il-figura ta' ruħ mgħottija"
+    },
+    {
+      "kind": "addition",
+      "subject": "soggett mhux magħruf",
+      "rationale": "'ħabbew' — lil min? l-ebrajk mhux fih soggett; jaħseb l-għedewwa ta' David"
+    }
+  ],
+  "translation": "Meta ruwaħti tgħatti għalija, int taf it-triq imħarbta tiegħi; fit-triq li fih nimxi ħabbew nas għalija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/142\/1-4.1792618255905.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "meta tgħatti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruwaħti"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "taf"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "it-triq imħarbta tiegħi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "זו",
+      "gloss": "li"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "nimxi fih"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ħabbew"
+    },
+    {
+      "surface": "פח",
+      "gloss": "nas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:55.907088617Z",
+  "model": "glm-5.3"
+}

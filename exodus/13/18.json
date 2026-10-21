@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחמשים",
+      "rationale": "Ħamušim: 'armati' (tradizzjonali) vs 'b'ħamsa' (fi skwadri, YLT) vs ' issettjati għal battalja' — l-għerq huwa ħameš, ħamsa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סוף",
+      "rationale": "suf = ħuxrief (papiru); 'Baħar l-Aħmar' huwa traduzzjoni tradizzjonali mhux litterali."
+    }
+  ],
+  "translation": "U Elohim dawwar ma' dawn lil ⟨את⟩ il-poplu, bit-triq tan-nixfin tal-Baħar tal-Ħuxrief; u armati għat-taqbida telgħu wlied Jisrael mill-art ta' Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "09b0b668bc2f910a70fe159cedc0044809f8bafb4a380b685ec4f2a3c35cac43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/13\/17-20.1792599573404.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "u dawwar ma' dawn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "bit-triq"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "tan-nixfin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tal-Baħar"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "tal-Ħuxrief"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "u armati għat-taqbida"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "telgħu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:19:33.405897337Z",
+  "model": "glm-5.3"
+}

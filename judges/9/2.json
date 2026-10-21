@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 9:2",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Maltese needs a copula for the verbless clause 'I am your bone and your flesh'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidien",
+      "rationale": "בעלי rendered as 'owners\/masters' (leaders of Shechem), keeping the literal 'master' sense rather than 'men'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kelmuhom",
+      "rationale": "Abimelek's speech opens with an imperative addressed to his mother's brothers, urging them to persuade the leaders of Shechem"
+    },
+    {
+      "kind": "you",
+      "subject": "għalkom",
+      "rationale": "direct address throughout the verse, ultimately to the leaders of Shechem"
+    }
+  ],
+  "translation": "Kelmuhom, jekk jogħġobkom, f'widnejn is-sidien kollha ta' Shekem: X'hemm tajjeb għalkom — li jħakmu fuqkom sebgħin raġel, ulied Jerubbaal kollha, jew li jħakem fuqkom raġel wieħed? U ftakru li l-għadma tagħkom u l-laħam tagħkom jien ⟨hu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "67371bf00ebf146ca0eff54b8b8278a29739bb9f04e066e50fd7bd1131edf929",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/1-4.1792607248545.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Kelmuhom"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġobkom"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "f'widnejn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "is-sidien"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ta' Shekem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "X'"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalkom"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "li jħakmu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fuqkom"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebgħin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jew"
+    },
+    {
+      "surface": "משל",
+      "gloss": "li jħakem"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fuqkom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "וזכרתם",
+      "gloss": "U ftakru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "עצמכם",
+      "gloss": "l-għadma tagħkom"
+    },
+    {
+      "surface": "ובשרכם",
+      "gloss": "u l-laħam tagħkom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien ⟨hu⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T18:27:28.547412958Z",
+  "model": "glm-5.3"
+}

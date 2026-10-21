@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "Ħesed Maḷti mhux tradott — ħniena waħedha doqqa; il-Malti għandu l-ħoss Semitiku għalih"
+    },
+    {
+      "kind": "invitation",
+      "subject": "la tħallihomx",
+      "rationale": "Talba diretta f'forma ta' imperattiv negattiv lis-sema"
+    },
+    {
+      "kind": "crux",
+      "subject": "jitlesta",
+      "rationale": "יגמר jista' jkun it-timbru tajjeb (jitlesta) jew it-tmiemħażin (jaqta'); il-biċċa l-kbira tat-traduzzjonijiet jaħtaw it-tifsira pożittiva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה...יהוה",
+      "rationale": "Inklussjoni tal-Isem fil-bidu u f'nofs il-vers, bħal fil-vers 5"
+    }
+  ],
+  "translation": "Jaħwe jitlesta dak li għalija; Jaħwe, il-ħesed tiegħek għal dejma; ix-xogħlijiet ta' idek, la tħallihomx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/138\/5-8.1792618233996.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "jitlesta"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "dak li għalija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il-ħesed tiegħek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejma"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ix-xogħlijiet"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ta' idek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "tħallihomx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:33.997624901Z",
+  "model": "glm-5.3"
+}

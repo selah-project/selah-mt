@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "noti",
+      "rationale": "נפש הawn hawn tfisser persuni jingħaddu (ħajja\/nifs), mhux 'rwieħ'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skont in-numru ta' noti",
+      "rationale": "Għadd ta' nies għal kull ħaruf, skont il-ħlas ta' kull wieħed."
+    },
+    {
+      "kind": "crux",
+      "subject": "תכסו",
+      "rationale": "כסס hawn 'tagħsru\/stmaw' (KJV 'let him and his neighbour take'; verżjonijiet jaqsmu dwar min jaġixxi)."
+    }
+  ],
+  "translation": "U jekk id-dar tkun żgħira wisq għal ⟨minn⟩ ħaruf, hu u ġaruwiħ l-iktar qrib ta' daru jieħdu wieħed skont in-numru ta' noti; kull raġel skont kemm jiekol, tagħsru fuq il-ħaruf.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/1-4.1792599452890.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "tkun żgħira wisq"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "għal minn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ħaruf"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "jieħdu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "u ġaruwiħ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "l-ikbar qrib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "daru"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "skont in-numru"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "ta' noti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull raġel"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "skont kemm"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "tagħsru"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "השה",
+      "gloss": "il-ħaruf"
+    }
+  ],
+  "timestamp": "2026-10-21T16:17:32.891604775Z",
+  "model": "glm-5.3"
+}

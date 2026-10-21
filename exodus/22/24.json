@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשך",
+      "rationale": "litteralment 'gidma' — qligħ ta' self li jaqta' bħal snieh"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנשה",
+      "rationale": "il-creditur vs li jilqa' b'qligħ; il-kontest jipprovda l-għajnuna lill-miskin bla qligħ"
+    }
+  ],
+  "translation": "Jekk flus tilqa' lil ⟨את⟩ niesi, lil ⟨את⟩ il-miskin miegħek, ma tkunxilu bħal li jħallas bi proveġġ; tqiegħdux fuqu qligħ.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/21-24.1792599730527.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "flus"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "tilqa'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil niesi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "niesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil il-miskin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "il-miskin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "bħal li jħallas bi proveġ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tqiegħdux"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "tqiegħdu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "qligħ"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:10.529082969Z",
+  "model": "glm-5.3"
+}

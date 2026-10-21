@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "x-xhiediet",
+      "rationale": "עדות: 'xhiediet' fit-Tanakh; tradizzjonijiet oħra jqisu bħala 'testimonjanzi'"
+    }
+  ],
+  "translation": "Kemm huma hieni dawk li jżomru x-xhiediet tiegħu, b'qalbhom kollha jfittxuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/1-4.1792618044760.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kemm huma hieni"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "li jżomru"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "x-xhiediet tiegħu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "b'qalb"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "jfittxuh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:24.761024853Z",
+  "model": "glm-5.3"
+}

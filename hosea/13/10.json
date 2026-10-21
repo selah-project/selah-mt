@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "Geneva\/KJV jaqraw 'I am\/will be thy king'; ASV\/JPS\/BSB jaqraw 'where is thy king' — l-istess konsonanti, żewġ tradizzjonijiet."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויושיעך",
+      "rationale": "Il-waw awtorizzattiv qabel il-futur ma għandux ekwivalenti Malti."
+    }
+  ],
+  "translation": "Fejn hu, immela, is-sultan tiegħek, li jikkonslazyek f'iblietek kollha? U l-imħallfin tiegħek, li għidtlek: Agħtini sultan u kbar!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/13\/9-12.1792615515486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Fejn"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "is-sultan tiegħek"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "immela"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "li jikkonslazyek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'... kollha"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "iblietek"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "U l-imħallfin tiegħek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "għidtlek"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Agħti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "u kbar"
+    }
+  ],
+  "timestamp": "2026-10-21T20:45:15.487235041Z",
+  "model": "glm-5.3"
+}

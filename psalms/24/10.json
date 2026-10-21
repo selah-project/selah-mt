@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "il-qarrej \/ il-proċessjoni",
+      "rationale": "Mistoqsija retorika diretta: 'Min hu dan, is-sultan tal-ġieħ?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך הכבוד",
+      "rationale": "Ripetizzjoni ta' 'sultan tal-ġieħ' mill-versi 8, 9 u 10 — is-Semja telgħa bir-ritorn tal-istess frażi."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "סלה markatur mużikali (paussa) ma għandu ekwivalent Malti; maħfuz bħala 'Selah'."
+    }
+  ],
+  "translation": "Min hu dan, is-sultan tal-ġieħ? Jaħwe Tsebawot — huwa s-sultan tal-ġieħ. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/9-10.1792616695411.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "tal-ġieħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "tal-ġieħ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:55.412591874Z",
+  "model": "glm-5.3"
+}

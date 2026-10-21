@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רקח",
+      "rationale": "Il-lemma רקח b'dan il-qbil (sustantiv għall-pertumier) huwa rari fil-Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "inċens",
+      "rationale": "קטרת tfisser litteralment 'duħħan\/fumigazzjoni', mhux inċens bħala oġġett."
+    }
+  ],
+  "translation": "U għamel ⟨את⟩ ż-żejt tal-mixija qaddis, u ⟨את⟩ l-inċens tal-ħwawar safi, għemil ta' min jagħmel ir-riħa.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c9b29592e59a5fa8f12d2ce8938d8de31ab05f60907ffca4bc52177d82a999d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/37\/29-29.1792600219178.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "U għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ż-żejt tal-mixija"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ż-żejt"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "tal-mixija"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-inċens tal-ħwawar"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "l-inċens"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "tal-ħwawar"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ta' min jagħmel ir-riħa"
+    }
+  ],
+  "timestamp": "2026-10-21T16:30:19.179434181Z",
+  "model": "glm-5.3"
+}

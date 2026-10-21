@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צבאות",
+      "rationale": "'roes\/gazelles' vs 'hosts (Tsebawot)' — qrib ta' צביה; here animals, mhux Jaħwe Tsebawot"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבאות\/אילות",
+      "rationale": "alliterazzjoni bejn iż-żewġ annimali, imdiffu fil-plural femminili"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שתחפץ",
+      "rationale": "'sakemm tkun trid hi' — l-imħabba femminili; xi tradutturi jqiegħdu 'hu'"
+    }
+  ],
+  "translation": "Ħallejtkom bil-ħalf, bint Jeruxalajim, biż-żibġ, jew biċ-ċriev tal-għasel — għajrux u la tqajmux lill-imħabba, sakemm tkun trid hi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/5-8.1792619951299.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ħallejtkom bil-ħalf"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bint Jeruxalajim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bint"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "biż-żibġ"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "biċ-ċriev tal-għasel"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tal-għasel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "għajru"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "tqajmux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-imħabba"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lill-imħabba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sakemm"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "tkun trid hi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:59:11.300300244Z",
+  "model": "glm-5.3"
+}

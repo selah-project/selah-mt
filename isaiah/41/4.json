@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "id-duri mill-bidu",
+      "rationale": "is-seħiet tal-ġenerazzjonijiet maqtugħa mill-bidu — ħolqien ta' linja taż-żmien"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת אחרנים",
+      "rationale": "את hawn hija preposizzjoni 'ma'' (H854), mhux markatur tal-oġġett — 'u ma' l-aħħarin jien huwa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשון \/ אחרנים",
+      "rationale": "l-ewwel u l-aħħar — kontrast retoriku li jiftaħ u jagħlaq il-ħolqien kollu"
+    }
+  ],
+  "translation": "Min għamel u ghamel dan, jislim is-seħa lid-duri mill-bidu? Jien Jaħwe, l-ewwel, u ma' ⟨את⟩ l-aħħarin jien huwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/41\/1-4.1792611741135.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "u għamel dan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jislim is-seħa"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "lid-duri"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "mill-bidu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-aħħarin"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "l-aħħarin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:42:21.137036815Z",
+  "model": "glm-5.3"
+}

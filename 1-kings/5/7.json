@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנצבים",
+      "rationale": "literali 'dawk maqtugħin\/imwaqqfin' — l-uffiċjali maħtura; 'uffiċjali' huwa rwol, mhux il-ħoss tal-kelma."
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ l-verb 'kien' mal-passat kontinwu; il-Lhudi juża partċipju biss."
+    },
+    {
+      "kind": "measurement",
+      "subject": "איש חדשו",
+      "rationale": "tnax-il uffiċjal, kull wieħed fix-xahar tiegħu — il-ħsibijiet imqassma tax-xhur."
+    }
+  ],
+  "translation": "U dawk l-uffiċjali kienu jmattu lir-re Slomon u lil kull dak li kien jersaq lejn il-mejda tar-re Slomon, kull wieħed fix-xahar tiegħu; ma kienx jitlef xejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/5\/5-8.1792609328756.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "U kienu jmattu"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "l-uffiċjali"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lir-re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Slomon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "kull dak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dak li kien jersaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "il-mejda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Slomon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "fix-xahar tiegħu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma kienx"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "jitlef"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "xejn"
+    }
+  ],
+  "timestamp": "2026-10-21T19:02:08.758272075Z",
+  "model": "glm-5.3"
+}

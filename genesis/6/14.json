@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גפר",
+      "rationale": "siġar tal-gopher jidher biss hawn fit-Tanakh; ċipress hija ħsara komuni"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנים",
+      "rationale": "litteralment 'bejjiegħa\/nests'; 'kmamar' vs 'sulari' vs 'bejjiegħa' fost it-tradutturi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרת\/כפר",
+      "rationale": "l-istess għerq: 'tgħattilha' u 'katran' — għerq li jfisser ukoll 'tkasbir', mitluf bil-Malti"
+    }
+  ],
+  "translation": "Imla għalik tabut minn injam tal-gopher; bil-kmamar tagħmel ⟨את⟩ it-tabut, u tgħattilha ⟨את⟩ minn ġewwa u minn barra bil-katran.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/6\/13-16.1792597834664.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Imla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "minn injam"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "tal-gopher"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "bil-kmamar"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tabut"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "it-tabut"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "u tgħattilha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minn ġewwa u minn barra"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "minn ġewwa"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "u minn barra"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "bil-katran"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:34.665851375Z",
+  "model": "glm-5.3"
+}

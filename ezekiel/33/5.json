@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iruwaħ",
+      "rationale": "נפש mhux 'ruħ' biss — hija ħajja, ħlas, sħiħa; hawn tfisser il-ħajja ta' min jisimgha"
+    },
+    {
+      "kind": "addition",
+      "subject": "iruwaħ",
+      "rationale": "il-Malti jrid kelma għal נפשו; il-Lhudi għandu s-sostantiv biss"
+    }
+  ],
+  "translation": "⟨את⟩ il-ħoss tax-xofar sema' u ma ħaditx twissija — id-demm tiegħu fuqu jkun; iżda hu li jieħu t-twissija, ⟨iruwaħ⟩ tiegħu jiffranka.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/33\/5-8.1792614941626.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħoss tax-xofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il-ħoss"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "tax-xofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sema'"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ħaditx twissija"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "id-demm tiegħu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "izda hu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "li jieħu t-twissija"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iruwaħ"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "jiffranka"
+    }
+  ],
+  "timestamp": "2026-10-21T20:35:41.627273043Z",
+  "model": "glm-5.3"
+}

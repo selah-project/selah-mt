@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "b'sagrifiċċju",
+      "rationale": "זבח huwa biċċa waħda li tfisser qtil għall-qorti; il-Malti jeħtieġ żewġ kelmiet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "toeba",
+      "rationale": "תועבה: xi ħaġa li twaħħax, ma tadhwix — mhux sempliċement 'ħażin'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hi⟩",
+      "rationale": "l-għaqda tal-ġieli bil-Malti teħtieġ il-pronom; il-Lhudi għandu הוא fil-veru qiegħ"
+    }
+  ],
+  "translation": "Ma toffrix b'sagrifiċċju lil Jaħwe Elohim tiegħek baqar jew ħaruf li fih hemm difett, kwalunkwe ħaġa ħażina, għax toeba għal Jaħwe Elohim tiegħek ⟨hi⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/17\/1-4.1792605698505.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "toffrix b'sagrifiċċju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "jew ħaruf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "מום",
+      "gloss": "difett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwalunkwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ħaġa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "toeba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    }
+  ],
+  "timestamp": "2026-10-21T18:01:38.505749508Z",
+  "model": "glm-5.3"
+}

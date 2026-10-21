@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poplu",
+      "rationale": "עם huwa 'poplu\/nies mlaqqgħin' bħala unità — mhux sempliċiment 'nies' individwali."
+    },
+    {
+      "kind": "alternative",
+      "subject": "terġa' tħajjerna",
+      "rationale": "תשוב tista' tkun 'terġa' dur' (lejn Jaħwe) jew kawżattiv 'erdna lura'; il-qari magħżul jgħaqqad it-tnejn."
+    }
+  ],
+  "translation": "Mhux inti terġa' tħajjerna, biex il-poplu tiegħek jifraħ ⟨bikk⟩— fik?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/85\/5-8.1792617569455.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "terġa'"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "tħajjerna"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "u l-poplu tiegħek"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "jifraħ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fik"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:29.456828765Z",
+  "model": "glm-5.3"
+}

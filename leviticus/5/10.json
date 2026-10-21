@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jikkupra",
+      "rationale": "וכפר litteralment 'jikkopri' — il-ħatat jingħataw; l-għerq jifhem ikkuprar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olah",
+      "gloss_malti": "olah",
+      "rationale": "עלה offerita li tintela' kollha — 'dak li jitla'', miżmuma skont il-ħoss"
+    }
+  ],
+  "translation": "U ⟨את⟩ it-tieni jagħmel bħala olah skond id-dritt, u l-qeddes jikkupra għalih għal ħatjt u li ħata, u jingħafarlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/5\/9-12.1792600545799.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "it-tieni"
+    },
+    {
+      "surface": "השני",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "skond id-dritt"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "u jikkupra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qeddes"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "għal ħatjt u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ħata"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "u jingħafar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:35:45.800860718Z",
+  "model": "glm-5.3"
+}

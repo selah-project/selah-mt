@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Verb kopulattiv miżjud bil-Malti; il-Lhudi jgħid sempliċement 's-slaten ta' Medja u Paras'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sid il-qrun",
+      "rationale": "בעל + nominals: 'sid ta'' = dak li jkollu; litterali biex jinżamm id-deher tal-poeżija"
+    }
+  ],
+  "translation": "Il-muntun li rajt, sid il-qrun, dawn ⟨huma⟩ s-slaten ta' Medja u Paras.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/8\/17-20.1792620883072.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "Il-muntun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "rajt"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sid"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "il-qrun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "s-slaten"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ta' Medja"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "u Paras"
+    }
+  ],
+  "timestamp": "2026-10-21T22:14:43.073070924Z",
+  "model": "glm-5.3"
+}

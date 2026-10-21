@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 38:3",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "xsir qadd il-ġnub",
+      "rationale": "l-idjoma Lhudi 'laħħaq il-ħaġar żaqq' għat-tħejjija; il-Malti juża 'xsir qadd'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien \/ int",
+      "gloss": "",
+      "rationale": "pronomi miżjuda għas-sintassi Maltija"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ajov",
+      "rationale": "imperattivi diretti: Jaħwe jsejjjaħ lil Ajov biex jieħu pożizzjoni ta' raġel"
+    }
+  ],
+  "translation": "Oqgħod, jekk jogħġbok, xsir qadd bħat-tpkija l-ġnub tiegħek; jien nistaqsi mingħandek, u int urli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "344d278c01c6060805fe77398ac8f5f5321abed23c42d570bd16aac7c240e821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/38\/1-4.1792619769753.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "xsir qadd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "bħar-raġel"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "il-ġnub tiegħek"
+    },
+    {
+      "surface": "ואשאלך",
+      "gloss": "jien nistaqsi mingħandek"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "u int urli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:09.754582355Z",
+  "model": "glm-5.3"
+}

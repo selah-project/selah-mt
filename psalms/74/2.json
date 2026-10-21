@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קנית",
+      "rationale": "qanita: 'ħsart\/sirkt' (acquired by purchase) kontra 'ħliqt' (create, bħal Prov 8:22); il-Malti 'ħsart iżżomm l-idea ta' akkwist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבט",
+      "rationale": "shevet: 'tribu' hawn, iżda l-kelma tfisser ukoll 'bastun\/satra' — 'il-bastun tan-nisel' jifletaħ it-tifsira doppja."
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "l-artiklu Malti miżjud għal 'knegħma' għax il-Lhudi għandu l-kostrutt ma' suffiss."
+    }
+  ],
+  "translation": " Ftakar fi ⟨il-⟩ knegħma tiegħek, li ħsartha mil-qedem, li fdiletha, fit-tribu tan-nisel tiegħek, il-muntanja Sijon, f'din għixint fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d58647ecf680894551720e7117e5c7fa27b2e7aa460245f52e7fe7e5fcd5dc67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/2-3.1792623809253.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "knegħma tiegħek"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ħsart"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mil-qedem"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "fdiletha"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fit-tribu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "tan-nisel tiegħek"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il-muntanja"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "f'din"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "għixint"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:29.253992396Z",
+  "model": "glm-5.3"
+}

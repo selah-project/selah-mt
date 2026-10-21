@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרוים",
+      "rationale": "Parwajim: isem ta' reġjun, jidher biss hawn fit-Tanakh; l-ebda traduzzjoni ma togħgbom."
+    },
+    {
+      "kind": "crux",
+      "subject": "לתפארת",
+      "rationale": "'għall-ġmiel' jew 'bi ħaġar ta' tiżbir'; tifkira astratta milli konkreta."
+    }
+  ],
+  "translation": "U ħatt ħdejn ⟨את⟩ id-dar bi ħaġar prezzjuż għall-ġmiel tagħha; u d-deheb kien deheb ta' Parwajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6a1793d84504d2960dae29fdc49823d6f8827e8689b05fdfa63ad7e59edb07d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/3\/6-7.1792624010998.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ħatt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ħaġar"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "prezzjuż"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "għall-ġmiel"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "u d-deheb"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parwajim"
+    }
+  ],
+  "timestamp": "2026-10-21T23:06:50.998647696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-midlukin",
+      "rationale": "משיחיך plural: 'il-midlukin tiegħek' (is-slattnija kollha midluka) kontra s-singular 'il-midluk' ta' ħafna traduzzjonijiet"
+    },
+    {
+      "kind": "idiom",
+      "subject": "wiċċ il-midlukin",
+      "rationale": "'tirritirax il-wiċċ' — idjome Lhudija għal ma tridux tiringrazzjax\/taċċettax"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכרה לחסדי",
+      "rationale": "anakruża ta' Salm 132: 'ftakar fl-ħesed' — Jakov għandu r-rima verb-qedem -ah"
+    }
+  ],
+  "translation": "Jaħwe Elohim, la titbiddilx wiċċ il-midlukin tiegħek; ftakar fl-ħesed ta' David, il-qaddej tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "723a8eab90368c9d660a59b69366d80a65d583938a4fa3d90518331166d23c27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/41-42.1792622337428.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "titbiddilx"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "il-midlukin tiegħek"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "ftakar"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "fl-ħesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il-qaddej tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:38:57.429036953Z",
+  "model": "glm-5.3"
+}

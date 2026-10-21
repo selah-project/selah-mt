@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ il-verb 'kien'; il-Lhudi għandu biss 'u fuq'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "biedja",
+      "rationale": "עבודה hawn tfisser 'kultivazzjoni\/_servitù tal-art', mhux biss 'ħidma'"
+    }
+  ],
+  "translation": "U fuq dawk li jaħdmu x-xogħol tal-għalqa, għall-biedja tal-art, kien Ezri bin Kelub.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd566db08673027307713596f3b4ee2afd20c998fc6e7dfe30e31bd9b36820b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/27\/25-28.1792622192470.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "U fuq"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "dawk li jaħdmu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "x-xogħol"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tal-għalqa"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "għall-biedja"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Ezri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "Kelub"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:32.471025095Z",
+  "model": "glm-5.3"
+}

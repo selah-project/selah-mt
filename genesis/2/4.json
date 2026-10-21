@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi m'għandux verb 'jkun', il-Malti jeħtieġh"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סמיא\/ארץ",
+      "rationale": "chiasm: sema u l-art... l-art u s-sema — l-ordni bilqiegħda ma' t-tmiem tal-istejl"
+    },
+    {
+      "kind": "crux",
+      "subject": "תולדות",
+      "rationale": "'twelid\/ġenerazzjonijiet' vs 'kont\/ħrajja' — l-ewwel użu ta' din il-kelma fis-silta ta' Ġenesi"
+    }
+  ],
+  "translation": "Dawn huma t-twelid tas-sema u l-art meta ġew maħluqa, fil-jum li ħalaq Jaħwe Elohim l-art u s-sema.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/2\/1-4.1792597743133.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "huma t-twelid"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-sema"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "u l-art"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "meta ġew maħluqa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "li ħalaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "u s-sema"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:03.135159504Z",
+  "model": "glm-5.3"
+}

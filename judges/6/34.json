@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "libsret",
+      "rationale": "לבש 'libes' — ir-ruwaħ 'tilbes' lil Gidgħon, mhux sempliċement 'niżlet fuqu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויזעק אביעזר",
+      "rationale": "'Abi-ezer għolla leħnu warajh' jew 'Abi-ezer inżema' warajh' — il-verb זעק jista' jkun kollha tnejn"
+    }
+  ],
+  "translation": "U ruwaħ Jaħwe libsret ⟨את⟩ Gidgħon, u daqq fix-xofar, u għolla leħnu Abi-ezer warajh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/6\/33-36.1792607080144.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "U ruwaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "libsret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gidgħon"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidgħon"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "u daqq"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "fix-xofar"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "u għolla leħnu"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abi-ezer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "warajh"
+    }
+  ],
+  "timestamp": "2026-10-21T18:24:40.145430717Z",
+  "model": "glm-5.3"
+}

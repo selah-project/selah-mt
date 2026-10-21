@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 1:14",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nis",
+      "rationale": "Maltese verb requires the auxiliary 'to go' for the future; the Hebrew has none"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סער\/סופה",
+      "rationale": "storm\/whirlwind paired in parallel — the double tempest frames the verse's end"
+    }
+  ],
+  "translation": "U nies nixfgħu nar ġewwa ħajt Rabba, u jiekol il-ġibjien tagħha, b'għajta f'jum il-ġlied, bis-saħħara f'jum it-tempesta.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/1\/13-15.1792615609985.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "u nies nixfgħu nar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ġewwa ħajt"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "u jiekol"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "il-ġibjien tagħha"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "b'għajta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "il-ġlied"
+    },
+    {
+      "surface": "בסער",
+      "gloss": "bis-saħħara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "it-tempesta"
+    }
+  ],
+  "timestamp": "2026-10-21T20:46:49.986727386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Qtajt patt",
+      "rationale": "כרת ברית literally 'cut a covenant' (from cutting animals between the pieces, Gen 15); 'qtajt patt' keeps the cutting"
+    }
+  ],
+  "translation": "Qtajt patt lil magħżuli; ħlift lil David, il-qaddej tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/1-4.1792617665557.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Qtajt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "patt"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "lil magħżuli"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ħlift"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "il-qaddej tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:05.558539821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "korrimenti",
+      "rationale": "עצבות tfisser uġigħ\/korriment, mhux biss ferħ tassew imdorri"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jfejjaq",
+      "rationale": "רפא jista' jittraduċi 'fejni' jew 'jfejjaq'; 'fejni' jżomm il-ġibtà medika tat-test"
+    }
+  ],
+  "translation": "Huwa fejn dawk miksura ta' qalb, u jwaħħal il-korrimenti tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/1-4.1792618337896.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "dawk miksura"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ta' qalb"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "u jwaħħal"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "il-korrimenti tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:17.897818927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ir-ras",
+      "rationale": "הראש litteralment 'ir-ras' — il-kap tal-familja; l-għarbi jżomm il-forma tal-ġisem."
+    },
+    {
+      "kind": "measurement",
+      "subject": "niżżil in-nisel",
+      "rationale": "Reġistrazzjoni ġenealoġika uffiċjali tal-klans."
+    }
+  ],
+  "translation": "U aħwaħ, skont familji tagħhom, meta n-kitbu fin-nisel ta' nisilhom: ir-ras kien Jaħi'el, u Zekarjaħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a811349c470df94a1630eafe915d275481776e998ed103960b95a3956879415",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/5\/5-8.1792621722302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "U aħwaħ"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "skont familji tagħhom"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "meta n-kitbu fin-nisel"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "ta' nisilhom"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ir-ras"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jaħi'el"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "u Zekarjaħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:28:42.303771366Z",
+  "model": "glm-5.3"
+}

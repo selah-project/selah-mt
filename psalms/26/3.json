@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħesedek",
+      "rationale": "ħesed mhuwiex 'ħniena' biss; qtigħ ta' lealtà u tberik"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלכתי\/התהלכתי",
+      "rationale": "Sogġazzjoni: l-istess verb tar-rombit jingħata l-ewwel b'mod sempliċ (v.1), imbagħad b'reflexiv intensiv (hitpael) — 'imxi kontinwu'"
+    }
+  ],
+  "translation": "Għax ħesedek qabel għajnejja, u mxi jit fix-xbieha ta' verità tiegħek — għax kemm jien immur bit-tjieba tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/26\/1-4.1792616770791.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ħesedek"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejja"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "u immur"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "bit-tjieba tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:10.792585097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "<gezah> · <hijah> · <huh>",
+      "rationale": "il-Malti jeħtieġ l-għaqda u s-suffissi li l-Lhudi jaħtarhom bil-verbi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "għoxrin amma × 3",
+      "rationale": "it-tul, il-wisa' u l-għoli tad-Devir — għoxrin amma kull wieħed"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזבח ארז",
+      "rationale": "l-artal tas-sedru: jekk l-artal <gezah> bis-sedru (KJV) jew jekk <gezah> bid-deheb u l-istroma tixba' it-templa (JPS id-dritt ta' l-ebda suffiss)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סגור → msemmen",
+      "rationale": "il-kelma tfisser 'magħluq', għalhekk 'deheb saff' — it-traduzzjoni Maltija tuża 'msemmen' (deheb tal-ogħla grad)"
+    }
+  ],
+  "translation": "U quddiem id-Devir: għoxrin amma twil, u għoxrin amma wiesa', u għoxrin amma għoli <hijah>, u dan <gezah> <huh> bid-deheb imsemmen, u <gezah> l-artal tas-sedru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b48fbb2b2b1518d1e1841428cd41c20554ae3684eea006d5ef4a5ebf185bf27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/6\/20-20.1792623340108.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "u quddiem"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "id-Devir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "twil"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "wiesa'"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "għoli <hijah>"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "u <gezah> <huh>"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bid-deheb"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "msemmen"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "u <gezah>"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "tas-sedru"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:40.109126306Z",
+  "model": "glm-5.3"
+}

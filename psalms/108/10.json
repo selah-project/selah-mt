@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נעלי",
+      "rationale": "ħawwel ix-xarbajna = ħa pussess; tradott bil-letterali għax it-tribunal tal-possess jidher"
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħna",
+      "rationale": "possessiv mħares ma' רחצי (battitu l-ħasil) ma joħroġx bil-Malti mingħajr suffix għal 'sibt'"
+    }
+  ],
+  "translation": "Moab sibt tal-ħasil tagħna; fuq Edom inħawwel xarbajna; fuq Pelexet inwerwer.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/108\/9-12.1792617860962.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sibt"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "tal-ħasil tagħna"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "inħawwel"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "xarbajna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelexet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "inwerwer"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:20.962777791Z",
+  "model": "glm-5.3"
+}

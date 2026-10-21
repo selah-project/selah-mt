@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Mela",
+      "rationale": "il-Malti jgħaqqad in-negazzjoni mal-verb bl-infaqas 'Mela tagħmlux' — il-'Mela' miżjuda jġorr in-negazzjoni"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "projbizzjoni direttali lil Jisrael"
+    }
+  ],
+  "translation": "Mela tagħmlux hekk lil Jaħwe, l-Elohim tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c95a845d91546d0fddaa56306d1a8dcb889d1538fff03de1eae7ba857884b7aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/12\/1-4.1792605575633.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mela"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "tagħmlux"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "l-Elohim tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:59:35.635663068Z",
+  "model": "glm-5.3"
+}

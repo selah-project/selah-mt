@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mogħża rras",
+      "rationale": "השעיר huwa mogħża rras (shaggy he-goat), mhux sempliċement 'mogħża'"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-lott",
+      "rationale": "הגורל litteralment 'ċagħqa' — ġebel żgħar użati għall-ixsortt"
+    }
+  ],
+  "translation": "U Aharon iqarreb ⟨את⟩ il-mogħża li tela' fuqha l-lott għal Jaħwe, u jagħmelha offerta tal-ħtija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/9-12.1792600931714.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "iqarreb"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mogħża"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "il-mogħża rras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tela'"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqha"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "l-lott"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "u jagħmelha"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "offerta tal-ħtija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:42:11.715263522Z",
+  "model": "glm-5.3"
+}

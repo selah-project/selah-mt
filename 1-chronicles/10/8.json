@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-mejtin maqtula",
+      "rationale": "החללים letteralment 'dak li ġie mibrum\/miġrud' — il-mejtin tal-battalja."
+    },
+    {
+      "kind": "elision",
+      "subject": "נפלים",
+      "rationale": "'waqgħin\/mixħutin' — il-Malti juża 'mixħutin' għal min waqa' mejjet; il-verb נפל jifhem it-tfal."
+    }
+  ],
+  "translation": "U ġara fl-għada li ġew il-Filistin biex jisplawxu lil ġisem il-mejtin, u sabu ⟨את⟩ lil Xa'ul u ⟨את⟩ lil uliedu mixħutin fuq il-muntanja Gilboa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/10\/5-8.1792621914466.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ġara"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "fl-għada"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "li ġew"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "il-Filistin"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "biex jisplawxu lil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mejtin maqtula"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "il-mejtin maqtula"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "u sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xa'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xa'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "uliedu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uliedu"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "mixħutin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fuq il-muntanja"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:54.469341516Z",
+  "model": "glm-5.3"
+}

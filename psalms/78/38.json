@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 78:38",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lura lil",
+      "rationale": "להשיב biss 'jerġa' jiftaħ' il-passaġġ; il-Malti jżid 'lura'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ ħadru",
+      "rationale": "אף litteralment 'imnieħer\/moħħ il-ħadru' — idjoma għall-għadab, miżmum b'deutja Semitika"
+    },
+    {
+      "kind": "addition",
+      "subject": "homx",
+      "rationale": "il-pronome 'hom' fil-verb 'jeqridhom' ma tinsabx fil-Lhudi; il-verb huwa assolut"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħarar",
+      "rationale": "חמה litteralment 'sħana' — idjoma għall-għadab qawwi"
+    }
+  ],
+  "translation": "Iżda hu, ħanin, jaħfar id-deni u ma jeqridhomx, u kemm-il darba raġġa' lura lil ruwaħ ħadru u ma qajmx kollu ħarar tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/37-40.1792617475664.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "iżda hu"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ħanin"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "jaħfar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "id-deni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "jeqridhom"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "u kemm-il darba"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "raġġa' lura"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ruwaħ ħadru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "qajmx"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ħarar tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:55.665538664Z",
+  "model": "glm-5.3"
+}

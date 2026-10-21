@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tieghēk",
+      "rationale": "il-pronom possessiv bil-Malti għal costrutt ה plurali דדיך"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiżun",
+      "rationale": "שמן huwa żejt (taż-żebbuġa, spiss imrieħed), mhux teolorja ta' keras"
+    }
+  ],
+  "translation": "Kemm sabiħ il-ħbiberija tiegħek, oħti ħarġa; kemm aħjar l-imħabba tiegħek mill-inbid, u riħ l-jiżun tiegħek minn kull ħwawar!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/4\/9-12.1792619901406.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kemm"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "sabiħ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "il-ħbiberija tiegħek"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "oħti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ħarġa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "l-imħabba tiegħek"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "mill-inbid"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "u riħ"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "l-jiżun tiegħek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn kull"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ħwawar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:21.407237875Z",
+  "model": "glm-5.3"
+}

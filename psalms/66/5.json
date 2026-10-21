@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "עלילה",
+      "rationale": "'għemejjel ta' kbir biżżejjed biex twellih' — ħjut parallel ma' נורא"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נורא עלילה",
+      "rationale": "alliterazzjoni ta' n-r \/ ע-l, mitħun fil-Malti bħala twal \/ twalibħir"
+    },
+    {
+      "kind": "invitation",
+      "subject": "il-qarrej",
+      "rationale": "imperattivi לכו וראו jsejħu lill-qsar"
+    }
+  ],
+  "translation": "Ejdu u araw l-għemejjel ta' Elohim; twal bi twalibħir fuq wlied Adam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/66\/5-8.1792617291942.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ejdu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "u araw"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "l-għemejjel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "twal"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "twalibħir"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:51.943419873Z",
+  "model": "glm-5.3"
+}

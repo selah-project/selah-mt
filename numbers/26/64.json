@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "żewġ censimenti",
+      "rationale": "l-ebda raġel mill-censiment ta' Sinaj ma baqa' għall-ħtija tal-censiment ta' Moab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-ebda raġel",
+      "rationale": "l-Ebrajk jgħid biss לא היה איש — 'ma kien hemm raġel'; il-Malti jeħtieġ 'l-ebda' fin-negazzjoni"
+    }
+  ],
+  "translation": "U fost dawn ma kien hemm l-ebda raġel minn dawk li n-għoddu minn Moxe u Aharon il-qassis, meta għoddu ⟨את⟩ lil ulied Jisrael fid-deżert tas-Sinaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd2ab79db3fb1258a1a5247b90e630801b8db99bc6d3c4f7f993399afdbd59b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/26\/61-64.1792604927475.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "u fost dawn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l-ebda raġel"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "minn dawk li n-għoddu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "minn Moxe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "u Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "għoddu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert ta'"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "s-Sinaj"
+    }
+  ],
+  "timestamp": "2026-10-21T17:48:47.478897554Z",
+  "model": "glm-5.3"
+}

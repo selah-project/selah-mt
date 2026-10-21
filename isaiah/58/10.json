@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש hija eqreb għall-ħajja\/nifs\/appetit milli 'ruħ' fil-fehma Ellenistika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפשך \/ ונפש",
+      "rationale": "Repetizzjoni ta' nefesh fil-bidu u fil-qosor; l-istruttura tinsa ftit fit-traduzzjoni"
+    },
+    {
+      "kind": "crux",
+      "subject": "נענה",
+      "rationale": "'afflicted' (mdejjaq) jew 'weary\/answered'; ħafna verżjonijiet jaqbżu għal 'afflicted'"
+    }
+  ],
+  "translation": "u toħroġ għall-imġun ⟨il⟩-ruħ tiegħek, u ruħ mdejjaq taxba' — imbagħad id-dawl tiegħek jixreħ fid-dlam, u d-dukkien tiegħek ikun bħan-nofs in-nhar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bcd870a6e996bcd26f682ba9b0725a946449908e5fe56bedaf52c064b35bd9cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/58\/9-10.1792623521498.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "u toħroġ"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "għall-imġun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ruħek"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "u ruħ"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "mdejjaq"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "taxba'"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "u jixreħ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "fid-dlam"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "id-dawl tiegħek"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "u d-dukkien tiegħek"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "bħan-nofs in-nhar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:41.499485776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-verbu 'hemm' ma hemmx fl-Lhudi; il-fras jgħid sempliċement 'għal Jaħwe għajn il-bniedem'"
+    },
+    {
+      "kind": "crux",
+      "subject": "għajn il-bniedem",
+      "rationale": "עין אדם: 'l-għajn tal-bniedem (u ta' Jisrael) mqiegħda fuq Jaħwe' (KJV\/Ġenerva) jew 'l-għajn ta' Jaħwe hi fuq il-bniedem' (JPS); id-direzzjoni tal-għajn mhux ċara"
+    },
+    {
+      "kind": "crux",
+      "subject": "Ħadrak",
+      "rationale": "חדרך: isem ta' post jew alla Sirjan, mhux magħruf minn mkien ieħor b'ċertezza"
+    }
+  ],
+  "translation": "Mżieżel tal-kelma ta' Jaħwe fl-art ta' Ħadrak, u f'Damasku l-mistrieh ⟨tiegħu⟩; għax għal Jaħwe ⟨hemm⟩ għajn il-bniedem, u ta' l-itrijiet kollha ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/9\/1-4.1792616317567.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mżieżel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "ta' Ħadrak"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "u f'Damasku"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "l-mistrieh tiegħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "għajn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u ta' kollha"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "l-itrijiet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T20:58:37.567542092Z",
+  "model": "glm-5.3"
+}

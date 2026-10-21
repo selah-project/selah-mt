@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-kopula għal 'u l-bor kien vojt', miżjuda b'parentesi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רק אין בו מים",
+      "rationale": "litteralment 'vojt, bla ilma fih' — id-doppja tal-Lhudi (vojt + bla ilma) miżmuma"
+    }
+  ],
+  "translation": "U ħaduh u armawh ⟨את⟩ fil-bor; u l-bor ⟨kien⟩ vojt, ma fiha ⟨kien⟩ l-ebda ilma.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/37\/21-24.1792598783312.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ħaduh"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "armawh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "fil-bor"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "u l-bor"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vojt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma fiha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "l-ebda ilma"
+    }
+  ],
+  "timestamp": "2026-10-21T16:06:23.313882019Z",
+  "model": "glm-5.3"
+}

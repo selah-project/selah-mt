@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qadina",
+      "rationale": "אמה: qadina\/skrava nisa; kelma speċifika għal skrava mara, distint mill-עבד"
+    }
+  ],
+  "translation": "U jekk raġel ibigħ ⟨את⟩ bintu biex tkun qadina, ma toħroġx kif joħorġu l-ilsir.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/21\/5-8.1792599790447.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "U jekk"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ibigħ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "bintu"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "biex tkun qadina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "toħroġx"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kif joħorġu"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "l-ilsir"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:10.448579308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dell tal-mewt",
+      "rationale": "צלמות huwa kompost ta' צל (dell) + מות (mewt); ġie mħarreġ bil-kelma waħda 'mewt' f'xi traduzzjonijiet, iżda l-figura tad-dell tinsaż."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħbula",
+      "rationale": "מוסרות litteralment 'miżuri ta' dixxiplina', imħallsin b'ħbula (rabtiet); il-ħbula tar-Renju tal-Qadarm b'din il-każ."
+    }
+  ],
+  "translation": "Ħarġhom mid-dlam u mid-dell tal-mewt, u l-ħbula tagħhom qatta'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/13-16.1792617879596.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Ħarġhom"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "mid-dlam"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "u mid-dell tal-mewt"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "u l-ħbula tagħhom"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "qatta'"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:39.596812372Z",
+  "model": "glm-5.3"
+}

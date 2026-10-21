@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kburija ta' qalb",
+      "rationale": "גדל לבב is literally 'greatness of heart' — pride pictured as an enlarged heart"
+    },
+    {
+      "kind": "addition",
+      "subject": "li",
+      "rationale": "Maltese needs the conjunction 'li' to introduce the subordinate clause Hebrew carries by word order alone"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ephraim and Samaria",
+      "rationale": "direct address turns to the northern kingdom in its arrogance"
+    }
+  ],
+  "translation": "U jkun li jaf in-nies kollu — Efraim u l-abitant ta' Somron — b'għoxx u b'kburija ta' qalb, jgħidu:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "df6275adb3adaad5a003d6b73e81f7edf7db46682948a3d3fc3935328de293a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/9\/7-8.1792623410288.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "U jkunu jafu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "u l-abitant"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ta' Somron"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "b'għoxx"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "u b'kburija"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ta' qalb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:50.289125245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ruwaħ ħażina minn għand Jaħwe",
+      "rationale": "L-Iġħid tal-ħażin ġej minn Jaħwe nnifsu fit-test; tradutturi jirrilassaw il-ħarsa biex jidħol ktieb ta' wara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "itremih",
+      "rationale": "בעת tfisser biex twaqqġħu bil-biża'; 'terriminta' jew 'tħawwad' huma aktar dgħajfa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סרה ... בעתתו",
+      "rationale": "il-ruwaħ telqet u ruwaħ oħra daħlet — l-oppost fil-ħarsa丧"
+    }
+  ],
+  "translation": "U ruwaħ Jaħwe telqet minn għand Xaul, u ruwaħ ħażina minn għand ⟨את⟩ Jaħwe kienet itremih.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ee89ed65d927330df8f29e35f2f44541a477e634c00afc651bd332a47ccee45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/16\/14-15.1792623248638.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "u ruwaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "telqet"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "minn għand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "u kienet itremih"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħażina"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn għand ⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:08.638580474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rjus ta' l-eżerċit",
+      "rationale": "ראשי הצבא literally 'rjus' (heads) ta' l-eżerċit; id-dritta Maltija 'kapitani' titlew il-metfora."
+    },
+    {
+      "kind": "crux",
+      "subject": "wieħed għal mija",
+      "rationale": "אחד למאה: 'l-iżgħar wieħed (jista' jqabad) għal mija' jew qawwa paragun; il-Lhudi mhux ċar jekk tqarrib ta' qawwa jew għadd ta' suldati."
+    }
+  ],
+  "translation": "Dawn mill-iben ta' Gad, irmiġġjiet ta' l-eżerċit; wieħed għal mija, iż-żgħir, u l-kbir għal elf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/12\/13-16.1792621927021.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mill-iben ta'"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "rjus"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ta' l-eżerċit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ghal mija"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "iż-żgħir"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "u l-kbir"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ghal elf"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:07.023959533Z",
+  "model": "glm-5.3"
+}

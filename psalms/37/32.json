@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jħares",
+      "rationale": "צופה — 'jixxengel\/miexi 'il quddiem biex jara', jiġifieri għassa għal ħtija; 'jħares' inaqs mill-istampa ta' min jistennea"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jħares",
+      "rationale": "għażla oħra: 'joqgħod jħares lil' — l-għan ta' rasħ li jistenneh biex jaħtih"
+    }
+  ],
+  "translation": "Ir-rasħ jħares fil-ġust, u jfittex kif joqtlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/29-32.1792616978449.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ir-rasħ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fil-ġust"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "u jfittex"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kif joqtlu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:38.449914111Z",
+  "model": "glm-5.3"
+}

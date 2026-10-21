@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien għandu",
+      "rationale": "il-Lhudi għandu biss konstrutt 'u lil-Lavan żewġt ibniet'; verb possessivu miżjud bil-Malti"
+    },
+    {
+      "kind": "elision",
+      "subject": "isem",
+      "rationale": "sentenza nominali Lhudija mingħajr kopula; il-Malti jħallihija ukoll mingħajr 'kien'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "żewġt ibniet",
+      "rationale": "għadd eżatt tal-bniet ta' Lavan"
+    }
+  ],
+  "translation": "U lil Lavan ⟨kien għandu⟩ żewġt ibniet: isem il-kbira Lea, u isem iż-żgħira Rakel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/29\/13-16.1792598430167.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "u lil Lavan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "żewġt"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ibniet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "il-kbira"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u isem"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "iż-żgħira"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:30.168949775Z",
+  "model": "glm-5.3"
+}

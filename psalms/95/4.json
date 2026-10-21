@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Kopula Maltija miżjuda għal 'f'idu [hemm] l-imbliet fondi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תועפות",
+      "rationale": "Kelma rari: 'għeja, tbatija' jew 'qċaċet għoljin' — 'saħħiet l-igħrib' (KJV) vs 'qċaċet' (JBS)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחקרי",
+      "rationale": "L-emenda מחקר tidher f'ponp żgħir ħafna fil-Tanakh — 'fundqiet maħbura'."
+    }
+  ],
+  "translation": "Li f'idu hemm l-imbliet fondi tal-art, u l-qċaċet tal-igħrib huma tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/95\/1-4.1792617747378.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idu"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "l-imbliet fondi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "l-qċaċet"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tal-igħrib"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:27.379448150Z",
+  "model": "glm-5.3"
+}

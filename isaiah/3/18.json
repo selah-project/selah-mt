@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שביסים",
+      "rationale": "Kelma li tidher darba biss fit-Tanakh; 'xbieki tax-xagħar' qari mill-għerq."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pendenti tal-qamar",
+      "rationale": "שהרונים mill-għerq סהר, qamar — xbihat tal-qlub."
+    }
+  ],
+  "translation": "F'dakinhar Adonaj jneħħi ⟨את⟩ ż-żejn tal-ħejjer tal-riġlejn, u x-xbieki tax-xagħar, u l-pendenti tal-qamar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/3\/17-20.1792610857092.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "F'dakinhar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "jneħħi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ż-żejn"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ż-żejn"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "tal-ħejjer tal-riġlejn"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "u x-xbieki tax-xagħar"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "u l-pendenti tal-qamar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:27:37.092964136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is-suffissi -ek\/-i",
+      "rationale": "l-aleph-tav ma' suffiss pronominali; ⟨את⟩ miżjud mas-suffiss Malti biex iżomm il-marka u l-pronom"
+    },
+    {
+      "kind": "you",
+      "subject": "Saraj",
+      "rationale": "Avraham ikompli jkellem lil Saraj dwar dak li se jsir"
+    }
+  ],
+  "translation": "U jsir, meta jaraw ⟨את⟩ek il-Mitsrijin, u jgħidu: Din martu; u jinqtlu ⟨את⟩i, u ⟨את⟩ek iħajjuk.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/12\/9-12.1792597919006.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u jsir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "jaraw"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ek",
+      "marks": "int (lill-Mitsrijin jaraw lilek)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "il-Mitsrijin"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "u jgħidu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "martu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "u jinqtlu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩i",
+      "marks": "lili (jinqtluni lil jiena)"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "u ⟨את⟩ek",
+      "marks": "int (iħajjuk lilek)"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "iħajjuk"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:59.007291350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איש אישו",
+      "rationale": "litteralment 'raġel raġlu' — kull suldat laqtat lil dak ta' quddiemu; 'kull wieħed lill-kontroparti tiegħu' iżomm is-sura individwali."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרשים",
+      "rationale": "jista' jkun żwiemel bil-karru jew riċevituri; 'żwiemel' biss ma jgħidx l-għanja sħiħa tal-kelma."
+    }
+  ],
+  "translation": "U laqtu, kull wieħed ⟨lil⟩ sidu; u Aram ħarbet, u Jisrael ippersegwahom; u Ben-Ħadad, sultan ta' Aram, ħarab fuq żiemel u ż-żwiemel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/20\/17-20.1792609961858.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "u laqtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "lill-kontroparti tiegħu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "u ħarbet"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "u ippersegwahom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "u ħarab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ħadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ta' Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "żiemel"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "u ż-żwiemel"
+    }
+  ],
+  "timestamp": "2026-10-21T19:12:41.859361594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 10:28",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "għal Moxe",
+      "rationale": "Paroh jindirizza lil Moxe b'imperattivi diretti: 'Imsah', 'ħares għalik'"
+    },
+    {
+      "kind": "addition",
+      "subject": "int se",
+      "rationale": "il-kopula futura miżjuda bil-Malti; bl-Ebrajk תמות waħedha"
+    },
+    {
+      "kind": "idiom",
+      "subject": "la tzid tara",
+      "rationale": "lit. 'la tzid (tzidx) torqotx tara' — l-idiom Ebrajk 'אל תוסף' tfisser 'għidu mhux darb'oħra'"
+    }
+  ],
+  "translation": "U Paroh qalu: Imsah minn fuqi; ara ħares għalik, la tzid tara wiċċi, għax f'dak il-jum li tara wiċċi, int se tmut.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "3828ba6473d71bf9ac0c8cc22ab06f62acc9441c5334459deca90b3086d79058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/10\/25-28.1792599402902.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-u"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Imsah"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "minn fuqi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ara ħares"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "tzid"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "tara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dak il-jum"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "li tara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tmut"
+    }
+  ],
+  "timestamp": "2026-10-21T16:16:42.903767014Z",
+  "model": "glm-5.3"
+}

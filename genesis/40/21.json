@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "idejn",
+      "rationale": "כף hija l-pala tal-id mgħarfa; 'idejn' qed jgħatti l-forma litterali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rreġa'",
+      "rationale": "וישב litteralment 'reġgħa' fuq\/post f'lakam — 'restawra'"
+    }
+  ],
+  "translation": "U rreġa' lill-ġerrej ta' l-imsarbin fuq xogħlu ta' maxxir, u ta l-imsarbart f'idejn Paro.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/40\/21-23.1792598756782.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "rreġa'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-ġerrej ta' l-imsarbin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-ġerrej"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ta' l-imsarbin"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "xogħlu ta' maxxir"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "l-imsarbart"
+    },
+    {
+      "surface": "על",
+      "gloss": "f'"
+    },
+    {
+      "surface": "כף",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-10-21T16:05:56.782742077Z",
+  "model": "glm-5.3"
+}

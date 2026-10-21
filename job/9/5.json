@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המעתיק",
+      "rationale": "Rare word (maʿtiq) 'the one who removes\/transports' — rendered literally 'jneħħi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rabja",
+      "rationale": "באפו is literally 'in His nose\/nostrils', idiom for anger; rendered 'fir-rabja tiegħu'."
+    }
+  ],
+  "translation": "Li jneħħi l-muntanji u ⟨huma⟩ ma jafux, meta jqallibhom fir-rabja tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/9\/5-8.1792619191525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "jneħħi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "l-muntanji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "jqallibhom"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "fir-rabja tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:31.526265651Z",
+  "model": "glm-5.3"
+}

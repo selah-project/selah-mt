@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנוש",
+      "rationale": "'mortal man' vs proper parallel to אדם; rendered as a quasi-name 'iben ta' Enox' to keep the Hebrew shape."
+    }
+  ],
+  "translation": "Jaħwe, x'inhu l-bniedem li tafxu, iben ta' Enox li taħsibu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/144\/1-4.1792618254938.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'inhu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "li tafxu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ta' Enox"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "li taħsibu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:54.939355972Z",
+  "model": "glm-5.3"
+}

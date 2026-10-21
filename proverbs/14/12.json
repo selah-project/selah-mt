@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "tidher",
+      "rationale": "לִפְנֵי אִישׁ litteralment 'quddiem raġel' — jaqbzu 'f'għajnejn il-bniedem'; ħadt it-traduzzjoni idjomatika komuni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך\/דרכי",
+      "rationale": "Singular 'triq' fl-ewwel nofs isir plural 'triqiet' fit-tieni — il-bidla fil-għadd għandha xmara ta' tmiem mhux waħda."
+    }
+  ],
+  "translation": "Hemm triq li tidher drita quddiem il-bniedem, iżda tmiemha huma triqiet il-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/9-12.1792618588115.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Hemm"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "drita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "iżda tmiemha"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "triqiet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "il-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:28.116581159Z",
+  "model": "glm-5.3"
+}

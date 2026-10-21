@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tiegħu⟩",
+      "rationale": "Il-Lhuid jismgħu l-possessiv dwar Alla (l-משפטים ta' v.19); il-Malti jħtieġ pronoms biex jifhem."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא · בל",
+      "gloss": "Il-ħlas żewġ negattivi mitluf fil-Malti; semmejthom fil-glossi tal-verb."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Faħħu lil Jaħ",
+      "rationale": "Imperattiv ta' tifħir — sejħa għal-l-qarrej, tagħlaq is-salm."
+    }
+  ],
+  "translation": "Ma għamelx hekk ma' ebda ġens, u l-ġudizzji ⟨tiegħu⟩ ma għarfulhomx. Faħħu lil Jaħ!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/17-20.1792618341376.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma... x"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma' ebda"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ġens"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "u l-ġudizzji"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma... x"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "għarfulhom"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:21.377385552Z",
+  "model": "glm-5.3"
+}

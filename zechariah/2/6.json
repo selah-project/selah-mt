@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wiesgħa u twila",
+      "rationale": "il-vers jiddefinixxi l-kejl b'żewġ dimensjonijiet biss — wisa' u tul, bla għoli"
+    },
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "il-Malti jeħtieġ il-verb 'to be' fejn il-Lhudi juża l-kostruzzjoni nominali כמה רחבה"
+    }
+  ],
+  "translation": "U għidt: Fejn qiegħed tmur? U qal li jien: Għal biex inkejl ⟨את⟩ Jeruxalajim, biex nara kemm hi wiesgħa u kemm hi twila.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/2\/5-8.1792616170382.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "U għidt"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Fejn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tmur"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li jien"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Għal biex inkejl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruxalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "biex nara"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "hi wiesgħa"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "u kemm"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "hi twila"
+    }
+  ],
+  "timestamp": "2026-10-21T20:56:10.383142484Z",
+  "model": "glm-5.3"
+}

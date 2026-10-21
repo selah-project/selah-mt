@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iqisu",
+      "rationale": "מספרים hija simetrijiet bit-taħbiġ: joħorġu ġrajja b'karatteri, mhux sempliċiment 'iddikjaraw'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-ħila",
+      "rationale": "מעשה ידיו huwa l-għemil ta' idejh; il-Malti jeħtieġ nom fil-post tal-kostrutt"
+    }
+  ],
+  "translation": "Is-smewwiet iqisu l-ġieħ ta' El, u r-rakijaħ twegġeb il-ħila ta' idejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/19\/1-4.1792616733842.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Is-smewwiet"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "iqisu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-ġieħ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta' El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "u r-rakijaħ twegġeb il-ħila"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ta' idejh"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "twegġeb"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ir-rakijaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:33.842581038Z",
+  "model": "glm-5.3"
+}

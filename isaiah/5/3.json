@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jekk jogħġobkom",
+      "rationale": "נא partiċella ta' petitizzjoni mhux fraża sħiħa"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-abitanti ta' Jeruxalajim u nies Ġuda",
+      "rationale": "appell dirett — isemmi l-udjenza b'isimha"
+    },
+    {
+      "kind": "invitation",
+      "subject": "agħtu l-ġudizzju",
+      "rationale": "imperattiv li jsewwaħ lill-qarrej jagħti sentenza fil-ħaqq mal-Ġnien"
+    }
+  ],
+  "translation": "U issa, abitanti ta' Jeruxalajim u raġel ta' Ġuda, agħtu l-ġudizzju bejni u bejn il-vinja tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "962e145a2095c7508056c571ae682162474aa13903464442e3b1df96a7a306ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/5\/2-3.1792623447925.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abitanti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ta' Jeruxalajim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "u raġel"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Ġuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "agħtu l-ġudizzju"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġobkom"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "bejni"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "il-vinja tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T22:57:27.926112981Z",
+  "model": "glm-5.3"
+}

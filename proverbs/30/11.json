@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יקלל\/יברך",
+      "rationale": "antitesi sdea bejn il-missier u l-omm — zarda kontra berka"
+    },
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ verb eżistenti biex iżomm il-verżjonali ta' Ġen 1:3 f'nofs sentenza sabiħa"
+    }
+  ],
+  "translation": "Nisel li jzarda lil missieru, u lil ⟨את⟩ ommu ma jbierkilha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/30\/9-12.1792619006208.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "nesel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "missieru"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "jzarda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lil ommu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ommu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "jbierkilha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:43:26.209599035Z",
+  "model": "glm-5.3"
+}

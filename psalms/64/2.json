@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Sema, Elohim",
+      "rationale": "imperattiv: sejħa direktu lil Elohim biex jisma'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשיחי",
+      "rationale": "שיח huwa kontemplazzjoni mgħoddija f'kelma; 'lament' jaqbad biss naħa waħda"
+    },
+    {
+      "kind": "crux",
+      "subject": "תצר",
+      "rationale": "נצר: 'ħares\/ikkonserva' jew 'żomm imsieket' — ħaddiem qrib ta' 'ħares'"
+    }
+  ],
+  "translation": "Sema, Elohim, leħni fil-lament tiegħi; mill-biża' tal-għadu ħares ⟨את⟩ ħajti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/64\/1-4.1792617325712.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "leħni"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "fil-lament tiegħi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "mill-biża'"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "tal-għadu"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ħares"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ħajti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:25.712865009Z",
+  "model": "glm-5.3"
+}

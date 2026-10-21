@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bħal",
+      "rationale": "l-Malti jeħtieġ 'bħal' qabel it-tieni similitudini; l-Lhudi għandu biss 'ken meshullach' eżatt wara l-ewwel similitudini."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נודד\/משלח",
+      "rationale": "l-istranġament tal-għasfur li jitlaħħaħ u l-bejt imressaq jiffurmaw parallel ta' telf, imqarrex fl-immaġni, mhux fil-ħoss bil-Malti."
+    }
+  ],
+  "translation": "U se jkun bħal għasfur jitlaħħaħ, bħal bejt mressaq barra; hekk ikunu l-bniet ta' Moab fit-traversati tal-Arnon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "86aef55c88c6abaebbbd0cdbb38eae1e97a3a11d224c676b6f1fd42f20eddb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/16\/1-4.1792611183889.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "U se jkun"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "bħal għasfur"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "jitlaħħaħ"
+    },
+    {
+      "surface": "קן",
+      "gloss": "bħal bejt"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mressaq barra"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ikunu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "l-bniet"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "fit-traversati"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "tal-Arnon"
+    }
+  ],
+  "timestamp": "2026-10-21T19:33:03.890013053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħadd",
+      "rationale": "כל 'kull wieħed' — il-Malti jghid 'hadd' fin-negazzjoni, l-għerq 'kollha' jibqa' fil-glossa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ליש",
+      "rationale": "wiehed minn tlett kelmiet ghal il-ljun fil-Mishli (lajix); it-traduzzjoni tahda telfu d-differenza"
+    }
+  ],
+  "translation": "Il-ljun, il-qawwi fost il-bhejjem, u ma jagħtix dahru quddiem ħadd.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5ba659a815fddc98c6f0621f3ed4e490d576b74599bb019c3328570714bf770e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/30\/30-31.1792623869045.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Il-ljun"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "il-qawwi"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "fost il-bhejjem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "jagħti dahru"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ħadd"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:29.045665233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Oġġett ta' tqabad — pronu żdied fil-Malti għaċ-ċar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה...בשואה",
+      "rationale": "Il-kelma għal 'qerda\/maltempata' tiġi darbtejn — in-nass seħer jaqa' fl-istess qerda li ħaġġar għal ħaddieħor."
+    }
+  ],
+  "translation": "Tiġih il-qerda bla ma jaf, u x-xibka li ħaba tqabadh ⟨hu⟩; fil-qerda jaqa' fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/5-8.1792616955135.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "tiġih"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "il-qerda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bla ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "u x-xibka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ħaba"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "tqabadh"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "fil-qerda"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:15.136285057Z",
+  "model": "glm-5.3"
+}

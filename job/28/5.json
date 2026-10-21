@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמו אש",
+      "rationale": "'tinqlab bħan-nar' kontra ASV 'tinqlab bin-nar' — l-għoli taħt l-art magħmul bħall-ħruq tal-ħadid"
+    },
+    {
+      "kind": "addition",
+      "subject": "l-artiklu",
+      "rationale": "L-artiklu 'il-' mal-ħobż u 'in-' ma' nar miżjud bil-Malti; l-Lhudi m'għandux artiklu hawn"
+    }
+  ],
+  "translation": "L-art, minnha joħroġ il-ħobż, u taħtha tinqlab bħan-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/28\/5-8.1792619594971.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "minnha"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il-ħobż"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "u taħtha"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "tinqlab"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "אש",
+      "gloss": "in-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:14.971841405Z",
+  "model": "glm-5.3"
+}

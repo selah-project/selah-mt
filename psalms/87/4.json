@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "twieled hemm",
+      "rationale": "'Hemm' jista' jfisser 'f'Sijon' (l-ilsien qiegħed f'Sijon, Ps 87:5) jew 'f'art il-ġnus' — il-KJV u JPS jaqraw 'hemm' (f'art twelidhom); YLT u BSB jaqraw 'f'Sijon'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rahaħ",
+      "rationale": "רהב hawn laqam ta' l-Eġittu ('il-Kburut'), mhux mosta tal-mit Ebrajk."
+    },
+    {
+      "kind": "you",
+      "subject": "dawk li jafuni",
+      "rationale": "Jaħwe jitkellem; 'jafuni' = dawk li jafu lil Jaħwe."
+    }
+  ],
+  "translation": "Nsemmi lil Rahaħ u lil Bavel fost dawk li jafuni: ara Pelexet u Tsor flimkien ma' Kux — dan it-tifel twieled hemm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/87\/1-4.1792617661221.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Nsemmi"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "lil Rahaħ"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "u lil Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "fost dawk li jafuni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelexet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "u"
+    },
+    {
+      "surface": "עם",
+      "gloss": "flimkien ma'"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kux"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan it-tifel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "twieled"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:01.222646459Z",
+  "model": "glm-5.3"
+}

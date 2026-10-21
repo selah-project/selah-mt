@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלו",
+      "rationale": "'Jistaqsu' vs 'jitolbu': borrow (KJV) or demand\/request — the Hebrew verb שאל covers both ask and borrow."
+    },
+    {
+      "kind": "invitation",
+      "subject": "דבר נא",
+      "rationale": "Command of Jaħwe addressed to Moxe, softened by the particle נא."
+    }
+  ],
+  "translation": "Kellim, jekk jogħġbok, fil-widnejn tal-poplu, u jistgħu jistaqsu kull raġel mingħand ⟨את⟩ ħabibu, u kull mara mingħand ⟨את⟩ ħabiba tagħha, oġġetti tal-fidda u oġġetti tad-deheb.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/11\/1-4.1792599456006.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kellim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "fil-widnejn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "u jistgħu jistaqsu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull raġel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mingħand ⟨את⟩",
+      "marks": "ħabibu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ħabibu"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "u kull mara"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mingħand ⟨את⟩",
+      "marks": "ħabiba tagħha"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ħabiba tagħha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "oġġetti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tal-fidda"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "u oġġetti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    }
+  ],
+  "timestamp": "2026-10-21T16:17:36.007457332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lill-mużiċisti",
+      "rationale": "Kmand biex tittella' l-mużika tal-festa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinor u nevel",
+      "rationale": "Żewġ strumenttal-ferħ Lhud differenti; il-kliem għaddew maħsubin għax l-istrumenti ma għandhomx isem Malti eżatt."
+    }
+  ],
+  "translation": "Erfgħu zemra u agħtu t-tanbur, kinor sabiħ ma' nevel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/81\/1-4.1792617580593.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "erfgħu"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zemra"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "u agħtu"
+    },
+    {
+      "surface": "תף",
+      "gloss": "it-tanbur"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sabiħ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:40.593707242Z",
+  "model": "glm-5.3"
+}

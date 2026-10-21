@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "Jaħwe jkellem lil Moxe direttament bl-imperattiv 'intla''."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebgħin",
+      "rationale": "għadd tal-anzjani: sebgħin, ibqa' sħiħ bħall-Lhudi."
+    },
+    {
+      "kind": "addition",
+      "subject": "minn",
+      "rationale": "מרחק huwa nom 'bogħod'; il-Malti jeħtieġ prepożizzjoni 'minn bogħod'."
+    }
+  ],
+  "translation": "U lil Moxe qal: Intla' għand Jaħwe — int, u Aharon, Nadav u Avihu, u sebgħin mill-anzjani ta' Jisrael; u tixhtu minn bogħod.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "99c1979b4f2f9b89ef16d80c7a3ad64c56209db48fc19828b72770a7895511b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/24\/1-4.1792599800276.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "intla'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "u Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "u Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "u sebgħin"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "mill-anzjani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "u tixhtu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "minn bogħod"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:20.277520006Z",
+  "model": "glm-5.3"
+}

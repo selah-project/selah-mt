@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-ħanina",
+      "rationale": "l-artiklu miżjud bil-Malti għal המרשעת, isem deskrittiv"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבעלים",
+      "rationale": "plural ta' Baal — Baalim, mhux 'l-idoli'"
+    },
+    {
+      "kind": "elision",
+      "subject": "בניה",
+      "rationale": "'uliedha' — is-suffiss tagħha mgħotti fl-istruttura Maltija 'ulied Atalja'"
+    }
+  ],
+  "translation": "Għax ulied Atalja, il-ħanina, kienu kisru ⟨את⟩ dar Elohim; u anki kulma kien qaddis tad-dar ta' Jaħwe għamluh għall-Baalim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3ffaea8cf5b15b821c7c5020285ea4d7f9d95407ed79aab96cd6204521358d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/24\/6-7.1792624032547.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "il-ħanina"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "kisru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u anki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollma"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamluh"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "għall-Baalim"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:12.548768753Z",
+  "model": "glm-5.3"
+}

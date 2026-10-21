@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ram",
+      "rationale": "נחשת litteralment ramm, ħadid baxx — 'ram' bil-Malti jżomm il-metall antik."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/גדע",
+      "rationale": "Żewġ verbi differenti għall-ksur (qasam\/qata') li jżommu d-distinzjoni Ebrajk: ħbit tar-ram kontra l-ħataq tal-ħadid."
+    }
+  ],
+  "translation": "Għax qasam il-bibien tar-ram, u l-lasti tal-ħadid qata'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/13-16.1792617879596.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qasam"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "il-bibien"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tar-ram"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "u l-lasti"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tal-ħadid"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "qata'"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:39.597090083Z",
+  "model": "glm-5.3"
+}

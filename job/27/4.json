@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם...אם",
+      "rationale": "double conditional 'if...if...' is a negative oath idiom: 'my lips shall not speak injustice'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "inġustizzja",
+      "rationale": "עולה is moral wrong\/injustice rather than abstract 'unrighteousness'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יהגה",
+      "rationale": "'to murmur\/ponder' — could be 'ponder' as well as 'utter'; chosen 'emmenden' (utter\/murmur) here"
+    }
+  ],
+  "translation": "jekk jitkellmu xofftejn inġustizzja, u lsieni jekk jemmen qlugħ;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/27\/1-4.1792619604703.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "jitkellmu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "xofftejn"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "inġustizzja"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "u lsieni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "jemmen"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "qlugħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:24.704301265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "jiebes\/tqum",
+      "rationale": "il-kuntrast retoriku: dak li jiebes u jimmermir kontra kelmet Elohim li tqum — struttura A\/B konsistenti mal-versi 6–7"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għal-dejjem",
+      "rationale": "לעולם litteralment 'dak li jiħbi lilih nnifsu, il-vanishing point' — żmien bla tmiem"
+    }
+  ],
+  "translation": "Jiebes il-ħaxixa, jitmermir iz-zfieħ, imma kelmet Elohim tagħna tqum għal-dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/40\/5-8.1792611629248.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Jiebes"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "il-ħaxixa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "jitmermir"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "iz-zfieħ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "imma kelmet"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim tagħna"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tqum"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal-dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T19:40:29.253171567Z",
+  "model": "glm-5.3"
+}

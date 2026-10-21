@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jista'",
+      "rationale": "בכור אשר יבכר — il-Lhudi juża l-particles u l-passiv, il-Malti jeħtieġ għajnuna modali biex l-iskop jifhem."
+    },
+    {
+      "kind": "elision",
+      "subject": "שור",
+      "rationale": "שור huwa baqar\/bhejjem kbar — ġie mqarreb għal baqar, bħal ma jagħmel ukoll it-tabella tal-annimali D4."
+    }
+  ],
+  "translation": "Iżda l-ewwel twelid tal-bhejjem, li jingħata bħala l-ewwel twelid lil Jaħwe, ħadd ma jista' jqaddes ⟨את⟩; jew jekk baqar jew jekk ħaruf, ta' Jaħwe huwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/27\/25-28.1792602214500.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "iżda"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "l-ewwel twelid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "jingħata bħala l-ewwel twelid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "fil-bhejjem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "jqaddes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħadd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l-ewwel twelid (jew baqar jew ħaruf)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jew"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jew"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ħaruf"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:03:34.501388259Z",
+  "model": "glm-5.3"
+}

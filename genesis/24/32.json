@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tejjen",
+      "rationale": "תבן: qsim ta' qamh — 'tejjen' huwa l-eqreb kelma Maltija għall-ħaxix tal-annimali"
+    },
+    {
+      "kind": "elision",
+      "subject": "הביתה",
+      "rationale": "il-final -ה hija suffiss ta' direzzjoni ('lejn id-dar') li ma jgħaddix bil-Malti għaliex 'daħal id-dar' jgħidha diġà"
+    }
+  ],
+  "translation": "U l-bniedem daħal id-dar, u nefħaħ il-ġemliex, u ta tejjen u għalf lill-ġemliex, u ilma biex jaħsel ir-riġlej tiegħu u r-riġlej tal-irġiel li ⟨miegħu⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a8750803e87cbde1014221501264eaf8854a7f912168bfd59bd7528bc057f820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/29-32.1792598349919.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "U daħal"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "u nefħaħ"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "il-ġemliex"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "tejjen"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "u għalf"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "lill-ġemliex"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "u ilma"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "biex jaħsel"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ir-riġlej tiegħu"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "u r-riġlej"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "tal-irġiel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:59:09.921124527Z",
+  "model": "glm-5.3"
+}

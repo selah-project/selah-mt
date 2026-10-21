@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kliewiekk",
+      "rationale": "מצותיך — 'il-kliewiekk' = il-ebda; it-Torà tippreferi 'il-precetti tiegħek' iżda l-kelma twila Maltija għal מצוות; alt: 'il-preċetti tiegħek'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "artiklu Malti miżjud ma' hemm l-ebda artiklu Lhudi"
+    }
+  ],
+  "translation": "Ħgħajt u ma stajtx nieqaf milli nżomm il-kliewiekk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/57-60.1792618049901.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "Ħgħajt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "stajtx nieqaf"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "milli nżomm"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "il-kliewiekk"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:29.902471471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Marker tal-oġġett imwaħħal ma' suffiss — m'għandux kliem separat fil-Malti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינצו",
+      "rationale": "min-n-g-s 'itellgħu ħetra\/ġlidu' — il-verba tfisser ġlieda bil-kliem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינצו \/ מציל",
+      "rationale": "Zewġ troqed minn għerq waħda (n-ts-l), ġlieda u salvazzjoni — il-ħoss juma' fil-Lhudi."
+    }
+  ],
+  "translation": "U l-iljied tiegħek kellha żewġ subien, u t-tnejn tellgħu ħetra bejniethom fis-sakra, u ma kien hemm min iħarishom bejniethom, u waħda minnhom laqtet lil ⟨את⟩ l-oħra, u ⟨את⟩ mietet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/14\/5-8.1792608805247.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "u l-iljied tiegħek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "subien"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "tellgħu ħetra"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "it-tnejn"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "fis-sakra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u ma kien hemm"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "min iħarishom"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "bejniethom"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "laqtet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "waħda minnhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-oħra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l-oħra"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "u mietet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T18:53:25.248179901Z",
+  "model": "glm-5.3"
+}

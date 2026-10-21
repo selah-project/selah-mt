@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "biex tikfer",
+      "rationale": "לכפר huwa 'biex tgħatti\/kopri' — il-Malti 'tikfer' (kiferna) żżomm il-qraba tal-ħoss u t-tifsira."
+    },
+    {
+      "kind": "elision",
+      "subject": "tal-mogħoż",
+      "rationale": "עזים hawn plural użat diskussivament għal mogħża waħda; il-Malti jikteb in-numru bħal-Lhudi."
+    }
+  ],
+  "translation": "u mogħża tal-mogħoż wieħed, biex tikfer ⟨għalikom⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/28\/29-31.1792604968392.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "mogħża"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tal-mogħoż"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "biex tikfer"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨għalikom⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T17:49:28.393689918Z",
+  "model": "glm-5.3"
+}

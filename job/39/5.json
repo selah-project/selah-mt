@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 39:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערוד",
+      "rationale": "Onager ieħor, kelma differenti minn פרא; xi tradutturi jgħidu 'il-ħmar mal-leħħ' — il-Malti żżomm 'ħmar salvaġġ' għaż-żewġ kliem"
+    },
+    {
+      "kind": "elision",
+      "subject": "חפשי",
+      "rationale": "Skuż mill-jasar, tradott b'kelma miżjuda ⟨ħieles⟩ għax il-Malti jkollha bżonn aġġettiv"
+    },
+    {
+      "kind": "you",
+      "subject": "min",
+      "rationale": "Mistoqsija retorika ma' Ġob dwar min jaħdem dan — l-ebda għarfien minn qabel"
+    }
+  ],
+  "translation": "Min bagħat il-ħmar salvaġġ ⟨ħieles⟩, u r-rabtiet tal-ħmar salvaġġ min fissħet?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/39\/5-8.1792619802907.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "il-ħmar salvaġġ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "⟨ħieles⟩"
+    },
+    {
+      "surface": "ומסרות",
+      "gloss": "u r-rabtiet"
+    },
+    {
+      "surface": "ערוד",
+      "gloss": "tal-ħmar salvaġġ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fissħet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:42.908340293Z",
+  "model": "glm-5.3"
+}

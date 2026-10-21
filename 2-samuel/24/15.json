@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebgħin elf raġel",
+      "rationale": "għadd ta' mejta, minn bir għal bir (Dan–Bir-Saba = t-truf kollha tal-art)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "magħluqa",
+      "rationale": "עת מועד = 'il-ħin imsejjaħ\/magħluq minn qabel'; tradott b'mod ħieled għax l-eżattezza tal-ħin mhux ċerta."
+    }
+  ],
+  "translation": "U Jaħwe ta' pesta f'Jisrael mill-għoduwa sas-siegħa magħluqa, u mietu mill-poplu, minn Dan sa Bir-Saba, sebgħin elf raġel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe606afd25ba020cf3f254223c923c3d66d04c03f46600764e6e619d736a51e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/24\/13-16.1792609286200.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pesta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "mill-għoduwa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ħin",
+      "notes": null
+    },
+    {
+      "surface": "מועד",
+      "gloss": "magħluqa (imsejjaħ)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "u mietu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "minn Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bir"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebgħin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    }
+  ],
+  "timestamp": "2026-10-21T19:01:26.201723243Z",
+  "model": "glm-5.3"
+}

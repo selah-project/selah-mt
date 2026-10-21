@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דמינו",
+      "rationale": "דִּמְיוֹן (xebh) jidher hawn biss fit-Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħerqan",
+      "rationale": "כסף litteralment 'jsir kwiet abjad' — iberrex għal xi ħaġa; 'ħerqan' jaqbad it-tifsira ma' tlugħ il-ħames"
+    }
+  ],
+  "translation": "Xebħu bħal iljun ħerqan biex jistledd, u bħal iljun żgħir bilqagħda f'imħabi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/17\/9-12.1792616594222.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "xebħu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "bħal iljun"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ħerqan"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "biex jistledd"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "u bħal iljun żgħir"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bilqagħda"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "f'imħabi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:14.223462912Z",
+  "model": "glm-5.3"
+}

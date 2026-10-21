@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ċerv",
+      "rationale": "צבי: 'gazzella\/ċerv' — ġrajja antika għal antilocapra; hawn għażla waħda minn sensiela ta' annimali simili"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nassar",
+      "rationale": "יקוש מlitteralment 'dak li jitkellem bil-qafla' — isem għall-għasfur bil-qafla; mhux il-persuna li tqabad"
+    },
+    {
+      "kind": "invitation",
+      "subject": "għall-għassies",
+      "rationale": "imperattiv 'eħles lil ħalok' — sejħa diretta lil min ħabs ruħu bil-ħlas"
+    }
+  ],
+  "translation": "Eħles lil ħalok bħaċ-ċerv minn id, u bħall-għasfur minn id in-nassar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/6\/5-8.1792618392596.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Eħles lil ħalok"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "bħaċ-ċerv"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "u bħall-għasfur"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "in-nassar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:12.597289444Z",
+  "model": "glm-5.3"
+}

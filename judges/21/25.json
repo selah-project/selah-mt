@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 21:25",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-verbi 'kien jagħmel' u 'ma kienx hemm': il-Lhudi juża preżent bla kopula, il-Malti jeħtieġha"
+    },
+    {
+      "kind": "idiom",
+      "subject": "f'għajnejh",
+      "rationale": "בעיניו litteralment 'f'għajnejh' — idjomeżmu Lhudi għal 'skond raġej'"
+    }
+  ],
+  "translation": "F'dawk il-jiem ma kienx hemm re f'Jisrael: kull raġel kien jagħmel dak li kien dritt f'għajnejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fb4b493a4089506c998c54c1a250d8a856c636c585d54b4a4bda7b4087e0f05d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/21\/25-25.1792607587672.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "f'dawk il-jiem"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dawk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma kienx hemm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull raġel"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "dritt"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejh"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kien jagħmel"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:07.672830538Z",
+  "model": "glm-5.3"
+}

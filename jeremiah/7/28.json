@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 7:28",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-sewwa",
+      "rationale": "האמונה is 'firmness, faithfulness, fidelity'; 'is-sewwa' (truth) follows the traditional rendering, 'il-lealtà' jew 'is-sidq' possibbli."
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Maltese copula supplied; Hebrew is verbless: זה הגוי 'this the nation'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jeremiah",
+      "rationale": "Continued direct address: the prophet must announce the verdict over the nation."
+    }
+  ],
+  "translation": "U int tgħidilhom: Dan huwa n-nazzjon li ma smax leħen Jaħwe, Elohim tiegħu, u li ma ħadux il-moħbi; ħriet is-sewwa, u tnaqqat minn fommhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "279dd3054772596d52f5d0184705b84d887e940f2eb2ea3e126de3742cfff6f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/7\/25-28.1792612467593.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "tgħidilhom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "in-nazzjon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "smax"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim tiegħu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u li ma"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ħadux"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "il-moħbi"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ħriet"
+    },
+    {
+      "surface": "האמונה",
+      "gloss": "is-sewwa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "u tnaqqat"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "minn fommhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:54:27.595121789Z",
+  "model": "glm-5.3"
+}

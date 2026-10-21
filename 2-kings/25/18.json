@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רב טבחים",
+      "rationale": "Literrali 'kaptan tat-tabbaħ' — eżekutur tal-gwardja ta' Babilonja; 'kap tal-gwardja' jitilfen il-ktieb taz-żibġ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-bieb",
+      "rationale": "הסף huwa s-sogla ta' tempju — 'dawk li jħarsu s-sogla', mhux sempliċement il-bieb"
+    }
+  ],
+  "translation": "U ħa l-kap tat-tabbaħ ⟨את⟩ Serajja l-qassis ir-ras, u ⟨את⟩ Tsefanjah it-tieni qassis, u ⟨את⟩ it-tliet li kienu jħarsu l-bieb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/17-20.1792610815601.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "l-kap"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tat-tabbaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajja l-qassis ir-ras"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ir-ras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Tsefanjah it-tieni qassis"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qassis"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-tliet li kienu jħarsu l-bieb"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "it-tliet"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "li kienu jħarsu"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "l-bieb"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:55.604954312Z",
+  "model": "glm-5.3"
+}

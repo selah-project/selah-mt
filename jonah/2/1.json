@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-kopula għal ויהי, il-Lhudi juża d-derivat tal-kune"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tlett ijiem u tlett lejliet",
+      "rationale": "għadd eżatt ta' jiem u lejliet, miżmum sħiħ bħall-Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבלע",
+      "rationale": "infinitiv bil-lamed, il-Malti juża 'biex' għall-iskop"
+    }
+  ],
+  "translation": "U Jaħwe apponta ħuta kbira biex tibla' ⟨את⟩ lil Jona; u Jona kien fi ż-żaqq tal-ħuta tlett ijiem u tlett lejliet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/2\/1-4.1792615784799.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "apponta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ħuta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "biex tibla'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "fi ż-żaqq"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "tal-ħuta"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "u tlett"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "lejliet"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:44.800462706Z",
+  "model": "glm-5.3"
+}

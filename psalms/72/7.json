@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Il-verb 'jkun hemm' ma jinsabx fl-Ebrajk; בלי ירח literally 'bla' qamar'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sliem",
+      "rationale": "שלום hawn mhu biss 'paċi' imma ukoll saħħa u ġid sħiħ."
+    }
+  ],
+  "translation": "Jiffjorixxi f'jemmu l-ġust, u hemm ħafna sliem, sa ma jkun ⟨hemm⟩ qamar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/5-8.1792617430626.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "Jiffjorixxi"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "f'jemmu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-ġust"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "u hemm ħafna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sliem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ma jkun"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "qamar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:10.626989186Z",
+  "model": "glm-5.3"
+}

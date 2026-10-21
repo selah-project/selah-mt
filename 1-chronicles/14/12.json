@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמר",
+      "rationale": "'U David qal' biss — mingħajr kliem: il-biċċa l-kbira tat-traduzzjonijiet jaqrawh bħala 'David ordna'; il-Malti iżomm il-qari literali 'qal'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-allat",
+      "rationale": "אלהיהם hawn huma l-idoli tal-Filistin, għalhekk 'l-allat' b'ittra żgħira skont ir-regola, mhux Elohim."
+    }
+  ],
+  "translation": "U ħallew hemm ⟨את⟩ l-allat tagħhom, u David qal, u ħarquhom bin-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f5152e0182668c46a733286843579704ca1972295636f3d7003dc8295cca337a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/14\/9-12.1792621960710.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "U ħallew"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-allat tagħhom"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "l-allat tagħhom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "u ħarquhom"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:40.711403882Z",
+  "model": "glm-5.3"
+}

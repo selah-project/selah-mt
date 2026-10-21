@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħela",
+      "rationale": "הבל litteralment 'nifs\/fwar' — riħ li jintilef; 'ħela' tal-Qohelet, mhux 'vanità' astratta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרבה ... הרבה",
+      "rationale": "repetizzjoni ta' הרבה ('ħafna') darbtejn fil-vers — l-istedina tinbiegħed ftit bil-Malti."
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "kopula miżjuda għall-aħħar klawżola, mmarkata."
+    }
+  ],
+  "translation": "Għax jekk snin ħafna jgħix il-bniedem, f'dawn kollha jifraħ, u jiftakar ⟨את⟩ il-ġranet tad-dlam, għax ħafna jkunu; kollu li ġej huwa ħela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/11\/5-8.1792620359093.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "jgħix"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "f'dawn kollha"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "jifraħ"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "u jiftakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġranet"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "il-ġranet"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tad-dlam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "li ġej"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ħela"
+    }
+  ],
+  "timestamp": "2026-10-21T22:05:59.095145265Z",
+  "model": "glm-5.3"
+}

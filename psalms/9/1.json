@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות לבן",
+      "rationale": "'Mewt l-iben' litteralment; oħrajn jaqrawh bħala titolu ta' għanja magħrufa (Mut Labben) jew 'għall-għanjiet ta' ġuvni'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עלמות לבן",
+      "rationale": "Dan it-titlu ma jinsab imkien ieħor fit-Tanakh"
+    }
+  ],
+  "translation": "Lill-mexxej tal-kor, għal mewt l-iben, mizmor ta' David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/1-4.1792616553642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lill-mexxej"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "għal mewt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "l-iben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:33.643393376Z",
+  "model": "glm-5.3"
+}

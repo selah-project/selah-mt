@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "verb kopulattiv miżjud għax il-Lhudi ma għandux"
+    }
+  ],
+  "translation": "⟨Hu⟩ Jaħwe, Elohim tagħna; fiċċ l-art ⟨huma⟩ l-ġudizzji tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/5-8.1792617829828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨Hu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim tagħna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fiċċ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "l-ġudizzji tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:49.828934651Z",
+  "model": "glm-5.3"
+}

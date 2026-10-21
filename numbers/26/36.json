@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "s-subien",
+      "rationale": "Maltese requires the definite article where the Hebrew construct בני שותלח is bare; not bracketed as it renders the Hebrew article-class construct."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sub-clan register",
+      "rationale": "Sub-clan of Shuthelah named after Eran — continuation of the clan register."
+    }
+  ],
+  "translation": "U dawn is-subien ta' Shutelaħ: ta' Eran, il-familja tal-Erani.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9ccbc5941ad122852f86dbe93023bf1cece35e6f2b3e40097deb566126482121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/26\/33-36.1792604926750.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "U dawn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "is-subien"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "ta' Shutelaħ"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "ta' Eran"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "il-familja"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "tal-Erani"
+    }
+  ],
+  "timestamp": "2026-10-21T17:48:46.755383281Z",
+  "model": "glm-5.3"
+}

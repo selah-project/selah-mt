@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minn",
+      "rationale": "Maltese needs the preposition 'minn' after 'jibżgħu'; Hebrew uses the construct יראי directly"
+    },
+    {
+      "kind": "you",
+      "subject": "lil dawk li jibżgħu",
+      "rationale": "benediction addressed to the community of those who fear Jaħwe"
+    }
+  ],
+  "translation": "Ibierek lil dawk li jibżgħu minn Jaħwe, l-iżgħar flimkien ma' l-ikbar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/13-16.1792617959151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "Ibierek"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dawk li jibżgħu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "minn Jaħwe"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "l-iżgħar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "flimkien ma'"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "l-ikbar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:59.151533060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qaddes",
+      "rationale": "ħafna traduzzjonijiet ipoġġu 'dedika' — il-għerq קדש huwa l-istess ta' qaddis\/qdusija, u l-glossa tżomm il-forma Lhudija"
+    },
+    {
+      "kind": "addition",
+      "subject": "Dawn",
+      "rationale": "l-objett ta' אתם jirreferi għat-tagħmir tal-vers ta' qabel — il-Malti jżid il-pronom dimostrattiv"
+    }
+  ],
+  "translation": "Dawn ukoll ⟨אתם⟩ is-sultan David qaddes lil Jaħwe, flimkien mas-silva u d-deheb li ħa mill-ġnus kollha; minn Edom u minn Moab u minn ulied Amon u mill-Filisti u minn Amalek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb2d7147291a18cfc0afb577cc2f62e46ebc37b7abb25145a20439b229c596d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/18\/9-12.1792622074199.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Dawn (it-tagħmir tad-deheb u l-fidda u r-ram)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "qaddes"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "flimkien ma'"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "is-silva"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "u d-deheb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mill-ġnus kollha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mill-ġnus"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "minn Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "u minn Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "u minn ulied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "u mill-Filisti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "u minn Amalek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:34.200329352Z",
+  "model": "glm-5.3"
+}

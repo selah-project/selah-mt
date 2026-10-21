@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lill-qarrej",
+      "rationale": "Tlett imperattivi 'faħħu' jiftħu s-salm b'seħħ dirett."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו",
+      "rationale": "It-trepetjar ta' הללו tlac darbiet fil-vers jifforem ritmu inċantatorju."
+    }
+  ],
+  "translation": "Faħħu lil Jaħ, faħħu ⟨את⟩ isem Jaħwe, faħħu, jaqbżu l-imservi ta' Jaħwe,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/135\/1-4.1792618201490.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lil Jaħ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem Jaħwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "l-imservi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:01.491428014Z",
+  "model": "glm-5.3"
+}

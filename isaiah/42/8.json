@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dak huwa",
+      "rationale": "l-Ebrajk għandu biss הוא שמי ('huwa ismi') — kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-qeddcin u lill-idoli",
+      "rationale": "dikjarazzjoni esklussiva ta' Jaħwe kontra kull rival"
+    }
+  ],
+  "translation": "Jien Jaħwe: dak huwa ismi, u sebħi ma nagħtihx lil ħaddieħor, u t-tifħirti lanqas lill-idoli imnaqqxa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/42\/5-8.1792611757245.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dak huwa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ismi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "u sebħi"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "lil ħaddieħor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nagħtihx"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "u t-tifħirti"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "lill-idoli imnaqqxa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:42:37.246540181Z",
+  "model": "glm-5.3"
+}

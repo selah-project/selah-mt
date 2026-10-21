@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi għandu frażi nominali bla verbi; il-Malti jeħtieġ copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודינו...הודינו",
+      "rationale": "repetizzjoni ta' ringrazzjament, tipika tas-salm; miżjoma kemm kemm bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Elohim",
+      "rationale": "indirizz dirett lejn Elohim mill-qarrejja tal-Isalm"
+    }
+  ],
+  "translation": "Ngħidulek ħajr, Elohim, ngħidulek ħajr, għax qrib ⟨hu⟩ ismek; jirrakkontaw il-għeġubijiet tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/75\/1-4.1792617524099.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "ngħidulek ħajr"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "ngħidulek ħajr"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "u qrib"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "jirrakkontaw"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "il-għeġubijiet tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:44.099943370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ġel għajnejja",
+      "rationale": "גל עיני litteralment 'użlet għajnejja', idjomaticu għal 'iftaħ għajnejja'"
+    },
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "il-Lhudi juża l-koġugnazzjoni biss"
+    }
+  ],
+  "translation": "Ġel għajnejja, biex nħares lejn in-nipċa mix-Tora tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/17-20.1792618012617.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Ġel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejja"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "biex nħares lejn"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "in-nipċa"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "mix-Tora tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:52.618278439Z",
+  "model": "glm-5.3"
+}

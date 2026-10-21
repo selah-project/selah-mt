@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kull",
+      "rationale": "לבקרים is 'to the mornings' (plural); Maltese 'kull filgħodu' captures the distributive sense"
+    },
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Maltese requires copula; Hebrew omits it"
+    }
+  ],
+  "translation": "Ġodda kull filgħodu — kbira hija l-fideleżża tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/3\/21-24.1792620135147.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "Ġodda"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kull filgħodu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "l-fideleżża tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:15.148082926Z",
+  "model": "glm-5.3"
+}

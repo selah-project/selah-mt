@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ir-rav tat-tabbaħin",
+      "rationale": "רב טבחים is literally 'chief of the butchers\/executioners'; versions soften it to 'captain of the guard'."
+    }
+  ],
+  "translation": "U ⟨את⟩ ħitan Jeruxalajim madwarhom waqqgħu l-ħila kollha tal-Kaldejani li kienet ma' ir-rav tat-tabbaħin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/9-12.1792610726175.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "U ⟨את⟩",
+      "marks": "ħitan Jeruxalajim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ħitan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwarhom"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "waqqgħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "il-ħila"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "tal-Kaldejani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li kienet"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ir-rav"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tat-tabbaħin"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:26.176605088Z",
+  "model": "glm-5.3"
+}

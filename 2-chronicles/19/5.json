@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעיר ועיר",
+      "rationale": "Repetition 'belt b'belt' (city by city) mirrors the Hebrew infinitive-style doubling."
+    },
+    {
+      "kind": "elision",
+      "subject": "הבצרות",
+      "rationale": "Qatal participle 'the-fortified-ones' rendered as one adjective; Hebrew has no separate noun for 'cities'."
+    }
+  ],
+  "translation": "U waqqaf imħallfin fl-art, f'kull bliet id-Dliem iffortizzati, belt b'belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd5a5d0e3309ad29c1c0effdb197405a85184848df204458e9c5cefbd1983a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/19\/5-8.1792622621564.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "U waqqaf"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "imħallfin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kull"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "id-Dliem"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "iffortizzati"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "belt"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "b'belt"
+    }
+  ],
+  "timestamp": "2026-10-21T22:43:41.565005417Z",
+  "model": "glm-5.3"
+}

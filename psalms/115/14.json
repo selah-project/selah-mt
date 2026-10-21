@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עליכם עליכם",
+      "rationale": "the doubled 'lilkom, lilkom' repetition intensifies the blessing; kept in Maltese"
+    },
+    {
+      "kind": "you",
+      "subject": "lilkom u lil uliedkom",
+      "rationale": "priestly blessing addressed directly to the congregation"
+    }
+  ],
+  "translation": "Jaħwe żidkom, żidkom lilkom u lil uliedkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/13-16.1792617959151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "żidkom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "żidkom lilkom"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "żidkom lilkom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "uliedkom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:59.151718015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "pronom 'int' (אַתְּ), mhux is-sinjal ta' oġġett diret"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is-siġar",
+      "rationale": "it-tielet sejħa: 'Ejja int, ħakkom fuqna' — l-istess formola ta' vv. 10 u 14"
+    }
+  ],
+  "translation": "U qalu s-siġar lill-għeneb: Ejja int, ħakkom fuqna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1845ae5388ae6fde99c8733b6c239fc665e80c6ad542e64e2353d183492a84ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/9-12.1792607190664.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "is-siġar"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "lill-għeneb"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ejja"
+    },
+    {
+      "surface": "את",
+      "gloss": "int"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ħakkom"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    }
+  ],
+  "timestamp": "2026-10-21T18:26:30.665989571Z",
+  "model": "glm-5.3"
+}

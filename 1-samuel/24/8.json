@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "וישסע",
+      "rationale": "שסע — 'qassam \/ qata'' biss hawn fit-Tanakh; il-forma Piel bil-prefiss 'u' turi għaġla fin-narrazzjoni"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישסע",
+      "gloss": "'qassam bil-kliem' — il-metaphora 'jaqsm' lil-irġlu bil-kliem' tidher fit-ton Malti, il-verb 'qassam' irid 'bil-kliem' għaliex il-Lhudi jizid dwar liema mezz"
+    }
+  ],
+  "translation": "U David qassam ⟨את⟩ irġielu bil-kliem u ma ħallihomx iqumu kontra Xaul; u Xaul qam mill-għar u mexa fit-triq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/24\/5-8.1792608292015.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "u qassam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irġielu"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "irġielu"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "bil-kliem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ħallihomx"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "iqumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "u Xaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "mill-għar"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u mexa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    }
+  ],
+  "timestamp": "2026-10-21T18:44:52.016919147Z",
+  "model": "glm-5.3"
+}

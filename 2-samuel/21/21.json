@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחי דוד",
+      "rationale": "'ħu David' — lil min jaqbel l-appożizzjoni: Ximi huwa ħu David (ASV\/JPS) jew Jehonatan (KJV); l-Ebrajk jista' jġġib it-tnejn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחרף",
+      "rationale": "literali 'keċċa\/fara' — 'ta s-semaħ' (reviled) hija l-qari komuni; il-verba hija moqgħa rari."
+    }
+  ],
+  "translation": "U hu ta s-semaħ lil ⟨את⟩ Jisrael, u Jehonatan bin Ximi, ħu David, ħaditu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/21\/21-22.1792609038245.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "u ta s-semaħ lil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "u ħaditu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Ximi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:18.246145284Z",
+  "model": "glm-5.3"
+}

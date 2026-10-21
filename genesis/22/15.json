@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mibgħut",
+      "rationale": "מלאך litteralment 'mibgħut\/messaġġier', mhux necessarjament 'anġlu'"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Avraham",
+      "rationale": "sejħa diretta mill-mibgħut ta' Jaħwe lil Avraham, t-tieni darba"
+    }
+  ],
+  "translation": "U mibgħut Jaħwe sejjaħ lil Avraham għat-tieni darba mis-sema,",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/22\/13-16.1792598214030.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sejjaħ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mibgħut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "għat-tieni darba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:54.031433490Z",
+  "model": "glm-5.3"
+}

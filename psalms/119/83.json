@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "netta ta' ġilda",
+      "rationale": "נאד hija ġarwa tal-ġilda msawra fid-duħħan — xbieha ta' xoljiment, mhux sempliċiment 'boċċa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "l-artiklu Malti miżjud quddiem 'statuti', l-Lhudi għandu biss suffiss il-possessiv"
+    }
+  ],
+  "translation": "Għax sirit bħal netta ta' ġilda fid-duħħan; ⟨il-⟩ statuti tiegħek ma nsejtx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/81-84.1792618067757.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sirit"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "bħal netta ta' ġilda"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "fid-duħħan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statuti tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nsejtx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:47.758377312Z",
+  "model": "glm-5.3"
+}

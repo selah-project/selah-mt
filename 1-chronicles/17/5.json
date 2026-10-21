@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mixkan",
+      "rationale": "משכן miżżomm bħala isem, mhux 'tinda', skont it-tabella D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-pronom fil-verb Malti miżjud biex il-ħrIEJba tkun ċara, għax il-Lhudi għandu biss il-verb"
+    }
+  ],
+  "translation": "Għaliex jien ma njilsax f'dar mill-jum li tellajt ⟨את⟩ lil Jisrael sal-jum dan, u kien jien minn ġemgħa għal ġemgħa, u minn Mixkan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/17\/5-8.1792622016850.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "njilsax"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "tellajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sal-"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "u kien jien"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "minn ġemgħa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ġemgħa"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "u minn Mixkan"
+    }
+  ],
+  "timestamp": "2026-10-21T22:33:36.851379697Z",
+  "model": "glm-5.3"
+}

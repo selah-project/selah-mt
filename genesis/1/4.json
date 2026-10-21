@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-kopula nieqsa fil-Lhudi; miżjuda bil-Malti u mmarkata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iffirxa",
+      "rationale": "הבדיל — 'ifirxa\/separa'; 'bejn… u bejn' miżmum taz-żewġ dati bħall-Lhudi"
+    }
+  ],
+  "translation": "U Elohim ra ⟨את⟩ id-dawl li ⟨hu⟩ tajjeb, u Elohim iffirxa bejn id-dawl u bejn id-dlam.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/1-4.1792597699347.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "U ra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dawl"
+    },
+    {
+      "surface": "האור",
+      "gloss": "id-dawl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "u iffirxa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "האור",
+      "gloss": "id-dawl"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "id-dlam"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:19.348619758Z",
+  "model": "glm-5.3"
+}

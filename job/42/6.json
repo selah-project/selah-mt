@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "oġġett ta' אמאס",
+      "rationale": "il-verb 'inċaħħad' m'għandux oġġett fit-test: 'lili stess' (KJV), 'il-kliem tiegħi' (JPS), jew 'kollox' — il-Malti jżid ⟨lili stess⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "lili stess",
+      "rationale": "oġġett miżjud biex is-sentenza tifhem bil-Malti"
+    }
+  ],
+  "translation": "Għalhekk inċaħħad ⟨lili stess⟩ u ninħass bil-ħtieri, fuq it-trab u l-irmied.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5db31f43f4df2a58f39b067c03851af0a814403ecfba73dcddd4ad016dfce239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/42\/5-8.1792619903961.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "inċaħħad"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "u ninħass bil-ħtieri"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "it-trab"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "u l-irmied"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:23.962272576Z",
+  "model": "glm-5.3"
+}

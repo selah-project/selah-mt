@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלאו ידו",
+      "rationale": "Lit. 'fill its\/his hand' = idiom for consecration\/installation; rendered 'imlew idejhom' keeping the picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "ידו",
+      "rationale": "Suffix 'its hand' (the altar's) vs 'their hands' (the priests'): KJV 'consecrate themselves', YLT 'filled their hand'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebgħa jiem",
+      "rationale": "Seven-day purification cycle for the altar."
+    }
+  ],
+  "translation": "Sebgħa jiem jagħmlu l-espijazzjoni ta' ⟨את⟩ l-artal u jnaddfu ⟨את⟩ lilu, u jimlew idejhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dec333b4156e6981679dd4e05e7eb9ca7d0344f09d95f9d1977cad46022171ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/43\/25-27.1792615150674.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Sebgħa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jiem"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "jagħmlu l-espijazzjoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "u jnaddfu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu (l-artal)"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "u jimlew"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "idejhom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:39:10.674975613Z",
+  "model": "glm-5.3"
+}

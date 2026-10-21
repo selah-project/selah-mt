@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "il-poplu ma' Moxe",
+      "rationale": "diskors dirett tal-poplu lejn Moxe u t-tweġiba ta' Moxe lejhom"
+    },
+    {
+      "kind": "elision",
+      "subject": "לנו",
+      "rationale": "il-pronom kien diġà maħdum f' 'ġibulna' (agglutinat mal-verb), għalhekk separatament ma jidhirx"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירב \/ תריבון",
+      "rationale": "il-verb ריב jiderb darbtejn — il-poplu jiġġieled u Moxe jistaqsi 'għaliex tiġġieldu' — ripetizzjoni retorika miżmuma"
+    }
+  ],
+  "translation": "U ġieġled il-poplu ma' Moxe, u qalu: Ġibulna ilma biex nixorbu. U qalilhom Moxe: Għaliex tiġġieldu miegħi? Għaliex tiġġarrbu lil ⟨את⟩ Jaħwe?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/17\/1-4.1792599706123.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "u ġieġled"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ġibulna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "biex nixorbu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ilhom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "tiġġieldu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "miegħi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "tiġġarrbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:46.124344188Z",
+  "model": "glm-5.3"
+}

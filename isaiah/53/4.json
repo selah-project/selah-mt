@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi għandu הוא (hu) imfassar b'saħħtu qabel il-verb; il-Malti jeħtieġ l-istruttura kompletta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imħabbat \/ mismitt",
+      "rationale": "נגוע (mittouch) huwa 'mismut\/immiss' u מכה (mukkè) 'imħabbat' — żewġ kliem differenti għal dawn iż-żewġ partiekolari"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mismitt minn Elohim",
+      "rationale": "מכה אלהים — idjoma Lhudija: mislub minn Alla, bħal dakkira divina; l-għarfien mill-qdusija mhux meħtieġ"
+    }
+  ],
+  "translation": "Tabilħaqq ⟨hu⟩ ġarrab il-mard tagħna, u l-uġigħ tagħna ġarrabhom; iżda aħna ħsibnieh imħabbat, mismitt minn Elohim, u mridid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f06ac1b2740c2c949fd1a5161565fcadf36bcce1120272622dce2f66c3f191c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/53\/4-4.1792623448151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Tabilħaqq"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "il-mard tagħna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ġarrab"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "u l-uġigħ tagħna"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "ġarrabhom"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "iżda aħna"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "ħsibnieh"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "mismitt"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "imħabbat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "minn Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "u mridid"
+    }
+  ],
+  "timestamp": "2026-10-21T22:57:28.152594231Z",
+  "model": "glm-5.3"
+}

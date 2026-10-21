@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 48:9",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נצא",
+      "rationale": "נצא occurs only here in the Tanakh; its meaning 'to flee\/depart' is inferred from the root and context."
+    },
+    {
+      "kind": "crux",
+      "subject": "ציץ",
+      "rationale": "'Flower' (KJV margin, Wycliffe) vs 'wings' (from ציץ as glistening plate, read with נצא 'flee') vs 'salt' (BSB, repointing to נץ-related root); the Hebrew keeps the bright, blossom-like image."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצא\/תצא",
+      "rationale": "Same root twice — 'fleeing she shall flee' — an infinitive-absolute pattern lost in the rendering."
+    }
+  ],
+  "translation": "Ħattru żahra lil Moab, għax bil-ħarba tidher, u blietha jkunu għal qerda, bla min joqgħod fihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f3a5ab40ab346d0c021c9ab160e09c46afa17997617b2cc6a93bfe249ebe28f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/48\/9-12.1792613635377.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Ħattru"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "żahra"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "lil Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "bil-ħarba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tidher"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "u blietha"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "għal qerda"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "bla"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "min joqgħod"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "fihom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:13:55.378192541Z",
+  "model": "glm-5.3"
+}

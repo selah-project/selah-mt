@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u kien",
+      "rationale": "Il-verb ויהי jittraduċi 'u sar'; 'kien' biex il-Malti jifhem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "qal…kien \/ ordna…qagħad",
+      "rationale": "Paralleliżmu eżatt ta' żewġ frażijiet qosra, bħall-Lhudi"
+    }
+  ],
+  "translation": "Għaliex hu qal, u kien; hu ordna, u qagħad.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/33\/9-12.1792616802699.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordna"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "u qagħad"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:42.699540262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-ħesed tagħhom",
+      "rationale": "חסדם: 'il-ħniena tagħhom stess' (KJV) kontra 'l-ħesed ta' Ħu' (BSB, b'suffissa għal Alla)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבלי שוא",
+      "rationale": "żewġ kliem għal battilerja mtennin, 'vani ta' gideb', għajdut li ma tintilifx"
+    }
+  ],
+  "translation": "Dawk li jobbservaw vani ta' gideb, il-ħesed tagħhom jabbandunaw.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/2\/9-11.1792615743426.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "jobservaw"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "vani"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ta' gideb"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "il-ħesed tagħhom"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "jabbandunaw"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:03.426793524Z",
+  "model": "glm-5.3"
+}

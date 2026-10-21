@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-qarrej \/ lil Jisrael",
+      "rationale": "rhetorical questions addressed to Israel about Israel."
+    },
+    {
+      "kind": "addition",
+      "subject": "tal-iskjav",
+      "rationale": "'fid-dar tal-iskjav' — supplied to make 'homeborn slave' explicit; Hebrew says only 'born of the house'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבד\/בית",
+      "rationale": "servant \/ house-born — status terms paired; the questions build on each other."
+    }
+  ],
+  "translation": "Jaqaw Jisrael mislav? Jaqaw imwieled fid-dar tal-iskjav? Għaliex sar ta' serqa?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e3cdf33f73d8ec6cb4471d44b4b797c6915590511f70df71ca7a74ad8ff1a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/2\/13-16.1792612322312.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "mislav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jaqaw"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "imwieled"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sar"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ta' serqa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:52:02.313525387Z",
+  "model": "glm-5.3"
+}

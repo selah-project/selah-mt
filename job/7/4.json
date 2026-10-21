@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומדד ערב",
+      "rationale": "'il-lejl jitkejjel' (l-inkenn għandu għerq m-dd 'kejjel') jew middad 'tixbit\/ħarba' — KJV 'il-lejl jintemm'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "xbaħt",
+      "rationale": "שבע 'ixba' — mimli bit-tixbit sa ma jisfah, xebħ imqaqqa"
+    }
+  ],
+  "translation": "Jekk nixtaħ u ngħid: Il-meta nqum? U l-lejl jitkejjel twil, u xbaħt bir-reqqa sa l-għabex.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "41b6471a0cb73396cea584d43085c4b73243f686816d781d4463aee8ec29aad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/7\/1-4.1792619255047.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nixtaħ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "u ngħid"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Il-meta"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nqum"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "jitkejjel twil"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "u xbaħt"
+    },
+    {
+      "surface": "נדודים",
+      "gloss": "bir-reqqa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "l-għabex"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:35.048904439Z",
+  "model": "glm-5.3"
+}

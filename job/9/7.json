@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "titlaqx",
+      "rationale": "Hebrew is 'does not shine\/rise' (ולא יזרח); Maltese negative incorporated into the verb 'titlaqx'."
+    },
+    {
+      "kind": "secret",
+      "subject": "sealing the stars",
+      "rationale": "יחתם 'seals up' the stars — hidden, closed-up things under a seal."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובעד",
+      "rationale": "Preposition 'over\/behind' folded into the Maltese object phrase 'l-istilel'."
+    }
+  ],
+  "translation": "Li jgħid lix-xemx, u titlaqx, u l-istilel jgħattihom b'siġill.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/9\/5-8.1792619191525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "lix-xemx"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "titlaqx"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "u"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "l-istilel"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "jgħattihom b'siġill"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:31.526583107Z",
+  "model": "glm-5.3"
+}

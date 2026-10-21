@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-Malti jeħtieġ l-prepożizzjoni lil qabel isem proprju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יה \/ יהוה",
+      "rationale": "l-isem qasir Jaħ jieħu ħsejjes mal-isem sħiħ Jaħwe, drawwa li tinżamm"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ifaħħu",
+      "rationale": "imperattiv plurali li jsejjaħ is-smewwiet biex ifaħħu"
+    }
+  ],
+  "translation": "Ifaħħu lil Jaħ; ifaħħu ⟨את⟩ lil Jaħwe mis-smewwiet; ifaħħuh fl-igħlija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/148\/1-4.1792618325810.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ifaħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lil Jaħ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ifaħħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ifaħħuh"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "fl-igħlija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:05.811068954Z",
+  "model": "glm-5.3"
+}

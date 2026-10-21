@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiddila",
+      "rationale": "כבוד lit. 'piż\/kobor' — 'tiddila' tgħaddi l-ġenit; l-istorbju tal-kobor ma jittraduċix sewwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ verb 'huma' għal lsienhom u għemejjelhom; il-Lhudi għandu nominali biss"
+    }
+  ],
+  "translation": "Għaliex trabbat Jeruxalajim, u Jehuda waqa'; għaliex lsienhom u għemejjelhom huma kontra Jaħwe, biex jħeqqu għajnejn it-tiddila tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/3\/5-8.1792610895695.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "trabbat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "u Jehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "waqa'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lsienhom"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "u għemejjelhom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "biex jħeqqu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "għajnejn"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "it-tiddila tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:15.696616834Z",
+  "model": "glm-5.3"
+}

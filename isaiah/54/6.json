@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח spirtu\/riħ\/nifs flimkien — kelma waħda ma tinqasamx"
+    },
+    {
+      "kind": "crux",
+      "subject": "meta tkun miċħuda",
+      "rationale": "KJV 'when thou wast refused' (indikattiv) kontra JPS 'can she be rejected?' (domanda)"
+    }
+  ],
+  "translation": "Għax bħala mara abbandunata u imnikket ruwaħ sejjaħlek Jaħwe, u bħala mara taż-żgħożija meta tkun miċħuda, qal Elohim tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/54\/5-8.1792612077127.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "bħala mara"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "abbandunata"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "u imnikket"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "sejjaħlek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "u bħala mara"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "taż-żgħožija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "tkun miċħuda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T19:47:57.128656050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 21:30",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-ħażin jinżamm",
+      "rationale": "Kelmtejn biss ma' יחשך: 'jiġi mħares sa dak il-jum' (KGJ) jew 'jiġi mħares MINN dak il-jum' (BSB); it-test Lhudi m'għandux prepożizzjoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għadab",
+      "rationale": "עברות: tkasbir ta' rabja li tfur, mhux 'qbda' ġenerali."
+    }
+  ],
+  "translation": "Sabiex għall-ġurnata ta' il-ħażin jinżamm, u għall-ġurnata tal-għadab jitressqu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "469c473ab58b89006cff6650aea9397f6b6a54347bb14441e49d745b672ef942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/21\/29-32.1792619528661.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabiex"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "għall-ġurnata ta'"
+    },
+    {
+      "surface": "איד",
+      "gloss": "iż-żmien ta'"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "jinżamm"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "għall-ġurnata"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "tal-għadab"
+    },
+    {
+      "surface": "יובלו",
+      "gloss": "jitressqu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:08.663309973Z",
+  "model": "glm-5.3"
+}

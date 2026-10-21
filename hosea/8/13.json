@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זבחי\/יזבחו",
+      "rationale": "Pun between the noun 'sacrifices' and the verb 'they sacrifice'; repetition partly kept with istejqer\/jistejqru."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הבהבי",
+      "rationale": "Rare word, only here and in a similar Hosea context; rendered 'rigali' (gifts), literally 'my gifts'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jikkastiga",
+      "rationale": "ויפקד literally 'visit\/inspect'; here hostile visitation, hence 'jikkastiga' (punishes)."
+    },
+    {
+      "kind": "addition",
+      "subject": "lejn",
+      "rationale": "Maltese requires 'lejn' (to) before the place name; Hebrew has only the bare Mitsrajim."
+    }
+  ],
+  "translation": "L-istejqer ta' rigali—huma jistejqru laħam u jieklu; Jaħwe ma rċevahomx. Issa jaftakar il-ħtijiet tagħhom u jikkastiga d-dnubiet tagħhom; huma lejn Mitsrajim jerġgħu lura.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/13-14.1792615383938.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "l-istejqer"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "ta' rigali"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "jistejqru"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "u jieklu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "rċevahomx"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "jaftakar"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "il-ħtijiet tagħhom"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "u jikkastiga"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "d-dnubiet tagħhom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lejn Mitsrajim"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "jerġgħu lura"
+    }
+  ],
+  "timestamp": "2026-10-21T20:43:03.938575722Z",
+  "model": "glm-5.3"
+}

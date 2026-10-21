@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-velu ta' Jehuda",
+      "rationale": "מסך jista' jkun il-ħitan difensivi (BSB 'defenses') jew ħwejjeġ; l-ewwel tqarira hija l-aktar komuni."
+    },
+    {
+      "kind": "you",
+      "subject": "int (ħarset)",
+      "rationale": "Indirizz dirett lil Ġerusalemm bil-femminil: 'u ħarset int'."
+    }
+  ],
+  "translation": "U skopra ⟨את⟩ il-velu ta' Jehuda, u ħarset f'dak il-jum lejn l-armi ta' Dar il-Bosk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/22\/5-8.1792611248250.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "U skopra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-velu ta' Jehuda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "il-velu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "u ħarset"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dak il-jum"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "l-armi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Dar"
+    },
+    {
+      "surface": "היער",
+      "gloss": "il-Bosk"
+    }
+  ],
+  "timestamp": "2026-10-21T19:34:08.251892694Z",
+  "model": "glm-5.3"
+}

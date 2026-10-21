@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-Qaddejja\/israeliti",
+      "rationale": "Verse addresses Moses and Aaron implicitly — command to separate Israel from impurity."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mixkan",
+      "rationale": "משכן kept as Mixkan per the fixed glossary, not 'tinda'."
+    }
+  ],
+  "translation": "U intom tisseparaw ⟨את⟩ wlied Jisrael minn niġġismhom, u mhux imutu fin-niġġisma tagħhom, meta jniġġsu ⟨את⟩ l-Mixkan tiegħi li fosthom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/29-32.1792600906072.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "u tisseparaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wlied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "minn niġġismhom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "imutu"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "fin-niġġisma tagħhom"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "meta jniġġsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-Mixkan tiegħi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "l-Mixkan tiegħi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "fosthom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:46.073070099Z",
+  "model": "glm-5.3"
+}

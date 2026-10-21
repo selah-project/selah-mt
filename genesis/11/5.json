@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-belt \/ it-torri",
+      "rationale": "l-artiklu Malti għall-artiklu Lhudi הַ, mhux immarkat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנו \/ בני",
+      "rationale": "għerq bn (bena) u ben (iben): 'bnew il-wlied' — il-ħoss jirrepeti, jitilef bil-Malti"
+    }
+  ],
+  "translation": "U Jaħwe niżel biex jara ⟨את⟩ il-belt u ⟨את⟩ it-torri li bnew wlied il-bniedem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/11\/5-8.1792597945992.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "u niżel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "biex jara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-belt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-torri"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "it-torri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bnew"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:25.993159511Z",
+  "model": "glm-5.3"
+}

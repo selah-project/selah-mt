@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kienet⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jehtieg li jkollha"
+    },
+    {
+      "kind": "secret",
+      "subject": "moħbu",
+      "rationale": "סתרו — il-post il-moħbi ta' Jaħwe, moħbi mid-dlam u s-sħab"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך \/ חשכת",
+      "rationale": "l-istess gherq חשכ darbtejn — dlam u ħoska — rim tgħawweg fuq id-dlam"
+    }
+  ],
+  "translation": "Poġġa d-dlam bħala moħbu tiegħu; madwaru ⟨kienet⟩ is-sukka tiegħu: ħoska ta' l-ilma, sħab tas-smewwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3af6ca6cb101266d6f4d779fcdb80d436ef7d3f2450a0efd15e934cd6efea2be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/11-12.1792623766102.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "id-dlam"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "moħbu tiegħu"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "madwaru"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "is-sukka tiegħu"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ħoska"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ta' l-ilma"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "sħab"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "tas-smewwiet"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:46.102784496Z",
+  "model": "glm-5.3"
+}

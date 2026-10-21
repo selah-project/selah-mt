@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat oħrajn",
+      "rationale": "אלהים אחרים hawn allat barranin, għalhekk alla b'ittra żgħira skond id-dokument (Eżodu 32:8)"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבלתי",
+      "rationale": "il-partikella negattiva ġiet moħbija ġewwa 'biex ma… x' bil-Malti"
+    }
+  ],
+  "translation": "u ma smgħux u ma mlxew ⟨את⟩ widnehom biex jerġgħu lura mill-ħaża tagħhom, biex ma jqerrbux inċens lil allat oħrajn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/44\/5-8.1792613571341.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "smgħux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "mlxew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widnehom"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "widnehom"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "biex jerġgħu lura"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "mill-ħaża tagħhom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "jqerrbux inċens"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lil allat"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oħrajn"
+    }
+  ],
+  "timestamp": "2026-10-21T20:12:51.342518333Z",
+  "model": "glm-5.3"
+}

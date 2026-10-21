@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעמס לנו",
+      "rationale": "Verbu עמס ifisser 'iġbor\/jġib il-piż': 'iġorr tagħna t-tagħbija' (ASV\/JPS) kontra 'jgħaddina bil-ġid kuljum' (KJV\/Geneva, kelma missjona mis-Septwaġinta)."
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Malti jeħtieġ il-kopula; il-Lhudi ma għandux."
+    }
+  ],
+  "translation": "Mibruk Adonaj; jum kuljum iġorr tagħna t-tagħbija; El hu ⟨l-ħelsien tagħna⟩. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/68\/17-20.1792617327503.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mibruk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "iġorr"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tagħna"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "l-ħelsien tagħna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:27.504208273Z",
+  "model": "glm-5.3"
+}

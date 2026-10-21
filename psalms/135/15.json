@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "il-Lhudi ma għandux verbu; il-kopula Maltija miżjuda u mmarkata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ps 115:4",
+      "rationale": "il-vers huwa kważi identiku għal Salm 115:4 — ripetizzjoni letterarja kontra l-idoli"
+    }
+  ],
+  "translation": "L-idoli tal-ġnus ⟨huma⟩ fidda u deheb, tagħmir ta' idejn il-bnedmin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/135\/13-16.1792618195364.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "l-idoli"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tal-ġnus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "u deheb"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tagħmir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ta' idejn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "il-bnedmin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:55.365434660Z",
+  "model": "glm-5.3"
+}

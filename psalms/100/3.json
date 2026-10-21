@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aħna⟩",
+      "rationale": "Verb 'aħna' miżjud għall-ċarezza — 'għamilna u mhux aħna' għandu verb wieħed fil-Lhudi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "u mhux aħna",
+      "rationale": "Qari ieħor ta' ולא אנחנו: 'u mhux aħna stess' (u mhux li aħna għamilna lili nfusna); il-qari tal-Masoret jifħom 'aħna' bħala s-sodda tal-verb."
+    },
+    {
+      "kind": "you",
+      "subject": "Afu",
+      "rationale": "Indirizz dirett lill-poplu, imperattiv 'afu'."
+    }
+  ],
+  "translation": "Afu li Jaħwe, hu ⟨hu⟩ Elohim; huwa għamilna, u mhux aħna; ⟨aħna⟩ niesu, u merħla mergħtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/100\/1-4.1792617765485.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Afu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "għamilna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niesu"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "u merħla"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "mergħtu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:45.486775368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨lil⟩",
+      "rationale": "Maltese requires the preposition 'lil' before the direct object; Hebrew uses none here."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעקב יעקב",
+      "rationale": "Doubling of the name marks an urgent divine summons; kept literally."
+    },
+    {
+      "kind": "you",
+      "subject": "Jagħaqov, Jagħaqov",
+      "rationale": "Direct address by Elohim to Jacob in the night vision."
+    }
+  ],
+  "translation": "U Elohim kellem ⟨lil⟩ Jisrael f'viżjonijiet il-lejl, u qal: Jagħaqov, Jagħaqov. U qal: Hawn jien.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "02983721c50278084a40282e6836984b4f4e5716c3681489ef2d9de1cb374656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/46\/1-4.1792599041565.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u kellem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lil Jisrael"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "f'viżjonijiet"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hawn jien"
+    }
+  ],
+  "timestamp": "2026-10-21T16:10:41.566495460Z",
+  "model": "glm-5.3"
+}

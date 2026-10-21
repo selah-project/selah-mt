@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ma' \/ kontrija",
+      "rationale": "אתי here is the preposition 'with me'; KJV adds 'against' from עלי — the enemies speak TO him with a lying tongue, the hostility already in 'opened upon me'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי...פי",
+      "rationale": "repetition of 'mouth' frames the verse; the doubled mouth is the weapon"
+    }
+  ],
+  "translation": "Għali fomm il-ħażin u fomm il-ħolma infetħu kontrija; kellemawni ⟨ma'⟩ ⟨את⟩ b'lsien ta' gideb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/1-4.1792617919731.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għali"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fomm"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "u fomm"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "il-ħolma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "infetħu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kellemawni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "lili (magni)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "b'lsien"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ta' gideb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:19.732465817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חובר חברים מחכם",
+      "rationale": "litteralment 'li jgħaqqad ħaħir bil-għerf' — Versjonijiet jaqsmu: 'charmer most skilled' (KJV) kontra 'binder of spells' (JPS); il-Malti żamm id-doppja ta' ġarried u ħaħir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חובר\/חברים",
+      "rationale": "għerq wieħed irrepetut (jgħaqqad \/ għaqda tas-seħer), paronomasja ma tantx tinstab fit-traduzzjoni"
+    }
+  ],
+  "translation": "Li ma jisimgħax lejn leħen il-bexxex, għall-ġarried tal-ħaħir, l-iktar wieħed għaref.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/58\/5-8.1792617251516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "jisimgħax"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lejn leħen"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "il-bexxex"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "lill-ġarried"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "tal-ħaħir"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "l-iktar wieħed għaref"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:11.517065663Z",
+  "model": "glm-5.3"
+}

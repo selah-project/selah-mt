@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השרד",
+      "rationale": "jew 'mistur\/imsuq' jew 'għall-qadid' — YLT 'coloured', JPS 'plaited', ASV 'finely wrought'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saċerdot",
+      "rationale": "כהן huwa min jaqdi fis-santwarju; 'saċerdot' bil-Malti jaqrab il-funzzjoni"
+    }
+  ],
+  "translation": "⟨את⟩ ħwejjeġ imsutra biex jaqdu fil-qdusija, ⟨את⟩ ħwejjeġ il-qdusija lil Aharon is-saċerdot, u ⟨את⟩ ħwejjeġ uliedu biex isaċerdtaw.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "387dd514d427b4d960d2ba6183ac039628bac466275594dee996bd2c5feb9df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/35\/17-20.1792600126413.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħwejjeġ imsutra"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ħwejjeġ"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "imsutra"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "biex jaqdu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "fil-qdusija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħwejjeġ il-qdusija"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ħwejjeġ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "il-qdusija"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "lil Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "is-saċerdot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ħwejjeġ uliedu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ħwejjeġ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uliedu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "biex isaċerdtaw"
+    }
+  ],
+  "timestamp": "2026-10-21T16:28:46.414228912Z",
+  "model": "glm-5.3"
+}

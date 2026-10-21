@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "inġigla",
+      "rationale": "מוקש: 'bait\/lure' (JPS) vs 'gin\/snare' (KJV) vs 'fowler' (Wycliffe); mmt għażel 'inġigla' (lsira)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ttajjar",
+      "rationale": "היעלה verbatim 'titla'; il-Malti jeħtieġ kelma ta' moviment għal trapp li taqbeż."
+    },
+    {
+      "kind": "you",
+      "subject": "lis-smigħ ta' Jisrael",
+      "rationale": "Mistoqsijiet retoriċi li jsejħu lis-semmiegħ — katina ta' 'Jaqbdieli...?' f'Amos 3."
+    }
+  ],
+  "translation": "Għasfur jaqa' fuq trapp fl-art mingħajr ma hemm inġigla għaliha? Trapp ttajjar mill-art mingħajr ma qabdet xejn?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/3\/5-8.1792615690138.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "għasfur"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פח",
+      "gloss": "trapp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "u inġigla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mingħajr ma hemm"
+    },
+    {
+      "surface": "לה",
+      "gloss": "għaliha"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "ttajjar"
+    },
+    {
+      "surface": "פח",
+      "gloss": "trapp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "art"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "u maqbuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mingħajr ma"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "qabdet xejn"
+    }
+  ],
+  "timestamp": "2026-10-21T20:48:10.138918952Z",
+  "model": "glm-5.3"
+}

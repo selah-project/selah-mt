@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta'>",
+      "rationale": "Il-Malti jeħtieġ 'ta'' qabel 'tiegħu'; il-Lhudi għandu biss לא לו 'mhux tiegħu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המר",
+      "rationale": "'marruż' għal מר: l-istess għerq ta' l-imrar, il-marruż tan-nazzjon"
+    },
+    {
+      "kind": "elision",
+      "subject": "למרחבי",
+      "rationale": "Plural ta' intensità 'il-wiesgħajn kollha' rreduzzjonat għal 'il-wiesgħajn'"
+    }
+  ],
+  "translation": "Għax arani qajjem ⟨את⟩ il-Kasdin, in-nazzjon il-marruż u l-mgħaġġel, li jimxi lejn il-wiesgħajn tal-art, biex jirbaħ Mixkanijiet li mhux ⟨ta'> tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/habakkuk\/1\/5-8.1792616106264.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "arani"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "qajjem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Kasdin"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "il-Kasdin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "in-nazzjon"
+    },
+    {
+      "surface": "המר",
+      "gloss": "il-marruż"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "u l-mgħaġġel"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "li jimxi"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "lejn il-wiesgħajn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "biex jirbaħ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mixkanijiet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:55:06.264976388Z",
+  "model": "glm-5.3"
+}

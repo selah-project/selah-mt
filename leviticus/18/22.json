@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi ma għandux verb — תועבה הוא frażi nominali 'tuġġiba hija'"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Israel",
+      "rationale": "projbizzjoni diretta mitkellma lil Israel"
+    }
+  ],
+  "translation": "U ma torqodx ma' ⟨את⟩ raġel b'rqad ta' mara — tuġġiba hija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/18\/21-24.1792600891902.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ma' ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "torqodx"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "rqad ta'"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "tuġġiba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:31.903031287Z",
+  "model": "glm-5.3"
+}

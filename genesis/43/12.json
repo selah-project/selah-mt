@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mirdifa",
+      "rationale": "משנה = 'doppju', 'kopja' — il-flus mirdifa"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-verb 'kien' miżjud għall-istorja passata, li fl-ewwel kelma ma tinstamax"
+    }
+  ],
+  "translation": "U ħudu flus mirdifa f'idejkom, u ⟨את⟩ il-flus li reġgħu ntbagħtu fil-ħalq tal-istonċi tagħkom erġuhom f'idejkom; forsi kien żball.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9a796b3950205bbb30a1eb477fa235c07c0a35b40e685a0a64b8863d039aeecf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/43\/9-12.1792598991393.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "U flus"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mirdifa"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ħudu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "f'idejkom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-flus"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "il-flus"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "li reġgħu ntbagħtu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "fil-ħalq"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "tal-istonċi tagħkom"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "erġuhom"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "f'idejkom"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "forsi"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "żball"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:51.394365577Z",
+  "model": "glm-5.3"
+}

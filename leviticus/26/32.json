@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והשמותי \/ ושממו",
+      "rationale": "għerq wieħed שמם — 'neqrid' u 'jibħtu': l-istess ħsara tonqos fuq l-art u fuq l-għedewwa li joqogħdu fiha"
+    },
+    {
+      "kind": "crux",
+      "subject": "joħorgu għajjien",
+      "rationale": "שממו: 'jistagħġbu\/u jiddiżarmaw' mill-ħerba (KJV 'astonished') vs 'jinstgħu desolati' bħall-art stess; għażilt l-ewwel"
+    }
+  ],
+  "translation": "U jien inneqrid ⟨את⟩ l-art, u l-għedewwa tagħkom joħorgu għajjien fuqha, huma li joqogħdu fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb1963de30ad6386726925a00139426214ecd3a671cf9d567642991dae0bc832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/30-33.1792602324377.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמותי",
+      "gloss": "u inneqrid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "joħorgu għajjien"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fuqha"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "l-għedewwa tagħkom"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "huma li joqogħdu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:24.379576381Z",
+  "model": "glm-5.3"
+}

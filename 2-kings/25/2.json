@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "il-belt daħlet f'assedju",
+      "rationale": "Ebrajk letterali: 'il-belt daħlet fil-matzor' — l-assedju nieżel fuqha bħall-ġarr;"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sena l-ħdax",
+      "rationale": "Għadd ta' snin ta' assedju — mill-Disa' sal-Ħdax tas-Sultan Sidqijaħu."
+    }
+  ],
+  "translation": "U l-belt daħlet f'assedju sas-sena l-ħdax tas-Sultan Sidqijaħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/1-4.1792610815707.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "U daħlet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "f'assedju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ħdax-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "il"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tas-Sultan"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidqijaħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:55.710401857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הרעמה",
+      "rationale": "mill-verb רעם (ragħad\/tonnar) — 'tagħmel ragħad fuqha', veru kull tweġiba; ġie rrappurtat biss hawn"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרעמה",
+      "rationale": "verżjonijiet qodma jaqsmu: KJV 'provoked her sore', YLT 'make her tremble' — min jagħmel ir-ragħad, Penina jew Ħanna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rivali",
+      "rationale": "צרה letteralment 'dakk — l-iżgħar', mara konkurrenti; 'rivali' iżomm it-tensjoni"
+    }
+  ],
+  "translation": "U rivali tagħha kienet tagħdabha anki bi qlubija, u kienet tridniha, għax Jaħwe kien għalaq raħemha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/1\/5-8.1792607640890.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "kienet tagħdabha"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "rivali tagħha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bi qlubija"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "għax \/ biex"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "kienet tridniha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "għalaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨għalha⟩"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "raħemha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:34:00.891509784Z",
+  "model": "glm-5.3"
+}

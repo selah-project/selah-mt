@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימים על שנה",
+      "rationale": "'Jiem fuq sena' — KJV 'ħafna jiem u snin' kontra ASV\/JPS 'wara sena u jiem'; l-ebda ma jiddikjara t-tul eżatt"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-vinja",
+      "rationale": "l-artiklu Malti miżjud mal-kejl tal-għelejjel, il-Lhudi għandu biss בציר"
+    }
+  ],
+  "translation": "Jiem 'il fuq minn sena titrembtxu, intom li tafdaw, għaliex qata' l-vinja, u l-ġbir ma jiġix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/32\/9-12.1792611495366.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "jiem"
+    },
+    {
+      "surface": "על",
+      "gloss": "'il fuq minn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "titrembtxu"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "intom li tafdaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "il-vinja"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "l-ġbir"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jiġix"
+    }
+  ],
+  "timestamp": "2026-10-21T19:38:15.367200137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "Preposizzjoni mmirata fuq suffiss — tintuża fil-verb Malti 'irringrazzjawh', m'għandhiex kelma separata."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תודה \/ הודו",
+      "rationale": "Għerq wieħed j-d-h: il-bieb bit-tifħir (תודה) jerġa' jidher f'irringrazzjawh (הודו) — għerq jingħata ma' jidher fil-Malti."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Idħlu",
+      "rationale": "Imperattivi ta' dħul u ta' sebbħ — sejħa lit-tempju."
+    }
+  ],
+  "translation": "Idħlu f'bibien tiegħu bit-tifħir, u f'bitħiet tiegħu bis-sebbħ; irringrazzjawh, ibierku ismu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/100\/1-4.1792617765485.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Idħlu"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "f'bibien tiegħu"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bit-tifħir"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "f'bitħiet tiegħu"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "bis-sebbħ"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "irringrazzjawh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(-lu)"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ibierku"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:45.486912827Z",
+  "model": "glm-5.3"
+}

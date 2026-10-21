@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-ikel",
+      "rationale": "לחם litteralment 'ħobż', iżda hawn tfisser ikel b'mod wiesa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "tal-merkant",
+      "rationale": "סוחר: 'tal-merkant' (KJV) kontra 'li jbaħħru' (peddler li jdur); it-tifsira żżomm l-istampa tal-vapur"
+    }
+  ],
+  "translation": "Saret bħall-vapuri tal-merkant, minn post imbiegħed ġġib ⟨l-ikel⟩ tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/31\/13-16.1792618975112.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "saret"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "bħall-vapuri"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "tal-merkant"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "minn post imbiegħed"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ġġib"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "tagħha (l-ikel)"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:55.113490843Z",
+  "model": "glm-5.3"
+}

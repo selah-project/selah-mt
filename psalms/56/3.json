@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרום",
+      "rationale": "'Marom' = għoli: apostrofju lil Jaħwe l-Iktar Għoli (KJV, JPS) jew avverbju 'b'kburija\/minn għoli' (ASV 'proudly')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאפו",
+      "rationale": "Jagħmel eċċo ta' שאפני fil-vers ta' qabel — l-għadu jaqbdu b'ħalq miftuħ bħall-annimal"
+    }
+  ],
+  "translation": "Il-għedewwa tiegħi jaqbdu b'ħalqhom miftuħ kuljum, għax ħafna huma dawk li jiġġieldu kontrija minn għoli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/56\/1-4.1792617221350.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "jaqbdu b'ħalqhom miftuħ"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "Il-għedewwa tiegħi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "dawk li jiġġieldu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "minn għoli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:41.351725349Z",
+  "model": "glm-5.3"
+}

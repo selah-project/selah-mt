@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כס",
+      "rationale": "il-kelma tista' tkun כס 'tron' (bil-vokali כֵּס) jew כֵּס 'ħalef' — 'id fuq it-tron ta' Jaħ' (JPS, YLT) kontra 'Jaħwe ħalef' (KJV, Genevra)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jaħwe ħalef",
+      "rationale": "jekk כס = il-ħolma, il-vers jisraq 'il-ħolma ta' Jaħwe: ġwerra għal Jaħwe kontra Amalek'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדר דר",
+      "rationale": "ripetizzjoni 'minn nisel għal nisel' — strument ta' sfond fil-Lhudi, miżmum bid-doppja."
+    }
+  ],
+  "translation": "u qal: Għaliex id fuq it-tron ta' Jaħ, il-ġwerra għal Jaħwe kontra Amalek, minn nisel għal nisel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/17\/13-16.1792599611089.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "יד",
+      "gloss": "id"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כס",
+      "gloss": "it-tron"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ta' Jaħ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "il-ġwerra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "kontra Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "minn nisel"
+    },
+    {
+      "surface": "דר",
+      "gloss": "għal nisel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:11.090963616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tlettax-il",
+      "rationale": "il-Malti jgħaqqad 'tlieta' u 'għaxra' f'kelma waħda; il-Lhudi għandu żewġ kliem"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tlettax-il bliet",
+      "rationale": "għadd tas-somma tal-ibliet ta' Shimon"
+    }
+  ],
+  "translation": "u Bet Levaot u Sharuħen; tlettax-il bliet bil-ħamrijiet tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5afb7e6d7ad35e5837bb0236e60c8a22bc1993d4bb3d4b9b006d725767b6e2ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/19\/5-8.1792606651223.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "u Bet"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "Levaot"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "u Sharuħen"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlettax-il"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨tlettax-il jinkludi għaxra⟩"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "bil-ħamrijiet tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:17:31.224355683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויפתוהו",
+      "rationale": "litteralment 'fetħuluh (il-ħalq)' — idjoma ta' l-enticement, mgħoddija bħala 'ħawwluh' (dslu jemmnuh bi kliem falz)"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "il-prepożizzjoni 'lu' diġà miġbura fil-verb 'jgiddbuh'"
+    }
+  ],
+  "translation": "U ħawwluh b'ħalqhom, u bil-ilsien tagħhom kienu jgiddbuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/33-36.1792617474345.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "U ħawwluh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "b'ħalqhom"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "u bil-ilsien tagħhom"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "kienu jgiddbuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:54.346636397Z",
+  "model": "glm-5.3"
+}

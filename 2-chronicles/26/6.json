@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויפרץ",
+      "rationale": "l-istess għerq ta' 'peres' — li jaqsam ħajt; għalhekk 'kisser' mhux 'qerred'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בפלשתים",
+      "gloss": "il-prepożizzjoni ב mal-għadu tfisser 'kontra', mhux 'f'"
+    }
+  ],
+  "translation": "U hu ħareġ u ġġieled mal-Filistini, u kisser ⟨את⟩ ħajt Gat u ⟨את⟩ ħajt Jabne u ⟨את⟩ ħajt Axod, u bena bliet f'Axod u fl-art tal-Filistini.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "50a683df0e5585681c2c5294b6b8ee1de9309486b130b38594e3694a3e2f94eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/26\/5-8.1792622859096.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ħareġ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ġġieled"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mal-Filistini"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "kisser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħajt Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ħajt"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ħajt Jabne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ħajt"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Jabne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ħajt Axod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ħajt"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Axod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "f'Axod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "u fl-art tal-Filistini"
+    }
+  ],
+  "timestamp": "2026-10-21T22:47:39.097108114Z",
+  "model": "glm-5.3"
+}

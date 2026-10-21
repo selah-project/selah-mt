@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרשה \/ יורש",
+      "rationale": "Maresa (מרשה) puns on יורש 'the dispossessor\/heir' — the town's name sounds like its fate."
+    },
+    {
+      "kind": "crux",
+      "subject": "עוד",
+      "rationale": "'Yet\/again' — speaker is left implicit; renderings differ between 'I will bring' and 'the possessor comes'."
+    }
+  ],
+  "translation": "Għadni se nġib għalik lil dak li jirt, int li toqgħod f'Maresa; sa Adullam jiġi l-ġieħ ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/1\/13-16.1792615924844.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Ghadni"
+    },
+    {
+      "surface": "הירש",
+      "gloss": "lil dak li jirt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se ngib"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ghalik"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "int li toqghod"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "f'Maresa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jigi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-gieh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:04.845507638Z",
+  "model": "glm-5.3"
+}

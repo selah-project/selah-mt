@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ġiet",
+      "rationale": "Il-Malti jeħtieġ verb passiv fejn il-Lhudi għandu biss infinitiv kostrutt כהכין"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saltna",
+      "rationale": "מלכות huwa r-renju bħala dominju, mhux sempliċement ir-renju"
+    }
+  ],
+  "translation": "U ġara, meta s-saltna ta' Reħavgħam ġiet stabbilita u meta hu kien qawwi, hu abbanduna ⟨את⟩ it-Tora ta' Jaħwe, u Jisrael kollu miegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/12\/1-4.1792622506397.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "meta ġiet stabbilita"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "is-saltna"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ta' Reħavgħam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "u meta hu kien qawwi"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "hu abbanduna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "it-Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:41:46.397839351Z",
+  "model": "glm-5.3"
+}

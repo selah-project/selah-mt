@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סעפים",
+      "rationale": "Ta' moħħ imqassam (skeptiċi, dawk diviżi f'moħħhom) kontra 'ħsieb vanu' (KJV) jew 'dubbjużi' (YLT) — il-kelma tfisser moħħ maqsum f'taqsimiet."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סעפים\/שנאתי",
+      "rationale": "Alliterazzjoni ta' s-sibilanti fil-ħatra S-samech, hekk it-taqsima tal-moħħ tirrifletti s-sibilanti mqassma."
+    }
+  ],
+  "translation": "Nobgħod lil dawk bil-moħħ imqassam, u ħabbajt lil Tora tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/113-116.1792618083091.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "dawk bil-moħħ imqassam"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nobgħod"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "u Tora tiegħek"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ħabbajt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:03.092312718Z",
+  "model": "glm-5.3"
+}

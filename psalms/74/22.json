@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iħarreġ ⟨את⟩ l-każa",
+      "rationale": "ריבה ריבך is verb + cognate object; Maltese needs a noun phrase as marked object"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבל",
+      "rationale": "nabal: 'the fool' (KJV) vs 'the impious\/base man' (JPS); Maltese 'nil' fool"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבך",
+      "rationale": "verb-and-noun of same root repeated, an infinitive-absolute-like flourish lost in Maltese"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "imperatives Qum, ftakar addressed to God"
+    }
+  ],
+  "translation": "Qum, Elohim, iħarreġ ⟨את⟩ l-każa tiegħek; ftakar fit-taħtiriet tiegħek minn ta' nil għal jum kollu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/21-23.1792617383714.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "qum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "iħarreġ"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "l-każa tiegħek"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ftakar"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "fit-taħtiriet tiegħek"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minn"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ta' nil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jum"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:23.714783482Z",
+  "model": "glm-5.3"
+}

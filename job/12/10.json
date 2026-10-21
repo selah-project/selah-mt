@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש eqreb għal nifs \/ ħajja milli 'ruħ' fil-qedem"
+    },
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ verbi ta' sede għal frażi nominaali bl-Ebrajk"
+    }
+  ],
+  "translation": "Li f'idejh hemm nifs kull ħaj, u ruwaħ kull ġisem ta' bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/9-12.1792619278855.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Li"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idejh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "u ruwaħ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ġisem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta' bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:58.856511078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "għoxrin sena 'l fuq",
+      "rationale": "Sogol tal-għadd definit bil-età — kriterju ta' kejl."
+    },
+    {
+      "kind": "addition",
+      "subject": "lilhom",
+      "gloss": "",
+      "rationale": "Il-preposizzjoni Maltija meħtieġa wara ⟨את⟩ bil-pronom suffiss."
+    }
+  ],
+  "translation": "Minn bniedem ta' għoxrin sena 'l fuq, kull min joħroġ għall-eżerċitu f'Jisrael, tgħoddu ⟨את⟩ lilhom skont l-eżerċiti tagħhom — int u Aharon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/1\/1-4.1792602411892.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Minn bniedem ta'"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "'l fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "min joħroġ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "għall-eżerċitu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "tgħoddu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "skont l-eżerċiti tagħhom"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "skont l-eżerċiti tagħhom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "u Aharon"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:51.895168821Z",
+  "model": "glm-5.3"
+}

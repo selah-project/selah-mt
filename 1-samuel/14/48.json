@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעש חיל",
+      "rationale": "litteralment 'għamel ħila\/qawwa' — jiġifieri għemil ta' ġellied; KJV 'gathered an host' kontra JPS 'did valiantly'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שסהו",
+      "rationale": "partiċipju 'dak li jispiċċa\/jiplunderah': singular dwar pupazz kollettiv (l-Amalekiti) jew 'dak li kien iħarbirhom'"
+    }
+  ],
+  "translation": "U għamel ħila, u laqat lil ⟨את⟩ Amalek, u ħalles lil ⟨את⟩ Jisrael minn id min jitplieħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca69a4d5f5fcbe18d345bcc6c26bf0aa10cc6a94d482d0ba5dc7c4e76beed602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/14\/45-48.1792607865156.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ħila"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "u laqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "u ħalles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "min jitplieħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:37:45.158252991Z",
+  "model": "glm-5.3"
+}

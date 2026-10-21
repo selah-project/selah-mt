@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 29:31",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mogħża waħda",
+      "rationale": "Fixed count of one goat — counting in the sacrifice calendar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għall-ħtija",
+      "rationale": "חטאת is both 'sin' and 'sin-offering'; the Hebrew keeps one word, Maltese must choose."
+    }
+  ],
+  "translation": "u mogħża raġel waħda għall-ħtija, barra mill-olà ta' dejjem, il-minħa tagħha u n-nixfiet tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "21497654e5542d7a6447446d8b9eb8bba94230e7d5c019cd06be247291811304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/29\/29-32.1792604974890.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "u mogħża raġel"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "għall-ħtija"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "bara minn"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l-olà"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ta' dejjem"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "il-minħa tagħha"
+    },
+    {
+      "surface": "ונסכיה",
+      "gloss": "u n-nixfiet tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T17:49:34.891461299Z",
+  "model": "glm-5.3"
+}

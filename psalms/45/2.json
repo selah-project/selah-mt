@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨lil⟩",
+      "rationale": "il-Malti jeħtieġ prepożizzjoni qabel l-oġġett dirett 'għemili'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tfur",
+      "rationale": "רחש = li jgerger\/għadira li tfur; immaġni ta' Lhudi li tinħażen parzjalment"
+    }
+  ],
+  "translation": "Qalbi tfur kelma tajba; jiena ngħid ⟨lil⟩ għemili lir-re; ilsieni pinna ta' kittieb mgħaġġel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/45\/1-4.1792617049945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "tfur"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngħid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "għemili"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lir-re"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ilsieni"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pinna"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ta' kittieb"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "mgħaġġel"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:49.945982437Z",
+  "model": "glm-5.3"
+}

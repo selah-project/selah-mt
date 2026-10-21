@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ir-ritorn ta' Zion",
+      "rationale": "שיבת: 'return\/captivity-restore' — 'ir-ritorn' vs 'il-ħelsien mill-eżilju'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיבת\/בשוב",
+      "rationale": "Għerq wieħed שׁוב imtedded darbtejn fil-vers, mitluf fit-traduzzjoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "konna bħal dawk li jorqdu bil-ħolm",
+      "rationale": "כחלמים — 'bħal ħolmien'; il-plural Malti jeħtieġ parafrażi."
+    }
+  ],
+  "translation": "Għanja tas-snin tagħna 'l fuq (Song of the degrees). Meta Jaħwe rritorna ⟨את⟩ ir-ritorn ta' Zion, konna bħal dawk li jorqdu bil-ħolm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/126\/1-4.1792618111754.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Għanja"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tas-snin tagħna 'l fuq (Song of the degrees)"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "meta rritorna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ir-riturn ta' Zion"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ir-ritorn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ta' Zion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "konna"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "bħal dawk li jorqdu bil-ħolm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:31.755202212Z",
+  "model": "glm-5.3"
+}

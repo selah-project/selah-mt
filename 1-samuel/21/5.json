@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אין...כי אם",
+      "rationale": "costruzzjoni Ebrajka 'ma hemm... ħlief' ma tintradux kelma għal kelma bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ordinary bread",
+      "rationale": "חל = 'espost, profan' — 'ordinarju' jaqbad id-dominju, mhux it-traduzzjoni litterali"
+    }
+  ],
+  "translation": "U l-qassis wieġeb lil ⟨את⟩ David u qal: M'hemmx ħobż ordinarju taħt idejja, imma ħobż qaddis hemm; jekk iż-żgħażagħ żammew lilhom infushom, biss mill-mara.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/21\/5-8.1792608258696.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "U wieġeb"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "חל",
+      "gloss": "ordinarju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idejja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ħlief"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨hemm⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "żammew lilhom infushom"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "iż-żgħażagħ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "biss"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "mill-mara"
+    }
+  ],
+  "timestamp": "2026-10-21T18:44:18.696847667Z",
+  "model": "glm-5.3"
+}

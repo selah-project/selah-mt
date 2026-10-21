@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 31:28",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבני",
+      "rationale": "'ibni' litteralment, imma hawn in-neputi (ulied Rachele u Lea) — \"il-bnin\" iżomm l-ambigwità"
+    },
+    {
+      "kind": "addition",
+      "subject": "fid-dimir tiegħek",
+      "rationale": "עשו 'tagħmel' — 'f'dak li għamilt'; bil-Malti jinżied possessiv għall-fludenza"
+    },
+    {
+      "kind": "you",
+      "subject": "Lavan lil Jagħaqov",
+      "rationale": "tkomplija ta' l-istess indirizz dirett"
+    }
+  ],
+  "translation": "u lanqas tħallitni nsib il-bnin u lil binti bi nxobbhom ilsiera; issa għamilt il-ġħemejl fid-dimir tiegħek.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/25-28.1792598522515.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "נטשתני",
+      "gloss": "tħallitni"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "bi nsib"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "il-bnin"
+    },
+    {
+      "surface": "ולבנתי",
+      "gloss": "u lil binti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "הסכלת",
+      "gloss": "għamilt il-ġħemejl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fid-dimir tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:02.516301366Z",
+  "model": "glm-5.3"
+}

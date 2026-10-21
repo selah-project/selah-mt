@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil wlied l-għorab",
+      "rationale": "l-ikel mogħti anki lill-għorab żgħar li jsejħu — raħma ta' Jaħwe fuq l-iktar dgħjaf"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bhejjem",
+      "rationale": "בהמה — bhejjem, kelma qariba tal-Lhudi, ma ntradmitx b'kelma ġenerika"
+    }
+  ],
+  "translation": "Jagħti lill-bhejjem ikelhom, lil wlied l-għorab li jsejħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/9-12.1792618315898.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Jagħti"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "lill-bhejjem"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ikelhom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lil wlied"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "l-għorab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "jsejħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:55.898820208Z",
+  "model": "glm-5.3"
+}

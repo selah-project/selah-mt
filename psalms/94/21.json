@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "נפש hija eħreb qrib 'ħajja\/nifs' milli 'ruħ' fil-ħsieb modern"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/ירשיעו",
+      "rationale": "il-għerq ṣ-d-q fil-kelma 'ġust' u l-għerq r-š-ʿ fil-verb 'jiddikjaraw ħatja' — żewġ għeruq opposti, mhu jidhirx fit-traduzzjoni"
+    }
+  ],
+  "translation": "Jiġbru ruħhom kontra ruwaħ it-tajjeb, u d-demm innoċenti jiddikjaraw ħatja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/94\/21-23.1792617711305.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "jiġbru ruħhom"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "it-tajjeb"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "u d-demm"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innoċenti"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "jiddikjaraw ħatja"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:51.306359434Z",
+  "model": "glm-5.3"
+}

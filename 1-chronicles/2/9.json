@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "il-konġunzjoni relattiva Lhudija ma għandhiex kliem Malti sħiħ — ġiet mgħoddija bħala 'li'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wlied Ħetsron",
+      "rationale": "ġenealoġija: lista ta' ismijiet ta' wlied"
+    }
+  ],
+  "translation": "U wlied Ħetsron li tweladu lilu: ⟨את⟩ Jeraxmeel u ⟨את⟩ Ram u ⟨את⟩ Kelubaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/2\/9-12.1792621668394.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "u wlied"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ħetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "tweladu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeraxmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jeraxmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Kelubaj"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubaj"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:48.394840596Z",
+  "model": "glm-5.3"
+}

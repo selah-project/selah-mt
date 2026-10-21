@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "xebba",
+      "rationale": "מוקש hu nassa\/xebba għall-annimali — ziffa konkreta mħabbta"
+    },
+    {
+      "kind": "elision",
+      "subject": "פן",
+      "rationale": "'biex ma... x' inqassam fu żewġt postijiet bil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨li⟩",
+      "rationale": "il-prepożizzjoni Maltija meħtieġa għal 'kontri li jien'"
+    }
+  ],
+  "translation": "Mhux se joqogħdu fl-art tiegħek, biex ma jagħmlukx tiddnib kontri ⟨li⟩ jien; għax tkun tqeddi ⟨את⟩ l-allat tagħhom, għaliex jkunu lilek għal xebba.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/33-33.1792599716432.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "יֵשְׁבוּ",
+      "gloss": "se joqogħdu"
+    },
+    {
+      "surface": "בְּאַרְצְךָ",
+      "gloss": "fl-art tiegħek"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "יַחֲטִיאוּ",
+      "gloss": "jagħmlukx tiddnib"
+    },
+    {
+      "surface": "אֹתְךָ",
+      "gloss": "⟨את⟩",
+      "marks": "ik (lil inte)"
+    },
+    {
+      "surface": "לִּי",
+      "gloss": "kontri jien"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "תַּעֲבֹד",
+      "gloss": "tkun tqeddi"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "l-allat tagħhom"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "l-allat tagħhom"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "לְּךָ",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "לְמוֹקֵשׁ",
+      "gloss": "għal xebba"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:56.432924619Z",
+  "model": "glm-5.3"
+}

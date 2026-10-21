@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-poplu",
+      "rationale": "שאל bla suġġett; 'talbu' bil-Malti jeħtieġ suġġett li jidher mill-kuntest (l-israeliti)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħobż",
+      "rationale": "לחם tfisser 'ikel' b'mod wiesa'; 'ħobż' iżomm l-istorja tal-manna."
+    }
+  ],
+  "translation": "Talbu, u ġab sumien, u bil-ħobż tas-sema xbaħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/37-40.1792617823736.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Talbu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "u ġab"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "sumien"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "u bil-ħobż"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tas-sema"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "xbaħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:43.736999301Z",
+  "model": "glm-5.3"
+}

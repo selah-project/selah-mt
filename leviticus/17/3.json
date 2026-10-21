@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "it-tathbira 'ragħel ragħel' = 'kull ragħel waħdu', attenzjoni individwali; il-Malti juża 'Kull ragħel'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ħajt għal מחנה",
+      "rationale": "il-מחנה huwa l-kamp ta' żmien il-merħla; il-għażla tal-kelma ta' stabbiliment Maltija ssib widna aħjar"
+    }
+  ],
+  "translation": "Kull ragħel minn djar Jisrael li jibegħ ħadra ta' baqar jew ħaruf jew mogħża fil-ħajt, jew li jibegħ ħadra barra mill-ħajt:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "099d492f34fa04e734d9a1ad81d559d49e38d47b540d08250c582873476ab5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/17\/1-4.1792600963993.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Kull ragħel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ragħel"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "minn djar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "jibegħ ħadra"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ħaruf"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mogħża"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "fil-ħajt"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "jibegħ ħadra"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "barra"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mill-ħajt"
+    }
+  ],
+  "timestamp": "2026-10-21T16:42:43.994581375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iżfen il-ħsad",
+      "rationale": "עמר litteralment 'jissaka' — il-ħsad miżmun f'żifen"
+    }
+  ],
+  "translation": "Li ma jimlax il-pala tal-ħassad, u lanqas is-sidru ta' min iżfen il-ħsad.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/129\/5-8.1792618172937.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "li ma"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jimlax"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "il-pala"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "tal-ħassad"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "is-sidru"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "iżfen il-ħsad"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:32.937823117Z",
+  "model": "glm-5.3"
+}

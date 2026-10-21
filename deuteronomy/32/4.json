@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Huwa",
+      "rationale": "il-pronun eċċentrat tal-Malti għall-הוא fil-fini tal-vers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/וישר",
+      "rationale": "żewġ kliem li jiffurmaw paronomażju: 'ġust u dritt' — l-istess għerq tal-maqlub ta' עול (inġustizzja) ta' qabel"
+    }
+  ],
+  "translation": "Is-saħra, sħiħa għemiltu, għax triqtatu kollha dritt; El ta' fidi u mingħajr inġustizzja, ġust u dritt Huwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/32\/1-4.1792606051072.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Is-saħra"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sħiħa"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "għemiltu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "triqtatu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dritt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ta' fidi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u mingħajr"
+    },
+    {
+      "surface": "עול",
+      "gloss": "inġustizzja"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ġust"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "u dritt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:31.073938396Z",
+  "model": "glm-5.3"
+}

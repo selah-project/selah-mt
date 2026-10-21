@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "il-vers jindirizza lil Jisrael direttament fil-plural ('tagħkom', 'fikom')"
+    },
+    {
+      "kind": "addition",
+      "subject": "jiena",
+      "rationale": "il-Lhudi għandu sempliċiment והסרתי 'u neħħejt', mingħajr pronome separata"
+    }
+  ],
+  "translation": "U tqimu ⟨את⟩ Jaħwe Elohim tagħkom, u jbierkek ⟨את⟩ il-ħobż tiegħek u ⟨את⟩ l-ilma tiegħek, u jiena inneħħi l-mard minn ġo fikom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/25-28.1792599797455.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "u tqimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "u jbierkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħobż tiegħek"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "il-ħobż tiegħek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ilma tiegħek"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "l-ilma tiegħek"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "u inneħħi"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "l-mard"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "minn ġo fikom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:17.456147882Z",
+  "model": "glm-5.3"
+}

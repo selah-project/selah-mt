@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השחת",
+      "rationale": "'il-ħofra' (pit, bħal JPS) kontra 'it-taħdit' (corruption, bħal KJV)"
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד לנצח",
+      "rationale": "żewġ adverbji tal-waqt mgħaġġla f'espressjoni waħda"
+    }
+  ],
+  "translation": "Biex jgħix għal dejjem, u ma jarax il-ħofra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/9-12.1792617142081.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "biex jgħix"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa l-aħħar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "jarax"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "il-ħofra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:22.082019436Z",
+  "model": "glm-5.3"
+}

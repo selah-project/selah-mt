@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-ġimgħa kollha",
+      "rationale": "Malti jeħtieġ l-artiklu u kostruzzjoni ta' ġabra għal כל"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שיר המעלות",
+      "rationale": "Titlu: 'Għanja tal-Għoljiet' (tal-ħajja 'l fuq), tittredd bħala wieħed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bil-lejl",
+      "rationale": "בלילות plural 'fil-lejl il-kbar'; miċħud għal singular Malti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "il-psalm",
+      "rationale": "Imperattiv ברכו jsejjaħ lill-qaddejja"
+    }
+  ],
+  "translation": "Għanja tal-Għoljiet. Ara, bierekdu lil Jaħwe, il-ġimgħa kollha ta' qaddejja ta' Jaħwe, dawk li joqogħdu f'dar Jaħwe bil-lejl.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/134\/1-3.1792618154120.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Għanja"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tal-Għoljiet"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bierekdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-ġimgħa kollha"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ta' qaddejja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dawk li joqogħdu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "bil-lejl"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:14.121506184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sħaħ",
+      "rationale": "תמימם = komplet, bla ħsara, b'integrità; 'sħaħ' iżomm id-dawl ta' kelma waħda"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-ġranet",
+      "rationale": "Jaħwe għandu għarfien preċiż tal-ġranet (tan-nisa sħaħ) — numru ta' jiġġenji magħruf"
+    }
+  ],
+  "translation": "Jaħwe jaf il-ġranet tas-sħaħ, u l-wirt tagħhom għal dejjem jibqa'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/17-20.1792616969243.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "il-ġranet"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tas-sħaħ"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "u l-wirt tagħhom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jibqa'"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:29.244513238Z",
+  "model": "glm-5.3"
+}

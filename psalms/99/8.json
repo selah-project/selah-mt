@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עניתם",
+      "rationale": "Root ענה can mean 'answer' (KJV, JPS) or 'afflict' (YLT 'Thou hast afflicted them'); most read 'answer' from v.6."
+    },
+    {
+      "kind": "substitution",
+      "subject": "li jġorr il-ħtija",
+      "rationale": "נשא is literally 'lift\/bear' — a God who bears (the sin); rendered as the idiom of forgiveness, cf. Exod 34:6-7."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "The verse is direct second-person address to God, naming him."
+    }
+  ],
+  "translation": "Jaħwe, Elohim tagħna, inti weġebthom; El li jġorr il-ħtija kint għalihom, u mjassar fuq għemejjel tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/5-8.1792617748423.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim tagħna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "weġebthom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "li jġorr il-ħtija"
+    },
+    {
+      "surface": "היית",
+      "gloss": "kint"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "u mjassar"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "għemejjel tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:28.424339343Z",
+  "model": "glm-5.3"
+}

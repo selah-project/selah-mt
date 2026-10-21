@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-kopula fejn il-Lhudi jgħid biss 'hemm daru'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lura għalih",
+      "rationale": "תשבתו hija nom, 'it-torna\/wasla tiegħu', mhux verb; il-Malti jħares lejn id-dħulja Ebrajk b'costruzzjoni verbali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם ×3",
+      "rationale": "repetizzjoni ta' 'hemm' tliet darbiet — struttura retorika li baqgħet fil-Malti"
+    }
+  ],
+  "translation": "U lura għalih kien lejn ir-Rama, għax hemm kien daru, u hemm ġaġaħ lil Jisrael ⟨את⟩; u hemm bena mizbeaħ lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e714e65e23afa962580ad43f5c895393ae69c157cee7a3c2911844bae3b26786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/7\/17-17.1792607712625.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "U lura għalih kien"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "lejn ir-Rama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "daru"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u hemm"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ġaġaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lil Jisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaħ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:35:12.625887430Z",
+  "model": "glm-5.3"
+}

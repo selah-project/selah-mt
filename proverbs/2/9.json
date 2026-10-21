@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מעגל",
+      "rationale": "literally 'track\/circuit (circular)', rendered 'triq' (path)"
+    },
+    {
+      "kind": "addition",
+      "subject": "anke",
+      "rationale": "the two words כל מעגל read appositionally, 'yea, every good path'"
+    }
+  ],
+  "translation": "Imbagħad se tifhem ⟨את⟩ it-tsedeq u ⟨את⟩ l-ġudizzju u l-ġusti, anke kull triq tajba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/2\/9-12.1792618324323.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Imbagħad"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "se tifhem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "it-tsedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "u l-ġudizzju"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "u l-ġusti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anke kull"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "triq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajba"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:04.324187774Z",
+  "model": "glm-5.3"
+}

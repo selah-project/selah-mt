@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Xeol",
+      "rationale": "Xeol mhuwiex 'infern' — huwa d-dinja tan-nies mejjiet, mhux post kastig"
+    },
+    {
+      "kind": "elision",
+      "subject": "ma...x",
+      "rationale": "In-negazzjoni Lhudija לא saret bil-Malti b'ma...x maqsum fuq żewġ kelmiet"
+    }
+  ],
+  "translation": "Intemmet is-sħaba u telgħet; hekk min jinżel Xeol ma jitla'x.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/7\/9-12.1792619186621.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "intemmet"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "is-sħaba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u telgħet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "jinżel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "jitla'x"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:26.622029303Z",
+  "model": "glm-5.3"
+}

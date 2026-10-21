@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 1:18",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-Lhudi juża partiċipja preżenti mingħajr kopula; il-Malti jeħtieġ 'kienu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "uliedek",
+      "rationale": "miżjud bħala għalaq għal 'subien u bniet', li fil-Lhudi huma biss l-espansjoni ta' בניך"
+    }
+  ],
+  "translation": "Għadu jitkellem meta dan ieħor ġie u qal: uliedek, subien u bniet, kienu jieklu u jixorbu l-inbid fid-dar ta' ħuhom il-kbir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd6d8951f1538ad98551daea738b9056ecb2d7360d5930618c0ac843ec918a67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/1\/17-20.1792619104784.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jitkellem"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "meta dan ieħor"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "subien"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "u bniet"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "kienu jieklu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "u jixorbu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "l-inbid"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ta' ħuhom"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "il-kbir"
+    }
+  ],
+  "timestamp": "2026-10-21T21:45:04.785900803Z",
+  "model": "glm-5.3"
+}

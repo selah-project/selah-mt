@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 26:46",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ il-verbu 'huma', il-Lhudi ma għandux."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Torot",
+      "rationale": "plural ta' Tora (התורת) — il-plural tal-Lhudi jinżamm 'Torot', mhux 'liġijiet'."
+    },
+    {
+      "kind": "addition",
+      "subject": "idejn",
+      "rationale": "'bi idejn' — il-Malti juża plural gall 'id', iżda l-Lhudi huwa singular 'ביד' (bl-id)."
+    }
+  ],
+  "translation": "Dawn huma l-ħrejjef u l-ġudizzji u t-Torot, li Jaħwe ta bejnu u bejn wlied Jisrael, fil-muntanja Sina, bi idejn Moxe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/45-46.1792601278960.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "l-ħrejjef"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "u l-ġudizzji"
+    },
+    {
+      "surface": "והתורת",
+      "gloss": "u t-Torot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "bejnu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fil-muntanja"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:58.961466974Z",
+  "model": "glm-5.3"
+}

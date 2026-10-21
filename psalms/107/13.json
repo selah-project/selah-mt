@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/ממצקותיהם",
+      "rationale": "Il-verb u is-substantiv jaqgħu fuq l-istess għerq fit-tul (tsar\/metsarot), logħoba li tingħata b'żewġ kelmiet differenti bil-Malti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "niket",
+      "rationale": "בצר litteralment 'dejjaq\/post dejjaq', tradott b'niket (tqila) għax il-Malti m'għandux kelma għall-figura tad-dejqa."
+    }
+  ],
+  "translation": "U sejħu lel Jaħwe fin-niket tagħhom, mill-angustji tagħhom ħelleshom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/13-16.1792617879596.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "U sejħu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "fin-niket"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tagħhom"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "mill-angustji tagħhom"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ħelleshom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:39.596618826Z",
+  "model": "glm-5.3"
+}

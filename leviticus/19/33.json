@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħsara",
+      "rationale": "תונו minn għerq ינה — tagħtfu, tagħmel vjolenza; 'ħsara' \/ 'ingustizzja' humż-żewġ naħat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגור\/גר",
+      "rationale": "verb u nom mill-istess għerq גור — 'joqgħod il-barrani' — il-logħba tal-ħoss tibqa' ċara bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Judejja\/Iżrael",
+      "rationale": "lejħa dwar il-liġi mogħtija lill-poplu"
+    }
+  ],
+  "translation": "U meta joqgħod ⟨את⟩ magħkom barrani fl-art tagħkom, ma tagħmlulux ħsara ⟨את⟩ lilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/33-36.1792601044012.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "u meta"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ magħkom"
+    },
+    {
+      "surface": "גר",
+      "gloss": "barrani"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "fl-art tagħkom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tagħmlulux ħsara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:04.013347577Z",
+  "model": "glm-5.3"
+}

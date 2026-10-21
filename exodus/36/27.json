@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-punent",
+      "rationale": "ימה litteralment 'lejn il-baħar', jiġifieri lejn il-Mediterran; il-punent hu d-direzzjoni mhux l-istampa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sitt tavla",
+      "rationale": "Għadd ta' tavli għall-ġenb ta' wara: sitt"
+    }
+  ],
+  "translation": "U għall-parti ta' wara tal-Mixkan, lejn il-punent, għamel sitt tavla.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/36\/25-28.1792600237161.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "U għall-parti ta' wara"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tal-Mixkan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-punent"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tavla"
+    }
+  ],
+  "timestamp": "2026-10-21T16:30:37.162449559Z",
+  "model": "glm-5.3"
+}

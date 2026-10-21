@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kinux",
+      "rationale": "il-Malti jeħtieġ 'kienu' għan-negazzjoni passata; il-Lhudi għandu biss לא היו"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקצות העם",
+      "rationale": "'mit-tarfijiet tal-poplu' (l-estremi) kontra 'min-nies tal-ġeneru kollu' — KJV\/JPS jaqblu ma' 'l-aktar baxxi tal-poplu'"
+    }
+  ],
+  "translation": "U għamel ⟨את⟩ dar ta' postijiet għoljin, u għamel qassisin mit-tarfijiet tal-poplu, li ma kinux mit-tfal ta' Lewi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/29-32.1792609721835.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ta' postijiet għoljin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "qassisin"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "mit-tarfijiet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kinux"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mit-tfal"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ta' Lewi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:41.836787749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כלה...כלה",
+      "rationale": "Repetizzjoni intensiva: 'qerdhom, qerdhom' — t-tqarrib jibqa' fil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "jikkmandaw",
+      "rationale": "Il-Malti jeħtieġ nofs il-verb li l-Lhudi joħroġ b'xaħta waħda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jikkmandaw",
+      "rationale": "משל = jikkmandaw\/jħakkom; 'jikkmandaw' ifixkel jekk il-kelma tidher bħala nofs"
+    }
+  ],
+  "translation": "Qerdhom bir-rabja, qerdhom u ma jibqgħux ⟨huwa meħtieġ li jkunu jafu⟩ li Elohim jikkmandaw f'Jagħaqov, sal-ahhar tal-art. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/13-16.1792617213404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "qerdhom"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "bir-rabja"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "qerdhom"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "u ma jibqgħux"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "u jkunu jafu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "jikkmandaw"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "f'Jagħaqov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "sal-ahhar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:33.405641530Z",
+  "model": "glm-5.3"
+}

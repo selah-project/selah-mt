@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 30:10",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש is throat\/breath\/life-force, not the immortal 'soul'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct second-person address throughout the verse"
+    }
+  ],
+  "translation": "jekk tisma' leħen Jaħwe Elohim tiegħek, biex żżomm il-mitzvot tiegħu u l-ħquq tiegħu miktuba fil-ktieb tat-Tora dan, meta terġa' tidher lejn Jaħwe Elohim tiegħek b'qalbek kollha u bir-ruħ tiegħek kollha;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/9-12.1792606032347.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tisma'"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "biex żżomm"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "il-mitzvot tiegħu"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "u l-ħquq tiegħu"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "miktuba"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "fil-ktieb"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tat-Tora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "terġa' tidher"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "b'kollha"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbek"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "u b'kollha"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ir-ruħ tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:12.348806230Z",
+  "model": "glm-5.3"
+}

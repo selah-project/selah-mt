@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "להזעיק",
+      "rationale": "lit. 'biex jagħmel il-ħsejjes' — bičċa ta' herald li jċempel lin-nies; renderd 'iċċempel'."
+    },
+    {
+      "kind": "addition",
+      "subject": "lu",
+      "rationale": "l-pronoom 'lu' miżjuda bil-Malti għal ċarità; l-Lhudi jgħid biss 'li ħatru'."
+    }
+  ],
+  "translation": "U Amasa mar iċċempel lil ⟨את⟩ Judah, imma dam iktar mill-ħin il-fiss li kienu ħatru lu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "37c375390d490137a261c74d7a2bf97bf67799cf8be37d213a59617bfbef0b3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/20\/5-8.1792609159362.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "U mar"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "iċċempel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "imma dam iktar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ħin il-fiss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "kienu ħatru lu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:59:19.363275110Z",
+  "model": "glm-5.3"
+}

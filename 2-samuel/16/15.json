@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "prepożizzjoni H854 'miegħu', mhux l-iskritt ta' את"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "gloss": "",
+      "rationale": "איש ישראל kostrutt 'raġel Jisrael' — il-Malti jeħtieġ 'ta'' biex jorbot"
+    }
+  ],
+  "translation": "U Avxalom u l-poplu kollu, l-irġiel ta' Jisrael, daħlu Jeruxalajim, u Aħitofel ⟨את⟩ miegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/16\/13-16.1792608943679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "U Avxalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u ... kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l-irġiel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "daħlu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "u Aħitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:55:43.680955602Z",
+  "model": "glm-5.3"
+}

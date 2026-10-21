@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פעל\/פעלת",
+      "rationale": "Ripetizzjoni tal-għerq infinitiv absolt + verb finit (għemil\/għamilt), stilla retorika li l-Malti jżomm biss parzjalment."
+    },
+    {
+      "kind": "addition",
+      "subject": "li",
+      "rationale": "Il-Malti jeħtieġ konġunzjoni relattiva fejn il-Lhudi għandu kostrutt diretto."
+    }
+  ],
+  "translation": "Elohim, b'widnejna smajna, missirijietna għarrfulna ⟨את⟩ l-għemil li għamilt f'jiemhom, f'jiem ta' qedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/1-4.1792617075487.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "b'widnejna"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smajna"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "missirijietna"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "għarrfu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "l-għemil"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "li għamilt"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "f'jiemhom"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "f'jiem"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ta' qedem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:15.488562843Z",
+  "model": "glm-5.3"
+}

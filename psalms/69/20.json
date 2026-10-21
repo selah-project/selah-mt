@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "verb \"to be\" nieqes fil-Lhudi, neżessarju bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתי \/ בשתי \/ כלמתי",
+      "rationale": "trijad ta' kliem għall-għajb f'paralleliżmu, il-Lhudi jiżfen"
+    },
+    {
+      "kind": "you",
+      "subject": "Int",
+      "rationale": "indirizz dirett lil Jaħwe"
+    }
+  ],
+  "translation": "Int taf it-taħdir tiegħi u l-għajb tiegħi u l-istħarriġ tiegħi; quddiemek ⟨huma⟩ kullass dawk li jagħmlu l-għira kontrija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/17-20.1792617358505.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "taf"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "it-taħdir tiegħi"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "u l-għajb tiegħi"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "u l-istħarriġ tiegħi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "quddiemek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kullass"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dawk li jagħmlu l-għira kontrija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:58.506764110Z",
+  "model": "glm-5.3"
+}

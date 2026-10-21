@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 20:33",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כלה היא מעם אביו",
+      "rationale": "litteralment 't-tmiem hija minn għand missieru' — verżjoni litterali: 'li kien hemm deċiżjoni ta' qtil minn missieru'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "l-ebrajk m'għandux kopula għal היא f'dan il-kostruzzjoni; miżjuda bil-Malti"
+    }
+  ],
+  "translation": "U Sawl waddab ⟨את⟩ il-vleġġa fuqu bi jidribu, u Jehonatan għaraf li t-tmiem ⟨kienet⟩ deċiża minn għand missieru, li joqtol lil ⟨את⟩ David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "87c2e699b1021beda4cf7eccdea89774c3abb6e67fd29e6b552a6a6796381392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/20\/33-36.1792608189427.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "waddab"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-vleġġa"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "il-vleġġa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "bi jidribu"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "u għaraf"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "t-tmiem"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kienet⟩"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "minn għand"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "missieru"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "joqtol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:43:09.427847475Z",
+  "model": "glm-5.3"
+}

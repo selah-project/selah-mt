@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גומץ",
+      "rationale": "fossa — il-kelma tinstab darba biss fit-Tanakh, hawnhekk"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yaqbez",
+      "rationale": "נשך fis-serp huwa 'jaqdmu' bil-Malti; 'yaqbez' għandu wisq sens ġenerali"
+    },
+    {
+      "kind": "addition",
+      "subject": "għalih",
+      "rationale": "Il-Malti jeħtieġ oġġett għal 'yaqbez'; l-Ebrajk juża suffiss -ו 'jaqdmuh'"
+    }
+  ],
+  "translation": "Min jħaffer fossa f'ha jaqa', u min jinkiser ħajt iserp jaqbez ⟨għalih⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/10\/5-8.1792620305317.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Min jħaffer"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "fossa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "f'ha"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "u min jinkiser"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ħajt"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "yaqbez"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "iserp"
+    }
+  ],
+  "timestamp": "2026-10-21T22:05:05.318710059Z",
+  "model": "glm-5.3"
+}

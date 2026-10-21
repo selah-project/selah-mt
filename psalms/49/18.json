@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨miegħu⟩",
+      "rationale": "il-Malti jeħtieġ 'miegħu' biex il-kaċċa ta' לקח tkun ċara; il-Lhudi għandu biss 'jieħu kollox'"
+    }
+  ],
+  "translation": "Għax fil-mewt tiegħu ma jieħux ⟨miegħu⟩ kollox; il-ġmiel tiegħu ma jinżelx warajh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/17-20.1792617135303.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "fil-mewt tiegħu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħux"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ninżelx"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "warajh"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "il-ġmiel tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:15.304244873Z",
+  "model": "glm-5.3"
+}

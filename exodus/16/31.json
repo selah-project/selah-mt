@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "The name Man is the question 'man hu?' — 'x'inhu?' (16:15); the pun is only visible in Hebrew"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħelwa mdewwba",
+      "rationale": "צפיחת is a flat thin wafer\/cake; Maltese needs a compound picture"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tal-ġusjeur",
+      "rationale": "גד is coriander; 'żerriegħa tal-koriandru' is clearer but longer"
+    }
+  ],
+  "translation": "U dar Jisrael semmewh ⟨את⟩ ismu Man; u huwa bħal żerriegħa tal-ġusjeur, abjad, u t-togħma tiegħu bħal ħelwa mdewwba bil-għasel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/29-32.1792599641320.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "semmewh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u huwa"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "bħal żerriegħa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "tal-ġusjeur"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "abjad"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "u t-togħma tiegħu"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "bħal ħelwa mdewwba"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "bil-għasel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:41.321076976Z",
+  "model": "glm-5.3"
+}

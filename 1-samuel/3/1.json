@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפרץ",
+      "rationale": "Nifal: 'ma tqattgħet barra' (KJV\/ylt 'open\/broken forth') kontra ASV\/JPS 'frequent\/common'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקר",
+      "gloss-vs": "prezzjuża",
+      "rationale": "יקר: 'prezzjuża' (rare u għalija) kontra 'rari' biss (BSB)"
+    },
+    {
+      "kind": "addition",
+      "subject": "m'hemm l-ebda",
+      "rationale": "אין jissejjaħ b'għadd differenti bil-Malti"
+    }
+  ],
+  "translation": "U t-tifel Samwel jaqdi ⟨את⟩ lil Jaħwe quddiem Eli; u kelmet Jaħwe kienet prezzjuża f'dawk il-jiem — m'hemm l-ebda viżjoni ma tqattgħet barra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8febfc33a236a713579fca515f140d121273be083f762862972e35a4290340e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/3\/1-4.1792607638453.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "U t-tifel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "jaqdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "u kelmet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "prezzjuża"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "f'dawk il-jiem"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dawk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemm l-ebda"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "viżjoni"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ma tqattgħet barra"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:58.453992552Z",
+  "model": "glm-5.3"
+}

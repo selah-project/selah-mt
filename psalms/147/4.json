@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "in-numru tal-kwiekeb",
+      "rationale": "għadd u semmija tal-kwiekeb, att ta' qbid ta' għarfien"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jgħodd",
+      "rationale": "מנה tfisser ukoll 'jaħtar'; 'jgħodd in-numru' huwa l-qari l-aktar letterali hawn"
+    }
+  ],
+  "translation": "Huwa jgħodd in-numru tal-kwiekeb, lilhom ilkoll isejjaħlhom bl-ismijiet tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/1-4.1792618337896.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "jgħodd"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "in-numru"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "tal-kwiekeb"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "lilhom ilkoll"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ismijiet"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "isejjaħlhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:17.897959739Z",
+  "model": "glm-5.3"
+}

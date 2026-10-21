@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jitremu",
+      "rationale": "יתפלצון is a rare intensive form, perhaps 'to be rent\/shudder' — rendered 'jitremu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħha",
+      "rationale": "Maltese possessive required where Hebrew has a pronominal suffix already on עמודיה; word order forces separate words."
+    }
+  ],
+  "translation": "Li jħawwad l-art minn postha, u pilastri tagħha jitremu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/9\/5-8.1792619191525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "jħawwad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "minn postha"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "u pilastri tagħha"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "jitremu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:31.526447813Z",
+  "model": "glm-5.3"
+}

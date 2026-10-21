@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בת היענה",
+      "rationale": "'Bint' (lit. bint) — l-istorjiet ta' l-istriġ; ħafna jaqrawha bħala l-istriġ, mhux l-istriċċ"
+    },
+    {
+      "kind": "crux",
+      "subject": "התחמס",
+      "rationale": "Għasfur mhux identifikat — 'night hawk', ' cuckoo', 'screech owl'"
+    },
+    {
+      "kind": "crux",
+      "subject": "השחף",
+      "rationale": "Ċirleww (gull) kontra 'cuckoo' (KJV) — il-Lhudi mhux ċert"
+    }
+  ],
+  "translation": "u ⟨את⟩ bint l-għasfur ta' l-istriġ, u ⟨את⟩ it-taħmas, u ⟨את⟩ il-ċirleww, u ⟨את⟩ il-ħamiema ta' l-ajru skont il-ġeneru tagħha",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/14\/13-16.1792605651495.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "bint l-istriġ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "l-istriġ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-taħmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "it-taħmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ċirleww"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "il-ċirleww"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-falkun żgħir"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "il-falkun żgħir"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "skont il-ġeneru tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:00:51.496205794Z",
+  "model": "glm-5.3"
+}

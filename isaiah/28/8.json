@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nadif",
+      "rationale": "'bla post' waħdu mhux ċar bil-Malti; 'nadif' miżjud biex iżomm is-sens tal-Lhudi 'ma baqax xejn nadif'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צאה",
+      "rationale": "'ħmieġ' jew 'niġġus' — l-ebda traduzzjoni sabiħa, l-iskop huwa d-disgust"
+    }
+  ],
+  "translation": "Għax il-mwejjed kollha mteljin bil-qaħħ u ħmieġ, bla ⟨post nadif⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/28\/5-8.1792611387690.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "il-mwejjed"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mteljin"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "bil-qaħħ"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "u ħmieġ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bla"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "post"
+    }
+  ],
+  "timestamp": "2026-10-21T19:36:27.691863394Z",
+  "model": "glm-5.3"
+}

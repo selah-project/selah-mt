@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "l-identitajiet ta' wlied",
+      "rationale": "Il-Lhudi jgħid biss 'il-Leviti minn iben tletin sena'; il-verbi Maltin jifteħru suġġett preċiż."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skont il-kuruni tagħhom",
+      "rationale": "לגלגלתם — għal għalġalotam, literally 'għal kuruni tagħhom', idjomu għal ċensiment persuna b'persuna."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Ċensiment tal-Leviti mit-tletin sena 'l fuq: sittin u tmien elf ragel."
+    }
+  ],
+  "translation": "U ġew magħduda l-identitajiet ta' wlied is-sittin sena 'l fuq; u kien il-għadd tagħhom, skont il-kuruni tagħhom, għall-irġiel: sittin u tmien elf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/23\/1-4.1792622049859.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "U ġew magħduda"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "l-identitajiet ta' wlied is-sittin"
+    },
+    {
+      "surface": "מבן",
+      "gloss": ""
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sittin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "'l fuq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "il-għadd tagħhom"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "skont il-kuruni tagħhom"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "għall-irġiel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sittin"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "u tmien"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:09.860027458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'three of the thirty head(s)': 'heads' i.e. chiefs (KJV 'captains') vs literal 'head' — also 2 Sam 23:13 reads 'three' without 'head'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is-sikka",
+      "rationale": "הצור 'the rock\/cliff' rendered 'sikka' (reef\/rock); some versions take it as a place-name, 'the Rock'"
+    }
+  ],
+  "translation": "U tnejn u għoxrin — tlieta minn għoxrin u għaxra — ta' isfu għand is-sikka, għand David, għand għar ta' Adullam; u l-kamp tal-Filisti kien mqiegħed fil-wied tar-Rafaħim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/11\/13-16.1792621880838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ta' isfu"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "tlieta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "għoxrin u għaxra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ta' isfu"
+    },
+    {
+      "surface": "על",
+      "gloss": "għand"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "is-sikka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "għar ta'"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "u l-kamp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "tal-Filisti"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "kien mqiegħed"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "fil-wied"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "tar-Rafaħim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:20.839014409Z",
+  "model": "glm-5.3"
+}

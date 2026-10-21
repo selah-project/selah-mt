@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Il-par כי אם flimkien ifisser 'imma\/bliex' — אם mhux separat għalhekk l-glossa tagħha vojta."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד היום הזה",
+      "rationale": "'Sas-salm il-ġurnata' — idjoma Ebrajka; bil-Malti 'sal-lum il-ġurnata' tfissruha naturali."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדבקו",
+      "rationale": "דבק 'titwaħħal, tegħlewqu' — l-istess għerq tal-Malti 'waħda\/mtella''; il-qrib fiżiku mal-alla huwa l-istampa, mhux biss lealtà."
+    }
+  ],
+  "translation": "Imma ma' Jaħwe Elohim tagħkom intom titwaħħlu, kif għamltu sal-⟨lum il-ġurnata⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/23\/5-8.1792606814813.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ma' Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "intom titwaħħlu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "għamltu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨lum il-ġurnata⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:20:14.814772524Z",
+  "model": "glm-5.3"
+}

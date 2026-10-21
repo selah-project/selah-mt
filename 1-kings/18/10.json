@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "Partiċella ta' l-ħalf li m'għandha ekwivalenti Malti; il-ġurament infetaħ b'\"Jaħwe, Elohim tiegħek, jgħix\"."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "Dwar bniedem (ir-re Aħav), għalhekk \"sidi\" mhux \"Adonaj\"."
+    }
+  ],
+  "translation": "Jaħwe, Elohim tiegħek, jgħix: m'hemmx ġens u lanqas saltna li sidi ma bagħat hemm biex jifttek; u qalu: Mhux hemm; u ħalles lil is-saltna u ⟨את⟩ lil il-ġens bil-ġurament li ma jsibukx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/18\/9-12.1792609850150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "jgħix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יש",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ġens"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "u lanqas saltna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "biex jifttek"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Mhux hemm"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "u ħalles bil-ġurament"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil is-saltna"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "is-saltna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil il-ġens"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "il-ġens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "jsibukx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:10:50.151721933Z",
+  "model": "glm-5.3"
+}

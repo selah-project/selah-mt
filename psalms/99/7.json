@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Maltese past continuous needs auxiliary 'kien'; Hebrew imperfect ידבר has none."
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Subject pronoun supplied in Maltese; Hebrew verb שמרו carries person in its suffix."
+    }
+  ],
+  "translation": "F'kolonna ta' sħaba kien jitkellem magħhom; huma żammux ix-xhiediet tiegħu, u l-istatut li ta lilhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/5-8.1792617748423.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "F'kolonna"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ta' sħaba"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kien jitkellem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "magħhom"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "huma żammux"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ix-xhiediet tiegħu"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "u l-istatut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "למו",
+      "gloss": "lilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:28.424214317Z",
+  "model": "glm-5.3"
+}

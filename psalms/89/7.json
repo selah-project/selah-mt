@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fis-sema ta' fuq",
+      "rationale": "בשחק litteralment 'trab irqaq, praġa' — bil-estensjoni s-sħab jew is-sema tal-fuq"
+    },
+    {
+      "kind": "crux",
+      "subject": "ulied El",
+      "rationale": "בני אלים — 'ulied El (ta' Alla)' kontra 'ulied il-qawwija' (el bħala aġġettiv); il-plural jibqa' plural"
+    },
+    {
+      "kind": "invitation",
+      "subject": "misturiet retoriċi",
+      "rationale": "żewġ misturiet 'min...?' li jsejħu lill-qarrej jagħti rispost: ħadd ma hu bħal Jaħwe"
+    }
+  ],
+  "translation": "Għax min fis-sema ta' fuq jista' jiġi mqabbel ma' Jaħwe? min hu bħal Jaħwe fost ulied El?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d60812bd5890a8674311fafd60250f8a2c174a7c2626068ce37ed9c83544f14c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/6-7.1792623817767.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "fis-sema ta' fuq"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "jiġi mqabbel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma' Jaħwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "hu bħal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "fost ulied"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:37.768353572Z",
+  "model": "glm-5.3"
+}

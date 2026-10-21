@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השב תשיבנו",
+      "rationale": "infinitive absolute + finite verb = 'surely return it', rendered 'taġġibhulu lura għal darb'oħra'"
+    },
+    {
+      "kind": "addition",
+      "subject": "taġġibhulu",
+      "rationale": "Maltese requires the pronominal object and indirect object that Hebrew carries in the verbal suffix"
+    }
+  ],
+  "translation": "Jekk tiltaqa' mal-baqar tal-għadu tiegħek jew ma' ħmaru mitlief, taġġibhulu lura għal darb'oħra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f3badf8e5858693bdd1a4d8c4043bae967bec175131ef8d7a5088be377042638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/2-4.1792602242574.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "tiltaqa' ma'"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il-baqar"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "tal-għadu tiegħek"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ma' ħmaru"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "mitlief"
+    },
+    {
+      "surface": "השב",
+      "gloss": "taġġibhulu lura"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "għal darb'oħra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:04:02.575832229Z",
+  "model": "glm-5.3"
+}

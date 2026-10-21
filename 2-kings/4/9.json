@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qaddis",
+      "rationale": "קדוש miżmum skont id-dokument, mhux 'qaddus' jew 'imqaddes' biss."
+    },
+    {
+      "kind": "addition",
+      "subject": "li",
+      "gloss": "il-klawżola relattiva meħtieġa bil-Malti għal עבר עלינו תמיד."
+    }
+  ],
+  "translation": "U għidiet lil raġelha: Ara, jekk jogħġbok, jiena naf li raġel ta' Elohim qaddis huwa, li għaddej fuqna dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/4\/9-12.1792610068264.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "U għidiet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "raġelha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "għaddej"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T19:14:28.265246695Z",
+  "model": "glm-5.3"
+}

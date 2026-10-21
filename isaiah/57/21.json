@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "xelom",
+      "rationale": "שלום tfisser kompletizza, safi, benesseri — mhux biss 'paċi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "suffiss ta' persuna l-ewwel f'אלהי, miżjud bil-Malti bħala kelma separata"
+    }
+  ],
+  "translation": "M'hemmx xelom, jgħid Elohim tiegħi, għall-ħżiena.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1df1ccde82d20782f67ff9e346ddfae75cea9130fb613192c3d4e50629719b88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/57\/21-21.1792611986913.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "M'hemmx"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "xelom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "għall-ħżiena"
+    }
+  ],
+  "timestamp": "2026-10-21T19:46:26.913506151Z",
+  "model": "glm-5.3"
+}

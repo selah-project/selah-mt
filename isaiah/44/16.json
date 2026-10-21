@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "האח \/ חמותי",
+      "rationale": "Il-ħajta 'Aħa!' tonfoħ fl-għerq חם (sħun) — l-istess għerq ta' jsaħħan, mibni fis-silta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חציו … חציו",
+      "rationale": "'Nofsha … nofsha' — it-taqsima ta' siġra waħda bejn il-ħruq u l-idlu hija l-qalba retorika tas-silta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "in-nar",
+      "rationale": "`אור` hawn fjamma\/dawl tan-nar, mhux id-dawl astratt."
+    }
+  ],
+  "translation": "Nofsha ħaraq bin-nar; fuq nofsha jiekol laħam; jrosto l-imrostat u jserrah; iva, jsaħħan, u jgħid: Aħa! Sħan jien, rajt in-nar!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e51599dc84f16179ab0233e86095796668cd02537386e3eada8c06183078d76e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/44\/13-16.1792611838328.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "Nofsha"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ħaraq"
+    },
+    {
+      "surface": "במו",
+      "gloss": "bin-"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "nofsha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "jrosto"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "l-imrostat"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "u jserrah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iva"
+    },
+    {
+      "surface": "יחום",
+      "gloss": "jsaħħan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u jgħid"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aħa"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "Sħan jien"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rajt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "in-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:43:58.333362744Z",
+  "model": "glm-5.3"
+}

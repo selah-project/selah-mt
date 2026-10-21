@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iktar",
+      "rationale": "miżjud biex jifhem in-negazzjoni, il-Lhudi jgħid biss 'ma taranix'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני\/עיניך",
+      "rationale": "il-poeta jqabbel l-għajn tiegħi ma' għajnejk — għajn tnaqqas għal għajnejk ta' Alla"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Elohim",
+      "rationale": " indirizz dirett lil Alla: 'għajnejk fuqi'"
+    }
+  ],
+  "translation": "Għajn ta' min jarani ma taranix iktar; għajnejk fuqi, u jien ma nibqix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/7\/5-8.1792619201854.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "taranix iktar"
+    },
+    {
+      "surface": "עין",
+      "gloss": "għajn"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ta' min jarani"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "għajnejk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "u jien ma nibqix"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:41.855167304Z",
+  "model": "glm-5.3"
+}

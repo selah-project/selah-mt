@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא טהור",
+      "rationale": "LXX ton gnonai auton ouk ekatharisthe ('he was not purified') vs MT 'surely not clean'; Geneva reads 'though he were clean, or else not purified'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טהור...טהור",
+      "rationale": "Semitic repetition of 'not clean — surely not clean' intensifies Saul's surmise; kept as mhux ndun \/ ma jax"
+    },
+    {
+      "kind": "substitution",
+      "subject": "inkident",
+      "rationale": "מקרה is 'something met with by chance', an occurrence; rendered as a thing that befell him"
+    }
+  ],
+  "translation": "U Sawl ma tkellem xejn f'dak il-jum, għax qal: Ġratlu xi ħaġa, mhux ndun hu, għax żgur ma jax.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec037b8cd8b200731915f2ab150bce9e3d6971a232d2f0ffc5dd3503decaee4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/20\/26-27.1792623303820.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tkellem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "xejn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "xi ħaġa li ġratlu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ndun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "żgur għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "jax"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:03.821037123Z",
+  "model": "glm-5.3"
+}

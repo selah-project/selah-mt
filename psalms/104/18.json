@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Malti jrid il-kopula; il-Lhudi jaqtgħuha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fenek tal-blat",
+      "rationale": "שפן mhuwiex fenek komuni; huwa l-ajaks (hyrax) tal-blat"
+    }
+  ],
+  "translation": "L-igħol montijiet għall-jellusi; il-blat ⟨hu⟩ kenn għall-fniek tal-blat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/17-20.1792617825332.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "l-montijiet"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "l-igħol"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "għall-jellusi"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "il-blat"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "għall-fniek tal-blat"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:45.333689794Z",
+  "model": "glm-5.3"
+}

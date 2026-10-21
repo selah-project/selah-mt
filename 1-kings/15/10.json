@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Lhudi ma għidx 'kien'; il-verb kopula Malti miżjud"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mnejn u għoxrin sena",
+      "rationale": "tul ir-renju ta' Asa, skont in-numru LHudi (41) u mhux mrobbi"
+    }
+  ],
+  "translation": "U mnejn u għoxrin sena ħakem f'Jeruxalajim; u isem ommu ⟨kien⟩ Magħaka, bint Avixalvm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/9-12.1792609667910.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "u mnejn"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ħakem"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u isem"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ommu"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Magħaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avixalvm"
+    }
+  ],
+  "timestamp": "2026-10-21T19:07:47.910934191Z",
+  "model": "glm-5.3"
+}

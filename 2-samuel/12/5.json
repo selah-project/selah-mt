@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-għadab",
+      "rationale": "אף litteralment tfisser 'mnieħer', użata hawn għall-ħruq ta' l-għadab"
+    },
+    {
+      "kind": "crux",
+      "subject": "iben mewt",
+      "rationale": "בן מום litteralment 'iben mewt'; verżjonijiet oħrajn jirreduħha 'meritu jmut' jew 'denju tal-mewt'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Ħaj Jaħwe",
+      "rationale": "ħalf Lhudi: 'ħaj Jaħwe' — ħalf bil-ħajja ta' Jaħwe, mhux sempliċiment affermazzjoni"
+    }
+  ],
+  "translation": "U tqabad l-għadab ta' David kontra l-bniedem b'mod kbir ħafna, u qal lil Natan: Ħaj Jaħwe, għaliex iben mewt huwa l-bniedem li għamel dan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/12\/5-8.1792608755226.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "tqabad"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l-għadab"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kontra l-bniedem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "b'mod kbir ħafna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mewt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "li għamel"
+    },
+    {
+      "surface": "żאת",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:52:35.227724818Z",
+  "model": "glm-5.3"
+}

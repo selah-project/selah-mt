@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "Hebrew has pronoun אתה with no verb; 'inti' with a nominal predicate supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għassa",
+      "rationale": "משמרת = 'something kept\/guarded, a charge'; 'għassa' keeps the guard-noun shape rather than 'you will be safe'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבקש ... יבקש",
+      "rationale": "repetition: 'seeks my life — seeks your life', parallelism preserved by repeated 'ifittex'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħajja",
+      "rationale": "נפש = throat\/life-force; rendered 'ħajja' (life) since it is the life being sought."
+    },
+    {
+      "kind": "invitation",
+      "subject": "David to Avjatar",
+      "rationale": "imperatives 'Oqgħod ... tibżax' summon Avjatar to stay under protection."
+    },
+    {
+      "kind": "you",
+      "subject": "to Avjatar",
+      "rationale": "direct second-person address with promise of protection."
+    }
+  ],
+  "translation": "Oqgħod miegħi, tibżax, għaliex min ifittex ⟨את⟩ il-ħajja tiegħi, ifittex ⟨את⟩ il-ħajja tiegħek, għaliex inti għassa miegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/22\/21-23.1792608152708.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Oqgħod"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ miegħi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tibżax"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tibża'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ifittex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħajja tiegħi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "il-ħajja tiegħi"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ifittex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħajja tiegħek"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "il-ħajja tiegħek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "għassa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "miegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T18:42:32.709401165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפש hija nifs\/ħeġġa\/ħajja, mhux 'ruħ' fil-modern; 'nifs' iżomm il-ħoss u l-qariba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרק",
+      "rationale": "Kelma rari b'doppju: 'jikisser' u wkoll 'ifeddi' — l-istess għerq ta' פדה\/פרק; it-tensjoni tintilef bil-Malti."
+    },
+    {
+      "kind": "addition",
+      "subject": "kollox",
+      "rationale": "פרק huwa infinitiv sħiħ bla oġġett; il-Malti jeħtieġ oġġett għal sens naturali."
+    }
+  ],
+  "translation": "Jiemħax jiftim għal nifsi bħall-iljun, jikisser kollox, u m'hemmx min jifelħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/7\/1-4.1792616570543.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "jiemħax"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "jiftim"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "bħall-iljun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "għal nifsi"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "jikisser kollox"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "min jifelħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:50.544115233Z",
+  "model": "glm-5.3"
+}

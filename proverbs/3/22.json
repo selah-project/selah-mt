@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għonqok",
+      "rationale": "garġerot: il-ħalq-il-griżme, imqass għal 'għonq'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħtek",
+      "rationale": "nefex: il-ħajja-nifs, mhux 'anima' b'ma'ná aktar tard."
+    }
+  ],
+  "translation": "U jkunu ħajja għal ruwaħtek, u ħlewwi għal għonqok.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cbd2feae047deb75fd33cbff78480b913b58e7ffbe45038204beb8b8b2b4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/3\/21-24.1792618374836.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "U jkunu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "għal ruwaħtek"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "u ħlewwi"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "għal għonqok"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:54.837163839Z",
+  "model": "glm-5.3"
+}

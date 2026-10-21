@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "gloss-mismatch": true,
+      "rationale": "חיל jaf jfisser eżerċitu jew fortifikazzjoni; ttraducejt 'swariek' bħal il-biċċa l-kbira tal-verżjonijiet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארמנותיך",
+      "rationale": "cittadelli twal — 'ilsna' jista' jkun kbir wisq; l-għan hu l-għoli"
+    }
+  ],
+  "translation": "Jkun hemm paċi ġewwa swariek, u strieħ ġewwa l-ilsna tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/122\/5-8.1792618126186.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jkun hemm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paċi"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ġewwa swariek"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "strieħ"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "ġewwa l-ilsna tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:46.187145362Z",
+  "model": "glm-5.3"
+}

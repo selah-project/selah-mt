@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "miż-żgħir sal-kbir",
+      "rationale": "מקטן ועד גדול — idjom Lhudi għal 'kulħadd bla distinzzjoni'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hom⟩",
+      "rationale": "pronome fl-objett miżjud bil-Malti; il-Lhudi għandu verb transittiv bla objett espress"
+    }
+  ],
+  "translation": "U ħadu lsir ⟨את⟩ in-nisa li kien fihha, miż-żgħir sal-kbir; ma qatlu ħadd, imma mexxew ⟨hom⟩ u marru triqthom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/30\/1-4.1792608482836.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "U ħadu lsir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nisa"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "in-nisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fihha"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "miż-żgħir"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "l-kbir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "qatlu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħadd"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "imma mexxew"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u marru"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "triqthom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:48:02.837001509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקר",
+      "rationale": "'prezzjuż' jew 'tiswa'? u יקר b'dan il-kuntest tista' tfisser ukoll 'piżanti\/ tqil' — l-għażla l-antika hija 'prezzjuż'"
+    }
+  ],
+  "translation": "Prezzjuż f'għajnejn Jaħwe ⟨huwa⟩ l-mewt tal-qaddisin tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/116\/13-16.1792617973697.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Prezzjuż"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "l-mewt"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "tal-qaddisin tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:13.698379896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "judges 9:53",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פלח",
+      "rationale": "פלח occurs only here in the Tanakh — 'slice\/piece', here a piece of a millstone."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלח רכב",
+      "rationale": "'piece of a רכב': רכב is literally 'rider' — the upper millstone that rides on the lower; versions split between 'millstone' (KJV\/JPS) and literal 'rider' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-kranju",
+      "rationale": "גלגלת is 'skull' (the round thing), also used for counting persons; rendered literally."
+    }
+  ],
+  "translation": "U mara waħda tefgħet pezza ta' rotozza ta' mitħna fuq ras Abimelek, u frattitu ⟨את⟩ il-kranju tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "326f1e807c23d69ac53e67e63fd8f16a8e5b9ab4a1c55427f26d81330e50f155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/53-56.1792607249109.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלך",
+      "gloss": "u tefgħet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "pezza"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "rotozza ta' mitħna"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "u frattitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kranju tiegħu"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "il-kranju tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:27:29.110429096Z",
+  "model": "glm-5.3"
+}

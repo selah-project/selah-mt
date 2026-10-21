@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "qala' l-għadab",
+      "rationale": "התעבר bil-hitpa'el: 'qala' l-għadab \/ indaħak fuq' — l-istess għerq ta' עבר (għadda)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-wirt",
+      "rationale": "נחלה: 'wirt, dal mgħotti' — għal Israel bħala wirt ta' Jaħwe"
+    }
+  ],
+  "translation": "U sellim lil-poplu tiegħu lis-sejf, u fuq il-wirt tiegħu qala' l-għadab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/61-64.1792617459146.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "u sellim"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "lis-sejf"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lil-poplu tiegħu"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "u fuq il-wirt tiegħu"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "qala' l-għadab"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:39.147545158Z",
+  "model": "glm-5.3"
+}

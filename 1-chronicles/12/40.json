@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tlett ijiem",
+      "rationale": "Fixed duration of the feast, three days, kept as counted."
+    },
+    {
+      "kind": "elision",
+      "subject": "להם",
+      "rationale": "The indirect object pronoun 'għalihom' is fronted before 'aħawathom' in Maltese, marking the beneficiaries with brackets."
+    }
+  ],
+  "translation": "U kienu hemm ma' David tlett ijiem, jieklu u jixorbu, għax aħawathom kienu tħejjew ⟨għalihom⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26927febb177b7eae0a569325e7e542197f998efd460bf4a6b44ca64fcfd25ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/12\/37-40.1792621891997.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "U kienu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jieklu"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "u jixorbu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "kienu tħejjew"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "aħawathom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:32.001140757Z",
+  "model": "glm-5.3"
+}

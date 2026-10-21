@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiegħu",
+      "rationale": "נשא עון miftiehem bħala partċipju passiv; il-Malti talbet l-possessiv"
+    },
+    {
+      "kind": "elision",
+      "subject": "שכן",
+      "rationale": "singolari kollettiv — 'min joqgħod' biex jifhem"
+    }
+  ],
+  "translation": "U lanqas se jgħid min joqgħod hemm: Jien mardt; il-poplu li joqgħod fiha, mħafsha l-perversità tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/33\/21-24.1792611540170.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "U lanqas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se jgħid"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "min joqħod hemm"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Jien mardt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "li joqgħod"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mħafsha"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l-perversità"
+    }
+  ],
+  "timestamp": "2026-10-21T19:39:00.171662876Z",
+  "model": "glm-5.3"
+}

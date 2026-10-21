@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כח לב",
+      "rationale": "'qawwa ta' qalb' — traduzzjonijiet jaqsmu bejn 'strength of understanding' (KJV\/ASV) u 'power and heart' literal (YLT)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħadd",
+      "rationale": "l-oġett ta' ימאס ma hemmx fil-Lhudi; miżjud biex isir sens bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כביר…כביר",
+      "rationale": "repetizzjoni ta' kabir — l-istess kelma għal El u għall-qawwa tiegħu, tinżemm bir-repetizzjoni 'kbir…kbir'"
+    }
+  ],
+  "translation": "Ara, El huwa kbir fil-qawwa, u ma jiddispjahax ħadd; kbir fil-qawwa ta' qalb ⟨hu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/36\/5-8.1792619741300.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kbir fil-qawwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "jiddispjaha"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fil-qawwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ta' qalb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:55:41.300628536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אזכרתה",
+      "rationale": "Literali 'tifkirta' — il-parti li fiha l-ħiġra tiftakar is-sħiħ; l-għadd Malti jżid 'nofs' għaċ-ċar"
+    },
+    {
+      "kind": "addition",
+      "subject": "l-qassis",
+      "rationale": "Is-suffiss tal-verb והקטיר ma jsemmix is-suġġett; 'l-qassis' miżjud minn הכהן fit-tokkun li jmiss"
+    }
+  ],
+  "translation": "U l-qassis jaħraq ⟨את⟩ in-nofs tat-tifkira tagħha, minn qamħ imqass tagħha u miż-żejt tagħha, ma' kulha l-libana tagħha — offerta bin-nar lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/2\/13-16.1792600426379.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "U l-qassis jaħraq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nofs tat-tifkira tagħha"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "in-nofs tat-tifkira tagħha"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "minn qamħ imqass tagħha"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "u miż-żejt tagħha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulha"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "il-libana tagħha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta bin-nar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:46.380611671Z",
+  "model": "glm-5.3"
+}

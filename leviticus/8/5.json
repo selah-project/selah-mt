@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-assemblea",
+      "rationale": "Moxe jindirizza l-assemblea miġbura quddiem il-Mixkan."
+    }
+  ],
+  "translation": "U Moxe qal lill-assemblea: Dan ⟨huwa⟩ l-kliem li ordna Jaħwe li għandu jsir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/5-8.1792600659630.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "assemblea"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "l-kliem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "li għandu jsir"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:39.630658772Z",
+  "model": "glm-5.3"
+}

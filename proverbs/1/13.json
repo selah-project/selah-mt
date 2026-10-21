@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħtieled",
+      "rationale": "שלל huwa l-ħtieled tal-gwerra, il-ħlas meħud bil-forza"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-missier li jgħallem",
+      "rationale": "dal-vers jibqa' taħt il-voċ tas-ħatjin li jsejħu lill-wild (v. 11-14)"
+    }
+  ],
+  "translation": "Kull ġid prezzjuż insibu, inmlew ⟨את⟩ djarina bil-ħtieled",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/1\/13-16.1792618341732.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ġid"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "prezzjuż"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "insibu"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "inmlew"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "djarina"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bil-ħtieled"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:21.733241728Z",
+  "model": "glm-5.3"
+}

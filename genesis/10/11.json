@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Axxur",
+      "rationale": "Axxur hawn bniedem (iben Sem, ġen 10:22) jew l-art Assirja? KJV 'ħareg Axxur' kontra ASV 'ħareg lejn l-Assirja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Reħovot-Ir",
+      "rationale": "רחבת עיר: isem propju (JPS 'Rehoboth-ir') jew 'il-pjazzi tal-belt' (YLT) — inżammej bħala isem kompost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחבת עיר",
+      "rationale": "רחובות 'toroq wesgħin' + עיר 'belt' — l-isem jifser lilih innifsu, jitil fil-Malti"
+    }
+  ],
+  "translation": "Minn dik l-art ħareg Axxur, u benna ⟨את⟩ lil Ninwe u ⟨את⟩ lil Reħovot-Ir u ⟨את⟩ lil Kalach.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/10\/9-12.1792597896742.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Minn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dik l-art"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dik"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ħareg"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Axxur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "u benna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Ninwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil Reħovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Reħovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:36.743525190Z",
+  "model": "glm-5.3"
+}

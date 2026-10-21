@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ha",
+      "rationale": "pronome femminil miżjud għax il-Malti jeħtieġ oġġett għall-verb"
+    }
+  ],
+  "translation": "U jekk l-offerta tiegħu tkun mogħża, jqarrebha quddiem Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/3\/9-12.1792600381595.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mogħża"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "l-offerta tiegħu"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "jqarrebha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:01.596972652Z",
+  "model": "glm-5.3"
+}

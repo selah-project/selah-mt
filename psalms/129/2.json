@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kontri mej⟩",
+      "rationale": "Hebrew לי ('lili') implies 'against me'; Maltese needs the preposition spelled out"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imma",
+      "rationale": "גם here is adversative 'imma\/u għalhekk', not the usual 'ukoll'"
+    }
+  ],
+  "translation": "Ħafna drabi għaddruni minn żgħożiti, imma ma setgħux ⟨kontri⟩ mej",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/129\/1-4.1792618154642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Ħafna drabi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "għaddruni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "minn żgħożiti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "imma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "setgħux"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kontri mej"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:14.642809191Z",
+  "model": "glm-5.3"
+}

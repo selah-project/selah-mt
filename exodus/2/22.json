@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "Il-Malti jeħtieġ il-kopula għall-passat; il-Lhudi jgħid biss גר הייתי bl-ordni nominali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרשם\/גר",
+      "rationale": "Isem iben Moxe Gerxom mibni fuq גר (nsara): il-logħba tal-kliem tiegħu ntlqet bil-Malti biss b''nsara'' f'żewġ postijiet"
+    }
+  ],
+  "translation": "U welldet iben, u sejjaħ ⟨את⟩ ismu Gerxom, għax qal: Nsara ⟨kien⟩ jien f'art barranija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "759853a2e0b913c8801aa4ff0e97d6f0b8c314d7313052da2451ed85a512fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/22-24.1792602103487.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "u welldet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerxom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nsara"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jien ⟨kien⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "f'art"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "barranija"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:43.488277261Z",
+  "model": "glm-5.3"
+}

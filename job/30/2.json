@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כלח",
+      "rationale": "kelma li tinstab darba biss fit-Tanakh; 'maturità' jew 'ħila tax-xjuħija'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבד כלח",
+      "rationale": "'il-kelāħ intilel' — versjonijiet jaqsmu: 'ix-xjuħija intillet' (KJV) kontra 'il-vigor tħalla' (BSB)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mistoqsja retorika",
+      "rationale": "למה לי 'għaliex għalija?' tfalli t-taħlita ta' Job 29 mal-qgħad ta' Job 30"
+    }
+  ],
+  "translation": "Anki l-ħila ta' idejhom — għaliex għalija? Fuqhom intilet il-maturità.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "976ceedb52a8b216ec5ab5340de1152af6e1765cdecba7208f0b5e3c402cc1cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/30\/1-2.1792623909451.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anki"
+    },
+    {
+      "surface": "כח",
+      "gloss": "l-ħila"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ta' idejhom"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "Fuqhom"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "intilet"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "il-maturità"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:09.452587006Z",
+  "model": "glm-5.3"
+}

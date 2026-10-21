@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-għorrief",
+      "rationale": "mistoqsija diretta tar-re lill-kunsill tiegħu dwar x'nagħmlu bir-reġina"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bl-idejn tal-kinċijiet",
+      "rationale": "ביד הסריסים: 'bl-idejn' = permezz ta', midjat ta'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "partiċella relattiva mgħoddija għaliex il-Malti jbiegħed 'għaliex li'"
+    }
+  ],
+  "translation": "Skond id-datt, x'nagħmlu bir-reġina Vaxti, għaliex ma għamletx ⟨את⟩ il-kelma tar-re Aħasverox bl-idejn tal-kinċijiet?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/1\/13-16.1792620386221.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Skond id-datt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nagħmlu"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "bir-reġina"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaxti"
+    },
+    {
+      "surface": "על",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "għamletx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kelma"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aħasverox"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bl-idejn"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "tal-kinċijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:06:26.222249453Z",
+  "model": "glm-5.3"
+}

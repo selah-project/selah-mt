@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaħbu",
+      "rationale": "ויטמנהו huwa 'għattieh' — il-kopertura; 'jaħbu' bil-Malti jaqbeż il-preżentazzjoni ta' l-għatu."
+    },
+    {
+      "kind": "crux",
+      "subject": "laħaq vs qatlu",
+      "rationale": "ויך jfisser 'ilħaq' jew 'aqta'' — tradizzjonijiet jaqsmu bejn 'dawwarbu' u 'laħqtu'; il-Lhudi jgħid biss li laħqu."
+    }
+  ],
+  "translation": "U dar lejn hawn u lejn hemm, u ra li ma kien hemm ebda raġel, u laħaq ⟨את⟩ lill-Misri u jaħbu fl-ramel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/9-12.1792599134173.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "u dar"
+    },
+    {
+      "surface": "כה",
+      "gloss": "lejn hawn"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "u lejn hemm"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "u ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma kien hemm ebda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "u laħaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-Misri"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "lill-Misri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "u jaħbu"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "fl-ramel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:14.174243202Z",
+  "model": "glm-5.3"
+}

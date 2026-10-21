@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אפו",
+      "rationale": "lit. 'inħarqet mnieħru' — idjoma Lhudija għall-għadab; ipprovajt inżomm it-tifsira doppja bi 'għadabu jaħraq'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותצלח",
+      "rationale": "'tgħaddiet b'saħħa' (prosper\/rush); alternattiva: ' niżżet b'mod qawwi' skont il-biċċa l-kbira tat-traduzzjonijiet"
+    }
+  ],
+  "translation": "U ruwaħ Elohim tgħaddiet b'saħħa fuq Xaul meta sema' ⟨את⟩ dawn il-kliem, u għadabu jaħraq ħafna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/11\/5-8.1792607946763.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "tgħaddiet b'saħħa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "meta sema'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-kliem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "jaħraq"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "għadabu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    }
+  ],
+  "timestamp": "2026-10-21T18:39:06.763945268Z",
+  "model": "glm-5.3"
+}

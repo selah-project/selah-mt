@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 35:16",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iżda",
+      "rationale": "Hebrew has plain ו 'and'; the adversative is supplied for the Rechabites-versus-this-people antithesis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי...הקימו",
+      "rationale": "the verse answers verse 14: 'because they performed' echoes הוקם — the judicial ground of verse 17's judgment"
+    }
+  ],
+  "translation": "Għax wettqu ulied Jehonadav iben Rekav ⟨את⟩ l-amar ta' missierhom li hu ordnalhom; iżda dan in-nies ma smgħux qalej.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dfa75332563091f19dd861edea5130c950c2551cb952779c0374ae55302cb919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/35\/13-16.1792613361031.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "wettqu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Jehonadav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-amar ta' missierhom"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "l-amar"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ta' missierhom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ordnalhom"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "iżda n-nies"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "smgħux"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "qalej"
+    }
+  ],
+  "timestamp": "2026-10-21T20:09:21.032917586Z",
+  "model": "glm-5.3"
+}

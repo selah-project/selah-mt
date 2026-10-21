@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "titxaħmem",
+      "rationale": "דשן litteralment 'issir xaħma' — ix-xaħam fis-soċjetà Lhudija kien sinjal ta' bereq; 'titxebba' joħroġ it-tpattija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפשו \/ ונפש",
+      "rationale": "il-vers jilgħab bl-istess kelma נפש fiż-żewġ naħat tal-paralleliżmu — l-ewwel għand x'tixtieq, it-tieni titbiegħed"
+    }
+  ],
+  "translation": "Ix-xellel jixtieq u m'għandux; iżda ruħ il-ħerqana titxaħmem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/1-4.1792618661859.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "jixtieq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'għandux"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Ix-xellel"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ix-xellel"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ruħ"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "tal-ħerqana"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "titxaħmem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:41.860983986Z",
+  "model": "glm-5.3"
+}

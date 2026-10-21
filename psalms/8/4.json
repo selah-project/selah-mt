@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כי אראה",
+      "rationale": "'Meta nara' (kieku temporali) kontra 'għaliex nara' (kieku każali); it-tnejn possibbli"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-qamar u l-kwiekeb",
+      "rationale": "L-ordni kosmika mkejjla b'saba' Alla — il-ħolqien maħsub bħala xogħol imkejjel"
+    }
+  ],
+  "translation": "Meta nara s-smajjiet tiegħek, xogħol is-saba' tiegħek, il-qamar u l-kwiekeb li stabbilejt;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/1-4.1792616528945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Meta"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nara"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "is-smajjiet tiegħek"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "xogħol"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "is-saba' tiegħek"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "il-qamar"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "u l-kwiekeb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "stabbilejt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:08.946678483Z",
+  "model": "glm-5.3"
+}

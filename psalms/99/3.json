@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדוש הוא",
+      "rationale": "'holy is he' vs 'holy is it (the name)' — the kjv attaches holiness to the name, jps\/asv to God himself."
+    },
+    {
+      "kind": "substitution",
+      "subject": "biżilla",
+      "rationale": "נורא 'the one who causes fear' rendered as one adjective; the passive sense of fear is lost."
+    }
+  ],
+  "translation": "Jfaħħru l-isem tiegħek — il-kbir u l-biżilla, qaddis huwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/1-4.1792617733302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Jfaħħru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "l-isem tiegħek"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "il-kbir"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "u l-biżilla"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:13.303510074Z",
+  "model": "glm-5.3"
+}

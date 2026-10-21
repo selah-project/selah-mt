@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "חסד kept as 'ħesed' per D2, not 'ħniena' alone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גמל",
+      "rationale": "'to deal bountifully with', rendered 'ħares ġenn' (dealt generously)"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "the psalm turns to direct address and praise of Jaħwe"
+    }
+  ],
+  "translation": "Iżda jiena f'ħesed tiegħek ftqart; jifraħ qalbi fis-salvazzjoni tiegħek; notta lil Jaħwe, għaliex ħares ġenn għalija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/13\/5-6.1792616591519.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iżda jiena"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "f'ħesed tiegħek"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ftqart"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "jifraħ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "fis-salvazzjoni tiegħek"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "notta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ħares ġenn għalija"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "għalija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:11.519740150Z",
+  "model": "glm-5.3"
+}

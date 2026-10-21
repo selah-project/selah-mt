@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-kopula fejn il-Lhudi jgħid sempliċement 'dan il-jum'"
+    },
+    {
+      "kind": "crux",
+      "subject": "זה היום ומה גם עתה",
+      "rationale": "frażi moħġa: 'din il-ġurnata — u għaliex? anki issa' (KJV\/JPS) kontra qari bħal BSB 'din hija l-ġurnata — iva, saħansitra llum'"
+    }
+  ],
+  "translation": "Jaħwe jqajjem lilu sultan fuq Jisrael, li jaqta' lil ⟨את⟩ dar Jarobgħam — dan huwa l-jum, u xi ħaġa, anki issa!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dfad93c667581a304214314f84e81fc387453a9f9cd0b0be736e10acb94a119a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/14\/14-15.1792623373432.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "iqajjem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "jaqta'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar Jarobgħam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobgħam"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "l-jum"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u xi ħaġa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:13.433419306Z",
+  "model": "glm-5.3"
+}

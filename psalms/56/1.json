@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יונת אלם רחקים",
+      "rationale": "Probabbilment titolu ta' melodija: 'ħamiema muta bogħod' vs 'ħamiema ta' Alla mitluqa' (מאלם); JPS iżomm l-isem Jonath-elem-rehokim"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "Kelma rari fit-titli tal-psalmi (6 darbiet biss); tifsira inċerta: miktub\/inċiż vs 'deheb pur'"
+    }
+  ],
+  "translation": "Lill-mexxej tal-kor: fuq ħamiema ta' l-imħabbar lill-bogħod; ta' David, Mikhtam, meta ħadu ⟨את⟩ lilu l-Filistin f'Gat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/56\/1-4.1792617221350.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lill-mexxej tal-kor"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "ħamiema"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ta' l-imħabbar"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "lill-bogħod"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "meta ħadu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "l-Filistin"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "f'Gat"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:41.351321773Z",
+  "model": "glm-5.3"
+}

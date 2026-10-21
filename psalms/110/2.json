@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bastun",
+      "rationale": "מטה tfisser bastun, friegħ, tribalżż — il-forma litterali miżmuma, mhux 'skettu' biss"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ħakkiem f'nofs l-għedewwa tiegħek",
+      "rationale": "imperattiv indirizzat lill-qeddis"
+    }
+  ],
+  "translation": "Il-bastun tal-qawwa tiegħek Jaħwe jibgħat minn Tsjon: ħakkiem f'nofs l-għedewwa tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/110\/1-4.1792617985940.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Il-bastun"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tal-qawwa tiegħek"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "jibgħat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "minn Tsjon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "ħakkiem"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "l-għedewwa tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:25.941454353Z",
+  "model": "glm-5.3"
+}

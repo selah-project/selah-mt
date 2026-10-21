@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זר",
+      "rationale": "'barrani' hawn = raġel mhux qassis, minn barra l-familja sacerdotali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרומת",
+      "rationale": "teruma — il-portzjon mqaddes mogħti lill-qassis; baqa' qrib tal-ħoss Lhudi"
+    }
+  ],
+  "translation": "U bint qassis, jekk tkun għal raġel barrani, hi mit-teruma tal-ħwejjeġ il-qaddisin ma tiekolx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/9-12.1792601074243.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "u bint"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qassis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "għal raġel"
+    },
+    {
+      "surface": "זר",
+      "gloss": "barrani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "mit-teruma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tal-ħwejjeġ il-qaddisin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tiekolx"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:34.245168284Z",
+  "model": "glm-5.3"
+}

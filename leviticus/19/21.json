@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ħtiju",
+      "rationale": "אָשָׁם tfisser ħtija u fl-istess ħin l-offerta għal dik il-ħtija; il-ġemgħa taż-żewġ tifsiriet ma tantx tgħaddi bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "il-bniedem li dnub",
+      "rationale": "il-vers jirreferi għall-irġiel tas-sitwazzjoni fil-vers 20, m'għadbux isem"
+    }
+  ],
+  "translation": "U ġab ⟨את⟩ ħtiju lil Jaħwe, sa bieb it-tenda tal-laqgħa: muntun bħala offerta tal-ħtija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d5c3c03c5064853e2b978b3920e40615abbba0f2e52103a27c58f8a642cd3002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/21-24.1792601043492.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "u ġab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħtiju"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ħtiju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bieb"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "muntun"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "offerta tal-ħtija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:03.493166593Z",
+  "model": "glm-5.3"
+}

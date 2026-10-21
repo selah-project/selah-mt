@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המדנים",
+      "rationale": "Medanin (מדנים) hawn, iżda fl-37:28 Ishmaelin (ישׁמעאלים); it-tradutturi jaqsmu dwar min bigħu"
+    },
+    {
+      "kind": "crux",
+      "subject": "סריס",
+      "rationale": "'eunuku' milli jidher, jew uffiċjal għoli tal-qorti; 'nadim' (uffiċjal) huwa l-qari l-aktar siwi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ġebbra",
+      "rationale": "הטבחים litteralment 'il-ħassara (tal-annimali)', jiġifieri l-ġebbra\/taħħir ta' Paroh"
+    }
+  ],
+  "translation": "U l-Medanin bigħuh ⟨את⟩ f'Mitsrajim lil Potifar, in-nadim ta' Paroh, il-kap tal-ġebbra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6dc87e07dd939bd2372da64daabadd8e2a656877416316681ceb3eb02cbda7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/37\/34-36.1792602137904.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "u l-Medanin"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "bigħu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "h (lil Ġużè)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "lil Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "in-nadim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ta' Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-kap"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "tal-ġebbra"
+    }
+  ],
+  "timestamp": "2026-10-21T17:02:17.906386634Z",
+  "model": "glm-5.3"
+}

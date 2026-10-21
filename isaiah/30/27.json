@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 30:27",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכבד משאה",
+      "rationale": "'heavy\/rising smoke' vs KJV 'the burden thereof is heavy' vs YLT 'great the flame' — the same consonants read as conflagration or as burden."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għadab",
+      "rationale": "אף is literally 'nose\/nostril'; Maltese 'għadab' (wrath) keeps the idiomatic sense, losing the body part."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ara",
+      "rationale": "הנה summons the hearer to look — direct apocalyptic address."
+    }
+  ],
+  "translation": "Ara, isem Jaħwe ġej minn bogħod, jaħraq bl-għadab, u sħab ta' duħħan jitla' tqil ħafna; xufftejtu mtelijin bl-irda, u ilsieru bħan-nar li jiekol kollox.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c3f5ab5ac4fc86475038f75c4a6a9e31fab4ca99d1eeb0cdc75b13fc483c9260",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/30\/26-27.1792623519703.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġej"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "minn bogħod"
+    },
+    {
+      "surface": "בער",
+      "gloss": "jaħraq"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bl-għadab"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "tqil ħafna"
+    },
+    {
+      "surface": "משאה",
+      "gloss": "sħab ta' duħħan jitla'"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "xufftejtu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mtelijin"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "bl-irda"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "u ilsieru"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "bħan-nar"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "li jiekol kollox"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:39.703968459Z",
+  "model": "glm-5.3"
+}

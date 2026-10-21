@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסכן עלימו משכיל",
+      "rationale": "Jaħseb li l-għaref jiksbu għalih innifsu (KJV, YLT) jew li jista' jkun ta' qligħ lil El (JPS, BSB); it-Tanakh għandu ħafna qari Possibbli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bniedem qawwi",
+      "rationale": "גבר huwa l-irġiel qawwi, mhux biss bniedem ġenerali."
+    }
+  ],
+  "translation": "Jista' bniedem qawwi jkun ta' qligħ lil El, jew li għaref jiksbu għalih innifsu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/22\/1-4.1792619514461.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "lil El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "jkun ta' qligħ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "bniedem qawwi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jew li"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "jiksbu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "għalih innifsu"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "għaref"
+    }
+  ],
+  "timestamp": "2026-10-21T21:51:54.462343445Z",
+  "model": "glm-5.3"
+}

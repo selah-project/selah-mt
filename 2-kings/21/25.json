@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 21:25",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "Sħubija retorika: 'mhux huma miktuba?' — il-Malti jżomm il-mistoqsja negattiva ta' wċud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dibrei ha-yamim",
+      "rationale": "B'mod literally 'kliem il-ġranet'; iddokkjat bħala 'djar' il-kronoloġija"
+    }
+  ],
+  "translation": "U l-bqija ta' kliem Amon li għamel, mhux miktuba fuq ktub id-djar ta' slaten Jehuda?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/21\/25-26.1792610699539.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "l-bqija"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ta' kliem"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "miktuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ktub"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "id-djar"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ta' kuljum"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "tas-slaten"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-21T19:24:59.540056311Z",
+  "model": "glm-5.3"
+}

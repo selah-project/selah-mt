@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי יתנני",
+      "rationale": "Il-maġġoranza tal-verżjonijiet (KJV, ASV, BSB) għandhom 'il-kap tiegħi ilma u għajnejja funtana ta' dmugħ' — vers ieħor mis-sezzjoni; it-test Ebrajku hawn (bħal JPS) jgħid 'min jagħtini loġġa fid-deżert'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Min jagħtini",
+      "rationale": "Mistoqsja retorika ta' ġeremija li tistieden lill-qarreġ joqgħod miegħu fis-sbuħija tiegħu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצרת",
+      "rationale": "Kelma ta' festival\/laqgħa sagra — hawn 'laqgħa' biss iżda l-kelma tnaqqas tixbih mal-qaddis."
+    }
+  ],
+  "translation": "Min jagħtini fid-deżert loġġa għal dawk li jorħu t-triq, u niċċaħħad ⟨את⟩ niesi u mmur 'l bogħod minnhom? Għax huma kollha żenħarrijiet, laqgħa ta' tradituri.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/9\/1-4.1792612571564.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "jagħtini"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "loġġa"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "għal dawk li jorħu t-triq"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "u niċċaħħad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niesi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "niesi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "u mmur"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "minn ⟨את⟩ għandhom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "żenħarrijiet"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "laqgħa"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "tradituri"
+    }
+  ],
+  "timestamp": "2026-10-21T19:56:11.565291860Z",
+  "model": "glm-5.3"
+}

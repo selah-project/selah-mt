@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-qarrej",
+      "rationale": "mistoqsija diretta, retorika, lejn ħaddieħor li jista' jmexxi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נחני",
+      "rationale": "għal qaċċata: 'Min imexxini sa Edom' — jaqbel ma' 60:12 'hu jitrassab"
+    },
+    {
+      "kind": "crux",
+      "subject": "סיר",
+      "rationale": "l-ewwel kelma ssir אל (lil-Edom) f'xi manuskritti; ktibna l-qari ta' l-MT"
+    }
+  ],
+  "translation": "Min iġibni ġewwa belt b'swar? Min imexxini sa Edom?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/108\/9-12.1792617860962.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "iġibni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "belt"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "b'swar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "imexxini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:20.962900373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta' nies",
+      "rationale": "Il-Malti jeħtieġ lil min ġie miż-żraben; l-Lhudi għandu biss 'ġlidhom — laħamhom' bil-possessiv."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאי טוב \/ אהבי רעה",
+      "rationale": "Chiasm ta' passjonijiet maqluba: jobogħdu t-tajjeb, jħobbu l-ħażin — l-antitesi tinżemm bil-Malti."
+    }
+  ],
+  "translation": "Dawk li jobogħdu t-tajjeb u jħobbu l-ħażin; li jisirqu l-ġilda ta' nies minn fuqhom, u l-laħam tagħhom minn fuq l-għadam tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/3\/1-4.1792615971956.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "Dawk li jobogħdu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "it-tajjeb"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "u jħobbu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "l-ħażin"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "li jisirqu"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "l-ġilda"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "minn fuqhom"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "u l-laħam tagħhom"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "l-għadam tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:51.957445429Z",
+  "model": "glm-5.3"
+}

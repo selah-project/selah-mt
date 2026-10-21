@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-Baħar",
+      "rationale": "הים is 'the Sea', the great bronze basin's proper name; kept literal with capital, not 'font'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tnax-il baqar",
+      "rationale": "Twelve oxen counted under the Sea."
+    }
+  ],
+  "translation": "⟨את⟩ il-Baħar wieħed, u ⟨את⟩ tnax-il baqar taħtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/13-16.1792622359111.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Baħar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-Baħar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tnax-il baqar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tnax-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-il"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "tahtu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:19.112809528Z",
+  "model": "glm-5.3"
+}

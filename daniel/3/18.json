@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 3:18",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "u jekk le",
+      "rationale": "והן לא 'but if not' — elliptic: 'even if he does not deliver us'; rendered as the Maltese idiom for conditional refusal."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ikun⟩",
+      "rationale": "The Aramaic passive ידיע להוא 'be it known' needs an auxiliary in Maltese."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ninżlux quddiem",
+      "rationale": "סגד is specifically prostration-homage; two Maltese words for one Aramaic verb."
+    }
+  ],
+  "translation": "U jekk le, ⟨ikun⟩ magħruf lilek, ja sultan, li lil-El tiegħek m'aħniex qaddejja, u lill-istatwa tad-deheb li qajmt ma ninżlux quddiemha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "35752b22c1a43c49c228904ca7322616322065a85b3a22892e72bab554e6d16a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/3\/17-20.1792620666928.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והן",
+      "gloss": "U jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le"
+    },
+    {
+      "surface": "ידיע",
+      "gloss": "magħruf"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "⟨ikun⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "לאלהיך",
+      "gloss": "lil-El tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "איתינא",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "naqdmux"
+    },
+    {
+      "surface": "ולצלם",
+      "gloss": "u lill-istatwa"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "הקימת",
+      "gloss": "qajmt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נסגד",
+      "gloss": "ninżlux quddiem"
+    }
+  ],
+  "timestamp": "2026-10-21T22:11:06.929151062Z",
+  "model": "glm-5.3"
+}

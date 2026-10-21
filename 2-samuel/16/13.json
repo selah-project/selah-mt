@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 16:13",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עפר \/ בעפר",
+      "rationale": "il-verb 'trab' u n-nomen 'trab' mill-istess għerq — 'ħawwad it-trab bit-trab' iżomm id-doppja"
+    },
+    {
+      "kind": "addition",
+      "subject": "it-trab",
+      "rationale": "l-ewwel 'trab' miżjud bil-Malti għax il-verb עפר waħdu m'għandux oġġett"
+    }
+  ],
+  "translation": "U David u rġielu mxew fit-triq, u Ximi kien miexi fuq l-għanquba tal-muntanja qablu, għaddej u jisbecca, u jirmeġ bil-ġebel qablu, u ħawwad it-trab bit-trab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/16\/13-16.1792608943679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "u mxew"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "u rġielu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "u Ximi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kien miexi"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "fuq l-għanquba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tal-muntanja"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "qablu"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "għaddej"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "u jisbecca"
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "u jirmeġ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "bil-ġebel"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "qablu"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "u ħawwad it-trab"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "bit-trab"
+    }
+  ],
+  "timestamp": "2026-10-21T18:55:43.680517171Z",
+  "model": "glm-5.3"
+}

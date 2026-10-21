@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 19:4",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħolqien",
+      "rationale": "חחים huma ħolqien għall-imnieħer (biċ-ċinga), mhux ktajjen; 'chains' fil-KJV jbiddel il-metodu tas-sajd."
+    },
+    {
+      "kind": "crux",
+      "subject": "semgħu bih il-ġnus",
+      "rationale": "שמעו אליו: 'smgħu bih' (isem ta' bir li gxixx) jew 'ġabru kontru tiegħu' (JPS, minn מן għal אל)."
+    }
+  ],
+  "translation": "U semgħu bih il-ġnus; fil-ħofra tagħhom inqabad, u daħluh bil-ħolqien fl-art ta' Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/19\/1-4.1792614414705.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "U semgħu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bih"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "fil-ħofra tagħhom"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "inqabad"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "u daħluh"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "bil-ħolqien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T20:26:54.706534931Z",
+  "model": "glm-5.3"
+}

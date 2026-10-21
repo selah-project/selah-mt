@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אך ... אך",
+      "rationale": "Iterazzjoni ta' 'tabilhaqq ... tabilhaqq' — tiżżomm il-mument tal-konklużjoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפטים",
+      "rationale": "Partiċipju plural 'jagħmlu ġudizzju' — pluri ta' mqanqas ħafna qrib Elohim; 'li jagħmel ġudizzju' bi plural wieħed."
+    }
+  ],
+  "translation": "U l-bniedem jgħid: Tabilhaqq hemm frott għall-ġust; tabilhaqq hemm Elohim li jagħmel ġudizzju fl-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/58\/9-12.1792617208640.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U jgħid"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tabilhaqq"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frott"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "għall-ġust"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tabilhaqq"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "li jagħmel ġudizzju"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:28.641571105Z",
+  "model": "glm-5.3"
+}

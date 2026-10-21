@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula hi",
+      "rationale": "verbless clause 'nearness of God is my good' requires copula in Maltese"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרבת אלהים לי טוב",
+      "rationale": "'the nearness of God is my good' (JPS) vs 'it is good for me to draw near to God' (KJV)"
+    },
+    {
+      "kind": "elision",
+      "subject": "verb-pronoun shift",
+      "rationale": "final suffix switches to second person ('tiegħek') addressed to Jaħwe mid-verse"
+    }
+  ],
+  "translation": "Jien, il-qerba ta' Elohim hi t-tajjeb għali; poġġiejt f'Adonaj Jaħwe kenn tiegħi, biex inħabbar il-ġid kollu tagħhom — ⟨quivi⟩ l-għemejjel kollha tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/73\/25-28.1792617410013.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "il-qerba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "t-tajjeb"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "poġġiejt"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "f'Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kenn tiegħi"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "biex inħabbar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-... kollha"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "l-għemejjel kollha tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:50.014242132Z",
+  "model": "glm-5.3"
+}

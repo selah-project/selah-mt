@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טבחתי … טבחתי",
+      "rationale": "il-verb 'ħassejtni' (Tivħati) u s-sustantiv 'ikel imħasseł' (Tivħati) – l-istess ħoss: 'l-ikel imħasseł li ħassilt', mifhum fit-traduzzjoni b'repetizzjoni tal-għerq."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טבחה",
+      "gloss": "fih rabta mal-ikel\/li ħassejtni",
+      "rationale": "il-kelma tista' tkun 'laħam maħsul' jew 'attn ta' qatla' – ħadtha bħala 'ikel imħasseł' għal maħsub minn Nabal."
+    }
+  ],
+  "translation": "U se nieħu ⟨את⟩ ħobżi, u ⟨את⟩ l-ilma tiegħi, u ⟨את⟩ l-ikel imħasseł tiegħi li ħassilt għal dawk li jagħżżu l-merħla, u nagħtihom lil irġel li ma naf minn fejn huma?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/9-12.1792608303949.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "u se nieħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħobżi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ħobżi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ilma tiegħi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "l-ilma tiegħi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ikel imħasseł tiegħi"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "l-ikel imħasseł tiegħi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ħassilt"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "għal dawk li jagħżżu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "u nagħtihom"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "lil irġel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naf"
+    },
+    {
+      "surface": "אי",
+      "gloss": "minn fejn"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma (emfatiku)"
+    }
+  ],
+  "timestamp": "2026-10-21T18:45:03.950705443Z",
+  "model": "glm-5.3"
+}

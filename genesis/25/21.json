@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 25:21",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעתר \/ ויעתר",
+      "rationale": "l-istess verb għat-talba ta' Jitsħaq u għall-għajbuna ta' Jaħwe — rim tal-verb 'atar darbtejn, imbiegħed fil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bla tfal",
+      "rationale": "עקרה tfisser 'sterili, mxekkla f'ġismha', mhux sempliċiment 'bla tfal'"
+    }
+  ],
+  "translation": "U Jitsħaq talab lil Jaħwe għal martu, għax kienet bla tfal, u Jaħwe smietu, u Rivka martu ħatet.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bc1420cd9c843b7c4e516b153255083dfcefa482f0fc0014e89bdbb2d55c784f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/25\/21-24.1792598276197.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעתר",
+      "gloss": "talab"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsħaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "għal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "martu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "bla tfal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "smietu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ħatet"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "martu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:57:56.197990604Z",
+  "model": "glm-5.3"
+}

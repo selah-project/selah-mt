@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "quddiem ⟨את⟩ wiċċ",
+      "rationale": "את פני, 'il-wiċċ ta'', idjom semitiku għal 'quddiem, fil-preżenza ta''; rakkont biss, mhux għarbiż"
+    }
+  ],
+  "translation": "U messihom quddiem ⟨את⟩ wiċċ is-sultan ta' Moab, u bqgħu miegħu lkoll il-jiem li David kien fil-fortizza.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/22\/1-4.1792608251356.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "u messihom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiċċ is-sultan ta' Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u bqgħu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lkoll"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "il-jiem"
+    },
+    {
+      "surface": "היות",
+      "gloss": "li kien"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "fil-fortizza"
+    }
+  ],
+  "timestamp": "2026-10-21T18:44:11.357921259Z",
+  "model": "glm-5.3"
+}

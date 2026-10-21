@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għedewwa",
+      "rationale": "מצריו mill-għerq מצר 'dejjaq' — dawk li jgħiggħu f'post dejjaq, il-merħla tal-għawġ; 'għedewwa' huma t-traduzzjoni tas-sitwazzjoni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים\/מצריו",
+      "rationale": "l-istess għerq bħal Mitsrajim (v. 23) — l-Eġittu sar 'il-mizzien' ta' Jisrael, bil-ġilsa Maltija ma tinżamm"
+    }
+  ],
+  "translation": "U kattar ⟨את⟩ niesu ħafna, u saħħaħu aktar minn għedewwa tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/21-24.1792617794151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "U kattar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niesu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niesu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "u saħħaħu"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "minn għedewwa tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:14.152328614Z",
+  "model": "glm-5.3"
+}

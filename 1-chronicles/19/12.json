@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 19:12",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jirbzoni \/ jirbħulek",
+      "rationale": "חזק hawnhekk huwa 'jkun iqwa minn', mhux 'jirbaħ' biss — 'jekk Aram jkun iqwa minni'"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Abixaj",
+      "rationale": "Joab j indirizza lil ħuh Abixaj b'patt ta' għajnuna reċiproka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזק...חזקו \/ תשועה...הושעתיך",
+      "rationale": "stilparallel: l-istess għerq għal 'iqwa' darbtejn, u ישע għal 'għajnuna\/nsalva' — chiasm ta' appoġġ reċipru"
+    }
+  ],
+  "translation": "U qal: Jekk Aram jirbzuni, inti tkun għalija għall-għajnuna; u jekk wlied Għammon jirbħulek, jien inħelleslek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eded78e1d1a311cf035e5f7131a4f7287114508f5256583973690b07c926ecab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/19\/9-12.1792622062650.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "jirbzoni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "għall-għajnuna"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Għammon"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "jirbħu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "miegħek"
+    },
+    {
+      "surface": "והושעתיך",
+      "gloss": "inħelleslek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:22.651506006Z",
+  "model": "glm-5.3"
+}

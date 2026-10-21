@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "l-qaddisin (הקדשים)",
+      "rationale": "metafora ta' prostituzzjoni sagra maskili — 'sodomiti' (KJV), ' prostituti tas-santwarju' (BSB), jew letteralment 'l-qaddisin'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-idoli",
+      "rationale": "הגללים litteralment 'ċ-ċirondejni' (biċċa ħatab tonda) — 'idoli' huwa tifsira mhux il-forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "missirijietu",
+      "rationale": "il-Lhudi għandu אבתיו 'missirijietu' biss, mhux possibbilment 'idejn missiru'"
+    }
+  ],
+  "translation": "U neħħa l-qaddisin mill-art, u żarma ⟨את⟩ l-idoli l-kollha li għamlu missirijietu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/9-12.1792609667910.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "U neħħa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "l-qaddisin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "u żarma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-idoli l-kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "l-kollha"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "l-idoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "missirijietu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:07:47.911269038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישן\/נושן\/ישן",
+      "rationale": "għerq wieħed ישן irrepeti tlett darbiet — il-qadim jerġa' jidher, l-istruttura tin tilefha"
+    },
+    {
+      "kind": "addition",
+      "subject": "-uh",
+      "rationale": " suffiss fl-aħħar kelma għall-qamħ il-qadim, li bl-Hebriż m'għandux suffiss"
+    }
+  ],
+  "translation": "U tieklu l-qadim moħġol, u l-qadim minn quddiem il-ġdid toħorġuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/9-12.1792601245856.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "u tieklu"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "l-qadim"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "moħġol"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "u l-qadim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "il-ġdid"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "toħorġuh"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:25.856975315Z",
+  "model": "glm-5.3"
+}

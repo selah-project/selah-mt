@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olam",
+      "rationale": "עולם litteralment 'dak li hu moħbi', il-punt li jgħib — bil-Malti 'l-infin' \/ 'għal dejjem'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ifħħru lil Jaħ",
+      "rationale": "il-vers jispiċċa b'imperattiv kollettivu, sejħa lil min jisma' biex jifħħar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Ha-llelu Jah",
+      "rationale": "jista' jibqa' bħala l-esklamazzjoni 'Alleluja', immaħru maskil il-verb biex jibqa' l-ħoss tal-kelma Lhudija"
+    }
+  ],
+  "translation": "Imma aħna nibierku lil Jaħ, minn hawn 'il quddiem u sa l-infin. Ifaħħru lil Jaħ!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/17-18.1792617944574.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Imma aħna"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "nibierku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lil Jaħ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "minn hawn 'il quddiem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "l-infin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ifaħħru"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lil Jaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:44.575076620Z",
+  "model": "glm-5.3"
+}

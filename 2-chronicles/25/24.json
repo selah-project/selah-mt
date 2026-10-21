@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 25:24",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני התערבות",
+      "rationale": "'Ulied il-garanziji' — ostaggi; mid-dipositivi ta' ערב 'jagħti garanzija'. YLT iżomm 'ulied il-pleġġi', KJV 'ostaggi'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקח",
+      "rationale": "Ħafna traduzzjonijiet iżidu 'u ħa', iżda l-Ebrajk ta' dan il-vers jibda b' 'u kol' bla verb; il-verb mitlubi mill-kuntest (23)."
+    }
+  ],
+  "translation": "U l-deheb u l-fidda kollha, u ⟨את⟩ l- oġġetti kollha li nstabu f'dar Elohim ma' Oved-Edom, u d-depożiti tad-dar tas-sultan, u ⟨את⟩ ulied il- garanziji, ⟨את⟩ u reġa' lura Samorja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "965618fef76daf68c62015673fa782158615ccdc1d1698af532ff535e8dbba2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/25\/21-24.1792622743055.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "id-deheb"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "u l-fidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-oġġetti kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "l-oġġetti"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "li nstabu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨את⟩ u reġa' lura"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samorja"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:43.057522420Z",
+  "model": "glm-5.3"
+}

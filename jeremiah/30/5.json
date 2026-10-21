@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħeja",
+      "rationale": "שלום tfisser kompletizza, saħħa, miġja mill-ġdid — mhux biss 'paċi'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "bi ftqir",
+      "rationale": "פחד hu l-oġġett li tibża' kif ukoll is-sentiment; 'ftqir' jagħti l-ħoss tal-ħela"
+    }
+  ],
+  "translation": "Għax hekk jgħid Jaħwe: lejn ta' ħarba smajna, bi ftqir, u m'hemmx ħeja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ec5461b271904f7c91e3b10b413869960708e3f1848cb908368c97992272ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/30\/5-8.1792613204644.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ta' ħarba"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smajna"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bi ftqir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ħeja"
+    }
+  ],
+  "timestamp": "2026-10-21T20:06:44.645340653Z",
+  "model": "glm-5.3"
+}

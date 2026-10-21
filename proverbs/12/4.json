@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "il-kopula għalja bil-Malti iżda mhux fil-Lhudi — ma mxexxinx bracket għax 'hija' hija ta' verba nominali; (ara l-eżempju ta' fuq)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "'ħila\/ġid\/qawwa' — kelma waħda għal sajjes, ġid u qawwa; 'virtuous' huwa tgeżwir neo-KJV"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עטרת\/רקב",
+      "rationale": "kuruna kontra niħa fl-għadam — ilsien konċiż u pjuttost ħażin, tipiku ta' Mishle"
+    }
+  ],
+  "translation": "Mara ta' ħila hija kuruna għal żewġha, u bħan-niħa f'għadamu dik li twaqqagħ bi tkasbir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/12\/1-4.1792618633877.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ta' ħila"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kuruna"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "għal żewġha"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "u bħan-niħa"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "f'għadamu"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "dik li twaqqagħ bi tkasbir"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:13.878013709Z",
+  "model": "glm-5.3"
+}

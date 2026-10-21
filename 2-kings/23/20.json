@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזבח",
+      "rationale": "Verb ta' sagrifiċċju użat għall-qtil tal-qassisin: 'qatel bħal sagrifiċċju' — versjoniet jaqgħu bejn 'slew' u 'sacrificed'.",
+      "target": "qatel"
+    },
+    {
+      "kind": "elision",
+      "subject": "על המזבחות",
+      "rationale": "Sintassi Ebraiku: 'li kienu hemm fuq l-artali' — 'hemm' jirreferi għas-siti, mhux għall-qassisin physical fuq l-artali infushom.",
+      "target": "hemm fuq l-artali"
+    }
+  ],
+  "translation": "U qatel ⟨את⟩ il-qassisin kollha tal-għoljiet li kienu hemm fuq l-artali, u ħaraq ⟨את⟩ għadam ta' bniedem fuqhom, u reġa' lura Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/17-20.1792610819121.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "U qatel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qassisin kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "il-qassisin"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tal-għoljiet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "l-artali"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "u ħaraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għadam ta' bniedem"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "għadam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ta' bniedem"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u reġa' lura"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:59.125134587Z",
+  "model": "glm-5.3"
+}

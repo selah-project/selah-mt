@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "verbless clauses",
+      "rationale": "Il-Lhuid juża partiċipji\/imperattivi mgħoddija; ġie miżjud verb fin-nofs passiv bil-Malti biex l-istruttura tkun ċara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאלתך\/בקשתך",
+      "rationale": "Il-par talba\/rikjesta (she'ela\/baqashah) jirrepeti fl-istess żewġ kliem fil-versi 6, 7 u 8 — paronomasja retorika tas-sors"
+    }
+  ],
+  "translation": "U s-sultan qal lil Ester fix-xrib tal-inbid: X'inhi t-talba tiegħek, u ⟨tingħatalek⟩? U x'inhi r-rikjesta tiegħek? Sa nofs is-saltna, u ⟨tinqdel⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aefbde0f372d5edb138e9f6053985d539c8d5cd3dda11ef7dca7fc3e40afc2f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/5\/6-7.1792623950223.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "lil Ester"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "fix-xrib"
+    },
+    {
+      "surface": "היין",
+      "gloss": "tal-inbid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'inhi"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "it-talba tiegħek"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "u ⟨ningħatalek⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u x'inhi"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ir-rikjesta tiegħek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nofs"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "is-saltna"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "u ⟨tinqdel⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:50.223892821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רפידה",
+      "rationale": "Kelma li tiffrekwenta darba biss; probabbilment appoġġ jew balavustra miftuxa tul il-palanċin"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבנות ירושלם",
+      "rationale": "'minn bniet Jeruxalajim' (sors tal-xogħol) vs 'għall-bniet' (għan); KJV 'for', YLT 'by'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "materjal",
+      "rationale": "Inventarju ta' materjali prezzjuż — fidda, deheb, porpora — jiddeskrivi l-apparat bir-reqqa"
+    }
+  ],
+  "translation": "Il-kolonna tagħha għamel bil-fidda, l-appoġġ tagħha bid-deheb, is-siġġu tagħha bil-porpora; ġewwahu mxebbel bl-imħabba minn bniet Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/9-11.1792619920986.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "il-kolonna tagħha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bil-fidda"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "l-appoġġ tagħha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bid-deheb"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "is-siġġu tagħha"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "bil-porpora"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "ġewwahu"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "mxebbel"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "bl-imħabba"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "minn bniet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:40.986675617Z",
+  "model": "glm-5.3"
+}

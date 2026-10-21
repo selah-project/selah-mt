@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 1:2",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajt",
+      "rationale": "היכל huwa palazz\/santwarju kbir; 'ħajt' żżomm ir-reġistr Samaritan u l-qraba mal-Lhudi milli 'tempju'"
+    },
+    {
+      "kind": "elision",
+      "subject": "בכם",
+      "rationale": "'fikom\/il-kontrikom' — il-persenta tal-ħatra kontra l-serve ma joħroġx b'mod nadif bil-Malti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Isma, ja popli",
+      "rationale": "imperattiv ta' smigħ indirizzat lill-popli kollha tal-art"
+    },
+    {
+      "kind": "you",
+      "subject": "popli u art",
+      "rationale": "appell dirett lill-ġnus u lill-art kolha bħala mismgħa"
+    }
+  ],
+  "translation": "Isma, ja popli, kollomkom; oqgħod tisemgħi, ja art, u ⟨dak li jimlaha⟩; u Adonaj Jaħwe jkun xieda kontrikom, Adonaj mill-ħajt qaddis tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2c86da674d05221f186297f6ae3872d53a92febacdb3c23f3fa2fa0ea1694e23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/1\/1-4.1792615933363.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Isma, ja"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popli"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kollomkom"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "oqgħod tisemgħi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "u ⟨dak li jimlaha⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kontrikom"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "xieda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "mill-ħajt"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qaddis tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:13.363879161Z",
+  "model": "glm-5.3"
+}

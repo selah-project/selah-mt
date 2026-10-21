@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pjazza",
+      "rationale": "רחוב is literally 'breadth, open wide space' of a city, not a narrow street."
+    }
+  ],
+  "translation": "U Hataħ ħareġ għand Mordekaj, għall-pjazza tal-belt, li kienet quddiem il-bieb tas-sultan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/4\/5-8.1792620500195.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "u ħareġ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataħ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għall"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "pjazza"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tal-belt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "שער",
+      "gloss": "il-bieb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T22:08:20.196636031Z",
+  "model": "glm-5.3"
+}

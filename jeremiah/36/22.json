@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ kopula għas-sedja deskrittiva"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fix-xahar id-disa'",
+      "rationale": "datazzjoni tal-ġrajja bil-xahar"
+    }
+  ],
+  "translation": "U r-re ⟨kien⟩ bilqiegħda f'dar ix-xitwa, fix-xahar id-disa', u ⟨את⟩ l-iskaldin in-nar quddiemu kien jaħraq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/36\/21-24.1792613369506.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "u r-re"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bilqiegħda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "ix-xitwa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "fix-xahar"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "id-disa'"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-iskaldin"
+    },
+    {
+      "surface": "האח",
+      "gloss": "l-iskaldin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "kien jaħraq"
+    }
+  ],
+  "timestamp": "2026-10-21T20:09:29.507271773Z",
+  "model": "glm-5.3"
+}

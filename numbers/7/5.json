@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skond",
+      "rationale": "כפי bil-mod litterali huwa 'skond il-ħalq' — 'מoħu' — idjom semitiku għal 'skond il-ħtieġa'"
+    },
+    {
+      "kind": "you",
+      "subject": "Moxe",
+      "rationale": "imperattiv קח imqabbad ma' Moxe, mit-kellem dirett minn Jaħwe"
+    }
+  ],
+  "translation": "Ħu mingħandhom, u jkunu biex jaqdmu ⟨את⟩ il-ħidma tal-Mixkan tal-laqgħa; u tingħatahom lill-Leviti, kull wieħed skond il-ħidma tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/7\/5-8.1792602488199.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ħu"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "mingħandhom ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u jkunu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "biex jaqdmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħidma"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "il-ħidma"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tal-Mixkan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "u tingħatahom"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ lilhom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "skond"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "il-ħidma tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:08:08.215465528Z",
+  "model": "glm-5.3"
+}

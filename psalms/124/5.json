@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajjitna",
+      "rationale": "נפש nefesh hija nifs\/ħajja, mhux 'ruħ' astratta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הזידונים",
+      "rationale": "gematria ta' 'ilmijiet li jagħllu' — ar-Rabbien qarib ta' זידון, mitluf fil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-ma jitkellmu għolja",
+      "rationale": "verbu fis-soltu mhux fit-Testment: 'l-ilmijiet l-arroganti' (KJV) jew 'li jagħllu'"
+    }
+  ],
+  "translation": "Imbagħad il-ma jitkellmu għolja kienu għaddew fuq ħajjitna, l-ilmijiet li jagħllu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/124\/5-8.1792618111725.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "imbagħad"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "għaddew"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ħajjitna"
+    },
+    {
+      "surface": "המים",
+      "gloss": "l-ilmijiet"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "li jagħllu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:31.725703803Z",
+  "model": "glm-5.3"
+}

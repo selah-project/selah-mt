@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירדפם יעבור שלום",
+      "rationale": "'jippersegwahom u jaqbeż fi paċi' vs 'jaqbeż bil-ħarba' — Kiljament tħawwad ma' 41:5 dwar min jippersegwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fi paċi",
+      "rationale": "שלום hawn 'bil-ħenieħa, bla miffa'"
+    }
+  ],
+  "translation": "Jippruvaw jarawh jippersegwahom, jaqbeż fi paċi; triq b'riġlejn ma jidħol fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/41\/1-4.1792611741135.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "jippersegwahom"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "jaqbeż"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fi paċi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "triq"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "b'riġlejn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jidħol fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T19:42:21.136771396Z",
+  "model": "glm-5.3"
+}

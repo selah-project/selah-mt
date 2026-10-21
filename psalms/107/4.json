@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בישימון",
+      "rationale": "kelma rari għal 'art mitluqa\/bajda' — l-ebraiżmu il-Malti 'artijiet bojod' jagħti l-istess stampa"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "'fuq triq' jew 'mingħajr triq' — KJV 'solitary way', YLT 'by the way'; il-Lhudi jgħid biss 'derek'"
+    }
+  ],
+  "translation": "Itterru fid-deżert, f'artijiet bojod, fuq triq; belt għal għamara ma sabux.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/1-4.1792617884263.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Itterru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "f'artijiet bojod"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "fuq triq"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "belt"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "għal għamara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "sabux"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:44.264693927Z",
+  "model": "glm-5.3"
+}

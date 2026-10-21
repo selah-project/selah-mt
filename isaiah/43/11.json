@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Lhudi m'għandux kopula; 'jien, jien Jaħwe' jagħmel sens sħiħ bla krijatura"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "iterazzjoni tal-pronoma għat-tedjanti — 'jien, jien' tinżamm"
+    }
+  ],
+  "translation": "Jien, jien ⟨hu⟩ Jaħwe, u barra minni m'hemm ebda salvar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/43\/9-12.1792611757509.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemm"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "barra minni"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ebda salvar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:42:37.511136339Z",
+  "model": "glm-5.3"
+}

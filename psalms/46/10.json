@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ieħu bin-nar",
+      "rationale": "lisrof bil-Lhudi huwa 'jaħraq\/jixgħel'; 'jieħu bin-nar' iżomm l-istruttura Maltija ta' strument"
+    },
+    {
+      "kind": "crux",
+      "subject": "עגלות",
+      "rationale": "'karrijiet (tal-ġwiedħ)' kontra LXX\/uħud 'loppi\/xtieb' — it-Tanakh għandu l-kelma ta' vettura b'roti"
+    }
+  ],
+  "translation": "Jagħmel il-ġwiedħ jieqfu sal-ħofra ta' l-art; il-qaws jikser, u l-iżbeg jaqta', il-karrijiet jieħu bin-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/46\/9-12.1792617111486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Jagħmel...jieqfu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "il-ġwiedħ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sal"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "il-ħofra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ta' l-art"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "il-qaws"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "jikser"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "jaqta'"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "l-iżbeg"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "il-karrijiet"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:51.487227448Z",
+  "model": "glm-5.3"
+}

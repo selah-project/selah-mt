@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-kings 4:41",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-pajp",
+      "rationale": "סיר huwa l-qlugħ tal-likar; magħżul kelma waħda konsekwenti għat-tip ta' siġra tal-likar"
+    },
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ 'kien hemm' fejn il-Lhudi għandu biss היה"
+    }
+  ],
+  "translation": "U qal: Ħudu dqiq. U tefaħ fis-siġra tal-likar, u qal: Serrħu lill-poplu, u jieklu. U ma kienx hemm ħaġa ħażina fil-pajp.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "16b0c5072114224bff22c13dbdd384c7f3b488ac72cd1e5646f87dea477b7c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/4\/41-44.1792610186858.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "ħudu"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "dqiq"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "u tefaħ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "l-qlugħ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "צק",
+      "gloss": "serrħu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lill-poplu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "u jieklu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u le"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ħaġa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażina"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "fil-pajp"
+    }
+  ],
+  "timestamp": "2026-10-21T19:16:26.858745944Z",
+  "model": "glm-5.3"
+}

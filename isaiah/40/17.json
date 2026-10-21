@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tohu",
+      "rationale": "תהו miżjuma ma' מאפס; ħallit 'tohu' bħal Ġenesi 1:2 għax il-kelma tiffurmaw par ma' tohu-va-vohu u n-nuqqas ta' ekwivalent Malti eżatt."
+    },
+    {
+      "kind": "crux",
+      "subject": "inqiesu",
+      "rationale": "נחשבו passiv ta' חשב: 'inqiesu\/ħasbu' — l-għażla bejn 'ġew mħarsin bħala' u 'ġew maqtugħin bħala'."
+    }
+  ],
+  "translation": "In-nazzjonijiet kollha quddiemu bħalikieku xejn; inqiesu għalih bħala effes u tohu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/40\/17-20.1792611705858.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "in-nazzjonijiet"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "bħalikieku xejn"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "bħala effes"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "u tohu"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "inqiesu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:45.858694925Z",
+  "model": "glm-5.3"
+}

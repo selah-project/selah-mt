@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 41:18",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "minn quddiem",
+      "rationale": "מפני bil-qosra: 'minn quddiem' = 'minħabba', bil-Malti inżamm il-ħarsa letterali tal-wiċċ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kien eħles fuq",
+      "rationale": "הפקיד: 'qiegħed sewwer \/ tah il-ħarsa'; it-traduzzjonijiet jqiegħdu 'gvernatur', it-test jgħid biss li r-rej tah inkarigu."
+    },
+    {
+      "kind": "elision",
+      "subject": "lil",
+      "rationale": "l-artiklu Malti 'lil' mal-ismijiet mhux fit-test Lhudi iżda mitlub mis-sintassi Maltija."
+    }
+  ],
+  "translation": "Minn quddiem il-Kasdej, għax beżgħu minnhom, għax Jixmael bin Netanja kien laqat ⟨את⟩ lil Gedaljaħu bin Aħikam, li r-rej ta' Babel kien eħles fuq l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc3d59b32113eb5938a97e0d2f888181af5d09091af49c40481e967a30cec3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/41\/17-18.1792613439018.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Minn quddiem"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "il-Kasdej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "beżgħu"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kien laqat"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jixmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Gedaljaħu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "lil Gedaljaħu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Aħikam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "kien eħles fuq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ir-rej"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ta' Babel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fuq l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:10:39.019488410Z",
+  "model": "glm-5.3"
+}

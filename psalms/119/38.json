@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ליראתך",
+      "rationale": "Sliema: 'li hi għall-biża' minnek' jew 'lill-istream li jibża' minnek' jew 'biex inibża' minnek'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "biża'",
+      "rationale": "יראה hija biża' qaddis\/sogħba, mhux biss bża'"
+    }
+  ],
+  "translation": "Issaħħaħ lil-istream tiegħek ⟨b'⟩ kelmtit-kellem tiegħek, li hi għall-biża' minnek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/37-40.1792618029690.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Issaħħaħ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "lil-istream tiegħek"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "il-kelma tiegħek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "għall-biża' minnek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:09.691276826Z",
+  "model": "glm-5.3"
+}

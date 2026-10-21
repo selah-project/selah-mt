@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tinseb idħa l-leminija",
+      "rationale": "Il-Lhudi jgħid biss 'tinsi d-dirgħajn il-leminija'; verżjonijiet qodma jżidu 'l-ħiltha' (KJV 'her cunning') biex jagħmlu sens tal-elmet"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשכחך \/ תשכח",
+      "rationale": "Għerq waħed שׁכח darbtejn — 'jekk ninslek... tinseb' — l-istess kelma tinbidel mid-dak li jgħid għal dak li jsir"
+    }
+  ],
+  "translation": "Jekk ninslek, Jeruxalajim, tinseb idħa l-leminija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/137\/5-8.1792618220227.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ninslek"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tinseb"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "idħa l-leminija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:20.228299840Z",
+  "model": "glm-5.3"
+}

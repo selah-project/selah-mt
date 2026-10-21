@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-għawġ",
+      "rationale": "עמל tfisser l-ewwel 'għawġ\/txiġġir' (toil), hawn il-ħsara li ħarġu minn xmajthom"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jgħattihom",
+      "rationale": "jista' jkollu sens optattiv: 'ħallihom jgħattuhom' — taħlita ta' dikjarazzjoni u talba fis-salm"
+    }
+  ],
+  "translation": "Ras ta' dawk li jdawwruni: l-għawġ ta' xofftejhom jgħattihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/140\/9-12.1792618223588.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ta' dawk li jdawwruni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "l-għawġ"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ta' xofftejhom"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "jgħattihom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:23.588753246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-verb 'kien' m'hemmx fl-Ebrajk; il-Malti jeħtieġ kopula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "isem ta' Ħevron minn qabel kien Kirjat Arba'",
+      "rationale": "għarfien dwar l-isem il-qadim tal-belt, inizjali ta' lista ta' ismijiet"
+    }
+  ],
+  "translation": "U Jahuda mexa kontra l-Kenaani li joqgħod fi Ħevron — u isem ta' Ħevron minn qabel kien Kirjat Arba' — u ħadu ⟨את⟩ lil Xixaj u ⟨את⟩ lil Aħiman u ⟨את⟩ lil Talmaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/9-12.1792606900054.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "u mexa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "lill-Kenaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "li joqgħod"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "fi Ħevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u isem"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ħevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "minn qabel"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba'"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "u ħadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xixaj"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Xixaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Aħiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Aħiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Talmaj"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaj"
+    }
+  ],
+  "timestamp": "2026-10-21T18:21:40.055242698Z",
+  "model": "glm-5.3"
+}

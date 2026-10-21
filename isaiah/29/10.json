@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rqad tqil",
+      "rationale": "תרדמה hija torpor sħiħ, rqad tqil qisu maqtul — mhux sempliċiment 'rqad'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ruwaħ ta' rqad tqil",
+      "rationale": "Jaħwe nnifsu jagħlaq l-għajnejn u l-ħajjeftin — ir-revelazzjoni mgħottija, qabel il-ktieb imsielet fil-vers 11."
+    },
+    {
+      "kind": "you",
+      "subject": "Ġerusalemm",
+      "rationale": "עליכם u עיניכם — indirizz dirett lil-poplu ta' Sijon."
+    }
+  ],
+  "translation": "Għax Jaħwe ferragħ fuqkom ruwaħ ta' rqad tqil, u għalaq ⟨את⟩ għajnejnkom, ⟨את⟩ il-profeti, u ⟨את⟩ rashkom, l-ħajjeftin, kisser.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3434340f9d68c026a5316114cd38c31334a242ee9fe077744b72acf637ad71ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/29\/9-10.1792623502796.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ferragħ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fuqkom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ta' rqad tqil"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "u għalaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għajnejnkom"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "għajnejnkom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-profeti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "il-profeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "rashkom"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "rashkom"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "l-ħajjeftin"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kisser"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:22.797421991Z",
+  "model": "glm-5.3"
+}

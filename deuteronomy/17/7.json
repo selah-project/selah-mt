@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ובערת",
+      "rationale": "il-verb literally ifisser 'teħraq\/teqred b'nar'; 'teqred id-deni' iżomm il-forma tal-qerda"
+    },
+    {
+      "kind": "addition",
+      "subject": "hekk",
+      "rationale": "il-verb 'u teqred' huwa sostenut minn konjuzzjoni mingħajr konnessjoni loġika viżibbli; 'hekk' użat b'mod ħieles mingħajr markatur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בראשנה\/באחרנה",
+      "rationale": "l-ewwel\/wara — l-antitesi tensjonali bejn ix-xhieda u l-poplu, kif trid tibqa'"
+    }
+  ],
+  "translation": "Jed ix-xhieda tkun fuqu għall-ewwel biex iqtluh, u jed il-poplu kollu wara; u hekk teqred id-deni minn ġo fostok.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "342db6a9636315b17f1df2183553795089bb560514bad0935a591dda2e257299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/17\/5-8.1792605726305.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "jed"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "ix-xhieda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "għall-ewwel"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "biex iqtluh"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "u jed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koll"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "u hekk teqred"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "id-deni"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "minn ġo fostok"
+    }
+  ],
+  "timestamp": "2026-10-21T18:02:06.306131799Z",
+  "model": "glm-5.3"
+}

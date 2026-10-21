@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעשה האלהים",
+      "rationale": "'Kull għemil' jew 'kull għemil ta' Elohim'? Il-possibbiltà t-tnejn teżisti fil-grammatika"
+    },
+    {
+      "kind": "secret",
+      "subject": "נעלם",
+      "rationale": "kull ma huwa moħbi — dak li huwa maħbuġ se jiġi mġudikat"
+    }
+  ],
+  "translation": "Għax Elohim se ġib ⟨את⟩ kull għemil f'ġudizzju, flimkien ma' kull ma huwa moħbi, kemm jekk tajjeb u kemm jekk ħażin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f54211c6719b6fd9a8034a900125db913846010ef32518f189808d8dc58e8d62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/12\/13-14.1792620282788.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull għemil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se ġib"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "f'ġudizzju"
+    },
+    {
+      "surface": "על",
+      "gloss": "flimkien ma'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ma huwa moħbi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kemm jekk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u kemm jekk"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:42.789458305Z",
+  "model": "glm-5.3"
+}

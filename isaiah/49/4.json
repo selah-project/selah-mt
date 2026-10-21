@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħlas ta' għemili",
+      "rationale": "ופעלתI litteralment 'għemili\/ħadti'; bħala 'ħlas' huwa interpretazzjoni komuni (jps 'recompense') iżda t-test jgħid 'għemil'."
+    },
+    {
+      "kind": "crux",
+      "subject": "il-ġudizzju tiegħi",
+      "rationale": "משפטI: 'ġudizzju\/dritt tiegħi' (asv\/jps) kontra 'vindikazzjoni' (bsb) kontra 'kawża tiegħi'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ma'",
+      "rationale": "את hawn hija prepożizzjoni ('ma''), mhux il-marka tal-oġġett diretta; il-Malti jeħtieġ 'ma''."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לריק \/ לתהו והבל",
+      "rationale": "Trijad ta' vojż: reeq, tohu, hevel — l-istess kliem ta' Ġenesi 1:2 u l-Kohelet, mitlufin parzjalment bil-Malti."
+    }
+  ],
+  "translation": "Jien għidt: Għal xejn tlajt ħabili, għal vojt u vanità ħliet il-qawwa tiegħi; imma tassew il-ġudizzju tiegħi ⟨hu⟩ ma' ⟨את⟩ Jaħwe, u ħlas ta' għemili ⟨hu⟩ ma' ⟨את⟩ Elohim tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/49\/1-4.1792611955628.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "għal xejn"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "tlajt ħabili"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "għal vojt"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "u vanità"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "il-qawwa tiegħi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ħliet"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "imma tassew"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il-ġudizzju tiegħi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "u ħlas ta' għemili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim tiegħi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:45:55.629863903Z",
+  "model": "glm-5.3"
+}

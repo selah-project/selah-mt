@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tlett elef bat",
+      "rationale": "baħar il-temju jigħd l-kejl tiegħu f'bat, miżjud ma' Ħitan 7:26 (elf u tlett mija bat)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחזיק",
+      "rationale": "piċċir responsiv 'qiegħda tażżomm' vs 'kienet tiflaħ għal' — it-test jagħti l-kapaċità tal-baħar"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "l-ilsien Malti jeħtieġ il-kopula li ma hemmx bl-Lhudi"
+    }
+  ],
+  "translation": "U ħxuna tagħha kienet il-wiesgħa ta' id, u xuffteha bħal-għemil ta' xuffta ta' tazza, fjura ta' żumbanja; kienet tażżomm tlett elef bat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "10557ec61716f0a1d3680901e95b462b80404a0d7cee6221e5a010c839536d2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/5-8.1792622314508.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "u ħxuna tagħha"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "il-wiesgħa ta' id"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "u xuffteha"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "bħal-għemil ta'"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "xuffta"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "ta' tazza"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "fjura"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "ta' żumbanja"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "tażżomm"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elef"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "kienet tażżomm"
+    }
+  ],
+  "timestamp": "2026-10-21T22:38:34.509038762Z",
+  "model": "glm-5.3"
+}

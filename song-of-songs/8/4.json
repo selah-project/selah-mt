@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה...ומה",
+      "rationale": "il-mibnija 'maħ...umaħ' hija eżortattiva, mhux mistoqsija — ir­renduta bħala 'la...u la'"
+    },
+    {
+      "kind": "you",
+      "subject": "bniet Jeruxalajim",
+      "rationale": "appell dirett lill-bniet ta' Jeruxalajim"
+    },
+    {
+      "kind": "crux",
+      "subject": "sa ma hi tixtieq",
+      "rationale": "שתחפץ femminil: l-imħabba hi li tixtieq — mhux 'hu' (KJV) u mhux 'il-ħin' (BSB)"
+    }
+  ],
+  "translation": "Nħallifkom, bniet Jeruxalajim: la tqaj­mux u la tqajjmu l-⟨imħabba⟩ qabel ma hi tixtieq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/8\/1-4.1792619940678.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "nħallifkom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bniet Jeruxalajim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bniet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "tqaj­mux"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "tqajjmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-imħabba"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "l-imħabba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ma hi tixtieq"
+    }
+  ],
+  "timestamp": "2026-10-21T21:59:00.679558261Z",
+  "model": "glm-5.3"
+}

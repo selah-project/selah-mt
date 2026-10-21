@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għajjen",
+      "rationale": "יגע għajjen\/imħawwad; il-Malti jżomm il-ħoss tal-għerq"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רפה ידים",
+      "rationale": "litteralment 'rqi fl-idejn' = bla qawwa; ġejt mqarreb bħal 'dgħajjef fl-idejh'"
+    }
+  ],
+  "translation": "U nigi fuqu meta jkun għajjen u dgħajjef fl-idejh, u nterrifikah, u jaħarbu kul-ġemgħa li ⟨את⟩ mghedda mieghu; u nirbu lil ⟨את⟩ ir-re waħdu biss.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/17\/1-4.1792608907882.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "u nigi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "għajjen"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "u dgħajjef"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "fl-idejh"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "u nterrifikah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nterrifikah"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "u jaħarbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ġemgħa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mghedda mieghu"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "u nirbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ir-re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "waħdu biss"
+    }
+  ],
+  "timestamp": "2026-10-21T18:55:07.883384934Z",
+  "model": "glm-5.3"
+}

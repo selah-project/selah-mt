@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "superlativ Ebrajk — qaddis ta' qaddisin; rendut bħala superlativ Malti 'l-iktar qaddis', jitilfu t-taqsira doppja"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Malti jeħtieġ kopula fil-frażi nominali, il-Lhudi ma għandux"
+    }
+  ],
+  "translation": "U tmidd ⟨את⟩ l-artal tal-olokawst u ⟨את⟩ l-utensili kollha tiegħu, u tweddeġ ⟨את⟩ l-artal, u jkun l-artal ⟨hu⟩ l-iktar qaddis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/40\/9-12.1792600391574.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "u tmidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "artal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tal-olokawst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-utensili kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "l-utensili tiegħu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "u tweddeġ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "u jkun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "l-iktar"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qaddis"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:11.575123913Z",
+  "model": "glm-5.3"
+}

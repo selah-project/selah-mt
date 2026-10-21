@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גדיתיו",
+      "rationale": "gidjotav — kliem li jidher hawn biss fit-Tanakh; probabbilment 'l-ġedjiet tal-xtut' (banks), mill-għerq ta' gidja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-widien",
+      "rationale": "ויבריחו את כל העמקים literally 'keċċew il-widien' — metonimija għal dawk li joqogħdu fil-widien; il-Malti żejjed lil ⟨dawk li joqogħdu fil-⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "il-lvant u il-punent",
+      "rationale": "למזרח ולמערב literally 'lejn fejn titla' ix-xemx u lejn fejn tinżel' — canton ta' ġeografija mhux punt kardinali fissa."
+    }
+  ],
+  "translation": "Dawn huma dawk li qasmu ⟨את⟩ il-Jarden fix-xahar l-ewwel, meta kien mimli sa fuq il-ġedjiet kollha tiegħu, u keċċew lil ⟨dawk li joqogħdu fil-⟩ widien, lejn il-lvant u lejn il-punent.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/12\/13-16.1792621927021.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dakk li"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "qasmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il-Jarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "fix-xahar"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "meta hu"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "mimli"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "il-ġedjiet tiegħu"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "u keċċew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-widien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lil kollha"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "tal-widien"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "lejn il-lvant"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "u lejn il-punent"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:07.025237453Z",
+  "model": "glm-5.3"
+}

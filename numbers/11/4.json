@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 11:4",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האספסף",
+      "gloss-note": "",
+      "rationale": "il-kelma alsafzuf deheret darba biss fit-Tanakh; duplicazzjoni ta' אסף 'ġema'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התאוו תאוה",
+      "rationale": "verb u nom mill-għerq אוה — 'xtaqet xewqa', infinitiv assolut"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי יאכלנו בשר",
+      "rationale": "litteralment 'min jagħtina biex nieklu laħam' (hifil ta' אכל); xi traduzzjonijiet 'min jagħtina laħam'"
+    }
+  ],
+  "translation": "U l-ħela miġbura li kienet fosthom xtaqet xewqa kbira, u reġġu lura u bkiew, anki wlied Jisrael, u qalu: Min jagħtina biex nieklu laħam?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/11\/1-4.1792602735670.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאספסף",
+      "gloss": "u-l-ħela-miġbura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "fosthom"
+    },
+    {
+      "surface": "התאוו",
+      "gloss": "xtaqet"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "xewqa-kbira"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u-reġġu-lura"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "u-bkiew"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u-qalu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "jagħtina-biex-nieklu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    }
+  ],
+  "timestamp": "2026-10-21T17:12:15.673352599Z",
+  "model": "glm-5.3"
+}

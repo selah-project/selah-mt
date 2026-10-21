@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tagħmir",
+      "rationale": "כלי huwa 'apparat, oġġett,.mezz' — 'tagħmir' jaqbad; KJV 'instruments', JPS 'furniture'"
+    }
+  ],
+  "translation": "u jħarsu ⟨את⟩ it-tagħmir kollu tat-tinda tal-laqgħa, u ⟨את⟩ l-għassa ta' wlied Jisrael, biex jagħmlu ⟨את⟩ is-servizz tal-Mixkan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/5-8.1792602368844.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "u jħarsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tagħmir kollu tat-tinda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "it-tagħmir"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tat-tinda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-għassa ta' wlied Jisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "l-għassa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta' wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "biex jagħmlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-servizz tal-Mixkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "is-servizz"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tal-Mixkan"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:08.848461705Z",
+  "model": "glm-5.3"
+}

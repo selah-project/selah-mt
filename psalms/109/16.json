@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "il-konġunzjoni relattiva għadha ma għandha ekwivalenti Malti nadif; inħalliet ma' 'minħabba li'"
+    },
+    {
+      "kind": "crux",
+      "subject": "למותת",
+      "rationale": "'biex joqtol (il-miksura ta' qalb)' kontra 'sa l-mewt' — KJV 'to slay the broken in heart', BSB 'even to their death'"
+    }
+  ],
+  "translation": "Minħabba li ma ftakarx jaħdem ħesed, u ppersoqua raġel fqir u miskin, u ta' qalb miksur, biex joqtol.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/13-16.1792617935076.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "minħabba li"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ftakarx"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "jaħdem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "u ppersoqua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fqir"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "u miskin"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "u ta'"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalb miksur"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "biex joqtol"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:35.077153271Z",
+  "model": "glm-5.3"
+}

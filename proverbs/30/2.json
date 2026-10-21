@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bhejjem",
+      "rationale": "בער tfisser bla fehma bħala bhema (annimal); 'stupidu' jonqsu l-istampa"
+    },
+    {
+      "kind": "addition",
+      "subject": "għandi",
+      "rationale": "il-Malti jeħtieġ verb għand; il-Lhudi għandu biss לי"
+    }
+  ],
+  "translation": "Għaliex jiena aktar bhejjem minn bniedem, u m'għandix il-fehma ta' bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/30\/1-4.1792619031058.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "בער",
+      "gloss": "aktar bhejjem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "minn bniedem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u m'għandix"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "il-fehma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ta' bniedem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨għandi⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T21:43:51.059384105Z",
+  "model": "glm-5.3"
+}

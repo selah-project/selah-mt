@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Maltese needs 'u' before 'għid' for לאמר in sequence"
+    },
+    {
+      "kind": "elision",
+      "subject": "ta'",
+      "rationale": "construct chain prefett–Jehuda needs Maltese 'ta''"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Zarubavel",
+      "rationale": "divine message addressed to Zerubbabel through Haggai"
+    }
+  ],
+  "translation": "Għid lil Zarubavel, prefett ta' Jehuda, u għid: Jien nħawwad ⟨את⟩ is-sema u ⟨את⟩ l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7fd44ed36bb2c6169f99a8a547f2574a263a757160a6b83a554e301403437171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/haggai\/2\/21-23.1792616173721.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Għid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zarubavel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "prefett"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "u għid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nħawwad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-sema"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:56:13.721860244Z",
+  "model": "glm-5.3"
+}

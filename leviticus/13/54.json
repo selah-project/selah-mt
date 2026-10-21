@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebat ijiem",
+      "rationale": "perjodu ta' kwarantina ta' sebat ijiem, imtenni għat-tieni darba"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-prepożizzjoni Maltija 'lil' miżjuda quddiem l-oġġett dirett, ma hemmx fl-Lhudi"
+    }
+  ],
+  "translation": "u l-qassis jikkmanda, u jaħslu ⟨את⟩ lil dak li fih in-naga, u jisserrpuh għal sebat ijiem t-tieni darba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "883507b5a91641848ebc7269dd3e8779f2a02f9c557d936a871d3211b19cd6e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/13\/53-56.1792600880139.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "jikkmanda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "u jaħslu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil dak li fih in-naga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "in-naga"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "u jisserrpuh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "t-tieni darba"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:20.139817306Z",
+  "model": "glm-5.3"
+}

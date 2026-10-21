@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שדה ארם",
+      "rationale": "'art (field) Aram' kontra tradizzjonijiet 'il-pajjiż ta' Sirja'; l-Ebrajk jgħid sempliċement 'għal art Aram'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ נשמר",
+      "rationale": "il-verb 'ħares' fil-v.13 jittarda b'għarfu passiv 'tħares' fil-v.14 — Jakobb ħares nagħaġ, Jisrael tħares bi profeta"
+    }
+  ],
+  "translation": "U Jagħaqov ħarab lejn art Aram, u Jisrael qadd għal mara, u għal mara ħares.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/12\/13-15.1792615511269.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ħarab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "art"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "qadd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "għal mara"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "u għal mara"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ħares"
+    }
+  ],
+  "timestamp": "2026-10-21T20:45:11.269496803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "iżraq il-qalb",
+      "rationale": "'iżraq il-qalb' għal הכביד את לבו — litteralment 'għamel qalbu tqil\/ieqlef'"
+    },
+    {
+      "kind": "crux",
+      "subject": "hardened",
+      "rationale": "hawn il-forma Piel (Fraggħun iżraq qalbu nnifsu), mhux Qal fejn Jaħwe iżraqha — distinzjoni teoloġika importanti"
+    }
+  ],
+  "translation": "U Fraggħun iżraq ⟨את⟩ qalbu, ukoll din id-darba, u ma bxatha lil ⟨את⟩ il-poplu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2b41ae9ffbb0c193e8273adccdd43d57e6474eaff4c86ce90d9580d3a5876035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/8\/25-28.1792599403933.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "U iżraq"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fraggħun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "din id-darba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bxatha lil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:16:43.934741454Z",
+  "model": "glm-5.3"
+}

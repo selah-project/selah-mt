@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "H854 preposizzjonali 'miegħek', mhux l-את markatur tal-oġġett; il-glossa żżomm il-marka strutturali."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Binja",
+      "rationale": "Appell diretta tal-għalliem lill-iben — saħta personali."
+    },
+    {
+      "kind": "you",
+      "subject": "Binja",
+      "rationale": "Indirizz dirett lill-iben (l-istudent)."
+    }
+  ],
+  "translation": "Binja, jekk tieħu l-kliem tiegħi, u l-ordnijiet tiegħi taħbihom miegħek ⟨את⟩,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/2\/1-4.1792618370334.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Binja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tieħu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "l-kliem tiegħi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "u l-ordnijiet tiegħi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "taħbihom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "miegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:50.334504715Z",
+  "model": "glm-5.3"
+}

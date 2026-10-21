@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוללים\/תהולו",
+      "rationale": "għerq wieħed għal darbtejn — dawk li jitħawwdu, la titħawwdux; il-logħoba tal-ħoss tibqa' ħajja fit-traduzzjoni"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-Malti jeħtieġ 'lil' mal-oġġett dirett 'qarn', m'hemmx fl-Lhudi"
+    }
+  ],
+  "translation": "Għidt lil dawk li jitħawwdu: la titħawwdux; u lill-ħżiena: la terrmux ⟨lil⟩ qarn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/75\/5-8.1792617522061.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "lil dawk li jitħawwdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "titħawwdux"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "u lill-ħżiena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "termux"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "qarn"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:42.061807033Z",
+  "model": "glm-5.3"
+}

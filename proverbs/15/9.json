@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "twaħħax",
+      "rationale": "תועבה - ħaġa li twaħħax, mhux sempliċement 'ħtija'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדקה tibqa' tsedeq skont ir-regola, mhux 'ġustizzja' waħedha"
+    }
+  ],
+  "translation": "It-triq tal-ġħażil hi twaħħax għal Jaħwe, iżda lil min jippersegwixxa t-tsedeq hu jħobb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd3c3a8bf756aa82b3c35333be230c4b9ddceabda97912e5bb3cf5ccea08943b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/15\/9-12.1792618601434.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "twaħħax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "it-triq"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tal-ġħażil"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "jippersegwixxa"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "t-tsedeq"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "jħobb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:41.435122037Z",
+  "model": "glm-5.3"
+}

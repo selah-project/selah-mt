@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "għadd",
+      "rationale": "פקד hawn il-verb tal-ċensiment — għadd bir-reqqa"
+    }
+  ],
+  "translation": "U Moxe għadd kif ordna Jaħwe lil ⟨את⟩ lilu, ⟨את⟩ kull ewwel-twelid fost ulied Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec3b58f0efaa15f7743480dbd88ccc40bbb7774be75c254ea0d79269ebc2a599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/41-44.1792602376038.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "U Moxe għadd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu (il-Moxe nnifsu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull ewwel-twelid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ewwel-twelid"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "fost ulied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:16.039553561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-Eġittu (il-Fargħun)",
+      "rationale": "direct second-person address, 'u inti', to Egypt\/Pharaoh closing the lament"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨lil⟩",
+      "rationale": "Maltese direct-object marker supplied for the marked object of שכב"
+    }
+  ],
+  "translation": "U inti, f'nofs dawk mhux iċċirkonċiżi tkun miksur, u torqod ma' ⟨lil⟩ ⟨את⟩ dawk maqtul bis-sejf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82a00bd8dc6e7436d702f41df01bc06e25de963cad477db0beef8808b10cf47f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/32\/25-28.1792614985493.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "u inti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "dawk mhux iċċirkonċiżi"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "tkun miksur"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "u torqod ma'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawk maqtul bis-sejf"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "dawk maqtul"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bis-sejf"
+    }
+  ],
+  "timestamp": "2026-10-21T20:36:25.494576393Z",
+  "model": "glm-5.3"
+}

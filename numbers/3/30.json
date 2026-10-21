@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasi",
+      "rationale": "נשיא 'eżaltat, kap'; mhux 'prinċep' fis-sens ta' demażju"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi għandu frażi nominali bla kopula; l-iskop ġie mogħti bil-wisa' tal-istruttura"
+    }
+  ],
+  "translation": "U n-nasi tal-bet av tal-familji tal-Kehatit, Elitsafan iben Uzzi'el.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b9fb5e9aad0c57811342f153e0549f132c2f96e77fd06e83205015e17fa4efd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/29-32.1792602369873.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "u n-nasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tal-bet"
+    },
+    {
+      "surface": "אב",
+      "gloss": "av"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "tal-familji"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "tal-Kehatit"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elitsafan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzzi'el"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:09.875429540Z",
+  "model": "glm-5.3"
+}

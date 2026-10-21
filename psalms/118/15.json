@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "b'saħħtu",
+      "rationale": "עשה חיל is literally 'does wealth\/force\/valor' — an idiom for acting bravely; 'jagħmel b'saħħtu' renders the idiom, not the literal 'makes an army'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עשה",
+      "rationale": "Participle feminine 'doing' agreeing with 'right hand', though יד is feminine and ימין masculine — some editors read 'the right hand of Jaħwe does valiantly' as quoted speech of the tents."
+    }
+  ],
+  "translation": "Leħen ta' ferħ u ta' ħelsien fit-tined tal-ġusti: il-lemin ta' Jaħwe jagħmel b'saħħtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/118\/13-16.1792618017680.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ta' ferħ"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "u ta' ħelsien"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "fit-tined"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tal-ġusti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "il-lemin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'saħħtu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:57.681051529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Kopula miżjuda bil-Malti; il-Lhudi m'għandux"
+    },
+    {
+      "kind": "measurement",
+      "subject": "disgħa mija u tnax-il sena",
+      "rationale": "Għadd totali ta' snin ta' ħajjet Set"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שתים עשרה",
+      "rationale": "Il-Lhudi jgħid 'żewġ u għaxra' għal tnax-il; miġbur f'kelma waħda bil-Malti"
+    }
+  ],
+  "translation": "U kollha n-nhar ta' Set ⟨kienu》 disgħa mija u tnax-il sena, u miet.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/5\/5-8.1792597727132.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nhar ta'"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "u għaxra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "disgħa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "u miet"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:47.133749943Z",
+  "model": "glm-5.3"
+}

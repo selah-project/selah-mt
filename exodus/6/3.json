@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא נודעתי להם",
+      "rationale": "qari 1: 'ma kienx magħruf għalihom' l-Isem Jaħwe; qari 2 (Elohist): mhux li qatt ma ntuża, imma li ma kienx mfih fis-sens sħiħ tiegħu — il-patrijarki użawh (Ġen 15:7) milli jidher mingħajr ma kien jiftħuhom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נודעתי",
+      "rationale": "Nifħal verbu riflessiv 'nftħart \/ għext ruħi' sar passiv Malti 'kien magħruf'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "l-Isem Jaħwe",
+      "rationale": "l-ismijiet divti jiġu żvelati bil-mod: El Xaddaj lill-patrijarki, Jaħwe lil Moxe"
+    }
+  ],
+  "translation": "U dehert lil Avraham, lil Jitsħaq u lil Jagħaqov bħala El Xaddaj, iżda bl-ismi, Jaħwe, ma kienx magħruf għalihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d4cbb9ac5137aec885ef0950af196947ba9efecd2bd79ef8d6f43ddb6dde1385",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/6\/2-4.1792602103994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "U dehert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsħaq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "באל",
+      "gloss": "bħala El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Xaddaj"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "iżda bl-ismi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma… x"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "kienx magħruf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:43.996007494Z",
+  "model": "glm-5.3"
+}

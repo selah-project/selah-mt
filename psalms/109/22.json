@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "kopula miżjuda għal-Malti, l-Lhudi jgħid biss 'qalbi maħruġa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עני\/אביון",
+      "rationale": "żewġ sinonimi paralleli għall-fqir, stil poeżja Ebrajka"
+    }
+  ],
+  "translation": "Għax fqir u mitluġ bdej jien, u qalbi hija maħruġa ġo fija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/21-24.1792617939554.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fqir"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "u mitluġ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "u qalbi"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "maħruġa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ġo fija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:39.555494089Z",
+  "model": "glm-5.3"
+}

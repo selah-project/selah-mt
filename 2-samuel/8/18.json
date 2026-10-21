@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "qassisin",
+      "rationale": "כהנים: 'priests' vs KJV 'chief rulers' (from LXX archontes) vs BSB 'priestly leaders'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "artiklu Malti miżjud għal Kereti u Pleti, li bl-Ebrajk huma nomi proprji kollettivi"
+    }
+  ],
+  "translation": "U Benajahu bin Jehojada, il-Kereti u l-Pleti; u wlied David kienu qassisin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1b340bec61b02f1fa7f5a7a20a09e443a84ea2600d3f6a1be83f869ec45ec4f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/8\/18-18.1792623273911.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "u Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "il-Kereti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "il-Pleti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "u wlied"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "qassisin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:33.911864632Z",
+  "model": "glm-5.3"
+}

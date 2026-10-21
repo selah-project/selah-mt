@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "il-prefiss relattiv Malti 'li' jitilgħu barra, m'għandux ekwivalent eżatt"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-kelma",
+      "rationale": "l-artiklu miżjud bil-Malti għal דבar bl-ismijiet"
+    }
+  ],
+  "translation": "Ftakar ⟨il-kelma⟩ lil qaddek, fuqha inti bdejtni nittama.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/49-52.1792618040795.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨il-kelma⟩"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "lil qaddek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuqha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "bdejtni nittama"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:20.796212354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jehtiġha"
+    },
+    {
+      "kind": "elision",
+      "subject": "שמים dual",
+      "rationale": "Id-dual ta' semajjin ma jiġix mdawwar bil-Malti; 's-sema' bil-plural"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Iżrael",
+      "rationale": "Risposta diretta lill-mistoqsija tan-nazzjonijiet fil-vers 2"
+    }
+  ],
+  "translation": "Iżda Elohim tagħna ⟨hu⟩ fis-sema: kull ma ried għamel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c8637f92783e36695d30d9c479b9b684a75834573bea6a5fc2782dc1af30c8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/3-4.1792623850815.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Iżda Elohim tagħna"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "fis-sema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ried"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:10.815737590Z",
+  "model": "glm-5.3"
+}

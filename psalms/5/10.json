@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "'stabbli\/sħaħ' vs 'sincerità' (JPS) vs 'fedeltà' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qalbhom",
+      "rationale": "קרב literally 'l-ġewwifen, il-parti ta' ġewwa', mhux qalb biss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחליקון",
+      "rationale": "għerq חלק 'lixx': ilsien lixx = kliem foloz; il-maħbubija tal-ħoss titlef ftit"
+    }
+  ],
+  "translation": "Għax ma hemmx sħaħ f'ħalqhom, qalbhom qerq, oħxon tagħhom qabar miftuħ, bi lsienhom jagħmluh lixx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/5\/9-12.1792616511618.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemmx"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "f'ħalqhom"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "sħaħ"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "qalbhom"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "qerq"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabar"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "miftuħ"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "oħxon tagħhom"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lsienhom"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "jagħmluh lixx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:51.619554369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעו",
+      "rationale": "għerq wieħed רשע darbtejn fil-vers — il-Malti żamm 'ħażin\/ħżiena'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בל תמצא",
+      "rationale": "yaqra 'ma ssibx (għad hemm)' jew 'ma ssib xejn (tħassret)' — il-kontest tal-psalm jaqbel mat-tieni"
+    },
+    {
+      "kind": "hapax",
+      "subject": "id-dirgħajn",
+      "rationale": "זרוע b'dual — Lhudi għandu żewġ dirgħajn; il-Malti 'dirgħajn' diġà dual fih innifsu"
+    }
+  ],
+  "translation": "Kisir id-dirgħajn tal-ħażin u l-ħażin ħafif; itlob kont ta' ħżiena, imma ma ssib xejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/13-16.1792616516127.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Kisir"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "id-dirgħajn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tal-ħażin"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "u l-ħażin ħafif"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "itlob kont"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ta' ħżiena"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ssib xejn"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:56.128000879Z",
+  "model": "glm-5.3"
+}

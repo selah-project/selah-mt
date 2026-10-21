@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ejjew ħdejni",
+      "rationale": "Imperattiv ta' Eliaħu lil kul il-poplu fuq il-Karmel"
+    },
+    {
+      "kind": "you",
+      "subject": "lil il-poplu",
+      "rationale": "Indirizz dirett lil poplu Jisrael miġbur"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sewwa",
+      "rationale": "וירפא fil-fatt huwa 'fejjaq\/saħħaħ' --- verba medika applikata għall-artal"
+    }
+  ],
+  "translation": "U Eliaħu qal lil il-poplu kollu: Ejjew ħdejni. U il-poplu kollu ġie ħdejh. U sewwa ⟨את⟩ l-artal ta' Jaħwe, li kien imwaqqa'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/18\/29-32.1792609891820.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaħu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lil kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ejjew ħdejni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ħdejni"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ġie ħdejh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ħdejh"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "sewwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "imwaqqa'"
+    }
+  ],
+  "timestamp": "2026-10-21T19:11:31.821816007Z",
+  "model": "glm-5.3"
+}

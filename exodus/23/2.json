@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רבים \/ רב",
+      "rationale": "same consonants, two words: rabbim (many) vs riv (lawsuit) — the sound-pun is lost in Maltese"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנטת",
+      "rationale": "'to turn aside after many' — some read the object as the judge himself turning, others as causing others to turn (niphil\/hiphil of נטה)"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Qari",
+      "rationale": "apodictic legal instruction addressed directly to Israel"
+    }
+  ],
+  "translation": "La tkunx wara ħafna biex tagħmel il-ħażin, u la twiegħeb fi tilwima biex tinżel wara ħafna u tgħawweġ id-dritt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f3badf8e5858693bdd1a4d8c4043bae967bec175131ef8d7a5088be377042638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/2-4.1792602242574.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkunx"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "biex tagħmel il-ħażin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "twiegħeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "fi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tilwima"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "biex tinżel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "u tgħawweġ id-dritt"
+    }
+  ],
+  "timestamp": "2026-10-21T17:04:02.575318855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "meta",
+      "rationale": "il-verb Lhudi jqiegħed לך לבדך fl-ewwel post; il-Malti jżid 'meta' biex iċċarġja l-ġudizzju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bla ħataf",
+      "rationale": "תזכה litteralment 'tkun safi\/trasparenti' — l-idea ta'不知道 żgurità forensika."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jaħwe",
+      "rationale": "indirizz diretta lejn Alla, it-talba tal-psalm."
+    }
+  ],
+  "translation": "Lilek, lilek waħdek dnibt, u l-ħażin għamiltek f'għajnejk, biex tkun ġust fil-kliem tiegħek, u bla ħataf meta taħkem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/51\/5-8.1792617138078.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "lilek waħdek"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dnibt"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "u l-ħażin"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "f'għajnejk"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "għamiltek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tkun ġust"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "fil-kliem tiegħek"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "bla ħataf"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "meta taħkiem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:18.079609515Z",
+  "model": "glm-5.3"
+}

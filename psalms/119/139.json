@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Qatgħetni",
+      "rationale": "צמת ifisser 'teqred għal kollox'; KJV 'consumed me', JPS 'undone me'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "qilla\/għedewwa",
+      "rationale": "L-attakk tal-qilla kontra dawk li jinsu l-kelma jiffurmaw kuntrast retoriku fil-vers."
+    }
+  ],
+  "translation": "Qatgħetni bil-qilla tiegħi, għax jinsew il-kelmain tiegħek l-għedewwa tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/137-140.1792618085339.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "Qatgħetni"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "bil-qilla tiegħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "jinsew"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "il-kelmain tiegħek"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "l-għedewwa tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:05.339893884Z",
+  "model": "glm-5.3"
+}

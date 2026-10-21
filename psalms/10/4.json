@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wiċċu",
+      "rationale": "אף litteralment 'moħħ \/ mnifru', hawn wiċċ u kurżitá"
+    },
+    {
+      "kind": "crux",
+      "subject": "כל מזמותיו",
+      "rationale": "'Elohim m'hu f'ċerti mill-pjanti tiegħu' (KJV) kontra 'kull pjanti tiegħu jgħidu: ma hemmx Elohim' (JPS)"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ma jfittex lil Elohim",
+      "rationale": "l-għamja tal-ħażin — ma jidhirx lilu l-Ħaħwe"
+    }
+  ],
+  "translation": "Il-ħażin, bit-turija ta' wiċċu, ma jfittex ⟨lil⟩ Elohim; f'ċerti mill-pjanti tiegħu m'hemm ⟨l-ebda⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/1-4.1792616578615.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Il-ħażin"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "bit-turija"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ta' wiċċu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "jfittex"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "f'ċerti"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "mill-pjanti tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:58.616528647Z",
+  "model": "glm-5.3"
+}

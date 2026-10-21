@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש is throat\/breath\/life-force, not the immortal 'ruħ' in the later sense — 'sins against his own life'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Maltese requires a copula where the Hebrew juxtaposes"
+    }
+  ],
+  "translation": "Għajt ta' iljun żgħir ⟨hija⟩ t-tterrori ta' sultan; min jaqbeż fuqu jiddeni ⟨lil⟩ ruħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/20\/1-4.1792618755484.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "għajt ta'"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "iljun żgħir"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "t-tterrori ta'"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "min jaqbeż fuqu"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "jiddeni"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ruħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:39:15.485543103Z",
+  "model": "glm-5.3"
+}

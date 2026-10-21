@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה tittraduċi Tora, mhux 'liġi' waħedha, skont id-dokument D2"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ibni",
+      "rationale": "Appell dirett ta' missier lil ibnu, l-ilmien tal-fehim"
+    },
+    {
+      "kind": "you",
+      "subject": "ibni",
+      "rationale": "Indirizz dirett lis-sid tal-fehim"
+    }
+  ],
+  "translation": "Ibni, Tora tiegħi tinsitha le, u l-mitzvot tiegħi ħarishom fis-sortna ta' qalbek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/3\/1-4.1792618375369.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ibni"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora tiegħi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tinsitha"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "u l-mitzvot tiegħi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ħarishom"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "fis-sor tn a ta' qalbek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:55.369550956Z",
+  "model": "glm-5.3"
+}

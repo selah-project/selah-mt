@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "subject of תצמיח",
+      "rationale": "Hebrew leaves the subject (the ground, from v.17) implicit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קוץ ודרדר",
+      "rationale": "doubling of near-synonymous thorn-words, alliterative pair"
+    }
+  ],
+  "translation": "U ħoxnx u xoxni tat-tajra thaddanlek, u tiekol ⟨את⟩ l-imħarbat tar-ramla.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "09b99825ec0c8eab4776824cbc610e2b3ed99b96b222c520c4ee47f979ba17ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/3\/18-20.1792602118104.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ħoxnx"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "xoxni tat-tajra"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "thaddanlek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "tiekol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-imħarbat"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "imħarbat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tar-ramla"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:58.105517563Z",
+  "model": "glm-5.3"
+}

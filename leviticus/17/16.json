@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jġorr il-ħtija",
+      "rationale": "נשא עון: litteralment 'iġorr il-perversità tagħha' — idjom Ebrajk għal jieħu l-konsegwenza tal-ħtija"
+    },
+    {
+      "kind": "elision",
+      "subject": "fl-ilma",
+      "rationale": "f'dan il-vers l-ilma mhux msemmi; miżjud biex jorbot mal-vers ta' qabel, iżda l-Lhudi jgħid biss 'la ġismu ma jaħselx'"
+    }
+  ],
+  "translation": "U jekk ma jaħselx u la ġismu ma jaħselx fl-ilma, u jġorr il-ħtija tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "012ffa31a756ea90767be08992b5959d76502e403b46786b9dbaeb0d6bc63ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/17\/14-16.1792602309428.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "U jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "jaħselx"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "la ġismu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "jaħselx"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "u jġorr"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "il-ħtija tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:09.430323603Z",
+  "model": "glm-5.3"
+}

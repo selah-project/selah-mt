@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפריון",
+      "rationale": "Kelma li tiffrekwenta darba biss fit-Tanakh; probabbilment siġġu purċissjoni (palanquin) misluq mill-Grieg"
+    },
+    {
+      "kind": "crux",
+      "subject": "appirjun",
+      "rationale": "KJV 'chariot' vs JPS\/ASV 'palanquin' vs Geneva 'palace'; il-kuntest (3:7-8, gassass bil-xwabel) jirċievi l-palanċin"
+    }
+  ],
+  "translation": "Appirjun (siġġu purċissjoni) għamel għalih ir-re Xelomo, mill-injam tal-Lvanon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/9-11.1792619920986.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "Appirjun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xelomo"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "mill-injam"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "tal-Lvanon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:40.986461884Z",
+  "model": "glm-5.3"
+}

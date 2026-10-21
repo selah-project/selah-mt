@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ċoss",
+      "rationale": "ירק tfisser il-kulur aħdar tal-pjanti żgħar; 'ħaxix aħdar' jew 'ċoss' — il-ħaxix ingħata qabel (1:29)"
+    },
+    {
+      "kind": "addition",
+      "subject": "għalikom",
+      "rationale": "בנפשו ma jinsabx hawn; xejn miżjud apparti pronomi meħtieġa"
+    }
+  ],
+  "translation": "Kull ħaġa li titkaxkar u għadha ħajja tkun għalikom għall-ikel; bħaċ-ċoss tal-ħaxix ħadt għalikom ⟨את⟩ lil kollox.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/9\/1-4.1792597830826.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kull"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ħaġa li titkaxkar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hi⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "għall-ikel"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "bħaċ-ċoss"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tal-ħaxix"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ħadt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil kollox"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lil kollox"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:30.827579722Z",
+  "model": "glm-5.3"
+}

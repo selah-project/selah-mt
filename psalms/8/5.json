@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-mortali",
+      "rationale": "אנושħ tfisser mortal, mhux sempliċement 'bniedem' bħala גבר"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tżurah",
+      "rationale": "תפקדנו jista' jkun ukoll 'tikkontah\/tiġborh fil-għadd', il-paqad spiss għadd"
+    }
+  ],
+  "translation": "X'inhu l-mortali, li tiftakrah? U iben adam, li tżurah?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/5-8.1792616510104.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "X'inhu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "l-mortali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "tiftakrah"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "U iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "tżurah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:50.104463970Z",
+  "model": "glm-5.3"
+}

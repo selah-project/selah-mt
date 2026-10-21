@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ħudu minn fosterkom truma",
+      "rationale": "Imperattiv li jsejjaħ lill-istorrikun biex jġib offerta volontarja"
+    },
+    {
+      "kind": "elision",
+      "subject": "נדיב לבו",
+      "rationale": "Lhudi litteralment 'ġeneruż ta' qalbu' — 'wieħed' miżjud bil-Malti biex il-frasa tkun ċara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחשת",
+      "rationale": "Ram\/ħadid fiż-żmien ta' Może, mhux 'bronż'; 'ram' huwa l-aktar qarib ta' נחשת"
+    }
+  ],
+  "translation": "Ħudu ⟨את⟩ minn fosterkom truma għal Jaħwe; kull wieħed ta' qalb ġeneruża jġibha, ⟨את⟩ truma Jaħwe: deheb u fidda u ram",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/35\/5-8.1792600106558.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Ħudu"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "minn fosterkom ⟨את⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "truma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ta' qalb ġeneruża"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "jġibha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "truma Jaħwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "truma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "u fidda"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "u ram"
+    }
+  ],
+  "timestamp": "2026-10-21T16:28:26.558738954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "KJV: 'qalbi qal Lilek' — l-għan ta' לך; JPS uħud jaqraw l-imperattiv bħala kliem ta' Alla lill-bniedem"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-pronom fil-verb Lhudi biċ-ċaħda tal-istorik; miżjud biex il-Malti jisma'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקשו\/אבקש",
+      "rationale": "l-istess għerq בקש ftit mill-bidu sal-tmiem — talba u risposta fl-istess kelma"
+    }
+  ],
+  "translation": "Lilek qal qalbi: Fittxu wiċċi; ⟨את⟩ wiċċek, Jaħwe, jien infittex.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/27\/5-8.1792616855044.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Lilek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Fittxu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiċċek"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "infittex"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:35.045224639Z",
+  "model": "glm-5.3"
+}

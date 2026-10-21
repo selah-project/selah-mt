@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יברך x3",
+      "rationale": "il-verb 'ibierek' imtenni tliet darbiet — ħila retorika tal-istorzju"
+    },
+    {
+      "kind": "addition",
+      "subject": "id-dar",
+      "rationale": "l-artiklu Malti miżjud għax il-kostrutt Hebrew בית ישראל ma jġorr arti�klu"
+    }
+  ],
+  "translation": "Jaħwe ftakar fina; ibierek, ibierek ⟨את⟩ id-dar ta' Jisrael, ibierek ⟨את⟩ id-dar ta' Aharon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/9-12.1792617949121.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "ftakar fina"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ibierek"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ibierek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar ta' Jisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ibierek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar ta' Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ta' Aharon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:49.122440103Z",
+  "model": "glm-5.3"
+}

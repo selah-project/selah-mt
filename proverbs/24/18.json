@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 24:18",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-ġibda",
+      "rationale": "אף litteralment huwa mnifir\/wiċċ — l-anger huwa l-mnifir li jħammġ; ingħata b' figurattiv."
+    },
+    {
+      "kind": "addition",
+      "subject": "tieghu",
+      "rationale": "Suffiss possessiv miżjud biex jirramaw il-ġibda ma' Jaħwe kif jixhed is-suffiss אפו."
+    },
+    {
+      "kind": "crux",
+      "subject": "minn fuqu",
+      "rationale": "מעליו: jaqbel l-aktar ma' YLT — Jaħwe jwarrab il-ġibda minn fuq il-ħati; verżjonijiet qodma jaqrlha bħala minn fuq il-għadu (li t-tortur tiegħu jieqaf)."
+    }
+  ],
+  "translation": "biex ma jkunux Jaħwe jara, u jidher ħażin f'għajnejh, u jwarrab minn fuqu l-ġibda tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "059be322f064815aca8bbfbaf04daf006c053cf00d32f6c88eb372c06a51d87c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/24\/17-20.1792618891200.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "jkunux... jara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "jidher ħażin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejh"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "jwarrab"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "minn fuqu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "l-ġibda tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:31.201492810Z",
+  "model": "glm-5.3"
+}

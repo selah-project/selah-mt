@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "'Juri l-ħaqq\/jikkonvinċi' (KJV 'convinced') vs 'jikkastiga' — jiddependi kif tqis l-għerq יכח fil-kuntest."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתבונן",
+      "rationale": "Fil-Lhudi l-parteċipa ta' בין thessir bil-kif mistoqri — ħa biss l-għarfien qabel ma tkellem."
+    }
+  ],
+  "translation": "U sa minnkom kont naħseb, u ara, ma hemmx min juri l-ħaqq lil Ijob, min jwieġeb il-kliem tiegħu minn fostkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/32\/9-12.1792619663860.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "U sa minnkom"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "kont naħseb"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemmx"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "lil Ijob"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "min juri l-ħaqq"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "min jwieġeb"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "il-kliem tiegħu"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "minn fostkom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:23.861067538Z",
+  "model": "glm-5.3"
+}

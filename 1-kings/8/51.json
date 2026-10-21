@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "forn il-ħadid",
+      "rationale": "כור הברזל stamp ta' tmexxija ta' skjavi; Miċna 4:10 juża l-istess stampa"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "l-għerq הם jeżisti fil-Lhudi imma jinsab qabel; l-ordni Maltija tilbes 'huma' wara s-sustantivi — il-parentesi tagħtih l-ordni naturali"
+    }
+  ],
+  "translation": "Għax ⟨huma⟩ ġens tiegħek u wiriet tiegħek, li ħriġt mill-Mitsrajim, min-nofs ta' forn il-ħadid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/49-52.1792609547243.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ġens tiegħek"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "u wiriet tiegħek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "ħriġt"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mill-Mitsrajim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "min-nofs"
+    },
+    {
+      "surface": "כור",
+      "gloss": "ta' forn"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il-ħadid"
+    }
+  ],
+  "timestamp": "2026-10-21T19:05:47.244244556Z",
+  "model": "glm-5.3"
+}

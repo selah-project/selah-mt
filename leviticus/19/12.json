@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחללת",
+      "rationale": "verb form is 2ms singular against plural תשבעו; rendered as continuation of the prohibition"
+    },
+    {
+      "kind": "you",
+      "subject": "israel",
+      "rationale": "plural address; the Isem-formula 'Jien Jaħwe' seals the command"
+    }
+  ],
+  "translation": "U ma tilfgux ħalf f'Ismi għal gideb, u ma tiddissakrax ⟨את⟩ Isem Elohim tiegħek; Jien Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/9-12.1792600919579.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "tilfgux ħalf"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "f'Ismi"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "għal gideb"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "u ma tiddissakrax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isem Elohim tiegħek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Isem"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:59.580812486Z",
+  "model": "glm-5.3"
+}

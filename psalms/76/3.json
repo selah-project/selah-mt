@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "'u kien' introduttiv Malti joħroġ tqil; it-traduzzjoni ħallieth barra imma l-glossa tibqaha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "xattru",
+      "rationale": "סוך ה huwa għarix minn friegħi mdewwbin — 'xattru' iżomm id-daqs żgħir u t-temporarjetà, mhux 'tempju'."
+    },
+    {
+      "kind": "crux",
+      "subject": "Salem",
+      "rationale": "שלם: jew l-isem antik ta' Jeruxalajim (Ġen 14:18) jew qari ta' 'paċi' (šalom); il-biċċa l-kbira tat-tradutturi jippreferu l-post."
+    }
+  ],
+  "translation": "U f'Salem xattru, u l-għar kenn tiegħu f'Sjon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/76\/1-4.1792617468250.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "f'Salem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "xattru"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "u l-għar kenn tiegħu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "f'Sjon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:48.251166506Z",
+  "model": "glm-5.3"
+}

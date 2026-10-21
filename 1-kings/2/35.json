@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poġġa",
+      "rationale": "נתן literally 'ta'; hawn tfisser ħattra f'post ħaddieħor"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתן...נתן",
+      "rationale": "l-għerq natan jidher darbtejn fil-vers, qalb il-paralleliżmu"
+    }
+  ],
+  "translation": "U r-re poġġa lil ⟨את⟩ Benajahu bin Jehojada minfloku fuq l-eżerċtu; u lil ⟨את⟩ Tsadok il-qassis r-re poġġieh minn flok Ewjatar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/2\/33-36.1792609315403.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "minfloku"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l-eżerċtu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lil Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "poġġieh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "minn flok"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ewjatar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:01:55.404056214Z",
+  "model": "glm-5.3"
+}

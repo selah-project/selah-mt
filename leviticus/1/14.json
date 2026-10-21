@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tkun",
+      "rationale": "il-Malti jeħtieġ kopula fil-klawżola kondizzjonali; il-Lhudi ma għandux"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרבן",
+      "rationale": "qorban tfisser 'dak li jiġi mressaq qrib'; Lhudi mressaq bil-Malti bħala 'offerta'"
+    }
+  ],
+  "translation": "U jekk l-offerta ta' olosta tiegħu lil Jaħwe tkun mill-għasafar, iġib l-offerta tiegħu mill-ħamiem tar-ringo jew minn wlied il-ħamiema ⟨את⟩ l-offerta tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/1\/13-16.1792600437951.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "l-għasafar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ta' olosta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "l-offerta tiegħu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "iġib"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "il-ħamiem tar-ringo"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "il-ħamiema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-offerta tiegħu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "l-offerta tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:57.952505008Z",
+  "model": "glm-5.3"
+}

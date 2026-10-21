@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija nifs\/ħajja-force, mhux ruħ immaterjali"
+    },
+    {
+      "kind": "you",
+      "subject": "għal Jisrael",
+      "rationale": "il-vers jirriferi għal 'aħna' — il-komunità tal-qima li tkellem"
+    }
+  ],
+  "translation": "In-nifs tagħna stenniet lil Jaħwe; hu għajnuna tagħna u tarka tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/33\/17-20.1792616824160.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "In-nifs tagħna"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "stenniet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "għajnuna tagħna"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "u tarka tagħna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:04.161646310Z",
+  "model": "glm-5.3"
+}

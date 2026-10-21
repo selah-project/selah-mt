@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jiftakar",
+      "rationale": "בטח tfisser 'jista' kenn\/jagħti ruħu' — 'jiftakar' huwa qrib iżda aktar dgħajf; 'jista' fihom' possibil"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמוהם\/בהם",
+      "rationale": "repetizzjoni ta' 'fihom\/bħalhom' — l-idoli u dawk li jagħmluhom jinqabżu"
+    }
+  ],
+  "translation": "Bħalhom ikunu dawk li jagħmluhom, kulmin jiftakar fihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/135\/17-20.1792618195600.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Bħalhom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ikunu"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "dawk li jagħmluhom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulmin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "jiftakar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fihom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:55.601589150Z",
+  "model": "glm-5.3"
+}

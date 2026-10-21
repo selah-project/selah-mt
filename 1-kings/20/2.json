@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lejn il-belt",
+      "rationale": "העירה hija suffiss direzzjonali ('lejn il-belt'), mhux sempliċiment 'fil-belt'."
+    }
+  ],
+  "translation": "U bagħat mibgħutin għand Aħab, sultan ta' Jisrael, lejn il-belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/20\/1-4.1792609987047.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "U bagħat"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mibgħutin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aħab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "lejn il-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T19:13:07.048567007Z",
+  "model": "glm-5.3"
+}

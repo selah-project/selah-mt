@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "Amen mirdup, konferma solenni doppja li tagħlaq it-Tieni Ktieb tas-Salmi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebħ",
+      "rationale": "כבוד tfisser 'piż, tqil'; 'sebħ' Malti jaqbeż il-metafora tal-piż."
+    }
+  ],
+  "translation": "U mibruk isem is-sebħ tiegħu għal dejjem, u jimita s-sebħ tiegħu ⟨את⟩ l-art kollha. Amen, u amen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/17-20.1792617440778.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "U mibruk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "is-sebħ tiegħu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "u jimita"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "is-sebħ tiegħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "u amen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:20.778887600Z",
+  "model": "glm-5.3"
+}

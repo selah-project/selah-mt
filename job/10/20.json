@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨int⟩",
+      "rationale": "l-imperattiv Malti jeħtieġ suġġett mehmuż biex ikun ċar lil min jitkellem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nieħu paċi",
+      "rationale": "בלג jfisser 'inberrek, insir ċar'; il-Malti juża espressjoni ta' paċi"
+    }
+  ],
+  "translation": "Jiemij mhux ftit? Ieqaf ⟨int⟩, u aħtarni minn quddiemek, biex jien nieħu ftit paċi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "369b000957795c8fab06e2a94e16ab01c6a3fff6b29b261c8b987703cace53a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/10\/17-20.1792619232311.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ftit"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Jiemij"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Ieqaf"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "aħtarni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minn quddiemek"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "u nieħu paċi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ftit"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:12.312417565Z",
+  "model": "glm-5.3"
+}

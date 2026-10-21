@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משור אבוס",
+      "rationale": "'an ox of stall\/fattening' — KJV 'stalled ox', others 'fattened ox'; משור is a rare word, possibly a travelling or stalled ox."
+    },
+    {
+      "kind": "alternative",
+      "subject": "a fattened ox",
+      "rationale": "אבוס can be a participle ('fattened') or a noun ('stall'), hence 'an ox in its stall'."
+    }
+  ],
+  "translation": "A meal of herbs and love ⟨there⟩, better than a fattened ox and hatred in it.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/15\/17-20.1792618637830.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "better"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "a meal of"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "herbs"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "and love"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "משור",
+      "gloss": "an ox"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "fattened"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "and hatred"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in it"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:17.831438074Z",
+  "model": "glm-5.3"
+}

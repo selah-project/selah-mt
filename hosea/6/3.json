@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħsara",
+      "rationale": "גשם huwa 'xita\/ħsara' — kelma waħda Maltija għal shower"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלקוש",
+      "rationale": "spring rain vs KJV 'latter and former rain' — hawn: xita tar-rebbiegħa"
+    }
+  ],
+  "translation": "U inroħħu, inpursu biex nafu ⟨את⟩ Jaħwe; bħad-dawl ta' filgħodu ħarġu jitħarreġ sewwa, u ġejilna bħal ħsara, bħal xita tar-rebbiegħa li tisqi l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/6\/1-4.1792615448253.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "U inroħħu"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "inpursu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "biex nafu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "bħad-dawl ta' filgħodu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "jitħarreġ sewwa"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ħarġu"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "u ġejilna"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "bħal ħsara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "bħal xita tar-rebbiegħa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "li tisqi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:08.254356109Z",
+  "model": "glm-5.3"
+}

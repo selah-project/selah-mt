@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "il-Malti jeħtieġ konġunzjoni finali għal לאמר hawn; il-Lhudi għandu infinitiv costrutt sempliċi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Hekk... Hekk",
+      "rationale": "ir-repetizzjoni ta' כה אמר... כה תאמרו tagħmel katena: il-kelma li Jirmija jisma' hija l-istess kelma li l-mibgħutin għandhom jirrepetu"
+    }
+  ],
+  "translation": "U ordna lilhom ⟨את⟩ għand is-sidien tagħhom, biex jgħidu: Hekk jgħid Jaħwe Tsebawot, Elohim ta' Jisrael: Hekk tgħidu lis-sidien tagħkom:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e57cb00699db0c7d0b7642f466d07c5229a707740e3111f2ea62fe8a2c70d62a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/27\/1-4.1792613149221.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "U ordna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lilhom (il-mibgħutin)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "is-sidien tagħhom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħidu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "tgħidu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "is-sidien tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:05:49.222496829Z",
+  "model": "glm-5.3"
+}

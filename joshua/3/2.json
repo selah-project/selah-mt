@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uffiċjali",
+      "rationale": "השטרים litteralment 'kittieba', uffiċjali tal-poplu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tlett ijiem",
+      "rationale": "għadd ta' jiem qabel ma jaqbżu l-Ġordan"
+    }
+  ],
+  "translation": "U ġara fi tmiem tlett ijiem li l-uffiċjali għaddu f'nofs il-kamp.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b58ff96aa4d4e28db315986a8a884fa5805b72cda19685af79732fedef72288a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/3\/1-4.1792606292751.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ġara"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "fi tmiem"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "għaddu"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "l-uffiċjali"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    }
+  ],
+  "timestamp": "2026-10-21T18:11:32.752646578Z",
+  "model": "glm-5.3"
+}

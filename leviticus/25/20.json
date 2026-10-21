@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "tagħna",
+      "rationale": "it-taħriri parzjalment mitluf — il-verb 'nġibru' jolqot direttament lil ⟨את⟩ tal-ħsad"
+    },
+    {
+      "kind": "you",
+      "subject": "israel",
+      "rationale": "mistoqsija retorika indirizzata lil-Jisrael dwar is-sena s-seba' (Xabbat tal-art)"
+    }
+  ],
+  "translation": "U jekk tgħidu: X'nieklu fis-sena s-seba', ara, ma nzergħux u lanqas nġibru ⟨את⟩ tagħna?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/25\/17-20.1792601220363.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "tgħidu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nieklu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "fis-sena"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "is-seba'"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "nzergħux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "nġibru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħsad tagħna"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "il-ħsad tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:00.365068966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "id Jaħwe qasira",
+      "rationale": "id qasira = qawwa naqsa; il-Lhudi juża l-id għall-ħila"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "indirizz dirett ta' Jaħwe lil Moxe"
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "il-futur Malti jeħtieġ awżiljarju li ma hemmx fil-verb Lhudi"
+    }
+  ],
+  "translation": "U Jaħwe qal lil Moxe: Id Jaħwe qasira? Issa se tara jekk kliemi jiġrix għalik jew le.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/11\/21-24.1792602713359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "היד",
+      "gloss": "id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "qasira"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "se tara"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "jekk tiġri"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kliemi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-21T17:11:53.362308657Z",
+  "model": "glm-5.3"
+}

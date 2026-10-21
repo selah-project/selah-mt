@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדקה msemmi b'ħossu, mhux 'ġustizzja' waħedha — hawn 'dritt' li jitħalla f'idejn Jaħwe"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Mosè jkellem lil Jisrael direttament bil-plural 'lilna'\/'nħarsu'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "meta",
+      "rationale": "כי jista' jkun ukoll 'għaliex' jew 'jekk'; ntgħżlet 'meta' bħala konjizzjoni kondizzjonali bħal traduzzjonijiet antiki"
+    }
+  ],
+  "translation": "U tkun għalina tsedeq meta nħarsu biex nagħmlu ⟨את⟩ il-mitzva kollha din quddiem Jaħwe, Elohim tagħna, kif ħallilna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/6\/25-25.1792605405184.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "għalina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "nħarsu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "biex nagħmlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mitzva kollha din"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "il-mitzva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim tagħna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "ħallilna"
+    }
+  ],
+  "timestamp": "2026-10-21T17:56:45.184682893Z",
+  "model": "glm-5.3"
+}

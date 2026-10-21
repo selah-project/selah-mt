@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "appell dirett lil Jaħwe, tiftaħ taħen ta' talb personali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ġurnata għajjilt",
+      "rationale": "il-perfett Lhudi jittraduċi bħala passat jew preżenti intensiv; 'il-ġurnata' bil-Malti toħroġ l-għajdun ta' kuljum ta' יום"
+    }
+  ],
+  "translation": "Jaħwe, Elohim ta' nsibija tiegħi, il-ġurnata għajjilt, bil-lejl quddiemek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/88\/1-4.1792617642690.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "insibija tiegħi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "għajjilt"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "quddiemek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:42.691342548Z",
+  "model": "glm-5.3"
+}

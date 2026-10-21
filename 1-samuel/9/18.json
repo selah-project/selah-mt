@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħarej",
+      "rationale": "הראה huwa 'dak li jara' — seer; deher bħala 'il-viżjonarju' jew 'profeta' fil-verżjonijiet l-oħra."
+    },
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "gloss": "il-Malti jeħtieġ verbi 'hu\/hija' fil-mistoqsija fejn l-Lhudi ma għandux."
+    },
+    {
+      "kind": "invitation",
+      "subject": "mist-oqsija ta' Xaul",
+      "rationale": "Mistoqsija diretta b'imperattiv 'għidli' toldieret lis-seer."
+    }
+  ],
+  "translation": "U Xaul qarreb lejn ⟨את⟩ Xemuwel f'nofs il-bieb, u qal: Għidli, jekk jogħġbok, fejn hi dar il-ħarej?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/9\/17-20.1792607805088.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "qarreb"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "lejn ⟨את⟩",
+      "marks": "Xemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Xemuwel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "השער",
+      "gloss": "il-bieb"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Għid"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אי",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "il-ħarej"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:45.089306770Z",
+  "model": "glm-5.3"
+}

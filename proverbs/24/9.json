@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "abbominazzjoni",
+      "rationale": "תועבת tfisser litteralment 'ħaġa li tinstaħsel'; kelma wieħeda Maltija biss għaliha."
+    }
+  ],
+  "translation": "Ħsiba ta' ġħemejel hija ⟨ħatja⟩, u l-mistħziż huwa abbominazzjoni għall-bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b21460712d161e9e89f8a281b5510a3f7f667341911f77897cee5f8080547c25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/24\/9-12.1792618864522.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "ħsiba"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ta' ġħemejel"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ħatja"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "u abbominazzjoni"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "għall-bniedem"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "l-mistħziż"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:04.523269336Z",
+  "model": "glm-5.3"
+}

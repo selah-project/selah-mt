@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Maltese requires 'indlu' (are defiled); the Hebrew is a verbless nominal clause."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהגה",
+      "rationale": "'jaġġgem' (mutters) for הגה, which can also mean 'to ponder' — the growling mutter of wrongdoing."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person plural accusation continuing from verse 2."
+    }
+  ],
+  "translation": "Għaliex idejkom indlu bid-demm, u s-subgħajkom bl-iniquità; xofftejn tkellmu gidba, u lsienkom jaġġgem inġustizzja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ff80ad73b0dd1b463344e74804cb08be0f0b4cdc65f7939db938aad2f69d2b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/59\/2-3.1792623559895.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "idejkom"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "bid-demm"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "u s-subgħajkom"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "bl-iniquità"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "xofftejn"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tkellmu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gidba"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "lsienkom"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "inġustizzja"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "jaġġgem"
+    }
+  ],
+  "timestamp": "2026-10-21T22:59:19.896349297Z",
+  "model": "glm-5.3"
+}

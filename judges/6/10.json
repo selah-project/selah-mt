@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהי tal-Emorri miktub bil-plural bħall-Lhudi; il-kelma żgħira għall-idoli skont D1"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Israel",
+      "rationale": "il-profeta jkellem lil Israel b'laqgħa direta"
+    }
+  ],
+  "translation": "u għidtilkom: Jien Jaħwe, Elohim tagħkom; tobogħdux ⟨את⟩ l-allat tal-Emorri li intom qegħdin fl-art tagħhom; imma intom ma smajtux lil leħni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4f2ab91242b7114e31a0aa425d0ec7abef2e78b9f414e23d4ebc6fc4725fb8b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/6\/9-12.1792607053806.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "u għidt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "l=kom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tobogħdu=x"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-allat tal-Emorri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l-allat"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "tal-Emorri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "qegħdin"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "fl-art tagħhom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "imma ma"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "smajtux"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "lil leħn=i"
+    }
+  ],
+  "timestamp": "2026-10-21T18:24:13.807380777Z",
+  "model": "glm-5.3"
+}

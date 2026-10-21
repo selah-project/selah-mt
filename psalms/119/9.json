@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "question",
+      "rationale": "Il-vers jiftaħ b'mistoqsija retorika li tsejjjaħ lill-qarrej"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "acrostic",
+      "rationale": "Kull vers ta' Salmu 119 jibda b'ittra tal-alfablst—dan il-qasam jibda bl-ittra Bet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "żagħżugħ",
+      "rationale": "נער jfisser tfal tfal minn żgħożija sa eżil—il-forma iżgħar tfisser 'taż-żgħożija'"
+    }
+  ],
+  "translation": "B'x'inu jnaddaf żagħżugħ ⟨את⟩ it-triq tiegħu? Billi jżommha skont kliemek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/9-12.1792618044994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "B'x'inu"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "jnaddaf"
+    },
+    {
+      "surface": "נער",
+      "gloss": "żagħżugħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-triq tiegħu"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "it-triq tiegħu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "jżommha"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "skont kliemek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:24.995300800Z",
+  "model": "glm-5.3"
+}

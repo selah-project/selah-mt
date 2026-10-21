@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "borra",
+      "rationale": "כשלג hija l-borra (sema' abjad, prezzjuż f'ħsibijiet oħra); hawn l-anomalija hija borra fis-sajf."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקיץ\/בקציר",
+      "rationale": "illiterazzjoni bejn il-żewġ frażijiet qasira (baqajjitz\/qaṣir), ritmu ta' sentenza"
+    }
+  ],
+  "translation": "Bħal borra fis-sajf, u bħal xita fil-ħsad, hekk l-unur ma jaqbix lil blaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/26\/1-4.1792618920320.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "bħal borra"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "fis-sajf"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "u bħal xita"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "fil-ħsad"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... jaqbix"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "jaqbi"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "lil blaħ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "l-unur"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:00.321001093Z",
+  "model": "glm-5.3"
+}

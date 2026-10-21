@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "imperattivi plurali b'seba' diretta lill-poplu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקדשכם",
+      "rationale": "il-partiċipju 'li nqaddiskom' jagħlaq iċ-ċirku tal-għerq קדש miftuħ fil-vers 7"
+    }
+  ],
+  "translation": "U żommu ⟨את⟩ l-ordnijiet tiegħi u agħmlu ⟨אתם⟩hom; jien Jaħwe li nqaddiskom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/5-8.1792601089961.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "u żommu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ordnijiet tiegħi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "l-ordnijiet tiegħi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "u agħmlu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "hom (l-ordnijiet)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "li nqaddiskom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:49.963962940Z",
+  "model": "glm-5.3"
+}

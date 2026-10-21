@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ kopula; il-Lhudi ma għandu xejn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "susnejja",
+      "rationale": "שדי huwa dual ta' sid; il-Malti żżomm it-tnejn bi 'nejja'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-ħabib",
+      "rationale": "il-voċja femminili tikkantaw direttament dwar l-għażiż tagħha"
+    }
+  ],
+  "translation": "Sarża tal-mor huwa ħabibi għalija; bejn susnejja joqgħod bil-lejl.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/1\/13-16.1792619865911.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "sarża"
+    },
+    {
+      "surface": "המר",
+      "gloss": "tal-mor"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ħabibi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "susnejja"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "joqgħod bil-lejl"
+    }
+  ],
+  "timestamp": "2026-10-21T21:57:45.912347034Z",
+  "model": "glm-5.3"
+}

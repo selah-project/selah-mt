@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ngħajjuntek",
+      "rationale": "אאזרך literally 'nżaqqek\/nsawwark bil-passa' (I gird you); 'ngħin' jitilfel ix-xbieha tal-ġwienaħ tal-ħarrier"
+    },
+    {
+      "kind": "crux",
+      "subject": "though thou hast not known me",
+      "rationale": "ולא ידעתנi: 'għalkemm ma tafnix' kontra 'u inti ma tafnix' — l-ebda konċessjoni fl-Ebrajk"
+    },
+    {
+      "kind": "you",
+      "subject": "to Koresh",
+      "rationale": "Jaħwe jkellem ma' Koresx direttament, għalkemm dan ma jafhux"
+    }
+  ],
+  "translation": "Jien Jaħwe, u m'hemmx iktar; barra minni m'hemmx Elohim; ngħajjuntek, għalkemm inti ma tafnix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/45\/5-8.1792611843981.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "barra minni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ngħajjuntek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "għalkemm ma"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tafnix"
+    }
+  ],
+  "timestamp": "2026-10-21T19:44:03.984356656Z",
+  "model": "glm-5.3"
+}

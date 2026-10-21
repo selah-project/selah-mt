@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "Hebrew has only 'to him Sokoh'; the verb of possession is supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ħesed",
+      "rationale": "The name Ben-Ħesed contains the word ħesed, kept in its Hebrew shape rather than translated."
+    }
+  ],
+  "translation": "Ben-Ħesed, f'Arubbot; lilu ⟨kienet⟩ s-Soko u l-art kollha ta' Ħefer.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/4\/9-12.1792609307653.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Ħesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "f'Arubbot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "is-Soko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-art kollha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Ħefer"
+    }
+  ],
+  "timestamp": "2026-10-21T19:01:47.654364220Z",
+  "model": "glm-5.3"
+}

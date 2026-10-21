@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "inħares lejn ḥuqqieqek",
+      "rationale": "שעה qabel hija 'tħares lejn għall-għajnuna'; here għażel il-qari tal-KJV 'irrispetta' milli 'taħseb fihom'"
+    },
+    {
+      "kind": "addition",
+      "subject": "qiegħed",
+      "rationale": "il-Malti jeħtieġ下属 verbi; Lhudi għandu verb wieħed sempliċi — miżjud biex inħares lejn ikun preżenti komplu"
+    }
+  ],
+  "translation": "Saħħenni u nsalva, u nkun qiegħed inħares lejn ḥuqqieqek bla waqfien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/117-120.1792618075954.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Saħħenni"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "u nsalva"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "u nkun qiegħed inħares lejn"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ḥuqqieqek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bla waqfien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:55.955446560Z",
+  "model": "glm-5.3"
+}

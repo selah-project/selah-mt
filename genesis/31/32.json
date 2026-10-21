@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 31:32",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-verb fil-passat jeħtieġ 'kien' bil-Malti; l-Lhudi ולא ידע jgħid sempliċement 'u ma jaf'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ma jgħix",
+      "rationale": "Jagħaqov, bla ma jaf, jikkundanna lil martu Raħel bil-mewt — ironija narrattiva sħiħa fuq לא יחיה"
+    },
+    {
+      "kind": "you",
+      "subject": "il-ħelsien ta' Laban",
+      "rationale": "imperattivi דַּע הַכֵּר קַח indirizzati direttement lil Laban quddiem ix-xhieda"
+    }
+  ],
+  "translation": "Ma' min issib lil ⟨את⟩ l-allat tiegħek, ma jgħix; quddiem ħutna ħares għalik x'hemm għandi u ħu għalik. U Jagħaqov ma ⟨kien⟩x jaf li Raħel serqithom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/29-32.1792598601855.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "issib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-allat tiegħek"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-allat tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "jgħix"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ħutna"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ħares"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "u ħu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raħel"
+    },
+    {
+      "surface": "גנבתם",
+      "gloss": "serqithom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:03:21.856669049Z",
+  "model": "glm-5.3"
+}

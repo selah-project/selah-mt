@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "xejn",
+      "rationale": "il-Malti jrid oġġett ma' 'ma jiswew'; il-Lhudi jħalli l-ħlasja vojta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidqat",
+      "rationale": "צדקה skond ir-regola hija qrib ta' 'sidqat'\/'imġieba siewja'; 'ġustizzja' biss jitilfettex il-Lhudi"
+    }
+  ],
+  "translation": "Teżori ta' ħażien ma jiswew ⟨xejn⟩; iżda s-sidqat twarrab lil min għandha mill-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/1-4.1792618547404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "jiswew"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Teżori"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ta' ħażien"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "izda s-sidqat"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "twarrab lil min għandha"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mill-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:47.404635186Z",
+  "model": "glm-5.3"
+}

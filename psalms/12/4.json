@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "jaqta'",
+      "rationale": "יכרת jista' jkun talba ('ħaqq Jaħwe jaqta'') jew stqarrija futur; JPS jieħu bħala talba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kbirijiet",
+      "rationale": "גדלות literalment 'affarijiet kbar' — kliem kbir, vanaglorjuż; mhux neċessarjament 'kburin'."
+    }
+  ],
+  "translation": "Jaħwe jaqta' kull xoffajiet lixxin, lsien li jitkellem kbirijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/12\/1-4.1792616606753.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "jaqta'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "xoffajiet"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "lixxin"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lsien"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "li jitkellem"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "kbirijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:26.754929564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għaref",
+      "rationale": "ערום hu 'ħarif, keċċest' — 'għaref' jaqbeż lejn il-ħila pożittiva"
+    },
+    {
+      "kind": "addition",
+      "subject": "wieħed",
+      "rationale": "'wieħed' miżjud biex 'kull għaref' jixraq bil-Malti"
+    }
+  ],
+  "translation": "Kull wieħed għaref jaġġixxi bid-dehen, u l-istupit jifrex il-ħmerija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb6c3147f9e08a85b9bcee30626f8eea74e1c97f856cb57d264f358145ecd904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/13-16.1792618628509.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kull wieħed"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "għaref"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jaġġixxi"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "bid-dehen"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "u l-istupit"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "jifrex"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "il-ħmerija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:08.510288572Z",
+  "model": "glm-5.3"
+}

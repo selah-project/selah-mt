@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמה",
+      "rationale": "il-kelma tfisser 'ħrara\/bard'? le — sħana, rabja, hawn velenu; rreżjinha b''il-velenu' skont il-kuntest"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "bil-litterali 'ras' (ta' lifgħa), imma l-biċċa l-kbira tat-tradutturi jqisuh biss bħala velenu; żammejna l-istampa litterali 'ras'"
+    }
+  ],
+  "translation": "Il-velenu ta' wtied il-baħar huwa l-inbid tagħhom, u ras il-lifgħat, il-mortal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5cd132a49a5f455e0cd9e36b7c39cf6119d576ae15d496afa4af00ba5eb55fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/32\/33-36.1792606237649.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "il-velenu"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "ta' wtied il-baħar"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "l-inbid tagħhom"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "u ras"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "il-lifgħat"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "il-mortal"
+    }
+  ],
+  "timestamp": "2026-10-21T18:10:37.649652975Z",
+  "model": "glm-5.3"
+}

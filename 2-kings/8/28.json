@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tilflu",
+      "rationale": "ויכו litteralment 'laqtu'; 'tilfu' (ferit) huwa l-qari li jagħti s-segwitu tan-narrazzjoni"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (l-ewwel)",
+      "rationale": "hawn את huwa prepożizzjoni ('ma''), mhux il-marka tal-oġġett dirett"
+    }
+  ],
+  "translation": "U mar ⟨את⟩ ma' Joram bin Aħav għall-gwerra kontra Ħaza'el sultan Aram f'Rramot-Gilead, u l-Aramaj tilflu lil Joram.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1e6d01f25ad070e1a3059b6fc867f0b9c1b7b11749e3682c30e1d5d4afd4f71d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/28-28.1792623340187.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aħav"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "għall-gwerra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Ħaza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "f'Rramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "tilflu"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "l-Aramaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:40.188924386Z",
+  "model": "glm-5.3"
+}

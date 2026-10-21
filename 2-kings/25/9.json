@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kull dar kbira",
+      "rationale": "בית גדול: 'every great house' (buildings) vs 'every great man's house' (KJV\/JPS); the Hebrew says only 'great', with no word for man."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרף … שרף",
+      "rationale": "The verb 'burn' is repeated at start and end of the verse, an envelope structure around the list of houses."
+    }
+  ],
+  "translation": "U ħaraq ⟨את⟩ id-dar ta' Jaħwe, u ⟨את⟩ id-dar tas-sultan, u ⟨את⟩ id-djar kollha ta' Jeruxalajim, u ⟨את⟩ kull dar kbira ħaraq bin-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/9-12.1792610726175.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "U ħaraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-dar tas-sultan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-djar kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "id-djar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ta' Jeruxalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "kull dar kbira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ħaraq"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:26.176350984Z",
+  "model": "glm-5.3"
+}

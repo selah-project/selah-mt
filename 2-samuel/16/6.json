@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kienu⟩",
+      "rationale": "L-Lhudi m'għandux kopula; il-Malti jeħtieġha għas-sentenza nominattiva."
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-poplu u l-erojjiet",
+      "rationale": "Jista' jinqra wkoll bħala 'kollha kienu jixxaħħbu lil David' — il-Lhudi jgħid biss 'fuq il-lemin tiegħu u fuq ix-xellug tiegħu'."
+    }
+  ],
+  "translation": "U xatta' bil-ġebel ⟨את⟩ David u ⟨את⟩ il-ħaddiema kollha tar-re David; u il-poplu kollu u l-erojjiet kollha ⟨kienu⟩ fuq il-lemin tiegħu u fuq ix-xellug tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/16\/5-8.1792608943580.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "U xatta'"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "bil-ġebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ħaddiema kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "il-ħaddiema ta'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "l-erojjiet"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "fuq il-lemin tiegħu"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "u fuq ix-xellug tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:55:43.580988368Z",
+  "model": "glm-5.3"
+}

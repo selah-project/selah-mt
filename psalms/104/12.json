@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jgħammru",
+      "rationale": "ישכון 'dwell\/reside' — nesting is a role-guess; Maltese jgħammru keeps the sense of making a dwelling"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עפאים",
+      "rationale": "boughs — a rare word appearing only here, rendered il-ferħ (branches)"
+    }
+  ],
+  "translation": "Fuqhom l-għasafar tas-sema jgħammru; minn bejn il-ferħ jagħtu leħen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/9-12.1792617786267.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l-għasafar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-sema"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "jgħammru"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "minn bejn"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "il-ferħ"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "jagħtu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "leħen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:06.268818499Z",
+  "model": "glm-5.3"
+}

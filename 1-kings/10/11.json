@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 10:11",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-vapuri",
+      "rationale": "אני huwa kollettiv għal flotta; 'vapuri' fil-plural jagħti d-dawl"
+    },
+    {
+      "kind": "crux",
+      "subject": "almug",
+      "rationale": "אלמגים: siġra mhux identifikata — sandalwood skon il-ħafna, oħrajn jgħidu ħdura tal-Ġnus; żomm il-ħoss Lhudi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "siġar tal-almug b'għadd kbir ħafna",
+      "rationale": "l-enfasi tal-quantità, ma nhinx l-għadd eżatt"
+    }
+  ],
+  "translation": "U wkoll il-vapuri ta' Ħiram, li kienu jġorru d-deheb minn Ofir, ġabu minn Ofir siġar tal-almug b'għadd kbir ħafna, u ħaġar prezzjuż.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c899bbb411a0508bcf2e4f5f0c73c13e1985d326227a5f564dadd84415b0b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/10\/9-12.1792609596642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "U wkoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "il-vapuri"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ta' Ħiram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kienu jġorru"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "id-deheb"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "minn Ofir"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ġabu"
+    },
+    {
+      "surface": "מאפיר",
+      "gloss": "minn Ofir"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "siġar"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "tal-almug"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "b'għadd"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kbir ħafna"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "u ħaġar"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "prezzjuż"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:36.644065865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bosam",
+      "rationale": "בשם — l-aroma, ix-xnien; kelma semitika mill-qrib"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imsaħ",
+      "rationale": "המשחה — żejt l-imsaħ għat-tqaddis, mill-istess għerq ta' Maxiaħ"
+    }
+  ],
+  "translation": "U ⟨את⟩ il-bosam u ⟨את⟩ iż-żejt — għad-dawl, u għal żejt l-imsaħ, u għaċ-ċens tad-dwieli.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/35\/25-28.1792600208204.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bosam"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "il-bosam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iż-żejt"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "iż-żejt"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "għad-dawl"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "u għal żejt"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "l-imsaħ"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "u għaċ-ċens"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "tad-dwieli"
+    }
+  ],
+  "timestamp": "2026-10-21T16:30:08.205682762Z",
+  "model": "glm-5.3"
+}

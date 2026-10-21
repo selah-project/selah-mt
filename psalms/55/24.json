@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bir ta' qerda",
+      "rationale": "שחת = ħofra ta' qerda, trappola; 'Xeol' mhux ovvjament hemm"
+    },
+    {
+      "kind": "addition",
+      "subject": "fid-diskors",
+      "rationale": "בך in fuq suffiss ta' persuna t-tieni — 'fik' fil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תורדם\/שחת",
+      "rationale": "inżul għal ħofra — il-psalm jagħlaq b'sentenza ta' ġudizzju u btala"
+    }
+  ],
+  "translation": "U inti, Elohim, tonżilhom għal bir ta' qerda; l-irġiel tad-demm u ta' ħnierda mhux se jgħaddu nofs il-ġranjielhom; iżda jien, nafdak.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/55\/21-24.1792617234861.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "U inti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "tonżilhom"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "għal bir"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ta' qerda"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "l-irġiel ta'"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "demm"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "u ħnierda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "se jgħaddu nofs"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "il-ġranjielhom"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iżda jien"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nafdak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "f"
+    },
+    {
+      "surface": "בך2",
+      "gloss": "fik"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:54.862390606Z",
+  "model": "glm-5.3"
+}

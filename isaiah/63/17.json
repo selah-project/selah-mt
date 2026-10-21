@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 63:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתענו",
+      "rationale": "Piel causative 'you make us stray' vs Qal 'you stray (from us)'; causative std since LXX."
+    },
+    {
+      "kind": "you",
+      "subject": "lit-talba",
+      "rationale": "Indirizz dirett lil Jaħwe, imperattiv 'Erga' lura'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבטי\/נחלתך",
+      "rationale": "Sinfonija tal-kostrutt: 'it-tribujiet ta' wirt tiegħek', rabta misluba ma' titlef bil-Malti b'praepozizzjoni."
+    }
+  ],
+  "translation": "Għaliex tagħtina ntiltew mit-toroq tiegħek, Jaħwe, u tessienaħ il-qalb tagħna milli tbiza' mingħajk? Erga' lura għall-għodda tal-qaddejja tiegħek, it-tribujiet ta' wirt tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/63\/17-19.1792612169082.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "תתענו",
+      "gloss": "tagħtina ntiltew"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מדרכיך",
+      "gloss": "mit-toroq tiegħek"
+    },
+    {
+      "surface": "תקשיח",
+      "gloss": "tessienaħ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "il-qalb tagħna"
+    },
+    {
+      "surface": "מיראתך",
+      "gloss": "milli tbiza' mingħajk"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Erga' lura"
+    },
+    {
+      "surface": "למען",
+      "gloss": "għall-għodda"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tal-qaddejja tiegħek"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "it-tribujiet"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ta' wirt tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T19:49:29.083527661Z",
+  "model": "glm-5.3"
+}

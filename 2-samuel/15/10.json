@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spjuni\/מרגלים",
+      "rationale": " litteralji 'dawk li jimxu bil-ħarxa (bir-riġlejn)'; qed jinżamm sens irrekonoxximent b'spjuni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sar sultan\/מלך",
+      "rationale": " bil-Malti wieħed jista' jqiegħed ukoll 'ħakem' jew 'daħal fil-mamlakta', imma l-għerq huwa 'sultan'."
+    },
+    {
+      "kind": "secret",
+      "subject": "ħatra ta' Avxalom",
+      "rationale": " spjuni u sinjal tal-qarn maħbi minn David — konspirazzjoni mgħottija."
+    }
+  ],
+  "translation": "U Avxalom bagħat lil spjuni f'kollha x-xtut ta' Jisrael, jgħidu: Malli tasmgħu ⟨את⟩ il-leħen ta' l-qarn, u tgħidu: Sar sultan Avxalom f'Hebron.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/15\/9-12.1792608800002.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avxalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spjuni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kollha"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "xtut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "malli tasmgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-leħen ta' l-qarn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il-leħen"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ta' l-qarn"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "u tgħidu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sar sultan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avxalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "f'Hebron"
+    }
+  ],
+  "timestamp": "2026-10-21T18:53:20.003539350Z",
+  "model": "glm-5.3"
+}

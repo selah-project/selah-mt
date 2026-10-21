@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kippar",
+      "rationale": "כפר litteralment 'jgħatti', 'jikkopri'; il-Malti żomm il-ħoss tas-sillaba Semitika"
+    },
+    {
+      "kind": "addition",
+      "subject": "jkun",
+      "rationale": "il-Malti jeħtieġ verb awżiljarju fejn il-Lhudi juża biss il-passiv נסלח"
+    }
+  ],
+  "translation": "U għall-għoġol jagħmel bħalma għamel għall-għoġol tal-offerta tall-ħtieġa, hekk jagħmel għalih; u l-qassis jagħmel il-kippar għalihom, u jkun maħfir lilhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "27cd989a54048d85595feded3d4dc31b528dec9973fdf4d341bbfa15eba3c3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/17-20.1792600488884.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "u jagħmel"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "għall-għoġol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bħalma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "għall-għoġol"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "tal-offerta tall-ħtieġa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "u jagħmel il-kippar"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "u jkun maħfir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:48.886124851Z",
+  "model": "glm-5.3"
+}

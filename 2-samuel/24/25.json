@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oloth u xelamoth",
+      "rationale": "עלות u שלמים miżżmuma skont il-ħoss Lhudi mhux tradotti bħala 'olozjoni mqaddsa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעתר",
+      "rationale": "verbu għad-duwlita: Jaħwe 'ġie mitlub\/rispond għat-talb' — xi tradutturi jgħidu 'ċaħad lill-art' jew 'ħares ħniena lejn l-art'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-magħefa",
+      "rationale": "מגפה magħrufa bil-Malti bħala l-pesti, imsemmija hawn b'ħoss qarib tal-Lhudi"
+    }
+  ],
+  "translation": "U David bennej hemm mizbeaħ lil Jaħwe, u tella' oloth u xelamoth, u Jaħwe ġie mitlub għall-art, u l-magħefa ġiet żżuma minn fuq Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e552cecbcf4a70702f35d255d8b8319f879f0ed126df30f60b56b8a4c77b7a17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/24\/25-25.1792609170886.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "u bennej"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaħ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "u tella'"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "oloth"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "u xelamoth"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "u ġie mitlub"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "għall-art"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "u ġiet żżuma"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "il-magħefa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T18:59:30.887076422Z",
+  "model": "glm-5.3"
+}

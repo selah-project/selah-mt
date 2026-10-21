@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שכב עם אבתיו",
+      "rationale": "'dkieħid mal-missirijiet' — eufemiżmu Lhudi għall-mewt, ma jintradmx literali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "missirijiet",
+      "rationale": "אבתיו litteralment 'missirijietu' (singolar kollettiv)"
+    }
+  ],
+  "translation": "Hu bena ⟨את⟩ Elat, u rritornaha lil Jehuda, wara li dkiet is-sultan mal-missirijiet tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/21-24.1792610467616.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "u rritornaha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "lil Jehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara li"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dkiet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mal-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "missirijiet tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:21:07.616936432Z",
+  "model": "glm-5.3"
+}

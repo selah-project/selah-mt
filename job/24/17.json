@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 24:17",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jeħtieġha għall-paragun."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחדו בקר למו צלמות",
+      "rationale": "KJV 'il-lewl għalihom bħal dell tal-mewt' kontra JPS 'id-dell tal-mewt għalihom bħal is-sebħ' — min hu l-monomorf, is-sebħ jew id-dell."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלמות",
+      "rationale": "Kelma waħda 'dell-mewt' maqluba f'żewġ kelmiet bil-Malti; titlef l-għerq wieħed."
+    }
+  ],
+  "translation": "Flimkien, is-sebħ għalihom ⟨huwa⟩ dell tal-mewt; għax huma jafu l-orruri ta' dell tal-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/24\/17-20.1792619530493.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "is-sebħ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dell tal-mewt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "huma jafu"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "l-orruri"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dell tal-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:10.493681104Z",
+  "model": "glm-5.3"
+}

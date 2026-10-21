@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 8:17",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu \/ kien",
+      "rationale": "il-Malti jeħtieġ il-verb 'kien', il-Lhudi jgħidu bil-ktieb 'qassisin' u 'kittieb' sempliċement"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ħlas ta' min jaf",
+      "rationale": "il-vers elenka l-uffiċjali ta' David: qassisin u kittieb"
+    }
+  ],
+  "translation": "u Tsadok bin Aħituv u Aħimelek bin Evjatar ⟨kienu⟩ qassisin, u Serajah ⟨kien⟩ kittieb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/8\/17-18.1792608645835.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "u Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Aħituv"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "u Aħimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "qassisin"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "u Serajah"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "kittieb"
+    }
+  ],
+  "timestamp": "2026-10-21T18:50:45.835777044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נוד",
+      "rationale": "isem l-art Nod jirrifletti נד ('jaħbat') mill-vers 14 — il-paronomasja titlef bil-Malti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għex",
+      "rationale": "וישב litteralment 'poġġa\/udda' — 'għex' jew 'insedja ruħu'; il-Malti jieħu s-sens tat-twaqqif domiċilju."
+    }
+  ],
+  "translation": "U Kajin ħareg minn quddiem Jaħwe, u għex fl-art ta' Nod, fil-lvant ta' Eden.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "614a325e7ab193bba258d3f466e4c3590238162024961e7204c4ea38bbad684d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/4\/13-16.1792597692042.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "U ħareg"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u għex"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "ta' Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "fil-lvant"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ta' Eden"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:12.043337531Z",
+  "model": "glm-5.3"
+}

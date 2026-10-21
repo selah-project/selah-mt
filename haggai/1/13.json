@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "Prepożizzjoni 'imkien ma' (H854) mhux l-oġett dirett (H853); iżda r-regola tal-proġett tiffissa ⟨את⟩ għal kull token ta' את."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלאך\/במלאכות",
+      "rationale": "Ħaggaj mibgħut (mal'akh) jippreżenta l-messaġġ (malakhut) — ħoss wieħed, għerq wieħed, miftuħ fil-verse."
+    }
+  ],
+  "translation": "U qal Ħaggaj, mibgħut ta' Jaħwe, fil-messaġġ ta' Jaħwe, lill-poplu, biex jgħid: Jien ⟨miegħkom⟩ għandi ⟨את⟩, jgħid Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f7d2a36647e6b3028af37d92440534d8f3e1da097a9aab117d35efa9bfefbd58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/haggai\/1\/13-15.1792616164778.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Ħaggaj"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mibgħut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "fil-messaġġ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lill-poplu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ miegħkom",
+      "marks": "miegħkom — hawn את hija prepożizzjoni (H854, 'ma'), mhux l-oġett dirett"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T20:56:04.778927083Z",
+  "model": "glm-5.3"
+}

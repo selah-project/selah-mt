@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שני שדיך כשני",
+      "rationale": "repetition of שני (two\/two) frames the comparison, an echo lost in Maltese"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kavrijol",
+      "rationale": "עפרים literally 'fawns' (from their dusty colour); Maltese kavriol keeps the deer-picture"
+    }
+  ],
+  "translation": "Żewġ sidrek huma bħal żewġ kavrijol, tewmin ta' gazzella, li jirgħu fost il-ljiljiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/4\/5-8.1792619954742.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "sidrek"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "bħal żewġ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "kavrijol"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "tewmin"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ta' gazzella"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "li jirgħu"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "fost il-ljiljiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:59:14.742639390Z",
+  "model": "glm-5.3"
+}

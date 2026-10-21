@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ras il-mera",
+      "rationale": "שא את ראש — 'ittella' ras\/għadd tal-mera: għadd ta' dak li nqabad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-maħtufin",
+      "rationale": "השבי huwa 'is-sebgħa\/l-maħtufa', il-persuni meħuda bħala priġunieri"
+    }
+  ],
+  "translation": "Oħroġ ⟨את⟩ ras il-mera tal-maħtufin, fin-nies u fil-bhejjem — int, u Elazar il-qassis, u r-rasi ta' missirijiet il-ġemgħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d429b15ad0f108977781ae15b43b91547ef781aa2deca7dc10fa78e2818b21c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/31\/25-28.1792605117495.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "oħroġ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ras il-mera"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "il-mera"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "tal-maħtufin"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "fin-nies"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "u fil-bhejjem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "u Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "u r-rasi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ta' missirijiet"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "il-ġemgħa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:51:57.496818018Z",
+  "model": "glm-5.3"
+}

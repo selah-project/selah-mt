@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-psalmist",
+      "rationale": "Talba diretta lil Jaħwe fil-plural: ara, ħellisni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħellisni",
+      "rationale": "חלץ tfisser 'izzellaġni, ħallisini' — verbu fiżiku ta' trattiment, mhux sempliċiment 'liberani'."
+    }
+  ],
+  "translation": "Ara l-fqajja tiegħi u ħellisni, għax lit-Tora tiegħek mainsiethx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/153-156.1792618071563.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "l-fqajja tiegħi"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "u ħellisni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "lit-Tora tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "insiethx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:51.563874168Z",
+  "model": "glm-5.3"
+}

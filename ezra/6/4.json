@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tlieta",
+      "rationale": "għadd eżatt tas-saffi tal-ġebel fid-digriet"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלל",
+      "rationale": "'ġebel imrolli' (ħaġra mwerrba) kontra 'ġebel kbir' (KJV\/JPS mill-Aramajk 'ħaġar gibbor')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jitħallsu",
+      "rationale": "ונפקתא…תתיהב huwa 'ħruġ\/infiq jagħti', il-Malti juża għajd tal-ħlas"
+    }
+  ],
+  "translation": "saffi ta' ġebel imrolli tlieta, u saff ta' injad ġdid; u l-ispejjeż jitħallsu mid-dar tar-re.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/6\/1-4.1792621161901.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "saffi"
+    },
+    {
+      "surface": "די",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ġebel"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "imrolli"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "tlieta"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "u saff"
+    },
+    {
+      "surface": "די",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "אע",
+      "gloss": "injad"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "ġdid"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "u l-ispejjeż"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "jitħallsu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:19:21.902481654Z",
+  "model": "glm-5.3"
+}

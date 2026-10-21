@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨int⟩",
+      "rationale": "Il-Lhudi ma għandux copula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "crux",
+      "subject": "elohim",
+      "rationale": "כל אלהים: 'kull elohim' (l-allat tal-ġnus, Es 15:11) jew 'kull sħabhom'; ħallejthom bħala plural ta' ġnus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליון\/נעלית\/על",
+      "rationale": "Għerq עלל għandu עליון u נעלית mal-prepożizzjoni על — it-tlugħ fuq kollox, ma jintilefx bil-Malti."
+    }
+  ],
+  "translation": "Għaliex inti, Jaħwe, ⟨int⟩ l-Għoli fuq l-art kollha; ħafna tiġġib 'il fuq fuq kull elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/97\/9-12.1792617704877.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l-Għoli"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "tiġġib 'il fuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:44.878537292Z",
+  "model": "glm-5.3"
+}

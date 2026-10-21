@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dud",
+      "rationale": "רמה hija l-ħanxira\/dud li jitolbu l-ġisem — 'dud' joqrob għall-ħoss u t-tifsira"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחת\/שחת",
+      "rationale": "Ġob jsejjaħ lill-qerda 'missier' u lill-ħanxir 'omm u oħt' — ironija qarsa dwar l-għaqda familjari mat-truxijiet tal-mewt"
+    }
+  ],
+  "translation": "Lill-qabar għajt: Missieriji ⟨int⟩; u lill-dud: ommi u oħti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/17\/13-16.1792619420166.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "lill-qabar"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "għajt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Missieriji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨int⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ommi"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "u oħti"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "lill-dud"
+    }
+  ],
+  "timestamp": "2026-10-21T21:50:20.167171760Z",
+  "model": "glm-5.3"
+}

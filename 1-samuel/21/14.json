@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 21:14",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "it-togħma",
+      "rationale": "טעם litteralment 'togħma', hawn metafora għall-ġudizzju u l-imġiebb — 'ħassar it-togħma' tfisser tella' l-bniedem."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ויתו",
+      "rationale": "תוה jidher hawn biss fil-Tanakh — 'ċaqlaq\/ħirrex' b'id fuq il-bibien."
+    },
+    {
+      "kind": "crux",
+      "subject": "xebbaħ ruħu bħala miġnun",
+      "rationale": "התהולל jista' jkun 'ġenneb' jew 'xejjer ruħu' — it-tnejn jaqgħu fuq David jipprova jidher miġnun."
+    }
+  ],
+  "translation": "U ħassar ⟨את⟩ it-togħma tiegħu f'għajnejhom, u xebbaħ ruħu bħala miġnun f'idejhom, u ħirrex fuq il-bibien tal-bieb, u niżżel il-ber tiegħu fuq leħnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fc1b27828201017ca6ac03a4aaffd8c28de1cdbaadc29d9854a75bf5d26798cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/21\/13-16.1792608156087.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישנו",
+      "gloss": "ħassar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-togħma tiegħu"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "it-togħma tiegħu"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "f'għajnejhom"
+    },
+    {
+      "surface": "ויתהלל",
+      "gloss": "xebbaħ ruħu bħala miġnun"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "f'idejhom"
+    },
+    {
+      "surface": "ויתו",
+      "gloss": "ħirrex"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "il-bibien"
+    },
+    {
+      "surface": "השער",
+      "gloss": "tal-bieb"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "niżżel"
+    },
+    {
+      "surface": "רירו",
+      "gloss": "il-ber tiegħu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "זקנו",
+      "gloss": "leħnu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:42:36.088191844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקרא שמי עליהם",
+      "rationale": "'li fuqhom jissejjaħ ismi' vs 'li jġorru ismi' — passiv ta' qrajt differenti fit-traduzzjonijiet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jgħid Jaħwe",
+      "rationale": "נאם יהוה huwa oraklu; skont D3 jingħata bħala 'jgħid Jaħwe'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "l-fdal",
+      "rationale": "שארית — fdal mgħoddad, għadd ta' dawk li jifdalhu"
+    }
+  ],
+  "translation": "Biex jidirtu ⟨את⟩ l-fdal ta' Edom u l-ġnus kollha li fuqhom jissejjaħ ismi, jgħid Jaħwe, li jagħmel dan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a4e92b36403054b93f6c37a3dac47adc8a1bb81af32c0b431e01d90db08420aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/9\/12-12.1792623721189.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "jidirtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-fdal ta' Edom"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "l-fdal"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ta' Edom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-... kollha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ġnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "jissejjaħ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ismi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li jagħmel"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:01.190088790Z",
+  "model": "glm-5.3"
+}

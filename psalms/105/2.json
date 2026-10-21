@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faħru u kelmuh",
+      "rationale": "שיחו jfisser kejjel u tkellem bi ħsieb ċar — 'kantawlu b'ħsieb' ukoll possibbli"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שירו\/זמreru",
+      "rationale": "żewġ għeruq differenti għall-kanta, שיר u זמר, mgħaġġla waħda wara l-oħra"
+    }
+  ],
+  "translation": "Għanjulhu, għannulhu b'istrumenti, faħru u kelmuh dwar kull waħda minn tal-għeġubijiet tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/1-4.1792617817734.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Għanjulhu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "għannulhu b'istrumenti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "faħru u kelmuh dwar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dwar kull waħda minn"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "tal-għeġubijiet tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:37.735000477Z",
+  "model": "glm-5.3"
+}

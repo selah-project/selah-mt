@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימים",
+      "rationale": "שם פרטי: Baħar — il-Lhudi qiegħed 'sejjaħ' darbtejn, jingħata b'+'<\/span>\n\n Verbal style: propja ta' isem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למקוה\/יקוו",
+      "rationale": "מקוה (ġabra) ġejja mill-verb קוה (jinġabru) f'v 9 — ripetizzjoni ta' għerq, ma tintilifx bil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "sejjaħha",
+      "rationale": "Il-pronum 'ha' miżjud għax il-Lhudi juża verb biss ('qrajha' huwa 'sejjaħ + jasr')"
+    }
+  ],
+  "translation": "U Elohim sejjaħ lill-art inxarfa Art, u lill-ġabra tal-ilmijiet sejjaħha Baħar; u Elohim ra li ⟨kien⟩ tajjeb.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/9-12.1792597658718.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "lill-art inxarfa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Art"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "u lill-ġabra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tal-ilmijiet"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sejjaħ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Baħar"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "u ra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    }
+  ],
+  "timestamp": "2026-10-21T15:47:38.719079730Z",
+  "model": "glm-5.3"
+}

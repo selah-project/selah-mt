@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ verb għal-frasa relattiva 'li fuq l-irkopptejn tiegħek'."
+    },
+    {
+      "kind": "crux",
+      "subject": "il-Perat",
+      "rationale": "פרתה: jew ix-xmara Euprates, jew lokalità qrib Ġerusalemm (wadi el-Fara) — dwejjaq famuż."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Jirmija",
+      "rationale": "serje ta' imperattivi: 'Ħu, qum, immur, aħbi'."
+    }
+  ],
+  "translation": "Ħu ⟨את⟩ iċ-ċint li xtrajt, li ⟨hu⟩ fuq l-irkopptejn tiegħek, u qum, immur lejn il-Perat, u aħbithem hemm f'xquq tal-blat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "44498b7b5e71b0b483896439d95876c5610ea883047a6088f0ad73965c593e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/13\/1-4.1792612711283.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iċ-ċint"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "iċ-ċint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "xtrajt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "l-irkopptejn tiegħek"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "u qum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "immur"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "lejn il-Perat"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "u aħbithem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "f'xquq"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "tal-blat"
+    }
+  ],
+  "timestamp": "2026-10-21T19:58:31.284122068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 31:30",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saħħa maħsuba",
+      "rationale": "אלה is an imprecation\/curse; Maltese has no single native word, so a descriptive phrase."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruħu",
+      "rationale": "נפשו is his life-force\/vitality, not the Platonic 'soul'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשאל באלה נפשו",
+      "rationale": "'To ask with a curse his nefesh' — demand his life by oath (KJV) vs. pray for a curse upon him (Geneva)."
+    }
+  ],
+  "translation": "Għadni lanqas ħallejt ħalqi jaħtbi, billi nitlob b'saħħa maħsuba kontra ruħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e6cc594f7ee3be3defcec783a65169fc297ee1fe60f2886bb09280cf9ef6d87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/31\/29-32.1792619664647.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Għadni lanqas"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ħallejt"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "jaħtbi"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ħalqi"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "billi nitlob"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "b'saħħa maħsuba"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kontra ruħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:24.647923945Z",
+  "model": "glm-5.3"
+}

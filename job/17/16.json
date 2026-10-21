@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי שאל",
+      "rationale": "בדי = 'bsaten\/xtut' ta' Xeol (KJV 'bars') vs 'partijiet' (YLT) vs 'l-aktar profond' — tassew il-bieb li jżomm Xeol magħluq"
+    },
+    {
+      "kind": "alternative",
+      "subject": "min jitniżżel",
+      "rationale": "It-'tagħha' jista' jkunu t-tama (v15) jew il-ħajja nfisha; ħlajt ma' KJV\/ASV li t-tama tinżel miegħu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nieħdu mistrieħ",
+      "rationale": "נחת huwa 'nieżla\/mistrieħ' — kelma waħda bil-Malti teħtieġ żewġ kelmiet"
+    }
+  ],
+  "translation": "Għall-briegħed ta' Xeol jitniżżlu; jekk flimkien fuq it-trab nieħdu mistrieħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/17\/13-16.1792619420166.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "Għall-briegħed"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ta' Xeol"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "jitniżżlu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "it-trab"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nieħdu mistrieħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:50:20.167426074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lejl Jaħwe",
+      "rationale": "talba direta ta' Moxe lel Jaħwe"
+    },
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "id-dimostrattiv maħdum ma' 'lil dan il-poplu' fl-istess frażi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וסקלני",
+      "rationale": "litteralment 'u jsebbħuni' — jagħtu bil-ġebel iżomm il-ktar ta' סקל, it-turġien bil-ġebel"
+    }
+  ],
+  "translation": "U sejħet Moxe lejl Jaħwe u qal: X'nagħmel lil dan il-poplu? Għad xi ftit u jagħtuni bil-ġebel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/17\/1-4.1792599706123.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "u sejħet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lil dan il-poplu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għad"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xi ftit"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "u jagħtuni bil-ġebel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:46.124702363Z",
+  "model": "glm-5.3"
+}

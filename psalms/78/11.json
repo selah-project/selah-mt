@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-għemejjel",
+      "rationale": "עלילותיו tfisser litteralment 'l-affarijiet li għamel' — l-attijiet, mhux sempliċiment 'xogħlijiet'"
+    },
+    {
+      "kind": "elision",
+      "subject": "-ם f'הראם",
+      "rationale": "Is-suffiss -em 'lilhom' inkorporat fil-verb; miżjud bil-parentesi bil-Malti"
+    }
+  ],
+  "translation": "U nsew l-għemejjel tiegħu u l-għeġubijiet tiegħu, li wriehom ⟨lilhom⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/9-12.1792617461138.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "U nsew"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "l-għemejjel tiegħu"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "u l-għeġubijiet tiegħu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "wriehom ⟨lilhom⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:41.139700015Z",
+  "model": "glm-5.3"
+}

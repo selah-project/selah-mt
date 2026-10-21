@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiġi",
+      "rationale": "il-Lhudi juża plural (יבאו) għal 'kull ġisem'; bil-Malti singular biex jaqbel mal-suġġett singular"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġisem",
+      "rationale": "בשר huwa 'laħam\/ġisem bħala ħajja mortali', mhux biss 'ġisem'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Elohim",
+      "rationale": "appell dirett lil Elohim bħala 'Semigħ t-talb'"
+    }
+  ],
+  "translation": "Semigħ t-talb, għandek kull ġisem jiġi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/65\/1-4.1792617330969.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Semigħ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "t-talb"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "għandek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ġisem"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "jiġi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:30.970777666Z",
+  "model": "glm-5.3"
+}

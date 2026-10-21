@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "għurus tad-demm",
+      "rationale": "חתן דמים: 'għurus tad-demm' kontra 'raġel tad-demm' — l-identità ta' min jingħata l-isem (Moxe? bin? Alla?) m'għidhiex it-test."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħaġra qassieħa",
+      "rationale": "צר: litteralment 'silġ\/flint', ġeżża jaqta'; jrid jidher li s-sikkina hija tal-ġebel."
+    },
+    {
+      "kind": "addition",
+      "subject": "ilha",
+      "rationale": "il-verb משקח fir-rigward ta' riġlejh: il-Lhudi jgħid biss 'fassdet', il-Ġermaniż jagħti l-pronome tal-oġġett."
+    }
+  ],
+  "translation": "U Cipora ħadet ħaġra qassieħa, u qaqgħet ⟨את⟩ il-ġilda ta' quddiem ta' binha, u messitha ma' riġlejh, u qalet: Tassew għurus tad-demm inti għalija.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/4\/25-28.1792599268662.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "u ħadet"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ħaġra qassieħa"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "u qaqgħet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġilda ta' quddiem ta' binha"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "il-ġilda ta' quddiem"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ta' binha"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "u messitha"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ma' riġlejh"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "u qalet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Tassew"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "għurus"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tad-demm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:28.663549243Z",
+  "model": "glm-5.3"
+}

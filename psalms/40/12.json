@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħlewwiet",
+      "rationale": "רחמים litteralment il-Ħnien (pl. ta' riħem, il-ġuf li jħenn); l-istorbju Semitiku mitluf"
+    },
+    {
+      "kind": "crux",
+      "subject": "יצרוני",
+      "rationale": "verbu fin-nominali jista' jkun fin-nominali 'jżemmuni' jew 'jissalvawni'; għażilt 'jgħassuni'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Jaħwe",
+      "rationale": "appell diretta lil Jaħwe fil-bidu tal-vers"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jissalvawni",
+      "rationale": "תמיד יצרוני jista' jinqra bħala talba ('ħallihom dejjem jżemmuni')"
+    }
+  ],
+  "translation": "Inti, Jaħwe, twaħħaħx il-ħlewwiet tiegħek minni; il-ħesed tiegħek u s-sewwa tiegħek dejjem jgħassuni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/40\/9-12.1792617027579.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "twaħħaħx"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "twaħħaħx"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "il-ħlewwiet tiegħek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il-ħesed tiegħek"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "u s-sewwa tiegħek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "jgħassuni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:27.580462490Z",
+  "model": "glm-5.3"
+}

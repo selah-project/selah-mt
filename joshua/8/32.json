@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "'Kopja' jew 'it-Tora miktuba darbtejn' — jew jagħtih tmint sa [Deut 17:18] konnotazzjoni ta 't-tieni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "quddiem",
+      "rationale": "לפני litteralment 'quddiem wiċċ' — fil-preżenza ta'."
+    }
+  ],
+  "translation": "U kiteb hemm fuq il-ħaġar ⟨את]] kopja tat-Tora ta' Moxe, li kiteb quddiem wlied Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/29-32.1792606483360.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "U kiteb"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "il-ħaġar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopja tat-Tora"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kopja"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tat-Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ta' Moxe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "kiteb"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T18:14:43.361687385Z",
+  "model": "glm-5.3"
+}

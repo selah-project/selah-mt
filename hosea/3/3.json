@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨inkun⟩",
+      "rationale": "il-Lhudi jaqtagħha hemm: 'u jien ukoll għalik' — il-kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "וגם אני אליך",
+      "rationale": "'jien ukoll (ma niżżiżx) għalik' (KJV\/BSB) kontra 'u lanqas jien ma jkollok' (JPS) — l-ambigwità tal-Lhudi"
+    }
+  ],
+  "translation": "U għedtilha: Jiem twal toqgħod għalija; ma tizzerżinx, u ma tkun għal ebda raġel; u jien ukoll ⟨inkun⟩ hekk għalik.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/3\/1-4.1792615428841.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "U għedtilha"
+    },
+    {
+      "surface": "אליה",
+      "gloss": ""
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jiem"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "twal"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "toqgħod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "tizzerżinx"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "għal ebda raġel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u jien ukoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": ""
+    },
+    {
+      "surface": "אליך",
+      "gloss": "għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T20:43:48.842594328Z",
+  "model": "glm-5.3"
+}

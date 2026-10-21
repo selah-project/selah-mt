@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "wiċċek",
+      "rationale": "'Ħabs il-wiċċ' — idjom Semitiku għall-preżenza u l-favor divin, mhux sempliċi wiċċ fiżiku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġidwa",
+      "rationale": "צר litteralment 'troqq' — post dejjaq; 'ġidwa' (angustja) miżjuda għall-qari Malti naturali."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "Dirett lejn Jaħwe, b'tliet imperattivi: la taħbix, illi, weġibni."
+    }
+  ],
+  "translation": "La taħbix wiċċek minni fil-jum ta' ġidwi; illi widintek lejni; fil-jum li nsejjaħ, għaġla weġibni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/1-4.1792617771730.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "taħbix"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ta' ġidwi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨tiegħi⟩"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "illi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "widintek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "li nsejjaħ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "għaġla"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "weġibni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:51.730933672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחללים...מגאל",
+      "rationale": "għerq חלל (profana) fil-verb u għerq גאל (ħassar\/tniġġis) fil-klamar — żewġ kelmiet għall-istess tniġġis ritwali"
+    },
+    {
+      "kind": "elision",
+      "subject": "שלחן אדני",
+      "gloss": "il-mejda ta' Adonaj hija l-artal tat-tempju, mhux mejda għall-ikel"
+    }
+  ],
+  "translation": "Intom txejjru ⟨את⟩ lilu, meta tgħidu: Mejda ta' Adonaj hija imteħna, u l-frott tagħha, ikelha, ta' xejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/1\/9-12.1792616447486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Intom"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "txejjru"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu (isem Jaħwe)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "meta tgħidu"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Mejda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "imteħna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hija"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "u l-frott tagħha"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "ta' xejn"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ikelha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:00:47.487817002Z",
+  "model": "glm-5.3"
+}

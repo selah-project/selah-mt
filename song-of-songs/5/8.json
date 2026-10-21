@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ja bniet Jeruxalajim",
+      "rationale": "the speaker adjures the daughters of Jerusalem — direct address drawing the hearer into the search"
+    },
+    {
+      "kind": "you",
+      "subject": "bniet Jeruxalajim",
+      "rationale": "explicit addressee: the women of the city"
+    },
+    {
+      "kind": "crux",
+      "subject": "x'tgħidulu?",
+      "rationale": "interrogative 'what will you tell him?' (jps\/ylt) vs conditional 'that you tell him' (kjv) — the Hebrew im allows both"
+    }
+  ],
+  "translation": "Ġiltkom, ja bniet Jeruxalajim: jekk ssibu ⟨את⟩ lil għażiż tiegħi, x'tgħidulu? li jien mard b'imħabba jien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/5\/5-8.1792619964459.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ġiltkom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ intom",
+      "marks": "ja bniet Jeruxalajim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ja bniet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "ssibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil għażiż tiegħi"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "lil għażiż tiegħi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "tgħidulu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(-lu)"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "mard b'imħabba"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "b'imħabba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:59:24.461333643Z",
+  "model": "glm-5.3"
+}

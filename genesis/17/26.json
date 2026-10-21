@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fl-għadam tan-nhar",
+      "rationale": "בעצם היום litteralment 'fl-għadam tal-ġurnata' — idjom għal 'f'dak in-nhar eżatt'"
+    },
+    {
+      "kind": "addition",
+      "subject": "lilu",
+      "rationale": "il-Malti jeħtieġ l-ogġett dirett bir-reflessiv 'lilu' għal נמול passiv"
+    }
+  ],
+  "translation": "Fl-għadam ta' dak in-nhar stess tqatta' ⟨את⟩ lilu Avraham, u Iżmael, ibnu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/17\/25-27.1792598013673.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "fl-għadam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ta' dak in-nhar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "stess"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "tqatta'"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lilu Avraham"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "u Iżmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:53:33.673681905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "somma totali",
+      "rationale": "5,400 b'kollox — l-għadd ta' qabel ma jżommx (30+1000+29+30+410+1000 = 2499); somma tradizzjonali diskussa."
+    },
+    {
+      "kind": "idiom",
+      "subject": "העלות",
+      "rationale": "Il-verb עלה (tella') jintuża kemm għat-tlugħ tal-eżilati kif ukoll għat-tiġrijja tal-vedovi — il-'tlugħ' minn Babel."
+    }
+  ],
+  "translation": "Kollha kemm huma l-utensili tad-deheb u tal-fidda ħamsa elef u mija erba'. Il-kollha Xexbaċar tella' meta tellet l-eżilja minn Babel għal Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/1\/9-11.1792621010516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kollha"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "l-utensili"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "ו לכסף",
+      "gloss": "u tal-fidda"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ħamsa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elef"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "u"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija erba'"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Il-kollha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tella'"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Xexbaċar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "meta tellet"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "l-eżilja"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "minn Babel"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "għal Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:16:50.517986191Z",
+  "model": "glm-5.3"
+}

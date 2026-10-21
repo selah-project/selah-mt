@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Lanqas",
+      "rationale": "Il-Lhudi għandu sempliċement לא 'mhux'; 'lanqas' tgħatti ż-żewġ nuqqasijiet tal-verb"
+    }
+  ],
+  "translation": "Lanqas żammux il-patt ta' Elohim, u fit-Tora tiegħu rrifjutaw li jimxu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/9-12.1792617461138.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Lanqas"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "żammux"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "il-patt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "u fit-Tora tiegħu"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "rrifjutaw"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "li jimxu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:41.139585257Z",
+  "model": "glm-5.3"
+}

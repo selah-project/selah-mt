@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בני בני",
+      "rationale": "Il-kliem Lhudi 'wlied Bani' jinstema' bħal 'wlied wlied' — l-istess konsonanti, isem ieħor."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Sitt mija u tnejn u erbgħin."
+    }
+  ],
+  "translation": "Wlied Bani, sitt mija u tnejn u erbgħin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d7e54d5614b092ec6d6201ccc48f450826d1a57de7403f19901c203dc94a9b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/2\/9-12.1792620996947.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "erbgħin"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "u tnejn"
+    }
+  ],
+  "timestamp": "2026-10-21T22:16:36.948613626Z",
+  "model": "glm-5.3"
+}

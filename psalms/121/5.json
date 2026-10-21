@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-kopula li ma hemmx bil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dellija",
+      "rationale": "צל hija d-dell — Kenn\/protezzjoni, mhux sempliċiment dell"
+    },
+    {
+      "kind": "you",
+      "subject": "lil dawk li joħorġu u jidħlu",
+      "rationale": "it-talb jitkellem direttament miegħek"
+    }
+  ],
+  "translation": "Jaħwe jħarsek; Jaħwe ⟨huwa⟩ d-dellijek fuq idek il-leminija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/121\/5-8.1792618110335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "jħarsek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "d-dellijek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "יד",
+      "gloss": "idek"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "il-leminija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:30.335469196Z",
+  "model": "glm-5.3"
+}

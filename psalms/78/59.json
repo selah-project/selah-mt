@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għadab",
+      "rationale": "ויתעבר verbu biss — 'ġie mqalleb bir-raġbi'; il-Malti jeħtieġ isem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tejred",
+      "rationale": "וימאס = spurna, warrab b'diżgust — 'refuża' jirxaqqar il-ħoss tal-verb"
+    }
+  ],
+  "translation": "Elohim sema', u tqajjem ⟨għadab⟩, u tejred bil-qawwi ⟨ma'⟩ Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/57-60.1792617512760.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "sema'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "u tqajjem ⟨għadab⟩"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "u tejred"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bil-qawwi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "⟨ma'⟩ Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:32.761299670Z",
+  "model": "glm-5.3"
+}

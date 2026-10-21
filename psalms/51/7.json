@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חוללתי",
+      "rationale": "min jqieghdu 'twelidt' (nippiḍḍa f'daqqa) kontra 'kellek tinkseb'; hawn tqillet — il-forma Pual ta' חול."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tnisseltni",
+      "rationale": "יחמתני litteralment 'ħamet bija' — il-ħoss tal-ġisem għat-tqala."
+    }
+  ],
+  "translation": "Ara, fit-traskendenza tqillet, u fid-dnub tnisseltni ommi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/51\/5-8.1792617138078.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ara"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "fit-traskendenza"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "tqillet"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "u fid-dnub"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "tnisseltni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ommi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:18.079773656Z",
+  "model": "glm-5.3"
+}

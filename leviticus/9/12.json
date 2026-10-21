@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olokaust",
+      "rationale": "העלה litteralment 'dak li jitla'' — il-ħruq kollu; 'olokaust' jew 'l-offerta mħruqa kollha'."
+    },
+    {
+      "kind": "crux",
+      "subject": "xtered",
+      "rationale": "ויזרקהו: 'xtered\/raxx' kontra 'ħawwad kontra' (JPS 'dashed') — il-ġest tal-qassis."
+    }
+  ],
+  "translation": "U qatel ⟨את⟩ l-olokaust, u preżentaw ulied Aharon għandu ⟨את⟩ id-demm, u xteredh fuq l-artal, madwaru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/9\/9-12.1792600649456.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "U qatel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-olokaust"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l-olokaust"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "u preżentaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "għandu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-demm"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "u xteredh"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwaru"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:29.457474194Z",
+  "model": "glm-5.3"
+}

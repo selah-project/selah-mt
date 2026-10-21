@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבך",
+      "rationale": "'ħarba\/weapon' bil-qorti vs 'għodda' ġenerali (chisel, KJV 'tool') — it-traduzzjonijiet jaqsmu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתהן",
+      "rationale": "plural 'tagħhom' — il-veru jirreferi għall-ġebel, mhux għall-mizbeaħ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וְאִם",
+      "rationale": "Malti jeħtieġ 'jekk' bil-kondizzjonali; il-Lhudi għandu biss וְאִם bla forma kondizzjonali mmarkata"
+    }
+  ],
+  "translation": "U jekk tagħmel lili mizbeaħ ta' ġebel, ma tibnix ⟨את⟩ bil-ġeżitu, għax jekk tixħet il-ħarba tiegħek fuqu, tistmillih.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/20\/25-26.1792599723823.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaħ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ġebel"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tibnix"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "bil-ġeżitu"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ġeżitu (ġebel imqatta')"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "il-ħarba tiegħek"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "tixħet"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "tistmillih"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:03.824007611Z",
+  "model": "glm-5.3"
+}

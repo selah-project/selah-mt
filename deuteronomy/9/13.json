@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "qasħi l-għonu",
+      "rationale": "קשה ערף 'hard of neck' — literal idiom for stubbornness, kept in shape."
+    },
+    {
+      "kind": "addition",
+      "subject": "Jiena",
+      "rationale": "Maltese requires subject pronoun with the perfect verb 'rajt'."
+    }
+  ],
+  "translation": "U Jaħwe qal lili, biex jgħid: Jiena rajt ⟨את⟩ il-poplu dan, u arah, poplu qasħi l-għonu huwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/9\/13-16.1792605532940.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħid"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u arah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qasħi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "l-għonu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:58:52.941393694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moħħhom",
+      "rationale": "קרבם literally 'ħażin tagħhom \/ ġewwa tagħhom' — il-ħsieb ta' ġewwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "jgħid",
+      "rationale": "il-Lhudi m'għandux verb 'għid' — il-possessiv biss jista' bil-kopula mitluba bil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "semmew",
+      "rationale": "forse 'jissejħu b'ismijithom' — l-artijiet jissejħu bl-isem tal-possessuri"
+    }
+  ],
+  "translation": "Moħħhom ⟨jgħid⟩: djarhom għal dejjem, Mixkan tagħhom minn nisel għal nisel; semmew bl-ismijiet tagħhom fuq l-artijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/9-12.1792617142081.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "moħħhom"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "djarhom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "Mixkan tagħhom"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "minn nisel"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "għal nisel"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "semmew"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "bl-ismijiet tagħhom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "l-artijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:22.082348974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "annimali kastati",
+      "rationale": "L-erba' partċipji jirreferu għall-kastrazzjoni; il-Malti iżomm l-għamla partċipjali (msus, mrażżan, mitlugħ, maqtugħ) mingħajr ma jsemmi l-ħaġa stess, bħall-Lhudi."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Israel",
+      "rationale": "Indirizz dirett fil-plural: 'ma tqarrbux... ma tagħmlux'."
+    }
+  ],
+  "translation": "Imsus jew mrażżan jew mitlugħ jew maqtugħ — dawn ma tqarrbux lil Jaħwe, u fl-art tagħkom ma tagħmlux dan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/21-24.1792601114624.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "Imsus"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "jew mrażżan"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "jew mitlugħ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "jew maqtugħ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "tqarrbux"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "u fl-art tagħkom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tagħmlux"
+    }
+  ],
+  "timestamp": "2026-10-21T16:45:14.625209339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "'M'hemmx demm għalih' — 'lu' jista' jirreferi għall-ħalliel (ma jinzlux qlub għalih) jew għal sid id-dar (mhux ħati ta' demm); it-test m'għandux sħiħ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "במחתרת",
+      "rationale": "Kelma rari ta' maqtugħa\/mina taħt il-ħajt — l-ebda kelma Maltija waħda ma togħġobha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמים",
+      "rationale": "Plural ta' 'demm' bħala ħtija tad-demm — il-plural Malti ma jidhirx"
+    }
+  ],
+  "translation": "Jekk jinstab il-ħalliel jiqta' minn taħt il-ħajt, u jingħata daqqa u jmut, m'hemmx demm għalih.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/1-4.1792599807354.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "jiqta' minn taħt il-ħajt"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jinstab"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "il-ħalliel"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "u jingħata daqqa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "u jmut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "demm"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:27.354894688Z",
+  "model": "glm-5.3"
+}

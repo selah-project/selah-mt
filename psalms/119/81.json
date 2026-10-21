@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħti",
+      "rationale": "נפש היא nifs\/ħajja, mhux 'anima' fil-ħsieb tal-aħħar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "għerbet",
+      "rationale": "כלתה tfisser litteralment 'spiċċat\/nqatgħet'; 'għerbet' żżomm il-ħsibja tal-Ħ_lammed"
+    }
+  ],
+  "translation": "Għerbet għall-fidwa tiegħek ruwaħti; għall-kelma tiegħek tammajt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/81-84.1792618067757.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "għerbet"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "għall-fidwa tiegħek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruwaħti"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "għall-kelma tiegħek"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "tammajt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:47.758042466Z",
+  "model": "glm-5.3"
+}

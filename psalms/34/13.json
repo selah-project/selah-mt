@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajja",
+      "rationale": "חיים hija plural ('ħajjiet'); il-Malti juża singular għal ħajja b'ma'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lill-qarrej",
+      "rationale": "Mistoqsija li tsejjaħ lill-qarrej għal responsa"
+    }
+  ],
+  "translation": "Min hu l-bniedem li jixtaq ħajja, li jħobb jiem biex jara tajjeb?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/34\/13-16.1792616905284.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "li jixtaq"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "li jħobb"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jiem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "biex jara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:25.284836280Z",
+  "model": "glm-5.3"
+}

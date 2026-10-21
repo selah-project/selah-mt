@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש is throat\/breath\/life-force, not the immaterial 'soul'; Maltese ruħ leans that way but is the nearest single word."
+    },
+    {
+      "kind": "crux",
+      "subject": "וסגר",
+      "rationale": "Read as 'shut up (the way)' against the pursuers (KJV 'stop the way'), or from סגור 'close in for battle'; both give the same picture of blocking the charge."
+    }
+  ],
+  "translation": "U ħarreg il-lanza u agħlaq it-triq f'wicc dawk li jippersegwitawni; għid lil ruħi: Jien is-salvazzjoni tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/1-4.1792616985544.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "U ħarreg"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "il-lanza"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "u agħlaq it-triq"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "f'wicc"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "dawk li jippersegwitawni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "għid"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lil ruħi"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "is-salvazzjoni tiegħek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:45.545083208Z",
+  "model": "glm-5.3"
+}

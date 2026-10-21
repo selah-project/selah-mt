@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi m'għandux kopula; miżjuda bil-Malti u mmarkata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħesed u emet",
+      "rationale": "moħżija bħala kliem Lhudi skont id-dokument, mhux 'ħniena u verità'"
+    }
+  ],
+  "translation": "It-triqat kollha ta' Jaħwe huma ħesed u emet, għal dawk li jżommu l-patt tiegħu u x-xhiediet tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/9-12.1792616701322.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "It-triqat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "u emet"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "għal dawk li jżommu"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "l-patt tiegħu"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "u x-xhiediet tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:01.323357146Z",
+  "model": "glm-5.3"
+}

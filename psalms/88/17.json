@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברו…צמתותני",
+      "rationale": "għadda (עבר) u temm (צמת): il-ġrajjiet jgħaddu u jaqtgħu fl-istess nifs, kombattut bil-Malti b'żewġ verbijiet differenti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "temmuni",
+      "rationale": "צמת ifisser estirpa, taqta' mill-għerq; 'temm' huwa eqreb għall-ħoss milli għall-istampa tal-qatla."
+    }
+  ],
+  "translation": "Fuqi għaddu l-ħruxija tal-ġħadab tiegħek, u t-teruri tiegħek temmuni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/88\/17-19.1792617626803.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "għaddu"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "l-ħruxija tal-ġħadab tiegħek"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "t-teruri tiegħek"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "temmuni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:26.803622808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taħlaq",
+      "rationale": "תלית tfisser 'taqlagħ 'l fuq \/ taħen', mhux biss 'taħlaq' bħal sospiża — l-ebda kelma Maltija waħda ma żżomm il-ħoss kollu"
+    },
+    {
+      "kind": "crux",
+      "subject": "והומת",
+      "rationale": "passiv 'inqatel' kontra KJV 'he be to be put to death' — il-Lhudi huwa passiv semitiku sempliċi"
+    }
+  ],
+  "translation": "U jekk ikun f'raġel dnub ta' ġudizzju ta' mewt, u jinqatel, u taħlaq ⟨את⟩ lilu fuq siġra,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/21\/21-23.1792605800360.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ikun"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "f'raġel"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dnub"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ġudizzju"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ta' mewt"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "u jinqatel"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "u taħlaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "siġra"
+    }
+  ],
+  "timestamp": "2026-10-21T18:03:20.361538584Z",
+  "model": "glm-5.3"
+}

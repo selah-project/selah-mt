@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tlett ijiem",
+      "rationale": "Għadd ta' jiem tat-trekkin fid-deżert"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Baħar is-Suf",
+      "rationale": "'Baħar l-Iżrier\/' il-Baħar l-Aħmar' konvenzjonalment; is-Suf tfisser il-qiċi (papiru), żżomm il-kelma Lhudija"
+    }
+  ],
+  "translation": "U Moxe mqajjem lil ⟨את⟩ Jisrael minn Baħar is-Suf, u ħarġu għad-deżert ta' Sur, u mxew tlett ijiem fid-deżert u ma sabux ilma.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "cf8c720d123cbb9253908586f969c4be994690da457a19806077978c6dcb568e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/15\/21-24.1792599484374.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "u mqajjem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מים",
+      "gloss": "minn Baħar"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "is-Suf"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "u ħarġu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "deżert"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ta' Sur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u mxew"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "sabux"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    }
+  ],
+  "timestamp": "2026-10-21T16:18:04.375012558Z",
+  "model": "glm-5.3"
+}

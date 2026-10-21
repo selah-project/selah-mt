@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-Mulej Ħeles",
+      "rationale": "it-talb jindirizzat direttament lil Jaħwe bit-tieni persuna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "profanaw",
+      "rationale": "חלל tfisser litteralment 'taħtet\/hareġ' — tnaqqix ta' dak li hu qaddis; 'profanaw' joqgħod għal distruzzjoni saċerdotali mhux biss fiżika"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "l-artiklu Malti fuq 'nar', 'il-Mixkan' — l-artiklu Lhudi ma ġiex mess"
+    }
+  ],
+  "translation": "Bagħtu nar fis-santwarju tiegħek; sal-art profanaw il-Mixkan ta' ismek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6970afe32dbc7d8a883c5e15d5ea328461289023c1b55b8124d5ada007c76734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/6-7.1792623816650.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Bagħtu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nar"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "fis-santwarju tiegħek"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sal-art"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "profanaw"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "il-Mixkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ta' ismek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:36.651400736Z",
+  "model": "glm-5.3"
+}

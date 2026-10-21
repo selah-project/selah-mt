@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 1:5",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qaddistek",
+      "rationale": "הקדשתיך 'qaddistek' miżmum mill-għerq קדש skont D2, mhux 'separajtek' bħal YLT"
+    },
+    {
+      "kind": "you",
+      "subject": "Ġeremija",
+      "rationale": "Jaħwe jkellem lil Ġeremija direttament dwar sejħitu qabel twelidu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "għaraftek",
+      "rationale": "l-għarfien ta' Jaħwe qabel il-formazzjoni huwa maħbub mill-ħin, 'qabel ma' darbtejn"
+    }
+  ],
+  "translation": "Qabel ma ffurjajtek fi ż-żerqa għaraftek, u qabel ma ħriġt mir-riħem qaddistek; profeta għan-nazzjonijiet qegħedtek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/1\/5-8.1792612351370.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "qabel ma"
+    },
+    {
+      "surface": "אצורך",
+      "gloss": "ffurjajtek"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "fi ż-żerqa"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "għaraftek"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "u qabel ma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ħriġt"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mir-riħem"
+    },
+    {
+      "surface": "הקדשתיך",
+      "gloss": "qaddistek"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profeta"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "għan-nazzjonijiet"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "qegħedtek"
+    }
+  ],
+  "timestamp": "2026-10-21T19:52:31.371362052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "kopula miżjuda bil-Malti; il-Lhudi għandu biss הוא"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דברתי",
+      "rationale": "il-kelma 'דבר' u l-verb 'דברתי' mill-għerq l-istess — referenza għal ġeniża 41:15 fejn il-ħolm jissejjaħ 'dwar'"
+    }
+  ],
+  "translation": "Din hi l-kelma li għidt lil Paroħ: li Elohim qiegħed jagħmel, wrih ⟨את⟩ lil Paroħ.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "3c62cc1bca92a98f6bbdbee56730f533e913673a24b99e1daca77152506db55b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/41\/25-28.1792598833604.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Din hi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroħ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiegħed jagħmel"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "wrih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Paroħ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroħ"
+    }
+  ],
+  "timestamp": "2026-10-21T16:07:13.605816124Z",
+  "model": "glm-5.3"
+}

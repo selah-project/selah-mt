@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sintassi",
+      "rationale": "KJV taqra 'għax għamilt lil Jaħwe... il-kenn tiegħek'; YLT\/ASV taqra 'int, Jaħwe, inti kenni; l-Elijon għamiltu d-dar tiegħek' — l-Ebrajk jifħom it-tnejn."
+    },
+    {
+      "kind": "addition",
+      "subject": "għalik",
+      "rationale": "l-קuf possissiv f'מעונך ġie mgħarraf b'suffiss separat għaċ-ċarzza Maltija."
+    }
+  ],
+  "translation": "Għax inti, Jaħwe, inti kenn tiegħi; l-Elijon għamiltu dar għalik.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/91\/9-12.1792617648448.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kenn tiegħi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l-Elijon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "għamiltu"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "dar għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:48.449118649Z",
+  "model": "glm-5.3"
+}

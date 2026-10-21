@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא סר",
+      "rationale": "'ma tfixkilx' jagħti l-qtil tan-negazzjoni f'wieħed bil-Malti; il-Lhudi jgħid 'ma sar (tarda) mit-triq ta''."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החטיא",
+      "rationale": "il-Lhudi huwa 'kkaża biex jidnobbu'; 'wassal għad-dnub' izomm il-każattiv."
+    }
+  ],
+  "translation": "U għamel il-ħażin f'għajnejn Jaħwe, kif għamlu missirietu; ma tfixkilx mid-dnubiet ta' Jarobgħam iben Nevat, li wassal lil ⟨את⟩ Jisrael għad-dnub.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f108304d1e7bfc981f5b1a1aee323a7a651ec9014b736040a583409c6dce1117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/15\/9-12.1792610448012.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "missirietu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סר",
+      "gloss": "tfixkilx"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "mid-dnubiet"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ta' Jarobgħam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wassal għad-dnub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:48.013062562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואשבע",
+      "gloss-note": "",
+      "rationale": "shin-vav root: 'I fed them to the full' (שבע) vs 'I made them swear' (שבע) — both consonants identical; 'sabbajthom' takes the feeding reading"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתגדדו",
+      "rationale": "literally 'gash themselves' (cultic self-laceration?) vs KJV\/JPS 'assemble in troops' — 'jiġbru f'gruppi' follows the troop reading, 'jiftħu filiet' the gash"
+    },
+    {
+      "kind": "you",
+      "subject": "lilek",
+      "rationale": "direct address — Jaħwe speaks to Jerusalem\/the mother"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואשבע",
+      "rationale": "rendered s-sabbajthom 'I satisfied\/fed them to the full'"
+    }
+  ],
+  "translation": "Kif għal dan in-nismaħ ⟨את⟩ lilek? Ulidek abbandunawni u ġuraw b'dawk li mhux Elohim; jiena s-sabbajthom, u huma zniew, u f'dar il-prostituta jiġbru f'gruppi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/5\/5-8.1792612517294.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "kif"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "għal dan"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "in-nismaħ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ulidek"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "abbandunawni"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "u ġuraw"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "b'dawn li mhux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "s-sabbajthom"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ulidek"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "u zniew"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "u f'dar"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "il-prostituta"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "jiġbru f'gruppi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:55:17.295992165Z",
+  "model": "glm-5.3"
+}

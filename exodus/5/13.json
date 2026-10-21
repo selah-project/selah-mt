@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 5:13",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħaġa ta' jum",
+      "rationale": "דבר יום ביומו: 'il-kwota ta' kuljum' — id-davar hawn hu l-ammont ta' ħidma, mhux kelma"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien hemm",
+      "rationale": "il-verb bħal supplement għal בהיות, bin-nominali Malti meħtieġ kopula"
+    }
+  ],
+  "translation": "U n-nagħsa kienu mgħaġġla jgħidu: Imlew il-ħidmiet tagħkom, ħaġa ta' jum f'jumu, bħalma kien hemm it-tiben.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/5\/13-16.1792599287495.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנגשים",
+      "gloss": "u n-nagħsa"
+    },
+    {
+      "surface": "אצים",
+      "gloss": "kienu mgħaġġla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "imlew"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "il-ħidmiet tagħkom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ħaġa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ta' jum"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "f'jumu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bħalma"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "התבן",
+      "gloss": "it-tiben"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:47.495661253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהים hawn allat barranin, allavolja l-istess kelma bħal Elohim — miktuba b'ittra żgħira għall-idoli (Eżodu 32:8)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא אוסיף",
+      "rationale": "litteralment 'ma nżidx (nagħmel)', verb jasi — 'ma nżidx nsalva' iżżomm l-għerq tal-żied"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "Jaħwe jindires direttament lil Jisrael b'replika sħiħa"
+    }
+  ],
+  "translation": "U intom ħlietu ⟨את⟩ lilija, u tqbdulhom tqimu allat oħra; għalhekk ma nżidx nsalvakom iktar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/10\/13-16.1792607200149.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "u intom"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "ħlietu"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "lilija"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "u tqbdulhom tqimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allat"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oħra"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nżidx"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "nsalva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lilkom iktar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:26:40.150572227Z",
+  "model": "glm-5.3"
+}

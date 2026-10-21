@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סירים",
+      "rationale": "plural ta' סיר jista' jkun 'xoxxn' (il-ħoss meta jħarqu) jew 'kwarell'; l-erbat verżjonijiet qadma jagħżlu x-xoxxn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ħawel",
+      "rationale": "הבל huwa nifs\/fwar — 'Ħawel' izomm il-ħoss għerq"
+    }
+  ],
+  "translation": "Għax bħal il-ħoss tax-xoxxin taħt il-kwinti, hekk hu d-daħka tal-ġagħgel; anke dan hu Ħawel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/7\/5-8.1792620253625.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "bħal il-ħoss"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "tax-xoxxin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "il-kwinti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "d-daħka"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "tal-ġagħgel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "anke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Ħawel"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:13.626164417Z",
+  "model": "glm-5.3"
+}

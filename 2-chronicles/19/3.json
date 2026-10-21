@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 19:3",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האשרות",
+      "rationale": "KJV 'groves' is a crux; the Hebrew is the goddess Asherah's cult objects — 'l-Axerot' keeps the name."
+    },
+    {
+      "kind": "crux",
+      "subject": "לדרש האלהים",
+      "rationale": "'Seek Elohim' — some traditions add 'the God of thy fathers' (LXX\/wycliffe); the Hebrew of Chronicles lacks it here."
+    }
+  ],
+  "translation": "Imma affarijiet tajba nstabu miegħek, għax ħruqt lill-Axerot mill-art u ħejjejt qalbek biex tfittex lil Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e9694e9d2244538fe6f12e2b81ecf85492e25723d736071a90d79fa0dd309c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/19\/1-4.1792622580293.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "imma"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "affarijiet"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tajba"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "nstabu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miegħek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בערת",
+      "gloss": "ħruqt"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "l-Axerot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "והכינות",
+      "gloss": "u ħejjejt"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbek"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "biex tfittex"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lill-Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:43:00.294107563Z",
+  "model": "glm-5.3"
+}

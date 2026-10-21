@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kontrik",
+      "rationale": "Maltese needs 'against-you' to render the participle קמיך, your-risers"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħmerija",
+      "rationale": "שאון is uproar\/rushing noise, also destruction; one Maltese word chosen for sound"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "negative imperative continues the plea to God"
+    }
+  ],
+  "translation": "Tinsix il-leħen ta' għedewwek; il-ħmerija ta' dawk li jqumu kontrik titla' bla waqfien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/21-23.1792617383714.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "tinsix"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tinsix"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il-leħen"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ta' għedewwek"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "il-ħmerija"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "ta' dawk li jqumu kontrik"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "titla'"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bla waqfien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:23.714930371Z",
+  "model": "glm-5.3"
+}

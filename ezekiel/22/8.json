@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "qdusija",
+      "rationale": "קדשי plurali konkret ta' 'għemejjel qaddisa', mhux l-astratt 'qdusija' biss."
+    }
+  ],
+  "translation": "Il-qdusija tiegħi xkittajt, u ⟨את⟩ ix-Xabbat tiegħi dwejjt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/22\/5-8.1792614474629.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Il-qdusija tiegħi"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "xkittajt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ix-Xabbat tiegħi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ix-Xabbat tiegħi"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "dwejjt"
+    }
+  ],
+  "timestamp": "2026-10-21T20:27:54.631049614Z",
+  "model": "glm-5.3"
+}

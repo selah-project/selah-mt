@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשרי",
+      "rationale": "Interjection 'kemm huma hieni' (how happy), literally 'happinesses-of'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד יהללוך",
+      "rationale": "'od (still\/ever) with hillelukha (praise you): continual praise, 'għal dejjem' captures the continuance"
+    }
+  ],
+  "translation": "Kemm huma hieni dawk li joqogħdu f'darek; għal dejjem ihennulek. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/84\/5-8.1792617605518.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kemm huma hieni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dawk li joqogħdu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "f'darek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ihennulek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:05.519238492Z",
+  "model": "glm-5.3"
+}

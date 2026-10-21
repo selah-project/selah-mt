@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הפלה",
+      "rationale": "'separa\/ddistingwi b'mod mirakoluż' — 'għażel' huwa eqwis but the-miraculous-set-apart tone is flattened"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħasid",
+      "rationale": "minn għerq חסד — il-ħniena\/devozzjoni msemmija fl-għerq; 'ħasid' użat skont D2"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ħasid",
+      "rationale": "jista' jkun kollettiv 'ill-ħanin tiegħu' jew individwali 'il-bniedem ta' ħesed' — hawn individwali bħal David"
+    }
+  ],
+  "translation": "U afu li Jaħwe għażel ⟨għalih innifsu⟩ lil-ħasid; Jaħwe jisma' meta nsejjaħ lejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/4\/1-4.1792616562764.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "U afu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "għażel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ħasid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih innifsu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "jisma'"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "meta nsejjaħ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lejh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:42.765784766Z",
+  "model": "glm-5.3"
+}

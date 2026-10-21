@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Hebrew lacks copula between Jaħwe and l-kenn"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבישו",
+      "rationale": "'to shame\/put to shame' vs YLT's literal 'cause to stink' (root בושׁ in Hiphil); most versions choose 'shame'"
+    }
+  ],
+  "translation": "Il-pjan ta' dak il-missieket tagħmluh jistħi, għax Jaħwe ⟨hu⟩ l-kenn tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/14\/5-7.1792616620816.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Il-pjan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ta' dak il-missieket"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "tagħmluh jistħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "l-kenn tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:40.817283440Z",
+  "model": "glm-5.3"
+}

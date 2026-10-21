@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 3:38",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mżewweq",
+      "rationale": "ותקשר = 'u ġie marbut\/mehmuż flimkien' (marbut bħal ħabel) — mhux 'mżewweq'"
+    },
+    {
+      "kind": "crux",
+      "subject": "sal-kbira tiegħu",
+      "rationale": "עד חציה: 'sa nofs il-ħajt' — l-għoli jew it-tul? ħafna jqisu l-għoli; 'sa nofs' aktar litterali"
+    },
+    {
+      "kind": "addition",
+      "subject": "li taħdem",
+      "rationale": "לעשות = 'biex tagħmel\/taħdem' — il-Lhudi jagħti biss 'għamel', mhux 'ħadem' speċifikament"
+    }
+  ],
+  "translation": "U bnejna ⟨את⟩ il-ħajt, u l-ħajt kollu ġie mżewweq sal-kbira tiegħu, u l-poplu kollu kellu qalb li taħdem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "97d6c9fdbf6da73c636b752818484804bfb950050ba172f69c81a76bfd5b4b52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/3\/37-38.1792621309578.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבנה",
+      "gloss": "U bnejna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħajt"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "il-ħajt"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "u ġie mżewweq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "il-ħajt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חציה",
+      "gloss": "nofs tiegħu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kellu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "li taħdem"
+    }
+  ],
+  "timestamp": "2026-10-21T22:21:49.578718025Z",
+  "model": "glm-5.3"
+}

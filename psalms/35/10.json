@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ il-verbi 'hu' u 'li' fejn il-Lhudi juża partċipella sempliċi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kull għadam tiegħi jgħid",
+      "rationale": "espressjoni Lhudija: il-ġisem kollu jixhed, mhux għadam litteralment biss"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "indirizz dirett lil Jaħwe b'mistoqsija retorika: min hu bħalek"
+    }
+  ],
+  "translation": "Kull għadam tiegħi jgħid: Jaħwe, min hu bħalek, li jiffranka lill-fqir mill-iżjed qawwi minnu, u lill-fqir u lill-missken minn dak li jisirbulhom?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/9-12.1792616930184.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kull"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "għadam tiegħi"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hu bħalek"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "li jiffranka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lill-fqir"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mill-iżjed qawwi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "u lill-fqir"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "u lill-missken"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "minn dak li jisirbulhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:50.185574902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 16:41",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שפטים",
+      "rationale": "Hebrew 'sh'tim, judgments\/inflictions; rendered as ġudizzji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מזונה",
+      "gloss-rendering": "xiħa",
+      "rationale": "zanah rendered with the Maltese word for harlotry\/prostitution."
+    },
+    {
+      "kind": "addition",
+      "subject": "jiena",
+      "rationale": "Pronoun added to mark the shift of subject to God in 'I will cause you to cease'."
+    }
+  ],
+  "translation": "U joħorqu l-djar tiegħek bin-nar, u jaġġustizzjaw fik ġudizzji quddiem għajnejn nisa ħafna, u jiena nagħtik tiekli mix-xiħa, u lanqas ħlas m'tagħtihx iktar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1637f107a9beea5361044937165237a388109f0e17ba4a46f75720d50f865180",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/16\/41-44.1792614361586.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרפו",
+      "gloss": "u joħorqu"
+    },
+    {
+      "surface": "בתיך",
+      "gloss": "id-djar tiegħek"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "u jaġġustizzjaw"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fik"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ġudizzji"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "quddiem għajnejn"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nisa"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "u nagħtik tiekli"
+    },
+    {
+      "surface": "מזונה",
+      "gloss": "mix-xiħa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "ħlas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m'"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "tagħtih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    }
+  ],
+  "timestamp": "2026-10-21T20:26:01.587250655Z",
+  "model": "glm-5.3"
+}

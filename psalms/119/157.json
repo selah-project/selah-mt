@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "mjiltx",
+      "rationale": "נטיתי literally 'I have not bent\/swerved away'; Maltese 'tlajt xejn milli' would be a second reading"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבים...רדפי",
+      "rationale": "alliteration rab–rodefai, lost in Maltese"
+    }
+  ],
+  "translation": "Ħafna huma dawk li jippersegwitawni u l-għedewwa tiegħi; imma mill-edot tiegħek ma mjiltx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/157-160.1792618081377.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ħafna"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "dawk li jippersegwitawni"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "u l-għedewwa tiegħi"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "mill-edot tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "mjiltx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:01.378243944Z",
+  "model": "glm-5.3"
+}

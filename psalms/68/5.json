@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-verb 'to be' fejn il-Lhudi jgħid biss 'ismu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "fid-deżerti",
+      "rationale": "בערבות: 'deżerti' skont il-Lhudi, imma l-kuntest tal-Ugaritiku jissuġġerixxi 'sħab' — minn hemm 'rieheb fis-smewwiet' ta' verżjonijiet oħra"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperattivi",
+      "rationale": "erba' imperattivi plurali (kantaw, għannu, sawtru, ħejju) iserrħu l-qarrej biex jieħu sehem"
+    }
+  ],
+  "translation": "Kantaw lil Elohim, għannu lill-ismu tiegħu; sawtru triq lil min jrieheb fid-deżerti; ismu huwa Jaħ; u ħejju ferħ quddiemu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/68\/5-8.1792617291163.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Kantaw"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lil Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "għannu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lill-ismu tiegħu"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "sawtru triq"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "lil min jrieheb"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "fid-deżerti"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Jaħ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "u ħejju ferħ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:51.164471479Z",
+  "model": "glm-5.3"
+}

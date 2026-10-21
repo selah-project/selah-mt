@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tinbet",
+      "rationale": "צמח hu verb ta' tbibir tal-pjanti; 'tinbet' żżomm il-ħolqien agrikolu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "verità mis-semiela",
+      "rationale": "il-Malti 'Semel' jirrifletti l-għerq"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשקף",
+      "rationale": "litteralment 'jitla' fuq it-tieqa' (bħal Sisera, Ġud 5:28): 'jħares' jew 'jintlewat'; il-Lhudi għandu stampa ta' wiċċ imdawwar lejn l-art"
+    }
+  ],
+  "translation": "Verità tinbet mill-art, u tsedeq jitħares 'l isfel mis-sema.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/85\/9-12.1792617559060.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Verità"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "tinbet"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "u tsedeq"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mis-sema"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "jitħares 'l isfel"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:19.061736394Z",
+  "model": "glm-5.3"
+}

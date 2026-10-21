@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is- \/ ta'",
+      "rationale": "artiklu u prepożizzjoni miżjuda bil-Malti għall-kostrutt Lhudi mehmż"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשיחה",
+      "rationale": "l-ewwel persuna tal-futur 'niħdirlilha f'qalbi u nkellem' ma tgħaddix b'kelma waħda"
+    }
+  ],
+  "translation": "Is-seħba tal-ġid kollu li int, u l-kliem ta' l-għeġubijiet tiegħek, se nħares fihom bis-serħan il-moħħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/145\/5-8.1792618220958.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "is-seħba"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tal-ġid"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kollu li int"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "u l-kliem"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ta' l-għeġubijiet tiegħek"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "se nħares fihom bis-serħan il-moħħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:20.959236792Z",
+  "model": "glm-5.3"
+}

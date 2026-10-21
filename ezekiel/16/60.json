@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezekiel 16:60",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għal dejjem",
+      "rationale": "עוֹלָם mill-għerq 'jaħbi' — 'ħin ma jidhirx', 'il-boghod'; 'għal dejjem' tiffrankar iżżid it-tifsira tan-nuqqas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "niftakar",
+      "rationale": "זָכַר jista' jkun ukoll 'nżomm ħaj fil-memorja u nġib fil-ħsieb' — f'patt: 'nżomm u nagħti effett'"
+    }
+  ],
+  "translation": "Imma jiena niftakar ⟨את⟩ il-patt tiegħi ⟨את⟩ magħkek f'jiem iż-żgħożith tiegħek, u nqajjem għalik patt ta' għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/16\/57-60.1792614365664.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "u niftakar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-patt tiegħi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il-patt tiegħi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ magħkek"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "f'jiem"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "iż-żgħożith tiegħek"
+    },
+    {
+      "surface": "והקמותי",
+      "gloss": "u nqajjem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "patt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta' għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T20:26:05.665799033Z",
+  "model": "glm-5.3"
+}

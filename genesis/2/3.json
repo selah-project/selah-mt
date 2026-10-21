@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "'biex jagħmel' — KJV iżżid 'u għamel'; il-Lhudi jlaqqat il-ħolqien ma' għemil ieħor"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת",
+      "rationale": "l-istess għerq ta' Xabbat; il-jum issejjaħ mill-verb ta' mistrieħ"
+    }
+  ],
+  "translation": "U Elohim berik ⟨את⟩ il-jum is-seba' u qaddes ⟨את lilu⟩, għax fih strieħ minn kollha l-ħidma tiegħu li Elohim ħalaq biex jagħmel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/2\/1-4.1792597743133.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "u berik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-jum is-seba'"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il-jum"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "is-seba'"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "u qaddes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את lilu⟩",
+      "marks": "il-jum is-seba'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "strieħ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn kollha"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "l-ħidma tiegħu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ħalaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "biex jagħmel"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:03.134804751Z",
+  "model": "glm-5.3"
+}

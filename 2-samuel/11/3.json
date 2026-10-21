@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמר",
+      "rationale": "Min jitkellem? Ħafna traduzzjonijiet jżidu 'wieħed qal' (kelma dwar subordinat), imma s-sens jista' jkun li David stqarr; il-Lhudi ma jgħidx."
+    },
+    {
+      "kind": "addition",
+      "subject": "subordinat ma ssemmax",
+      "rationale": "Il-mistoqsija 'Mhux din...?' tiġi minn ħadd ieħor f'ħafna verżjonijiet, għalkemm is-suġġett m'hux fit-test."
+    }
+  ],
+  "translation": "U David bagħat u staqsa dwar il-mara, u qal: Mhux din Bat-Xeva, bint Eliam, mara Urjaħ il-Ħittit?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/11\/1-4.1792608755767.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "u staqsa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dwar il-mara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Xeva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urjaħ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "il-Ħittit"
+    }
+  ],
+  "timestamp": "2026-10-21T18:52:35.768920146Z",
+  "model": "glm-5.3"
+}

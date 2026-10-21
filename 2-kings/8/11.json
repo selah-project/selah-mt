@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעמד את פניו",
+      "rationale": "min fissa lil min: Elixa ħares f'Ħazael sa ma dan jistħi (il-maġġoranza), jew Elixa stess tela' jistħi"
+    },
+    {
+      "kind": "secret",
+      "subject": "il-bkiem",
+      "rationale": "Elixa jibki għax jara x'ħa jsir — moħbi għal Ħazael għalissa"
+    }
+  ],
+  "translation": "U ġegħel wiċċu ⟨את⟩ quddiemu jaqgħu 'il fuq sa ma ħareġ jistħi, u bkien il-bniedem ta' Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/9-12.1792610231963.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "U ġegħel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiċċu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wiċċu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ġegħel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "בש",
+      "gloss": "ħareġ jistħi"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "u bkien"
+    },
+    {
+      "surface": "איש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:17:11.964642983Z",
+  "model": "glm-5.3"
+}

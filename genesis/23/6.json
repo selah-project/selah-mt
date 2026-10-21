@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 23:6",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "prinċep ta' Elohim",
+      "rationale": "נשיא אלהים: 'prinċep ta' Elohim' litteralment, kontra 'prinċep qawwi' (KJV\/JPS) li jittraskura lil Elohim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidi",
+      "rationale": "אדני hawnhekk jindirizza lil bniedem (Avraham), għalhekk 'sidi' mhux 'Adonaj'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħadd",
+      "rationale": "'איש ממנו' litteralment 'raġel minna'; 'ħadd minna' jagħti s-sens in-negattiv Malti"
+    }
+  ],
+  "translation": "Isimħulna, sidi: inti prinċep ta' Elohim fostna; fl-aqwa mill-oqbra tagħna dfni ⟨את⟩ lill-mejtieħek; ħadd minna ma jżomm ⟨את⟩ il-qabar tiegħu mingħajrek, milli tidfen lill-mejtieħek.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/23\/5-8.1792598203668.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Isimħulna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "prinċep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "fostna"
+    },
+    {
+      "surface": "במבחר",
+      "gloss": "fl-aqwa"
+    },
+    {
+      "surface": "קברינו",
+      "gloss": "mill-oqbra tagħna"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dfni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-mejtieħek"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "lill-mejtieħek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħadd"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qabar tiegħu"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "il-qabar tiegħu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "jżomm"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mingħajrek"
+    },
+    {
+      "surface": "מקבר",
+      "gloss": "milli tidfen"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "lill-mejtieħek"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:43.669384561Z",
+  "model": "glm-5.3"
+}

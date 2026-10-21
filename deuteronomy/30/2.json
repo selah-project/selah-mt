@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajtek",
+      "rationale": "נפש hija nifs\/ħajja-fozza, mhux 'ruħ' flimkien ma' ġisem"
+    },
+    {
+      "kind": "addition",
+      "subject": "kollha",
+      "rationale": "il-לבבך u נפשך already jinkludu כל; milli jidher duppjata fil-glossi — כל huwa fit-tokens 14 u 16"
+    }
+  ],
+  "translation": "u terġa' lura għand Jaħwe, l-Elohim tiegħek, u tisma' leħnu, skont kull ma jien nobrik illum, int u uliedok, b'qalbek kollha u b'ħajtek kollha —",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f4fa5485448be3f6c4a23bee0c8bdaf45de84f7449d91d37ab125883014f80a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/1-4.1792606042317.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "u terġa' lura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "għand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-Elohim tiegħek"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "u tisma'"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "leħnu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "skont kull ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nobrik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "u uliedok"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "b'"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbek kollha"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "u b'"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ħajtek kollha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:22.317883456Z",
+  "model": "glm-5.3"
+}

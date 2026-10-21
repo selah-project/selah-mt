@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pala",
+      "rationale": "כף tfisser litteralment il-pala tal-id; bl-Ingliż 'spoon\/pan' — il-forma tal-id ntilfet"
+    },
+    {
+      "kind": "addition",
+      "subject": "xeqel",
+      "rationale": "il-Lhudi jgħid 'għaxra' biss; il-kelma xeqel miżjuda biex il-piż jifhem"
+    },
+    {
+      "kind": "measurement",
+      "subject": "għaxar",
+      "rationale": "piż id-deheb: għaxar (xeqel)"
+    }
+  ],
+  "translation": "pala waħda tad-deheb, għaxar ⟨xeqel⟩, mimlija inċens.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ab917de84892d6d36210ffd857c93b88947bb2dc7beb69878900cd3254dcf091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/7\/17-20.1792602540162.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "pala"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "għaxar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mimlija"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "inċens"
+    }
+  ],
+  "timestamp": "2026-10-21T17:09:00.165664363Z",
+  "model": "glm-5.3"
+}

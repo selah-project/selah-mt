@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 12:2",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "humma",
+      "rationale": "il-verb kopula li jieħu l-Malti mhux hemm fil-Lhudi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "minn żgħożiti sa dan il-jum",
+      "rationale": "firxa ta' żmiel, minn żgħożithom sal-lum."
+    },
+    {
+      "kind": "elision",
+      "subject": "הנם",
+      "gloss": "ara huma",
+      "rationale": "il-ה ה- demostrattiva ġiet imħaddma b'«huma»"
+    }
+  ],
+  "translation": "U issa, ara, is-sultan jimxi quddiemkom, u jien xjajt u sfajt, u uliedi — ara huma ⟨את⟩ magħkom — u jien mort quddiemkom minn żgħożiti sa ⟨dan il-jum⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/12\/1-4.1792607962789.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "jimxi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "quddiemkom"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "xjajt"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "u sfajt"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "u uliedi"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ara huma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ magħkom"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "mort"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "quddiemkom"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "minn żgħożiti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-jum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:39:22.790995792Z",
+  "model": "glm-5.3"
+}

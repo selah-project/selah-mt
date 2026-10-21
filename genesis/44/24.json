@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sidi",
+      "rationale": "אדני here refers to a man (Joseph), so 'sidi' per D1, not 'Adonaj'"
+    }
+  ],
+  "translation": "U ġralha meta tlajna għand il-qaddej tiegħek, missierna, u wissejnieh ⟨את⟩ kliem sidi.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/44\/21-24.1792598937194.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġralha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tlajna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il-qaddej tiegħek"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missierna"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "u wissejnieh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kliem sidi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kliem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    }
+  ],
+  "timestamp": "2026-10-21T16:08:57.196168284Z",
+  "model": "glm-5.3"
+}

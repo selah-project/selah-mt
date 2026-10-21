@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארחם\/והושעתים",
+      "rationale": "Il-kliem ta' ħniena u salvazzjoni għal Juda jiġu wara l-qaws maċċra ta' Jisrael fil-vers 5: l-għażla tikkontrasta ż-żewġt idjar."
+    },
+    {
+      "kind": "addition",
+      "subject": "fuqha",
+      "rationale": "l-għarqub ġej mill-kompliment ta' בית יהודה; il-Lhudi jgħid il-verb biss."
+    }
+  ],
+  "translation": "U ⟨את⟩ dar Juda nħenn fuqha, u nsalvahom b'Jaħwe, l-Elohim tagħhom, u mhux insalvahom b'qaws u b'sejf u bil-ġlied, biż-żwiemel u bir-rikkbien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/1\/5-8.1792615335914.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dar Juda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "nħenn fuqha"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "u nsalvahom"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "b'Jaħwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "l-Elohim tagħhom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "insalvahom"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "b'qaws"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "u b'sejf"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "u bil-ġlied"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "biż-żwiemel"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "u bir-rikkbien"
+    }
+  ],
+  "timestamp": "2026-10-21T20:42:15.915454585Z",
+  "model": "glm-5.3"
+}

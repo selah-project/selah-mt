@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ħu ir-ras",
+      "rationale": "נשא את ראש 'irfa' r-ras' = agħmel ċensiment; litterali jibqa' fil-figura tar-ras mitmugħa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rjus",
+      "rationale": "גלגלת litteralment 'kranju' — għadd bir-rjus, jiġifieri wieħed wieħed."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ċensiment",
+      "rationale": "Kmand ta' għadd b'ismijiet, familji u djar — l-istruttura tal-ktieb kollu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ħu",
+      "rationale": "Imperattiv dirett lil Moxe (u lil Aħron, v.3)."
+    }
+  ],
+  "translation": "Ħu ⟨את⟩ ir-ras ta' kul-l-assemblea ta' wlied Jisrael, skont il-familji tagħhom, skond id-djar tal-missirijiet tagħhom, bin-numru tal-ismijiet, kull raġel, bir-rjus tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/1\/1-4.1792602411892.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ir-ras"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ir-ras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "l-assemblea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "skont il-familji tagħhom"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "skond id-djar"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "tal-missirijiet tagħhom"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bin-numru"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tal-ismijiet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "bir-rjus tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:51.894757912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעים",
+      "rationale": "l-istess kelma għall-ħażin u l-ħżiena tgħlaq il-salm, xejn ma jintilef bil-Malti"
+    }
+  ],
+  "translation": "Il-ħażin jarah u jagħdab; is-snien tiegħu jaħrqom u jdub; ix-xewqa tal-ħżiena titlef.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/112\/9-10.1792617934144.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "jarah"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "u jagħdab"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "is-snien tiegħu"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "jaħrqom"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "u jdub"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ix-xewqa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tal-ħżiena"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "titlef"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:34.145468595Z",
+  "model": "glm-5.3"
+}

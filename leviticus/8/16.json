@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יתרת הכבד",
+      "rationale": "'iż-żejjed tal-fwied' — il-lobu tal-fwied, literally dak li joħroġ iżżejjed; forom oħra: 'il-mitħna tal-fwied'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת חלבהן",
+      "rationale": "l-objett ta' ויקטר mhux espliċitu fil-Lhudi; 'fuq l-artal' fil-glossa tal-locative המזבחה"
+    }
+  ],
+  "translation": "U ħa ⟨את⟩ xaħam kollu li fuq l-imsaren, u ⟨את⟩ iż-żejjed tal-fwied, u ⟨את⟩ iż-żewġ klawri u ⟨את⟩ xaħamhom; u Moxe ħarreġ duħħan fuq l-artal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/13-16.1792600681509.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaħam kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "xaħam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "l-imsaren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iż-żejjed tal-fwied"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "iż-żejjed"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tal-fwied"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iż-żewġ klawri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "klawri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "xaħamhom"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "xaħamhom"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ħarreġ duħħan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "fuq l-artal"
+    }
+  ],
+  "timestamp": "2026-10-21T16:38:01.510558641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקלקלותם",
+      "rationale": "Reduplication in עקלקל (crooked-crooked ways) — intensive doubling lost in a single Maltese word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-ħażen",
+      "rationale": "האון is literally 'nothingness\/vanity' (also idol); rendered as 'wickedness' after context."
+    },
+    {
+      "kind": "crux",
+      "subject": "jmexxihom",
+      "rationale": "יוליכם: 'lead them away (to destruction)' vs 'lead them forth (into exile)'; causative of 'walk' kept neutral as 'lead'."
+    }
+  ],
+  "translation": "U dawk li jderrgħu għal toroq inkurati tagħhom, Jaħwe jmexxihom ma' ⟨את⟩ dawk li jagħmlu l-ħażen; paċi fuq Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/125\/5-5.1792618091469.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "u dawk li jderrgħu"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "għal toroq inkurati tagħhom"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "jmexxihom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawk li jagħmlu l-ħażen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dawk li jagħmlu"
+    },
+    {
+      "surface": "האון",
+      "gloss": "l-ħażen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paċi"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:11.469608671Z",
+  "model": "glm-5.3"
+}

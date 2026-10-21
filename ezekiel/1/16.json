@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 1:16",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tarxix",
+      "rationale": "תרשיש: ġemma mhux identifikata — 'topaz', 'berillju', 'krisolitu'; ħallejt il-ħoss Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lewn",
+      "rationale": "עין litteralment 'għajn', hawn bħala d-dija\/lewn tal-ġemma"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Kopula Miżjuda għall-istruttura Maltija; il-Lhudi juża כאשר יהיה 'bħalma tkun'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "erbgħa minnhom",
+      "rationale": "L-għadd tal-erbgħa roti jsir bħal fl-art wieħed biss kif jaħseb il-Lhudi"
+    }
+  ],
+  "translation": "Id-dehra tar-roti u l-għemil tagħhom bħal lewn ta' tarxix, u xebh wieħed għall-erbgħa minnhom; u d-dehra tagħhom u l-għemil tagħhom kien bħalma rota tkun f'nofs rota.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a8c9e0f160dee78bde790bcb57615d5c22af6796f99575ccc28fe8336271aff2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/1\/13-16.1792614026332.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מראה",
+      "gloss": "Id-dehra"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "tar-roti"
+    },
+    {
+      "surface": "ומעשיהם",
+      "gloss": "u l-għemil tagħhom"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "bħal lewn ta'"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "tarxix"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "u xebh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "għall-erbgħa minnhom"
+    },
+    {
+      "surface": "ומראיהם",
+      "gloss": "u d-dehra tagħhom"
+    },
+    {
+      "surface": "ומעשיהם",
+      "gloss": "u l-għemil tagħhom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bħalma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "rota"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "rota"
+    }
+  ],
+  "timestamp": "2026-10-21T20:20:26.333757829Z",
+  "model": "glm-5.3"
+}

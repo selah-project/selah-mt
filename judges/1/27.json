@@ -1,0 +1,177 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 1:27",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-bniet tagħha",
+      "rationale": "litteralment 'il-bniet tagħha' — rħula satelliti msejħa bniet bil-Ħebra; il-forma tibqa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויואל",
+      "rationale": "'kellu moħħu \/ ried' kontra 'għażel li' — il-Kenaani xtaq joqgħod aktar milli ġie mġiegħel"
+    },
+    {
+      "kind": "addition",
+      "subject": "lanqas",
+      "rationale": "il-lista Hebrajka uża 'u' biss; 'lanqas' miżjuda biex il-lista Maltija tifqa"
+    }
+  ],
+  "translation": "U Manasse ma keċċax ⟨את⟩ Bejt-Xan u ⟨את⟩ il-bniet tagħha, u lanqas ⟨את⟩ Taanak u ⟨את⟩ il-bniet tagħha, u lanqas ⟨את⟩ dawk li joqogħdu f'Dor u ⟨את⟩ il-bniet tagħha, u lanqas ⟨את⟩ dawk li joqogħdu f'Jivl'am u ⟨את⟩ il-bniet tagħha, u lanqas ⟨את⟩ dawk li joqogħdu f'Megiddo u ⟨את⟩ il-bniet tagħha; imma l-Kenaani kellu moħħu joqgħod f'dik l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/25-28.1792606988222.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma keċċax"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "keċċa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bejt-Xan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bejt"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Xan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bniet tagħha"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "il-bniet tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u lanqas ⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bniet tagħha"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "il-bniet tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u lanqas ⟨את⟩",
+      "marks": "dawk li joqogħdu f'Dor"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dawk li joqogħdu f'"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bniet tagħha"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "il-bniet tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u lanqas ⟨את⟩",
+      "marks": "dawk li joqogħdu f'Jivl'am"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dawk li joqogħdu f'"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "Jivl'am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bniet tagħha"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "il-bniet tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u lanqas ⟨את⟩",
+      "marks": "dawk li joqogħdu f'Megiddo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dawk li joqogħdu f'"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bniet tagħha"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "il-bniet tagħha"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "kellu moħħu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "l-Kenaani"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "f'dik l-art"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dik"
+    }
+  ],
+  "timestamp": "2026-10-21T18:23:08.223719552Z",
+  "model": "glm-5.3"
+}

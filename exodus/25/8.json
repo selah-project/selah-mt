@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiena",
+      "rationale": "is-suffiss ta' שכנתי jgħid 'jiena', iżżejtnieh għaċ-ċarezza bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "santwarju",
+      "rationale": "מקדש litteralment 'post qaddis' — kelma waħda mill-għerq קדש"
+    }
+  ],
+  "translation": "U jagħmlu lili santwarju, u ⟨jiena⟩ noqgħod f'nofshom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/25\/5-8.1792599869698.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "U jagħmlu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "santwarju"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "u noqgħod"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "f'nofshom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:24:29.699447597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jridha għall-ġUDGE"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħen",
+      "rationale": "חן tfisser ġmiel u favorenn fl-istess ħin; kelma waħda miżmuma qrib tal-Lhudi"
+    },
+    {
+      "kind": "crux",
+      "subject": "לֹתבלענו",
+      "rationale": "Suffiss -נו: 'jitbillgħu lilu nnifsu' jew 'jitbillgħuh (lil raħel)' — tradizzjonijiet maqsumin"
+    }
+  ],
+  "translation": "Il-kliem tal-ħalq ta' raħel ⟨hu⟩ ta' ħen, iżda x-xofftejn tas-sekil jitbillgħuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "14899773ea7a1631cfac784950340b8583481a65ef8bc330a4a768f619561719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/10\/12-12.1792623881629.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tal-ħalq"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ta' raħel"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ħen"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "x-xofftejn"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tas-sekil"
+    },
+    {
+      "surface": "תבלענןו",
+      "gloss": "jitbillgħuh"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:41.630053421Z",
+  "model": "glm-5.3"
+}

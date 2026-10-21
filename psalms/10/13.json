@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על מה",
+      "rationale": "il-Lhudi jgħid 'fuq x'?' — bil-Malti 'Għaliex?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תדרש",
+      "rationale": "'tfittex (theddem kont)' kontra 'titlob kont': דרש tfittex\/itlob kont, il-kelma tidher f'10:4 u 10:15"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאץ\/רשע",
+      "rationale": "alliterazzjoni ta' z-z-fiħħa mal-ħażin — ntilfet bil-Malti"
+    }
+  ],
+  "translation": "Għaliex il-ħażin jisparaġna lil Elohim? Qal f'qalbu: M'intix se tfittex (tqis).",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/13-16.1792616516127.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(għaliex)"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "jisparaġna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Qal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "f'qalbu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "M'intix"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "se tfittex"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:56.127570342Z",
+  "model": "glm-5.3"
+}

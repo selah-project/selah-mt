@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "f'",
+      "rationale": "il-Lhudi għandu ismek direttament bil-verb ftakart; il-prepożizzjoni miżjuda bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħarisjt",
+      "rationale": "נצר\/שמר tfisser tħares bħax-xewk, tirża — mhux sempliċiment tobez"
+    }
+  ],
+  "translation": "Fil-leil ftakart ⟨f'isemek⟩, Jaħwe, u ħarisjt Toret.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/53-56.1792618056525.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ftakart"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "fil-leil"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "f'isemek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "u ħarisjt"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toret"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:36.526385910Z",
+  "model": "glm-5.3"
+}

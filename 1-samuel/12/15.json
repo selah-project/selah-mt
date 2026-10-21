@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fomm Jaħwe",
+      "rationale": "Traduzzjonijiet bħal KJV\/JPS jagħtu 'commandment'; il-Lhudi litterali hu 'fomm' Jaħwe"
+    },
+    {
+      "kind": "elision",
+      "subject": "bħalma kienet kontra missirijietkom",
+      "rationale": "Din il-frażi tal-KJV\/ASV m'hix fil-Lhudi f'dan il-vers"
+    }
+  ],
+  "translation": "U jekk ma tisimgħux leħen Jaħwe, u tirribellaw kontra ⟨את⟩ fomm Jaħwe, id Jaħwe tkun fuqkom u fuq missirijietkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/12\/13-16.1792607949519.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "U jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tisimgħux"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "u tirribellaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-fomm ta' Jaħwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "il-fomm ta'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "u tkun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fuqkom"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "u fuq missirijietkom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:39:09.520016451Z",
+  "model": "glm-5.3"
+}

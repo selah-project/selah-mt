@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 27:28",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ il-verb 'kien'; il-Lhudi għandu biss 'u fuq'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fil-baxx",
+      "rationale": "השפלה bl-artiklu huwa isem ta' post — il-Baxx (Shefela), il-pjanura kostali ta' Ħudah"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-lista tas-superintendenti",
+      "rationale": "Dan il-passaġġ huwa inventarju amministrattiv tas-sultan David"
+    }
+  ],
+  "translation": "U fuq iż-żebbuġ u s-siġar tas-sicomor li kienu fil-baxx, kien Baal-Ħanan il-Gederi, u fuq il-maħżen taż-żejt kien Joax.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd566db08673027307713596f3b4ee2afd20c998fc6e7dfe30e31bd9b36820b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/27\/25-28.1792622192470.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "U fuq"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "iż-żebbuġ"
+    },
+    {
+      "surface": "והשקמים",
+      "gloss": "u s-siġar tas-sicomor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "fil-baxx"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ħanan"
+    },
+    {
+      "surface": "הגדרי",
+      "gloss": "il-Gederi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "il-maħżen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "taż-żejt"
+    },
+    {
+      "surface": "יועש",
+      "gloss": "Joax"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:32.471392490Z",
+  "model": "glm-5.3"
+}

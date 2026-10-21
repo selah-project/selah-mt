@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומכבדו",
+      "rationale": "suffix 'him' — honoring the Maker (KJV\/JPS) vs the Kethiv reading 'honors him [the poor]' (LXX, Geneva follows Maker); kept 'him' = the Maker"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-Ħaliq",
+      "rationale": "עשהו participle 'the-one-who-made-him'; Maltese needs a noun form"
+    }
+  ],
+  "translation": "Dak li joqgħod lid-dgħif jistmeh lil-Ħaliqu; u min jagħtih ġieħ juri ĥniena lill-batut.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fba42c40bf9affc3fdd5d2f40c5d3e593b95c68d1abe959f275af7a4f559c92b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/29-32.1792618638594.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "דל",
+      "gloss": "lid-dgħif"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "jistmeh"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "lil-Ħaliqu"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "u min jagħtih ġieħ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "juri ĥniena"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "lill-batut"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:18.594958480Z",
+  "model": "glm-5.3"
+}

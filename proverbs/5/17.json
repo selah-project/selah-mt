@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-iben",
+      "rationale": "indirizz dirett lill-iben fit-twelid tal-poeżija ta' twissija"
+    }
+  ],
+  "translation": "Jkunu għalik int biss, u ma jkux hemm għall-barranin ⟨את⟩ miegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/5\/17-20.1792618442709.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "int biss"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u ma jkux hemm"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "għall-barranin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "barranin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:02.710123753Z",
+  "model": "glm-5.3"
+}

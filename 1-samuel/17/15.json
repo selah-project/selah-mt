@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "kien imur u jerġa' jiġi",
+      "rationale": "הלך ושב jista' jkun ukoll passat sempliċi ('marr u reġa' lura') jew drawwa kontinwa; il-Malti bil-'kien' jaqbel ma' dawk li jqraw 'kien imur u jierġa' jiġi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "in-nagħaġ",
+      "rationale": "צאן hija kelma kollettiva għal nagħaġ u mogħoż flimkien."
+    }
+  ],
+  "translation": "U David kien imur u jerġa' jiġi minn għand Sawl biex jirgħa ⟨את⟩ in-nagħaġ ta' missieru f'Bet Leħem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/13-16.1792608008405.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "U David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kien imur"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "u jerġa' jiġi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn għand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "biex jirgħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nagħaġ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "in-nagħaġ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ta' missieru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Leħem"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:08.406642800Z",
+  "model": "glm-5.3"
+}

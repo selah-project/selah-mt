@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "Il-Lhudi ma għandux il-pronun bil-qiegħ tal-verb; miżjud biex jifher"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ejjew, ulied, isimgħu",
+      "rationale": "Sejħa imperattiva lill-qarrej\/smiegħa biex joħolqu u jisimgħu"
+    }
+  ],
+  "translation": "Ejjew, ulied, isimgħu lili: il-biża' ta' Jaħwe jien ngħallimkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f52088e1c8bb138468f344f53732436ae14d4a1be4fb1e11aad4c6c45131a125",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/34\/12-12.1792623789142.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ejjew"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "isimgħu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "il-biża'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ngħallimkom"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:09.143170088Z",
+  "model": "glm-5.3"
+}

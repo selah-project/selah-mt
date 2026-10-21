@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "toħu u voħu",
+      "rationale": "תהו ובהו — rima interna bl-istess għerq hazel; miżmula qariba tal-ħoss Lhudi"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "il-femminil għal ruwaħ miżjud biex iċċara l-grammatika Maltija"
+    },
+    {
+      "kind": "crux",
+      "subject": "ruwaħ Elohim",
+      "rationale": "ruwaħ ta' Elohim: 'riħ', 'nifs' jew 'Spirtu' — miżmuma b'kelma waħda skont ir-regola"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו\/תהום",
+      "rationale": "paronomażja bejn toħu u teħom, il-ħoss jibqa' fil-Malti"
+    }
+  ],
+  "translation": "U l-art kienet toħu u voħu, u d-dlam kien fuq wiċċ it-teħom, u ruwaħ Elohim kienet twettjek fuq wiċċ l-ilma.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/1-4.1792597699347.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "U l-art"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "toħu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "u voħu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "u d-dlam"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "it-teħom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "u ruwaħ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "kienet twettjek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "l-ilma"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:19.348299160Z",
+  "model": "glm-5.3"
+}

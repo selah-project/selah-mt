@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קפוז",
+      "rationale": "Serp-vleġġa (li jirrimja bħal vleġġa) — kelma li tidher hawn biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותמלט",
+      "rationale": "Għerq מלט 'ħarbet \/ tmerħil', imqiegħed hawn bħala 'tqiegħdet (bajd)' skond il-qari tal-qedem; forsi 'ħarbet' litteralment"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותמלט",
+      "rationale": "Il-Ħiber jgħid 'ħarbet\/merħil', it-traduzzjoni tqiegħdet skond il-kuntest tan-niss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעותה",
+      "rationale": "Rima ma' רעהu fis-vers 14 — l-għajn tal-kelma ta' sieħba ssir sensieh"
+    }
+  ],
+  "translation": "Hemm bniet bejtha s-serp-vleġġa, u tqiegħdet, u faqqgħet, u biddret taħt id-dell tagħha; biss hemm ingħarġu l-ajkras, kull waħda mas-sieħba tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ea114dec5fecd75e3ff2606f4ef696dd1adad8d6cea12c67b8694eea0465e8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/34\/14-15.1792623512592.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "bniet bejtha"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "is-serp-vleġġa"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "u tqiegħdet"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "u faqqgħet"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "u biddret"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "taħt id-dell tagħha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "biss"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "ingħarġu"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "l-ajkras"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kull waħda"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "mas-sieħba tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:32.593177305Z",
+  "model": "glm-5.3"
+}

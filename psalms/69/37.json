@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta' l-irġiel",
+      "rationale": "Malti jeħtieġ 'ta'' għall-kostrutt זרע עבדיו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zer‛ \/ nisel",
+      "rationale": "זרע huwa l-imsawtar tal-ħajja; 'nisel' (tiġried) huwa l-ekwivalenti naturali bil-Malti"
+    }
+  ],
+  "translation": "U n-nisel ta' l-irġiel qaddejjaħ jeretuha, u dawk li jħobbu lil ismu joqogħdu fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "da3a4184a082a585f417f390c0147b52becaec31662dcd7a765bd6b24afc3ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/37-37.1792617349366.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "U n-nisel"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ta' l-irġiel qaddejjaħ"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "jeretuha"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "u dawk li jħobbu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lil ismu"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "joqogħdu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:49.366806190Z",
+  "model": "glm-5.3"
+}

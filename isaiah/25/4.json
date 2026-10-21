@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מזרם \/ כזרם",
+      "rationale": "Ripetizzjoni tal-istess kelma זרם darbtejn — mogħtija b'l-istess kelma 'ragħad' iż-żewġ drabi"
+    },
+    {
+      "kind": "crux",
+      "subject": "כזרם קיר",
+      "rationale": "'bħal ragħad kontra ħajt' jew 'bħal ragħad ħajt' (suffursidu) — KJV\/ASV kontra YLT"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח irrenduta b'ruwaħ skont ir-regola, mhux 'spirtu'"
+    }
+  ],
+  "translation": "Għax int kint fortizza lill-foqra, fortizza lill-membli fin-niket tagħhom, kenn mir-ragħad, dell mis-sħana; għax ir-ruwaħ tal-qattiela bħal ragħad kontra ħajt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7bb95e0e15ceb423ac2a45287e22e54a883347c1052115c90f986c872004d217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/25\/1-4.1792611413838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "היית",
+      "gloss": "int kint"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fortizza"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "lill-foqra"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fortizza"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "lill-membli"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "fin-niket"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tagħhom"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "mir-ragħad"
+    },
+    {
+      "surface": "צל",
+      "gloss": "dell"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mis-sħana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ir-ruwaħ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "tal-qattiela"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "bħal ragħad"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ħajt"
+    }
+  ],
+  "timestamp": "2026-10-21T19:36:53.839662939Z",
+  "model": "glm-5.3"
+}

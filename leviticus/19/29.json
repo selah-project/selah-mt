@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħażen",
+      "rationale": "זִמָּה tfisser biċċa maħsuba ħażina, pjan ħażin; 'ħażen' jimxi ħafif fuq il-preċiżjoni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחלל\/להזנותה\/תזנה",
+      "rationale": "għerq żנה jidher darbtejn (tiżżina... tiżżina), repetizzjoni li tqiegħed il-bint u l-art fl-istess faħħa"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "prepożizzjoni Maltija meħtieġa qabel oġġett dirett bil-ktieb"
+    }
+  ],
+  "translation": "M'għandekx tiddishonora ⟨את⟩ lil bintek biex tiżżina; u l-art ma tiżżinax, u l-art ma timtlax bil-ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/29-32.1792601038454.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "m'għandekx"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "tiddishonora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil bintek"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "bintek"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "biex tiżżina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "tiżżinax"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "u ma timtlax"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bil-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T16:43:58.454906399Z",
+  "model": "glm-5.3"
+}

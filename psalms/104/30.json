@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħek",
+      "rationale": "רוח = ruwaħ, mhux 'spirtu' waħdu"
+    }
+  ],
+  "translation": "Ibgħat lil ruwaħek, u jiġu maħluqa; u taġġorna l-wiċċ tal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/29-32.1792617830565.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "tibgħat"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruwaħek"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "jiġu maħluqa"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "u taġġorna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:50.565858733Z",
+  "model": "glm-5.3"
+}

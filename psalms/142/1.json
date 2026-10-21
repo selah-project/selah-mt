@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poema ta' tagħlim",
+      "rationale": "משכיל huwa terminu tat-titli tas-salmi, 'didattiku'; l-ebda ekwivalenti wieħed eżatt bil-Malti"
+    },
+    {
+      "kind": "elision",
+      "subject": "בהיותו",
+      "rationale": "kostruzzjoni infinitiva 'fil-kiesra li kien' inċentralizzata għal 'meta kien'"
+    }
+  ],
+  "translation": "Poema ta' tagħlim lil David, talb meta kien fil-għar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/142\/1-4.1792618255905.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "poema ta' tagħlim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "meta kien"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "fil-għar"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "talb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:55.906642086Z",
+  "model": "glm-5.3"
+}

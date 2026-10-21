@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תחבלות",
+      "rationale": "F'plurul biss, litteralment 'tmexxija tal-ħbula' (tas-siġġijiet ta' dgħajsa) — metafora nawtika għal tmexxija u parir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברב יועץ",
+      "rationale": "Litteralment 'f'abbundanza ta' min jagħti parir' — Malti jikkondensa f'ċerta ta' pariri."
+    }
+  ],
+  "translation": "Għax bit-tmexxija tal-parir tagħmel għalik il-ġerra, u f'ċerta ta' pariri hemm il-ħelsien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/24\/5-8.1792618861424.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "בְ֭תַחְבֻּלוֹת",
+      "gloss": "bit-tmexxija tal-parir"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "מִלְחָמָ֑ה",
+      "gloss": "il-ġerra"
+    },
+    {
+      "surface": "וּ֝תְשׁוּעָ֗ה",
+      "gloss": "u l-ħelsien"
+    },
+    {
+      "surface": "בְּרֹ֣ב",
+      "gloss": "f'ċerta ta'"
+    },
+    {
+      "surface": "יוֹעֵֽץ",
+      "gloss": "pariri"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:01.424874924Z",
+  "model": "glm-5.3"
+}

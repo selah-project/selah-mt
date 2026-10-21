@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rixk tal-qamħ",
+      "rationale": "חלב חטים litteralment 'xaħam\/il-ħaġa l-imsaħħa tal-qamħ' — l-aħjar parti, mhux xaħam letterali"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jagħmel il-fruntieri tiegħek paċi",
+      "rationale": "il-verb שם jimla dirett lil גבולך: 'li jagħmel il-fruntiera tiegħek paċi'"
+    }
+  ],
+  "translation": "Li jpoġġi paċi fil-fruntieri tiegħek, bir-rixk tal-qamħ jimlek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/13-16.1792618336591.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Li jpoġġi"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "fil-fruntieri tiegħek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paċi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rixk"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "tal-qamħ"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "jimlek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:16.592573799Z",
+  "model": "glm-5.3"
+}

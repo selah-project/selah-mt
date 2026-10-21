@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילות",
+      "rationale": "Crux: 'does\/gazelles writhe in labor' (KJV 'maketh the hinds to calve') vs 'twists the oaks' (אילות read as אילים, YLT\/BSB)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Kburija",
+      "rationale": "כבוד is literally 'weight\/heaviness'; 'kburija' carries the splendor sense, the weight picture is lost."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "Seventh repetition of the refrain 'the voice of Jaħwe' — the whole psalm's spine."
+    }
+  ],
+  "translation": "Leħen Jaħwe jqalleq lill-gazzelli u jkexxef il-foresti; u fit-tempju tiegħu kollu jgħid: Kburija!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/29\/9-11.1792616804573.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "jqalleq"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "lill-gazzelli"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "u jkexxef"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "il-foresti"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "u fit-tempju tiegħu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kburija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:44.573584456Z",
+  "model": "glm-5.3"
+}

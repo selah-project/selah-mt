@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 22:8",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kom",
+      "rationale": "l-ebrajk għandu biss אתכם 'il-kelma lura' — il-pronom mehmuż mal-verb bil-Malti jeħtieġ il-marka tal-objett"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-imġarrfa",
+      "rationale": "שר rajja\/kap — 'prinċep' jew 'kmandant' alternattivi; l-ebda kelma Maltija waħda teħodħa kollha"
+    }
+  ],
+  "translation": "U qalilhom: Oqogħdu hawn il-lejl, u nerġa' nwarrbikom kelma skond kif jitkellem Jaħwe miegħi; u questa l-imġarrfa ta' Moab ma' Balagħam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e526de88defe184821d97ddc9d1f5356672183828ad86ad3a96217095dd131d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/22\/5-8.1792603135420.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qalilhom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "Oqogħdu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "u nerġa' nwarrbikom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom",
+      "marks": "kelma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "skond kif"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "jitkellem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "miegħi"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u questa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "l-imġarrfa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Balagħam"
+    }
+  ],
+  "timestamp": "2026-10-21T17:18:55.425191467Z",
+  "model": "glm-5.3"
+}

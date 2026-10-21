@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Il-Malti jeħtieġ il-kopula; il-Lhudi m'għandux."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sitt u sebgħin elf u ħames mija",
+      "rationale": "Għadd taċ-ċens tat-tribù ta' Jehuda: 76,500."
+    }
+  ],
+  "translation": "Dawn huma l-familji ta' Jehuda skont dawk li ġew magħduda minnhom: sitt u sebgħin elf u ħames mija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "689698649ad85070f528994df4afe7f0cff196bc3ffa6bbaf35df1a44dfff256",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/26\/21-24.1792604930169.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "l-familji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "skont dakk li ġew magħduda minnhom"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "u sebgħin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "u ħames"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    }
+  ],
+  "timestamp": "2026-10-21T17:48:50.170396933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tal-ħajja tagħhom",
+      "rationale": "נפש hija nifs \/ ħajja, mhux ruħ b'sens Grieg"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחדל",
+      "rationale": "'u jieqf għal dejjem' (l-feda ma ssirx qatt) kontra 'u jispiċċa għal dejjem' (l-għajn jaqgħu)"
+    }
+  ],
+  "translation": "U ħafna jiswi l-feda tal-ħajja tagħhom, u tiswa ⟨ma⟩ tinstax għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/49\/9-12.1792617142081.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "u ħafna jiswi"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "l-feda"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "tal-ħajja tagħhom"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "u tiswa tinstax"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:22.081863538Z",
+  "model": "glm-5.3"
+}

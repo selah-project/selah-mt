@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפכת",
+      "rationale": "persuna tnejn 'int ġeddejt' wara persuna tlieta; KJV 'tagħmilu s-sodda kollha' kontra JSP\/BSB 'taqilgha' — il-Lhudi jgħid biss 'geddilt"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דוי",
+      "rationale": "kelma rari għal dgħufija\/taħbit, miktuba l-istess bħal David דוד — possibbli logħob ta' kliem fis-salm"
+    }
+  ],
+  "translation": "Jaħwe jsostnih fuq sodda ta' dgħufija; int ġeddejt il-mistrieħ kollu tiegħu f'mardu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/41\/1-4.1792617057018.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "jsostnih"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "sodda"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ta' dgħufija"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "il-mistrieħ tiegħu"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "int ġeddejt"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "f'mardu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:57.019306135Z",
+  "model": "glm-5.3"
+}

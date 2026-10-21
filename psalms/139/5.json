@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "għalaqtni",
+      "rationale": "צרתני minn צור: 'tafgħatni\/fformajtini' (kieku il-verb אמר mhux — hawn צור: sserrrep, taqbad mal-ġnub) kontra l-aktar qari 'għalaqtni maġenb' bħal-denb u quddiem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחור וקדם",
+      "rationale": "il-par hura\/quddiem (ukoll pun tal-Lvant\/Punent fil-Malti mitlup) joħloq ċirku totali madwar il-persuna."
+    }
+  ],
+  "translation": "Minn wara u minn quddiem għalaqtni, u poġġiejt fuqi ⟨את⟩ idek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/139\/5-8.1792618226968.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "minn wara"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "u minn quddiem"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "għalaqtni"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "u poġġejt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "idek",
+      "marks": "il-pala tal-idejn"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:26.968871586Z",
+  "model": "glm-5.3"
+}

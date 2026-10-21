@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fuq",
+      "rationale": "il-Lhudi ma għandux 'fuq' qabel in-numru; il-Malti jeħtieġ prepożizzjoni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "127 provinċja",
+      "rationale": "għadd ta' provinċji: sebgħa u għoxrin u mija, skont il-Lhudi"
+    }
+  ],
+  "translation": "U kien f'jiem Axaverox — huwa Axaverox, ir-re li kien isaltan minn Hodu sa Kux, fuq sebgħa u għoxrin u mija provinċja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/1\/1-4.1792620378158.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "f'jiem"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaverox"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaverox"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "minn Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kux"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sebgħa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "u mija"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provinċja"
+    }
+  ],
+  "timestamp": "2026-10-21T22:06:18.159316696Z",
+  "model": "glm-5.3"
+}

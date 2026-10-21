@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "inti (it-tieni)",
+      "rationale": "Emphatic ואתה plus passive צויתה doubled in Maltese with a second 'inti'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Joseph",
+      "rationale": "Pharaoh turns to Joseph directly: 'as for you, you are commanded'."
+    }
+  ],
+  "translation": "U inti, inti ġejt ikkmandat: Dan agħmlu: ħudu għalikom mill-art ta' Mitsrajim karettuni għat-tfal żgħar tagħkom u għan-nisa tagħkom, u ġibu ⟨את⟩ lil missierkom, u ejjew.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "85b59f09f521293df9aa691ac84718562a7c4315f97853f3a3f08c4ee78481c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/45\/17-20.1792599067394.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "U inti"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "inti ġejt ikkmandat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "agħmlu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ħudu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "karettuni"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "għat-tfal żgħar tagħkom"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "u għan-nisa tagħkom"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "u ġibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "missierkom"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "missierkom"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "u ejjew"
+    }
+  ],
+  "timestamp": "2026-10-21T16:11:07.395669240Z",
+  "model": "glm-5.3"
+}

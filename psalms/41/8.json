@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלי...עלי",
+      "rationale": "għadd ta' 'kontri' henhekk — l-iterazzjoni ta' עלי tagħti ħoss ta' assedju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jissussettaw",
+      "rationale": "לחש tfisser ukoll tbissima ta' sħaħar — il-whisper hawn ta' konġura"
+    }
+  ],
+  "translation": "Ma' xulxin jissussettaw kontri, dawk li jobgħoduni lkoll; kontri jaħsbu ħażen għalija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/41\/5-8.1792617051920.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ma' xulxin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontri"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "jissussettaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lkoll"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "dawk li jobgħoduni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontri"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "jaħsbu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:51.921249320Z",
+  "model": "glm-5.3"
+}

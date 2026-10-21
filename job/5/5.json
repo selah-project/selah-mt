@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמים",
+      "rationale": "'siġar ix-xebb' jew 'xatba\/trapp'; KJV jqis bħala ħalliel, LXX bħala min għandu għatx"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצנים",
+      "rationale": "kelma rar ta' ħadx ix-xewk; tiġġieled mal-għerq צנן"
+    }
+  ],
+  "translation": "Li l-ġuħ jieklu ⟨את⟩ ħsadu, u minn bejn ix-xewk jieħduh, u s-siġar ix-xebb jaħlef ⟨את⟩ ġidhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/5\/5-8.1792619087306.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "ħsadu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "il-ġuħ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jieklu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u minn bejn"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "ix-xewk"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "jieħduh"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "jaħlef"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "is-siġar ix-xebb"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "⟨את⟩ ġidhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:47.307216878Z",
+  "model": "glm-5.3"
+}

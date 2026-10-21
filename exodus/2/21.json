@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויואל",
+      "rationale": "'qabel\/li ried' għal ויואל, li tfisser b'mod litterali trabbi rashi biex japprova"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mal-irġiel",
+      "rationale": "האיש huwa singular ('ir-raġel') imma bil-Malti 'mal-irġiel' joħroġ id-dar ta' Jetro bil-familja"
+    }
+  ],
+  "translation": "U Moxe qabel li joqgħod ⟨את⟩ mal-irġiel, u ta lil ⟨את⟩ Sipproa bintu lil Moxe.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/21-24.1792599192196.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "li joqgħod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal-irġiel"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mal-irġiel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sipproa"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Sipproa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "bintu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "lil Moxe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:12.197026855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-Malti jeħtieġ 'lil' qabel persuna bħala oġġett, il-Lhudi ma għandux"
+    },
+    {
+      "kind": "crux",
+      "subject": "rajt ġust",
+      "rationale": "ראיתי צדיק: 'rajtek ġust' (raħ inti bħala ġust) jew 'rajt li int ġust' — id-direzzjoni tar-rajt ma tkunx ċara"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Noe",
+      "rationale": "Jaħwe jkellem lil Noe direttament, imperattiv 'Idħol'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Idħol",
+      "rationale": "imperattiv li jsejjħu lil Noe jidħol fl-arka"
+    }
+  ],
+  "translation": "U Jaħwe qal lil Noe: Idħol int u d-dar tiegħek kollha fl-arka, għax lil ⟨את⟩ int rajt ġust quddiemija f'dan il-ġenerazzjoni.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "7ed5a7f1b58598d87b2812527f8481b796bc652fa16983a9606156afd03a3b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/7\/1-4.1792597866701.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "lil Noe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Idħol"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "id-dar tiegħek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l-arka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ int",
+      "marks": "int — lil min raħ (rajt)"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rajt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ġust"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiemija"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "f'Ġenerazzjoni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:06.702131732Z",
+  "model": "glm-5.3"
+}

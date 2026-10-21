@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך את זה לא תאכלו",
+      "rationale": "JPS jaqra 'dawk li jagħmlu biss wieħed miż-żewġ siġnijiet' kontra KJV 'minn dawk li jerħin biss jew jferrsu biss' — l-istruttura Lhudija ambigwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמל\/גרה\/מעלה",
+      "rationale": "Ir-repetizzjoni ta' מעלה גרה bejn il-versi 3 u 4 tifforma l-mudell ta' qabel u wara: l-istess kliem jgħaddu għal ġrieden differenti."
+    }
+  ],
+  "translation": "Iżda lil ⟨את⟩ dan ma tiekluhux: minn dawk li jerħin il-ġieri u minn dawk li jferrsu l-parsa — ⟨את⟩ il-ġemel, għax jerħin il-ġieri iżda parsa m'għandux jifarris; mhux nadif huwa għalikom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/1-4.1792600667537.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Iżda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil dan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tiekluhux"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "minn dawk li jerħin"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "il-ġieri"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "u minn dawk li jferrsu"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "l-parsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġemel"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "il-ġemel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "jerħin"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "il-ġieri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "u parsa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "m'għandux"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "jifarris"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mhux nadif"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:47.538774189Z",
+  "model": "glm-5.3"
+}

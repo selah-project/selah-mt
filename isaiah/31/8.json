@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 31:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "se rf mhux ta' raġel \/ mhux ta' bniedem",
+      "rationale": "Paralleliżmu: איש\/אדם jixbħu fil-ħoss u fit-tifsira — bniedem u bniedem — ripetut biex jiddaħħal li s-se rf mhux uman."
+    },
+    {
+      "kind": "crux",
+      "subject": "למס",
+      "rationale": "'Ħlas ta' ħidem imforza' (lsira\/tribut) kontra 'jdgħu' (midrash u xi traduzzjonijiet) — it-Tanakh juża l-kelma għal taxxa ta' ħidem."
+    },
+    {
+      "kind": "elision",
+      "subject": "מפני חרב it-tielet darba",
+      "rationale": "It-third se rf fil-vers mhux fil-lista tat-tokens imma l-istruttura tbierek: Ashur jaħrab minn se rf li mhux ta' bniedem — in-negazzjoni mill-versi 8aċ."
+    }
+  ],
+  "translation": "U Ashur jaqa' b'se rf mhux ta' bniedem, u se rf mhux ta' bniedem se jiekolh; u jaħrab għalih minn quddiem is-se rf, u żgħażagħu jsiru ta' ħlas ta' ħidem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/31\/5-8.1792611548447.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "u jaqa'"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "b'se rf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta' raġel"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "u se rf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ta' bniedem"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "se jiekolh"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "u jaħrab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "is-se rf"
+    },
+    {
+      "surface": "ובחוריו",
+      "gloss": "u żgħażagħu"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ta' ħlas ta' ħidem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jsiru"
+    }
+  ],
+  "timestamp": "2026-10-21T19:39:08.448554148Z",
+  "model": "glm-5.3"
+}

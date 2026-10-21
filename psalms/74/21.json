@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "mela",
+      "rationale": "אל with imperfect: deprecative negation, Maltese needs the prohibitive particle"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכלם",
+      "rationale": "to be taunted\/shamed: 'return ashamed' (KJV) vs 'mħassra' wounded-by-insult"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "petitions addressed to God in the second person ('ismek')"
+    }
+  ],
+  "translation": "Mela jdurx limgħatin mħassra; il-foqra u l-ġujja ifirħu b'ismek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/21-23.1792617383714.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mela... jdurx"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jdurx"
+    },
+    {
+      "surface": "דך",
+      "gloss": "limgħatin"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "mħassra"
+    },
+    {
+      "surface": "עני",
+      "gloss": "il-foqra"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "u l-ġujja"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ifirħu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "b'ismek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:23.714593149Z",
+  "model": "glm-5.3"
+}

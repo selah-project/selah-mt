@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למבול",
+      "rationale": "'Over the Flood' (the cosmic deluge, Noah) vs 'at the Flood' (JPS) vs a general 'many waters'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב\/וישב",
+      "rationale": "Root repeated: 'sat' and 'sits' — past enthronement and enduring reign on the same verb."
+    }
+  ],
+  "translation": "Jaħwe bilqiegħda fuq il-għargħar; u Jaħwe joqgħod sultan għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/29\/9-11.1792616804573.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "fuq il-għargħar"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bilqiegħda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:44.573782961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ידים",
+      "rationale": "'wiesgħa ta' idejn' — idjom Lhudi għal spazjuż; 'idejn' mitluf bil-Malti, iżda mbiegħed f' 'wiesgħa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-kopula mitluba bil-Malti għall-istruttura żżid il-Veru"
+    }
+  ],
+  "translation": "U l-belt kienet wiesgħa u kbira, iżda l-poplu ⟨kien⟩ ftit fi ħdanha, u ma kienx hemm djar mibnijin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/7\/1-4.1792621337635.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "U l-belt"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "wiesgħa"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "—"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "u kbira"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "iżda l-poplu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ftit"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "fi ħdanha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma kienx hemm"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "djar"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "mibnijin"
+    }
+  ],
+  "timestamp": "2026-10-21T22:22:17.636607304Z",
+  "model": "glm-5.3"
+}

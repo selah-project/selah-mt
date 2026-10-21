@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "הוא m'għandux verb; il-Malti jħtieġ kopula għall-identifikazzjoni"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכלות",
+      "rationale": "plural ta' מכלה 'kompliment': 'kollha deheb sħiħ' jew 'deheb fin fl-aħjar kwalità'"
+    }
+  ],
+  "translation": "u l-fjuri, u d-dwal, u l-pincet — deheb; kollha ⟨huma⟩ deheb sħiħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5d9a94abc40fb10112017a40e0975aca57bc2daf821799f368570a55414b1b7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/21-22.1792622319889.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "u l-fjuri"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "u d-dwal"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "u l-pincet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huma"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "sħiħ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    }
+  ],
+  "timestamp": "2026-10-21T22:38:39.889948669Z",
+  "model": "glm-5.3"
+}

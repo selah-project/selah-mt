@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע כמביא למעלה",
+      "rationale": "Vers diffiċli: 'magħruf bħal dawk li jqiegħdu għoli' jew 'jinħareb bħal min jagħti t-tajr għolja' — l-għażla ssegwi l-kuntest tas-serq bil-mnar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "KJV 'famous'",
+      "rationale": "KJV jaqra b'mod differenti: 'bniedem kien magħruf skond kif tella' l-imnar' — kontra l-qari tal-azzjoni preżenti ta' qerda"
+    }
+  ],
+  "translation": "Jingħarfuh daqs min jqiegħed 'l fuq f'masġar dens il-ħatab — bil-mnar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4ffcc67327a7f6bb9523b11e2102e2114dc9b7860e196a3f9ab8aa64d3836bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/4-5.1792623830495.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Jingħarfuh"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "daqs min jqiegħed"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "'l fuq"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "f'masġar dens"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "il-ħatab"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "bil-mnar"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:50.496681081Z",
+  "model": "glm-5.3"
+}

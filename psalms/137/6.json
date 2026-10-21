@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אעלה",
+      "rationale": "'nerfa'' (exalt) kontra 'nressaq' (prefer, KJV) kontra 'nella'' (bring up songs, midrash)"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jeruxalajim",
+      "rationale": "suffiss femminili -כי jindirizza lil Jeruxalajim b'moda diretta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם לא... אם לא",
+      "rationale": "repetizzjoni tal-ġurament darbtejn, struttura ta' self-imprekatur"
+    }
+  ],
+  "translation": "Jwaħħal ⟨lsieni⟩ ma' lehni, jekk ma niftakrilek, jekk ma nerfa'x ⟨את⟩ lil Jeruxalajim fuq ras l-ikbar ferħ tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f860cf1b77c29b4e1c3fd8c38405fef88f50f1c978324282733922bc8dbcca0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/137\/6-7.1792623853474.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "jwaħħal"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lsieni"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ma' lehni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "niftakrilek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma nerfa'x"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nerfa'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jeruxalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "l-ikbar ferħ tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:13.475426300Z",
+  "model": "glm-5.3"
+}

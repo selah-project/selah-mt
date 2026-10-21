@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "imma",
+      "rationale": "כי hawn ma jgħidx 'għax' biss; is-salm jużah b'dak il-forza ta' opponiment: 'mhux lilna — imma lil-isemek'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא לנו … לא לנו",
+      "rationale": "repetizzjoni ta' mtard fin-nofs tal-vers (anaphora), is-siġġata tar-repetition titlef ftit minn qawwitu bil-Malti"
+    }
+  ],
+  "translation": "Mhux lilna, Jaħwe, mhux lilna, imma lil-isemek agħti kbir, fuq ħesedek, fuq emetek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "59301f071b24e56e4320eb15e0ac23bb0c9de8cd42464002d192f52b44aa4b86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/1-2.1792623860147.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lil-isemek"
+    },
+    {
+      "surface": "תן",
+      "gloss": "agħti"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ħesedek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "emetek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:20.147930488Z",
+  "model": "glm-5.3"
+}

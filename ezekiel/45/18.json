@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 45:18",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tnaddaf",
+      "rationale": "וְחִטֵּאתָ għandha l-għerq ta' 'dnub' (חטא) imma hawn tfisser 'tneħħi d-dnub \/ tnaddaf' — verb minn għerq wieħed, tnejn tifsiriet"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jum⟩",
+      "rationale": "il-Lhudi jgħid biss 'fl-ewwel wieħed tax-xahar'; 'jum' miżjud biex l-ordinali jkun ċar bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "il-qassis \/ il-prinċep",
+      "rationale": "imperattiv 'tieħu' indirizzat lil min jaqdi t-temprov, kompla mill-vers 17"
+    }
+  ],
+  "translation": "Hekk jgħid Adonaj Jaħwe: Fl-ewwel ⟨jum⟩, fl-ewwel tax-xahar, tieħu barri, iben baqar, bla tweak, u tnaddaf ⟨את⟩ il-miqdes.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a69c5e91a23a7349cef7f89fe6bc54d5c385881aff7162b63559b5041c8b9b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/45\/18-19.1792623695164.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "Fl-ewwel"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "fl-ewwel"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "tax-xahar"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tieħu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "barri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bla tweak"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "u tnaddaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-miqdes"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "il-miqdes"
+    }
+  ],
+  "timestamp": "2026-10-21T23:01:35.165044238Z",
+  "model": "glm-5.3"
+}

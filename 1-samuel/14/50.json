@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 14:50",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuġin",
+      "rationale": "דוד hawn tfisser 'ziju\/kuġin' (r-relazzjoni ta' Ner ma' Xa'ul), mhux 'ħabib'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "Kopula miżjuda għax il-Lhudi ma għidhiex"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ġenealoġija",
+      "rationale": "Isem il-mara u l-kmandant ta' Xa'ul"
+    }
+  ],
+  "translation": "U isem mart Xa'ul ⟨kien⟩ Aħinoam, bint Aħima'ats; u isem il-prinċep tal-armata ⟨tiegħu⟩ Avner, iben Ner, kuġin ta' Xa'ul.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3ffed4de3ae8155c73a30ae9b480fd86c68f84ddcd75ad2196c88586413aff8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/14\/49-52.1792607907219.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "U isem"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mart"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xa'ul"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Aħinoam"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Aħima'ats"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u isem"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-prinċep"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tal-armata"
+    },
+    {
+      "surface": "אבינר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kuġin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ta' Xa'ul"
+    }
+  ],
+  "timestamp": "2026-10-21T18:38:27.220240086Z",
+  "model": "glm-5.3"
+}

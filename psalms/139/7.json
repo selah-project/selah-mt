@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħtek",
+      "rationale": "רוח tkun ruwaħ — nifs, riħ, Spirtu fl-istess kelma; ma tingħatax b'kelma waħda biss."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "paralleliżmu",
+      "rationale": "żewġ mistoqsijiet simetriċi — immur\/inħarab, ruwaħtek\/wiċċek — jibnu l-istruttura tal-ewwel strofa."
+    },
+    {
+      "kind": "invitation",
+      "subject": "mistoqsijiet",
+      "rationale": "żewġ mistoqsijiet retoriċi jindirizzaw lis-semmiegħ direttament."
+    }
+  ],
+  "translation": "Fejn immur minn ruwaħtek? U fejn inħarab minn wiċċek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/139\/5-8.1792618226968.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "immur"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "minn ruwaħtek"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "u fejn"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "minn wiċċek"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "inħarab"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:26.969177446Z",
+  "model": "glm-5.3"
+}

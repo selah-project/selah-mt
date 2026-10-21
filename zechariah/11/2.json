@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 11:2",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "il-klawżola relattiva m'għandha bżonnhha bil-Malti hawn"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבצור",
+      "rationale": "'il-foresta ffortifikata\/mtahhma' vs 'il-foresti tal-btietiet' (KJV 'of the vintage') — sens mhux ċert"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הילל\/הילילו",
+      "rationale": "it-tberbir ta' jeremija fuq is-siġar jerrepeti l-verbi tal-uler, struttura parallela"
+    }
+  ],
+  "translation": "Għajjat, iċ-ċipress, għax waqa' iċ-ċedru; lill-kbar tagħhom insterqu; għajjtu, il-ballut ta' Baixan, għax nżlet il-foresta l-mtahhma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/11\/1-4.1792616330382.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילל",
+      "gloss": "Għajjat"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "iċ-ċipress"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "waqa'"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "iċ-ċedru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אדרים",
+      "gloss": "lill-kbar"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "isterqu"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "għajjtu"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "il-ballut"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ta' Baixan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nżlet"
+    },
+    {
+      "surface": "יער",
+      "gloss": "il-foresta"
+    },
+    {
+      "surface": "הבצור",
+      "gloss": "l-mtahhma"
+    }
+  ],
+  "timestamp": "2026-10-21T20:58:50.382847947Z",
+  "model": "glm-5.3"
+}

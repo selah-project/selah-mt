@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-hwejjeg mtieba",
+      "rationale": "בגדי השרד: 'ħwejjeġ mtieba\/imtinqin' (missir Kelb) vs 'ħwejjeġ tas-servizz' (KJV) vs 'ħwejjeġ mlewnin' (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiqasssu",
+      "rationale": "לכהן infinitiv kostrutt: 'biex jiqasssu \/ jservu bħala qassisin'"
+    }
+  ],
+  "translation": "u ⟨את⟩ il-ħwejjeġ mtieba, u ⟨את⟩ il-ħwejjeġ tal-qdusija għal Aharon il-qassis, u ⟨את⟩ il-ħwejjeġ uliedu biex jiqasssu;",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/31\/9-12.1792600021000.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ħwejjeġ mtieba"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "il-ħwejjeġ"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "mtieba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ħwejjeġ tal-qdusija"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "il-ħwejjeġ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tal-qdusija"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "għal Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-ħwejjeġ uliedu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "il-ħwejjeġ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uliedu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "biex jiqasssu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:27:01.001140147Z",
+  "model": "glm-5.3"
+}

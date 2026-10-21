@@ -1,0 +1,186 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 20:13",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נכתה",
+      "rationale": "kelma li tidher biss hawn fit-Tanakh; tfisser 'ġid prezzjuż, ħwawar', mhux 'armar'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית כליו",
+      "rationale": "'dwar tal-ħwejjeġ\/vesselli' kontra l-qedmin 'dar tal-arma' (arma): il-Lhudi jgħid biss kliem (kelim)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא היה דבר אשר לא הראם",
+      "rationale": "negazzjoni doppja retorika — 'ma kienet hemm ħaġa li ma wriegħhom' — tinżamm kif hi"
+    }
+  ],
+  "translation": "U Ħizqijahu sma' minnhom, u wriegħhom ⟨את⟩ id-dar kollha tal-ġid tiegħu: ⟨את⟩ il-fidda u ⟨את⟩ id-deheb u ⟨את⟩ l-aromi u ⟨את⟩ iż-żejt it-tajjeb, u ⟨את⟩ id-dar tal-ħwejjeġ tiegħu, u ⟨את⟩ kollha li nstabet fit-teżori tiegħu; ma kienet hemm ħaġa fid-dar tiegħu u f'kollha s-saltna tiegħu li Ħizqijahu ma wriegħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/20\/13-16.1792610635108.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "u sma'"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ħizqijahu"
+    },
+    {
+      "surface": "ויראם",
+      "gloss": "u wriegħhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dar kollha tal-ġid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "tal-ġid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-fidda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "il-fidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-deheb"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "id-deheb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-aromi"
+    },
+    {
+      "surface": "הבשמים",
+      "gloss": "l-aromi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iż-żejt it-tajjeb"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "iż-żejt"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "it-tajjeb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-dar tal-ħwejjeġ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tal-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "kollha li nstabet fit-teżori tiegħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nstabet"
+    },
+    {
+      "surface": "באוצרתיו",
+      "gloss": "fit-teżori tiegħu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kienet hemm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ħaġa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "wriegħhom"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ħizqijahu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "fid-dar tiegħu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "u f'kollha"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "tas-saltna tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:23:55.109287845Z",
+  "model": "glm-5.3"
+}

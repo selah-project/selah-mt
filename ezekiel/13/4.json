@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jakals",
+      "rationale": "שועלים literally jackals (burrowers of ruins), not foxes; traditional versions say 'foxes'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחרבות",
+      "rationale": "'deserts\/ruins': from חרב (drought\/desolation) — jackals haunt ruined cities, so 'fid-deżerti' or 'fost il-ħsarat'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħek",
+      "rationale": "Maltese possessive marked on the noun phrase; Hebrew carries the suffix ךָ on נביאיך itself"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "vocative — direct address to Jisrael"
+    }
+  ],
+  "translation": "Bħal jakals fid-deżerti, il-profeti ⟨tiegħek⟩, Jisrael, kienu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3734a3d3c88cab95d67c25d2779bc7deae7f6998a2799e0b1dcec5347bb4bd72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/13\/4-4.1792623601550.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "bħal jakals"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "fid-deżerti"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "il-profeti tiegħek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:00:01.550646767Z",
+  "model": "glm-5.3"
+}

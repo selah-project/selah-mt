@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ħanja tat-tlugħiect",
+      "rationale": "not used"
+    },
+    {
+      "kind": "elision",
+      "subject": "tat-tlugħiet",
+      "rationale": "no note needed"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Mill-fond",
+      "rationale": "not applicable"
+    }
+  ],
+  "translation": "Ħanja tat-tlugħiet. Mill-fond qrajtek, Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f736eb88d2daf3730fdc668caf660031738eed84a735a46a60e38aec502145ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/130\/1-4.1792618162114.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ħanja"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tat-tlugħiet"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Mill-fond"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qrajtek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:22.115541858Z",
+  "model": "glm-5.3"
+}

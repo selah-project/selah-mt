@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "id-dawl",
+      "rationale": "מאור huwa korp li dawwal — il-qamar skont xi qrajiet (BSB), il-lewn inġenerali skont oħrajn; 'dawl' iżomm il-ħsibja ġenerali"
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-qamar",
+      "rationale": "BSB jaqra' מאור bħala l-qamar (Ġen 1:16); il-KJV\/JPS iżommu 'dawl\/luċernar' inġenerali"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "gloss": "",
+      "rationale": "il-Malti jeħtieġ verb li l-Lhudi jħalli mhux miktub fil-ħames kolon"
+    }
+  ],
+  "translation": "Tiegħek il-jum, anke tal-lejl ⟨hu⟩ tiegħek; Inti ħejjejt ⟨את⟩ id-dawl u ⟨את⟩ ix-xemx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1840eee0cb486760431de7c35e7be27a28c6d06ef14aef08725691d272c6ec7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/74\/16-16.1792623795328.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tiegħek"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il-jum"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tiegħek"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inti"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ħejjejt"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "id-dawl"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "u ix-xemx"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:15.329208727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "b'tenufa",
+      "rationale": "תְּנוּפָה żżummet bil-ħoss Lhudi — il-ġest tal-għolja fil-wiċċ ta' Jaħwe"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "imperattiv indirizzat lil Moxe dwar l-ordinazzjoni ta' Aharon u uliedu"
+    }
+  ],
+  "translation": "U tpoġġi kollox fuq il-palmejn ta' Aharon u fuq il-palmejn ta' uliedu, u tgħollihom b'tenufa quddiem Jaħwe.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "de9eba46137dc3f9b4ff257c7f82b5d036ed93fc83a00c3635d5a3aac73a2787",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/21-24.1792600072284.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "u tpoġġi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "il-palmejn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ta' Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "il-palmejn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ta' uliedu"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "u tgħollihom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kollox (li fuq il-palmejn)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "b'tenufa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:27:52.285948271Z",
+  "model": "glm-5.3"
+}

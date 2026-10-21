@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hemm⟩",
+      "rationale": "il-Malti jeħtieġ verbi 'hemm' fejn il-Lhudi juża frażi nominali mingħajr verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "paralleliżmu",
+      "rationale": "erba' titoli għal Elohim f'dwiewi paralleti — fidwa, ġieħ, blat ta' qawwa, kenn — kollha jirrepetu l-ħsieb tas-sedqa f'Elohim"
+    }
+  ],
+  "translation": "Fuq Elohim ⟨hemm⟩ l-fidwa tiegħi u l-ġieħ tiegħi; il-blat tal-qawwa tiegħi, il-kenn tiegħi, ⟨hemm⟩ f'Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/62\/5-8.1792617256867.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Fuq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "l-fidwa tiegħi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "u l-ġieħ tiegħi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "il-blat"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "tal-qawwa tiegħi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "il-kenn tiegħi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "f'Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:16.868181483Z",
+  "model": "glm-5.3"
+}

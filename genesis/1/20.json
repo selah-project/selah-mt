@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישרצו\/שרץ · עוף\/יעופף",
+      "rationale": "il-Lhudi jirrepeti l-istess għerq verb-u-nom; bil-Malti x'imkien mitluf"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħlejqa",
+      "rationale": "נפש hija aktar qrib 'nifs, ħajja' milli ruħ"
+    },
+    {
+      "kind": "elision",
+      "subject": "שרץ",
+      "rationale": "swarms ta' dak li jitkaxkar — kelma waħda mifruxa għal tnejn"
+    }
+  ],
+  "translation": "U Elohim qal: Ilmijiet, agħtu swarms ta' ħlejqa ħajja, dak li jitkaxkar; u għasafar jitiru fuq l-art, fuq wiċċ ir-rqiċċ tas-sema.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/17-20.1792597703821.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "agħtu swarms"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Ilmijiet"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "dak li jitkaxkar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ħlejqa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "u għasafar"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "jitiru"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ir-rqiċċ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-sema"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:23.823214151Z",
+  "model": "glm-5.3"
+}

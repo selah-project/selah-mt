@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלום",
+      "rationale": "kawżattiv ta' שאל: 'għamluhom jistaqsu' jew 'tellgħu t-talba tagħhom' — KJV 'lent'”; mifrux ħafna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "serqu",
+      "rationale": "וינצלו tfisser 'neżżgħu, ħelsu minn' — 'spoil' bl-Ingliż; 'serqu' jew 'ġarbu minn'"
+    }
+  ],
+  "translation": "U Jaħwe ta ⟨את⟩ il-grazzja lill-poplu f'għajnejn dawk ta' Mitsrajim, u huma tawhom ma talbu; u hekk serqu ⟨את⟩ lil Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/33-36.1792599520004.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "U Jaħwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-grazzja"
+    },
+    {
+      "surface": "חן",
+      "gloss": "il-grazzja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lill-poplu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dawk ta' Mitsrajim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "u huma tawhom ma talbu"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "u hekk serqu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lil Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:18:40.005998035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kelmt",
+      "rationale": "il-Malti jrid 'kelma ta'' mal-kostrutt דבר יהוה."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "il-verb ġenerali 'kien\/ġara' ma jiġix mittur b'separat; 'U' biżżejjed."
+    }
+  ],
+  "translation": "U kellimni kelmt Jaħwe, biex jgħid:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "41875bcad81873ae4977c56f26274df06a91fb1349d8fedaa79ac7f979226684",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/11\/13-16.1792614259448.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelmt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kellimni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħid"
+    }
+  ],
+  "timestamp": "2026-10-21T20:24:19.449547696Z",
+  "model": "glm-5.3"
+}

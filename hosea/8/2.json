@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "il-Lhudi għandu l-imperfett biss; il-futur miżjud bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "יזעקו",
+      "rationale": "jew se jgħajtu (futur) jew għajtu (passat); u jekk mistoqsija bħal JPS — 'għandhom jgħajtu?'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ידענוך",
+      "rationale": "jista' jkun kliem ta' taliħ veru jew ta' miftuħir vojt — l-ambigwità tibqa' miftuħa"
+    }
+  ],
+  "translation": "Lili se jgħajtu: 'Elohim tagħna, aħna Jisrael għarafniek.'",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/1-4.1792615455882.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Lili"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "se jgħajtu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tagħna"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "għarafniek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:15.882824461Z",
+  "model": "glm-5.3"
+}

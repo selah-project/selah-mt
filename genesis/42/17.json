@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħabs",
+      "rationale": "משמר huwa għassa\/kustodja; 'ħabs' huwa l-eqwa terminu Malti għal post il-kustodja"
+    }
+  ],
+  "translation": "U ġabar ⟨את⟩ lilhom fil-ħabs, tlett ijiem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/17-20.1792598938424.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "u ġabar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "lilhom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fil-"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ħabs"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    }
+  ],
+  "timestamp": "2026-10-21T16:08:58.425040256Z",
+  "model": "glm-5.3"
+}

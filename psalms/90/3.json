@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשב\/שובו",
+      "rationale": "l-istess għerq שׁוב ttenniet: 'tirrotta' u 'erġgħu' — dawra lil bniedem lura għat-trab u sejħetu biex jerġa' jagħti"
+    },
+    {
+      "kind": "crux",
+      "subject": "דכא",
+      "rationale": "'trab imxeċċat' (kif fi Ġen 3:19) kontra 'kontrizzjoni' (JPS)"
+    }
+  ],
+  "translation": "Tirrotta lill-bniedem mortal għal-trab imxeċċat, u tgħid: Erggħu lura, wlied Adam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/90\/1-4.1792617679110.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "tirrotta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "lill-bniedem mortal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "għal"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "trab imxeċċat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "u tgħid"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Erggħu lura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:19.111821255Z",
+  "model": "glm-5.3"
+}

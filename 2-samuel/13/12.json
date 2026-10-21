@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tħaqirnix",
+      "rationale": "ענני huwa 'opprimi\/uttajani'; 'tħaqirnix' (la tħaqirnix) jaqbad it-tifsira morali"
+    },
+    {
+      "kind": "crux",
+      "subject": "in-newla",
+      "rationale": "הנבלה: 'injoranza\/ħmerija' kontra 'attiħ bla raġuni' (JPS 'wanton deed')"
+    },
+    {
+      "kind": "you",
+      "subject": "ħuħi",
+      "rationale": "Amnon jiġi msejjaħ direttament b'”iħu” mit-Tamar"
+    }
+  ],
+  "translation": "U qaltlu: Le, ħuħi, la tħaqirnix, għax hekk ma jsirx f'Jisrael; la tagħmel ⟨את⟩ din in-newla.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7c67ee3d0400c2db58af472b7553e92ff437084df0e3fc1769fd301f11e9a632",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/13\/12-12.1792623279794.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "u qaltlu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ħuħi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "tħaqirnix"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jsirx"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din in-newla"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "in-newla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:39.795214144Z",
+  "model": "glm-5.3"
+}

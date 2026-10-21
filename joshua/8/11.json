@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Lhudi ma għandux verbi għal 'kien'; il-Malti jeħtieġ il-copula għall-ċifen 'l-wied bejnhom'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "hawn אתו mhuwiex il-markatur את (H853) imma l-prepożizzjoni את (H854) 'ma'', allura ma ġġorrx ⟨את⟩"
+    }
+  ],
+  "translation": "U nies il-ġlied kollha li kienet ⟨את⟩ miegħu telgħu, u qerbu, u ġew quddiem il-belt, u kkampjaw mit-tramuntana ta' l-Għaj; u l-wied ⟨kien⟩ bejnhom u bejn l-Għaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/9-12.1792606413585.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tan-nies"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "tal-ġlied"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "telgħu"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "u qerbu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "u ġew"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "u kkampjaw"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mit-tramuntana"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "ta' l-Għaj"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "u l-wied"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "bejnhom"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "העי",
+      "gloss": "l-Għaj"
+    }
+  ],
+  "timestamp": "2026-10-21T18:13:33.587066581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "Il-Malti jeħtieġ isem għat-tieni 'nmux' sabiex iżomm il-ħila tar-repetizzjoni"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Kongiunzjoni Ebrajka 'ki im' ma għandha ekwivalenti wieħed bil-Malti; ingħatat b''imma' waħda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלך...אלך",
+      "rationale": "Ripetizzjoni tal-verb 'nmux' fil-bidu u fl-aħħar tal-vers, struttura maħfura parzjalment bil-Malti"
+    }
+  ],
+  "translation": "U hu qalulu: Ma nmux; imma lemn arti u lejn fejn twelidt nmux jien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/10\/29-32.1792602702816.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nmux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "artii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lejn"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "fejn twelidt"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nmux"
+    }
+  ],
+  "timestamp": "2026-10-21T17:11:42.822862855Z",
+  "model": "glm-5.3"
+}

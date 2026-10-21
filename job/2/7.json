@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "theħir",
+      "rationale": "שחין = theħir,_uċuħ infjammati — 'boils' huwa speċifikazzjoni, il-kelma aktar ġenerali"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta' rasu",
+      "rationale": "קדקד huwa il-qorra waħedha; 'ta' rasu' miżjud għaċ-ċarezza bil-Malti"
+    }
+  ],
+  "translation": "U s-Satan ħareġ minn quddiem ⟨את⟩ wiċċ Jaħwe, u laqat lil ⟨את⟩ Ġob b'theħir ħażin, mill-pjanta ta' siequ sal-qorra ta' rasu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/2\/5-8.1792619119734.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "U ħareġ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "is-Satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "u laqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ġob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ġob"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "b'theħir"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mill-pjanta"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "ta' siequ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "il-qorra ta' rasu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:45:19.735065796Z",
+  "model": "glm-5.3"
+}

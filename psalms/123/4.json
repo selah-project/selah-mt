@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħna",
+      "rationale": "נפש hija ħajja\/nifs\/appetit, mhux ruħ bħala entità separata"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לגאיונים",
+      "rationale": "Kelma rari, forsi mit-Taljan\/Grieg 'legion', milli jidher biss hawn fit-Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "לגאיונים",
+      "rationale": "Ħafna jaqrawha bħala 'l-arroganti' minn גאה; oħrajn bħala legjuni ta' merċenarji barranin"
+    }
+  ],
+  "translation": "Ħafna saret is-saturazzjoni ta' ruwaħna bit-tbaxxir ta' dawk l-għajxien komdu, bil-megħra ta' l-arroganti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/123\/1-4.1792618132059.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Ħafna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "is-saturazzjoni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "saret"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ta' ruwaħna"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "bit-tbaxxir"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ta' dawk l-għajxien komdu"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "bil-megħra"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ta' l-arroganti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:52.060896488Z",
+  "model": "glm-5.3"
+}

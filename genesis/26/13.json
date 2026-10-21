@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדל",
+      "gloss_source": "גדל",
+      "rationale": "Il-għerq גדל jidher tliet darbiet fil-vers — qawwa retorika li tinqata' ftit fit-traduzzjoni."
+    },
+    {
+      "kind": "addition",
+      "subject": "(li)",
+      "gloss_source": "כי",
+      "rationale": "Il-כי Malti jeħtieġ 'li' jew jitilqa; miżjuda b'mod trasparenti."
+    }
+  ],
+  "translation": "U l-bniedem kbir, u baqa' sejjer, għaddej u jikber, sa ma kien kbir ħafna.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b4f3de08bf0bbb1647629b76d03377d515a4a11c9993f68e0efa3e6f0b5758d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/26\/13-16.1792598329203.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "u-kbar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u baqa' sejjer"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "għaddej"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "u jikber"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(li)"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "kbar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    }
+  ],
+  "timestamp": "2026-10-21T15:58:49.203771543Z",
+  "model": "glm-5.3"
+}

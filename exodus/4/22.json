@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi ma għandux copula; il-grammatika Maltija teħtieġha."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Parħo",
+      "rationale": "Messaġġ dirett ta' Jaħwe lill-Fargħun permezz ta' Moxe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני בכרי",
+      "rationale": "Għaqda ta' possessivi fl-ewwel persuna ripetuta — 'iben TIEGĦI, bikur TIEGĦI' — qawwija bl-Indewwel wara."
+    }
+  ],
+  "translation": "U tgħid lil Parħo: Hekk qal Jaħwe: Ibeni, l-ewwel mitlud tiegħi, ⟨hu⟩ Jisrael.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ae3d94da7b0abb2679d008711b7ff2ebba24b654259f351a3c86471a595b2561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/4\/21-24.1792599263781.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "u tgħid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parħo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ibni"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "l-ewwel mitlud tiegħi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:23.782701224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oħra",
+      "rationale": "'Il-ħames veli l-oħra' — il-Lhudi jgħid sempliċement 'u ħames jerijot'; il-Malti għandu bżonn 'oħra' biex jifhem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחבר\/חבר",
+      "gloss": "Għerq חבר jiġri tliet darbiet fil-vers — il-ħila tar-repetizzjoni titbiegħed ftit fil-Malti."
+    }
+  ],
+  "translation": "U ħabar ⟨את⟩ il-ħames veli, waħda ma' waħda, u ħames veli oħra ħabar, waħda ma' waħda.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "500de5f61b8301ee5cb6ec91fd67a68edf2f38e26f299df29e4dbd2519f3cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/36\/9-12.1792600279961.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "U ħabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħames veli"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "il-ħames"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "veli"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "u ħames"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "veli oħra"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ħabar"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "waħda"
+    }
+  ],
+  "timestamp": "2026-10-21T16:31:19.962240103Z",
+  "model": "glm-5.3"
+}

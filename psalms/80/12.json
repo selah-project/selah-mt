@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קצירה",
+      "rationale": "il-kelma hija 'ħsad\/qtugħ'—kif jitqatgħu l-vireg; mogħtija bhala 'friegħi' skont il-kontext"
+    },
+    {
+      "kind": "crux",
+      "subject": "נהר",
+      "rationale": "'ix-xmara' bit-artiklu: l-Ewfrat (JPS 'the River') jew sempliċement xmara kbira"
+    }
+  ],
+  "translation": "Bghatet il-friegħi tagħha sa l-baħar, u sa xmara l-vireg tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/80\/9-12.1792617561165.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "bghatet"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "il-friegħi tagħha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "l-baħar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u sa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "xmara"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "l-vireg tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:21.166414670Z",
+  "model": "glm-5.3"
+}

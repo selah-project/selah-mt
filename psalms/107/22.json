@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "l-qruban ta' ringrazzjament",
+      "rationale": "זבחי תודה — litteralment ' irmewwiet ta' ringrazzjament'; idjoma qawwija tal-qima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bi ħeġġa",
+      "rationale": "רנה hija ħoss qawwi (għajta ta' ferħ); ' ħeġġa' jew ' kant' — iżżomm il-ferħ fis-silta"
+    }
+  ],
+  "translation": "U joffru l-qruban ta' ringrazzjament, u jgħidu l-għemejjel tiegħu bi ħeġġa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "32b3bdf2ef70ff9323cc2b8bb60a56545d3f518e1d08e8a3fe1e66c14c6b3938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/21-24.1792617859893.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "u joffru l-qruban"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ta' l-irmewwiet"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ringrazzjament"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "u jgħidu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "l-għemejjel tiegħu"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "bi ħeġġa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:19.893897740Z",
+  "model": "glm-5.3"
+}

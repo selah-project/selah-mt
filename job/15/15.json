@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 15:15",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקדשו",
+      "rationale": "'fil-qaddisin tiegħu' (l-anġli) jew 'fl-għoli qdusu' — it-traduzzjoni ma taqbilx"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qaddisin",
+      "rationale": "קדש għerq wieħed miżmum: qaddis, qdusija"
+    }
+  ],
+  "translation": "Ara, fil-qaddisin tiegħu ma jaħlesx fidi, u s-smewwiet ma sfawx safi f'għajnejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/15\/13-16.1792619301283.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "fil-qaddisin tiegħu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "jaħles fidi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "u s-smewwiet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "sfaw safi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:21.284367019Z",
+  "model": "glm-5.3"
+}

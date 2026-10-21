@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesu",
+      "rationale": "נפש nefes = ħajja\/nifs\/appetiċċju, mhux 'ruħ'; in-nefes li Jotam jisraqha 'l bogħod għal ħbiebu"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-irġiel ta' Xekem",
+      "rationale": "Jotam iħabbrathom direttament fil-muntan"
+    }
+  ],
+  "translation": "li missieri ġieġled għalikom, u warrab ⟨את⟩ nefesu minn quddiem, u ħeliskom minn id Midjan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/17-20.1792607276158.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ġieġled"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missieri"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "u warrab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "u ħeliskom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom",
+      "marks": "kom (ħelsien minn id Midjan)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:27:56.159723568Z",
+  "model": "glm-5.3"
+}

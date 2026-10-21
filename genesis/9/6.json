@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באדם",
+      "rationale": "'bin-nies' (midluka minn bniedem) jew 'fil-bniedem' (f'ħadan il-bniedem innifsu)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפך…ישפך",
+      "rationale": "alliterazzjoni ta' xerred\/jixtered, rifflessjoni tal-verb"
+    }
+  ],
+  "translation": "Min jixerred demm il-bniedem, bin-nies jixtered demmu, għax fix-xbieha ta' Elohim għamel ⟨את⟩ il-bniedem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/9\/5-8.1792597765602.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "jixerred"
+    },
+    {
+      "surface": "דם",
+      "gloss": "demm"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bin-nies"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "demmu"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "jixtered"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "fix-xbieha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-bniedem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:25.603836721Z",
+  "model": "glm-5.3"
+}

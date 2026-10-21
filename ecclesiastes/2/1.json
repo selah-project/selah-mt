@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "particle of entreaty with no standalone Maltese equivalent; absorbed into 'Ejja'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכה נא",
+      "rationale": "the speaker summons himself — 'Come now, I will try you with mirth'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħela",
+      "rationale": "הבל is literally breath\/vapour; 'ħela' (waste\/futility) is the closest Maltese shape"
+    }
+  ],
+  "translation": "Jgħidt jien f'qalbi: Ejja, injarrab bl-hena u ara t-tajjeb; u arat, anki dan ⟨huwa⟩ ħela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/2\/1-4.1792620260897.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Jgħidt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "f'qalbi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Ejja"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "injarrab"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bl-hena"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "t-tajjeb"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u arat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ħela"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:20.898569618Z",
+  "model": "glm-5.3"
+}

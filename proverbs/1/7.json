@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Il-Lhudi m'għandux kopula; miżjuda bil-Malti u mmarkata."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראשית",
+      "rationale": "'Bidu' kontra 'l-ikbar parti' — il-kelma tfisser l-ewwel fil-grad uż-anke fil-ħin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חכמה ומוסר",
+      "rationale": "Ġie użat 'għarfien u dixxiplina' għal חכמה (għerf) u מוסר (tqarreħ-edukazzjoni); l-oggett ta' בזו qiegħed qabel il-fil, iżżammet l-ordni tal-Lhudi."
+    }
+  ],
+  "translation": "Biża' ta' Jaħwe ⟨huwa⟩ l-bidu tal-għarfien; il-għarfien u d-dixxiplina n-nas jiddispizzawhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/1\/5-8.1792618360434.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Biża'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "l-bidu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tal-għarfien"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "il-għarfien"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "u d-dixxiplina"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "n-nas"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "jiddispizzawhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:40.434974619Z",
+  "model": "glm-5.3"
+}

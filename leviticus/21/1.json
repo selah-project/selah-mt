@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "il-qassisin wlied Aharon",
+      "rationale": "adress dirett lill-qassisin, wlied Aharon."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruħ mejta",
+      "rationale": "נפש hawn tfisser bniedem mejjet, mhux ruħ biss; 'għal ruħ mejta' iżżomm il-wiċċ litterali."
+    }
+  ],
+  "translation": "U Jaħwe qal lil Moxe: Għid lill-qassisin, wlied Aharon, u għidilhom: għal ruħ mejta ma jixxammemx fost niesu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/21\/1-4.1792601074934.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "għid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil-"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qassisin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "u għidilhom"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "għal ruħ mejta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "jixxammemx"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "fost niesu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:34.935049778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨huma⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמונה \/ שקר",
+      "rationale": "il-kuntrast semantiku emuna (sodem) kontra šeqer (falz) f'dak il-poeżija"
+    }
+  ],
+  "translation": "Kollha kemm huma l-miżvot tiegħek ⟨huma⟩ emuna; bil-falz ippersegwitawni — għinni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/85-88.1792618047495.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha kemm huma"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "l-miżvot tiegħek"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "emuna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bil-falz"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ippersegwitawni"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "għinni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:27.496041652Z",
+  "model": "glm-5.3"
+}

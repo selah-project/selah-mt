@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ġranet",
+      "rationale": "Il-vers jgħodd it-tul tas-sogorja f'Kades bil-ġranet — kejl ta' żmien."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותשבו \/ ישבתם",
+      "rationale": "Għerq wieħed ישב iberħu fil-bidu u fit-tarf — inċiżjoni mill-ewwel kelma sat-talet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישב",
+      "rationale": "il-verb ifisser 'poġġa\/qagħad'; 'tqegħdu' żżomm il-pożizzjoni mqiegħda mhux biss ġita twila."
+    }
+  ],
+  "translation": "U tqegħdu f'Kades ġranet ħafna, skont ⟨il-ġranet⟩ li konna tqegħdu ⟨hemm⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/45-46.1792605292816.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "tqegħdu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "f'Kades"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ġranet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "skont ⟨il-ġranet⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "konna tqegħdu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:54:52.817385325Z",
+  "model": "glm-5.3"
+}

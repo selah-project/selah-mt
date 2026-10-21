@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 25:10",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ilsien ta' Qedem",
+      "rationale": "בני קדם litteralment 'wlied tal-Lvant'; Qedem ifisser lvant\/qedem"
+    },
+    {
+      "kind": "crux",
+      "subject": "lill-ilsien ta' Qedem",
+      "rationale": "Sehem mogħti lilhom (KJV) jew kontra Ammon (ASV) — sintassi mħallta"
+    }
+  ],
+  "translation": "lill-ilsien ta' Qedem, flimkien ma' wlied Ammon, u nagħtihom bħala sidien, biex wlied Ammon ma jibqgħux imsemmew fost il-ġnus.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d97118e3b6fca6f0ec5d0dc03c86237b93eb74212fc9add6c852de3f2efb3136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/25\/9-12.1792614639827.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "lill-ilsien"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "u nagħtihom"
+    },
+    {
+      "surface": "למורשה",
+      "gloss": "bħala sidien"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "jibqgħux imsemmew"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fost il-ġnus"
+    }
+  ],
+  "timestamp": "2026-10-21T20:30:39.828604630Z",
+  "model": "glm-5.3"
+}

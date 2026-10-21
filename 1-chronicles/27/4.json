@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 27:4",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "u d-diviżjon tiegħu, u Miklot il-mexxej",
+      "rationale": "ומחלקתו ומקלות הנגיד: does Miklot lead Dodai's course, or is he a second officer alongside him? Versions divide."
+    },
+    {
+      "kind": "addition",
+      "subject": "kien hemm",
+      "rationale": "Maltese requires a verb where Hebrew has a nominal clause."
+    }
+  ],
+  "translation": "U fuq id-diviżjon tat-tieni xahar ⟨kien hemm⟩ Dodaj l-Aħoħi, u d-diviżjon tiegħu, u Miklot il-mexxej; u fuq id-diviżjon tiegħu għoxrin u erba' eluf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/27\/1-4.1792622212291.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "U fuq"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "id-diviżjon"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "tat-tieni xahar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tat-tieni"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "Dodaj"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "l-Aħoħi"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "u d-diviżjon tiegħu"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "u Miklot"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "il-mexxej"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "id-diviżjon tiegħu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "u erba'"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "eluf"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:52.292485519Z",
+  "model": "glm-5.3"
+}

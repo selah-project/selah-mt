@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אימה",
+      "rationale": "אֲיֻמָּה: 'tal-biża'', awen; xi tradutturi jbaxxruh għal 'majestuża'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנדגלות",
+      "rationale": "נִדְגָּלוֹת: 'dawk mżejna bil-bnadar' (etardi bil-bandieri) vs 'settri tar-re' jew 'bidu ta' jum'; żgeżwir ta' eżerċitu bi bnadar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Tirtsa \/ רָצוֹן",
+      "rationale": "תִּרְצָה jaf tkun il-belt jew isem in-nisa 'Tirtsa' (imħeġġa); il-ħolqien taż-żewġ tifsiriet ma jgħaddix"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiż",
+      "rationale": "l-ortografija tal-Kunsill teħtieġ żiffxa fil-vokattiv"
+    }
+  ],
+  "translation": "Sabiħa ⟨את⟩ inti, ħabiba tiegħi, bħal Tirtsa; ta' gbawwa bħal Jeruxalajim, li tagħti l-biża' bħal dawk il-ġejjien bil-bnadar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/6\/1-4.1792619957434.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Sabiħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħabiba tiegħi"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ħabiba tiegħi"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "bħal Tirtsa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ta' gbawwa"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "bħal Jeruxalajim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "li tagħti l-biża'"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "bħal dawk il-ġejjien bil-bnadar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:59:17.436018248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועננו",
+      "rationale": "'And answer us' (MT) vs KJV\/JPS 'hear me', following the Syriac and some Hebrew manuscripts."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "Direct prayer to God: save, answer us."
+    }
+  ],
+  "translation": "Biex jinħelsu lill-maħbubin tiegħek; ħalles bil-lemin tiegħek, u wieġebna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/60\/5-8.1792617213544.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Biex"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "jinħelsu"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "lill-maħbubin tiegħek"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ħalles"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "bil-lemin tiegħek"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "u wieġebna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:33.545498098Z",
+  "model": "glm-5.3"
+}

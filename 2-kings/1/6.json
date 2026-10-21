@@ -1,0 +1,203 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 1:6",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għidulu",
+      "rationale": "il-verb 'għid' fl-ittrar ta' שלח għandu oġġett fil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "alla ta' Ekron",
+      "rationale": "אלהי b'ittra żgħira — alla barrani, mhux Elohim"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "infinitiv assolut + verb: 'bil-qatt tmút', l-ebraiku iċċettaħ bil-infinitiv"
+    }
+  ],
+  "translation": "U qalulu: Raġel tela' biex jiltaqa' magħna, u qalilna: Ittru, erggħu għand is-sultan li bagħatkom, u għidulu: Hekk jgħid Jaħwe: Minħabba li mhemmx Elohim f'Jisrael inti qiegħed tbagħat biex ttallet lil Baħal-Zebub, alla ta' Ekron? Għalhekk mis-sodda li tlajt fuqha mhux se tnżel minnha, għax bil-qatt tmút.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/1\/5-8.1792610116944.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalulu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tela'"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "biex jiltaqa' magħna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ittru"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "erggħu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "u għidulu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "minħabba li mhemmx"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mhemmx"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "qiegħed tbagħat"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "biex ttallet"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "lil Baħal-"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Zebub"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "alla ta'"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mis-sodda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "tlajt fuqha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨fuqha⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "se tnżel"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "minnha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bil-qatt"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tmút"
+    }
+  ],
+  "timestamp": "2026-10-21T19:15:16.945724775Z",
+  "model": "glm-5.3"
+}

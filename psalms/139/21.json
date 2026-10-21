@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא",
+      "rationale": "Mistoqsija retorika li tistenna rispons iva; 'Mhux il-veru' iżżomm il-ħoss tal-mistoqsija Lhudija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משנאיך\/אשנא",
+      "rationale": "Għerq שנא mtenni — 'jobogħduk\/injobgħduhom' — il-kelma tinbidel biss fil-prefiss"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתקוטט",
+      "rationale": "Qattugħ kontra-lifscha ta' קוט: 'inqatta' għaddej' vs 'idispjaċini' (KJV 'grieved')"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "Appell dirett lil Jaħwe fin-nofs tal-vers"
+    }
+  ],
+  "translation": "Mhux il-veru, Jaħwe, li dawk li jobogħduk jien injobgħduhom, u ma' dawk li jqumux kontriek inqatta' għaddej?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/139\/21-24.1792618241701.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Mhux il-veru"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "dawk li jobogħduk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "jien injobgħduhom"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "u ma' dawk li jqumux kontriek"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "inqatta' għaddej"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:41.702192774Z",
+  "model": "glm-5.3"
+}

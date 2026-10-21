@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wieħed ... tnax",
+      "rationale": "Għadd: baħar wieħed, tnax-il baqra taħtu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-baħar",
+      "rationale": "הים hawn mhux baħar ġeografiku iżda l-baċir tal-bronż kbir tat-tempju; il-kelma Lhudija tibqa' 'baħar' bħala isem tal-oġġett."
+    }
+  ],
+  "translation": "u ⟨את⟩ il-baħar wieħed, u ⟨את⟩ l-tnax-il baqra taħt il-baħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/7\/41-44.1792609458282.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-baħar wieħed"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-tnax-il baqra"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "il-baqar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "u għaxra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:04:18.283840482Z",
+  "model": "glm-5.3"
+}

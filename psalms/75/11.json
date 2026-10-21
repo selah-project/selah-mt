@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרני\/קרנות",
+      "rationale": "repetition of 'horn' frames the contrast: horns cut vs horns raised"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naqtagħhom",
+      "rationale": "גדע literally 'to fell (a tree)' — horns cut down like trunks"
+    }
+  ],
+  "translation": "U l-qrun tal-ħżiena kollha naqtagħhom, iżda l-qrun tal-ġust jitilgħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/75\/9-11.1792617440040.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "l-qrun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tal-ħżiena"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "naqtagħhom"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "jitilgħu"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "l-qrun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tal-ġust"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:20.041257546Z",
+  "model": "glm-5.3"
+}

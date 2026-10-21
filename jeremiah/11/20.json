@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-kliewi",
+      "rationale": "כליות litteralment 'kilwien'; fil-Lhudi huma s-sede tal-ħsibijiet u l-ħlewwiet, mhux biss organu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħallini",
+      "rationale": "אראה jista' jkun jew talba ('ħallini narra') jew stqarrija ('nider'); il-kontest ta' talba jrid imperattiv bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "Ġeremija",
+      "rationale": "talba diretta lil Jaħwe kontra nies Anatot"
+    }
+  ],
+  "translation": "U Jaħwe Tsebawot, li taħkem b'tsedeq, li tittanta l-kliewi u l-qalb, ħallini narra l-vendetta tiegħek fuqhom, għax lejk żvelajt ⟨את⟩ il-każ tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "890b04e897cbc46d2a1b6f2d94160063d9662159f2bc995aa9d3cd7473a5d86c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/11\/17-20.1792612745101.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "U Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "taħkem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "b'tsedeq"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "li tittanta"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "l-kliewi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "u l-qalb"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ħallini narra"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "l-vendetta tiegħek"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lejk"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "żvelajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-każ tiegħi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "il-każ tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:59:05.102536753Z",
+  "model": "glm-5.3"
+}

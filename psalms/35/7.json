@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hija ħajja\/nifs\/moħħ, mhux ruħ biss."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנם...חנם",
+      "rationale": "Ir-repetizzjoni ta' 'bla raġuni' tiffraJJar l-inġustizzja."
+    }
+  ],
+  "translation": "Għax bla raġuni ħabew għalija fosra — xibka tagħhom; bla raġuni ħaffru għal ruħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/5-8.1792616955135.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bla raġuni"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ħabew"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "fosra"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "xibka tagħhom"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bla raġuni"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ħaffru"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "għal ruħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:15.136142709Z",
+  "model": "glm-5.3"
+}

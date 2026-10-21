@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aħtarfhom",
+      "rationale": "והמלכת hija causativa ta' מלך, 'tagħmel li jirrenja', tirreġistra l-att ta' inkurunazzjoni mhux biss għażla."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Xemuwel",
+      "rationale": "Jaħwe jaddressa direttament lil Xemuwel bil-plural imperattiv שמע."
+    }
+  ],
+  "translation": "U Jaħwe qal lil Xemuwel: Isma' leħinhom, u aħtarfhom sultan. U Xemuwel qal lill-irġiel ta' Jisrael: Mur, kull wieħed għal beltu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/8\/21-22.1792607716360.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Xemuwel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Isma'"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "leħinhom"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "u aħtarfhom"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Xemuwel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "l-irġiel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "għal beltu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:35:16.361703028Z",
+  "model": "glm-5.3"
+}

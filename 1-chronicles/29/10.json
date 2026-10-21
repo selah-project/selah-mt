@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Il-Malti jeħtieġ 'lil' quddiem isim il-ġerund (lil Jaħwe), xejn ma jikkorrispondi għal kelma Lhudija."
+    },
+    {
+      "kind": "you",
+      "subject": "barka ta' David",
+      "rationale": "Indirizz direktta ta' David lil Jaħwe quddiem il-laqgħa kollha."
+    }
+  ],
+  "translation": "U bierek David ⟨את⟩ lil Jaħwe quddiem għajnejn il-laqgħa kollha, u qal David: Imbierek int, Jaħwe, Elohim ta' Jisrael, missierna, mill-olam u sal-olam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88ea3f74b3c79d46ed22924f10adbbd73a9db1041ef805e5554c1111b19025d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/29\/9-12.1792622241059.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "u bierek"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "quddiem għajnejn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-laqgħa kollha"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "il-laqgħa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Imbierek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "missierna"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mill-olam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u sal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "l-olam"
+    }
+  ],
+  "timestamp": "2026-10-21T22:37:21.060187018Z",
+  "model": "glm-5.3"
+}

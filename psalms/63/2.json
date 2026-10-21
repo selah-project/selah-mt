@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hija nifs \/ ħajja, mhux ruħ biss; bil-Malti 'ruħi' huwa l-eqreb wieħed kelma."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשחרך",
+      "rationale": "għerq שחר (tefqiegħ): 'nfittsek kmieni fid-dawl' kontra 'b'għażża nfittsek'."
+    }
+  ],
+  "translation": "Elohim, El tiegħi inti, kmieni nfittsek għalik; għatxet għalik ruħi, ħennet għalik ġismi, f'art niexfa u għejja, bla ilma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/63\/1-4.1792617333712.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El tiegħi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "kmieni nfittsek għalik"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "għatxet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ħennet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ġismi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "f'art"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "niexfa"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "u għejja"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:33.713171439Z",
+  "model": "glm-5.3"
+}

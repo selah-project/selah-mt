@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ż-żgħażagħ",
+      "rationale": "הילדים is literally 'the lads\/boys' — the contrast with הזקנים 'the elders' is the point; rendered as 'young men'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "the preposition אתו ('with him', H854) is a different word from the object-marker את; rendered 'miegħu', not bracketed as ⟨את⟩."
+    }
+  ],
+  "translation": "U hu abbanduna ⟨את⟩ il-parir tal-anzjani li tawh, u ħa kunsill ma' ⟨את⟩ ż-żgħażagħ li kibru ⟨את⟩ miegħu, li kienu qegħdin quddiemu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/5-8.1792609716720.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "u abbanduna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-parir"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "il-parir"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "tal-anzjani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "tawh"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "u ħa kunsill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ż-żgħażagħ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ż-żgħażagħ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kibru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "qegħdin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:36.721657038Z",
+  "model": "glm-5.3"
+}

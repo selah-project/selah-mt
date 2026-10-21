@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rashom",
+      "rationale": "il-pronom possessiv 'tiegħu' bil-Malti jinbena b'suffiss fuq 'ras' — ras + omm"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-Għaraba",
+      "rationale": "הערבה = il-wied mill-ibern għall-Għordan, isem propju tal-post"
+    }
+  ],
+  "translation": "U daħlu d-dar, u hu rqad fuq soddtu fil-kamra tas-sodda tiegħu, u laqtuh u qatluh, u neħħew ⟨את⟩ rashom, u ħadu ⟨את⟩ rashom, u marru triq il-Għaraba l-lejl kollu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0506f02985f44e8e153fc3c793421ce189219bfaf89e3cfac9fb461aa7a566b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/4\/5-8.1792608638796.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "U daħlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "rqad"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "soddtu"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "fil-kamra"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "tas-sodda"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "u laqtuh"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "u qatluh"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "u neħħew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rashom"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rashom"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "u ħadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rashom"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rashom"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u marru"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "il-Għaraba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "l-"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "lejl kollu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:50:38.797723511Z",
+  "model": "glm-5.3"
+}

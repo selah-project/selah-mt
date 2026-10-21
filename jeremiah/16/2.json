@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jkollux",
+      "rationale": "על לך literally 'ma jkunux għalik'; il-Malti juża verb ta' pussess 'jkollu'."
+    },
+    {
+      "kind": "you",
+      "subject": "Moxe",
+      "rationale": "Indirizz diretta lil Jeremija bl-imperattiv tan-negazzjoni."
+    }
+  ],
+  "translation": "Ma tieħux għalik mara, u ma jkollux għalik subien u bniet f'dan il-post.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6dfecd209b945013c712a7ff4af2832eee7655f4a68c49cd494e32a95c1148be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/16\/1-4.1792612834681.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tieħux"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jkollux"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "subien"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "u bniet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "f'dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "il-post"
+    }
+  ],
+  "timestamp": "2026-10-21T20:00:34.681950117Z",
+  "model": "glm-5.3"
+}

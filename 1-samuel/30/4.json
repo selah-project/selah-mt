@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "kopula meħtieġa bil-Malti, ma hemmx fil-Lhudi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "tellgħu leħinhom",
+      "rationale": "נשא את קולם — 'tellgħu leħinhom', idjom Lhudi għal għajta ta' niket"
+    }
+  ],
+  "translation": "U David u l-poplu li ⟨kien⟩ ⟨את⟩ miegħu tellgħu ⟨את⟩ leħinhom u ħbatu, sa ma baqgħilhomx saħħa biex jaħbatu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/30\/1-4.1792608482836.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "U tellgħu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "u l-poplu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leħinhom"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "leħinhom"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "u ħbatu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma baqgħilhomx"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fihom"
+    },
+    {
+      "surface": "כח",
+      "gloss": "saħħa"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "biex jaħbatu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:48:02.837463199Z",
+  "model": "glm-5.3"
+}

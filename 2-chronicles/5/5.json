@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil dawn",
+      "rationale": "l-אתם antipost bil-prepożizzjoni Maltija biex tifforma l-kostruzzjoni OVS ta' suffiss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mqaddsa",
+      "rationale": "הקדש huwa isem ta' għerq qaddis — qaddis\/qdusija, mhux 'santuwarju'"
+    }
+  ],
+  "translation": "U tellgħu ⟨את⟩ l-arka u ⟨את⟩ it-tinda tal-moed u ⟨את⟩ l-istrumenti mqaddsa kollha li kienu fit-tinda; ⟨את⟩ lil dawn itellgħuhom il-qassisin il-Leviti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3f938b32a4b31e42c83a9334b9c84d6b1548fa0639962a2da62cc8ec3c58611d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/5\/5-8.1792622415457.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "u tellgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l-arka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-tinda tal-moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "it-tinda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-istrumenti mqaddsa kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "l-istrumenti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mqaddsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "fit-tinda"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "itellgħuhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lil dawn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "il-qassisin"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "il-Leviti"
+    }
+  ],
+  "timestamp": "2026-10-21T22:40:15.458597678Z",
+  "model": "glm-5.3"
+}

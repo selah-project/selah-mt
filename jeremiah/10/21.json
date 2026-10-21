@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saru bħal annimali",
+      "rationale": "נבערו minn בער: ħruq\/konsum jew ma jagħrafx — hawn 'sar bħal baqar', mhux maħruq"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "imbrikkat ma' כן (על כן = għalhekk)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ma jaqbzulhom",
+      "rationale": "השכילו: 'ma kellhomx suċċess' kontra 'ma ġġibux rieżqa \/ ma jmexxewx b'mod għaref'"
+    }
+  ],
+  "translation": "Għaliex il-rgħajja saru bħal annimali, u lil ⟨את⟩ Jaħwe ma fittxewh; għalhekk ma jaqbzulhom, u merħlithom kollha tkixriet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/10\/21-24.1792612657821.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "saru bħal annimali"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "il-rgħajja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u lil ⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "fittxewh"
+    },
+    {
+      "surface": "על",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "כן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "jaqbzulhom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "merħlithom"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "tkixriet"
+    }
+  ],
+  "timestamp": "2026-10-21T19:57:37.822341231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את quddiem Xeber",
+      "rationale": "L-ewwel oġġett m'għandux את; it-tieni għandu — differenza li tinbiegħed bil-Malti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ġenealoġija",
+      "rationale": "Peress ta' ħsejjes — nisel ta' Kalev"
+    }
+  ],
+  "translation": "Konċubina ta' Kalev, Maaka, welldet lil Xeber u ⟨את⟩ lil Tiriħana.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c24f605f0a469022ebb629e60c61333846fee89895b7bcd7afabd0269efdeaee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/2\/45-48.1792621674114.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "konċubina"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ta' Kalev"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "welldet"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Xeber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Tiriħana"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Tiriħana"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:54.115354420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עלע",
+      "rationale": "יְעַלְעוּ jidher biss hawn fit-Tanakh; tfissir 'jissorbu, jibelgħu bil-ħarrix'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħha",
+      "rationale": "il-Lhudi għandu biss ואפרחו 'u l-friħ tagħha'; il-pronun żdied għaċ-ċarezza"
+    }
+  ],
+  "translation": "U l-friħ tagħha jissorbu d-demm, u fejn hemm il-ħatlin, hemm hi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe33652b2fcc3c36789ae5a217160e910ee9c6cc4decc1345fc127f39b3a5241",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/39\/29-30.1792619827529.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "U l-friħ tagħha"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "jissorbu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "u fejn hemm"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "il-ħatlin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:57:07.530220430Z",
+  "model": "glm-5.3"
+}

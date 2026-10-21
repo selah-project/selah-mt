@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענו \/ תענהו",
+      "rationale": "l-istess għerq 'wieġeb' jerġa' jidher fil-każċun — 'ma wegġbuxh ... tgħidduxh' — ripetizzjoni li tinfir fil-Malti."
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "il-Malti jeħtieġ kopula għal מצות ... היא, mgħoddija fil-⟨…⟩? le — היא hi preżenti fil-Lhudi u mmarkata b'kopula qawwija."
+    }
+  ],
+  "translation": "U baqgħu siekta, u ma wegġbuxh ⟨את⟩ b'kelma, għax taħdira tas-sultan kienet: la tgħidduxh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/36\/21-22.1792611634575.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "u baqgħu siekta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "wegġbux"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "b'kelma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taħdira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "li jgħid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "tgħidduxh"
+    }
+  ],
+  "timestamp": "2026-10-21T19:40:34.575756517Z",
+  "model": "glm-5.3"
+}

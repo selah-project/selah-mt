@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "il-vers",
+      "rationale": "Kejl tal-pilastri tas-Santwarju: sitt ammonti minn kull naħa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pilastri",
+      "rationale": "אילים hawn huwa terminu ta' arkitettura (pilastri), mhux muntun (offerta) u lanqas ċerv (אַיָּל) — l-istess konsonanti, kelma oħra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפו ומפו",
+      "rationale": "Iterazzjoni parallela 'minn hawn ... minn hemm', ritmu tal-kejl li jibqa' fil-Malti."
+    }
+  ],
+  "translation": "U daħħalni fit-tempju, u kejjel ⟨את⟩ il-pilastri: sitt ammonti wisa' minn hawn, u sitt ammonti wisa' minn hemm — il-wisa' tat-tenda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "06266189c20529ec0fe75827fefb6b29e921711727c661649548500231871397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/41\/1-4.1792615184958.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "u daħħalni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "it-tempju"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "u kejjel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-pilastri"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "il-pilastri"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammonti"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "wisa'"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "minn hawn"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "u sitt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammonti"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "wisa'"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "il-wisa'"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tat-tenda"
+    }
+  ],
+  "timestamp": "2026-10-21T20:39:44.958901021Z",
+  "model": "glm-5.3"
+}

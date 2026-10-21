@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נארתה",
+      "rationale": "il-verbu נאר deher rari ħafna fit-Tanakh — 'ċaħdt b'moħħ serħan'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuruna",
+      "rationale": "נזר litteralment 'dak li huwa mqaddes, maħtur' — għaraf bħala kuruna tad-dedika"
+    }
+  ],
+  "translation": "Xħejjt il-patt ta' qaddejtek, xellejt fl-art il-kuruna ta' mqaddesih.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/37-40.1792617645389.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "xħejjt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "il-patt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ta' qaddejtek"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "xellejt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "il-kuruna ta' mqaddesih"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:45.390565385Z",
+  "model": "glm-5.3"
+}

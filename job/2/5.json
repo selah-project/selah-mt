@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jibierekek",
+      "rationale": "ברך qiegħed bil-modalità letterali 'jibierek', imma hawn eufemiżmu għal 'jissebbtiek' — il-maġġoranza tat-traduzzjonijiet jagħmlu 'curse'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għadmi u ġildu",
+      "rationale": "עצם = għadma, בשר = ġisem\/ġild — miżjuda bħala perifrażi għal 'ġisem kollu'"
+    }
+  ],
+  "translation": "Iżda ibagħat, jekk jogħġbok, idek, u miss lil għadmi u lil ġildu — jekk mhux quddiem wiċċek jibierekek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/2\/5-8.1792619119734.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Iżda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ibagħat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "idek"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "u miss"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "għadmi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ġildu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "jibierekek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:45:19.734721239Z",
+  "model": "glm-5.3"
+}

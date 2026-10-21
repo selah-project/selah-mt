@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "אֹתָם hawn probabbilment pronom 'ilhom' (dawk li David qatil), mhux is-sinjal את H853 — verżjoni oħra: 'meta David qatilhom'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "rregnav f'Damasku",
+      "rationale": "verb plural 'huma rregnav' għalkemm Rezon huwa s-suġġett implicitu — il-verb jiġi mal-irġiel li ġab miegħu"
+    }
+  ],
+  "translation": "U ġabar miegħu irġiel, u sar kap ta' ġemgħa armata meta David qatil ⟨את⟩ dawk; u huma marru Damasku, u niżlu jgħixu fiha, u rregnav f'Damasku.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/21-24.1792609604514.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "U ġabar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u sar"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kap"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ta' ġemgħa armata"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "meta qatil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dawk (l-irġiel)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u huma marru"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasku"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u niżlu jgħixu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "u rregnav"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "f'Damasku"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:44.515740790Z",
+  "model": "glm-5.3"
+}

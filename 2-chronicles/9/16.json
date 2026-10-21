@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tlett mija deheb għal kull tarka",
+      "rationale": "Piż ta' kull tarka żgħira — inqas minn tal-kbira tas-siegħa 15"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tarki",
+      "rationale": "מגן hija t-tarka ż-żgħira, kontra צנה il-kbira; l-Malti jiddistingwi biss bil-kuntest"
+    },
+    {
+      "kind": "elision",
+      "subject": "xeqel",
+      "rationale": "Bħal fis-siegħa 15, l-unità mhux miktuba fl-Lhudi"
+    }
+  ],
+  "translation": "u tlett mija tarki deheb imdawwab — tlett mija deheb kienet titla' fuq tarka waħda — u r-re poġġiehom fid-dar ta' bosk tal-Libanu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/9\/13-16.1792622465565.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "u tlett"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "tarki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "imdawwab"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kienet titla'"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "tarka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "waħda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "u poġġiehom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ta' bosk"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "tal-Libanu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:41:05.566535105Z",
+  "model": "glm-5.3"
+}

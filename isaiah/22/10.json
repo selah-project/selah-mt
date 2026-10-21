@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "għoddtu d-djar",
+      "rationale": "Sensu ta' ċensiment: huma għoddu d-djar ta' Jeruxalajim qabel iwaqqgħuhom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתים\/הבתים",
+      "rationale": "Ir-repetizzjoni tal-istess kelma — id-djar mnebbħa biex id-djar oħra jitilfu — titlef fil-Malti."
+    }
+  ],
+  "translation": "U ⟨את⟩ id-djar ta' Jeruxalajim għoddtu, u tajbtu nhisu d-djar biex tifortizza l-ħajt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/22\/9-12.1792611251186.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "id-djar ta' Jeruxalajim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "id-djar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "għoddtu"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "tajbtu nhisu"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "id-djar"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "biex tifortizza"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "il-ħajt"
+    }
+  ],
+  "timestamp": "2026-10-21T19:34:11.187231026Z",
+  "model": "glm-5.3"
+}

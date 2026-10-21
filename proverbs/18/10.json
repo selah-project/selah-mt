@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi għandu nominal sentence bla kopula; il-Malti jeħtieġ 'huwa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשגב",
+      "rationale": "'jitgħolla \/ jiġi mħares': jiswa 'jitpoġġa għoli (sigur)' — KJV 'and is safe', YLT 'set on high'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז\/נשגב",
+      "rationale": "l-istess żewġ kelmiet jergħu jiġu fil-vers 11 dwar il-ġid ir-riku — kuntrast bejn it-torri ta' Jaħwe u l-ħajt tar-riku"
+    }
+  ],
+  "translation": "Torri ta' qawwa ⟨huwa⟩ l-Isem ta' Jaħwe; fih jiġri l-bniedem ġust, u jitgħolla.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/18\/9-12.1792618689467.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "Torri"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ta' qawwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "l-Isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "jiġri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-bniedem ġust"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "u jitgħolla"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:09.468364558Z",
+  "model": "glm-5.3"
+}

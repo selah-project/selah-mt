@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויכלמו\/ויחפרו",
+      "rationale": "Three near-synonymous shame verbs pile up in chiastic wish; Maltese keeps three but loses the sound chain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-ħajja tiegħi",
+      "rationale": "נפש here means the psalmist's very life being sought, rendered as 'life' rather than 'soul'."
+    }
+  ],
+  "translation": "Jistħew u jiddiżonraw dawk ifittxu l-ħajja tiegħi; jirtiraw lura u jitħawġu dawk jaħsbu l-ħażen kontrija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/1-4.1792616985544.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Jistħew"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "u jiddiżonraw"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "dakk ifittxu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "l-ħajja tiegħi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "jirtiraw"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lura"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "u jitħawġu"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "dawk jaħsbu"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "l-ħażen kontrija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:45.545246231Z",
+  "model": "glm-5.3"
+}

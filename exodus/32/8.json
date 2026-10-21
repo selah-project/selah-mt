@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 32:8",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "allat tiegħek",
+      "rationale": "אלהיך plural (b'referenza għal għoġol wieħed, cf. 32:4) — 'dawn allat tiegħek'; JPS jagħmel singular 'This is thy god'"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ il-verbu 'huma'; il-Lhudi jilqaħha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imlugħ",
+      "rationale": "מסכה = imlugħ ma' ħadid (nagħġa deheb imdewweb, 32:3-4)"
+    }
+  ],
+  "translation": "Sarrew malajr mit-triq li kkmandajthom; għamlu lilhom infushom għoġol imlugħ, u tilbu quddiemu, u żabħu quddiemu, u qalu: Dawn huma allat tiegħek, Jisrael, li tellgħuk mill-art ta' Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a86d8070e73ea6d61ab0898d7dc1f3ffd2ceb56b1188d97681b29f5c68199caa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/32\/5-8.1792602315736.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סרו",
+      "gloss": "Sarrew"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "malajr"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "it-triq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "kkmandajthom"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom infushom"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "għoġol"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "imlugħ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "u tilbu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "u żabħu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "allat tiegħek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "tellgħuk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art ta'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:15.740486872Z",
+  "model": "glm-5.3"
+}

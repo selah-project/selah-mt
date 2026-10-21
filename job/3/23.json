@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "triqtu moħbija",
+      "rationale": "it-triq tal-bniedem moħbija, maħbija — għajn fuq dak li huwa mxebbaħ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויסך",
+      "rationale": "'ħajt maħdum madwar' — Jobu jużah hawn b'dulur (imċaqlaq), fil-Ktieb tal-Ġobb l-istess għerq jiġi b'tifsira ta' protezzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bniedem",
+      "rationale": "גבר huwa 'raġel b'saħħtu, ġellied' — 'bniedem' jiċċempel is-sens tal-qawwa"
+    }
+  ],
+  "translation": "lill-bniedem li triqtu moħbija, u li Elowaħ dawwarh b'ħajt minn kullimkien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/3\/21-24.1792619052984.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "lill-bniedem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "triqtu"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "moħbija"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "u dawwarh b'ħajt minn kullimkien"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elowaħ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "biħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:12.985386470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ l-għajnuna tal-verb 'kien' għal צוה fil-passat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרבו \/ ויעמדו",
+      "rationale": "Żewġ verbi ta' moviment kontra stat (qerbu \/ wieqfu) — ritmu ta' qrib u wieqaf"
+    }
+  ],
+  "translation": "U ħadu ⟨את⟩ dak li Moxe kien imissa biżżejjed, quddiem il-bittija tal-laqgħa; u qerqbu l-Ġemgħa kollha u wieqfu quddiem Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9a6b0a4b7254ccbee1a9dae91d85e8b344ac8123d31fd6b41f47bc8086a09aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/9\/5-8.1792600647171.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "u ħadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li Moxe kien imissa biżżejjed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kien imissa biżżejjed"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "il-bittija"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "u qerqbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "il-Ġemgħa"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "u wieqfu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:27.172539370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שנים",
+      "rationale": "Il-duali Malti 'jumejn' (jiem tnejn) jittraskurixxi lil 'שנים' bħala kelma separata għax id-dual jikkbora t-tnejt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jumejn",
+      "rationale": "Għadd ta' jiem — jumejn f'Ċiklag"
+    }
+  ],
+  "translation": "U ġara wara mewt Xa'ul, meta David raġa' milli kieket ⟨את⟩ l-Amalek, u David għamm f'Ċiklag jumejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/1\/1-4.1792608512314.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mewt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xa'ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "u David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "raġa'"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "milli kieket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "l-Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u għamm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "f'Ċiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jumejn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tnejn"
+    }
+  ],
+  "timestamp": "2026-10-21T18:48:32.315179756Z",
+  "model": "glm-5.3"
+}

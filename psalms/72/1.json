@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "לשלמה",
+      "rationale": "Jista' jkun superskrizzjoni ('ta' Xelomo') jew l-indirizz tat-talba ('għal Xelomo')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "צדקתך ma tnissrax għal 'ġustizzja' waħedha; il-kelma Lhudija maż-żamma tagħha tiffissa l-ħajja qaddisa"
+    }
+  ],
+  "translation": "Ta' Xelomo. Elohim, il-ġudizzji tiegħek agħtihom lis-sultan, u t-tsedeq tiegħek lil iben is-sultan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/1-4.1792617439388.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Ta' Xelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "il-ġudizzji tiegħek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lis-sultan"
+    },
+    {
+      "surface": "תן",
+      "gloss": "agħtihom"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "u t-tsedeq tiegħek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "lil iben"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:19.388534861Z",
+  "model": "glm-5.3"
+}

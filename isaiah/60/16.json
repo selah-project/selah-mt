@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 60:16",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Malti jeħtieġ il-kopula qabel 'l-Missierek'; il-Lhudi ma għandux."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-Missierek",
+      "rationale": "מושיעך huwa parteċippju ta' ישע, 'dak li jżommok sikur\/jiddefendiek', mhux 'missier' b'sens ta' sid."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינקת\/תינקי",
+      "rationale": "Għerq wieħed ינט miżur darbtejn — is-sorp u l-għanqdid jirrepetu l-ħoss tat-tit id-dif."
+    }
+  ],
+  "translation": "U tiderdgħaħ il-ħalib tan-nazzjonijiet, u mis-sider tal-mexxienja tiderdgħaħ, u tkun taf li jien Jaħwe, ⟨hu⟩ l-Missierek, u l-Gojlek, il-Qawwi ta' Jagħaqov.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6db3cf4fa87ef5d85bfcce4b80e50f6020639aede17f02048e650e1af20611ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/60\/16-16.1792623529432.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקת",
+      "gloss": "u tiderdgħaħ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "il-ħalib"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tan-nazzjonijiet"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "u mis-sider"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "tal-mexxienja"
+    },
+    {
+      "surface": "תינקי",
+      "gloss": "tiderdgħaħ"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "u tkun taf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "l-Missierek"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "u l-Gojlek"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "il-Qawwi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:49.433123003Z",
+  "model": "glm-5.3"
+}

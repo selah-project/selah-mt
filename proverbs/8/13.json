@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 8:13",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux kopula; ġejja fil-parentesi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mqalleb",
+      "rationale": "תהפכות tfisser 'maqlub, pervers' — il-ħalq li jgħid il-kontra ta' dak li hemm f'moħħu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאת\/שנאתי",
+      "rationale": "l-istess għerq 'jobgħod' fil-bidu u fl-aħħar — l-imbraċċata tar-repetizzjoni"
+    }
+  ],
+  "translation": "Il-biża' ta' Jaħwe huwa ⟨li⟩ tobgħod il-ħażar: l-għadaħ, u l-kburija, u t-triq il-ħażina, u l-ħalq imqalleb — dawn jobgħodni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/8\/13-16.1792618503692.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "il-biża'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "tobgħod"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il-ħażar"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "l-għadaħ"
+    },
+    {
+      "surface": "וגאון",
+      "gloss": "u l-kburija"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "u t-triq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il-ħażina"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "u l-ħalq"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "imqalleb"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jobgħodni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:03.693086730Z",
+  "model": "glm-5.3"
+}

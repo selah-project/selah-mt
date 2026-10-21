@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ האזין",
+      "rationale": "Żewġ verb differenti għall-istess idea — 'sma'' u 'wessa' widniejh' — paralleliżmu li l-Malti jiżgħu b'verbi differenti."
+    },
+    {
+      "kind": "addition",
+      "subject": "għandkom",
+      "rationale": "l-Lhudi għandu biss אליכם 'lejkom\/il-għandkom'; il-verb Malti jeħtieġ 'għandkom' bis-saħħa."
+    }
+  ],
+  "translation": "U tħarstu lura u tibku quddiem Jaħwe, iżda Jaħwe ma sma'x vuċiżom u lanqas ta' widniejh ⟨għandkom⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/45-46.1792605292816.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "tħarstu lura"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "tibku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iżda ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sma'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "vuċiżom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "ta' widniejh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "għandkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:54:52.817146867Z",
+  "model": "glm-5.3"
+}

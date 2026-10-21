@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "id-diġa'",
+      "rationale": "כעס huwa vexation\/korla — 'dispjaċir' jew 'id-diġa'' jiżżomm il-piż tal-kelma"
+    },
+    {
+      "kind": "crux",
+      "subject": "isir il-qalb tajba",
+      "rationale": "ייטב לב: 'il-qalb titjieb' jew 'il-qalb tingħata ferħ' — ASV 'made glad' kontra KJV 'made better'"
+    }
+  ],
+  "translation": "Aħjar id-diġa' mir-risus, għax bit-tħassir ta' wiċċ isir il-qalb tajba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/7\/1-4.1792620257040.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Aħjar"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "id-diġa'"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "mir-risus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bit-tħassir"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ta' wiċċ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "isir tajba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il-qalb"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:17.041754777Z",
+  "model": "glm-5.3"
+}

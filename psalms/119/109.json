@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nefsi f'kappi",
+      "rationale": "נפשי בכפי — 'ħajti f'idejn' idjom semitiku: qiegħed nirriskja ħajti; il-Malti 'f'kappi' iżomm il-printa litterali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefsi",
+      "rationale": "נפש hija nifs\/ħajja, mhux biss 'ruħ'"
+    }
+  ],
+  "translation": "Nefsi f'kappi ⟨issodda⟩ dejjem, u lil Tork ma nsejtx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/109-112.1792618137497.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "f'kappi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "u lil Tork"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nsejtx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:57.497583510Z",
+  "model": "glm-5.3"
+}

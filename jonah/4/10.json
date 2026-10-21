@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן לילה",
+      "rationale": "'iben ta' lejl' (son of a night) = lasting only one night; Hebrew idiom kept literally."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קיקיון",
+      "rationale": "the gourd-plant word appears only in Jonah; kept as 'qiqajon' by sound."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן לילה...ובן לילה",
+      "rationale": "balanced repetition: born in a night, perished in a night — chiastic framing of the plant's whole life."
+    }
+  ],
+  "translation": "U Jaħwe qal: Inti kellek ħasra fuq il-qiqajon, li ma tgħex fih u lanqas kibirtuh — li ⟨kien⟩ iben ta' lejl, u b'iben ta' lejl inquered.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "66d4c6f21497030f10824e4d916018cd2d47e0ae7967b7a4c22e1e62b8fe2738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/4\/9-11.1792615952945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inti"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "kellek ħasra"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "il-qiqajon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "tgħex"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "kibirtuh"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ta' lejl"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨kien⟩"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "u b'iben"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ta' lejl"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "inquered"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:32.946379271Z",
+  "model": "glm-5.3"
+}

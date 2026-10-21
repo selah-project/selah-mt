@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדירים\/אדיר",
+      "rationale": "Alliterative repetition of אדיר 'mighty' applied first to the breakers then to Jaħwe — He out-mighties the mighty; kept as qawwija\/qawwi."
+    },
+    {
+      "kind": "crux",
+      "subject": "comparative syntax",
+      "rationale": "Hebrew has no 'than' or 'above': KJV supplies 'mightier than', JPS\/ASV 'above'; Maltese renders the bare juxtaposition with a dash, leaving the comparison implicit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משברי",
+      "rationale": "מִשְׁבָּר is a sea-breaker (from שבר 'to break'), rendered imġiebaħ 'waves' — the breaking image is softened."
+    }
+  ],
+  "translation": "Mil-ħsejjes ta' l-ilmijiet in-numrużi, l-imġiebaħ qawwija tal-baħar — qawwi fl-ogħla għoli Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aeb256932eb17c73c95fa2d7b605aeafea47c1048a99d1399788dbe3e87d7199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/93\/4-4.1792623786016.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "mil-ħsejjes"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ta' l-ilmijiet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "in-numrużi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "qawwija"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "l-imġiebaħ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tal-baħar"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "qawwi"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "fl-ogħla għoli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:06.016782221Z",
+  "model": "glm-5.3"
+}

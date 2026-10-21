@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירם\/פתאום",
+      "rationale": "L-istess għerq ירה u l-istess פתאם ta' vv. 4–5 issa jiddawwru fuq il-ħattin infushom — il-vleġġa ta' Elohim taħbet f'daqqa bħal tagħhom."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ġrieħi",
+      "rationale": "מכותם 'l-blow tagħhom' — l-plural ta' מכה, ġrieħi kkawżati lilhom stess."
+    }
+  ],
+  "translation": "U Elohim jisparahom b'vleġġa; f'daqqa jsiru l-ġrieħi tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/64\/5-8.1792617341262.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "u jisparahom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "b'vleġġa"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "f'daqqa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jsiru"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "il-ġrieħi tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:41.262932508Z",
+  "model": "glm-5.3"
+}

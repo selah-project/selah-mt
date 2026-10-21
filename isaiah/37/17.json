@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 37:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jistorom",
+      "rationale": "לחרף tfisser litteralment 'tiġbed il-ħwejjeġ minn fuq', jiġifieri 'tesponi bi t'aħxir'; 'jistorom' huwa l-aktar qrib tal-ebda"
+    },
+    {
+      "kind": "you",
+      "subject": "lit-talba ta' Ħizqijja",
+      "rationale": "Indirizz dirett lil Jaħwe permezz ta' imperattivi"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-",
+      "rationale": "L-artiklu Malti maħtur lil 'kliem' u 'ħaj', li t-Testment Lhudi m'għandux"
+    }
+  ],
+  "translation": "Milni, Jaħwe, widnek u isma; iftaħ, Jaħwe, għajnejk u ara; u isma ⟨את⟩ il-kliem kollu ta' Sanċerib, li bagħat biex jistorom lil Elohim il-ħaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/37\/17-20.1792611708369.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Milni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "widnek"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "u isma"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "iftaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "għajnejk"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "u isma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kliem kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ta' Sanċerib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "biex jistorom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "il-ħaj"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:48.370154315Z",
+  "model": "glm-5.3"
+}

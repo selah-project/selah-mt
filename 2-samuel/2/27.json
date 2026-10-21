@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 2:27",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Malti jeħtieġ il-verb 'to be' fil-ġurament 'Ħaj Elohim'; il-Lhudi ma għidux."
+    },
+    {
+      "kind": "crux",
+      "subject": "mis-sabbaħ",
+      "rationale": "מהבקר: 'mis-sabbaħ' (il-perskuzzjoni kienet tieqaf fil-bidu tas-sabbaħ, KJV\/BSB) kontra 'biss wara s-sabbaħ' (JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ ... אחיו",
+      "rationale": "Kull wieħed jippersegwix 'ħuh' — l-istess kelma 'ħu' li Abner uża fil-vers 26; Joab jaqleb il-kelma ta' Abner lura lejh."
+    }
+  ],
+  "translation": "U Joab qal: Ħaj ⟨hu⟩ Elohim, li jekk ma kellekx titkellem, minn dakinhar tas-sabbaħ il-poplu kien jitla', kull wieħed minn wara ħuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7454c715e19dddd9ac74b0906354c40053e7f8a51298c3b388efea4ac476618a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/2\/27-28.1792623320928.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "jekk ma"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "kellekx titkellem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אז",
+      "gloss": "minn dakinhar"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "tas-sabbaħ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kien jitla'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "minn wara"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:20.928534132Z",
+  "model": "glm-5.3"
+}

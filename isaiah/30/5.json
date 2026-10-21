@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבאיש",
+      "rationale": "Kelma rari mehudra minn בוש: 'jistħu' (KJV) kontra 'tkunu mxerrdin\/mibgħuda'; ħditna mill-ewwel."
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Suffiss poetiku arkaiku 'għalihom', ma għandux ekwivalent Malti għalih waħdu."
+    }
+  ],
+  "translation": "Kollha jistħu minħabba nies li ma joffrulhom ebda ġid — lanqas għajnuna, lanqas ebda ġid — imma għall-għajb, u wkoll għall-insult.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/30\/5-8.1792611486838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kollha"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "jistħu"
+    },
+    {
+      "surface": "על",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nies"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "joffrulhom ebda ġid"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨għalihom⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "għajnuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "ebda ġid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "għall-għajb"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u wkoll"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "għall-insult"
+    }
+  ],
+  "timestamp": "2026-10-21T19:38:06.839439423Z",
+  "model": "glm-5.3"
+}

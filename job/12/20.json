@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-kelma",
+      "rationale": "שפה hija xoffa\/reddien; 'kelma' għal id-diskors"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-fehma",
+      "rationale": "טעם litteralment 'tmir', hawn il-perċezzjoni"
+    }
+  ],
+  "translation": "Hu jneħħi l-kelma mill-ħwejjeġ lil dawk li jistennew, u jieħu l-fehma ta' l-anzjani.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/17-20.1792619273263.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "jneħħi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "l-kelma"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "minn dawk li jistennew"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "u l-fehma"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ta' l-anzjani"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:53.264919067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajti",
+      "rationale": "נפשי huwa l-ħajja\/nifs — 'ħajti' mhux 'ruħi', għax nefeš tfisser ħajja b'saħħitha"
+    },
+    {
+      "kind": "you",
+      "subject": "is-sultan",
+      "rationale": "Ester tindirizza lis-sultan direttament b'ċerimonja tal-qorti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sibt ġieħ f'għajnejk",
+      "rationale": "מצאתי חן בעיניך — idjoma ta' qorti Lhudija, tradotta b'idjoma Malti ekwivalenti"
+    }
+  ],
+  "translation": "U wieġbet Ester ir-reġina u qallha: Jien jekk sibt ġieħ f'għajnejk, is-sultan, u jekk is-sultan jaqbel, tingħatali ħajti fit-talba tiegħi, u niesi fit-talba l-kbira tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/7\/1-4.1792620466536.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "u wieġbet"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ir-reġina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "u qallha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "sibt"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ġieħ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "f'għajnejk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "על",
+      "gloss": "lil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jaqbel"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "tingħatali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ħajti"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "fit-talba tiegħi"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "u niesi"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "fit-talba l-kbira tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T22:07:46.538035222Z",
+  "model": "glm-5.3"
+}

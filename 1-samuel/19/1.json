@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kien iħobb",
+      "rationale": "חפץ jfisser 'kien jixtaq \/ kien pjaċit lil' — 'iħobb' huwa qrib iżda mhux identiku"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-kopula għall-istat preżenti deskrittiv"
+    },
+    {
+      "kind": "elision",
+      "subject": "שאול (isem)",
+      "rationale": "l-isem tal-israelit milli jidher biss hawn fid-dokument; ma niżlitx not dwaru għax l-isem jitlaq bħalma hu"
+    }
+  ],
+  "translation": "U Xaul tkellem ma' Jonatan ibnu u ma' l-ilsiera kollha tiegħu biex joqtlu lil David; u Jonatan iben Xaul kien iħobb lil David ħafna ħafna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/19\/1-4.1792608213673.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "tkellem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u ma'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "l-ilsiera tiegħu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "biex joqtlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "u Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kien iħobb"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna ħafna"
+    }
+  ],
+  "timestamp": "2026-10-21T18:43:33.674435486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fihom",
+      "rationale": "il-Malti jeħtieġ 'fihom' għal ישבו, żvilupp minn 'joqogħdu'"
+    },
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "'u se jkun' — formula tat-tpattija, ma għandhiex kopja eżatta"
+    }
+  ],
+  "translation": "U ⟨se jkun⟩ li ġidhom ikun għal seraq, u djarhom għal felonya; u jibnu djar u ma joqogħdux fihom, u jitħawwlew ibla u ma jixorbu ⟨את⟩ inbidhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zephaniah\/1\/13-16.1792616046224.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u ⟨se jkun⟩"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ġidhom"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "għal seraq"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "u djarhom"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "għal felonya"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "u jibnu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "djar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "joqogħdux"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "u jitħawwlew"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ibla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "jixorbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inbidhom"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "inbidhom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:54:06.225368266Z",
+  "model": "glm-5.3"
+}

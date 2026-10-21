@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kienu⟩",
+      "rationale": "L-għarbi jeħtieġ kopula qabel 'madwar tletin raġel'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fil-quddiem",
+      "rationale": "בראש litteralment 'fil-ras' — il-post tal-unur fost il-mistiednin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "madwar tletin raġel",
+      "rationale": "Għadd tal-mistiednin: כשלשים, b'madwar għal-כ"
+    }
+  ],
+  "translation": "U Xmuwel ħa ⟨את⟩ lil Saʾul u ⟨את⟩ l-iżżagħżugħ tiegħu, u daħħalhom fis-sala, u tahom post fil-quddiem tal-mistiednin; u huma ⟨kienu⟩ madwar tletin raġel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "860275009c691e1834ee21464c4c743500f04e2fbdd6ddb830f26a2787023bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/9\/21-22.1792623252100.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "U ħa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Xmuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Saʾul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lil Saʾul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-iżżagħżugħ tiegħu"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "l-iżżagħżugħ tiegħu"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "u daħħalhom"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "fis-sala"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "u tahom"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "post"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "fil-quddiem"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "tal-mistiednin"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "u huma"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "madwar tletin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:12.101431783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 2:14",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tletin u tmien sni",
+      "rationale": "għadd ta' sni, tletin u tmien, bħal qal il-Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "l-ewwel אשרservi bħala konġunzjoni, ma għandux ekwivalenti Malti separat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ir-ġellieda",
+      "rationale": "אנשי המלחמה litteralment 'irġiel il-ġlied', il-ġellieda jqiegħdu l-figura f'kelma waħda"
+    }
+  ],
+  "translation": "U l-ġranet li mxajna minn Qadex Barnea sa ma qasamna ⟨את⟩ nahaġ Zered kienu tletin u tmien sni, sa ma spiċċa d-darba kollha, ir-ġellieda, minn nofs il-kamp, kif ħalef Jaħwe lilhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3ac84bd16af5cf35aeb1d4cd78ab0f97c2e4ff2844f1033019636e9829fba0cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/2\/13-16.1792605294745.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "U l-ġranet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הלכנו",
+      "gloss": "mxajna"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "minn Qadex"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "qasamna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nahaġ Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nahaġ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tletin"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "u tmien"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "תם",
+      "gloss": "spiċċa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "d-darba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ir-ġellieda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "tal-ġlied"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "minn nofs"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ħalef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:54:54.746746311Z",
+  "model": "glm-5.3"
+}

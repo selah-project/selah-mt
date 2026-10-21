@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Malti jeħtieġ kopula fejn l-Lhudi għandu nominals bla verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ix-xahar dan",
+      "rationale": "Il-vers jistabbilixxi l-kalendarju: dan ix-xahar jibqa' l-ewwel tax-xhur tas-sena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש\/ראשון",
+      "rationale": "Il-Lhudi jirrepeti l-għerq ras\/ewwel — looss fil-Malti."
+    }
+  ],
+  "translation": "Ix-xahar dan għalikom ⟨hu⟩ ras ta' xhur; l-ewwel hu għalikom għal xhur tas-sena.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/1-4.1792599452890.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ix-xahar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ta' xhur"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "għal xhur"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tas-sena"
+    }
+  ],
+  "timestamp": "2026-10-21T16:17:32.891091400Z",
+  "model": "glm-5.3"
+}

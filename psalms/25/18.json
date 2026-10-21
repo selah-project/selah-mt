@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושא",
+      "rationale": "'ħu ma'' (bear\/forgive, bħal KJV 'forgive') kontra 'neħħi' (bħal BSB 'take away'); il-verb verament ifisser 'iġbor' jew 'iġorr'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħu ma'",
+      "rationale": "סע lift\/bear mhallat ma' prepożizzjoni miżjuda biex il-Malti jifhem"
+    }
+  ],
+  "translation": "Raħ l-għaks tiegħi u l-għeja tiegħi, u ħu ma' l-ħtijiet kollha tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/17-20.1792616698284.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Raħ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "l-għaks tiegħi"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "u l-għeja tiegħi"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "u ħu ma'"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "l-ħtijiet tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:58.285246335Z",
+  "model": "glm-5.3"
+}

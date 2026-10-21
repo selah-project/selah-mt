@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אליו",
+      "rationale": "il-pronum ta' l-għan huwa maħbuq fil-verb Malti 'qallu', għalhekk ma jinħaregx separatament"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Moxe",
+      "rationale": "diskors dirett ta' Elohim ma' Moxe: 'Jien Jaħwe'"
+    }
+  ],
+  "translation": "U Elohim tkellem ma' Moxe, u qallu: Jien Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d4cbb9ac5137aec885ef0950af196947ba9efecd2bd79ef8d6f43ddb6dde1385",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/6\/2-4.1792602103994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "tkellem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qallu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T17:01:43.995436773Z",
+  "model": "glm-5.3"
+}

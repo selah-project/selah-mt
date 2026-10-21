@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איל",
+      "rationale": "'ħanżer' (ram); Hebrew איל literally 'strength\/strong one', a strong ram."
+    },
+    {
+      "kind": "alternative",
+      "subject": "המלאים",
+      "rationale": "'tal-milja' = of the filling (ordination); could render 'of the ordination ram' but the Hebrew keeps the fill-the-hand idiom."
+    }
+  ],
+  "translation": "U ⟨את⟩ l-ħanżer tal-milja tieħu, u ssajjar ⟨את⟩ laħmu f'post qaddis.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "61ff768f0e41d42f0ce194214e82b726afcc6a7836771006f1c0f7e091784123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/29-32.1792600041591.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ħanżer tal-milja"
+    },
+    {
+      "surface": "איל",
+      "gloss": "l-ħanżer"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "tal-milja"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tieħu"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "u ssajjar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laħmu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "laħmu"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "f'post"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    }
+  ],
+  "timestamp": "2026-10-21T16:27:21.592688513Z",
+  "model": "glm-5.3"
+}

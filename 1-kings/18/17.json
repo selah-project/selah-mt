@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Il-Malti jeħtieġ il-kopula li ma hemmx bil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jfixkel",
+      "rationale": "עכר litteralment 'jgergxer l-ilma' — metafora ta' min iġib turbidden"
+    },
+    {
+      "kind": "you",
+      "subject": "Aħab le Elijahu",
+      "rationale": "Mistoqsija diretta bil-ħofraו־ha (ha) interrogattiva"
+    }
+  ],
+  "translation": "U ġara meta Aħab ra ⟨את⟩ lil Elijahu, u Aħab qal lejh: Int huwa dak li jfixkel lil Jisrael?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/18\/17-20.1792609871157.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ġara"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "meta ra"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aħab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Elijahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aħab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lejh"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dak"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "li jfixkel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:11:11.157919435Z",
+  "model": "glm-5.3"
+}

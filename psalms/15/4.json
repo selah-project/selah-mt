@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Malti jeħtieġ kopula għall-istruttura maqgħuża; il-Lhudi ma għandu għalxejn."
+    },
+    {
+      "kind": "crux",
+      "subject": "נבזה ... נמאס",
+      "rationale": "Ħażin f'mod attiv ('dak li jixtiperxona' jidher baxx għalih) jew passiv ('ir-rifjutat hu miżered') — il-Lhudi huwa ambigwu."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשבע להרע",
+      "rationale": "'ħlef għal ħsara (għalih nnifsu)' — jaħlef u jagħmel il-ħażin għalih biex iżomm il-ħalf, u ma jibdlux."
+    }
+  ],
+  "translation": "Sinjur negligenti hu miżered f'għajnejh, u lil ⟨את⟩ dawk li jibżgħu minn Jaħwe jħares; jaħlef jagħmel ħażin u ma jibdlux.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/15\/1-4.1792616655378.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "miżered"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejh"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "sinjur negligenti ⟨hu⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dawk li jibżgħu minn Jaħwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dawk li jibżgħu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "minn Jaħwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jaħlef"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "jagħmel ħażin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "jibdlux"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:15.379534887Z",
+  "model": "glm-5.3"
+}

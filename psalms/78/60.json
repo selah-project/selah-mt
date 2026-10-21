@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jsakknar",
+      "rationale": "שכן hawn forma attiva 'għamilha jgħammar' — il-Malti jeħtieġ costruzzjoni 'kien jsakknar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bnedmin",
+      "rationale": "באדם kollettiv — il-ġeneru uman, mhux 'irġiel' biss"
+    }
+  ],
+  "translation": "U ħalla l-Mixkan ta' Xilo, it-tinda li kien ⟨jsakknar⟩ fost il-bnedmin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/57-60.1792617512760.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "u ħalla"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "l-Mixkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ta' Xilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "it-tinda"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "li kien ⟨jsakknar⟩"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "fost il-bnedmin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:32.761422810Z",
+  "model": "glm-5.3"
+}

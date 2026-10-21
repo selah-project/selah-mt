@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "satten",
+      "rationale": "דרך hawnhekk 'tejjeb il-qaws b'riġlejtek' (biex tħabbatha) — 'bent' bl-Ingliż; il-Malti jżomm l-azzjoni tat-tensjoni."
+    },
+    {
+      "kind": "crux",
+      "subject": "mira",
+      "rationale": "מטרא jista' jkun 'ħabs' jew 'mira\/mira ta' vleġġa'; il-maġġoranza taqra 'mira' mal-kuntest tal-vleġġa."
+    }
+  ],
+  "translation": "Satten il-qaws tiegħu, u weħħilni bħala mira għall-vleġġa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/3\/9-12.1792620126485.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Satten"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "il-qaws tiegħu"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "u weħħilni"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "bħala mira"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "għall-vleġġa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:06.487587969Z",
+  "model": "glm-5.3"
+}

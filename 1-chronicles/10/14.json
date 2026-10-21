@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għalhekk",
+      "rationale": "il-waw konklusiva tal-Lhudi teħtieġ konjunzjoni Maltija biex turi l-kawża"
+    },
+    {
+      "kind": "crux",
+      "subject": "וימיתהו",
+      "rationale": "is-suġġett ta' 'qatlu' mhuwiex ispellut bil-ħaħa — Jaħwe huwa l-aktar probabbli (Bsb), iżda xi qarrej jaħsbu suġġett ġenerali"
+    }
+  ],
+  "translation": "u ma fittex lil Jaħwe; għalhekk qatlu, u dawwar ⟨את⟩ is-saltna lil David, iben Jixaj.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/10\/13-14.1792621863818.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "fittex"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "qatlu"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "u dawwar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-saltna"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "is-saltna"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jixaj"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:03.819401256Z",
+  "model": "glm-5.3"
+}

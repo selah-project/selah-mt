@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-pronom Hebrew הוא jqiegħed bħala kopula fil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "sejħa diretta lil Jisrael"
+    }
+  ],
+  "translation": "Jisrael, ittekil f'Jaħwe: huwa l-għajnuna tagħhom u l-iskart tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/9-12.1792617949121.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ittekil"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "f'Jaħwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "l-għajnuna tagħhom"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "u l-iskart tagħhom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:49.122038064Z",
+  "model": "glm-5.3"
+}

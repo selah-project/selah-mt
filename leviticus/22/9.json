@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עליו בו",
+      "rationale": "il-pronomi Lhud jirreferu għall-għassa (mishmeret, femminil bil-plural ta' rispett); bl-Malti tpoġġieha għaliha\/fiha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלל",
+      "rationale": "litteralment 'jibxu\/jiftħu toqba' — ġie rrenderut bħala jixammhu (profanaw)"
+    }
+  ],
+  "translation": "U jżommu ⟨את⟩ l-għassa tiegħi, u la jġorrbux dnub għaliha, u mmutux fiha, għaliex jixammhuha; jien Jaħwe li nqaddishom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/9-12.1792601074243.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "u jżommu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għassa tiegħi"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "l-għassa tiegħi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u la"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "jġorrbux"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "għaliha"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dnub"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "u mmutux"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "jixammhuha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "li nqaddishom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:34.244582615Z",
+  "model": "glm-5.3"
+}

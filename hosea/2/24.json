@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל",
+      "rationale": "'God sows' — the name reverses the judgment of Hos 1:4 and echoes the sowing of 2:25; kept as the name Jizreel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-meraq tal-inbid",
+      "rationale": "תירוש is fresh must, newly pressed grape juice; Maltese needs a phrase where Hebrew has one word."
+    }
+  ],
+  "translation": "U l-art twieġeb ⟨את⟩ lill-qamħ, lil ⟨את⟩ il-meraq tal-inbid u ⟨את⟩ żejt iż-żebbuġ, u dawn jwieġbu lil ⟨את⟩ Jizreel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/2\/21-24.1792615384398.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "u l-art"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "twieġeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qamħ"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "lill-qamħ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-meraq tal-inbid"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "il-meraq tal-inbid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "żejt iż-żebbuġ"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "żejt iż-żebbuġ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "u dawn"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "jwieġbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-21T20:43:04.399756686Z",
+  "model": "glm-5.3"
+}

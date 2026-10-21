@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרבו\/רחקו",
+      "rationale": "Antitesi: qerbu kontra huma mbiegħda — l-istess għadd ta' sillabi, simetrija tal-poeżija"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זמה",
+      "rationale": "'pjan ħażin' literalment; jista' jkun wkoll 'skandlu\/moħħ ħazin'"
+    }
+  ],
+  "translation": "Qerbu dawk li jippersegwitaw bi pjan ħażin; mill-Tora tiegħek huma mbiegħda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/149-152.1792618072642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "qerbu"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "dawk li jippersegwitaw"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bi pjan ħażin"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "mill-Tora tiegħek"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "huma mbiegħda"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:52.643621926Z",
+  "model": "glm-5.3"
+}

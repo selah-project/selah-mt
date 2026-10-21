@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "רבים",
+      "rationale": "'Dawk il-kbar fl-età' (JPS) jew 'il-massa' (YL 'multitude') — hawn l-għadd\/fl-età, fil-kuntest ta' Eliħu dwar iż-żgħożija."
+    },
+    {
+      "kind": "elision",
+      "subject": "הבנה",
+      "rationale": "Eliħu jqarraq li ħa l-għarfien mhux mill-anzjani iżda mir-ruwaħ (v.8)."
+    }
+  ],
+  "translation": "Mhux l-għonja bil-għadd jibqgħu jirbħu, u mhux l-anzjani jifhmu d-dritt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/32\/9-12.1792619663860.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "l-għonja bil-għadd"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "jibqgħu jirbħu"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "u mhux l-anzjani"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "jifhmu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "id-dritt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:23.860600609Z",
+  "model": "glm-5.3"
+}

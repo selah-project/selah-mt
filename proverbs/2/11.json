@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מזמה",
+      "rationale": "tista' tkun disinn ħażin jew sena tajba; il-KLASSIKI jaqblu hawn fuq 'discrezione' (sena tajba)"
+    },
+    {
+      "kind": "elision",
+      "subject": "עליך",
+      "gloss": "il-prepożizzjoni ma taħdimx bil-Malti, tlattret f' 'jaraklek'"
+    }
+  ],
+  "translation": "Il-moħħ it-tajjeb jaraklek, u t-tebut tħarsek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/2\/9-12.1792618324323.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Il-moħħ it-tajjeb"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "jaraklek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "t-tebut"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "tħarsek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:04.324484903Z",
+  "model": "glm-5.3"
+}

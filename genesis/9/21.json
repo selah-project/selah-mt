@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "veġat",
+      "rationale": "אהלה = it-tenda; 'veġat' huwa l-kelma Semitika Maltija għal tenda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kien mikxuf",
+      "rationale": "ויתגל huwa hitpa'el: 'ħalla ruħu jkixef' — mess ta' ruħu"
+    }
+  ],
+  "translation": "U xarab mill-inbid u xeba', u kien mikxuf fiċ-ċentru ta' veġat tiegħu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/9\/21-24.1792597803355.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "u xarab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "היין",
+      "gloss": "inbid"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "u xeba'"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "u kien mikxuf"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "fiċ-ċentru ta'"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "veġat tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:03.355508721Z",
+  "model": "glm-5.3"
+}

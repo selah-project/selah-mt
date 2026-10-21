@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 40:31",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "palmi",
+      "rationale": "תמרים hawn mhux siġar imma pilastri mżejnin b'ħsieq il-ħsieq tal-palma."
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Il-verb 'kienu' miżjud bil-Malti; l-Lhudi għandu biss kostruzzjoni nominaali."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tmien tarġiet",
+      "rationale": "Għadd ta' tarġiet: tmienja, għadd standard tal-bibien tan-naħa ta' barra."
+    }
+  ],
+  "translation": "U l-alam tagħha kienu lejn iċ-ċitata ta' barra, u palmi kienu fuq il-pilastri tagħha, u tmien tarġiet kienu t-telgħa tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e1aa8b808f13124a87bd69404689a6c18de7727cee593b0cd31fccbcfe66484c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/40\/29-32.1792615061986.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "u l-alam tagħha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "iċ-ċitata"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "ta' barra"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "u palmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "il-pilastri tagħha"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "u tmien tarġiet"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tmien"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "it-telgħa tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T20:37:41.987764405Z",
+  "model": "glm-5.3"
+}

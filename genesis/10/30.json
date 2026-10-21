@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מושבם",
+      "rationale": "moshav 'mistedn taghhom' — territorju\/abitu; tradott b'tal-lvant ta' 'insedjament'"
+    },
+    {
+      "kind": "crux",
+      "subject": "באכה ספרה",
+      "rationale": "litteralment 'fit-tluq taghhom lejn Sefar' — konfinu tal-lvant tat-territorju, mhux triq fis-sens ta' vjaġġ"
+    }
+  ],
+  "translation": "U t-triq tagħhom għaddiet minn Mesha, meta tmur Sefar, il-muntanja tal-lvant.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/10\/29-32.1792597886296.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U t-triq tagħhom għaddiet"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "triq\/insedjament tagħhom"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "minn Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "meta tmur"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il-muntanja"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "tal-lvant"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:26.297163192Z",
+  "model": "glm-5.3"
+}

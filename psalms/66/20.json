@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "lanqas",
+      "rationale": "il-Lhudi għandu biss 'u ħesedu minn għandi'; 'lanqas' miżjud biex is-sintaksi tkun ċara."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפלתי \/ חסדו",
+      "rationale": "l-istess għaqda ta' żewġ għanien — talb u ħesed — ittajru fl-istess frażi b'vokali twal, ritmu tal-qawwa tal-psalm."
+    }
+  ],
+  "translation": "Mbierek Elohim, li ma warrabx it-talb tiegħi u lanqas il-ħesed tiegħu minn ⟨את⟩ għandi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/66\/17-20.1792617273152.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mbierek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "warrabx"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "it-talb tiegħi"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "u lanqas il-ħesed tiegħu"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "minn ⟨את⟩ għandi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:33.153758825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-itki",
+      "rationale": "שלט probabbilment 'tarka\/itka' li tipproteġi l-persuna; forom oħra jqisu 'armatura'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fuq",
+      "rationale": "אל ma' עבדי: 'ma' hemm' l-iskjavi — l-itki kienu fuqhom jew taħthom"
+    }
+  ],
+  "translation": "U David ħa ⟨את⟩ l-itki tad-deheb li kienu fuq l-iskjavi ta' Hadadezer, u ġabhom Ġeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/8\/5-8.1792608700303.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-itki tad-deheb"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "l-itki"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "l-iskjavi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ta' Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "u ġabhom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ġeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T18:51:40.305014268Z",
+  "model": "glm-5.3"
+}

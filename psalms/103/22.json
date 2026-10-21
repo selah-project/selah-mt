@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the soul",
+      "rationale": "The psalm's inclusio: the imperative returns to 'my soul' as in v.1."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħi",
+      "rationale": "נפש is throat\/breath\/life-force, not an immaterial 'soul'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו...ברכי",
+      "rationale": "Shift from plural imperative to feminine singular ברכי addressed to the נפש."
+    }
+  ],
+  "translation": "Barku lil Jaħwe, il-għemejjel tiegħu kollha, f'kull post tal-memxla tiegħu; ibierki, ruwaħi, ⟨את⟩ Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/21-22.1792623861629.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Barku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "il-għemejjel tiegħu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kull"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "post"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "tal-memxla tiegħu"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ibierki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruwaħi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:21.630049001Z",
+  "model": "glm-5.3"
+}

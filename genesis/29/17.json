@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רכות",
+      "rationale": "'ratt\/tenera' kontra 'dgħjufa' (JPS) — forsi 'morrja' jew bla sbuħija, mhux sempliċiment rappresentata b'dgħufija"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ratt",
+      "rationale": "רך tfisser tenera\/rat; il-Malti 'ratt' iżomm il-ħoss u l-qis tal-kelma"
+    },
+    {
+      "kind": "addition",
+      "subject": "iżda",
+      "rationale": "il-waw kontrastiv ġie rreż Mill-Malti 'iżda' barra mill-parentesi għal-fluss tan-narrazzjoni"
+    }
+  ],
+  "translation": "U għajnejn Lea kienu ratt, iżda Raħel kienet sabiħa ta' qis u sabiħa ta' dehra.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/29\/17-20.1792598442080.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "u għajnejn"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "ratt"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "iżda Raħel"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "sabiħa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ta' qis"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "u sabiħa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ta' dehra"
+    }
+  ],
+  "timestamp": "2026-10-21T16:00:42.080521550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מסח",
+      "rationale": "jidher biss hawn fit-Tanakh; 'barriera \/ mantell ta' suldati' skont il-kontest"
+    },
+    {
+      "kind": "crux",
+      "subject": "מסח",
+      "rationale": "KJV 'mhux jitkisser' · ASV 'barriera' · YLT 'mħarrem' — mifruxa fost it-tradutturi"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרצים",
+      "rationale": "'il-ġerrejja' (korp tal-gwardja rjali) vs 'il-gwardja' — l-aħjar żomm il-forma litterali"
+    }
+  ],
+  "translation": "u t-tielet parti fil-bieb ta' Sur, u t-tielet parti fil-bieb ta' wara l-ġerrejja, u tżommu ⟨את⟩ l-għassa tad-dar bħala barriera.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/11\/5-8.1792610371197.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "u t-tielet parti"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "fil-bieb"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ta' Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "u t-tielet parti"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "fil-bieb"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ta' wara"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "l-ġerrejja"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "u tżommu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għassa"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "l-għassa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "bħala barriera"
+    }
+  ],
+  "timestamp": "2026-10-21T19:19:31.197913628Z",
+  "model": "glm-5.3"
+}

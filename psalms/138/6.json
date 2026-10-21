@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Kopula miżjeda għas-sentenza nominali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רם\/שפל\/גבה",
+      "rationale": "Tliet kelmiet ta' għoli u baxx: lilu nnifsu għoli, lill-umli qrib, lill-għoljani minn bogħod — antitesi li tinżamm"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dawk bl-għoli",
+      "rationale": "גבה tfisser għoli\/fakkar; il-kuntest tal-poeżija jagħtih it-tifsira ta' min għandu għoli biħsiebu"
+    }
+  ],
+  "translation": "Għax għoli ⟨huwa⟩ Jaħwe, u lill-umli jarah, u lil dawk bl-għoli minn bogħod jafhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/138\/5-8.1792618233996.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רם",
+      "gloss": "għoli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "u lill-umli"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "jarah"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "u lil dawk bl-għoli"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "minn bogħod"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "jafhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:33.997337202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jharsu",
+      "rationale": "il-Lhudi m'għandux verb hawn; 'għajnejk mhux għall-fidi' hu elittiku u l-Malti ħtieġ verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "otam",
+      "rationale": "otam hawn hu l-pronom oġġett 'lilhom', mhux is-sinjal tad-dirett ⟨את⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "emuna",
+      "rationale": "l-istess kelma tal-vers 1: dak li jfittex il-bniedem, jħares Alla bih — is-sħubija bejn iż-żewġ versi."
+    }
+  ],
+  "translation": "Jaħwe, għajnejk, mhux ⟨jharsu⟩ għall-fidi? Tilqit ⟨את⟩ lilhom, u ma ħassux deni; temmihom, u rrifjutaw jieħdu l-korrezzjoni; sawwew wċuhom iktar minn blat, rrifjutaw jirritornaw.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2e0583fbe851d60ac959a36a15d5909c8da036636b92ef5971297f3a5e69aebd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/5\/1-4.1792612629167.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "għajnejk"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "għall-fidi"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "tilqit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lilhom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "ħassu deni"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "temmihom"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "rrifjutaw"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "jieħdu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "l-korrezzjoni"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "sawwew"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wċuhom"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "iktar minn blat"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "rrifjutaw"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "jirritornaw"
+    }
+  ],
+  "timestamp": "2026-10-21T19:57:09.168920734Z",
+  "model": "glm-5.3"
+}

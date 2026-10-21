@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "Tnaqqis tal-istess kelma għal żewġ kliem, 'għal dejjem u għal dejjem' — dawl ma jidhirx iktar bil-Malti."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma titbandalx",
+      "rationale": "Il-Malti jeħtieġ in-negazzjoni ma...x ma' בל, filwaqt li bil-Lhudi בל waħdu biżżejjed."
+    }
+  ],
+  "translation": "Fonda lill-art fuq il-pedamenti tagħha; għal xejn ma titbandalx, għal dejjem u għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/5-8.1792617803418.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "Fonda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lill-art"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "il-pedamenti tagħha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "għal xejn"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "titbandalx"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:23.419229265Z",
+  "model": "glm-5.3"
+}

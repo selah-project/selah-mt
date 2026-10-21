@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħmar",
+      "rationale": "נבל huwa l-istanġun, l-impjuż — mhux sempliċiment 'il-ħmar', iżda d-dahq Malti jżomm it-taħlita ta' stupidità u ħażen"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלילה",
+      "rationale": "'għemil' (deed) kontra l-qari tradizzjonali 'exploit\/att' — il-kelma tfisser biċċa xogħol ta' bniedem, ħafna drabi f'tifsira ħażina"
+    },
+    {
+      "kind": "elision",
+      "subject": "אמר",
+      "rationale": "l-imperattiv 'qal' f'qalbu — ħafna verżjonijiet iżidu 'fih stess' biex jiddubitaw iktar"
+    }
+  ],
+  "translation": "Għall-mexxej. Ta' David. Il-ħmar qal f'qalbu: M'hemmx Elohim. Ħassru, għamlu għemil għajb; m'hemmx min jagħmel il-ġid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/14\/1-4.1792616653221.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Għall-mexxej"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "il-ħmar"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "f'qalbu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ħassru"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "għamlu għajb"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "min jagħmel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il-ġid"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:13.222585294Z",
+  "model": "glm-5.3"
+}

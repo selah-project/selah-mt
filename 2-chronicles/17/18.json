@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלוצי צבא",
+      "rationale": "literali 'dak li jneħħi (l-armatura) għall-eżerċitu' jiġifieri mdawwar għall-gwerra; 'mobilizzati għall-gwerra' iżomm l-idea tat-tħejjija"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mija u tmenin elf",
+      "rationale": "it-tielet għadd kbir tal-lista"
+    }
+  ],
+  "translation": "U ħdejhom Jehożabad, u miegħu mija u tmenin elf mobilizzati għall-gwerra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/17\/17-19.1792622553008.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "u ħdejhom"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨ħdejhom⟩"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jehożabad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "u miegħu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mija"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "u tmenin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "mobilizzati"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "għall-gwerra"
+    }
+  ],
+  "timestamp": "2026-10-21T22:42:33.009000224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "ħesed miżmum skont D2; 'ħniena' waħedha ma taqx l-għerq"
+    },
+    {
+      "kind": "addition",
+      "subject": "tkun",
+      "rationale": "il-Lhudi m'għandux verb għal 'song is with me'; il-kopula Maltija miżjuda"
+    }
+  ],
+  "translation": "Binhar Jaħwe jikkmanda l-ħesed tiegħu, u bil-lejl għanja tiegħu tkun miegħi — talba lil El ta' ħajti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/42\/9-12.1792617047456.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "binhar"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "jikkmanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "l-ħesed tiegħu"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "u bil-lejl"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "għanja"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tkun miegħi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "talba"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "lil El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ta' ħajti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:47.456555350Z",
+  "model": "glm-5.3"
+}

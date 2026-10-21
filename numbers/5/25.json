@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "l-aleph-tav bil-pronom femminil (objett tal-minħa) inbidel f'pronum Malti 'lilha' għax il-Malti ma jżommx il-marka tal-objett misjuqa."
+    }
+  ],
+  "translation": "U l-qassis jieħu mill-id tal-mara ⟨את⟩ il-minħa tal-għira, u jqanqal ⟨את⟩ il-minħa quddiem Jaħwe, u jressaq ⟨את⟩ lilha lejn l-artal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "83033af375bba910e8a53af0d550fb36b8038156f26dd2ca53379b86c492ca56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/5\/25-28.1792602526254.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mill-id"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tal-mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-minħa tal-għira"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "il-minħa"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "tal-għira"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "u jqanqal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-minħa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "il-minħa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "u jressaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lilha",
+      "marks": "il-minħa (mal-pronom femminil tagħha)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    }
+  ],
+  "timestamp": "2026-10-21T17:08:46.256075214Z",
+  "model": "glm-5.3"
+}

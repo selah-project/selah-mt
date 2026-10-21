@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is-saltna",
+      "rationale": "il-Malti jeħtieġ verbi kopulattivi dwar ישראל, stampati bla markaturi għax il-Lhudi għandu ġuxta-pożizzjoni"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקדשו",
+      "rationale": "'is-santwarju tiegħu' (KJV\/JPS) kontra 'qaddis\/santifikazzjoni tiegħu' (Geneva); il-kelma tfisser santwarju jew qdusija"
+    }
+  ],
+  "translation": "Ġuda saret ⟨il-qaddis⟩ tiegħu, Jisrael is-saltna tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/114\/1-4.1792617972120.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "saret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Ġuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "il-qaddis tiegħu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "is-saltna tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:12.121684902Z",
+  "model": "glm-5.3"
+}

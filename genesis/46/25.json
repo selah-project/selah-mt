@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ il-kopula; il-Lhudi ma għandu xejn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש הawni 'ħajja, ħaġa li tieħu n-nifs', mhux 'ruħ' fis-sens Grieg"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebgħa",
+      "rationale": "għadd tal-ħajjin tad-dar ta' Bilha"
+    }
+  ],
+  "translation": "Dawn huma l-ulied ta' Bilha, li Laban ta lil Raħel bintu; u hi welldet ⟨את⟩ dawn lil Jagħaqov — kull nifs: sebgħa.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/46\/25-28.1792599029856.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "l-ulied"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ta' Bilha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "lil Raħel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "bintu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "u hi welldet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lil Jagħaqov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sebgħa"
+    }
+  ],
+  "timestamp": "2026-10-21T16:10:29.857462184Z",
+  "model": "glm-5.3"
+}

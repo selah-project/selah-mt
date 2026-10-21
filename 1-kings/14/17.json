@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sinf",
+      "rationale": "סף huwa l-limitu tad-daħla — il-bieb ta' taħt, mhux sempliċement 'bewċ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "hi",
+      "rationale": "il-ħiber דבר ta' Tirtsja: hekk kif — il-verb 'il-ħin' m'hemmx"
+    }
+  ],
+  "translation": "U qamet mart Jarobgħam, u telgħet, u ġiet sa Tirtsja; hi daħlet fis-sinf tad-dar, u t-tifel miet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/14\/17-20.1792609725838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "u qamet"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mart"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobgħam"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "u telgħet"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "u ġiet"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "sa Tirtsja"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "daħlet"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "fis-sinf"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "u t-tifel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miet"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:45.838727281Z",
+  "model": "glm-5.3"
+}

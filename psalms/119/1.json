@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bla tnagi",
+      "rationale": "תמימי huwa 'sħaħ, komplut' — integrità ta' triq sħiħa, mhux sempliċiment 'bla tnagi'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "salma",
+      "rationale": "אשרי ftieħ makarju li jseħħ lill-qarrej"
+    }
+  ],
+  "translation": "Kemm huma hieni dawk bla tnagi fit-triq, li jimxu fit-Tora ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/1-4.1792618044760.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kemm huma hieni"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "bla tnagi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "li jimxu"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "fit-Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:24.760854357Z",
+  "model": "glm-5.3"
+}

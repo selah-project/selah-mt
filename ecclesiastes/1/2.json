@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-verb 'hu' miżjud bil-Malti; il-Lhudi jħalli l-ġuda bla copula: הכל הבל"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "superlattiv Ebrajk bir-ripetizzjoni — 'ħela ta' ħlieli' miżmum biex jiffla l-ħoss tal-Lhudi"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבל",
+      "rationale": "ħela (futilità) kontra 'nifs\/fwar' (il-ħoss li jinxtered) — it-tnejn qegħdin fil-kelma waħda"
+    }
+  ],
+  "translation": "Ħela ta' ħlieli, qal Koħelet; ħela ta' ħlieli, il-kollx ⟨hu⟩ ħela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/1\/1-4.1792620181772.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Ħela"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ta' ħlieli"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koħelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ħela"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ta' ħlieli"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "il-kollx"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ħela"
+    }
+  ],
+  "timestamp": "2026-10-21T22:03:01.773443313Z",
+  "model": "glm-5.3"
+}

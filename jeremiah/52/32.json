@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "maħbużin",
+      "rationale": "The second אתו here is 'with him'; kings 'with him' means fellow captive kings, so a participle was supplied in brackets."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kliem sbieħ",
+      "rationale": "וידבר אתו טבות literally 'spoke to him goods' — spoke good things, i.e. kindly."
+    }
+  ],
+  "translation": "U kellem ⟨את⟩ u ħaddbu kliem sbieħ, u ta ⟨את⟩ it-tron tiegħu ogħla mit-tron tas-slaten li kienu ⟨את⟩ ⟨maħbużin⟩ miegħu f'Babilon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/52\/29-32.1792614052438.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "u kellem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jehojakin"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kliem sbieħ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tron tiegħu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "it-tron tiegħu"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ogħla minn"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "it-tron"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "tas-slaten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨maħbużin⟩ miegħu"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "f'Babilon"
+    }
+  ],
+  "timestamp": "2026-10-21T20:20:52.439471Z",
+  "model": "glm-5.3"
+}

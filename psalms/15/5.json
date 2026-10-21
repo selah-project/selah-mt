@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "imgħarfa",
+      "rationale": "נשך huwa l-imgħarfa fuq self — isem semitiku qarib tal-Malti, miżjud ma' 'flus' għaliċ-kelma Lhudija teħod lil 'kaspu' magħha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-flus",
+      "rationale": "kaspu huwa 'fidda' — il-Lhudi jgħid 'fiddtu', il-flus bħala metall"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא...לא...לא",
+      "rationale": "tliet negazzjonijiet 'ma' f'qasir wieħed — ritmu tal-għajd ta' dħul fis-santwarju, miżum fil-Malti"
+    }
+  ],
+  "translation": "Il-flus tiegħu ma jagħtihx għal imgħarfa, u ġid kontra innocenti ma jieħux; min jagħmel dawn ma jitħarrex għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/15\/5-5.1792616580491.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "il-flus tiegħu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jagħtihx"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "għal imgħarfa"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "u ġid"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "jieħux"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "jitħarrex"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:00.492438897Z",
+  "model": "glm-5.3"
+}

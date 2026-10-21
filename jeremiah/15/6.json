@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנחם",
+      "rationale": "'weary of relenting' vs BSB 'weary of showing compassion'; נחם here is God relenting of planned punishment, not human repentance."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lil",
+      "rationale": "Maltese requires the direct-object preposition 'lil' before the pronoun that אתי marks."
+    },
+    {
+      "kind": "you",
+      "subject": "Jeruxalajim \/ Israel",
+      "rationale": "Jaħwe addresses the unfaithful city in the second person feminine."
+    }
+  ],
+  "translation": "Int telqit lil ⟨את⟩ lili, jgħid Jaħwe, tmur lura wara; u meddit ⟨את⟩ idi kontrik u nqerdek; għaddej nifta mil-maħla.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2abfa913b0d6f3f994c61da856ad0961241865a11e09d06c3ed730285f1b5b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/15\/5-8.1792612787084.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Int"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "telqit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "lili"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lura"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "tmur"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "u meddit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "u nqerdek"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "għaddej nifta"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "mil-maħla"
+    }
+  ],
+  "timestamp": "2026-10-21T19:59:47.085783542Z",
+  "model": "glm-5.3"
+}

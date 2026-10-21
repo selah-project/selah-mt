@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחטא",
+      "rationale": "il-piel ta' ħata' hawn 'naddaf (l-artal)' — l-istess għerq ta' ħatja, il-ħtija ma t iżżidex 'naddaf' biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "לכפר",
+      "rationale": "'biex jagħmel kippur' — l-għerq kpr 'jgħatti\/jikkumpensa'; iżżomm il-kelma Lhudija milli tagħżel interpretazzjoni waħda"
+    }
+  ],
+  "translation": "U nbiħ; u ħa Moxe ⟨את⟩ id-demm u poġġieh fuq qrun l-artal, madwar, b'saba'ħ, u naddaf ⟨את⟩ l-artal; u ⟨את⟩ id-demm ferraħ lejn il-pedament tal-artal, u qaddisu biex jagħmel kippur fuqu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/13-16.1792600681509.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "nbiħ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-demm"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "poġġie"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "qrun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "b'saba'ħ"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "naddaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-demm"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ferraħ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "il-pedament"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tal-artal"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "qaddisu"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "biex jagħmel kippur"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:38:01.510381718Z",
+  "model": "glm-5.3"
+}

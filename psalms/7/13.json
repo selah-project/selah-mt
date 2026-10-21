@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is-suġġett ta' ישוב",
+      "rationale": "Min irid jirritorna: il-ħażin (KJV\/BSB) jew kulħadd b'mod ġenerali (YLT 'if one turn not'); it-test Lhudi m'għandux suġġett espliċitu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "waddabha",
+      "rationale": "דרך fis-sens tal-qaws tfisser b'mod litterali 'teped' — wieħed jitped fuq il-qaws biex iwiddbha; l-għażla Maltija żżomm ir-rużultat, mhux il-ħarba."
+    }
+  ],
+  "translation": "Jekk ma jergħax jirritorna, is-sejf tiegħu jixxetta; il-qaws tiegħu waddabha u ħejjiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/7\/13-16.1792616545824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "jergħax jirritorna"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "is-sejf tiegħu"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "jixxetta"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "il-qaws tiegħu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddabha"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "u ħejjiha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:25.824546694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשב \/ חושן",
+      "rationale": "ħajjat (חשב, minn 'ħasab\/jinterlacja') mal-ħošen (חושן) — ħoss qrib, forsi apposta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħajjat",
+      "rationale": "מעשה חשב litteralment 'ħidma ta' min iħaseb\/jinterlacja' — id-disinjatur tal-insiġ"
+    }
+  ],
+  "translation": "U għamel ⟨את⟩ il-ħošen, għemil ta' ħajjat, bħal ħidma tal-efod: deheb, tkhelet u argaman u dud ta' l-isirp u lin mibrum.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b25c1d9e1fcdce3a80ba059085dd3e5825b3e8a64a118f34b32572c6f82113a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/39\/5-8.1792600348238.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħošen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "il-ħošen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ta' ħajjat"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "bħal ħidma"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "tal-efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tkhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "u argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "u dud"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ta' l-isirp"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "u lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mibrum"
+    }
+  ],
+  "timestamp": "2026-10-21T16:32:28.239730582Z",
+  "model": "glm-5.3"
+}

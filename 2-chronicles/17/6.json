@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "qalbu tellgħet 'il fuq",
+      "rationale": "גבה לב idjom: 'tkabbar il-qalb' — hawn fis-sens tajjeb (kuraġġ devozzjonali), mhux superbità"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-għolijiet",
+      "rationale": "הבמות = l-għolijiet tal-qima; bħalma f'2Kr 20:33 mhux neħħihom kollha"
+    }
+  ],
+  "translation": "U qalbu tellgħet 'il fuq fit-toroq ta' Jaħwe, u wkoll neħħa ⟨את⟩ l-għolijiet u ⟨את⟩ l-Axerim minn Jehuda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a52d366876a78ef456d9b44a2639baa113a846f33faa3122ead21bab2ad393b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/17\/5-8.1792622586507.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "tellgħet 'il fuq"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbu"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "fit-toroq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "u wkoll"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "neħħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għolijiet"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "l-għolijiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-Axerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "l-Axerim"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "minn Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-21T22:43:06.507996526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Malti jeħtieġ il-verb 'to be' li ma hemmx fil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "'il quddiem \/ 'l wara",
+      "rationale": "קדם u אחור jistgħu jkunu t-triq (lvant\/punent) jew id-direzzjoni (quddiem\/wara); ħadt direzzjoni"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא אבין",
+      "rationale": "In-negazzjoni Ma Maltija tgħatti ż-żewġ kliem: ma nifhimx"
+    }
+  ],
+  "translation": "Ara, 'il quddiem immur u ⟨hu⟩ mhux hemm; u 'l wara, u ma nifhimx lilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a001cd3a967d48944c696804778f9213055fb4a36f5b3031f4cd13ce8bcbca99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/23\/8-8.1792623871368.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הֵ֤ן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "קֶ֣דֶם",
+      "gloss": "'il quddiem"
+    },
+    {
+      "surface": "אֶהֱלֹ֣ךְ",
+      "gloss": "immur"
+    },
+    {
+      "surface": "וְאֵינֶ֑נּוּ",
+      "gloss": "u ⟨hu⟩ mhux hemm"
+    },
+    {
+      "surface": "וְ֝אָח֗וֹר",
+      "gloss": "u 'l wara"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אָבִ֥ין",
+      "gloss": "nifhimx"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "lilu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:31.369270026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "L-Lhudi m'għandux kopula; il-Malti jeħtieġ 'hemm' għall-ħgg."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mażżot",
+      "rationale": "מצות tfisser bil-fatt 'ħelu bla ħmira'; il-Malti żamm il-kelma qrib tal-Lhudi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-ħmistax-il jum, sebat ijiem",
+      "rationale": "Għadd ta' jiem għall-ħgg: il-vers jikkonta u jkejjel."
+    }
+  ],
+  "translation": "U fil-ħmistax-il jum ta' dan ix-xahar ⟨hemm⟩ ħgg; matul sebat ijiem jinieklu mażżot.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "575a49fe91eaf36c2368c12bfdaaae61baab56121fdbe4122cf007e33e70c46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/28\/17-20.1792604976393.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "u fil-ħmistax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-il"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ta' ix-xahar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ħgg"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mażżot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jinieklu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:49:36.394322187Z",
+  "model": "glm-5.3"
+}

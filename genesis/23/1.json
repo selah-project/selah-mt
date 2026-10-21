@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is-snin tal-ħajja ta' Sara",
+      "rationale": "Il-vers jgħodd għajxien Sara b'mod sħiħ: mija u għoxrin u seba' snin — 127."
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Il-Lhudi ma għandux kopula fil-klawsola ta' wicc; il-Malti jeħtieġha."
+    }
+  ],
+  "translation": "U kienu l-ħajjiet ta' Sara mija sena u għoxrin sena u seba' snin — dawn kienu s-snin tal-ħajja ta' Sara.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "76da426a409e03a75f5be6fde419f10f5bd6faa6bc76dfdaa3ff6fd250d0df6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/23\/1-4.1792598191401.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "l-ħajjiet"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ta' Sara"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "u seba'"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "s-snin"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "tal-ħajja"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ta' Sara"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:31.402335466Z",
+  "model": "glm-5.3"
+}

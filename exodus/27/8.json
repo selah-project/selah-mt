@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבוב לחת",
+      "rationale": "'ħofor bil-planki' — vojt ġewwa, mibni bil-planki; Geneva 'hollow between the boards'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kif wriek fil-muntanja",
+      "rationale": "il-mudell mur jingħalaq: ma ġiex deskritt kif; isem il-muntanja mingħajr dettalji"
+    }
+  ],
+  "translation": "Vojt bil-planki tagħmel lilu ⟨את⟩; kif wriek fil-muntanja, hekk jagħmlu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/27\/5-8.1792599931461.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "vojt"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "bil-planki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "lilu ⟨את⟩",
+      "marks": "il-miżbeaħ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "wriek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "lek (lilek)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fil-muntanja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "jagħmlu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:25:31.462684442Z",
+  "model": "glm-5.3"
+}

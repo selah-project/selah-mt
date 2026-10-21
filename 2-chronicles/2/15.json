@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 2:15",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רפסדות",
+      "rationale": "kelma rari għal 'twal\/trabi' — bil-Malti 'twal' (floats)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-injam",
+      "rationale": "il-pronom אתם (suffiss) għaddiet għal 'l-injam' sabiċ-ċarja tkun lets."
+    }
+  ],
+  "translation": "U aħna naqtgħu s-siġar mill-Libanon, skont il-ħtieġa tiegħek kollha, u nmigħuhomlok ma' twal fuq il-baħar sa Ġafa, u inti ttella' l-injam ⟨את⟩ sa Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c615cececd65840b6b0f8fbc10b4a1391ac4ce9129bc351f66d35e2abb28dc93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/2\/13-16.1792622318330.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "U aħna"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "naqtgħu"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "s-siġar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "skont il-"
+    },
+    {
+      "surface": "צרכך",
+      "gloss": "ħtieġa tiegħek kollha"
+    },
+    {
+      "surface": "ונביאם",
+      "gloss": "u nmigħuhomlok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨lilek⟩"
+    },
+    {
+      "surface": "רפסדות",
+      "gloss": "ma' twal"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "sa Ġafa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u inti"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ttella'"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "l-injam (li jkunu ġew minn Libanon)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:38:38.331995098Z",
+  "model": "glm-5.3"
+}

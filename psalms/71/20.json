@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשוב ... תשוב",
+      "rationale": "Ir-repetizzjoni ta' שׁוּב (terġa' ... terġa') timmarka l-passaġġ mit-tbatija għall-ħajja — struttura tinxhetika ma ntrifletx b'mod sħiħ."
+    },
+    {
+      "kind": "crux",
+      "subject": "הראיתנו",
+      "rationale": "Qari bil-kontanti 'wrijtina' ( plural — 'int li wrijtina'), iżda ħafna traduzzjonijiet jaqraw singular 'wrijtini'; il-vokali Maltorah ta' ktiv\/u-ktiv tħalliha miftuħa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fondijiet tal-art",
+      "rationale": "תהומות huma l-abbissi, l-ilmijiet imqallbin ta' taħt; 'fondijiet tal-art' jirriduċi l-istampa tal-abiss."
+    }
+  ],
+  "translation": "Int, li wrijtina tbatijiet kbar u ħwejjeġ ħżiena, terġa' terġa' ttina ħajja, u mill-fondijiet tal-art terġa' tolonni 'l fuq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "28c5d3f86926dde2526285da2f7c01f58c834c82f02c8ab981ca875af61a5afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/20-20.1792623795489.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "wrijtina"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "tbatijiet"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "kbar"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "u ħwejjeġ ħżiena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "terġa'"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "ttina ħajja"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "u mill-fondijiet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "terġa'"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "tolonni 'l fuq"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:15.490183909Z",
+  "model": "glm-5.3"
+}

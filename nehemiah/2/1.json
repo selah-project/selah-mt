@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 2:1",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Nisan, is-sena għoxrin",
+      "rationale": "Id-datazzjoni preċiża tar-renju ta' Artachxasta tiftaħ il-kapitlu bħala kronoloġija."
+    },
+    {
+      "kind": "substitution",
+      "subject": "imdejjaq",
+      "rationale": "רע huwa 'ħażin' b'mod ġenerali; il-kuntest tal-ħars jirrikjedi 'imdejjaq'."
+    },
+    {
+      "kind": "addition",
+      "subject": "qatt",
+      "rationale": "Konnotazzjoni li ma kienx qatt imdejjaq qabel, mhux hemm fil-Lhudi, li jgħid biss 'ma kontx ra' quddiemu'."
+    }
+  ],
+  "translation": "U ġara fix-xahar ta' Nisan, fis-sena għoxrin ta' Artachxasta s-sultan, kien hemm inbid quddiemu, u ħadt ⟨את⟩ l-inbid u tajt lis-sultan, u ma kontx qatt ⟨imdejjaq⟩ quddiemu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/2\/1-4.1792621272345.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ġara"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "fix-xahar"
+    },
+    {
+      "surface": "ניסן",
+      "gloss": "ta' Nisan"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "fis-sena"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "לארתחשסתא",
+      "gloss": "ta' Artachxasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "inbid"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "u ħadt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-inbid"
+    },
+    {
+      "surface": "היין",
+      "gloss": "l-inbid"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "u tajt"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lis-sultan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kontx"
+    },
+    {
+      "surface": "רע",
+      "gloss": "imdejjaq"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:21:12.346331497Z",
+  "model": "glm-5.3"
+}

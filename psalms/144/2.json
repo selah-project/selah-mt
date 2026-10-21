@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ktibt ruħi",
+      "rationale": "חסיתי literally 'I sought refuge', rendered with Maltese idiom for taking shelter."
+    }
+  ],
+  "translation": "Ħesed tiegħi u fortizza tiegħi, għolja sigura tiegħi u li jeħlisni; ⟨hu⟩ tarka tiegħi, u fih ktibt ruħi; li jidgħi ⟨l⟩-poplu ta' taħti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/144\/1-4.1792618254938.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Ħesed tiegħi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "u fortizza tiegħi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "għolja sigura tiegħi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "u li jeħlisni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tiegħi"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tarka tiegħi"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "u fih"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ktibt ruħi"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "li jidgħi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ta' taħti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:54.939229829Z",
+  "model": "glm-5.3"
+}

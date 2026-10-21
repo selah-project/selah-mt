@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jirrikonoxxu",
+      "rationale": "ויודו huwa għerq jadah — 'tgħarraf, iċħa, agħti ħajr'; l-għarqa fis-siġġu tal-Lhudi tfittex kelma waħda għal tagħrif u tifħir"
+    },
+    {
+      "kind": "elision",
+      "subject": "id-dwali ta' שמים",
+      "rationale": "is-sema bil-Malti ma żżommix in-numru dwali (żewġ) tas-sema Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-emun",
+      "rationale": "אמונתך — l-emun (kelma Maltija qrib ta' emuna) iżżomm il-ħoss u s-siġġu tal-kelma Lhudija"
+    }
+  ],
+  "translation": "U s-sema jirrikonoxxu ⟨lil⟩ l-għeġubijiet tiegħek, Jaħwe, ⟨ukoll⟩ l-emun tiegħek fl-għaqda tal-qaddisin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d60812bd5890a8674311fafd60250f8a2c174a7c2626068ce37ed9c83544f14c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/6-7.1792623817767.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "jirrikonoxxu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "l-għeġubijiet tiegħek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "l-emun tiegħek"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "fl-għaqda"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tal-qaddisin"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:37.768015931Z",
+  "model": "glm-5.3"
+}

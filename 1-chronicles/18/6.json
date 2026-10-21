@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 18:6",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "garniġjuni",
+      "rationale": "il-Lhudi jgħid biss 'poġġa' — in-noun 'garrisons' ma nsibuhx f'Kroni, għaddiet minn 2 Sam 8:6"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tribut",
+      "rationale": "מנחה hawn hija taxxa ta' sottopostizzjoni, mhux offrita reliġjuża — għalhekk mhux 'minħa'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "gloss": "'sar' jestendi lil 'sar jaqdi', il-Lhudi jgħid biss 'u Aram sar lil David qaddejja'"
+    }
+  ],
+  "translation": "U David poġġa ⟨garniġjuni⟩ f'Aram ta' Damask, u Aram sar jaqdi lil David bħala qaddejja li jġorru tribut; u Jaħwe għenu David f'kollox fejn mexa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/18\/5-8.1792622086248.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "f'Aram"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Damask"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sar"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qaddejja"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "li jġorru"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribut"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "għenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kollox"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mexa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:46.248792090Z",
+  "model": "glm-5.3"
+}

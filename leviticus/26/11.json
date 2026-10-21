@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hi l-ħajja\/nifs, mhux ruħ biss imma Malti 'ruħ' huwa l-eqreb gorok tal-Lhudi għal din il-kostruzzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tgħożżokomx",
+      "rationale": "געל = tiddiżgusta u tirrifjuta fl-istess ħin"
+    }
+  ],
+  "translation": "U npoġġi l-Mixkan tiegħi f'nofskom, u ruħi ma tgħożżokomx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/9-12.1792601245856.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "u npoġġi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "l-Mixkan tiegħi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "f'nofskom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "tgħożżokomx"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom",
+      "marks": "kom — l-objett ta' 'tgħożż'"
+    }
+  ],
+  "timestamp": "2026-10-21T16:47:25.857140644Z",
+  "model": "glm-5.3"
+}

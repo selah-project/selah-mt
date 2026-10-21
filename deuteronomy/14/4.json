@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-merħla",
+      "gloss": "il-bhejjem",
+      "rationale": "בהמה tittraduċi 'bhejjem' (barra l-Maltesi 'merħla' tifred ir-razza); hawn tintuża 'il-merħla' għall-listi tal-annimali, iżda 'il-bhejjem' jista' jkun preċiż daqstant."
+    },
+    {
+      "kind": "addition",
+      "subject": "il-ħaruf... tal-barbaġi",
+      "rationale": "שה כשבים huwa kostrutt: 'ħaruf ta' nagħaġ'; il-Malti jeħtieġ l-artiklu."
+    }
+  ],
+  "translation": "Din hija l-merħla li tistgħu tieklu: il-baqar, il-ħaruf tal-barbaġi, u l-ħaruf tal-mogħoż.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/14\/1-4.1792605659304.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "il-merħla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tistgħu tieklu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il-baqar"
+    },
+    {
+      "surface": "שה",
+      "gloss": "il-ħaruf"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "tal-barbaġi"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "u l-ħaruf"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tal-mogħoż"
+    }
+  ],
+  "timestamp": "2026-10-21T18:00:59.305384925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "obadiah 1:9",
+  "book": "obadiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וְחַתּוּ",
+      "rationale": "il-għerq ifisser 'inxteħet\/prostraw', hawn 'itbaxxew\/inkisru' — il-ħela ta' waqgħa fiżika għal tqarrib psikoloġiku"
+    },
+    {
+      "kind": "crux",
+      "subject": "מִקָּטֶל",
+      "rationale": "ASV\/JPS jieħdu 'mit-qtil (minn)', KJV\/BSM 'bit-qtil' — qiegħed bil-strument jew sors"
+    }
+  ],
+  "translation": "U jitbaxxew il-ġellieda tiegħek, Tejman, biex jinqata' kull raġel mill-muntanja ta' Esav bil-qtira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6c7f37f2d8ed8a41342328c025406522a7663ab0ed9bc4e72bc1f40f9b2f6f24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/obadiah\/1\/9-12.1792615772036.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "U jitbaxxew"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "il-ġellieda tiegħek"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Tejman"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "jinqata'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull raġel"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mill-muntanja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ta' Esav"
+    },
+    {
+      "surface": "מקטל",
+      "gloss": "bil-qtira"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:32.037336190Z",
+  "model": "glm-5.3"
+}

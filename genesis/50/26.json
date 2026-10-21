@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בארון",
+      "rationale": "l-istess kelma tal-aron tal-ftehim: senduq, mhux mitħna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "בן מאה ועשר שנים",
+      "rationale": "għadd tas-sena ta' wara l-mewt ta' Josef: mija u għaxra sena"
+    }
+  ],
+  "translation": "U Josef miet, bin mija u għoxrin sena ‹għaxra u mija›; u ħannewh, u poġġewh ⟨את⟩ f'senduq fi Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/50\/25-26.1792599200501.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "u miet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mija"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "u għaxra"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "u ħannewh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "h"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "u poġġewh"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "f'senduq"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "fi Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:20.502171791Z",
+  "model": "glm-5.3"
+}

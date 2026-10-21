@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-kopula fejn il-Lhudi jgħid biss 'ħames elef xeqel inħas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחשת\/inħas",
+      "rationale": "il-kelma Maltija għar-ram hija l-istess għerq Semitiku tan-נחשת; tliet darbiet fil-vers"
+    }
+  ],
+  "translation": "u elmu ta' inħas fuq rasu, u diri ta' lożor hu libes; u t-piż tad-diri kien ħames elef xeqel inħas.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/5-8.1792608039681.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "u elmu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ta' inħas"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rasu"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "u diri"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "ta' lożor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "libes"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "u t-piż"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "tad-diri"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ħames"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elef"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "xeqel"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "inħas"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:39.682237975Z",
+  "model": "glm-5.3"
+}

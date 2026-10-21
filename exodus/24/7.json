@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Jisrael",
+      "rationale": "il-poplu jwieġeb b'vuċi waħda: nagħmlu u nismgħu"
+    },
+    {
+      "kind": "crux",
+      "subject": "nagħmlu u nismgħu",
+      "rationale": "ordni tal-Lhudi 'na'aseh ve-nishma' — nsiru qabel nisimgħu, mhux 'u nibqgħu ubbidjenti' biss"
+    },
+    {
+      "kind": "elision",
+      "subject": "f'widnejn",
+      "rationale": "באזני — 'fl-idejn\/widnejn' idjoma Lhudija għal 'f'preżenza ta', ma tiddubllx"
+    }
+  ],
+  "translation": "U ħa ktieb il-patt, u sejjaħ f'widnejn il-poplu, u qalu: Kull ma tkellem Jaħwe nagħmlu, u nismgħu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/24\/5-8.1792599811715.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ktieb"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "il-patt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "f'widnejn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tkellem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nagħmlu"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "u nismgħu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:31.716911178Z",
+  "model": "glm-5.3"
+}

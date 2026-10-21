@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi m'għandux kopula; miżjuda bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "etern",
+      "rationale": "עולם tfisser litteralament 'dak li huwa moħbi, il-punt li jgħib' — żmien barra ma jkejl"
+    }
+  ],
+  "translation": "Ħesed Jaħwe ⟨huwa⟩ mill-etern għall-etern fuq dawk li jibżgħu minnu, u t-tsedeq tiegħu għal wlied il-wlied",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/17-20.1792617835426.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mill-etern"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "għall-etern"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "etern"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dawk li jibżgħu minnu"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "u t-tsedeq tiegħu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "għal wlied"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "il-wlied"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:55.427132942Z",
+  "model": "glm-5.3"
+}

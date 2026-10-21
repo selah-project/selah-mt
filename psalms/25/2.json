@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "Suffiss possessiv tal-Malti meħtieġ għal אלהי bil-vokattiv"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Indirizz diretta lil Elohom fit-talb"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יעלצו... לי",
+      "rationale": "Lit. 'jaqbżu bil-ferħ għalija' — ifraħ fuq nemiku"
+    }
+  ],
+  "translation": "Elohim ⟨tiegħi⟩, fìk poġġejt il-fiduċja tiegħi; la tħallinix ninħamt, u la jifirħu fuqi l-għedewwa tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d1cd4a3f9ac043a19ec1908c5cf2fa3248bdec37a1e1508017fc49c2932ca073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/2-3.1792623761355.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fìk"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "poġġejt il-fiduċja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "tħallinix ninħamt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "jifirħu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "l-għedewwa tiegħi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fuqi"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:41.356443185Z",
+  "model": "glm-5.3"
+}

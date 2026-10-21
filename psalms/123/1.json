@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lili",
+      "rationale": "Il-partiċippa Lhudija tal-קדוש הישבי teħtieġ pronom għal ċarja fil-Malti"
+    }
+  ],
+  "translation": "Għanja tal-Għoljiet. Għandek irfajt ⟨את⟩ għajnejn jaħwe, lili joqgħod fis-smewwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/123\/1-4.1792618132059.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Għanja"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tal-Għoljiet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Għandek"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "irfajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għajnejn"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejn"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "lili joqgħod"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "fis-smewwiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:52.060434800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kokka",
+      "rationale": "כוס: għasfur tal-lejl — 'kokka', 'kokka tal-ħerba' kontra 'gawwi' jew tawla ta' villaġġ fis-sors antiki"
+    },
+    {
+      "kind": "hapax",
+      "subject": "pellikan",
+      "rationale": "קאת kelma rari, probabbilment il-pellikan (minn vomitar)"
+    }
+  ],
+  "translation": "Sirt bħall-pellikan tal-midbar, sirt bħall-kokka tal-ħerba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/5-8.1792617780449.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "sirt bħal"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pellikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tal-midbar"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sirt"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "bħall-kokka"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "tal-ħerba"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:00.450063260Z",
+  "model": "glm-5.3"
+}

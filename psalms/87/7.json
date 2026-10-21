@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעיני \/ għajnejn",
+      "rationale": "מעין tfisser kemm 'għajn' kemm 'sors\/għajn tal-ilma'; il-Malti 'għajn' għandu t-tnejn ukoll — il-logħba tal-kliem tinżamm"
+    },
+    {
+      "kind": "crux",
+      "subject": "כחללים",
+      "rationale": "minn חול: 'bħal żeffiena' (dawk li jduruż-żfin) jew 'bħal maħruġin' — ħadt iż-żfin bħal ASV\/JPS"
+    }
+  ],
+  "translation": "U dawk li jkantaw bħal żeffiena: il-għajnejn kollha tiegħi f'dilek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/87\/5-7.1792617648753.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "u dawk li jkantaw"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "bħal żeffiena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "il-għajnejn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "f'dilek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:48.754330028Z",
+  "model": "glm-5.3"
+}

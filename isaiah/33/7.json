@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אראלם",
+      "rationale": "l-kelma אראל tidher hawn biss fit-Tanakh (barra minn isem proprju)"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-eroj tagħhom",
+      "rationale": "YLT taħdem 'l-Ariel tagħhom' bħala laqam ta' Ġerusalemm; LXX 'għarriefienu\/seers'; l-aktar 'eroj'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħhom",
+      "rationale": "il-pronom suffiss f'אראלם jeħtieġ 'tagħhom' espliċitu bil-Malti"
+    }
+  ],
+  "translation": "Ara, l-eroj tagħhom jgħajtu barra; il-mibgħuta tas-sliem jibku qares.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/33\/5-8.1792611520884.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "l-eroj tagħhom"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "jgħajtu"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "barra"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "il-mibgħuta ta'"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "is-sliem"
+    },
+    {
+      "surface": "מר",
+      "gloss": "qares"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "jibku"
+    }
+  ],
+  "timestamp": "2026-10-21T19:38:40.885678049Z",
+  "model": "glm-5.3"
+}

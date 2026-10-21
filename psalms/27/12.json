@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש mhux 'ruħ' fil-każ tagħha — hija ħaġa li tirreżisti, il-ħajja\/moħħ ta' xi ħadd: 'la tagħtini lill-għedewwa x'jieħdu pjaċir bih'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בנפש צרי",
+      "rationale": "litteralment 'fin-nifs ta' l-għedewwa tiegħi' — idiom għal 'f'riedaqtom \/ f'idejnhom'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויפח חמס",
+      "rationale": "jista' jkun verb (VERB) 'u jneħħew il-ħmara' jew nom (NOUN) 'u dak li jneħħu l-ħmara' — KJV\/jleqqu l-verb mhux Marbut"
+    }
+  ],
+  "translation": "La ttini lil ruħi f'idejn l-għedewwa tiegħi, għax qamu kontrija xhieda falzi, u dawk li jneħħu l-ħmara.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/27\/9-12.1792616811693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "ttini lil"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "f'idejn ruħi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "l-għedewwa tiegħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qamu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "xhieda"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falzi"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "dawk li jneħħu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "l-ħmara"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:51.694862361Z",
+  "model": "glm-5.3"
+}

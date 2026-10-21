@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-ġust",
+      "rationale": "Il-verb bl- Suffiss (jħallihx, jiddikjarahx) jkompli l-\"hu\" tal-vers 32 — ir-ġust li l-ħażen jaħlef biex joqgħod."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiddikjarah ħati",
+      "rationale": "ירשיענו hija kawżattiva ta' רשע: 'jagħmilu ħażin\/jiddikjarah ħati fil-ġudizzju', mhux sempliċement 'jikkundannah'."
+    }
+  ],
+  "translation": "Jaħwe ma jħallihx f'idu, u ma jiddikjarahx ħati meta jiġi ġġudikat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/33-36.1792616951067.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "jħallihx"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "jiddikjarahx ħati"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "meta jiġi ġġudikat"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:11.068052937Z",
+  "model": "glm-5.3"
+}

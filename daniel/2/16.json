@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 2:16",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tifsira",
+      "rationale": "פשרא tifsira tal-ħolma, kelma speċifika għal Daniel"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "l-Aramajk juża infinitiv biss; il-Malti jeħtieġ suġġett"
+    }
+  ],
+  "translation": "U Daniel daħal u talab mis-sultan li jagħtih żmien, u hu jgħarraf lis-sultan it-tifsira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb0e57a1789b1afeec6273b28319c8185370bc7682de9ac35bb131d7f8a7f8b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/13-16.1792620612715.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "U Daniel"
+    },
+    {
+      "surface": "על",
+      "gloss": "daħal"
+    },
+    {
+      "surface": "ובעה",
+      "gloss": "u talab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mis-"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "żmien"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "jagħti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-ih"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "u t-tifsira"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "jgħarraf"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "lis-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T22:10:12.717020041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Avraham",
+      "rationale": "Address diretta ta' Elohim lil Avraham dwar l-isem ta' martu."
+    },
+    {
+      "kind": "crux",
+      "subject": "Saraj\/Saraħ",
+      "rationale": "Il-bidla fl-isem: Saraj 'prinzepessa' tagħha biss, Saraħ 'prinzepessa' għall-ġnus — il-Malti iżomm it-tnejn distinti."
+    }
+  ],
+  "translation": "U Elohim qal lil Avraham: Saraj, martek, la tsemmihax ⟨את⟩ isimha Saraj, għax Saraħ isimha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/17\/13-16.1792598050524.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "martek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tsemmihax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "isimha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraħ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "isimha"
+    }
+  ],
+  "timestamp": "2026-10-21T15:54:10.525738735Z",
+  "model": "glm-5.3"
+}

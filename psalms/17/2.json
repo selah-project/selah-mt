@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wiċċek",
+      "rationale": "מלפניך litteralment 'mill-wiċċ tiegħek' — preżenza ta' Jaħwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק\/מישרים",
+      "rationale": "v1–2: tselqiet ta' tzedaq–meysharim, żewġ għeruq għad-dritt li jiġbdu l-psiema"
+    }
+  ],
+  "translation": "Minn quddiem wiċċek joħroġ il-ġudizzju tiegħi; għajnejk jaraw id-dritt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/17\/1-4.1792616669738.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Minn quddiem wiċċek"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il-ġudizzju tiegħi"
+    },
+    {
+      "surface": "ייצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "għajnejk"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "jaraw"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "id-dritt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:29.739381757Z",
+  "model": "glm-5.3"
+}

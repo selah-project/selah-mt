@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ruħu",
+      "rationale": "il-verb Malti 'jaħseb ruħu' jeħtieġ il-pronunm 'ruħu' li ma hemmx fil-Lhudi"
+    },
+    {
+      "kind": "addition",
+      "subject": "jibqa'",
+      "rationale": "il-verb Lhudi טמא huwa stat, il-Malti jeħtieġ verb għajnuna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imniġġes",
+      "rationale": "טמא tfisser iċ-ċerimonjalment mhux qaddis; 'imniġġes' huwa l-kelma Maltija tas-sitwazzjoni"
+    }
+  ],
+  "translation": "U l-irġiel li jmissu fis-sodda tiegħu jaħsel il-ħwejjeġ tiegħu u jaħseb ruħu fl-ilma, u jibqa' imniġġes sa fil-għaxija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/5-8.1792600905515.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "U l-irġiel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "jmissu"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "fis-sodda tiegħu"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "jaħsel"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "il-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "u jaħseb ruħu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "fl-ilma"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "u jibqa' imniġġes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "fil-għaxija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:45.515695484Z",
+  "model": "glm-5.3"
+}

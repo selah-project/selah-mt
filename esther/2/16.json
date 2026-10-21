@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ix-xahar Tevet, is-sena tas-seba'",
+      "rationale": "Id-data preċiża tal-monzjar ta' Ester: xahar tebgħa għaxra, is-sena tas-seba' tar-renju ta' Axverox."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ttieħdet",
+      "rationale": "ותלקח għadda (Nifal) — 'ħadetinha' mhux 'harġet'; Ester passiva f'dan il-mument tan-narrazzjoni."
+    }
+  ],
+  "translation": "U Ester ttieħdet għand ir-re Axverox, għad-dar tas-saltna tiegħu, fix-xahar l-għaxar, huwa xahar Tevet, fis-sena tas-seba' tas-saltna tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/2\/13-16.1792620523211.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "u ttieħdet"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axverox"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "tas-saltna tiegħu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "fix-xahar"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "l-għaxar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "xahar"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tevet"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "fis-sena"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tas-seba'"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "tas-saltna tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:08:43.214832275Z",
+  "model": "glm-5.3"
+}

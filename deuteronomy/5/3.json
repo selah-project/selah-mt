@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Rendered 'imma' (but) with KJV\/JPS; alternative 'għaliex' (because) — 'not with our fathers... because with us'."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (avotenu)",
+      "rationale": "First את is the preposition 'with (our fathers)', not the object marker, so no ⟨את⟩ glyph."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Israel",
+      "rationale": "Direct address: Moses speaking to all Israel assembled, stressing 'we, here, today, all of us alive'."
+    }
+  ],
+  "translation": "Mhux ⟨את⟩ ma' missirijietna qata' Jaħwe ⟨את⟩ il-patt dan, imma magħna; aħna, dawn, hawn, illum, kulħaddna ħajjin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4120de44e241b1356c4886978903ac4b2fa6e6795e63ca171ad31a72e4aae60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/5\/2-3.1792623136849.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "missirijietna"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-patt dan"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "il-patt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imma"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ magħna"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hawn"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kulħaddna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ħajjin"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:16.850261192Z",
+  "model": "glm-5.3"
+}

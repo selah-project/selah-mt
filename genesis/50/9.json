@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "żwiemel tas-siֿra",
+      "rationale": "פרשים huma żwiemel bil-vetturi jew kavallerija, mhux sempliċement żwiemel"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jħares il-verb 'kien' għall-kostruzzjoni ta' ויהי"
+    }
+  ],
+  "translation": "U tela' miegħu wkoll karru u wkoll żwiemel tas-siġra, u l-kamp kien tqil ħafna.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9042361f1e8eb44f2125d2309b6dfccdc9bb5d6c8bd95e50eda40fece25621ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/50\/9-12.1792599156848.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "u tela'"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wkoll"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karru"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wkoll"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "żwiemel tas-siġra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tqil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:36.848696107Z",
+  "model": "glm-5.3"
+}

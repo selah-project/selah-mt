@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Ġurament Lhudi 'ħaj Jaħwe', mhux dikjarazzjoni dwar ħajja."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Malti jeħtieġ verb 'to be' fil-ġurament; il-Lhudi ma għandux."
+    },
+    {
+      "kind": "you",
+      "subject": "lir-re ta' Jisrael",
+      "rationale": "Mikaħu jwieġeb lill-mibgħat tas-sultan u lis-sultan stess."
+    }
+  ],
+  "translation": "U Mikaħu qal: Ħaj ⟨hu⟩ Jaħwe, għax dak li Elohim tiegħi jgħid, ⟨את⟩ hu se jkollni ngħid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ed9b2c20a17a972ab269d4bcfd60b968cd5398ce3a0322421c9e0265a515598f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/18\/13-16.1792622631151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaħu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li Elohim tiegħi jgħid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se jkollni ngħid"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngħid"
+    }
+  ],
+  "timestamp": "2026-10-21T22:43:51.152526010Z",
+  "model": "glm-5.3"
+}

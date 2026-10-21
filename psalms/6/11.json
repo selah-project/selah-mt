@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו...יבשו",
+      "rationale": "il-verb 'jistħu' jirrepeti biex jagħlaq il-psalm b'għajn tar-reġgressjoni, mimli bl-istess kelma"
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "'f'moment' (ħin qasir ħafna) kontra 'għal darba' jew 'f'daqqa'; KJV jqiegħed 'suddenly'"
+    }
+  ],
+  "translation": "Jistħu u jitremmu ħafna l-għedewwa tiegħi kollha; jerġgħu lura, jistħu f'mument.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/9-11.1792616498888.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Jistħu"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "u jitremmu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "l-għedewwa tiegħi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jerġgħu lura"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "jistħu"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "f'moment"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:38.889814623Z",
+  "model": "glm-5.3"
+}

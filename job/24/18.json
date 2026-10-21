@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 24:18",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קל \/ תקלל",
+      "rationale": "Il-verb תקלל għandu l-istess għerq קל: 'ħafif\/mgħaffeġ' u 'misħut' fl-istess ħoss; il-logħba tal-ittri titlef bil-Malti."
+    },
+    {
+      "kind": "crux",
+      "subject": "תקלל",
+      "rationale": "'jingħadar' (qalligħ mill-għerq 'li jagħmel ħafif') kontra 'misħut' — l-istess konsonanti jġorru t-tnejn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "misħut",
+      "rationale": "Il-Qumran u l-Verżjonijiet qadima jaqraw 'jiġi mċappas\/mgħaffeġ'; il-MT jgħid 'misħut', u ħriġt mal-MT."
+    }
+  ],
+  "translation": "Ħafif huwa fuq wiċċ l-ilma; misħut fl-art il-qisma tagħhom; ma jdurx fit-triq tal-għelieqi tal-għeneb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/24\/17-20.1792619530493.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קל",
+      "gloss": "Ħafif"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "l-ilma"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "misħut"
+    },
+    {
+      "surface": "חלקתם",
+      "gloss": "il-qisma tagħhom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "jdurx"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "tal-għelieqi tal-għeneb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:10.493881775Z",
+  "model": "glm-5.3"
+}

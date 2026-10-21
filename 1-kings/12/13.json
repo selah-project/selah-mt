@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויען \/ יעצהו",
+      "rationale": "Alliterazzjoni bejn 'wieġeb' (ענה) u 'parirlu' (יעץ) — il-merfugħ tal-għajn tal-ħruxa u tal-parir maħbura fl-istess ħoss."
+    }
+  ],
+  "translation": "U r-re wieġeb ⟨את⟩ in-nies b'ħruxa, u telaq ⟨את⟩ il-parir tax-xiħieġ li kienu parirlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/13-16.1792609789563.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "u wieġeb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nies"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "b'ħruxa"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "u telaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-parir"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "il-parir"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "tax-xiħieġ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "parirlu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:09:49.564640518Z",
+  "model": "glm-5.3"
+}

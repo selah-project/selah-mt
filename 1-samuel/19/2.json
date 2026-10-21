@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "raħ li toħroġ fil-lejl \/ fil-bokor",
+      "rationale": "השמר...בבקר: 'oinsa sa fil-bokor' (KJV 'until the morning') vs 'ojja fil-bokor' — it-tifsira eżatta ta' ב stop hi mħaltra"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "gloss": "il-partiċella tal-_preġjera ttattret fi 'raħ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "toħroġ",
+      "rationale": "השמר huwa 'oħars sew \/ qaċċat' — it-traduzzjoni tirrendi t-talba b'verb konrett"
+    }
+  ],
+  "translation": "U Jonatan ħabbar lil David, u qal: Xaul missieri qiegħed ifittex joqtollek; u issa raħ li toħroġ fil-lejl għax fil-bokor joqogħdu moħbi u aħbi lilek innifsek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/19\/1-4.1792608213673.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ħabbar"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "qiegħed ifittex"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missieri"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "joqtollek"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "raħ li toħroġ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "fil-bokor"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "joqogħdu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "moħbi"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "aħbi lilek innifsek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:43:33.674643351Z",
+  "model": "glm-5.3"
+}

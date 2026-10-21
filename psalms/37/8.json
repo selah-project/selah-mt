@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אף",
+      "rationale": "Litteralment 'moħr' — l-għadab jidher fil-moħr imneħħi n-nifs; 'għadab tan-nifs' iżomm id-dehra."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תתחר",
+      "rationale": "Għal darb'oħra חרה — 'taħraq'; l-istess għerq ta' Ps 37:7, ritorn retoriku."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך להרע",
+      "rationale": "'Tissixfx ħlief biex tagħmel ħażin' (KJV) kontra 'ma tagħmilx ħażin biss' (ASV\/JPS: it-tħarrik jwassal biss għall-ħażin)."
+    }
+  ],
+  "translation": "Aqta' sebek mill-għadab tan-nifs, u ħalli l-ħema; tidhirax — biss twassal għall-ħażin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/5-8.1792616918445.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "aqta' sebek"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "mill-għadab tan-nifs"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "u ħalli"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "l-ħema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tidhirax"
+    },
+    {
+      "surface": "אך",
+      "gloss": "biss"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "twassal għall-ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:38.446196075Z",
+  "model": "glm-5.3"
+}

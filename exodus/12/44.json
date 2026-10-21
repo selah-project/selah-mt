@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "meta",
+      "rationale": "il-konġunzjoni Maltija miżjeda biex tagħmel ċar ir-relazzjoni temporali fil-kostruzzjoni ב'az."
+    },
+    {
+      "kind": "you",
+      "subject": "tonqos",
+      "rationale": "il-verb ומלתה huwa fit-tieni persuna singular — timlied lil dak li jisma' l-istatut."
+    }
+  ],
+  "translation": "U kull sklav, raġel mixtri bil-fidda, meta tonqos lil ⟨את⟩ lilu, imbagħad jiekol minnu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/41-44.1792599487876.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "U kull"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sklav"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "mixtri"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bil-fidda"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "meta tonqos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "imbagħad"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "בו",
+      "gloss": "minnu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:18:07.878212387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "כי אם jaħdem bħala jedda waħda 'iżda', l-אם waħdu ma għandu tifsira indipendenti"
+    },
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "Jaħwe jkellem lil David direttament,ċitata minn Salomun"
+    }
+  ],
+  "translation": "Imma inti mhux int li tibni d-dar, iżda ibnek, dak li joħroġ minn ġo ġnuek, huwa jibni d-dar għal ismi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/17-20.1792609495774.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "imma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tibni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iżda"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ibnek"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "dak li joħroġ"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "minn ġo ġnuek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "jibni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "għal ismi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:04:55.775589319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 21:8",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתערה",
+      "rationale": "The noun means both razor and scabbard; here scabbard, as the sword is drawn from it — some older versions read 'razor' with a different image."
+    },
+    {
+      "kind": "elision",
+      "subject": "kontrik",
+      "rationale": "Hebrew הנני אליך is literally 'behold, me toward you'; Maltese states the stance as 'jien kontrik', collapsing two tokens into one rendering."
+    }
+  ],
+  "translation": "u għid lill-art ta' Jisrael: Hekk qal Jaħwe: Ara, jien kontrik, u nieħu ix-xabla tiegħi mill-miks tagħha, u naqta' mingħandek il-ġust u l-ħażin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d32deb05e15fd65597d6b86865b491ffa1f3f5aa861ae629a0b080580be1424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/21\/5-8.1792614496563.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "u għid"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "lill-art"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ara, jien"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "u nieħu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ix-xabla tiegħi"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "mill-miks tagħha"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "u naqta'"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mingħandek"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-ġust"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "u l-ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T20:28:16.565255178Z",
+  "model": "glm-5.3"
+}

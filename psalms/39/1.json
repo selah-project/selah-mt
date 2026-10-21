@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "lill-mexxej tal-kor",
+      "rationale": "למנצח huwa superskrizzjoni; il-Malti jżid 'tal-kor' biex jagħti l-figura ta' min jiddirigi l-mużika"
+    }
+  ],
+  "translation": "Għall-mexxej tal-kor, għal Jeditun; mizmor lil David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/39\/1-4.1792617055268.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "għall-mexxej tal-kor"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "għal Jeditun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:55.269057821Z",
+  "model": "glm-5.3"
+}

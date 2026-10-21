@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ħarem",
+      "rationale": "חרם = tqassir għal Alla, ma jibqax jeżisti; 'ħaremgħ' izomm il-ġerq semitiku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kontrihom",
+      "rationale": "בו huwa singular ('kontru'), imma l-antenatur jamra plural."
+    }
+  ],
+  "translation": "U Jaħwe bagħtek fit-triq u qal: Mur u ħaremgħ ⟨את⟩ il-ħatjin, ⟨את⟩ Amaleq, u ġġieldu kontrihom sa ma titfehom ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/15\/17-20.1792608042279.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "u bagħtek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mur"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "u ħaremgħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħatjin"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "il-ħatjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "u ġġieldu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kontrihom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "titfehom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:42.280531583Z",
+  "model": "glm-5.3"
+}

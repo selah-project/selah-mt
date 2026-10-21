@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "kopula miżjuda bil-Malti; il-Lhudi m'għandhiex"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kenn għoli",
+      "rationale": "משגב litteralment 'irdum\/sit għoli u inaċċessibbli' —堡 strongold naturali"
+    }
+  ],
+  "translation": "Elohim fi ċittadelliha ⟨hu⟩ magħruf bħala kenn għoli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/48\/1-4.1792617158646.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "fi ċittadelliha"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "magħruf"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "bħala kenn għoli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:38.648003119Z",
+  "model": "glm-5.3"
+}

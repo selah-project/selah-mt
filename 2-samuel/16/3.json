@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישיבו...לי",
+      "rationale": "is-suffiss 'lil-ja' diġà mixtuba fil-verb 'twarribli', għalhekk לי ma jridx kelma separata fil-Malti."
+    },
+    {
+      "kind": "crux",
+      "subject": "יושב בירושלם",
+      "rationale": "fi 2Sam 19 Mefiboxet jgħid li Tsiba qallbu — il-kelma ta' Tsiba hawn hi akkuża żżewwiqa; il-qarrej m'għandux jafha."
+    }
+  ],
+  "translation": "Ir-re qal: U fejn iben sidok? U Tsiba qal lir-re: Ara, joqgħod f'Jeruxalajim, għaliex qal: Illum dar Jisrael se twarribli ⟨את⟩ is-saltna ta' missieri.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ad4cf6aabe5a05169b0a8bf6f0f6b257e4e1f57535aa0cce8018f115d874d8dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/16\/1-4.1792608957552.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ir-re"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "U fejn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sidok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Illum"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "se twarribli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨lil-li⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-saltna"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "is-saltna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ta' missieri"
+    }
+  ],
+  "timestamp": "2026-10-21T18:55:57.553369225Z",
+  "model": "glm-5.3"
+}

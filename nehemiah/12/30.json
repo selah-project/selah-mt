@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויטהרו ... ויטהרו",
+      "rationale": "l-istess verb tintuża darba għalihom infushom u darba b'transittiv — il-Malti jirrepeti 'ndnew' bl-istess mod"
+    }
+  ],
+  "translation": "U ndnew il-qassisin u l-Lewiti, u ndnew ⟨את⟩ il-poplu u ⟨את⟩ il-bibien u ⟨את⟩ il-ħajt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/12\/29-32.1792621612054.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "u ndnew"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "il-qassisin"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "u l-Lewiti"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "u ndnew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-bibien"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "il-bibien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħajt"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "il-ħajt"
+    }
+  ],
+  "timestamp": "2026-10-21T22:26:52.055517349Z",
+  "model": "glm-5.3"
+}

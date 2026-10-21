@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sittin jum u sitt ijiem",
+      "rationale": "in-numru sħiħ ta' jiem it-tathir għal bint, kif jgħid il-Lhudi"
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħha",
+      "rationale": "is-suffiss m'għandux fuq טהרה f'dan il-vers; miżjud bil-parentesi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "toqgħod fuq",
+      "rationale": "תשב על literally 'toqgħod fuq' — idjoma Lhudija għal 'tibqa' f'perjodu ta'\/'tistenna'",
+      "alt": "tibqa' f'"
+    },
+    {
+      "kind": "crux",
+      "subject": "żewġ ġimgħat",
+      "rationale": "שבועים huwa dual ta' שבוע — tnejn jibqa' tnejn, mhux 'sebgħin (jum)'"
+    }
+  ],
+  "translation": "U jekk twelled nieqba, u tkun imniġġsa żewġ ġimgħat bħan-nida tagħha; u sittin jum u sitt ijiem toqgħod fuq demm it-tathir ⟨tagħha⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/12\/5-8.1792600793169.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nieqba"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "twelled"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "u tkun imniġġsa"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "żewġ ġimgħat"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "bħan-nida tagħha"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "u sittin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "u sitt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "toqgħod"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "demm"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "tat-tathir"
+    }
+  ],
+  "timestamp": "2026-10-21T16:39:53.169917158Z",
+  "model": "glm-5.3"
+}

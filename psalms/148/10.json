@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajja selvaġġa",
+      "rationale": "החיה — il-ħajja\/bestja sħiħa; bhejjem għal בהמה skont it-tabella tal-annimali"
+    }
+  ],
+  "translation": "il-ħajja selvaġġa u l-bhejjem kollha, ir-rettili u l-għasafar bil-ħnejjiet,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/148\/9-12.1792618310198.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "il-ħajja selvaġġa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-bhejjem kollha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bhejjem"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ir-rettili"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "u l-għasafar"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bil-ħnejjiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:50.198949113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כוס\/שלך\/ינשוף",
+      "rationale": "isem ta' għasafar maħruqa mhux ċert: kokka (little owl), sultur (cormorant), barbagann (great owl) skond il-biċċa l-kbira tal-verżjonijiet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-kokka",
+      "rationale": "הכוס mhuwiex 'tazza' hawn iżda isem ta' kokka; l-istess konsonanti bħala kelma għal 'tazza'"
+    }
+  ],
+  "translation": "u ⟨את⟩ il-kokka u ⟨את⟩ is-sultur u ⟨את⟩ il-barbagann",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/17-20.1792600666738.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-kokka"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "il-kokka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "is-sultur"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "is-sultur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-barbagann"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "il-barbagann"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:46.738713346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħmira",
+      "rationale": "תמרים = siġar tal-ħmira (palmi); 'ħmira' waħedha ttieklex"
+    }
+  ],
+  "translation": "u ⟨את⟩ in-Negħev, u ⟨את⟩ il-pjanura, il-wied ta' Jeriħo, il-belt tal-ħmira, sa Żegħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/34\/1-4.1792606168083.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "in-Negħev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "in-Negħev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-pjanura"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "il-pjanura"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "il-wied"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriħo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "tal-ħmira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Żegħar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:09:28.084325037Z",
+  "model": "glm-5.3"
+}

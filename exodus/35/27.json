@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasijim",
+      "rationale": "נשיאים — 'dawk imtellgħin', it-titlieda; il-kelma ġejja minn נשא 'itella''"
+    },
+    {
+      "kind": "substitution",
+      "subject": "milujim",
+      "rationalale": " Abbasent — ġeża mwaħħla għall-ħasil"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ċošen",
+      "rationale": "il-ċošen — il-marsa tas-saċerdot il-kbir; il-kelma miżżuma bħalma tinsab"
+    }
+  ],
+  "translation": "U n-nasijim ġabu ⟨את⟩ l-ġeża ta' ix-xoħam u ⟨את⟩ l-ġeża tal-milujim, għall-efod u għaċ-ċošen.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/35\/25-28.1792600208204.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "u n-nasijim"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ġabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ġeża ta' ix-xoħam"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "l-ġeża ta'"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ix-xoħam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ġeża tal-milujim"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "l-ġeża tal-"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "milujim"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "għall-efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "u għaċ-ċošen"
+    }
+  ],
+  "timestamp": "2026-10-21T16:30:08.205518411Z",
+  "model": "glm-5.3"
+}

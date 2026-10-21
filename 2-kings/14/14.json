@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ulied l-ostaggi",
+      "rationale": "בני התערבות litteralment 'ulied il-garanziji\/panji'; 'ostaggi' huwa l-qari komuni"
+    },
+    {
+      "kind": "elision",
+      "subject": "שמרונה",
+      "rationale": "il-ה finali hija suffiss direzzjonali ('lejn Xomron'); ma ġietx irrenderita separata"
+    }
+  ],
+  "translation": "U ħa ⟨את⟩ id-deheb u l-fidda kollha, u ⟨את⟩ l-oġġetti kollha li nstabu fid-dar ta' Jaħwe u fit-teżori tad-dar tas-sultan, u ⟨את⟩ ulied l-ostaggi, u reġa' lura Xomron.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b2e9f1391a99f680b3f3b8f5b847a1e462c31096099b0e3e54da274336198c98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/13-16.1792610483209.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "U ħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-deheb u l-fidda kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "id-deheb"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "u l-fidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-oġġetti kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "l-oġġetti"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "li nstabu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "u fit-teżori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulied l-ostaggi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "l-ostaggi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u reġa' lura"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Xomron"
+    }
+  ],
+  "timestamp": "2026-10-21T19:21:23.210417884Z",
+  "model": "glm-5.3"
+}

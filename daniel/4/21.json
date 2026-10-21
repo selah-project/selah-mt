@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "L-Aramajk ma għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-Għoli",
+      "rationale": "עליא huwa superlativ 'l-ogħla', riferiment għal Alla mhux isem."
+    }
+  ],
+  "translation": "Din hija t-tifsira, ja sultan, u d-deċert tal-Għoli ⟨huwa⟩ dak li wasal fuq sidni s-sultan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "afb914e331209bdf562ed97ef068f3902411420d5571ca630305db8cbe4ed6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/4\/21-24.1792620734598.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "Din"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "t-tifsira"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ja sultan"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "u d-deċert"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "tal-Għoli"
+    },
+    {
+      "surface": "היא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "dak"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "wasal"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "sidni"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "is-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T22:12:14.599571174Z",
+  "model": "glm-5.3"
+}

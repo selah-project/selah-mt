@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nresqua",
+      "rationale": "זמר פירושה literalment jmiss l-ismijiet tal-istrument; 'nresqua' biss jaqbad il-ħoss tal-mużika"
+    },
+    {
+      "kind": "elision",
+      "subject": "עשור",
+      "rationale": "litteralment 'għaxar', forma mqassra ta' עשור נבל — għaxar kordi"
+    }
+  ],
+  "translation": "Elohim, għanja ġdida se ngħindi lok, b'nevel ta' għaxar kordi se nresqa lok.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/144\/9-12.1792618240504.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "għanja"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ġdida"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "se ngħindi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lok"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "b'nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ta' għaxar kordi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "se nresqua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lok"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:40.504791352Z",
+  "model": "glm-5.3"
+}

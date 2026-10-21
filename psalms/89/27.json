@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siġra",
+      "rationale": "צור tfisser blata wieqfa, ħaġra kbira — mhux 'siġra'; imma l-Malti m'għandux kelma waħda għal 'blata' b'dak il-piż"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jaħwe",
+      "rationale": "Indirizz diretta lil Jaħwe bħala Missier u El — kelma ta' David"
+    }
+  ],
+  "translation": "Huwa jsejjaħ lili: 'Missier inti, El tiegħi, u s-siġra tas-salvazzjoni tiegħi.'",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/25-28.1792617636784.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "jsejjaħ lili"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missieri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El tiegħi"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "u s-siġra"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "tas-salvazzjoni tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:36.785711945Z",
+  "model": "glm-5.3"
+}

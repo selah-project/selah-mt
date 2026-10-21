@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "must",
+      "rationale": "תירוש hu l-meraq ta' l-għeneb għadu kemm mgħaddas, qabel ma jsir inbid."
+    },
+    {
+      "kind": "crux",
+      "subject": "jisplodu",
+      "rationale": "יפרצו 'jinfirxu b'qawwa' — traduzzjonijiet jaqsmu bejn 'jispiccaw' (jisplodu) u 'jifirxu' (jisparġu)."
+    }
+  ],
+  "translation": "U jimtlew il-maħżen tiegħek bis-sażża, u l-must fit-tropli tal-inbid tiegħek jisplodu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/3\/9-12.1792618385027.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "U jimtlew"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "il-maħżen tiegħek"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bis-sażża"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "u l-must"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "fit-tropli tal-inbid tiegħek"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "jisplodu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:05.028591103Z",
+  "model": "glm-5.3"
+}

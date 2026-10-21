@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "f'ħabsi",
+      "rationale": "בצרה hija 'telegram, dejjq' — 'ħabs' miżmum għall-ħoss tat-tightness"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tiegħi⟩",
+      "rationale": "il-Malti jeħtieġ pronom għal לי, il-Lhudi jżomm suffiss 'lili' fi ħdan il-forma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קראתי\/ויענני",
+      "rationale": "sejjaħt\/wieġeb — sejħa u rispons, l-istruttura ta' talba li ġiet misluta"
+    }
+  ],
+  "translation": "Għanja tal-Għoljiet. Le Jaħwe f'ħabsi sejjaħt, u wieġebni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/120\/1-4.1792618130970.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Għanja"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tal-Għoljiet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "f'ħabsi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨tiegħi⟩"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sejjaħt"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "u wieġebni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:50.970766658Z",
+  "model": "glm-5.3"
+}

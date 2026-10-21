@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għajt (roared)",
+      "rationale": "שאגה huwa l-ħoss tal-iljun; hawn il-psalmista jgħajjat bħal-iljun, mhux sempliċement inħases"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפוגותי\/ונדכיתי",
+      "rationale": "żewġ passivi torħis paraguni, drawwa ta' nifs twil, mitlufa fit-traduzzjoni"
+    }
+  ],
+  "translation": "Ħassejtni nfurfat u mgħaffeġ sa wisq; għajt bil-għajt tan-niket ta' qalbi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/38\/9-12.1792616933418.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "nfurfat"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "u mgħaffeġ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "wisk"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "għajt"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "bil-għajt tan-niket"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ta' qalbi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:53.419035374Z",
+  "model": "glm-5.3"
+}

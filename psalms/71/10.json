@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefex hi nifs\/ħajja, mhux ruħ biss; renduta bħala ħajti"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "il-ל f'אמרו לי tfisser 'kontri tiegħi'; miġbura f'fuqi"
+    }
+  ],
+  "translation": "Għax faħmu għedewwa ⟨⟨ fuqi ⟩⟩, u dawk li jgħassu fuq ħajti ħadu parir flimkien;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/9-12.1792617393765.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "faħmu"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "għedewwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "u dawk li jgħassu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fuq ħajti"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ħadu parir"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "flimkien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:33.766156578Z",
+  "model": "glm-5.3"
+}

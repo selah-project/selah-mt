@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sultan ta' Jisrael",
+      "rationale": "The Hebrew text says 'king of Israel' though Jehoshaphat ruled Judah; some versions silently correct to 'Judah' (Wycliffe), the MT is kept as written"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Maltese requires the copula 'kienu' in the appositional clause; Hebrew has none"
+    }
+  ],
+  "translation": "U kellu aħwa, ulied Jeħożafat: Ażarja, u Jiiħiel, u Żekarjaħu, u Ażarjaħu, u Miħael, u Xefatjaħu; dawn kollha kienu ulied Jeħożafat, sultan ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/21\/1-4.1792622722959.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "u kellu"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "aħwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jeħożafat"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ażarja"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "u Jiiħiel"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "u Żekarjaħu"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "u Ażarjaħu"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "u Miħael"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "u Xefatjaħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kienu ulied"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jeħożafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:22.960131795Z",
+  "model": "glm-5.3"
+}

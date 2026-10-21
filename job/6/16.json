@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתעלם שלג",
+      "rationale": "'il-borra tinħeba fuqhom' (KJV\/JPS) kontra 'il-borra tiddubwi minnhom' — l-istess għerq għal Żżewġ qari"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jsiru suwed",
+      "rationale": "הקדרים mill-għerq 'jkun iswed\/tan-niket' — il-widien tan-nixfa jixbħu xi ħaġa li ħarġet iswed jew tellgħet il-ħażin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "silġ u borra fuq il-għadira nixfa",
+      "rationale": "il-kulur iswed kontra l-abjad tal-borra — kuntrast viżiv li jsaħħaħ ix-xbijja tal-ħutija"
+    }
+  ],
+  "translation": "Dawk li jsiru suwed mis-silġ, fuqhom jinħeba l-borra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/6\/13-16.1792619108704.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "Dawk li jsiru suwed"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mis-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "silġ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "ninħeba"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "l-borra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:45:08.705782300Z",
+  "model": "glm-5.3"
+}

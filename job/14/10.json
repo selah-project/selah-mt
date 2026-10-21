@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jintefa'",
+      "rationale": "ויחלש 'idgħajjef\/jintriefed'; 'jintefa'' jaqta' l-għerq tal-kelma"
+    },
+    {
+      "kind": "idiom",
+      "subject": "jagħti l-aħħar nifs",
+      "rationale": "ויגוע 'jieħu nifsu barra' — idjom Malti għall-istess stampa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר \/ אדם",
+      "rationale": "parallel ta' żewġ kelmiet għall-bniedem — il-ġebbor u l-adam — disa' li tinġabar fil-Malti b'żewġ kelmiet differenti"
+    }
+  ],
+  "translation": "Imma l-ġebbor imut u jintefa', u l-bniedem jagħti l-aħħar nifs — u fejn hu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/14\/9-12.1792619277061.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "imma l-ġebbor"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "imut"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "jintefa'"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "jagħti l-aħħar nifs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "u fejn hu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:57.062548217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "l-amsa\/indil: 'unction' bħala att (KJV 'portion of the anointing' iżżid 'portion' li m'hemmx fil-Lhudi)"
+    }
+  ],
+  "translation": "Din hija l-għoti tal-indil ta' Aharon u l-għoti tal-indil ta' uliedu, mill-offrimenti tan-nar ta' Jaħwe, fil-jum li ġabu ⟨את⟩hom qrib jaqdu bħala qassisin lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/7\/33-36.1792600531548.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dinja? — Din"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "l-għoti tal-indil"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ta' Aharon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "u l-għoti tal-indil"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ta' uliedu"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mill-offrimenti tan-nar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "li ġabu qrib"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩hom",
+      "marks": "jaqdu bħala qassisin lil Jaħwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "jaqdu bħala qassisin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:35:31.549200707Z",
+  "model": "glm-5.3"
+}

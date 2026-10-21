@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הגברים",
+      "rationale": "'il-qawwijin \/ l-eroj' — la ġibbor mhux sempliċiment suldat, imma raġel ta' qawwa notevoli."
+    }
+  ],
+  "translation": "U David sema', u bagħat ⟨את⟩ lil Joab u ⟨את⟩ l-armata kollha, l-irġiel il-qawwijin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1f0a0346653f7a5df07da2fabd99978e9a335e8a9f1633e7df2421446ea44326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/10\/5-8.1792608746322.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "U sema'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-armata kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l-armata"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "l-irġiel il-qawwijin"
+    }
+  ],
+  "timestamp": "2026-10-21T18:52:26.324082715Z",
+  "model": "glm-5.3"
+}

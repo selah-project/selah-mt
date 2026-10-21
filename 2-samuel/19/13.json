@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lirġiel ta' Jehuda",
+      "rationale": "David addresses the elders of Judah directly with a rhetorical question."
+    },
+    {
+      "kind": "alternative",
+      "subject": "l-aħħar",
+      "rationale": "אחרנים can also mean 'the last ones (to act)' or 'western' — context fixes 'last'."
+    }
+  ],
+  "translation": "Aħwa intom, għadmi u ġismi intom, u għaliex tkunu l-aħħar biex tirreġġgħu ⟨את⟩ lis-sultan?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/19\/13-16.1792608997484.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "aħwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "għadmi"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "u ġismi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "u għaliex"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "tkunu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "l-aħħar"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "biex tirreġġgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lis-sultan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:37.485296682Z",
+  "model": "glm-5.3"
+}

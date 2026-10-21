@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "book": "nahum",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rabha",
+      "rationale": "וֹנֹטר keeps its object implicit; Maltese needs the noun supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נקם",
+      "rationale": "Threefold repetition of 'avenge' with Jaħwe — Hebrew anaphora kept by repeating the phrase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sid il-ġibda",
+      "rationale": "בעל חמה literally 'master of heat\/wrath'; ġibda renders the heat-anger"
+    }
+  ],
+  "translation": "El għeġur u li joħroġ raġħbil, Jaħwe; joħroġ raġħbil Jaħwe, u sid il-ġibda; joħroġ raġħbil Jaħwe kontra dawk li jagħmlu t-tribulazzjoni tiegħu, u huwa jżomm ⟨rabha⟩ għal għedewwetu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nahum\/1\/1-4.1792615949904.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "għeġur"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "u li joħroġ raġħbil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "joħroġ raġħbil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "u sid"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "il-ġibda"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "joħroġ raġħbil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "kontra dawk li jagħmlu t-tribulazzjoni tiegħu"
+    },
+    {
+      "surface": "ונוטר",
+      "gloss": "u jżomm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "għal għedewwetu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:29.905246238Z",
+  "model": "glm-5.3"
+}

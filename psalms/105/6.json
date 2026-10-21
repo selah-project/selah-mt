@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-maħbubin",
+      "rationale": "בחיריו: 'l-għażla tiegħu' — בָּחִיר huwa dak li ġie magħżul"
+    },
+    {
+      "kind": "you",
+      "subject": "ta' Żerġġ Avraham",
+      "rationale": "appell dirett lil-nisel ta' Avraham u Jagħaqov"
+    }
+  ],
+  "translation": "Żerġġ ta' Avraham, il-qaddej tiegħu, ulied Jagħaqov, il-maħbubin tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/105\/5-8.1792617829828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Żerġġ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ta' Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "il-qaddej tiegħu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "il-maħbubin tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:49.828823804Z",
+  "model": "glm-5.3"
+}

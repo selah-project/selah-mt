@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 31:29",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בפיד",
+      "rationale": "Literally 'in the misfortune of' — KJV 'destruction', JPS 'ruin'; the singular abstract noun used concretely."
+    },
+    {
+      "kind": "addition",
+      "subject": "jien kont",
+      "rationale": "Maltese requires the past copula to render Job's implicit oath-conditional frame."
+    },
+    {
+      "kind": "substitution",
+      "subject": "misfortunja",
+      "rationale": "פיד is a rare word for calamity; a Latinate loan is the only Maltese fit."
+    }
+  ],
+  "translation": "Jien kont ferħan meta ż-żommien misfortunja lil min jobgħodni, jew qajmet ruħi meta s-sewwa sabu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e6cc594f7ee3be3defcec783a65169fc297ee1fe60f2886bb09280cf9ef6d87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/31\/29-32.1792619664647.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jien kont"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "ferħan"
+    },
+    {
+      "surface": "בפיד",
+      "gloss": "meta ż-żommien misfortunja"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "lil min jobgħodni"
+    },
+    {
+      "surface": "והתעררתי",
+      "gloss": "jew qajmet ruħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "is-sewwa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:24.647757080Z",
+  "model": "glm-5.3"
+}

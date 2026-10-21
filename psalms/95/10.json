@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "erbgħin sena",
+      "rationale": "Għadd tas-snin tal-ġerħa fid-deżert, korrispondenti għal erbgħin sena ta' vaganza."
+    },
+    {
+      "kind": "crux",
+      "subject": "kelli biċċa mieġu",
+      "rationale": "אקוט (minn קוט, 'taqta') kelma rari ħafna; versjonijiet jvarjaw bejn 'kont mnikket', 'kont għajjien', 'kont imrar'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אקוט",
+      "rationale": "Il-forma Hiphil ta' קוט tidher biss hawn u f'Ġud 2:18 fit-Tanakh."
+    }
+  ],
+  "translation": "Erbgħin sena kelli biċċa mieġu ma' dik il-ġemgħa, u għidt: Poplu li żerżqu fil-qalb huma, u huma ma jafux it-toroq tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/95\/9-11.1792617714036.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Erbgħin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "kelli biċċa mieġu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ma' dik il-ġemgħa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "u għidt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Poplu"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "li żerżqu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fil-qalb"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "והם",
+      "gloss": "u huma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafux"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "it-toroq tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:54.036740204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקדשו \/ kbudek fuq l-art",
+      "rationale": "Il-verb 'tnejhel' jirreferi għal Elohim iżda l-ġemgħa tista' taħdoż ukoll lill-kbuda; it-test Malti ġej fl-istess ambigwjità tal-Lhudi."
+    },
+    {
+      "kind": "addition",
+      "subject": "Ittnejhelim",
+      "rationale": "il-verv hu imperattiv fis-Lhudi; il-forma passiva\/reflessiva tfittex lejn l-aktar ħoss naturali bil-Malti."
+    }
+  ],
+  "translation": "Ittnejhelim 'l fuq fuq is-sema, Elohim, u fuq l-art kollha kbudek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/108\/5-8.1792617886383.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Ittnejhelim 'l fuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kbudek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:46.384130952Z",
+  "model": "glm-5.3"
+}

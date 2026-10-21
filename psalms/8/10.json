@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jibħilha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kbir",
+      "rationale": "אדיר jfisser 'wiesgħa, kbir, qawwi'; 'admirable' ma jaqbadx bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jaħwe, sidna",
+      "rationale": "Dan il-vers jirrepeti l-ftuħ tal-psalm (inclusjo), poeżijaċirkolari"
+    }
+  ],
+  "translation": "Jaħwe, sidna, kemm ⟨hu⟩ kbir ismek fuq l-art kollha!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/9-10.1792616484680.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "sidna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fuq l-art kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "fuq l-art kollha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:24.680952355Z",
+  "model": "glm-5.3"
+}

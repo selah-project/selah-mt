@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "dur lejja",
+      "rationale": "talba diretta f'seconda persuna lil Jaħwe — imperattivi"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "indirizz dirett lil Jaħwe bit-talba tal-ħniena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mrieħed",
+      "rationale": "עני jiġbor fqir u msaqsi; 'fqir' jew 'milħut' jiġu t-tnejn"
+    }
+  ],
+  "translation": "Dur lejja u ħenn għalija, għax waħdieni u mrieħed jien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/25\/13-16.1792616723776.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "dur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejja"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "u ħenn għalija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "waħdieni"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "u mrieħed"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:23.777293755Z",
+  "model": "glm-5.3"
+}

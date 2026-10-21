@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bis-suf",
+      "rationale": "Does 'wool' govern both flocks (ASV\/JPS: the wool of the lambs and rams) or only the rams (KJV: 'with the wool')? Placed finally, ambiguous."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נקד",
+      "gloss": "noked (sheep-master) occurs only here in Kings (cp. Amos 1:1 noqed), a rarity for 'breeder of sheep'."
+    }
+  ],
+  "translation": "U Mesha sultan ta' Moab kien raħħal tan-nagħaġ, u kien jimelli lis-sultan ta' Jisrael mija elf ħrief u mija elf muntun, bis-suf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/3\/1-4.1792610115613.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "U Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "raħħal tan-nagħaġ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "u kien jimelli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lis-sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mija"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ħrief"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "u mija"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "muntun"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "bis-suf"
+    }
+  ],
+  "timestamp": "2026-10-21T19:15:15.614544947Z",
+  "model": "glm-5.3"
+}

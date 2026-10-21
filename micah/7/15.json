@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אראנו",
+      "rationale": "suffiss singular 'nurih' (KJV) vs plural 'nurihom' (ASV\/JPS) — l-objett huwa l-ġent tal-v. 14"
+    },
+    {
+      "kind": "addition",
+      "subject": "nurihom",
+      "rationale": "suffiss pronominali miżjud bil-Malti biex jikkollega mal-ġent tal-vers ta' qabel"
+    }
+  ],
+  "translation": "Bħall-jiem tat-tluq tiegħek mill-art ta' Mitsrajim, nurihom il-għeġubijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dbf71ed114ed89d8703c8c8f16ab3be9148f4e048ffc1e16d0de6a3027bafe67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/7\/13-16.1792615880241.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "Bħall-jiem"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tat-tluq tiegħek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "nurihom"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "il-għeġubijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T20:51:20.242456717Z",
+  "model": "glm-5.3"
+}

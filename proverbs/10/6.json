@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Malti requires the pronoun; Hebrew has no verb in the first half"
+    },
+    {
+      "kind": "crux",
+      "subject": "jaħbi",
+      "rationale": "yekhasseh: 'covers the mouth' (violence silences them) vs 'the mouth conceals violence' (JPS reading)"
+    }
+  ],
+  "translation": "Barkiet fuq rash ⟨hu⟩ il-ġust, u ħalq ir-ħżien jaħbi ħames.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4fadf9fc8bacbbc44d39fa80a4c8ed7c52e4f98aeb1024b6c981611e5d2b8baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/5-6.1792623869037.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "Barkiet"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "fuq rash"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-ġust"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "u ħalq"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ir-ħżien"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "jaħbi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ħames"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:29.038411969Z",
+  "model": "glm-5.3"
+}

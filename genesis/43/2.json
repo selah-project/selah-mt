@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-kopula li l-Lhudi jħalli barra f'ויהי"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבו\/שברו",
+      "rationale": "l-istess għerq שׁוב\/שׁבר — 'erġu lura, xtru' — il-ġibil juma' fil-Lhudi u jintilef bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "missierhom",
+      "rationale": "imperattivi indirizzati lil Jakobb, il-missier"
+    }
+  ],
+  "translation": "U ⟨kien⟩ meta spiċċaw jieklu ⟨את⟩ il-qamħ li ġabu minn Mitsrajim, missierhom qal lilhom: Ergħu, xtrawlna ftit ikel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/43\/1-4.1792598952503.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ⟨kien⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "spiċċaw"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jieklu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qamħ"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "il-qamħ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ġabu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "minn Mitsrajim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "missierhom"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Ergħu"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "xtraw"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lna"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ftit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ikel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:12.504145062Z",
+  "model": "glm-5.3"
+}

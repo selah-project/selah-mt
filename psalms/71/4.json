@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חומץ",
+      "rationale": "Il-verb ifisser 'jibqa morr\/imrar' — stampar ta' ruħ ħarxa; bl-Ingliż 'cruel' jaqa' l-istampa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יד\/כף",
+      "rationale": "Żewġ għerq għall-idejn — id (qawwa) u kaf (ħolqien) — il-Malti 'id' u 'ħad id' għandhom il-ħoss Semitiku."
+    }
+  ],
+  "translation": "Elohim tiegħi, ħreġni minn id ir-ruħ ħażina, minn ħad id l-inġust u l-morr.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/1-4.1792617417963.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ħreġni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ir-ruħ ħażina"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "minn ħad id"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "l-inġust"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "u l-morr"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:57.964683624Z",
+  "model": "glm-5.3"
+}

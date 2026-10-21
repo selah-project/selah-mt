@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħwejjeġhom",
+      "rationale": "מדויהם = il-ħwejjeġ imserrpin twal (misjuqa bil-kejl)"
+    },
+    {
+      "kind": "crux",
+      "subject": "sal-ġinb",
+      "rationale": "המפשעה litteralment 'il-pass\/uċuħ is-saqajn', eufemiżmu għall-ġenb t'isfel — 'sa' l-irkopptejjaħ' f'xi verżjonijiet"
+    },
+    {
+      "kind": "addition",
+      "subject": "mill-ġdid",
+      "rationale": "il-verb שלח bil-prefiss jissuġġerixxi 'bagħathomhom lura\/mill-ġdid', miżjud biex jifħaħ ir-ritorn"
+    }
+  ],
+  "translation": "U Ħanun ħa ⟨את⟩ l-ilsir ta' David u ħelihom, u qata' ⟨את⟩ ħwejjeġhom min-nofs sal-ġinb, u bagħathom mill-ġdid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/19\/1-4.1792622112086.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ħanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ilsir ta' David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ilsir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "ħelihom"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħwejjeġhom"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ħwejjeġhom"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "min-nofs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "l-ġenb (il-pass)"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "bagħathom mill-ġdid"
+    }
+  ],
+  "timestamp": "2026-10-21T22:35:12.087910562Z",
+  "model": "glm-5.3"
+}

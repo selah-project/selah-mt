@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שפת",
+      "rationale": "litteralment 'xoffa' tal-baħar, imdorrija 'xatt' — il-kelma tfisser il-bord bħal xoffa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mejtin",
+      "rationale": "מת singular kollettiv, il-Malti jħares lejn il-plural"
+    }
+  ],
+  "translation": "U Jaħwe ħeles ⟨את⟩ lil Jisrael f'dak in-nhar mill-id ta' Mitsrajim, u Jisrael ra ⟨את⟩ lil Mitsrajim mejtin fuq ix-xatt tal-baħar.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "cdc43dc64a16671c25b4b9ae776611e29c5f1a761da68286b6e6686f08cdbda4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/14\/29-31.1792599547341.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "U ħeles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dak in-nhar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "f'dak in-nhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mill-id"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "u ra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mejtin"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ix-xatt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tal-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T16:19:07.342443753Z",
+  "model": "glm-5.3"
+}

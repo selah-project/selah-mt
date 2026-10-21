@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "panim be-panim",
+      "rationale": "Wiċċ ilu wiċċ: repetition of the dual 'panim' — dual form kept, 'wiċċ' repeated as in Hebrew."
+    },
+    {
+      "kind": "elision",
+      "subject": "עמכם",
+      "gloss": "'miegħkom' carries both the preposition 'im and the 2pl suffix"
+    }
+  ],
+  "translation": "Wiċċ ilu wiċċ, ġie lid Jaħwe miegħkom fuq il-muntanja, minn nofs in-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e85c301091aee2686410314a2cf8b4ca8d4ed8155c40481a274b3c012bee31b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/5\/4-4.1792623102630.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "wiċċ ilu wiċċ"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "wiċċ ilu wiċċ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ġie lid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "miegħkom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fuq il-muntanja"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "minn nofs"
+    },
+    {
+      "surface": "האש",
+      "gloss": "in-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:51:42.631620618Z",
+  "model": "glm-5.3"
+}

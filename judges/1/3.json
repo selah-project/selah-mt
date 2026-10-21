@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 1:3",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי\/אתך\/אתו",
+      "rationale": "hawnhekk את hija l-prepożizzjoni H854 'ma'', mhux il-markatur tal-oġġett; il-glossa żżomm ⟨את⟩ u żżid 'miegħi\/miegħek\/miegħu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "titla' miegħi",
+      "rationale": "imperattiv ta' appell minn Juda lil Ximun,jinħarġu flimkien"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Ximun",
+      "rationale": "indirizz diretta ta' ħu ma' ħu"
+    }
+  ],
+  "translation": "U Juda qal lil Ximun, ħuh: Titla' miegħi ⟨את⟩ f'lotti, u nġġieldu kontra l-Kennani, u jien ukoll immur miegħek ⟨את⟩ f'lottok; u Ximun mexa miegħu ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/1-4.1792606971715.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "lil Ximun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "titla'"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ miegħi"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "f'lotti"
+    },
+    {
+      "surface": "וילחמה",
+      "gloss": "u nġġieldu"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "kontra l-Kennani"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "u immur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "f'lottok"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u mexa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Ximun"
+    }
+  ],
+  "timestamp": "2026-10-21T18:22:51.716207079Z",
+  "model": "glm-5.3"
+}

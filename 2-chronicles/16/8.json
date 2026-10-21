@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 16:8",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "Il-Malti jeħtieġ is-suffiss tas-subjekt ċar qabel 'meta tktejt'; il-Lhudi għandu biss il-verb b'suffiss"
+    },
+    {
+      "kind": "measurement",
+      "subject": "għadd l-armati",
+      "rationale": "Il-vers jeżamina l-qgħas tal-qawwa tal-Kuxiti u l-Lubim"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Asa",
+      "rationale": "Mistoqsija retorika indirizzata lis-sultan Asa"
+    }
+  ],
+  "translation": "Mhux il-Kuxiti u l-Lubim kienu armata ta' ħafna, bil-karrijiet u l-kavalleria, għadd kbir bil-kbir? U int, meta tktejt fuq Jaħwe, hu tat lilhom f'idejek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "63fd7f663815361697742a1bd7efb431018d0e8c4749592c40f97d984780e334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/16\/7-8.1792624068995.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "il-Kuxiti"
+    },
+    {
+      "surface": "והלובים",
+      "gloss": "u l-Lubim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "armata"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ta' ħafna"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "bil-karrijiet"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "u l-kavalleria"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "għadd kbir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bil-kbir"
+    },
+    {
+      "surface": "ובהשענך",
+      "gloss": "u meta tktejt"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hu tat lilhom"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "f'idejek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:48.997561420Z",
+  "model": "glm-5.3"
+}

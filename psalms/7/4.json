@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "idejja",
+      "rationale": "בכפי litteralment 'f'ħolqen idejja' — il-pala tal-idejn bħala s-simbolu tal-għemil ħażin; il-Malti juża 'idejja' b'mod naturali."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עול",
+      "rationale": "'Inġustizzja' tfisser wkoll 'tirannija' u 'ħażen morali' — il-kelma tiffissa d-dritt maqtugħ (mil-verb 'jqelleż')."
+    },
+    {
+      "kind": "you",
+      "subject": "lit-temieli",
+      "rationale": "Ġurament ta' innoċenza indirizzat direttament lil Jaħwe, misluta qabel is-saltna ta' Mulej."
+    }
+  ],
+  "translation": "Jaħwe, Elohim tiegħi, jekk għamilt din id-darba, jekk hemm inġustizzja f'idejja —",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/7\/1-4.1792616570543.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "għamilt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "din id-darba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "עול",
+      "gloss": "inġustizzja"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "f'idejja"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:50.544265683Z",
+  "model": "glm-5.3"
+}

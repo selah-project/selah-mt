@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומתערה",
+      "rationale": "l-ebda kelma Maltija ċara: 'jixxerred bħal siġra mqiegħda f'art nattiva' kontra 'jinħafer \/ jitbiegħed' — KJV 'spreading himself' kontra l-qari ta' 'jintreżaq'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתערה",
+      "rationale": "forma rari ta' ערה; l-ebda preċedent ċar fit-Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nattiva",
+      "rationale": "אזרח tfisser li tikber waħedha bla tkabbir — siġra 'nattiva' taqbżilha l-forma"
+    }
+  ],
+  "translation": "Jrajt lil ħażen bjed, u jitmermir bħal siġra nattiva ħadra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4da70e56da347f1845fb1289aa23206982495aa0a5182047ad4db2de42c2215d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/34-35.1792623811892.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jrajt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "bjed"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "u jitmermir"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "bħal siġra nattiva"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ħadra"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:31.893956128Z",
+  "model": "glm-5.3"
+}

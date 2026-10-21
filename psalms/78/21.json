@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħruxija",
+      "rationale": "אף literally 'mieħar\/ħedd', il-post fejn toqgħod ir-rabja — 'ħruxija' bħala traduzzjoni tal-ġest"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u ġie mqalleb bir-rabja",
+      "rationale": "ויתעבר literally 'qabeż\/waqgħed' — il-verbi jqisu r-rabja tqabbżet fuqu; it-traduzzjoni tradizzjonali 'kien mgħaddab'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jagħaqov\/Jisrael",
+      "rationale": "l-istess bniedem b'żewġ ismijiet f'paralleliżmu, par tal-poeżija Ebrajk"
+    }
+  ],
+  "translation": "Għalhekk sema' Jaħwe, u ⟨ġie⟩ mqalleb bir-rabja, u n-nar tqabbed f'Jagħaqov, u wkoll il-ħruxija telgħet f'Jisrael,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/21-24.1792617492857.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Għalhekk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sema'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "u ⟨ġie⟩ mqalleb bir-rabja"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "u n-nar"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "tqabbed"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "f'Jagħaqov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u wkoll"
+    },
+    {
+      "surface": "אף",
+      "gloss": "il-ħruxija"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "telgħet"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:12.857822600Z",
+  "model": "glm-5.3"
+}

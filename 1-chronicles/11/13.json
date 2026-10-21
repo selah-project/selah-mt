@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 11:13",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "דמים",
+      "rationale": "בפס דמים is one place-name, Pas-Dammim; rendered once, the second token elided into it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-għalqa",
+      "rationale": "חלקת השדה is literally 'the smooth portion of the field'; 'parcel of field' loses the 'smoothness' of the root"
+    }
+  ],
+  "translation": "Hu kien ma' David f'Pasmamim, u l-Filisti ġabru hemm għall-ġlied, u kien hemm parċella ta' għalqa mimlija xgħir, u n-nies ħarbu mill-quddiem tal-Filisti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/11\/13-16.1792621880838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בפס",
+      "gloss": "f'Pasmamim"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Pasmamim"
+    },
+    {
+      "surface": "והפלשתים",
+      "gloss": "u l-Filisti"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ġabru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "għall-ġlied"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "u kien hemm"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "parċella ta' għalqa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ta' l-għalqa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mimlija"
+    },
+    {
+      "surface": "שעורים",
+      "gloss": "xgħir"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "u n-nies"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "ħarbu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mill-quddiem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "tal-Filisti"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:20.838551953Z",
+  "model": "glm-5.3"
+}

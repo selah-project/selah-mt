@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הר הבית",
+      "rationale": "'il-għolja tad-dar' — d-Dar ta' Jaħwe fuq il-għolja, mhux 'it-tempju' b'reġister ieħor."
+    },
+    {
+      "kind": "addition",
+      "subject": "bħal",
+      "rationale": "It-tqabbil fil-Lhudi hu hint mil-kostruzzjoni (Sijon għal raba' jitħarret); bil-Malti t-tqabbil jippretendi 'bħal'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עיין (plural ta' עי)",
+      "rationale": "Il-forma plural 'għomied' (ruins) — rit għoli ta' εμφasi fil-profezija."
+    }
+  ],
+  "translation": "Għalhekk, minħabba fikom, Sijon bħal għal raba' jitħarret, u Jeruxalajim fdal se jkun, u l-għolja tad-dar għal għoljiet ta' foresta.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/3\/9-12.1792615890669.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Għalhekk"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "minħabba fikom"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijon"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "bħal għal raba'"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "titħarret"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "u Jeruxalajim"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "fdal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se jkun"
+    },
+    {
+      "surface": "והר",
+      "gloss": "u l-għolja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "għal għoljiet"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ta' foresta"
+    }
+  ],
+  "timestamp": "2026-10-21T20:51:30.671022218Z",
+  "model": "glm-5.3"
+}

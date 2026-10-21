@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tiddeċiedi",
+      "rationale": "ידון: 'tiddeċiedi\/tiġġieled' (KJV) kontra 'tibqa' fih' (JPS) kontra 'tħokom fih' — għerq דין, ġudizzju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשגם",
+      "rationale": "ħaqq il-kliem בשגם (b+שגם) jiġi 345, l-istess bħala משה — rabta qariba li tinħass biss bil-Lhudi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mija u għoxrin sena",
+      "rationale": "ħaddan ta' tul ta' ħajja l-bniedem: mija u għoxrin sena"
+    }
+  ],
+  "translation": "U Jaħwe qal: Ruwaħi ma tibqax tiddeċiedi fil-bniedem għal dejjem, għax huwa ġisem; u jkunu jiemu mija u għoxrin sena.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6f5d05b1df75c4da68acb387328f8973e4461c646bc8fa20ef3651a80ebcbaf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/6\/1-4.1792597864708.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma... x"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "tiddeċiedi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruwaħi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "fil-bniedem"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ġisem"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u jkunu"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jiemu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mija"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:04.710000123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mifsigħa",
+      "rationale": "פדות huwa 'feda\/likwidazzjoni' — kif in-negozju jitħallas bil-ħlas aħħari; l-għerq huwa d-dritt ta' ġens li jitħallas"
+    },
+    {
+      "kind": "crux",
+      "subject": "ta' biża'",
+      "rationale": "ונורא: 'ta' biża'' (li jagħmel biża') vs 'li jistabħu bih' — il-għerq nora jforsiż biż'"
+    }
+  ],
+  "translation": "Mifsigħa bagħat lil niesu, ordna għal-dejjem il-patt tiegħu; qaddis u ta' biża' ismu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3d0d79f417cfc063cb98df650bd48ac96a0a54a77425f65a217d1ebd36307cb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/111\/9-10.1792617934172.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "mifsigħa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "lil niesu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il-patt tieg׈u"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "u ta' biża'"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:34.173295494Z",
+  "model": "glm-5.3"
+}

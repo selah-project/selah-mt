@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajil",
+      "rationale": "חיל = qawwa, għana, saltna; il-Malti 'ħajil' miżmum qrib tal-ħoss Lhudi"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפנינים",
+      "rationale": "'inċjus' (pearls) kontra 'rubini' (KJV); il-kelma forsi ġejja mill-għerq 'maqsum' ta' ħaġar prezzjuż"
+    },
+    {
+      "kind": "addition",
+      "subject": "tagħha",
+      "rationale": "il-pronum possessiv miżjud bil-Malti għall-kostrutt אשת חיל u מכרה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי ימצא",
+      "rationale": "misturija retorika; tinbidel ftit bil-Malti"
+    }
+  ],
+  "translation": "Mara ta' ħajil, min isibha? U l-valur tagħha jibqa' mbiegħed minn ta' l-inċjus.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0437cc7cc20a1a92dc321cc77a67ec604aecf5ac30fad65e8c641c713fa04f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/31\/9-12.1792618963855.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ta' ħajil"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "isibha"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "jibqa' mbiegħed"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "minn ta' l-inċjus"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "l-valur tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:43.855992271Z",
+  "model": "glm-5.3"
+}

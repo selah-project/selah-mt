@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n-nefes",
+      "rationale": "נפש hija n-nifs \/ il-ħajja fi ħdan il-ġisem, mhux ruħ platoniċa"
+    },
+    {
+      "kind": "crux",
+      "subject": "והות",
+      "rationale": "ħawwa: 'il-wedd\/l-għan' (KJV substance) jew 'il-ħsara' — il-Lhudi jiflaħ donnu dak li jiġi mbuttat"
+    }
+  ],
+  "translation": "Jaħwe ma jħallix li n-nefes tal-ġust titħallat bil-ġuħ; u l-wedd tan-nies ħżiena jitwarrab 'l bogħod.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/1-4.1792618547404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "jħallix li titħallat bil-ġuħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "n-nefes"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tal-ġust"
+    },
+    {
+      "surface": "והות",
+      "gloss": "u l-wedd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tan-nies ħżiena"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "jitwarrab 'l bogħod"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:47.404766010Z",
+  "model": "glm-5.3"
+}

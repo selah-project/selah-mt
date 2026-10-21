@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-ħażen",
+      "rationale": "אָוֶן huwa litteralment 'bla xejn \/ bla valur'; 'l-ħażen' huwa qari possibbli wieħed"
+    },
+    {
+      "kind": "addition",
+      "subject": "'l isfel",
+      "gloss": "דָּחָה tfisser 'imbutta'; 'l isfel miżjud biex juri d-direzzjoni"
+    }
+  ],
+  "translation": "Hemm waqgħu l-ħaddiema ta' ⟨l-ħażen⟩, ġew imbuttati 'l isfel u ma jistgħux iqumu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/36\/13-13.1792616891150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "Hemm"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "waqgħu"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "l-ħaddiema"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "ta' ⟨l-ħażen⟩"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "ġew imbuttati 'l isfel"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "jistgħux"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "iqumu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:11.151000377Z",
+  "model": "glm-5.3"
+}

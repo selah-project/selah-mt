@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהי hawnhuma l-idoli ta' Laban, għalhekk 'l-allat' b'ittra żgħira (Eżodu 32:8), mhux Elohim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך הלכת \/ נכסף נכספתה",
+      "rationale": "l-infinitiv assolut mittief ma' jaqtax: 'tmur mdejt', 'xtħint xtħint' — intonazzjoni mgħollija"
+    },
+    {
+      "kind": "you",
+      "subject": "il-mistoqsja lil Jagħaqov",
+      "rationale": "mistoqsja diretta dwar is-serqa tal-allat"
+    }
+  ],
+  "translation": "U issa tmur mdejt, għax xtħint xtħint għal dar missierek; għaliex serqtili ⟨את⟩ l-allat tiegħi?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/29-32.1792598601855.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tmur"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "mdejt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "xtħint"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "xtħint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "għal dar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "missierek"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "serqtili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-allat tiegħi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l-allat tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T16:03:21.856333086Z",
+  "model": "glm-5.3"
+}

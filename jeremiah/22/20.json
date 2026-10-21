@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 22:20",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Jerusalem",
+      "rationale": "Feminine singular imperatives summon the city to mount the heights and wail."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעברים",
+      "rationale": "Taken as place-name Abarim (as JPS, ASV) rather than common noun 'the passages\/crossings' (as KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "inkerbsu",
+      "rationale": "נשברו 'smashed, shattered' — inkerbsu keeps the breaking image; 'destroyed' flattens it."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem\/Judah",
+      "rationale": "Direct second-person feminine address: all your lovers are shattered."
+    }
+  ],
+  "translation": "Tla' fuq il-Libanu u agħti ħajta; u f'Baxan agħti leħnek; u għajjat minn Abarim, għax inkerbsu kollha dawk li jħobbuk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "57e8b7b02a91eebffea8be6a40f3ec6c100fab1a139dfb9a83f6c0de22a0f43e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/22\/17-20.1792612960448.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Tla'"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "fuq il-Libanu"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "u agħti ħajta"
+    },
+    {
+      "surface": "ובבשן",
+      "gloss": "u f'Baxan"
+    },
+    {
+      "surface": "תני",
+      "gloss": "agħti"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "leħnek"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "u għajjat"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "minn Abarim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נשברו",
+      "gloss": "inkerbsu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "dawk li jħobbuk"
+    }
+  ],
+  "timestamp": "2026-10-21T20:02:40.449771183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע \/ נשבעו",
+      "rationale": "place-name Beer-Sheva reads both 'well of seven' (v.28-30) and 'well of the oath' — the Hebrew pun is lost in Maltese"
+    },
+    {
+      "kind": "crux",
+      "subject": "Beer-Xeva",
+      "rationale": "name read as 'well of seven' or 'well of swearing'; both senses are live in this narrative"
+    }
+  ],
+  "translation": "Għalhekk jissejjaħ dak il-post Beer-Xeva, għax hemm ħalaf it-tnejn lihom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c1f4d924f7d1fc36560f46f583846f6bfc4d6ac60649151cdc49f13bce3e9e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/21\/29-32.1792598167620.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jissejjaħ"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "dak il-post"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Xeva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ħalaf"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "it-tnejn lihom"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:07.621049030Z",
+  "model": "glm-5.3"
+}

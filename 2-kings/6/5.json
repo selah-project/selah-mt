@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minnhom",
+      "rationale": "l-artiklu Lhudi l-ahdar ma jigi mkabbritx; 'wiehed' biz-zidt ta' 'minnhom' għall-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-verbu 'kien' li l-Malti jehtieg ghal 'it was borrowed', li l-Lhudi jahbi"
+    },
+    {
+      "kind": "crux",
+      "subject": "misluf",
+      "rationale": "שאול 'misluf\/talba' (gherq שאל 'taleb') — traduzzjonijiet qodma jqisu 'it was borrowed'; YLT zomm 'it asked' litteral"
+    }
+  ],
+  "translation": "U meta wieħed minnhom kien qieghed jaqta' l-inġin tal-virga, ⟨את⟩ il-ħadid jaqa' fl-ilma; u huwa għajjat u qal: Jaħasra, sidni, u huwa ⟨kien⟩ misluf!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/6\/5-8.1792610192248.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U meta kien"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wieħed minnhom"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "kien qieghed jaqta'"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "l-inġin tal-virga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħadid"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il-ħadid"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fl"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "u huwa għajjat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Jaħasra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidni"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u huwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "misluf"
+    }
+  ],
+  "timestamp": "2026-10-21T19:16:32.248853286Z",
+  "model": "glm-5.3"
+}

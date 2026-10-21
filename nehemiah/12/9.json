@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-Lhudi ma għandux copula; il-Malti jeħtieġha għall-ħolja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għassa",
+      "rationale": "למשמרות tfisser il-għassa\/ilm-għassa post ta' għassa, mhux sempliċiment 'uffiċċju'"
+    }
+  ],
+  "translation": "U Baqbuqjah u Għanni, aħwa tagħhom, kienu quddiemhom fil-għassa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/12\/9-12.1792621582150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "U Baqbuqjah"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "u Għanni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "aħwa tagħhom"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "quddiemhom"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "fil-għassa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:26:22.150543281Z",
+  "model": "glm-5.3"
+}

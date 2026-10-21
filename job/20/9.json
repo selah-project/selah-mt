@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ma tizidx taraħ",
+      "rationale": "תוסיף (sew) ma was literally 'shall not add (to see)', so 'shall not go on seeing him' is the second possible reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שזפתו \/ תשורנו",
+      "rationale": "verbi tad-dehjen tal-għajn: tnejn ta' ħars 'l barra, parallel ma' Ġob 20:8, inżamm ir-repetiżjoni 'ma ... iktar ... ma ... iktar'."
+    }
+  ],
+  "translation": "Għajn li rathu ma tizidx taraħ, u ma taraħ iktar f'postu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/20\/9-12.1792619395334.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "għajn"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "li rathu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "tizidx"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "taraħ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "f'postu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:55.335476511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקלה",
+      "rationale": "'Ħruq\/isteħraq' kontra YLT 'drought' (ħalq) u KJV 'loathsome disease' — verb rare mill-għerq ta' xaħam imkejken."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתם",
+      "rationale": "Kelma rari — 'saħħa sħiħa\/integrità'; sens fiżiku jew morali mhux ċert."
+    }
+  ],
+  "translation": "Għax kliewi mlewwin bl-ħruq, u m'hemmx saħħa f'laħmi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/38\/5-8.1792616917584.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "kliewi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mlewwin"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "bl-ħruq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemmx"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "saħħa"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "f'laħmi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:37.585705913Z",
+  "model": "glm-5.3"
+}

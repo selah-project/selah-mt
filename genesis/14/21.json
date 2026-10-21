@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-erwieħ",
+      "rationale": "נפש hawn tfisser il-persuni ħajjin (dawk li jieħdu n-nifs), mhux 'ruħ'"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Avram",
+      "rationale": "Addressed dirett lis-sultan Sedom lil Avram, imperattiv 'agħti'"
+    }
+  ],
+  "translation": "U sultan Sedom qal lil Avram: Agħtini l-erwieħ, u l-ġeid ħu ⟨għalik⟩.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "d8ba334136d15a1e124145b15aa64fc074c5f17fe53693ab422d7a88216e5001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/14\/21-24.1792597954729.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "תן",
+      "gloss": "agħti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "l-erwieħ"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "u l-ġeid"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:34.729840270Z",
+  "model": "glm-5.3"
+}

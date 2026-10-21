@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קץ\/הקיץ",
+      "rationale": "Paronomasia: qets (end) and heqits (it awoke) share consonants — the end 'wakes up', partly lost in Maltese."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בא בא",
+      "rationale": "Staccato repetition of 'come' drives the drumbeat of doom."
+    }
+  ],
+  "translation": "Tmiem ġie, ġie t-tmiem; qajjem ruħu kontrik; ara, gejja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d81ea06f4e6d9b6e971559f65f7fa8c907b7f81dbccbee3845f6da485cec5a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/7\/5-8.1792614144002.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "Tmiem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "t-tmiem"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "qajjem ruħu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gejja"
+    }
+  ],
+  "timestamp": "2026-10-21T20:22:24.003235295Z",
+  "model": "glm-5.3"
+}

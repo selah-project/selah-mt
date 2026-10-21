@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "xxerrdu",
+      "rationale": "ויתיכו litteralment 'ifnew\/barrew' (bħal likwidu); ylt\/asv\/jps iżommu 'emptied out \/ poured out'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "f'idejn",
+      "rationale": "'al yad, 'fuq id', idjoma għal 'f'idejn \/ taht il-kontroll ta'"
+    }
+  ],
+  "translation": "U xxerrdu ⟨את⟩ l-fidda li nstabet fid-dar ta' Jaħwe, u tawha f'idejn dawk l-inkarjati, u f'idejn dawk li jagħmlu l-ħidma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "834726cfbac34520d6037b08b427a57f1b470e3057b2e15497643291537dcbd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/34\/17-20.1792622978593.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "u xxerrdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-fidda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l-fidda"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "li nstabet"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "u tawha"
+    },
+    {
+      "surface": "על",
+      "gloss": "f'"
+    },
+    {
+      "surface": "יד",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "dawk l-inkarjati"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u f'"
+    },
+    {
+      "surface": "יד",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "dawk li jagħmlu"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "l-ħidma"
+    }
+  ],
+  "timestamp": "2026-10-21T22:49:38.594355504Z",
+  "model": "glm-5.3"
+}

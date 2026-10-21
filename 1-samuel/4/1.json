@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eben-ha-Ezer",
+      "rationale": "l-isem ifisser 'il-ġebla ta' l-għajnuna' iżda jibqa' isem ta' post, mhux tradott"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "gloss": "il-qedem jinħareġ f'ġibda waħda man-narrattiva; 'u ġriet' iġġib biss il-ħila tal-ftuħ"
+    }
+  ],
+  "translation": "U l-kelma ta' Samwel ġriet lil Jisrael kollu, u Jisrael ħareġ biex jilħaq lil-Pelixtin għall-ġlied, u kkampaw ħdejn Eben-ha-Ezer, u l-Pelixtin kkampaw f'Afeq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/4\/1-4.1792607727235.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġriet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "l-kelma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ta' Samwel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lil kollu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u ħareġ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "biex jilħaq"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "lil-Pelixtin"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "għall-ġlied"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "u kkampaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ħdejn"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "l-Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "u l-Pelixtin"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "kkampaw"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "f'Afeq"
+    }
+  ],
+  "timestamp": "2026-10-21T18:35:27.236003937Z",
+  "model": "glm-5.3"
+}

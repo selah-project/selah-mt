@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lekhek",
+      "rationale": "qolek\/thy voice in 8:13 supplied as leħnek; the Hebrew says 'your voice' both times."
+    },
+    {
+      "kind": "alternative",
+      "subject": "tal-aromi",
+      "rationale": "בשמים literally 'balsam\/fragrant spices' — could also render 'tal-balsam'."
+    }
+  ],
+  "translation": "Aħrab, ħabib tiegħi, u kun qisek kavriol jew ċerv żgħir fuq il-muntanji tal-aromi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/8\/13-14.1792619870676.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "aħrab"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ħabib tiegħi"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "u kun qisek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨jek⟩"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "kavriol"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ċerv żgħir"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ta' l-iċċerċijiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "il-muntanji"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "tal-aromi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:57:50.676885523Z",
+  "model": "glm-5.3"
+}

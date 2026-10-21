@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "שריד",
+      "rationale": "litteralment 'dak li baqa' — il-qedes iqiegħed 'skappati', il-plural tal-kollettiv"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמינו",
+      "rationale": "minn għerq דמה (ixbaħ) — minn fuq hemm ukwel דם (demm): il-bniedem jispiċċa bħalissa bħal id-demm meqrud"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jirrikjedi l-verb għall-kundizzjonali li ma tiddikjarax il-Lhud"
+    }
+  ],
+  "translation": "Kieku Jaħwe Tsebawot ma kien ħallielna skappati, ftit kemm huma, kien inkunu bħas-Sedhom, bħal-Għomorra kien nxebbħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/1\/9-12.1792610891087.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Kieku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "ma kien ħallielna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    },
+    {
+      "surface": "שריד",
+      "gloss": "skappati"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ftit kemm huma"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "bħas-Sedhom"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kien inkunu"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "bħal-Għomorra"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "kien nxebbħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:11.087588338Z",
+  "model": "glm-5.3"
+}

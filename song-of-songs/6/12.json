@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "'Ami-Nadib' bħala isem ta' persuna (Amminadib) kontra 'niesi n-nobbli' — l-eqdem traduzzjonijiet ma jaqblux"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hi eqar għal 'ħajja\/nifs\/appetit' milli 'ruħ' f'sens platoniku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨fost⟩",
+      "rationale": "Il-Lhudi għandu biss 'karettja ta'' — il-prepożizzjoni miżjuda bil-Malti"
+    }
+  ],
+  "translation": "Ma kontx naf; ruħi poġġietni ⟨fost⟩ karettja ta' niesi n-nobbli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/6\/9-12.1792619903339.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kontx naf"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "poġġietni"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "karettja"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ta' niesi"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "n-nobbli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:23.340943406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבות",
+      "rationale": "Għerq wieħed shuv darba biss f'dan il-vers — 'reġġgħet lura l-eżilju' — il-ħoss jintilef bil-Malti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "reġģeft lura l-eżilju",
+      "rationale": "שׁוּב שְׁבוּת litteralment 'taġħmel l-eżilju jirġa' lura', idjom għal 'rrestitwixxi l-ġid ta' qabel'"
+    }
+  ],
+  "translation": "Kont iltiem, Jaħwe, ma' l-art tiegħek; reġġgħet lura ⟨את⟩ l-eżilju ta' Jagħaqov.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/85\/1-4.1792617578344.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "kont iltiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "l-art tiegħek"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "reġģeft lura"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "l-eżilju"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:38.345066015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנה הודך על השמים",
+      "rationale": "' tajt il-ġmiel fuq is-smajjiet' kontra qari bħal JPS 'irrepetieth' (mill-għerq נהה); l-aktar qari hu ta' נתן"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Appell dirett lil Jaħwe mill-qeddi"
+    }
+  ],
+  "translation": "Jaħwe, sidna, kemm ⟨hu⟩ kbir ismek f'l-art kollha; li tajt il-ġmiel tiegħek fuq is-smajjiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/1-4.1792616528945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "sidna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'l-art kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "f'l-art kollha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "tajt"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "il-ġmiel tiegħek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smajjiet"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:08.946382053Z",
+  "model": "glm-5.3"
+}

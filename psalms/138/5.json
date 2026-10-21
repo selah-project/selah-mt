@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "L-Lhudi m'għandux kopula; il-Malti jeħtieġha għas-sentenza nominali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה...יהוה",
+      "rationale": "Inklussjoni: l-Isem jiftaħ u jagħlaq il-vers, struttura li tinżamm bil-Malti"
+    }
+  ],
+  "translation": "U jgħannu fit-toroq ta' Jaħwe, għax kbir ⟨huwa⟩ l-ġieħ ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/138\/5-8.1792618233996.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "u jgħannu"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "fit-toroq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-ġieħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:33.997162584Z",
+  "model": "glm-5.3"
+}

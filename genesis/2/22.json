@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויבן",
+      "rationale": "il-Lhudi jgħid 'bena' bħal ma tinktana dar jew tempju — stamp ta' binja, mhux sempliċiment 'għamel'"
+    },
+    {
+      "kind": "addition",
+      "subject": "[u għamilha]",
+      "rationale": "il-לאשה tradott b'verb miżjud biex il-Malti jifhem"
+    }
+  ],
+  "translation": "U Jaħwe Elohim bena ⟨את⟩ l-għadma tal-ġenb li kien ħa mill-bniedem, [u għamilha] mara, u daħħalha għand il-bniedem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/2\/21-24.1792597678448.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għadma tal-ġenb"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "l-għadma tal-ġenb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kien ħa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "[u għamilha] mara"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "u daħħalha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T15:47:58.449540335Z",
+  "model": "glm-5.3"
+}

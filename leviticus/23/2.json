@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil wlied Jisrael",
+      "rationale": "Kellim imperattiv indirizzat direttament lill- Israelis permezz ta' Moxe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקראו\/מקראי",
+      "rationale": "Il-verb 'tsejħu' u s-sustantiv 'miktuba' ġejjin mill-istess għerq קרא — magħqudin il-Malti bħal fil-Lhudi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moedim",
+      "rationale": "מועדים tfisser 'ħinijiet maħtuta\/appuntamenti'; miżmum qrib tal-Lhudi bħala 'moedim' għax 'festi' waħedha titlef il-ħlas tal-ħin maħtut."
+    }
+  ],
+  "translation": "Kellim lil wlied Jisrael u għidilhom: il-moedim ta' Jaħwe, dawk li tsejħu ⟨את⟩ bħala miktuba qaddisa — dawn huma moedijieti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/23\/1-4.1792601132310.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kellim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "u għidilhom"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "il-moedim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dawk li"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "tsejħu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "miktuba qaddisa"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "miktuba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddisa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "moedijieti"
+    }
+  ],
+  "timestamp": "2026-10-21T16:45:32.310850231Z",
+  "model": "glm-5.3"
+}

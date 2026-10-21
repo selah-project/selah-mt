@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Copula supplied in Maltese, Hebrew lacks it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורת kept as Tora per the fixed glossary, not 'liġi'."
+    }
+  ],
+  "translation": "Din hija t-Tora ta' dak li għandu żgħira, u ta' dak li joħroġ minnu l-mixja ta' żerriegħa għal niġġisma biha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/29-32.1792600906072.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "it-Tora"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ta' dak li għandu żgħira"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "u ta' dak li"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "il-mixja"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ta' żerriegħa"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "għal niġġisma"
+    },
+    {
+      "surface": "בה",
+      "gloss": "biha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:46.073236125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "kbar",
+      "rationale": "רבים can mean 'many' (quantity) or 'great'; 'great nations' is the other reading."
+    }
+  ],
+  "translation": "li ħassar ġnus kbar, u qatel slaten qawwijin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/135\/9-12.1792618189217.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "li ħassar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ġnus"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kbar"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "u qatel"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "slaten"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "qawwijin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:49.218213207Z",
+  "model": "glm-5.3"
+}

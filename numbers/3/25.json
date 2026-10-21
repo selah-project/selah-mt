@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-kopertura tagħha",
+      "rationale": "il-pronom possessiv Malti għal מכסהו jirreferi għall-Mixkan u t-tenda flimkien"
+    },
+    {
+      "kind": "elision",
+      "subject": "il-verb 'jkun'",
+      "rationale": "l-Ebrajk għandu nomi biss; il-Malti juża l-ċentru biex joħloq sentenza"
+    }
+  ],
+  "translation": "U l-għassa tal-iben ta' Gerxon fit-tenda tal-laqgħa: il-Mixkan u t-tenda, il-kopertura tagħha, u l-velu ta' bieb it-tenda tal-laqgħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f002afddf14d9efe08c1955bed26c958743be818b4f50a1566dd794b04db758",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/25-28.1792602373566.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרת",
+      "gloss": "U l-għassa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tal-iben"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ta' Gerxon"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "fit-tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il-Mixkan"
+    },
+    {
+      "surface": "והאהל",
+      "gloss": "u t-tenda"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "il-kopertura tagħha"
+    },
+    {
+      "surface": "ומסך",
+      "gloss": "u l-velu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ta' bieb"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "it-tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:13.567743254Z",
+  "model": "glm-5.3"
+}

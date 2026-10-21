@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "minn Elohim",
+      "rationale": "מאלהים qiegħed方方面面: 'minn Elohim' (Ġeneva, ASV) kontra 'mill-anġli' (KJV, LXX); it-test jgħid Elohim."
+    },
+    {
+      "kind": "alternative",
+      "subject": "tnaqqashu ftit",
+      "rationale": "Jista' jqis 'ftit inqas minn Elohim' — l-istess struttura, aktar idjomatiku."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Il-vers jindirizza lil Jaħwe b'second persuna, tema tal-salm."
+    }
+  ],
+  "translation": "Tnaqqashu ftit minn Elohim, u b'glorja u b'ġmiel tikkurunah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ac5561097db4662b8e19ba06c397353c458f5771d0c853653abbf91c5a0896c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/8\/6-7.1792623729025.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "tnaqqashu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ftit"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "minn Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "b'glorja"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "u b'ġmiel"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "tikkurunah"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:09.025634332Z",
+  "model": "glm-5.3"
+}

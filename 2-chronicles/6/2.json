@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiegħek",
+      "rationale": "Il-Lhudi għandu suffiss possessiv f'לשבתך; il-pronom Malti jikkonferma lil min jixbaq"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fegħda",
+      "rationale": "שבת hawn tfimmer 'toqgħod, tgħammor' — bilqiegħda stabbli"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבל",
+      "rationale": " Kelma rari ta' residenza sabiħa, użata f'poetiżmu rjali"
+    }
+  ],
+  "translation": "U jien bnejt dar ta' residenza għalik, u mkien stabbli għall-fegħda ⟨tiegħek⟩ għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/1-4.1792622381384.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "bnejt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ta' residenza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "u mkien stabbli"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "għall-fegħda tiegħek"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:41.385550486Z",
+  "model": "glm-5.3"
+}

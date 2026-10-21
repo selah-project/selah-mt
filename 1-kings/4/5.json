@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Lhudi m'għandux copula; żżid ⟨kien⟩ bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "ħabib ir-re",
+      "rationale": "רעה המלך: 'ħabib ir-re' (titlu uffiċjali) kontra 'suldat tar-re' minn רעה; KJV iqis 'ħabib' bħala titularju"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-istazzjonati",
+      "rationale": "הנצבים: dawk maqtugħin\/stazzjonati bħala uffiċjali; 'l-gvernaturi' jaqtgħu l-forma tad-doppju ta' נצב"
+    }
+  ],
+  "translation": "U Azarjahu bin Natan ⟨kien⟩ fuq l-istazzjonati; u Zabud bin Natan, qassis, ⟨kien⟩ ħabib ir-re.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/4\/5-8.1792609336983.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "U Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "l-istazzjonati"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "u Zabud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qassis"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħabib"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    }
+  ],
+  "timestamp": "2026-10-21T19:02:16.983819021Z",
+  "model": "glm-5.3"
+}

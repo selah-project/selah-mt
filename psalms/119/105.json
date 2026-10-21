@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "triqti",
+      "rationale": "נתיבה hi triq mgħaffġa, mogħdija mitħatta — mhux triq kwalunkwe"
+    }
+  ],
+  "translation": "Kenju għal riġlej hija kelmetk, u dawl għal triqti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/105-108.1792618007228.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "kenju"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "għal riġlej"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kelmetk"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "u dawl"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "għal triqti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:47.228841057Z",
+  "model": "glm-5.3"
+}

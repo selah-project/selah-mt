@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "L-Ingliż il-Lhudi ma għandux kopula; żidna ⟨hi⟩ bil-Malti"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Il-predikat relattiv ġie mmarkar b'sempliċi 'li', mingħajr ekwivalenti eżatt"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Noċeħ",
+      "rationale": "Dwarorthand direkt ta' Elohim ma' Noċeħ"
+    }
+  ],
+  "translation": "U Elohim qal lil Noċeħ: Din ⟨hi⟩ s-sinjal tal-patt li qajmt bejni u bejn kull laħam li hemm fuq l-art.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "d6e25f5d983e9c8a7e8f75e5177c9253f6fce8d1dbb674a2fb616b5055bb201b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/9\/17-20.1792597798715.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noċeħ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "אות",
+      "gloss": "s-sinjal"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "tal-patt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "qajmt"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "bejni"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:58.716074602Z",
+  "model": "glm-5.3"
+}

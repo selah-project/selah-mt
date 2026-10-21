@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "היתדת",
+      "gloss-rationale": "id-data tal-lemma tagħti l-glossa ta' din id-dħula fil-lista ta' hawn fuq",
+      "rationale": "il-glossa ta' היתדת (l-aktar tal-ħjut) tgħaddi mal-glossa ta' וכol f'Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "kopula miżjuda bil-Malti, għaliex il-Lhudi ma għidhiex"
+    },
+    {
+      "kind": "measurement",
+      "subject": "l-inventarju tal-Mixkan",
+      "rationale": "il-vers jagħlaq l-elogġju tal-materjali tal-Mixkan u l-bitħa"
+    }
+  ],
+  "translation": "U l-panċiri kollha tal-Mixkan u tal-bitħa madwar, kienu ta' nawar.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4a5e2a2c61cf1a271f164d4b8a06bdf8782e2edd23c52536f7d5b34367f94980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/38\/17-20.1792600332338.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "u l-panċiri kollha"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": ""
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tal-Mixkan"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "u tal-bitħa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ta' nawar"
+    }
+  ],
+  "timestamp": "2026-10-21T16:32:12.340067977Z",
+  "model": "glm-5.3"
+}

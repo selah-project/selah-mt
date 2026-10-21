@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "בהבל 'nifs\/ċpar, vanity' mgħoddija bħala f'ċpar — ħoss li jgħib, mhux biss 'vanità'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בבהלה",
+      "rationale": "'paniku\/terrur subitanju' — xi traduzzjonijiet 'trouble', oħrajn 'terror'"
+    }
+  ],
+  "translation": "Għalhekk ġab fi tmiem il-ġranjil tagħhom f'ċpar, u s-snin tagħhom fil-biża' kbira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/33-36.1792617474345.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ġab fi tmiem"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "f'ċpar"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "il-ġranjil tagħhom"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "u s-snin tagħhom"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "fil-biża' kbira"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:54.346257128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefexna",
+      "rationale": "נפשנו 'nefesh tagħna' — ruħ\/ħajja\/xewqa; hawn tgħid 'xewqa tagħna' skont is-slot"
+    },
+    {
+      "kind": "crux",
+      "subject": "האח",
+      "rationale": "'ħaħa!' — il-ħsejjes tal-għedewwa; xi traduzzjonijiet jagħmluha frażi sħiħa 'hekk ridna'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האח \/ בלע",
+      "rationale": "il-ħlewwa ta' bl-għajn ta' בלענוהו wara l-ħatra ta' האח"
+    }
+  ],
+  "translation": "Ħallihom mhumiex jgħidu f'qalbhom: Ħaħa, ix-xewqa tagħna! Ħallihom mhumiex jgħidu: Blienajnieh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/35\/25-28.1792616973552.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mhumiex jgħidu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "f'qalbhom"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ħaħa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ix-xewqa tagħna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mhumiex jgħidu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jgħidu"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Blienajnieh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:33.552969612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "chiastic framing",
+      "rationale": "v.5 u v.6 jibdew bl-istess kelma חבלי — paralelliżmu hebbel mawet \/ hebbel xeol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qabluni",
+      "rationale": "קדמוני 'laqgħuni qabel \/ tellgħuni quddiem' — 'prevented' ta' KJV hu sens antik ta' precede"
+    }
+  ],
+  "translation": "Ħbula ta' Xeol dawrew madwari, qabluni in-nasa tal-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/5-8.1792616614029.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "ħbula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ta' Xeol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dawrew madwari"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "qabluni"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "in-nasa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tal-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:34.030495683Z",
+  "model": "glm-5.3"
+}

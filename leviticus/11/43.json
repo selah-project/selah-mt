@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħkom",
+      "rationale": "נפש hija l-ħajja\/nifs, mhux ruħ immortali fil-ktib ta' wara"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Qaddejja\/Lil Jisrael",
+      "rationale": "Projbizzjoni diretta lis-smigħ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ruħkom (it-tieni darba)",
+      "rationale": "Il-Malti jehtieġ oġġett għal tniġġsux, għalkemm il-Lhudi għandu biss בהם"
+    }
+  ],
+  "translation": "La tagħmlux ⟨את⟩ ruħkom obbroġju f'kull dak li jitkaxkar, u la tniġġsux ruħkom bihom, u tkunu mniġġsa bihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/41-44.1792600690269.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "tagħmlux…obbroġju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruħkom"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ruħkom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kull"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "dak li jitkaxkar"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "jitkaxkar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tniġġsux"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bihom"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "u tkunu mniġġsa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bihom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:38:10.270927575Z",
+  "model": "glm-5.3"
+}

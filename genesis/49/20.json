@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħlewwiet",
+      "rationale": "מעדני hija delikaċezz\/ħlewwa ta' mejjed irjali; 'ħlewwiet' jaqbad it-togħma iżda mhux is-semi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר\/שמנה",
+      "rationale": "Semm il-iben 'Axer' (seħħ) filwaqt li ħobżu 'semien' — ħoss qarib bejn l-isem u l-kelma li ma joħroġx bil-Malti"
+    }
+  ],
+  "translation": "Minn Axer ħobżu jkun semien, u hu jagħti l-ħlewwiet tas-sultan.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/49\/17-20.1792599166259.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Minn Axer"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "semien"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ħobżu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jagħti"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "l-ħlewwiet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tas-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:46.260455990Z",
+  "model": "glm-5.3"
+}

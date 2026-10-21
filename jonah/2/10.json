@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "noffri qerq",
+      "rationale": "אזבחה tfisser litteralment 'inżboħ' (inħatteb bħal sagrifiċċju); 'noffri' bil-⟨qerq> miżjuda biex il-ħoss tal-verb jinżamm"
+    }
+  ],
+  "translation": "U jien b'leħen ta' radd il-ħajr noffri ⟨qerq⟩ għalik; dak li nadart inħallas: is-salvazzjoni ⟨hi⟩ ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/2\/9-11.1792615743426.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "U jien"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "b'leħen"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ta' radd il-ħajr"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "noffri ⟨qerq⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "nadart"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "inħallas"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "is-salvazzjoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:03.426983368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויהי למס עבד",
+      "rationale": "KJV 'serve under tribute' kontra ASV\/JPS 'servants to do taskwork' — מס hu tassja fix-xogħol furzat, mhux ħlas sempliċi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qaddej",
+      "rationale": "עבד tfisser 'jaħdem, jaqdi' — l-għoli tal-verb jinkludi l-jasar tal-Ġudew li ma keċċiex lill-abitanti"
+    }
+  ],
+  "translation": "U ma keċċewx lil ⟨את⟩ il-Kenaani li kien jgħix f'Gazer; u l-Kenaani baqa' jgħix f'nofs Efrajim sal-ġurnata ta' llum, u sar ġbir tax-xogħol, qaddej.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/16\/9-10.1792606633461.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma ... x"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "keċċew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "lil il-Kenaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "li kien jgħix"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "f'Gazer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u baqa' jgħix"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il-Kenaani"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta' llum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u sar"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ġbir tax-xogħol"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qaddej"
+    }
+  ],
+  "timestamp": "2026-10-21T18:17:13.461846670Z",
+  "model": "glm-5.3"
+}

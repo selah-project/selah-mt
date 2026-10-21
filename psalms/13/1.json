@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "titlu tekniku: 'lill-għalliem (tal-kor)' — ma jiflaħx aktar preċiż bil-Malti"
+    }
+  ],
+  "translation": "Lill-għalliem tal-kanti. Mizmor ta' David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/13\/1-4.1792616652505.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lill-għalliem tal-kanti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:12.505980316Z",
+  "model": "glm-5.3"
+}

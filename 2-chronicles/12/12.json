@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "litteralment 'il-moħħ \/ wiċċ' ta' Jaħwe — idjoma għall-ħrira; 'l-ħrira ta' Jaħwe' żżomm il-ħoss Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħwejjeġ sabħin",
+      "rationale": "דברים טובים litteralment 'kliem\/ħwejjeġ tajbin', jiġifieri l-affarijiet marru sewwa f'Jehuda"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ħwejjeġ⟩",
+      "rationale": "il-Malti jeħtieġ nom; il-Lhudi għandu biss is-sifra bil-plural דברים"
+    }
+  ],
+  "translation": "U meta jgeżwer għalih, irrifjuta minnu l-ħrira ta' Jaħwe, biex ma jeqerdx għal kollox; u anki f'Jehuda kien hemm ⟨ħwejjeġ⟩ sabħin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/12\/9-12.1792622466975.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "u meta jgeżwer għalih"
+    },
+    {
+      "surface": "שב",
+      "gloss": "irrifjuta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l-ħrira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "jeqerdx"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "għal kolloss"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u anki"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "f'Jehuda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ħwejjeġ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "sabħin"
+    }
+  ],
+  "timestamp": "2026-10-21T22:41:06.976456755Z",
+  "model": "glm-5.3"
+}

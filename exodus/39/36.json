@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħobż il-wċuħ",
+      "rationale": "'il-ħobż tal-preżenza' jew 'shewbread' jittraskura l-plural ta' פנים — 'ħobż il-wċuħ' iżomm il-forma literali"
+    }
+  ],
+  "translation": "⟨את⟩ il-mejda, ⟨את⟩ l-ħwejjeġ tagħha kollha, u ⟨את⟩ ħobż il-wċuħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/39\/33-36.1792600380389.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mejda"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "il-mejda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ħwejjeġ tagħha kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "l-ħwejjeġ tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ħobż il-wċuħ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "il-wċuħ"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:00.390858929Z",
+  "model": "glm-5.3"
+}

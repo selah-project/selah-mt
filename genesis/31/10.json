@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 31:10",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mċappal",
+      "rationale": "ברד mishħuta b'silġ — it-tifsira litterali hija 'bħal mċarrag b'silġ'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עקדים",
+      "rationale": "עקוד ma jidhirx imkien ieħor fit-Tanakh barra r-rakkont ta' Jagħaqov."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקדים נקדים וברדים",
+      "rationale": "It-tliet kliem jaqgħu fuq l-istess biċċa mill-aħħar (-דים), retorika tal-qedes tal-merħla."
+    }
+  ],
+  "translation": "U ġara fil-ħin li l-merħla tqallad, li tellgħet għajnejja u rajt f'ħolma, u ara, il-mogħoż rieżi li kienu telgħin fuq il-merħla kienu bl-istrixxi, bit-tikek, u mċappal.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "eb69e9b2806e86929e3beb31210387000f4f132f28383e16a56f071fbf6d74ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/9-12.1792598578968.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "fil-ħin"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "tqallad"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il-merħla"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "li tellgħet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajnejja"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "u rajt"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "f'ħolma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "העתדים",
+      "gloss": "il-mogħoż rieżi"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "li kienu telgħin"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il-merħla"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "bl-istrixxi"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "bit-tikek"
+    },
+    {
+      "surface": "וברדים",
+      "gloss": "u mċappal"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:58.969070528Z",
+  "model": "glm-5.3"
+}

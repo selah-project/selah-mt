@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "erbgħin jum u erbgħin lejl",
+      "rationale": "The forty days and forty nights are counted explicitly, echoing the Flood and Sinai numerics."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתנפל \/ התנפלתי",
+      "rationale": "The Hitpa'el reflexive 'throw oneself down' is repeated in the same verse — the falling is the point; the repetition is kept."
+    }
+  ],
+  "translation": "U nxtered quddiem Jaħwe ⟨את⟩ l-erbgħin il-jum u ⟨את⟩ l-erbgħin il-lejl li nxtered, għax qal Jaħwe li jrid jeqred ⟨את⟩ lilkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/9\/25-28.1792605536635.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "U nxtered"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-erbgħin il-jum"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "l-erbgħin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-jum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-erbgħin il-lejl"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "l-erbgħin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "nxtered"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "li jrid jeqred"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:58:56.636378162Z",
+  "model": "glm-5.3"
+}

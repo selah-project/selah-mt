@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi \/ humiex",
+      "rationale": "il-Malti jeħtieġ il-kopula fil-mistoqsijiet retoriċi li l-Lhudi jħalli mhux espressa"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jisrael u Jhuda",
+      "rationale": "mistoqsijiet retoriċi diretti dwar il-ħtija tan-nies"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשע...פשע",
+      "rationale": "repetizzjoni deliberata tal-kelma fir-rispons, struttura domanda-u-risposta"
+    }
+  ],
+  "translation": "Fir-ribelljoni ta' Jagħaqov ⟨hija⟩ dan kollu, u fid-dnubiet tad-dar ta' Jisrael. X'inhi r-ribelljoni ta' Jagħaqov? Mhux hix Xomron? U x'inhi l-għoljiet ta' Jhuda? Mhux humiex Jeruxalajim?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f23bbf7893dbd1f65357db5290689e8ff814bde0b8e15661ca11a7e96f050348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/1\/5-8.1792615990758.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "fir-ribelljoni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "u fid-dnubiet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "מי",
+      "gloss": "x'inhi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ir-ribelljoni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mhux hix"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Xomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "u x'inhi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "l-għoljiet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jhuda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mhux humiex"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T20:53:10.758880999Z",
+  "model": "glm-5.3"
+}

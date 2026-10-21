@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tornot",
+      "rationale": "מסעד jista' jkun balavistra\/turġien għat-tempju; 'tornot' żomm it-tifsira strutturali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kinorot u nevalim",
+      "rationale": "żewġ strumenti tal-istrina msemmija bil-ħoss Lhudi, par fimlitiku fil-vers"
+    },
+    {
+      "kind": "elision",
+      "subject": "בא (ma ġewx)",
+      "rationale": "il-verb 'ġie' fil-Lhudi bla oġgett; fil-Malti d-doppju 'ma ġewx... u ma dehru' jimxi mar-ripetizzjoni Lhudija"
+    }
+  ],
+  "translation": "U r-re għamel ⟨את⟩ mis-siġar tal-almug tornot għal dar Jaħwe u għad dar ir-re, u kinorot u nevalim għall-kantanti; siġar tal-almug bħal dawn ma ġewx, u ma dehru qatt sa dan il-jum.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c899bbb411a0508bcf2e4f5f0c73c13e1985d326227a5f564dadd84415b0b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/10\/9-12.1792609596642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "U r-re għamel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "r-re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-siġar tal-almug"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mis-siġar"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "tal-almug"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "tornot"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "għal dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "u għad dar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "u kinorot"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "u nevalim"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "għall-kantanti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġewx"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bħal dawn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "siġar"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "tal-almug"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "dehru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-jum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:36.644366836Z",
+  "model": "glm-5.3"
+}

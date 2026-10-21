@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ruħkom",
+      "rationale": "il-Lhudi juża riflessiv waħdu, bl-ebda sostantiv; il-Malti jeħtieġ 'ruħkom'"
+    },
+    {
+      "kind": "crux",
+      "subject": "התקוששו וקושו",
+      "rationale": "għerq קשש = liġġeru qasab; jew literal 'niġbru qash' (bħal meta tanħas qasab), jew 'ġibru ruħkom' — ħafna traduzzjonijiet jagħżlu t-tieni"
+    },
+    {
+      "kind": "you",
+      "subject": "lil-Ġuda",
+      "rationale": "appell dirett lil ġens bla isem, msejjaħ joħrog mill-penitenza"
+    }
+  ],
+  "translation": "Ġibru ⟨ruħkom⟩ u ġibru, intom il-ġens li ħadd ma jixtieq",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47ff6093355a1a8358908d1c7465b1cf6ab8b0dd6941715731b9376dd7561405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zephaniah\/2\/1-4.1792616116928.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Ġibru"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "u ġibru"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "il-ġens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "jixtieq"
+    }
+  ],
+  "timestamp": "2026-10-21T20:55:16.928676966Z",
+  "model": "glm-5.3"
+}

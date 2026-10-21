@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "literally 'cut a covenant' — Maltese keeps 'qata' (il-patt)' with the cutting verb."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "gloss-note": "אותם here is the object pronoun 'lilhom', not the direct-object marker."
+    }
+  ],
+  "translation": "U jgħidu: Għaliex abbandunaw ⟨את⟩ il-patt ta' Jaħwe, Elohim ta' missirijiethom, li qata' magħhom meta ħarriġhom ⟨את⟩ lilhom minn art Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "adddd89617aba5d895e8bed54618a4dbde4515c0fe805af950ce6a45592b9aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/29\/21-24.1792606023134.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "u jgħidu"
+    },
+    {
+      "surface": "על",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "abbandunaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-patt ta' Jaħwe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "il-patt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ta' missirijiethom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "magħhom"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "meta ħarriġhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lilhom"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "minn art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:03.135442773Z",
+  "model": "glm-5.3"
+}

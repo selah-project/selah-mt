@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħot",
+      "rationale": "נפש = nifs, ħajja: hawnhekk 'ħajjiet' ta' dawk akkużati bi żball"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרמה",
+      "rationale": "KJV\/juxtaPOSITION 'jgħid gideb' kontra ASV 'ikkawża mqarba' — il-kelma tassew qaħba\/frodi"
+    }
+  ],
+  "translation": "Xhud ta' l-Verità jeħles ruwaħot, iżda min jinfaħ bil-gideb — mqarba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/25-28.1792618619700.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "jeħles"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ruwaħot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "xhud"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ta' l-Verità"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "izda min jinfaħ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "bil-gideb"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mqarba"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:59.700681817Z",
+  "model": "glm-5.3"
+}

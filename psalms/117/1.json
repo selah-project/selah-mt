@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "il-ġnus kollha",
+      "rationale": "imperattivi tal-faħħar jissejħu l-ġnus u l-popli kollha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sbiħuh",
+      "rationale": "שבח = 'titrix lejn b'leħen għoli', mogħni b'sbiħuh (faħħaruh)"
+    }
+  ],
+  "translation": "Faħħu ⟨את⟩ Jaħwe, il-ġnus kollha; sbiħuh, il-popli kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/117\/1-2.1792617928410.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Faħħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "sbiħuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "il-popli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:28.410816395Z",
+  "model": "glm-5.3"
+}

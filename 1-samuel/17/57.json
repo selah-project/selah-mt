@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "meta",
+      "rationale": "il-kostrutt infinitiv וכשוב jeħtieġ konġunzjoni temporali bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "f'idejh",
+      "rationale": "בידו huwa singular 'f'idu', imma d-differenza ta' numru fil-possessiv tilħaq titularju biss"
+    }
+  ],
+  "translation": "U meta David reġa' lura milli laqat ⟨את⟩ il-Plixti, Abner ħadu u daħħlu quddiem Xaul, u ras il-Plixti f'idejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/57-58.1792607993114.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "meta reġa' lura"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "milli laqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Plixti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il-Plixti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ħadu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "u daħħlu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "u ras"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il-Plixti"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idejh"
+    }
+  ],
+  "timestamp": "2026-10-21T18:39:53.115152709Z",
+  "model": "glm-5.3"
+}

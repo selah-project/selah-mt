@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dritti",
+      "rationale": "ישרתי huwa verb (sirt sewwa \/ sqart); l-aġettiv 'dritti' miżjud biex il-grammatika Maltija tagħmel sens"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "pronom miżjud biex ikun ċar min jobgħod"
+    },
+    {
+      "kind": "crux",
+      "subject": "dwar kollox",
+      "rationale": "il-כל it-tieni waħda: 'dwar kollox' (KJV\/JPS) kontra l-qari ta' YLT li jqis l-ordnijiet bħala ta' nieqed il-ktieb"
+    }
+  ],
+  "translation": "Għalhekk l-ordnijiet tiegħek kollha, dwar kollox, sqarthom ⟨dritti⟩, u kull triq ta' gideb jien jobgħodtha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9af6537dcf7a62cb2201f64dcc6a1125c1629f64b2b81e7ba2d860fad53dfe3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/128-128.1792623838927.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Għalhekk"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Għalhekk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "l-ordnijiet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dwar kollox"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "sqarthom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "triq"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ta' gideb"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jien jobgħodtha"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:58.928179256Z",
+  "model": "glm-5.3"
+}

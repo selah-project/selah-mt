@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כי תבנה",
+      "rationale": "כי temporali 'meta\/ser' mhux 'għax' — ””ki tivneh”” bil-Lhudi jiftaħ liġi kondizzjonali"
+    },
+    {
+      "kind": "crux",
+      "subject": "הנפל",
+      "rationale": "artiklu + parteċipa attiv 'id-dak li jqaċċat\/jaqa'' — qari letterali: 'jaqa' l-waqa'' jew min jista' jaqa'; traduzzjonijiet jaqtgħu għal 'xi ħadd'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפל הנפל",
+      "rationale": "għerq נפל darbtejn — verb u parteċipa mill-istess għerq, ripetizzjoni retorika miżmuma b””jaqa' \/ dak li jqaċċat”"
+    }
+  ],
+  "translation": "Meta tibni dar ġdida, tagħmel parapet fuq bejtik, sabiex ma tqiegħedx demm fid-dar tiegħek jekk jaqa' minnu dak li jħares li jaqa'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af6c9d525a6f9cf40bcd46c326e64db849977b99e841ef010ed44f987cb9497b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/22\/8-8.1792623105452.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Meta"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tibni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ġdida"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "parapet"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "fuq bejtik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sabiex ma"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "tqiegħedx"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "demm"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "fid-dar tiegħek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jaqa'"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "dak li jħares li jaqa'"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:51:45.453399677Z",
+  "model": "glm-5.3"
+}

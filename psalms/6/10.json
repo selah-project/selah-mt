@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għalih",
+      "rationale": "il-Malti jeħtieġ oġġett mal-verb 'jieħu'; il-Lhudi jħalli 'toħod' weħidha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה...יהוה",
+      "rationale": "repetizzjoni tal-Isem fil-bidu ta' żewġ klawsoli parallel, ritmu li jibqa' fil-Malti"
+    }
+  ],
+  "translation": "Sema' Jaħwe s-supplika tiegħi; Jaħwe jieħu ⟨għalih⟩ t-talb tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/9-11.1792616498888.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Sema'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "s-supplika tiegħi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "t-talb tiegħi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:38.889656699Z",
+  "model": "glm-5.3"
+}

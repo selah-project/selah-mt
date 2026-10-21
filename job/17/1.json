@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 17:1",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mitħbot",
+      "rationale": "חבלה: 'marbuta b'ħabel' (bound as with a rope) vs 'miksura' (broken) — il-biċċa l-kbira tat-traduzzjonijiet jagħżlu 'miksura\/mrobsa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħi",
+      "rationale": "רוח hawn ma nfissirx 'riħ' iżda nifs\/ħajja — kelma waħda għal tliet affarijiet fil-Lhudi."
+    },
+    {
+      "kind": "crux",
+      "subject": "oqbra",
+      "rationale": "Plural קברים: 'oqbra (ħafna) għalija' vs qari bħala singular 'il-qabar lest għalija'."
+    }
+  ],
+  "translation": "Ruwaħi mitħbot, ijemji ntfew, oqbra għalija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2248aa7a076023bb4c064b517bc6ae11562bd355c3d0846e2c5431ac87dab4ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/17\/1-4.1792619441680.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "ruwaħi"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "mitħbot"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ijemji"
+    },
+    {
+      "surface": "נזעכו",
+      "gloss": "ntfew"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "oqbra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:50:41.681347846Z",
+  "model": "glm-5.3"
+}

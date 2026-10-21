@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש hija nifs\/ħajja, mhux 'anima' flimkien ma' klawsola 'dak in-nefes' tal-bibbji antiki"
+    },
+    {
+      "kind": "addition",
+      "subject": "dik",
+      "rationale": "l-ilsien Malti jeħtieġ l-antenat dimostrattiv"
+    }
+  ],
+  "translation": "Għax kull min jiekol xaħam mill-bhejjem li minnhom jissieħbu offerta tan-nar lil Jaħwe, dik in-nefes li tiekol tinqata' minn fost niesha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e3b7765c7095dae7ae8ef85dafbd0ee8dd3a7463776a8467ba86f9a1f409aae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/7\/25-28.1792600560408.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull min"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "xaħam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bhejjem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "jissieħbu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta tan-nar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "tinqata'"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "dik in-nefes"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "li tiekol"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "minn fost niesha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:36:00.408792327Z",
+  "model": "glm-5.3"
+}

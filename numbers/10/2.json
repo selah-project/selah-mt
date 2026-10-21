@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trombi",
+      "rationale": "חצוצרה trumbetta twila tal-att (mhux ix-Xofar)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "b'ħidma mħarbra",
+      "rationale": "מקשה xogħol imħarbar f'biċċa waħda, mhux mitfugħ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Agħmel",
+      "rationale": "imperattiv diretta lejn Moxe"
+    }
+  ],
+  "translation": "Agħmel għalik żewġ trombi ta' fidda; b'ħidma mħarbra tagħmelhom, u jkunu għalik biex tqajjem il-laqgħa u biex tcampa ⟨את⟩ il-kampamenti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec48da0700fefbb516884a805dba57a3c68612e51ba1ddd8845f108caf35819d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/10\/1-4.1792602633625.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Agħmel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "trombi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ta' fidda"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "b'ħidma mħarbra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmelhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "żewġ trombi ta' fidda"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u jkunu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "biex tqajjem"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "il-laqgħa"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "u biex tcampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kampamenti"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "il-kampamenti"
+    }
+  ],
+  "timestamp": "2026-10-21T17:10:33.627427352Z",
+  "model": "glm-5.3"
+}

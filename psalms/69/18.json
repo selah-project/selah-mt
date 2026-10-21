@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "צר לי",
+      "rationale": "lit. 'isir tengħas għalija'; idjoma Maltija bil-prepożizzjoni"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "konġunzjoni miżjuda bejn żewġ imperattivi, il-Lhudi għandu weżgħa waħda"
+    }
+  ],
+  "translation": "U la taħbix wiċċek minn qadimlek, għax għandi bit-tellieqa; ġgħilja u iġbini.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/17-20.1792617358505.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "taħbix"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "minn qadimlek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "צר",
+      "gloss": "għandi bit-tellieqa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨għandi⟩"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ġgħilja"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "u iġbini"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:58.506510566Z",
+  "model": "glm-5.3"
+}

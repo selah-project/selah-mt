@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Moxe",
+      "rationale": "il-poplu jindirizza lil Moxe direttament"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ta bil-qerħa",
+      "rationale": "וילן huwa l-verb tal-'murmur' tal-poplu fil-merħba; 'ta bil-qerħa' jaqbad it-tifa ta' lilujiet bis-sodda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "xtaq ilma",
+      "rationale": "ויצמא litteralment 'giebla għatx għal ilma'; 'xtaq ilma' iżomm is-sens mingħajr ma jirrepeti 'għatx' żewġ darbiet"
+    }
+  ],
+  "translation": "U l-poplu xtaq ilma hemm, u l-poplu ta bil-qerħa kontra Moxe, u qal: Għaliex dan tellagħna minn Mitsrajim, biex toqtol lilni li jiena u ⟨את⟩ uliji u ⟨את⟩ frati b'għatx?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/17\/1-4.1792599706123.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "u xtaq ilma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "u ta bil-qerħa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "tellagħna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "minn Mitsrajim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "biex toqtol"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "lilni li jiena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "uliji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "uliji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "frati"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "frati"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "b'għatx"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:46.124547792Z",
+  "model": "glm-5.3"
+}

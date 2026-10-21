@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi ma għandux kopula; 'Dan hu demm' jeħtieġha bil-Malti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החרב נחרבו",
+      "rationale": "L-istess għerq חרב darbtejn: 'bil-qriegħda ġew meqruba' — il-poeta telgħu bil-kliem inflessjonat tal-verb 'qerred'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moab",
+      "rationale": "Sejħa diretta lil Moab: 'għall-priża, Moab!' — imperattiv mill-voċ tal-grupp."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש את רעהו",
+      "rationale": "Formula tad-dawl ta' ħafna bla raġuni: 'ħaddiem lil sieħbu', iterazzjoni ta' ħabta waħda."
+    }
+  ],
+  "translation": "U qalu: Dan ⟨hu⟩ demm: il-melki ġew meqruba bil-qriegħda, u ħaddiem ħabt lil ⟨את⟩ sieħbu; u issa, għall-priża, Moab!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "988ab2402c976aeb615252d2c2c8843834bbd2e059948347b8f1cb8ededf308e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/3\/21-24.1792610088994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "demm"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "bil-qriegħda"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "ġew meqruba"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "il-melki"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ħabt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ħaddiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sieħbu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sieħbu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "għall-priża"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-21T19:14:48.995310473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דיק",
+      "rationale": "Battering-tower appears only here in the Tanakh; rendered descriptively."
+    },
+    {
+      "kind": "crux",
+      "subject": "bnietek",
+      "rationale": "'Daughters of Tyre in the field': literal daughters vs mainland dependent villages (BSB); literal kept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דיק\/סללה\/צנה",
+      "rationale": "Four siege-engine terms stacked in a staccato list of infinitives against 'alayikh repeated three times."
+    }
+  ],
+  "translation": "B'x-xabla joqtol lil bnietek fis-sitien; u jqiegħed kontrik δajek (torri ta' l-assedju), u jagħti kontrik xiħda (rampa ta' ħamrija), u jqajjem kontrik tarka kbira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ea14845ca972b4b95e4bbaa5cb0fd93e7ee0d921962e750f4c1ba89c76991880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/26\/8-8.1792623655391.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "bnietek"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "fis-sitien"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "b'x-xabla"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "joqtol"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "u jqiegħed"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "torri ta' l-assedju"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "u jagħti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "xiħda"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "u jqajjem"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "tarka kbira"
+    }
+  ],
+  "timestamp": "2026-10-21T23:00:55.392055885Z",
+  "model": "glm-5.3"
+}

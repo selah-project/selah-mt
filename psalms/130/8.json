@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħtijietu",
+      "rationale": "עוונתיו huwa 'iniquities\/perversità', mhux 'dnub' sempliċement; il-Malti juża 'ħtijietu' bħala l-eqreb kelma tan-nuqqas ta' dritt."
+    }
+  ],
+  "translation": "U Hu jifdi ⟨את⟩ lil Jisrael minn ħtijietu kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/130\/5-8.1792618175601.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "U Hu"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "jifdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn kollha"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ħtijietu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:35.602426901Z",
+  "model": "glm-5.3"
+}

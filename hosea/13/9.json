@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחתך... כי",
+      "rationale": "KJV 'thou hast destroyed thyself; but in me is thine help' vs JPS 'it is thy destruction that thou art against Me' — the כי and prepositions allow both."
+    },
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "L-ebda kopula fil-Lhudi; il-Malti jeħtieġha għall-istruzzjoni nominali."
+    }
+  ],
+  "translation": "Il-qerda tiegħek hi, Jisrael — għaliex fija l-għajnuna tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/13\/9-12.1792615515486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "il-qerda tiegħek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fija"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "l-għajnuna tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T20:45:15.487018236Z",
+  "model": "glm-5.3"
+}

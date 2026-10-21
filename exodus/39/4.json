@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קצותיו",
+      "rationale": "'Ħjut' \/ 'estremi' — il-partijiet tal-efod fejn iż-żewġ ktejjif jingħaqdu; il-Malti jidher biss 'truf' jew 'ħjut'."
+    },
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "Il-perfett passiv חֻבָּר jeħtieġ kopula jew part passiv bil-Malti."
+    }
+  ],
+  "translation": "Ktef għamlulu, magħquda; ma' t-tnejn ħjut tagħha kienet magħquda.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/39\/1-4.1792600343680.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "Ktef"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "magħquda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "שני",
+      "gloss": "it-tnejn"
+    },
+    {
+      "surface": "קצוותיו",
+      "gloss": "ħjut tagħha"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "kienet magħquda"
+    }
+  ],
+  "timestamp": "2026-10-21T16:32:23.681936736Z",
+  "model": "glm-5.3"
+}

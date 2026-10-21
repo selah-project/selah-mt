@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lil l-oħra",
+      "rationale": "it-tieni לאחת qed tirreferi għall-mara l-oħra; bl-Ebrajk tfisser sempliċement 'lil waħda'"
+    }
+  ],
+  "translation": "U s-sultan qal: Aqtgħu ⟨את⟩ it-tifel il-ħaj f'żewġ, u agħtu ⟨את⟩ in-nofs lil waħda u ⟨את⟩ in-nofs lil l-oħra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/25-28.1792609382598.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "aqtgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tifel il-ħaj"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "החי",
+      "gloss": "il-ħaj"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "f'żewġ"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "u agħtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nofs"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "in-nofs"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "lil waħda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "in-nofs"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "in-nofs"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "lil l-oħra"
+    }
+  ],
+  "timestamp": "2026-10-21T19:03:02.599351453Z",
+  "model": "glm-5.3"
+}

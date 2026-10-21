@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "hawn אותם huwa pronom ('homom'), mhux il-marka את — għalhekk ma jitiktibx ⟨את⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזרם \/ וסערה",
+      "rationale": "il-ħarrix u r-ruwaħ tal-ħoxna — stampa kontinwa tat-tahriġ użata għall-għedewwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨lilhom⟩",
+      "rationale": "il-Malti jeħtieġ l-għan ta' 'tfixkilhom' immur fin-nom aljenat"
+    }
+  ],
+  "translation": "Tharreshom u r-ruwaħ iġorrhom, u l-meraħħa tfixkilhom ⟨⟨את⟩ lilhom⟩; u inti tfarħa f'Jaħwe, fil-Qaddis ta' Jisrael tiftaħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/41\/13-16.1792611711638.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Tharreshom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "u r-ruwaħ"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "iġorrhom"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "u l-meraħħa"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "tfixkilhom"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ lilhom"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u inti"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "tfarħa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "f'Jaħwe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "fil-Qaddis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "tiftaħar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:51.639640411Z",
+  "model": "glm-5.3"
+}

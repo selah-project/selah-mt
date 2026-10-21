@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aħna⟩",
+      "rationale": "il-kopula tas-suġett m'hix fil-Lhudi; l-imperattiv ta' qabel iwitta għaliha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקשה\/הקל\/הכבד",
+      "rationale": "il-kuntrast qalil–tqil (ħarrex\/ħaffef) jirrepeti l-istess għerq bħala押 tal-vers; il-Malti iżomm il-par"
+    }
+  ],
+  "translation": "Missierek ħarrex ⟨את⟩ iż-żiem tagħna; u issa ħaffef mix-xogħol il-qalil ta' missierek u miniż-żiem it-tqil li poġġa fuqna, u ⟨aħna⟩ naqduk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/10\/1-4.1792622533615.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Missierek"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ħarrex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iż-żiem tagħna"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "iż-żiem tagħna"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ħaffef"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "mix-xogħol"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ta' missierek"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "il-qalil"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "u miniż-żiem"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "it-tqil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "u naqduk"
+    }
+  ],
+  "timestamp": "2026-10-21T22:42:13.616867988Z",
+  "model": "glm-5.3"
+}

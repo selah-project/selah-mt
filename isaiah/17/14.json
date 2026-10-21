@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 17:14",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-kopula ma tinsabx fil-Lhudi—'זה חלק' m'għandux 'hu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ma jibqax",
+      "rationale": "איננו literalment 'mhux hu'—inżerta bħala 'ma jibqax' fil-Malti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שסס\/בזז",
+      "rationale": "Żewġ għeruq differenti għal 'isirqu'—il-Malti għandu biss 'jiserħuna' u 'jaħtfu minna' biex iżomm id-differenza."
+    }
+  ],
+  "translation": "Fil-ħin tal-filgħaxija, u ara terrur; qabel il-beraħ ma jibqax. Dan ⟨hu⟩ s-sehem ta' dawk li jiserħuna, u l-lott ta' dawk li jaħtfu minna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1eba63a3497c77aeb6ec83b0f83c491964bb75dfef2bee0e19b1ccf39713e5d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/17\/13-14.1792611148392.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעת",
+      "gloss": "fil-ħin"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tal-filgħaxija"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "terrur"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "il-beraħ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma jibqax"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "s-sehem"
+    },
+    {
+      "surface": "שוסינו",
+      "gloss": "ta' dawk li jiserħuna"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "u l-lott"
+    },
+    {
+      "surface": "לבזזינו",
+      "gloss": "ta' dawk li jaħtfu minna"
+    }
+  ],
+  "timestamp": "2026-10-21T19:32:28.393075036Z",
+  "model": "glm-5.3"
+}

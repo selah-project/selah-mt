@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jiġu f'dawwara fuq id-dlam",
+      "rationale": "משש literally 'to feel, to grope with the hand', rendered as fumbling in the dark"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u min jitlifhom triqthom",
+      "rationale": "ויתעם also read 'and He makes them wander\/stray'; both senses kept"
+    }
+  ],
+  "translation": "Jiġu f'dawwara fuq id-dlam u mhux dawl, u Jaħwe jħallihom jitilqu mill triq tagħhom bħall-imsakra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8b6c88dbbd31dc821cb5b3a5eae4c625f073233f719df55bebf5b2845d76e953",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/25-25.1792619260745.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יְמַֽשְׁשׁוּ",
+      "gloss": "jiġu f'dawwara fuq"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "id-dlam"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "א֑וֹר",
+      "gloss": "dawl"
+    },
+    {
+      "surface": "וַ֝יַּתְעֵ֗ם",
+      "gloss": "jħallihom jitilqu mill triq tagħhom"
+    },
+    {
+      "surface": "כַּשִּׁכּֽוֹר",
+      "gloss": "bħall-imsakra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:40.745673725Z",
+  "model": "glm-5.3"
+}

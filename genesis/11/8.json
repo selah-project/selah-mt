@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "f'Ġen 11:8 אתם hija suffiss -hom (l-objett), mhux l-aleph-tav iżolat; ma tgħaddix bħala ⟨את⟩ għaliex m'hijiex H853 waħedha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "faxx",
+      "rationale": "פוץ litteralment 'ifaxxa\/xerred' — il-Malti għandu l-għerq qrib; il-lingwa nħawdet u n-nies infirxu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פוץ \/ נפוץ",
+      "rationale": "'xerred' hawn u 'inxteredu' f'11:4 u 11:9 — l-istess għerq; jirrepeti bħala sentenza letterarja, titilef parzjalment bil-Malti"
+    }
+  ],
+  "translation": "U Jaħwefaxxhom minn hemm fuq wiċċ l-art kollha, u ħallew jibnu l-belt.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/11\/5-8.1792597945992.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "U faxx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ -hom"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "u ħallew"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "jibnu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:25.993737775Z",
+  "model": "glm-5.3"
+}

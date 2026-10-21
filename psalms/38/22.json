@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "għall-istil tal-psalm",
+      "rationale": "sejħa diretta lil Jaħwe mill-pjut"
+    },
+    {
+      "kind": "addition",
+      "subject": "tieghì",
+      "rationale": "il-pronom suffiss f'אלהי diġà hemm fil-Lhudi — 'Elohim tiegħi' iżżidx xejn"
+    }
+  ],
+  "translation": "Tħalliniex, Jaħwe, Elohim tiegħi, tbogħodniex minni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/38\/21-23.1792616903703.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "tx"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tħalliniex"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tx"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tbogħodniex"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:23.704622676Z",
+  "model": "glm-5.3"
+}

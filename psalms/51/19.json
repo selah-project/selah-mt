@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ kopula li l-Lhudi ma għandux"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשברה\/נשבר",
+      "rationale": "għerq wieħed irrepetut dwar ir-ruwaħ u l-qalb — il-kissra doppja tal-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "istejbiet",
+      "rationale": "זבחי b'relazzjoni ma' Elohim: l-istejbiet spiritwali flok il-ħlejjaq"
+    }
+  ],
+  "translation": "L-istejbiet għal Elohim ⟨huma⟩ ruwaħ mkissra; qalb miksura u mgħobbja, Elohim ma jżinhax.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/51\/17-20.1792617116479.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "l-istejbiet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "għal Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "mkissra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "miksura"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "u mgħobbja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "jżinhax"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:56.479918822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "question",
+      "rationale": "Question-and-answer liturgy: the question 'Min hu dan?' invites the congregation's answer."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבור",
+      "rationale": "גבור repeated twice in one verse — hero\/warrior echo framing the name Jaħwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sultan",
+      "rationale": "מלך rendered 'sultan' (Tanakh-register); the Hebrew word is simply 'king'."
+    }
+  ],
+  "translation": "Min hu dan, is-sultan tal-ħela? Jaħwe, il-Qawwi u l-Bnieder, Jaħwe l-Bnieder fil-ġlied.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e7f490340f729a8c343d03e5623dc131f9aed825531972f17697f7b720d86ef6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/8-8.1792623718804.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "tal-ħela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "il-Qawwi"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "u l-Bnieder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "l-Bnieder"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "fil-ġlied"
+    }
+  ],
+  "timestamp": "2026-10-21T23:01:58.805082695Z",
+  "model": "glm-5.3"
+}

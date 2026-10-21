@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איבתי\/איביך · צרתי\/צרריך",
+      "rationale": "Għerusija intensiva: verb u oġġett mill-istess għerq — 'nkun għadu lill-għedewwa, noppressi lill-oppressuri'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמע תשמע",
+      "rationale": "Infinitiv absolutu biex tqabbad: 'tisma' tisma'' = 'tisma' verament, b'qalbek"
+    },
+    {
+      "kind": "condition",
+      "subject": "ברית",
+      "rationale": "Struttura ta' patt: kondizzjoni (sma' u agħmel) u wegħda (protezzjoni)"
+    }
+  ],
+  "translation": "Għax jekk tisma' verament leħnu, u tagħmel kollox li ngħid, jien inkun għadu ⟨את⟩ għall-għedewwa tiegħek u noppressi ⟨את⟩ lil dawk li joppressuk.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/21-24.1792599791408.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tisma' verament"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tisma'"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "leħnu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "u tagħmel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngħid"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "inkun għadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għall-għedewwa tiegħek"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "għall-għedewwa tiegħek"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "u noppressi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawk li joppressuk"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "lil dawk li joppressuk"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:11.408954694Z",
+  "model": "glm-5.3"
+}

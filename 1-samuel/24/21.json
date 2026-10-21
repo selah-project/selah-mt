@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלך תמלוך",
+      "rationale": "Infinitive-absolute + finite verb: 'tarrenja żgur tarrenja' — intensification through repetition, mhux faċli biżżejjed bil-Malti."
+    },
+    {
+      "kind": "you",
+      "subject": "Xaul idgħi lil David",
+      "rationale": "Diskors diretta ta' Xaul lil David, jaqbel li David se jirrenja."
+    }
+  ],
+  "translation": "U issa, araw, jiena naf li żgur tirrenja, u se tqum f'idejk il-mamlakta ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/24\/21-23.1792608267118.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jiena naf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "żgur tirrenja"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "tirrenja"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "u se tqum"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "f'idekk"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "il-mamlakta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T18:44:27.119275843Z",
+  "model": "glm-5.3"
+}

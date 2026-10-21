@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ġellewż",
+      "rationale": "פרט is the single stray grape left on the vine; 'ġellewż' picks the leftover-berry picture"
+    },
+    {
+      "kind": "you",
+      "subject": "israel",
+      "rationale": "command continues addressed to Israel; formula-closer 'Jien Jaħwe' grounds the law"
+    }
+  ],
+  "translation": "U l-għalqa tad-dwieli tiegħek ma twaħħalhiex għal kollox, u l-ġellewż tal-għalqa tad-dwieli tiegħek ma tiġborhiex; għall-miskin u għall-barrani tħallhom. Jien Jaħwe, Elohim tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/9-12.1792600919579.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "u l-għalqa tad-dwieli tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "twaħħalhiex għal kollox"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "u l-ġellewż"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "tal-għalqa tad-dwieli tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "tiġborhiex"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "għall-miskin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "u għall-barrani"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tħallhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġellewż (għalihom)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:59.580537568Z",
+  "model": "glm-5.3"
+}

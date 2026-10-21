@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 4:9",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעבץ\/עצב",
+      "rationale": "l-isem Jaħbeċ ġej mill-istess għerq ta' עצב (uġigħ): ommu tatlu ismu għax ġabbitu bl-uġigħ, logħba kliem mitlufa fil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-pronom fil-verb Lhudi ילדתי ma jeħtieġx 'jien' bil-Malti, iżda żżid iċ-ċar"
+    }
+  ],
+  "translation": "U Jaħbeċ kien meqjus iktar minn ħutu, u ommu sejħet ismu Jaħbeċ, biex tgħid: Għaliex jien ġabbitu bl-uġigħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "801208a00f9ff38f3699ad136cd0453560dc3c7eb0358b5d15ef96df382481bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/4\/9-12.1792621709421.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Jaħbeċ"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "meqjus"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "iktar minn ħutu"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "u ommu"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "sejħet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Jaħbeċ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex tgħid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "jien ġabbitu"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "bl-uġigħ"
+    }
+  ],
+  "timestamp": "2026-10-21T22:28:29.423022958Z",
+  "model": "glm-5.3"
+}

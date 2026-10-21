@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ilmijiet",
+      "rationale": "Is-suffiss f'ינוסון huwa plural li jirreferi għall-ilmijiet tal-vers 6; miżjud bil-Malti għal ċarezza."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ינוסון\/יחפזון",
+      "rationale": "Paralleliżmu: żewġ vanabbli li jispiċċaw bl-istess suffiss ta' plural — l-echo jinżel fil-verżjoni."
+    }
+  ],
+  "translation": "Minn skombrat ilmijiet jaħarbu; mill-leħen tar-ragħad tiegħek jitgħaġġlu jaħarbu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/5-8.1792617803418.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "iskombrat"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "jaħarbu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "קול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ragħad tiegħek"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "jitgħaġġlu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:23.419519130Z",
+  "model": "glm-5.3"
+}

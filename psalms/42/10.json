@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-petiteur",
+      "rationale": "indirizz diretta lil El b'mistoqsijiet doppji"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדר",
+      "rationale": "litteralment 'jixbah sabuħ' (skur bħall-arżnu); 'mourning' vs 'imniżżel b'wiċċ iswed'"
+    }
+  ],
+  "translation": "Ngħid lil El, blaħi: Għaliex intinsieni? Għaliex immur bil-morna fl-oppressjoni tal-għadu?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/42\/9-12.1792617047456.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ngħid"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "lil El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "blaħi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "intinsieni"
+    },
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "immur bil-morna"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "immur"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "fl-oppressjoni"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "tal-għadu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:47.456782632Z",
+  "model": "glm-5.3"
+}

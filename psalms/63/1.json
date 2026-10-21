@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בהיותו",
+      "rationale": "kostruzzjoni verbali infinitiva ('fil-kolx tiegħu') imqassra għal 'meta kien' bil-Malti."
+    }
+  ],
+  "translation": "Mizmor lil David, meta kien fid-deżert ta' Juda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/63\/1-4.1792617333712.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "meta kien"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Juda"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:33.712950373Z",
+  "model": "glm-5.3"
+}

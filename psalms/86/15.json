@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "litteralment 'twil ta' wiċċu\/aħrachen' = li ma jaħraxx; mogħti bħala 'bil-mod għad-dgħufija' mhux perfett"
+    },
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ארך אפים",
+      "rationale": "jista' jingħata 'twil il-leħja' biex il-formaŻewġ l-kelmiet tibqa'"
+    }
+  ],
+  "translation": "U inti, Adonaj, ⟨int⟩ El ħanin u grazzjuż, bil-mod għad-dgħufija ⟨tiegħek⟩, u kbir f'ħesed u fid-verità.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/86\/13-16.1792617599026.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "u inti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ħanin"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "u grazzjuż"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bil-mod"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "għad-dgħufija"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "u kbir"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "f'ħesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "u fid-verità"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:59.027141403Z",
+  "model": "glm-5.3"
+}

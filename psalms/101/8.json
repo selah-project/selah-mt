@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħażen",
+      "rationale": "און fiżikament 'faqar, vojt, ħażen' — għalhekk 'l-ħażen' jew 'il-vuota'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kull filgħodu",
+      "rationale": "il-plural בקרים 'filgħodijiet' jista' jkun 'filgħodu wara filgħodu' (ASV) — azzjoni kontinwa, mhux darba"
+    }
+  ],
+  "translation": "Kull filgħodu neqta' għal kollox lil-hżiena kollha ta' l-art, biex inqatta' mill-belt ta' Jaħwe lil kulħadd li jaħdem il-ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/101\/5-8.1792617761549.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "kull filgħodu"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "neqta' għal kollox"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lil... kollha"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "hżiena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ta' l-art"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "biex inqatta'"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mill-belt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lil kulħadd"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "li jaħdem"
+    },
+    {
+      "surface": "און",
+      "gloss": "il-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:41.550310046Z",
+  "model": "glm-5.3"
+}

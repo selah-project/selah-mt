@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nifs",
+      "rationale": "נפש bħal f'vers 3 — nifs-ħajja, mhux 'ruħ' biss"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "prepożizzjoni Maltija għall-oġġett diretta, m'hemmx fl-Ebrajk"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħlitux",
+      "rationale": "ארפנו literally 'tlajjeb-niexxih' — ma nrifux il-qabda; 'nieżel' miżjud għaċ-ċarezza"
+    }
+  ],
+  "translation": "Ftit biss għaddit minnhom, u sibt ⟨את⟩ lil dak li ħabbet in-nifs tiegħi; żammith u ma ħlitux nieżel, sa ma dħalt bih f'dar ommi, u fil-kamra ta' min kunċepitni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bf0b8a7b2c6aa48d1b7d6be476f8c4219e91fe34bb1b2d6c733788ced8347208",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/3-4.1792623907555.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ftit biss"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "għaddit"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "sibt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil dak li ħabbet in-nifs tiegħi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "li ħabbet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nifs tiegħi"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "żammith"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ħlitux"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "dħalt bih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ommi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u fil-"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "kamra"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "ta' min kunċepitni"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:07.556363670Z",
+  "model": "glm-5.3"
+}

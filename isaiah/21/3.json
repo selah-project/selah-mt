@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "konċ irbit",
+      "rationale": "נעויתי literalment 'nġennit\/twieġbiet' — mort bil-kbir mitluq."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צירים...כצירי",
+      "rationale": "Ripetizzjoni ta' tzirim bħal ta' mara li twelled — stqarrija mimlija tgergif."
+    }
+  ],
+  "translation": "Għalhekk il-ġnub tiegħi mimlijin bi żigħżaġġ; uġigħ qabadni bħall-uġigħ ta' mara li twelled; konċ irbit meta smajt, ħass il-għażża meta rajt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/21\/1-4.1792611291682.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mimlijin"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "il-ġnub tiegħi"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "bi żigħżaġġ"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "uġigħ"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "qabadni"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "bħall-uġigħ ta'"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "mara li twelled"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "konċ irbit"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "meta smajt"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ħass il-għażża"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "meta rajt"
+    }
+  ],
+  "timestamp": "2026-10-21T19:34:51.683158339Z",
+  "model": "glm-5.3"
+}

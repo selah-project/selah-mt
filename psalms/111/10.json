@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "il-biża' ta' Jaħwe",
+      "rationale": "il-Lhudi m'għandux il-verb 'hija' fil-ġrajja nominali; miżjud b'mod impliċitu"
+    },
+    {
+      "kind": "crux",
+      "subject": "li jagħmluhom",
+      "rationale": "עשיהם: l-antiċedent ta' l- suffiss mhuwiex ċar — il-kmandamenti tal-versi 7-8 (KJV iżid 'his commandments')"
+    },
+    {
+      "kind": "addition",
+      "subject": "wieqfa",
+      "rationale": "עמדת tfisser litteralment 'tqiegħed\/tibqa' bil-wieqfa' — bil-Malti rridu żewġ kliem"
+    }
+  ],
+  "translation": "Il-bidu tal-għerf il-biża' ta' Jaħwe; għarfien tajjeb ⟨għandhom⟩ dawk kollha li jagħmluhom; it-tifħira tiegħu tibqa' ⟨wieqfa⟩ għal-dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3d0d79f417cfc063cb98df650bd48ac96a0a54a77425f65a217d1ebd36307cb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/111\/9-10.1792617934172.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "il-bidu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tal-għerf"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "il-biża'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "għarfien"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dakk kollha"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "li jagħmluhom"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "it-tifħira tieg׈u"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tibqa' wieqfa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "għal-dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:34.173513137Z",
+  "model": "glm-5.3"
+}

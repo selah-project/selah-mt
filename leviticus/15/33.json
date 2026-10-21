@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nidda",
+      "rationale": "נדה mhux sempliċement 'impurità' iżda stat ta' separazzjoni matul il-ħmira"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jorqod",
+      "rationale": "ישכב 'jiekor' — eufemiżmu għal relazzjoni sesswali, mhux rqad biss"
+    }
+  ],
+  "translation": "u l-ħaddema fl-impurità tagħha, u ż-żobb ⟨את⟩ żobbiena, għar-raġel u għall-mara, u għal raġel li jorqod ma' mara ṭama'",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7d54101215110467fd7b6f3f70a21f53c39e0f6c04e3a941d60aff002d0f9f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/33-33.1792600875919.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "u l-ħaddema"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "fl-impurità tagħha"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "u ż-żobb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żobbiena"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "żobbiena"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "għar-raġel"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "u għall-mara"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "u għal raġel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "jorqod"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "mara ṭama'"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:15.919923812Z",
+  "model": "glm-5.3"
+}

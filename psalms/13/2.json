@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "'għan\/dehra minn bogħod' vs 'dejjem' — il-maġġoranza jaqraw 'għal-dejjem', iżda t-tifsira litteralja hi mira"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אנה",
+      "rationale": "il-mistoqsija 'Saqbi' tirrepeti erba' darbiet fis-salm — anaphora li tibqa' sħiħa bil-Malti"
+    }
+  ],
+  "translation": "Saqbi, Jaħwe, se tinsani għal-dejjem? Saqbi se taħbi ⟨את⟩ wiċċek minni?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/13\/1-4.1792616652505.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Saqbi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "se tinsani"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Saqbi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "se taħbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiċċek"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:12.506173582Z",
+  "model": "glm-5.3"
+}

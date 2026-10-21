@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צר\/מצור",
+      "rationale": "Għajb: Sor (צר) bniet matzor (מצור, fortizza) — l-isem u l-ħaġa mibnija jaqgħu fuq l-istess konsonanti."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "'deheb imsejjajħ' (minn ḥaruts, imqatta' b'mod fin) jew sema' ieħor għad-deheb; l-antiki qarih bħala deheb fin."
+    }
+  ],
+  "translation": "U Sor binietha fortizza, u ġemgħet fidda bħar-ramel, u deheb imsejjajħ bħat-tajn tat-toroq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82e04f6d4340b01cc923910d2da33ce2c02af35fc3e94a7de9612cacd178f272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/9\/2-3.1792623756813.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "binietha"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Sor"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "fortizza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ilha"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "u ġemgħet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "bħar-ramel"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "u deheb imsejjajħ"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "bħat-tajn"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "tat-toroq"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:36.814219394Z",
+  "model": "glm-5.3"
+}

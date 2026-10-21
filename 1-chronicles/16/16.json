@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "qata' ma'",
+      "rationale": "כרת ברית = 'qata' patt', idjom Semitiku għall-għażla ta' patt; il-Malti jżomm il-veduta literali 'qata'."
+    }
+  ],
+  "translation": "li qata' ma' ⟨את⟩ Avraham, u l-ħalfa tiegħu lil Jitsħaq,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "85d1b277e38615a449759ddec93424c8c476295bdbe19ff1c4e119ea62a75441",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/16\/13-16.1792621960589.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "u l-ħalfa tiegħu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "lil Jitsħaq"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:40.590995401Z",
+  "model": "glm-5.3"
+}

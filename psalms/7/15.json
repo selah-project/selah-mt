@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "il-metafora tat-twelid",
+      "rationale": "Tliet verb tat-tqala u tat-twelid f'sekwenza — jinsa', għam, welled — jitfgħu l-ħażen bħala tqala li twelled falsità; is-sekwenza għandha tkun viżibbli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-falsità",
+      "rationale": "שקר huwa 'gideb\/sham' — id-delli tan-nisel kollu; 'falsità' taqsam il-qalba tal-kelma."
+    }
+  ],
+  "translation": "Ara, jinsa' b'ħażen, u għam l-għawġ, u welled il-falsità.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/7\/13-16.1792616545824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "jinsa'"
+    },
+    {
+      "surface": "און",
+      "gloss": "b'ħażen"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "u għam"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "l-għawġ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "u welled"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "il-falsità"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:25.824837676Z",
+  "model": "glm-5.3"
+}

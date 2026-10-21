@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 16:12",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "Il-Malti jeħtieġ il-kopula fejn il-Lhudi jgħid biss 'u hu' b'ebda verb."
+    },
+    {
+      "kind": "crux",
+      "subject": "ħamrani",
+      "rationale": "אדמוני: 'ħamrani (tax-xagħar\/mażar)' kontra 'aħmar fid-demm' — l-istess kelma ta' Eżaw f'Ġen 25:25."
+    },
+    {
+      "kind": "crux",
+      "subject": "rōʾi",
+      "rationale": "רֳאִי (mill-ġerq ראה): 'dehra' jew 'għalli jħares' — traduzzjonijiet jaqsmu bejn 'wiċċ sabiħ' u 'sabiħ għall-ħarsa'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "Jaħwe jkellem lil Samwel direttament b'imperattiv: 'Qum, midhuh'."
+    }
+  ],
+  "translation": "U bagħat u ġabuh ⟨lilu⟩; u ⟨kien⟩ ħamrani, flimkien ma' għajnejn sbieħ u sabiħ għall-wiċċ. U Jaħwe qal: Qum, midhuh, għax dan hu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c7892dc7aac189515c6a4ac02978300c06845e6dcfaa913bc23bb9a0a884379d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/16\/12-12.1792623225176.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "u ġabuh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u ⟨kien⟩"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "ħamrani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "flimkien ma'"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "sbieħ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "għajnejn"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "u sabiħ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "għall-wiċċ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qum"
+    },
+    {
+      "surface": "משחהו",
+      "gloss": "midhuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:53:45.176731373Z",
+  "model": "glm-5.3"
+}

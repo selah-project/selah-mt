@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חבצלת",
+      "rationale": "Probabbilment il-ħabbub (crocus) — kelma rari; tradizzjonijiet qodma jgħidu 'warda'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sjor",
+      "rationale": "שושנה tfisser 'lily' (bjuda) — l-istess kelma għal 'sjor' bl-Għarbi,靠近 il-Malti."
+    }
+  ],
+  "translation": "Jien ⟨sono⟩ ħabbub tas-Saron, sjor tal-irħula.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/2\/1-4.1792619899523.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ħabbub"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "tas-Saron"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "sjor"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "tal-irħula"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:19.524123269Z",
+  "model": "glm-5.3"
+}

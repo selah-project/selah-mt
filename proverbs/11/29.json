@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-kopula li l-Lhudi mhux għandu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħmar",
+      "rationale": "אויל tfisser il-ġuvni mingħajr għerf; 'ħmar' huwa l-kelma Maltija għall-ivvil"
+    },
+    {
+      "kind": "idiom",
+      "subject": "jeret ir-ruwaħ",
+      "rationale": "ינחל רוח: li jeret ir-ruwaħ — xbihat għal dak li jibqa' bla ħaġa fiżika"
+    }
+  ],
+  "translation": "Min idawwar b'tfixkil lil daredu jeret ir-ruwaħ, u l-ħmar huwa serv tar-raġel għaref ta' qalb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/11\/29-31.1792618574765.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "idawwar b'tfixkil"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "lil daredu"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "jeret"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ir-ruwaħ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "u serv"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "l-ħmar"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "tar-raġel għaref"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ta' qalb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:14.765735951Z",
+  "model": "glm-5.3"
+}

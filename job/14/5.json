@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרוצים",
+      "rationale": "'decided\/determined' vs 'determined and unchangeable'; literally 'cut sharp', root of decreeing, għalhekk 'imkejla'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jgħaddihx",
+      "rationale": "Maltese needs object pronoun 'ih' li ma hemmx bil-Lhudi"
+    }
+  ],
+  "translation": "Jekk imkejla huma jamejn, in-numru ta' xihħu ⟨את⟩ miegħek, ħokku għamilt, u ma jgħaddihx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/14\/5-8.1792619342656.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "imkejla"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jamejn"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "in-numru"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "ta' xihħu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "in-numru ta' xihħu"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "ħokku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "għamilt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "jgħaddihx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:02.656963173Z",
+  "model": "glm-5.3"
+}

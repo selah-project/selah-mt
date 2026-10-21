@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "נטוי",
+      "rationale": "'dell mixħut\/mitwil' (ylt, jps) kontra 'dell li jonqos' (kjv, geneva)"
+    }
+  ],
+  "translation": "Ijjomi ⟨huma⟩ bħad-dell mixħut, u jien bħall-ħaxix niexef.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f5a1e189f3dbd09ec1ca78c4634556600a014e5068e8b44fd237e07817ebac54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/11-12.1792623823851.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ijjomi"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "bħad-dell"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "mixħut"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "bħall-ħaxix"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "niexef"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:43.852079606Z",
+  "model": "glm-5.3"
+}

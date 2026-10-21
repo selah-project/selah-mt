@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-prepożizzjoni אל ma tantx tidher fit-traduzzjoni; il-Malti jeħtieġ 'lil' għall-annessjoni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "insejjaħ",
+      "rationale": "ħin preżent dwar il-futur: l-imperfett Lhudi jista' jkun jiżgura futura (\"se nsejjaħ\")"
+    }
+  ],
+  "translation": "Jien lil Elohim insejjaħ, u Jaħwe jiffrankani.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/55\/17-20.1792617219842.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "insejjaħ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "jiffrankani"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:39.842641593Z",
+  "model": "glm-5.3"
+}

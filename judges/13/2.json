@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 13:2",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienet",
+      "rationale": "Il-verb 'kien' miżjud għall-Malti; il-Lhudi jgħid biss 'għarba u ma wellditx'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħielsa minn tfal",
+      "rationale": "עקרה tfisser lit. 'sterili, maħlula (mill-għeruq)' — xebba bla ħila ta' twelid."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנוח\/Manoaħ",
+      "rationale": "Isem Manoaħ (מנוח 'mistrieħ') jistona mal-ġrajja ta' twelid Xemxel"
+    }
+  ],
+  "translation": "Kien hemm raġel wieħed minn Tsorah, mill-familja tad-Dani, u ismu Manoaħ; u mraħtu kienet ħielsa minn tfal u ma kellhiex tat-tfal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/13\/1-4.1792607401478.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kien hemm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "minn Tsorah"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "mill-familja"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "tad-Dani"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "u ismu"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoaħ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "u mraħtu"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "kienet ħielsa minn tfal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tat-tfal"
+    }
+  ],
+  "timestamp": "2026-10-21T18:30:01.479027835Z",
+  "model": "glm-5.3"
+}

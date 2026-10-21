@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tella' t-tinda tiegħu",
+      "rationale": "il-Lhudi ויאהל huwa verb 'ippitchja t-tinda', mhux kemm 'mexxa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "siġar il-ballut",
+      "rationale": "אלון: siġar kbar (ballut\/terebint) kontra 'il-pjanura' ta' traduzzjonijiet qodma"
+    }
+  ],
+  "translation": "U Avraham tella' t-tinda tiegħu, ġie u qagħad f'siġar il-ballut ta' Mamre, li hemm fi Ħevron, u bena hemm mizbeaħ lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/13\/17-18.1792597879512.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "tella' t-tinda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qagħad"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "f'siġar il-ballut"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "ta' Mamre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li hemm"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "fi Ħevron"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaħ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T15:51:19.513622573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Nominal clause 'Jaħwe saħħa tiegħi' needs the Maltese copula."
+    },
+    {
+      "kind": "addition",
+      "subject": "għalhekk",
+      "rationale": "Inferential connector implied by the waw before ויעלז."
+    }
+  ],
+  "translation": "Jaħwe ⟨hija⟩ s-saħħa tiegħi u l-iskart tiegħi; fih fida qalbi, u ġejt msahħaħ; għalhekk taqla' qalbi bil-ferħ, u b'għanja tiegħi nirringrazzjah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/28\/5-8.1792616839485.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "s-saħħa tiegħi"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "u l-iskart tiegħi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "fida"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "u ġejt msahħaħ"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "taqla' bil-ferħ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "u b'għanja tiegħi"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "nirringrazzjah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:19.485832062Z",
+  "model": "glm-5.3"
+}

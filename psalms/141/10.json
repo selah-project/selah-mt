@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחד אנכי עד אעבור",
+      "rationale": "'flimkien jiena sa ma ngħaddi': KJV 'whilst I escape' (għaddi=salva) kontra YLT 'till I pass over' (għaddi bil-qabil)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ninsalva",
+      "rationale": "il-Lhudi ma għidx 'nsalva' esplicitament; אנכי עד אעבור biss — miżjuda biex il-ġrajja tkun ċara"
+    }
+  ],
+  "translation": "Jaqgħu fix-xeddien tagħhom il-ħżarrief, flimkien; jiena ninsalva, sakemm ngħaddi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/141\/9-10.1792618221801.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Jaqgħu"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "fix-xeddien tagħhom"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "il-ħżarrief"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sakemm"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ngħaddi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:21.802630053Z",
+  "model": "glm-5.3"
+}

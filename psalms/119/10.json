@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biegħed",
+      "rationale": "שגה huwa 'jitellef, jżur'—il-Malti jehtieġ verb ta' moviment mal-prepożizzjoni 'minn'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mitzvot",
+      "rationale": "מצות tradott 'kmandamenti' spiss; 'mitzvot' iżomm il-ħoss Lhudi"
+    }
+  ],
+  "translation": "B'qalbi kollha fittittek; la tħallini nbiegħed mill-mitzvot tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/9-12.1792618044994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "B'"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbi kollha"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "fittittek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "tħallini nbiegħed"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "mill-mitzvot tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:24.995481843Z",
+  "model": "glm-5.3"
+}

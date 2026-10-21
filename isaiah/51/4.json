@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Agħtu wider... isimgħu",
+      "rationale": "Sejħa doppja imperattiva lill-poplu — żewġ verbi tas-smiegħ f'vers wieħed."
+    },
+    {
+      "kind": "you",
+      "subject": "poplu tiegħi, nazzjon tiegħi",
+      "rationale": "Indirizz diretta ta' Jaħwe lill-poplu tiegħu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארגיע",
+      "rationale": "רגיע jista' jkun 'nwaqqaf fis-skiet' (KJV 'rest') jew 'f'mument, f'daqqa' (JPS 'on a sudden') — żewġ traduzzjonijiet不同 fis-sens."
+    },
+    {
+      "kind": "elision",
+      "subject": "לאור",
+      "rationale": "'Għal dawl' — l-esponent għandu sens ta' skop, mhux possession; l-ebda verb għad-dawl fit-test."
+    }
+  ],
+  "translation": "Agħtu wider lejja, poplu tiegħi, u nazzjon tiegħi, lejja isimgħu, għaliex Tora toħroġ minn għandi ⟨את⟩, u d-dritt tiegħi għal dawl il-popli nressaqh malajr.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/51\/1-4.1792611992267.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Agħtu wider"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejja"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poplu tiegħi"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "u nazzjon tiegħi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejja"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "isimgħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "minn għandi ⟨את⟩",
+      "marks": "minn għandi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "toħroġ"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "u d-dritt tiegħi"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "għal dawl"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "il-popli"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "nressaqh malajr"
+    }
+  ],
+  "timestamp": "2026-10-21T19:46:32.268214620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "l-ħtira tiegħu",
+      "rationale": "il-Lhudi jgħid biss 'jżomm\/jgħasses'; il-oġġett (il-ħtira) huwa impliċitu u miżjud bil-Malti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנצח \/ לעולם",
+      "rationale": "żewġ kliem differenti għal żewġ tipi ta' 'dejjem' f'parallelizmu, il-varying titlel ma jintiflix"
+    }
+  ],
+  "translation": "Mhux għal-dejjem jiġġieled, u lanqas għal-lezzjoni jżomm ⟨l-ħtira tiegħu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/9-12.1792617805661.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "għal-dejjem"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "jiġġieled"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal-lezzjoni"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "jżomm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:25.662243551Z",
+  "model": "glm-5.3"
+}

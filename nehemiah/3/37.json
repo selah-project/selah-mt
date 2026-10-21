@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 3:37",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiksparixxix",
+      "rationale": "תכס = 'tgħatti' (tkopri); 'tiksparixxix' żżid il-kolore tal-imlied li m'hux fil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imteddew",
+      "rationale": "הכעיסו = 'wċċħaw \/ ippruvaw' (li jħawwdu, jagħtuh rabja) — lit. 'ħeġġew rabja', 'imteddew' mhux eżatt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "U la tgħattix",
+      "rationale": "ktib iktar litterali: 'tgħattix il-ħatja tagħhom, u d-dnub tagħhom minn quddiemek la jitħassarx'"
+    }
+  ],
+  "translation": "U la tiksparixxix lil dawk il-ħatja tagħhom, u lil dnubithom minn quddiemek mħux jitħassru, għax imteddew quddiem il-bennejja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "97d6c9fdbf6da73c636b752818484804bfb950050ba172f69c81a76bfd5b4b52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/3\/37-38.1792621309578.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תכס",
+      "gloss": "tiksparixxix"
+    },
+    {
+      "surface": "על",
+      "gloss": "lil"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "il-ħatja tagħhom"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "u lil dnubithom"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "minn quddiemek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "jitħassru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הכעיסו",
+      "gloss": "imteddew"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "il-bennejja"
+    }
+  ],
+  "timestamp": "2026-10-21T22:21:49.578511767Z",
+  "model": "glm-5.3"
+}

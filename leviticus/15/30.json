@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olosta",
+      "rationale": "עלה literally 'dak li jitla'', holocaust — the going-up picture kept in Maltese."
+    },
+    {
+      "kind": "elision",
+      "subject": "kippur",
+      "gloss": "הכפר rendered by the Hebrew-derived term, 'to cover\/atone'."
+    }
+  ],
+  "translation": "U s-saċerdot jaħdem ⟨את⟩ l-waħdia ħatja u ⟨את⟩ l-oħra olosta, u s-saċerdot jagħmel kippur għaliha quddiem Jaħwe minħabba ż-żgħira tan-niġġisma tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/29-32.1792600906072.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "jaħdem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "is-saċerdot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-waħdia"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l-waħdia"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ħatja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-oħra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l-oħra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olosta"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "u jagħmel kippur"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "għaliha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "is-saċerdot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "iż-żgħira"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "tan-niġġisma tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:46.072900859Z",
+  "model": "glm-5.3"
+}

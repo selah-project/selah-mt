@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 5:7",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזון",
+      "rationale": "'village life\/open country' (KJV) vs 'rulers\/leaders' (JPS, midras il-għerq פרז 'mhux mdawwar b'ħajt'); hawn 'villaġġi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-pronom miżjud biex juri li Debora hi li titkellem"
+    }
+  ],
+  "translation": "Ċessaw il-villaġġi f'Jisrael, ċessaw, sa ma qumt jien, Debora, qumt omm f'Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/5\/5-8.1792607039499.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "Ċessaw"
+    },
+    {
+      "surface": "פרזון",
+      "gloss": "il-villaġġi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ċessaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "qumt jien"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "qumt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "omm"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "f'Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T18:23:59.500652357Z",
+  "model": "glm-5.3"
+}

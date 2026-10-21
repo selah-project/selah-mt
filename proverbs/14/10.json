@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נֶפֶשׁ hija l-ħajja nifs, il-ġuħ u l-vitalità flimkien — mhux ruħ immortali fis-sens tal-Punent."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨fiħ⟩",
+      "rationale": "Il-verb עָרַב jirrikjedi komplement fil-Malti; il-pronom miżjud biex il-ġrajja tkun ċara."
+    }
+  ],
+  "translation": "Il-qalb taf l-imrar ta' nifisha, u fil-faraġ tagħha ma jidħolx ⟨fiħ⟩ barrani.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/9-12.1792618588115.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Il-qalb"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "taf"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "l-imrar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ta' nifisha"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "u fil-faraġ tagħha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "jidħolx"
+    },
+    {
+      "surface": "זר",
+      "gloss": "barrani"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:28.116333827Z",
+  "model": "glm-5.3"
+}

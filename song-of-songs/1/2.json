@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דדיך",
+      "rationale": "Plural 'dodim' — imħabbiet fil-plural, inqas 'imħabba' waħda; il-plural jibqa' plural"
+    },
+    {
+      "kind": "addition",
+      "subject": "Jibsunix",
+      "rationale": "Jussiv milqugħ bit-talba; l-Lhudi jgħid biss 'jbusni'"
+    }
+  ],
+  "translation": "Jibsunix bil-busiet ta' ħalqu, għax l-imħabbiet tiegħek aħjar mill-inbid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/1\/1-4.1792619882679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Jibsunix"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "bil-busiet"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ta' ħalqu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "l-imħabbiet tiegħek"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "mill-inbid"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:02.680023140Z",
+  "model": "glm-5.3"
+}

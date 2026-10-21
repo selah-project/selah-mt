@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħarbija",
+      "rationale": "צבא = ġemgħa organizzata għall-gwerra; 'ħerbija' żżomm il-forma militari"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "kriterji tal-għadd: skont familji, ismijiet, minn għoxrin sena"
+    }
+  ],
+  "translation": "Bin Naftali, twelidhom skont il-familji tagħhom, skont id-dar tal-irġiel tagħhom, bin-numru tal-ismijiet, minn ibn għoxrin sena 'l fuq, kull min joħroġ għall-ħarbija:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/1\/41-44.1792601280967.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "twelidhom"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "skont il-familji tagħhom"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "skont id-dar"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "tal-irġiel tagħhom"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bin-numru"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tal-ismijiet"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "minn ibn"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "'l fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull min"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "għall-ħarbija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:48:00.968793787Z",
+  "model": "glm-5.3"
+}

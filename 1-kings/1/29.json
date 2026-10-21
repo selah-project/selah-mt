@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hija nifs \/ forza tal-ħajja, mhux 'anima' biss"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ħalieq",
+      "rationale": "שבע teoretikament 'għamel sebgħa' — il-ħlef bl-istil Lhudi"
+    }
+  ],
+  "translation": "U l-mellek ħalieq u qal: Ħaj Jaħwe, li ħelsien ⟨את⟩ ruħi minn kull inkwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/29-32.1792609254234.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ħalieq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "l-mellek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ħelsien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruħi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn kull"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "inkwiet"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:54.234968712Z",
+  "model": "glm-5.3"
+}

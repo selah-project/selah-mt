@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Lhudi m'għandux verbu 'kien'; il-Malti jeħtieġh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mija sena",
+      "rationale": "L-età ta' Avraham mgħoddija bil-ħaqq"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bniedem ta' mija sena",
+      "rationale": "L-ebrajk 'iben mija sena' — lingwaġġ li jbena' isem il-familja"
+    }
+  ],
+  "translation": "U Avraham kien bniedem ta' mija sena meta twieldlu ⟨את⟩ Jitsħaq, ibnu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "fcb4755e35b3a5f80e01c27ca0340d12c0ee9d92909efbdad38133cd7ba76b5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/21\/5-8.1792598134173.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "U Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bniedem ta'"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "meta twield"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsħaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsħaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:55:34.174530710Z",
+  "model": "glm-5.3"
+}

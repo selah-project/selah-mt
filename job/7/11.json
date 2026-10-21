@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 7:11",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח tfisser ruwaħ — Spirtu, riħ u nifs fl-istess kelma; ma tinkitibx b'kelma waħda biss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפש hija l-ħaħa u l-ħajja tal-ħaj, mhux 'ruħ' fil-fehma platonika; 'nifs' iżomm il-qraba"
+    },
+    {
+      "kind": "crux",
+      "subject": "fit-tqigħid",
+      "rationale": "בצר litteralment 'post jattan' (connettiv tar-riħ); 'tqigħid' (straċar) jew 'diffikulta' huma alternattivi"
+    }
+  ],
+  "translation": "Jien ukoll ma nisterrħx fommi; se nitkellem fit-tqigħid ta' ruwaħi, nilmenta fl-imrar ta' nifsi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/7\/9-12.1792619186621.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אחשך",
+      "gloss": "nisterrħx"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fommi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "se nitkellem"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "fit-tqigħid"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ta' ruwaħi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nilmenta"
+    },
+    {
+      "surface": "במר",
+      "gloss": "fl-imrar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ta' nifsi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:26.622368412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפגעון",
+      "rationale": "'jiltaqgħu\/jmissu mal-fruntiera' (KJV 'met together', JPS 'reached') vs qari li jfisser 'jimpattaw b'violenza'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "kopula miżjuda bil-Malti fejn il-Lhudi jgħid sempliċement 'in-nofsinhar lil Efrajim'"
+    }
+  ],
+  "translation": "Fin-nofsinhar kien ta' Efrajim, u fit-tramuntana ta' Manasse, u l-baħar kien il-fruntiera tiegħu; u f'Axer kienu jiltaqgħu mit-tramuntana, u f'Jissaškar mill-lvant.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/17\/9-12.1792606685526.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "fin-nofsinhar"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ta' Efrajim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "u fit-tramuntana"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ta' Manasse"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "il-fruntiera tiegħu"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "u f'Axer"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "kienu jiltaqgħu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mit-tramuntana"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "u f'Jissaškar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mill-lvant"
+    }
+  ],
+  "timestamp": "2026-10-21T18:18:05.527704688Z",
+  "model": "glm-5.3"
+}

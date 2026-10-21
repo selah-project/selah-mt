@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעצם היום הזה",
+      "rationale": "litteralment 'fil-għadam (is-sustanza) ta' din il-ġurnata' — idjomm għal 'l-istess ġurnata nnifisha'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitiv 'għal qal' ma jittraduċix b'modu separat bil-Malti"
+    }
+  ],
+  "translation": "U Jaħwe tkellem ma' Moxe f'dik l-istess ġurnata nnifisha, billi qal:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "02fe123f5d5fc84fa2cf6af32b165d27dbbc04b51e2a5cf2738b609c32576eb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/32\/48-48.1792623160129.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "tkellem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "f'dik l-istess ġurnata nnifisha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "billi qal"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:40.129856682Z",
+  "model": "glm-5.3"
+}

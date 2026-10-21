@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש אחד איש אחד",
+      "rationale": "Distributive repetition 'man one, man one' — one man from each tribe; kept as repeated pair."
+    },
+    {
+      "kind": "invitation",
+      "subject": "קחו לכם",
+      "rationale": "Plural imperative addressed to Joshua and the people."
+    }
+  ],
+  "translation": "Ħudu lilkom mill-poplu tnax-il raġel, raġel wieħed, raġel wieħed, minn kull tribù.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8ae2b6c0815c75d80cb6206e0088591d1758d9375dae6d7d85b8744be3e23156",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/4\/2-3.1792623195347.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Ħudu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lilkom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tnax-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "il"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "minn kull tribù"
+    }
+  ],
+  "timestamp": "2026-10-21T22:53:15.348259383Z",
+  "model": "glm-5.3"
+}

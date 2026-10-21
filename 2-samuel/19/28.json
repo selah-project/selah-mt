@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tahal",
+      "rationale": "וירגל litteralment 'spjona' (meraggel, bħal Għesgħu 2:1) — hawn 'tahal\/sedaq' lejn l-iskav; l-għerq tal-ispying jitlief."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨huwa⟩",
+      "rationale": "Il-Lhudi ma għandux kopula; il-Malti jeħtieġha."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mibgħut ta' Elohim",
+      "rationale": "מלאך jista' jkun 'anġlu' jew 'mibgħut' — il-paragun mar-re jippreferi 'mibgħut' bħala d-direzzjoni ta' Elohim, iżda l-aktar tradizzjonali hija 'anġlu'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "mill-iskav lid-data tagħha",
+      "rationale": "Imperattiv ועשה — talba diretta biex David jaġixxi."
+    }
+  ],
+  "translation": "U tahal fl-iskav tiegħek quddiem sidi, ir-re; u sidi, ir-re, ⟨huwa⟩ bħall-mibgħut ta' Elohim: mela agħmel it-tajjeb f'għajnejk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/19\/25-28.1792608986763.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "U tahal fl-"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "iskav tiegħek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "u sidi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "bħall-mibgħut ta'"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mela agħmel"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "it-tajjeb"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "f'għajnejk"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:26.765170003Z",
+  "model": "glm-5.3"
+}

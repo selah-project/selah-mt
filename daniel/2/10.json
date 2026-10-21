@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 2:10",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minn ebda",
+      "rationale": "Hebrew לכל 'of any' in negative context rendered with Maltese negative 'ebda'"
+    },
+    {
+      "kind": "crux",
+      "subject": "hartom",
+      "rationale": "magician\/scribe-of-the-sacred-texts — rendered 'saħħar' per D3 which forbids 'żaħħar' as translation of נביא; here a different office"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלת\/מלה",
+      "rationale": "'word\/matter' frames the verse — the king's single דבר is the impossibility"
+    },
+    {
+      "kind": "mystery",
+      "subject": "no man on earth",
+      "rationale": "the Chaldeans declare the thing humanly unknowable — the verse seals the riddle before Daniel opens it"
+    }
+  ],
+  "translation": "Wegħbu l-Kaldejani quddiem ir-re u qalu: M'hemm x bniedem fuq l-art jista' juri l-kelma tar-re, għaliex ebda sultan, kbir u setgħan, ma talab kelma bħal din minn ebda saħħar, minn ebmaĠelliedin ebda maĠiku, saħħar jewKaldeu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "85066e3bf243a30156d67200752292acc463958a55ace375753987a99136725e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/9-10.1792623997568.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "wegħbu"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "il-Kaldejani"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "יבשתא",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלת",
+      "gloss": "l-kelma"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "jista'"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "juri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ebda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "ושליט",
+      "gloss": "u setgħan"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "כדנה",
+      "gloss": "bħal din"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "talab"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minn ebda"
+    },
+    {
+      "surface": "חרטם",
+      "gloss": "saħħar"
+    },
+    {
+      "surface": "ואשף",
+      "gloss": "jew ġar tax-xjenz"
+    },
+    {
+      "surface": "וכשדי",
+      "gloss": "jew Kaldeu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:06:37.571979118Z",
+  "model": "glm-5.3"
+}

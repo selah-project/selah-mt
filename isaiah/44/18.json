@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טח",
+      "rationale": "'tgħammar bit-tajn\/ġir' — verb ta' malting; sorsu passiv 'għajnejhom ġew mgħammra' kontra KJV 'huwa għatt għajnejhom' (sogġett alla mhux espress fit-test)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mgħammra",
+      "rationale": "טח tfisser litteralment 'laħlaħ\/xtieħeb bil-ġir', traskurata b''għammed'"
+    }
+  ],
+  "translation": "Ma jafux u ma jifhmux, għax ġew mgħammra għajnejhom milli jaraw, u qlubhom milli jifhmu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/44\/17-20.1792611845907.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "jifhmux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "טח",
+      "gloss": "ġew mgħammra"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "milli jaraw"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "għajnejhom"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "milli jifhmu"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "qlubhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:44:05.909452807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi ma għandux kopula; miżjuda bil-parentesi f'nofs il-frasa biss"
+    },
+    {
+      "kind": "measurement",
+      "subject": "id-dimensjonijiet",
+      "rationale": "tlett mitt xiber twil, ħamsin wiesgħa, tletin għoli — kejl eżatt tat-tabut"
+    },
+    {
+      "kind": "substitution",
+      "subject": "xiber",
+      "rationale": "אמה hija l-ama, il-kejl mid-driegħ sa l-ispalla; 'xiber' huwa l-eqreb kejl Malti tradizzjonali"
+    }
+  ],
+  "translation": "U dan huwa kif tagħmel ⟨את⟩ tagħha: it-tul tat-tabut tlett mitt xiber, il-wisa' tagħha ħamsin xiber, u l-għoli tagħha tletin xiber.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/6\/13-16.1792597834664.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tagħmel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ tagħha",
+      "marks": "it-tabut u l-kejl tagħha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mitt"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "xiber"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "it-tul"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tat-tabut"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ħamsin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "xiber"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "il-wisa' tagħha"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "u tletin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "xiber"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "l-għoli tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:34.666068949Z",
+  "model": "glm-5.3"
+}

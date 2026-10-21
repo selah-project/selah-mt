@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tibża' minn",
+      "rationale": "ירא: biża' bil-qima fl-istess ħoss; il-Malti jieħu 'minn' miżjud għall-kostruzzjoni"
+    },
+    {
+      "kind": "addition",
+      "subject": "minn",
+      "rationale": "il-verb Malti tal-biża' jeħtieġ 'minn' qabel l-oġġett; miżjud bħala parti mill-glossa"
+    }
+  ],
+  "translation": "Biex tibża' minn ⟨את⟩ Jaħwe, l-Elohim tiegħek, biex tirża' ⟨את⟩ kull drawwa tiegħu u l-mitzvot tiegħu li jien qed nammirelek, int u ibnek u iben ibnek, il-ġranet kollha ta' ħajtek; u biex ittul il-ġranet tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/6\/1-4.1792605459697.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tibża'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minn Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-Elohim tiegħek"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "biex tirża'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull drawwa tiegħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "drawwa tiegħu"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "u l-mitzvot tiegħu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "qed nammirelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "u ibnek"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "u iben"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ibnek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "il-ġranet ta'"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ħajtek"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "u biex"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "ittul"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "il-ġranet tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T17:57:39.698711420Z",
+  "model": "glm-5.3"
+}

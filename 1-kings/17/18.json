@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לי ולך",
+      "rationale": "idiom Lhudi 'x' għandi jien u int' — mhux traduzzjoni litterali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħtijieti",
+      "rationale": "עוני hija 'inġustizzja\/ħtija', mhux plural fil-Lhudi"
+    }
+  ],
+  "translation": "U qatet lil Elijaħu: X'jien miegħek, int raġel ta' Elohim? Ġejt għandi biex tfakkar ⟨את⟩ ħtijieti u biex toqtol ⟨את⟩ lil ibni?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "744ab08d66c907800b2618091885d73085ba4222d1c5ce78cbdcb882656a2117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/17\/17-20.1792609889469.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "U qatet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaħu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "X'"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "miegħek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "Ġejt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "biex tfakkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħtijieti"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ħtijieti"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "u biex toqtol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ibni"
+    }
+  ],
+  "timestamp": "2026-10-21T19:11:29.470358089Z",
+  "model": "glm-5.3"
+}

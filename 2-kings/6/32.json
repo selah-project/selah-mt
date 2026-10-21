@@ -1,0 +1,202 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 6:32",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Lhudi m'għandux kopula fil-“jissemgħa bilqiegħda”"
+    },
+    {
+      "kind": "crux",
+      "subject": "iben il-qattil",
+      "rationale": "בן המרצח: “iben il-qattil” (il-milja ta' Ħażael? jew is-sultan) kontra BSB “dan il-qattil” bla “iben”"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zgħiduh",
+      "rationale": "לחץ literalment “għafas\/pressa” — fil-bieb, “żommuh imdaħħal fil-bieb”"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-anzjani",
+      "rationale": "diskors dirett ta' Eliseu lill-anzjani b'imperattivi (araw, agħlqu) u mistoqsija"
+    }
+  ],
+  "translation": "U Eliseu ⟨kien⟩ bilqiegħda f'daru, u l-anzjani bilqiegħda miegħu; u bagħat raġel minn quddiemu, qabel ma jasal il-messaġġier għandu; u hu qal lill-anzjani: Araw li dan iben il-qattil bagħat biex ineħħi ⟨את⟩ rasi; araw, meta jidħol il-messaġġier, agħlqu l-bieb, u zgħiduh fil-bieb — hux il-ħoss ta' saqajn sidu warajh?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6159a98a1e0689623c1d6eb5a0c2ce326a74a67009fe94fb96770c6b2d8a91f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/6\/32-32.1792623360080.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "U Eliseu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bilqiegħda"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "f'daru"
+    },
+    {
+      "surface": "והזקנים",
+      "gloss": "u l-anzjani"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "bilqiegħda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "minn quddiemu"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "qabel ma"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jasal"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "il-messaġġier"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "għandu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "l-anzjani"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "המרצח",
+      "gloss": "il-qattil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "biex ineħħi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "rasi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "meta jidħol"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "il-messaġġier"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "agħlqu"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "il-bieb"
+    },
+    {
+      "surface": "ולחצתם",
+      "gloss": "u zgħiduh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu (il-messaġġier)"
+    },
+    {
+      "surface": "בדלת",
+      "gloss": "fil-bieb"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hux"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il-ħoss"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ta' saqajn"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sidu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "warajh"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:00.081724273Z",
+  "model": "glm-5.3"
+}

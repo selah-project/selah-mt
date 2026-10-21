@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (before Nivaħaz)",
+      "rationale": "The first object נבחז lacks the aleph-tav marker while תרתק carries it — an asymmetry in the Hebrew itself."
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלה ספרים, 'the gods of Sepharvaim', takes small-letter 'allat' since these are foreign deities."
+    }
+  ],
+  "translation": "U l-Għawwim għamlu Nivaħaz u ⟨את⟩ Tartak; u s-Sefarwim kienu jaħarqu ⟨את⟩ wliedhom bin-nar lil Adrammelek u lil Anammelek, allat ta' Sefarwajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/29-32.1792610626597.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "u l-Għawwim"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "Nivaħaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Tartak"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "Tartak"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "u s-Sefarwim"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "kienu jaħarqu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wliedhom"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wliedhom"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "lil Adrammelek"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "u lil Anammelek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "allat"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ta' Sefarwajim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:23:46.598390642Z",
+  "model": "glm-5.3"
+}

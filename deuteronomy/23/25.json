@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש mhix 'ruħ' fil-moħħ modern — hija l-ħeġġa, l-aptit, il-ħajja; 'skont ruħek' ifisser 'skont l-aptit tiegħek'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כנפשך שבעך",
+      "rationale": "litteralment 'skont nefeshek, sobheek' — skont l-aptit tiegħek, satitàtek"
+    }
+  ],
+  "translation": "Meta tidħol f'ġnien l-inbid ta' ħbiebek, u tiekol għeneb skont ruħek — il-milja tiegħek — iżda f'vażż tiegħek la tagħtix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/23\/25-26.1792605758786.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tidħol"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "f'ġnien l-inbid"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ta' ħbiebek"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "u tiekol"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "għeneb"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "skont ruħek"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "il-milja tiegħek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iżda f'"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "vażż tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tagħtix"
+    }
+  ],
+  "timestamp": "2026-10-21T18:02:38.787145869Z",
+  "model": "glm-5.3"
+}

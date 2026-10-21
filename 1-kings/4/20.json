@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kienu⟩",
+      "rationale": "Maltese copula added; Hebrew has no verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבים\/לרב",
+      "rationale": "Root רבב repeated: 'many... for multitude', intensification."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Population compared to sand of the sea — counting idiom."
+    }
+  ],
+  "translation": "Juda u Jisrael ⟨kienu⟩ ħafna, bir-ramel li hemm fuq il-baħar għal għadd, jieklu u jixorbu u jifirħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/4\/17-20.1792609311433.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "u Jisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "bir-ramel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "għal għadd"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jieklu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "u jixorbu"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "u jifirħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:01:51.434508917Z",
+  "model": "glm-5.3"
+}

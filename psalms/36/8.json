@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Għalhekk",
+      "rationale": "il-vav fit-taħlita 'ubenè adam' ma jgħidx għalhekk imbagħad — rabta loġika miżjuda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jistkennu",
+      "rationale": "יחסיון tfisser jaħarbu għall-kenn, jafdaw — 'jistkennu' iżomm il-ħarba lejn il-protezzjoni"
+    }
+  ],
+  "translation": "Kemm għali l-ħesed tiegħek, Elohim! Għalhekk ulied il-bnedmin fid-dell ta' ġwienaħek jistkennu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/36\/5-8.1792616959693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kemm"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "għali"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "l-ħesed tiegħek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Għalhekk ulied"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "il-bnedmin"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "fid-dell"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ta' ġwienaħek"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "jistkennu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:19.694145348Z",
+  "model": "glm-5.3"
+}

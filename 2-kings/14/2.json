@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 14:2",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "għoxrin u ħames snin \/ għoxrin u disa' snin",
+      "rationale": "L-età tat-tnaxxija u t-tul tar-renju, in-numri sħaħ bħall-Lhudi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meta sar sultan",
+      "rationale": "במלכו huwa 'fit-taqbila tiegħu' — infinitiv bil-prepożizzjoni; mgeħwdar b'klawżola Maltija."
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-kopula fil-passat m'għandhiex kliem Lhudi korrispondenti."
+    }
+  ],
+  "translation": "Bin għoxrin u ħames snin kien meta sar sultan, u għoxrin u disa' snin reġa' f'Jeruxalajim; u l-isem ta' ommu ⟨kien⟩ Jihoadin, minn Jeruxalajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2118a771d23c9a05eace2d12e7b9db3b6054d3f2dc63ad781e6f9a6698ac1592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/1-4.1792610510868.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "u ħames"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "snin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "meta sar sultan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "u disa'"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "snin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reġa'"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u l-isem"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ta' ommu"
+    },
+    {
+      "surface": "יהועדין",
+      "gloss": "Jihoadin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:21:50.869289814Z",
+  "model": "glm-5.3"
+}

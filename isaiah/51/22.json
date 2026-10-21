@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 51:22",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jiddendlil",
+      "rationale": " יריב is court-language, 'to plead a case'; 'defend' narrows it"
+    },
+    {
+      "kind": "crux",
+      "subject": "קבעת",
+      "rationale": " hapax; a deep goblet — KJV 'dregs' reads it as sediment, literally it is the vessel itself"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": " second feminine singular throughout — the city addressed by her Adonaj Jaħwe"
+    }
+  ],
+  "translation": "Hekk jgħid Adonaj sidek, Jaħwe, u Elohim tiegħek, li jiddendlil lil-poplu tiegħu: Ara, jiena ħadit minn idek ⟨את⟩ it-tazza tat-terħis, ⟨את⟩ l-iskutella, tazza ta' rabja tiegħi — m'intix se tkompli tixorobha iktar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/51\/21-23.1792611911666.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Adonaj sidek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "u Elohim tiegħek"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "jiddendlil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lil-poplu tiegħu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ħadit"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "minn idek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tazza tat-terħis"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "it-tazza"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "tat-terħis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-iskutella"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "l-iskutella"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "tazza"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ta' rabja tiegħi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "se tkompli"
+    },
+    {
+      "surface": "לשתותה",
+      "gloss": "tixorobha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:45:11.668269737Z",
+  "model": "glm-5.3"
+}

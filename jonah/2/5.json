@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 2:5",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ntrejt",
+      "rationale": "גרש fid-dawl tal-ewwel persuna: 'nitratt bħala mġarreġ' — il-KJV 'I am cast out', il-BSB 'banished'"
+    },
+    {
+      "kind": "crux",
+      "subject": "madankollu",
+      "rationale": "אך tista' tfisser 'tassew' (affermazzjoni) jew 'imbliema' (limitazzjoni); l-aktar qari hawn hu ta' tama waqt it-telf"
+    }
+  ],
+  "translation": "U jien għidt: Ntrejt mill-quddiem ta' għajnejk; madankollu se nżid inħares lejn il-palazz ta' qdusitek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/2\/5-8.1792615780885.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "U jien"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "נגרשתי",
+      "gloss": "Ntrejt"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mill-quddiem"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ta' għajnejk"
+    },
+    {
+      "surface": "אך",
+      "gloss": "madankollu"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "se nżid"
+    },
+    {
+      "surface": "להביט",
+      "gloss": "inħares"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "il-palazz"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ta' qdusitek"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:40.885756137Z",
+  "model": "glm-5.3"
+}

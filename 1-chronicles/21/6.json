@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתעב ... את יואב",
+      "rationale": "lit. 'the king's word loathed Joab' — the object of loathing with את; rendered as 'abominable to Joab'."
+    }
+  ],
+  "translation": "U lil Levi u lil Binjamin ma għaddihomx fosthom, għax il-kelma tas-sultan kienet mastrudizzja għand ⟨את⟩ Joab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/21\/5-8.1792622072080.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "U lil Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "u lil Binjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "għaddihomx"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "fosthom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "kienet mastrudizzja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:32.081516540Z",
+  "model": "glm-5.3"
+}

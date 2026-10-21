@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נזם",
+      "rationale": "ħaġra tan-nifs mhux tad-dimension tad-dieħ — ċiringa nattiva m'għandhiex ċiringa narali; 'ċiringa' tintuża bħala eżempju."
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ copula li ma hemmx fil-Lhudi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוכיח\/שומעת",
+      "rationale": "l-att ta' 'jgħid il-ħaqq' jilħaq 'li tisma'' — żewġ naħat tar-ritratt, struttura simetrika."
+    }
+  ],
+  "translation": "Ċiringa tad-deheb u ġemel ta' deheb fin huwa dak li jgħid il-ħaqq, għaref, fuq widna li tisma'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/25\/9-12.1792618867081.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "Ċiringa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "u ġemel"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ta' deheb fin"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "dak li jgħid il-ħaqq"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "għaref"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "widna"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "li tisma'"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:07.082822323Z",
+  "model": "glm-5.3"
+}

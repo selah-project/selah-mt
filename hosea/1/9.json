@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא עמי",
+      "rationale": "L-isem simboliku Lo-Ammi (Mhux-Popli-tiegħi) jindaqq fil-klma ta' warajh: l-isem hu s-sentenza stess."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנכי לא אהיה לכם",
+      "rationale": "Il-Lhudi jgħid biss 'jien ma nkunax għalikom' (jew 'mhux Inkun'); verżjonijiet żżidu 'Alla tagħkom' \/ 'Mulej tagħkom'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nkunax",
+      "rationale": "Il-Malti jeħtieġ il-verb 'kien' mal-negazzjoni fil-futur; il-Lhudi għandu אהיה biss."
+    },
+    {
+      "kind": "elision",
+      "subject": "Lo-Ammi",
+      "rationale": "L-isem Lhudi ġie miżjud bil-glossa Maltija Mhux-Popli-tiegħi biex il-qarrej jifhem is-simbolu."
+    }
+  ],
+  "translation": "U qal: Sejjaħ ismu Lo-Ammi — Mhux-Popli-tiegħi — għax intom mhux popli tiegħi, u jien ma nkunax għalikom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0b80b7aeffca42215d533f24984fc8f564c28384dc661b562b9e97a36af51b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/1\/9-9.1792615227769.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Sejjaħ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (Mhux-Popli-tiegħi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popli tiegħi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nkunax"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:40:27.770001364Z",
+  "model": "glm-5.3"
+}

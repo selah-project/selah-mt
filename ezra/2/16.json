@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "disgħin u tmienja",
+      "rationale": "Għadd fir-reġistru — 98."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ta' Ħizqijah",
+      "rationale": "Il-ל predicattiv jista' jkun żewġ familji (Għater u Ħizqijah) jew dixxendenti ta' Għater mill-ġens ta' Ħizqijah."
+    }
+  ],
+  "translation": "Wlied Għater ta' Ħizqijah, disgħin u tmienja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/2\/13-16.1792620989740.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Għater"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "ta' Ħizqijah"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "disgħin"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "u tmienja"
+    }
+  ],
+  "timestamp": "2026-10-21T22:16:29.741385620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fortizza",
+      "rationale": "misgav bil-Lhudi huwa 'blata għolja, post ftatt' — il-Malti 'fortizza' jaqbad il-funzjoni ta' kenn"
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Kopula miżjuda bil-Malti għax il-Lhudi jilħaqha b'costruzzjoni nominali"
+    }
+  ],
+  "translation": "Jaħwe Tsebawot mħabbna; il-fortizza tagħna huwa Elohi ta' Jagħaqov. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/46\/9-12.1792617111486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mħabbna"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "il-fortizza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tagħna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:51.487503344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hija eqreb għal 'ħajja\/nifs\/appetit' milli 'ruħ' biss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקשתי\/בקשתיו",
+      "rationale": "repetizzjoni ta' בקש f'żewġ franġi, rifless ta' tfittxija bla waqfien"
+    },
+    {
+      "kind": "you",
+      "subject": "lilek in-narratur",
+      "rationale": "l-ewwel persuna ma tirreferix għal ebda indirizzat estern; il-vojs hija tal-għarusa titkellem"
+    }
+  ],
+  "translation": "Fuq sareżtieqi fil-lejliet fittxejt ⟨את⟩ lil-dak li tiħobb ruħi; fittixtu u ma sibtux.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a6ed8eae1bcb4aa48b32bcc1eae730a414e45cd0fd4ca0d9e1491886b369f11b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/1-2.1792623926031.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "sareżtieqi"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "fil-lejliet"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "fittxejt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil-dak li tiħobb ruħi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "li tiħobb"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "fittixtu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "sibtux"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:26.031478545Z",
+  "model": "glm-5.3"
+}

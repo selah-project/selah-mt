@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨li ssir⟩",
+      "rationale": "il-Lhudi għandu żewġ nomi bla verb 'to be' — il-kopula miżjuda bil-Malti u mmarkata"
+    },
+    {
+      "kind": "you",
+      "subject": "Iżrael",
+      "rationale": "il-kastig tal-xita ma jibqax jogħġob, jitlob l-istess indirizz"
+    }
+  ],
+  "translation": "Jaħwe jagħti ⟨את⟩ ix-xita tal-art tiegħek ⟨li ssir⟩ trab u porvli; mis-sema tinżel fuqek sa ma titqered.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/28\/21-24.1792605949672.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "jagħti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ix-xita tal-art tiegħek"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ix-xita"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tal-art tiegħek"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "trab"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "u porvli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tinżel"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "titqered"
+    }
+  ],
+  "timestamp": "2026-10-21T18:05:49.673443947Z",
+  "model": "glm-5.3"
+}

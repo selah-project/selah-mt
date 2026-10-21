@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 2:9",
+  "book": "ruth",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "meta jkollok xama'",
+      "rationale": "וצמת huwa verb ('u tbati x-xama'), imressqa bħala kundizzjoni bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "Bagħaz jkellem lil Rut",
+      "rationale": "diskors dirett lejn Rut, b'imperattivi u mistoqsija retorika (הלוא)"
+    }
+  ],
+  "translation": "Għajnejtek fuq l-għalqa li huma jħasdu, u timxi warajhom. Ma jordnajtx lil żgħażagħ biex ma jmissukx? U meta jkollok xama', tmur għand il-barmil u tixrob minn dak li jġorru iz-żgħażagħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "24c59c0572a58daa962feb442eaadf5582a340a38fa26f05271341675dd6fe9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ruth\/2\/9-12.1792620037558.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "għajnejtek"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "fuq l-għalqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יקצרון",
+      "gloss": "huma jħasdu"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "u timxi"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "warajhom"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jordnajtx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żgħażagħ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "żgħażagħ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "jmissuk"
+    },
+    {
+      "surface": "וצמת",
+      "gloss": "meta jkollok xama'"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "tmur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "il-barmil"
+    },
+    {
+      "surface": "ושתית",
+      "gloss": "u tixrob"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "minn dak li"
+    },
+    {
+      "surface": "ישאבון",
+      "gloss": "jġorru"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "iz-żgħażagħ"
+    }
+  ],
+  "timestamp": "2026-10-21T22:00:37.559170085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנהג\/ינהג",
+      "rationale": "għerq נהג irrepetut tlett darbiet — sewqan\/bħas-sewqan\/isuq — is-siħħa tal-ħolqien taż-żiffra Lhudija"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שגעון",
+      "rationale": "b'ġenn — kelma li tidher hawn biss fit-Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-kopula miżjuda għas-sintassi Maltija; il-Lhudi ma għandux verb 'kien' hawn"
+    }
+  ],
+  "translation": "U l-għassies ħabbar jgħid: Ġie sa għandhom u ma reġax; u s-sewqan ⟨hu⟩ bħas-sewqan ta' Jehu iben Nimxi, għax b'ġenn isuq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "99fbf6a9819858ca24b62de19b9885d8f5f8bb8f17e1ae8bd4f64b99d6ed3e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/9\/17-20.1792610417170.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "u ħabbar"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "l-għassies"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ġie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "għandhom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "reġax"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "u s-sewqan"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "bħas-sewqan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ta' Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimxi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "b'ġenn"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "isuq"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:17.171910036Z",
+  "model": "glm-5.3"
+}

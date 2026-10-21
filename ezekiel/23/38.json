@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-santwarju",
+      "rationale": "מקדש = post imqaddes\/santwarju; l-glossa tinżamm ġenerali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "xammru \/ dilkewhom",
+      "rationale": "żewġ verbi differenti bil-Lhudi (טמא vs חלל) għal att wieħed — ir-repetizzjoni qawwija tinżamm b'żewġ kliem Maltin"
+    }
+  ],
+  "translation": "Barra minn hekk, dan għamluli: xammru ⟨את⟩ is-santwarju tiegħi f'dak in-nhar, u ⟨את⟩ Xabbattijieti dawn dilkewhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/23\/37-40.1792614677890.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "barra minn hekk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "xammru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-santwarju tiegħi"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "is-santwarju tiegħi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dak in-nhar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "f'dak in-nhar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Xabbattijieti"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Xabbattijieti"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "dilkewhom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:31:17.891649261Z",
+  "model": "glm-5.3"
+}

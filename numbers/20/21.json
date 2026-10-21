@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עבר",
+      "rationale": "infinitive costrutt 'għaddija' ma ruħha; rrenduta b'żewġ kelmiet 'passaġġ biex jaqbżu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "prepożizzjoni Maltija meħtieġa qabel l-oġġett dirett magħmul b'⟨את⟩"
+    }
+  ],
+  "translation": "U Edom rrifjuta li jagħti ⟨את⟩ lil Jisrael passaġġ biex jaqbżu ﬁ-fruntiera tiegħu, u Jisrael tellsa minn fuqu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8ec2d459ebd51e0f58c967080a560f829e3f364c02ccaf25e776f5bc818dcf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/20\/21-24.1792602922223.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "u rrifjuta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passaġġ biex jaqbżu"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "ﬁ-fruntiera tiegħu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "u tellsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "minn fuqu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:15:22.224940231Z",
+  "model": "glm-5.3"
+}

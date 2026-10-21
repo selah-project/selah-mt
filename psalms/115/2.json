@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jeħdu jgħidu",
+      "rationale": "il-Malti jeħtieġ verb awżiljarju 'jieħdu' mal-verb 'jgħidu' għal jeħdu jgħidu, mehmuż mal-verb Lhudi wieħed אמר"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהיהם",
+      "rationale": "'Elohim tagħhom' — f'dan il-kuntest (l-għajta tal-ġnus) setgħet tfisser ukoll 'l-allat tagħhom'; il-plural Lhudi jinżamm"
+    }
+  ],
+  "translation": "Għaliex jeħdu jgħidu l-ġnus: Fejn, jekk jogħġbok, Elohim tagħhom?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "59301f071b24e56e4320eb15e0ac23bb0c9de8cd42464002d192f52b44aa4b86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/1-2.1792623860147.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jeħdu jgħidu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "l-ġnus"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Fejn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:20.148164615Z",
+  "model": "glm-5.3"
+}

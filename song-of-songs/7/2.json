@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חמוקי",
+      "rationale": "חמוק deher biss hawn fit-Tanakh — il-forma tal-kelma nnifisha mhux ċara"
+    },
+    {
+      "kind": "crux",
+      "subject": "בת נדיב",
+      "rationale": "'bint in-nadiv' — nobbli, jew bint ta' sid jew 'kolha nobbiltà'; traduzzjonijiet jaqsmu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "passi",
+      "rationale": "פעמיך qorob ta' 'pass\/ħabta' mhux 'riġlejn'"
+    }
+  ],
+  "translation": "Kemm sabiħ il-passi tiegħek bis-sandili, ja bint in-nadiv! Id-dawriet ta' koxxejk bħal ċrieket, xogħol idejn ħaddiem espert.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/7\/1-4.1792619934998.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kemm"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "sabiħ"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "il-passi tiegħek"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "bis-sandili"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ja bint"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "in-nadiv"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "Id-dawriet ta'"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "koxxejk"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "ċrieket"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "xogħol"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ħaddiem espert"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:54.999596249Z",
+  "model": "glm-5.3"
+}

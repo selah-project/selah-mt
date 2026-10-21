@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nizla tal-għolja",
+      "rationale": "בתחתית qrib tal-qiegħ, l-aktar parti t'isfel tal-għolja"
+    },
+    {
+      "kind": "addition",
+      "subject": "bil-wiċċ tagħhom",
+      "rationale": "ויתיצבו huma poġġew b'wiċċhom - infinitiv absolut b'sens intensiv"
+    }
+  ],
+  "translation": "U Moxe ħarġeġ lil ⟨את⟩ in-nies biex jiltaqgħu ma' Elohim, mill-kamp, u huma poġġew bil-wiċċ tagħhom taħt l-għolja — fit-trut tas-sit.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/19\/17-20.1792599624328.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ħarġeġ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nies"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "biex jiltaqgħu ma'"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "u poġġew bil-wiċċ tagħhom"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "fit-trut taħt"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "l-għolja"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:24.329163435Z",
+  "model": "glm-5.3"
+}

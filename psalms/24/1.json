@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Malti jeħtieġ il-copula; il-Lhudi ma jgħidhiex"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is-salm",
+      "rationale": "iftaħ poetiku ta' Jaħwe bħala s-sid tal-art kollha"
+    }
+  ],
+  "translation": "Ta' David, mizmor. Ta' Jaħwe ⟨hija⟩ l-art u l-milja tagħha, it-tevel u dawk li jgħixu fiha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/1-4.1792616751090.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "u l-milja tagħha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "it-tevel"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "u dawk li jgħixu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:51.090762334Z",
+  "model": "glm-5.3"
+}

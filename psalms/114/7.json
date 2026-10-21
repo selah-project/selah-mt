@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sid",
+      "rationale": "אדון hawn jirreferi għal Alla; il-glossarju jippermetti 'sid' biss għal bniedem, għalhekk din tibqa' ħagra ta' tkixxif — 'Adonaj' jista' jkun aħjar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלפני...מלפני",
+      "rationale": "repetizzjoni ta' 'minn quddiem' — paralelliżmu li jinżamm bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "חולי",
+      "rationale": "ħâd 'twist\/whirl': 'ċaqliċċa' vs 'erġa' oħra' (KJV 'Tremble' jinsa l-ħoss tat-turġien)"
+    }
+  ],
+  "translation": "Minn quddiem s-sid, art, ċaqliċċa; minn quddiem Elowaħ ta' Jagħaqov,",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "036edf5516041f77edc5f49b5de41b526f71b3b3ead57ca90a7283266a489271",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/114\/7-8.1792623837952.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "s-sid"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ċaqliċċa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elowaħ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:57.953359885Z",
+  "model": "glm-5.3"
+}

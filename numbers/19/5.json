@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרף … ישרף",
+      "rationale": "Il-verb 'jaħraq' jieħu ħajtu fil-bidu u fit-tarf tal-vers — inċiżż u konċiżż, drawwa li l-Malti jippreserva bir-ripetizzjoni."
+    },
+    {
+      "kind": "crux",
+      "subject": "על פרשה",
+      "rationale": "'Fuq dmuħ tagħha' kontra 'flimkien mad-dmuħ tagħha' (KJV 'with her dung'): il-prepożizzjoni עal tifża' kemk 'fuq' kemm 'miegħu'."
+    }
+  ],
+  "translation": "U jinħaraq ⟨את⟩ il-baqra quddiem għajnejh; ⟨את⟩ ġildaħa u ⟨את⟩ laħamha u ⟨את⟩ demmha, fuq dmuħ tagħha jinħaraq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/19\/5-8.1792602933568.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "u jinħaraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-baqra"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "il-baqra"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "quddiem għajnejh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ġildaħa"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ġildaħa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "laħamha"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "laħamha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "demmha"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "demmha"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "dmuħ tagħha"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "jinħaraq"
+    }
+  ],
+  "timestamp": "2026-10-21T17:15:33.572116582Z",
+  "model": "glm-5.3"
+}

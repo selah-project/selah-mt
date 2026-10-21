@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħmirethom",
+      "rationale": "נצחם litteralment 'il-mmost tagħhom' — is-sugu aħmar tad-demm, imma KJV tqarreb 'saħħithom'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bir-rabja",
+      "rationale": "באפי litteralment 'f' imniexrija tiegħi' — idjom Lhudi għall-ghadab"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sħor \/ ħmirethom",
+      "rationale": "ix-xemgħa ta' l-inbid u l-mmost tal-għeneb tmexxru ma' xulxin — il-ġnus jixorbu r-rabja ta' Jaħwe u demmhom jinżel bħal mmost"
+    }
+  ],
+  "translation": "U ktajt il-ġnus bir-rabja tiegħi, u semmidthom sħor b'ħmer tiegħi, u niżżilt għall-art ħmirethom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/63\/5-8.1792612230016.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "u ktajt"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "bir-rabja tiegħi"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "u semmidthom sħor"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "b'ħmer tiegħi"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "u niżżilt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "għall-art"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ħmirethom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:50:30.016997526Z",
+  "model": "glm-5.3"
+}

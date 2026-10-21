@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "qari bħal צְבָאוֹת (gazzelli) jew צִבְאוֹת (sħab); D2 jgħid Jaħwe Tsebawot għal ħafna."
+    },
+    {
+      "kind": "crux",
+      "subject": "עַד שֶׁתֶּחְפָּץ",
+      "rationale": "soggetto mhux ċert: tixtieq hija (l-imħabba), huwa (l-għażież), jew intom"
+    },
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "pronoun miżjud fil-Malti għas-soggetto mhux ċert"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם…ואם",
+      "rationale": "mhub littonali 'jekk tqajmu' qed isir 'ħalli' fuq l-ordni tan-negattiv"
+    }
+  ],
+  "translation": "Semptulekorni, bniet ta' Jeruxalajim, bil-gżżisel u bir-riġiegħ tar-raħal, ħalli tqajmux u ħalli tqajmu lil ⟨את⟩ l-imħabba, sakemm tixtieq hija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0a8e4ff521e79130072931154f13756e4a88c683f0908c6de7f7e8d0497d86da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/2\/5-8.1792619926798.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Semptulekorni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bniet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ta' Jeruxalajim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "bil-gazzelli"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "bir-riġiegħ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tar-raħal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ħalli"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "tqajmux"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u ħalli"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "tqajmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-imħabba"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "l-imħabba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sakemm"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "tixtieq hija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:46.799495377Z",
+  "model": "glm-5.3"
+}

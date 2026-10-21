@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "ħbajt",
+      "rationale": "צפן — kelma moħbija bi tkopra; il-kelma ta' Elohim maħbija ġewwa l-qalb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "id-dnub",
+      "rationale": "חטא litteralment 'jaqbeż l-mira' — jissorpta, mhux biss jagħmel ħażin"
+    }
+  ],
+  "translation": "F'qalbi ħbajt il-kelma tiegħek, biex ma ndinbx lejk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/9-12.1792618044994.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "F'qalbi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ħbajt"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "il-kelma tiegħek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ndinbx"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lejk"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:24.995610432Z",
+  "model": "glm-5.3"
+}

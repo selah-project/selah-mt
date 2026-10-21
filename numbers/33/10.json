@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-Baħar tal-Qasab",
+      "rationale": "ים סוף: 'Baħar tal-Qasab' (qasab\/papiru) kontra 'il-Baħar l-Aħmar' tat-tradizzjonijiet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħdejn",
+      "rationale": "על 'fuq\/quddiem' saret 'ħdejn' għall-post"
+    }
+  ],
+  "translation": "U telqu minn Ejlim, u kkampjaw ħdejn il-Baħar tal-Qasab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b101526cf2285cc686a8221a513c002cecaaa88bcf8ba56102d82993b875a0ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/33\/9-12.1792605077253.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "U telqu"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "minn Ejlim"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "u kkampjaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ħdejn"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il-Baħar"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "tal-Qasab"
+    }
+  ],
+  "timestamp": "2026-10-21T17:51:17.254514437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "verb",
+      "rationale": "Il-vers jiswa n-nifs qabel it-tkomplija f'5:8 — il-Lhuid ma jagħtilux verb, il-klijent jibqa' mqalleb"
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Ġie miżjud verb kolali biex iżżomm is-sentenza miftuħa kif fil-Lhuid"
+    }
+  ],
+  "translation": "U Ester wieġbet u qalet: It-talba tiegħi u r-rikjesta tiegħi ⟨humiex hekk⟩ —",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aefbde0f372d5edb138e9f6053985d539c8d5cd3dda11ef7dca7fc3e40afc2f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/5\/6-7.1792623950223.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "u wieġbet"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "u qalet"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "it-talba tiegħi"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "u r-rikjesta tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:50.224301915Z",
+  "model": "glm-5.3"
+}

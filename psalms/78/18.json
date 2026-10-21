@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għal ħajjithom",
+      "rationale": "נפש hija ħsus\/ħeġġa\/ħajja — 'nefesh' mhux 'ruħ' tal-għerf ta' wara"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-qrati ta' Iżrael",
+      "rationale": "il-salm jaqra lill-qrati biex jiftakru"
+    }
+  ],
+  "translation": "U ġarrbu lil El fi qalbhom, bitolbu ikel għal ħajjithom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/17-20.1792617485787.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ġarrbu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "fi qalbhom"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "bitolbu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ikel"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "għal ħajjithom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:05.787956537Z",
+  "model": "glm-5.3"
+}

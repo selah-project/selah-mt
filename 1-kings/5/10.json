@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-Lvant",
+      "rationale": "קדם is literally 'the front', i.e. the East; Maltese takes only the directional sense"
+    }
+  ],
+  "translation": "U l-għerf ta' Shelomo kiber iktar mill-għerf ta' kulħadd mill-ġnied... mill-ulied kollha tal-Lvant u mill-għerf kollu ta' Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/5\/9-12.1792609324013.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "u kiber"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "l-għerf"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ta' Shelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "mill-għerf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ta' kulħadd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tal-Lvant"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "u mill-għerf kollu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T19:02:04.014614747Z",
+  "model": "glm-5.3"
+}

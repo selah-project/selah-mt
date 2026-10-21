@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ix-xiħ bil-xagħar abjad",
+      "rationale": "שב = li rdieġed, sar abjad; malti juża perifrasì"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fl-ijiem",
+      "rationale": "l-età tiġi mkejla b'jiem, hekk kif jgħid il-Lhudi"
+    }
+  ],
+  "translation": "Kemm ix-xiħ kif ukoll l-iktar fl-età fostna, ikbar minn missierek fl-ijiem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/15\/9-12.1792619276566.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kemm"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ix-xiħ bil-xagħar abjad"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kif ukoll"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "l-ikbar fl-età"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fostna"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ikbar"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "minn missierek"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "fl-ijiem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:56.567584080Z",
+  "model": "glm-5.3"
+}

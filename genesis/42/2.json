@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "inżlu",
+      "rationale": "imperattiv li jsejjjaħ lill-ulied biex jinżlu u jixtru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "xtiru",
+      "rationale": "שברו hittafel: litteralment 'ogħosbu l-ħabb', jiġifieri esprimixxu fih; tradott b''xtiru'"
+    }
+  ],
+  "translation": "U qal: Ara, smajt li hemm ħabb f'Mitsrajim; inżlu hemm u xtiru għalina minn hemm, u ngħixu u mhux immutu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/1-4.1792598987869.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "smajt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ħabb"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "inżlu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "u xtiru"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "għalina"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "u ngħixu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "immutu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:47.870015194Z",
+  "model": "glm-5.3"
+}

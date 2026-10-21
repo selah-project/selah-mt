@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 2:24",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Formula ta' ħalf bl-ħajja ta' Jaħwe — 'kif Jaħwe huwa ħaj'."
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Kopula meħtieġa fil-Malti, l-Lhudi għandu biss חי יהוה."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית",
+      "rationale": "'Dar' hawn tfisser dinastija (sid David), mhux bini — id-dar ta' David bħala familja."
+    }
+  ],
+  "translation": "U issa, kif Jaħwe huwa ħaj — li stabbilixxieni u poġġieni bilqiegħda fuq it-tron ta' David missieri, u li għamal li darna, kif qal — għax illum għal żgur Adonijahu jiġi mqatel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/2\/21-24.1792609330460.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הכינני",
+      "gloss": "stabbilixxieni"
+    },
+    {
+      "surface": "ויושיביני",
+      "gloss": "u poġġieni bilqiegħda"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "it-tron"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missieri"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "u li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "בית",
+      "gloss": "darna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "jiġi mqatel"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijahu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:02:10.462061183Z",
+  "model": "glm-5.3"
+}

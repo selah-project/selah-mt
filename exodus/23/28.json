@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "iż-żunżan (הצרעה)",
+      "rationale": "ħlejjiet letterali (żunżan\/bram) kontra qari metaforiku (biża' jew pesta mibgħuta minn Jaħwe); it-test jgħid biss 'in-nemel sħun'"
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Lhudi għandu sempliċement וגרשה bil-waw konsegwenti, mingħajr suġġett espliċitu"
+    }
+  ],
+  "translation": "U nibgħat ⟨את⟩ iż-żunżan quddiemek, u huwa jkeċċi ⟨את⟩ il-Ħivit, ⟨את⟩ il-Kenaanit u ⟨את⟩ il-Ħittit minn quddiemek.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/25-28.1792599797455.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "u nibgħat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iż-żunżan"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "iż-żunżan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "quddiemek"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "u huwa jkeċċi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Ħivit"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "il-Ħivit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Kenaanit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il-Kenaanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-Ħittit"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "il-Ħittit"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "minn quddiemek"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:17.456679907Z",
+  "model": "glm-5.3"
+}

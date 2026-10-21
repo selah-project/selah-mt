@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ב בקולם",
+      "rationale": "il-ב prefiss ma għandux ekwivalenti; 'ħosshom instema'' joħroġ il-passiv impliċit"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישמע",
+      "rationale": "verb attiv bla suġġett: 'Ħeżekija sema'', 'Elohim sema'' jew passiv 'instema'' — il-passiv huwa l-inqas preżuntuż"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta' ħossom",
+      "rationale": "il-Malti jeħtieġ pożsessiv marbut ma' 'ħoss' għal בקולם"
+    }
+  ],
+  "translation": "U qamu l-qassisin il-Leviti, u bierekku ⟨את⟩ il-poplu, u ħosshom instema', u t-talb tagħhom daħal f'dar qdusitu, fis-smewwiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/30\/25-27.1792622848906.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "U qamu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "l-qassisin"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "il-Leviti"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "u bierekku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "u instema'"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ħosshom"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "u daħal"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "it-talb tagħhom"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "f'dar"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qdusitu"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "fis-smewwiet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:47:28.907565115Z",
+  "model": "glm-5.3"
+}

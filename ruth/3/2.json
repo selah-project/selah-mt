@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mħabbat magħna",
+      "rationale": "מודעת ħa littra: dak li huwa magħruf magħna, ħabib tal-familja — mhux biss 'qrab'"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (ma' nanosew)",
+      "rationale": "l-ewwel את hawn hu prepozizzjoni 'ma'', mhux il-marka tal-oġġett"
+    },
+    {
+      "kind": "crux",
+      "subject": "id-dallem",
+      "rationale": "זרה jfisser jagħrfar bil-mrewħa; semantika ta' tnaddif il-ħabb — forsi 'jeddeb\/barraf'"
+    }
+  ],
+  "translation": "U issa, mela Boaz mħabbat magħna, li konti ⟨את⟩ ma' nanosew tiegħu — ara, huwa d-dallem il-bier ta' l-orbi billejl.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db5204d153f3b817f408d61a4922597ab3d18e13b5a4aa4383a7ff1ada432496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ruth\/3\/2-3.1792623903279.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mela"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "mħabbat magħna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "היית",
+      "gloss": "konti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "nanosew tiegħu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "id-dallem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-bier"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "il-bier"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ta' l-orbi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "billejl"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:03.280572379Z",
+  "model": "glm-5.3"
+}

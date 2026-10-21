@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "it-",
+      "rationale": "l-artiklu Malti maqbuż, il-Lhudi m'għandux artiklu ma' תקותי"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tama",
+      "rationale": "תקוה litteralment żerq — ħabel; biss fis-sens figurattiv tama"
+    }
+  ],
+  "translation": "Għaliex inti ⟨it-⟩tama tiegħi, Adonaj Jaħwe, il-fiduċja tiegħi minn żgħożiti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/5-8.1792617393720.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tama tiegħi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "il-fiduċja tiegħi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "minn żgħożiti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:33.720819892Z",
+  "model": "glm-5.3"
+}

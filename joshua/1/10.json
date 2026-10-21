@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jgħidu",
+      "rationale": "il-Malti jeħtieġ verb tat-tgħid għal לאמר, fil-plural mhux imperattiv"
+    }
+  ],
+  "translation": "U Joxwe ġabru ⟨את⟩ l-uffiċjali tal-poplu, jgħidu:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3190b9a367082073efa68cb26fabfd3b4aa2ab645494765e0586597803cb8c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/1\/10-11.1792623178170.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ġabru"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Joxwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-uffiċjali tal-poplu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "l-uffiċjali"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħidu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:58.171026059Z",
+  "model": "glm-5.3"
+}

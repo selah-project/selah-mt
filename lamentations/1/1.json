@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "L-eżclamazzjoni 'Kif!' tiftaħ il-ktieb kollu u tissejjaħ bl-istess kelma (Ejka) fit-tradizzjoni Lhudija."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבתי...רבתי",
+      "rationale": "Ripetizzjoni deliberata: 'ħafna nies' quddiem 'ħafna fost il-ġnus' — l-għoli u l-waqgħa bl-istess għerq."
+    },
+    {
+      "kind": "substitution",
+      "subject": "taħt miżata",
+      "rationale": "למס hu ħlas ta' ħidma sfurzata, mhux sempliċiment miżata; il-Malti jżomm il-pitura parzjalment."
+    }
+  ],
+  "translation": "Kif qiegħda waħedha l-belt, rabbat-nies! Saret bħal armla, hija li kienet kbira fost il-ġnus, nobbli fost il-provinċji, saret taħt miżata!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/1\/1-4.1792620114903.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kif"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "qiegħda"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "waħedha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "l-belt"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "rabbat-"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nies"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "saret"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "bħal armla"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fost il-ġnus"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "nobbli"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "fost il-provinċji"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "saret"
+    },
+    {
+      "surface": "למס",
+      "gloss": "taħt miżata"
+    }
+  ],
+  "timestamp": "2026-10-21T22:01:54.903872425Z",
+  "model": "glm-5.3"
+}

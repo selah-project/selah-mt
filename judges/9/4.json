@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 9:4",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebgħin",
+      "rationale": "the seventy pieces of silver counted, echoing the seventy sons of Jerubbaal in v.2"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bla raġun",
+      "rationale": "פחזים literally 'bubbling, frothing' (like boiling water), rendered 'without sense\/reckless'"
+    }
+  ],
+  "translation": "U tawlu sebgħin tal-fidda mid-dar ta' Baal-Berit, u bihom Avimelek ħaddem irġiel vojt u bla raġun, u dawn marru warajh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "67371bf00ebf146ca0eff54b8b8278a29739bb9f04e066e50fd7bd1131edf929",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/1-4.1792607248545.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "U tawlu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebgħin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tal-fidda"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mid-dar"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "-Berit"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "u ħaddem"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bihom"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "vojt"
+    },
+    {
+      "surface": "ופחזים",
+      "gloss": "u bla raġun"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u marru"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "warajh"
+    }
+  ],
+  "timestamp": "2026-10-21T18:27:28.549016018Z",
+  "model": "glm-5.3"
+}

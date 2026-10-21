@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 24:9",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nar-offriji",
+      "rationale": "אשי literally 'fires', rendered as one Maltese compound 'fire-offerings'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "repetition of the same root, 'qaddis tal-qedusija' (holy of holies), kept as cognate repetition"
+    }
+  ],
+  "translation": "U jkun għal Aharon u għal uliedu, u jiekluh f'post qaddis, għaliex qaddis tal-qedusija hu għali, minn nar-offriji Jaħwe — statut ta' dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/24\/9-12.1792601164819.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "U jkun"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "għal Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "u għal uliedu"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "u jiekluh"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "f'post"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tal-qedusija"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għali"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "minn nar-offriji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statut"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta' dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T16:46:04.819703857Z",
+  "model": "glm-5.3"
+}

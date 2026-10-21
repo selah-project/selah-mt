@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 4:4",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "talpijot",
+      "rationale": "כל שלטי הגבורים: hapax legomenon — 'ringieli ta' ġebel (turrets)' kontra 'għal sostenn\/armerija' (KJV\/ASV)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלט",
+      "rationale": "שלט jifher biss hawn fit-Tanakh; probabbilment tipo ta' tarka."
+    },
+    {
+      "kind": "elision",
+      "subject": "huwa",
+      "rationale": "Il-Malti jeħtieġ il-kopula fejn il-Lhudi jgħid biss 'bħal it-torri ta' David għonqok'."
+    }
+  ],
+  "translation": "Bħal it-torri ta' David huwa għonqok, mibni b'ringieli ta' ġebel; elf tarka hemm mwhangra fuqu, il-marzu kollu tal-ġellieda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5b2d3a1623ffc6a960c6284c8a8b5f345e97d94266702b045beb4f37e7aa7d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/4\/4-4.1792623886620.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמגדל",
+      "gloss": "Bħal it-torri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "għonqok"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "mibni"
+    },
+    {
+      "surface": "לתלפיות",
+      "gloss": "b'ringieli ta' ġebel"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "tarka"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hemm mwhangra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-marzu kollu"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "tal-ġellieda"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "tal-ġellieda"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:46.621307078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישבתו \/ השביעי",
+      "rationale": "Root שבת echoes in verb and day number; Maltese 'messaħ' (Xabbat-verb) keeps the echo via Xabbat"
+    }
+  ],
+  "translation": "U l-poplu messaħ fis-seba' jum.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/29-32.1792599641320.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "messaħ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "l-poplu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fis-seba'"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "jum"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:41.320845992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאת פני",
+      "rationale": "'Li tgħolli l-wiċċ' ta' ħadd — idjom Lhudi għall-parzjalità, mhux parzjalità biss."
+    },
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "l-infinitiv להטות jirrappreżenta l-iskop; il-Malti jżid 'biex'."
+    }
+  ],
+  "translation": "It-tlugħ ta' wiċċ il-ħażin mhux tajjeb, biex twarrab lid-dritt fil-ġudizzju.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/18\/5-8.1792618692460.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "it-tlugħ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ta' wiċċ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "biex twarrab"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lid-dritt"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "fil-ġudizzju"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:12.461202373Z",
+  "model": "glm-5.3"
+}

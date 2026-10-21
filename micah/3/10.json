@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Dawk",
+      "rationale": "Il-partiċipella bl-artiklu jkompli s-silta tal-vers 9; bil-Malti hemm bżonn suġġett."
+    },
+    {
+      "kind": "elision",
+      "subject": "בדמים (plural)",
+      "rationale": "Il-plural Lhudi 'demmijiet' sar singular 'demm' bil-Malti."
+    }
+  ],
+  "translation": "(Dawk) li jbennu lil Sijon bid-demm, u lil Jeruxalajim bil-ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/3\/9-12.1792615890669.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "jbennu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "lil Sijon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "bid-demm"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "u lil Jeruxalajim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "bil-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T20:51:30.670673681Z",
+  "model": "glm-5.3"
+}

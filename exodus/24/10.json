@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבנת הספיר",
+      "rationale": "'brickwork\/pavement of sapphire' vs 'whiteness of sapphire' (YLT) — livnat may mean brick-paving or whiteness."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצם",
+      "rationale": "literally 'bone\/essence' — rendered 'sustanza' to keep the concrete sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לטהר",
+      "rationale": "tohar means both brightness and purity; 'klarità' captures only the visual side."
+    }
+  ],
+  "translation": "U raw ⟨את⟩ lil Elohim ta' Jisrael, u taħt saqajh kien bħal xogħol ta' pavimentar ta' safir, u bħal is-sustanza tas-sema għall-klarità.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b247da4c71b64c57c97b13e851d43e154ed605475525e948e2a585ea03db1e5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/24\/10-12.1792602241259.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "u raw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Elohim ta' Jisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "u taħt"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "saqajh"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "bħal xogħol"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ta' pavimentar ta'"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "u bħal is-sustanza"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-sema"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "għall-klarità"
+    }
+  ],
+  "timestamp": "2026-10-21T17:04:01.261655821Z",
+  "model": "glm-5.3"
+}

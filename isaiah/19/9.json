@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שריקות",
+      "rationale": "'imsikkat' (combed flax\/tow) vs 'netwerks' (KJV minn qari ieħor) vs 'linen cloth'"
+    },
+    {
+      "kind": "elision",
+      "subject": "פשתים",
+      "rationale": "il-plural Lhudi ta' 'flax' ngħataw b'singular Malti 'l-ktajjen'"
+    }
+  ],
+  "translation": "U jistħu dawk li jaħdmu l-ktajjen imsikkat, u l-insiġ tal-ħarir abjad.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/19\/9-12.1792611249264.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "u jistħu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dawk li jaħdmu"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "l-ktajjen"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "imsikkat"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "u l-insiġ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "tal-ħarir abjad"
+    }
+  ],
+  "timestamp": "2026-10-21T19:34:09.264988337Z",
+  "model": "glm-5.3"
+}

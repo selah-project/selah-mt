@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "L-Ingliż-Lhudi m'għandux kopula; il-Malti jeħtieġha għall-identifikazzjoni tal-ismijiet."
+    },
+    {
+      "kind": "crux",
+      "subject": "Devir",
+      "rationale": "דְּבִיר jista' jkun l-istess kelma bħala l-'Santa Sanctorum' tat-tempju; hawnhija isem ta' post."
+    }
+  ],
+  "translation": "U tela' minn hemm kontra dawk li jgħixu f'Devir; u isem Devir minn qabel ⟨kien⟩ Kirjat Sefer.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0deff7f1ffbe6908a79d4b1594176b47a058f85ff604b3b4af62562b8375d31c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/15\/13-16.1792606605303.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "u tela'"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dawk li jgħixu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "f'Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u isem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "minn qabel"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-10-21T18:16:45.305087474Z",
+  "model": "glm-5.3"
+}

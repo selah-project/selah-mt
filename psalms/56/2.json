@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאפני",
+      "rationale": "Shaf = jieħu nifs b'ħeġġa, jaqbdu b'ħalq miftuħ — dawwar 'nieżżel-nifs' biex inżomm il-ħsejjes"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחם\/ילחצני",
+      "rationale": "Alliterazzjoni ta' lamed-ħet: jiġġieled (loħem) u jgħatteġ (yilkatseni), mitlufa parzjalment bil-Malti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "talba",
+      "rationale": "Talba diretta lil Elohim: 'oħroġ il-ħniena tiegħek fuqi'"
+    }
+  ],
+  "translation": "Oħroġ il-ħniena tiegħek fuqi, Elohim, għax bniedem qerwejni nieżżel-nifs; kuljum jiġġieled u jissikkani.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/56\/1-4.1792617221350.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Oħroġ il-ħniena tiegħek fuqi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "qerwejni nieżżel-nifs"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jiġġieled"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "jissikkani"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:41.351519789Z",
+  "model": "glm-5.3"
+}

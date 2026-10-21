@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neqqiet",
+      "rationale": "ימיש tfisser 'irtira\/neħħa'; il-Malti juża 'neqqaqx' li jaqsam it-tranżittiv\/intranżittiv tal-Lhudi"
+    },
+    {
+      "kind": "addition",
+      "subject": "lanqas",
+      "rationale": "il-Malti jżid 'lanqas' fit-tieni membru tan-negazzjoni, li l-Lhudi jgħidha b'לא waħda"
+    }
+  ],
+  "translation": "Ma neqqaqx il-kolonna tas-sħab binhar, u lanqas il-kolonna tan-nar bil-lejl, minn quddiem il-poplu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c9e469e303b52ae2c3bd94d27e12c5412c3d271e7be6ca7adc86fb7b9ffb52b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/13\/21-22.1792599458064.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "neqqaqx"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "il-kolonna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "tas-sħab"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "binhar"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "u lanqas il-kolonna"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tan-nar"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:17:38.065338216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saqajh",
+      "rationale": "ירך hija l-ġenb\/sieq, mhux 'coxa' klinika; dgħajjef fuq il-ġenb"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "והוא hija parti mit-test imma l-verbu Malti jeħtieġ aċċessorju; ma ġietx miżjuda"
+    }
+  ],
+  "translation": "U x-xemx tellgħetlu d-dawl meta għadda minn ⟨את⟩ Penuel, u ⟨hu⟩ kien dgħajjef fuq saqajh.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "74f752dfc92df91c2fc7f94300e71c9daf9d9ba99f0999696db8bbfb00412e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/32\/29-32.1792598567798.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "u tellgħet id-dawl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "x-xemx"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "għadda minn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "dgħajjef"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "saqajh"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:47.799189160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Il-Ħibrif ma għandux kopula; il-Malti jeħtieġha għall-ġudizzju nominals"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים \/ בוניו (v1)",
+      "rationale": "בן (iben) u בנה (jibni) jaqsmu l-ħerba: l-wlied huma dawk li jibnu d-dar"
+    }
+  ],
+  "translation": "Ara, wiriet ta' Jaħwe ⟨huma⟩ l-wlied; ħlas hu l-frott tal-ġuf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/127\/1-4.1792618147920.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "wiriet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "l-wlied"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ħlas"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frott"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "tal-ġuf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:07.921255065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכתרו",
+      "rationale": "'jiċċirkondaw' (KJV) kontra 'jikrownaw' (JPS) — għerq כתר itterm żewġ tifsiriet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממסגר",
+      "rationale": "בהא טעם 'ħabs', mhux 'ħaddied'"
+    }
+  ],
+  "translation": "Oħroġ mill-ħabs ruwaħti, biex inrodd ħajr ⟨את⟩ l-isem tiegħek; minħabba fi jiktiru miegħi l-qaddisin, għax inti tigbor it-tajjeb fuqi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/142\/5-8.1792618275108.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Oħroġ"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "mill-ħabs"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruwaħti"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "biex inrodd ħajr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-isem tiegħek"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "l-isem tiegħek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minħabba fi"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "jiktiru miegħi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "l-qaddisin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "tigbor it-tajjeb"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:15.109001764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "intom il-poplu",
+      "rationale": "Sarkażmu: 'intom biss il-poplu' — il-ħila kollha tagħkom"
+    },
+    {
+      "kind": "addition",
+      "subject": "imiss li",
+      "rationale": "il-Malti jeħtieġ bini verbali għat-tiġdid ironiku"
+    }
+  ],
+  "translation": "Tabilħaqq intom il-poplu, u miegħkom imiss li tmiet il-ħilarità!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/1-4.1792619324893.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Tabilħaqq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "miegħkom"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tmiet"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "il-ħilarità"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:44.894649780Z",
+  "model": "glm-5.3"
+}

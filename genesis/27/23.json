@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "imxettin bi xagħar",
+      "rationale": "שערת = 'moxa\/bi xagħar' — aġġettiv rar mit-taghħir עשו 'imħarreġ'; rrendut b'deskrizzjoni"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא הכירו",
+      "rationale": "l-oġett ta' 'għarfu' mhux espress fil-Lhudi; 'lilu' ma miżjuddx"
+    }
+  ],
+  "translation": "U ma għarfu, għax idejh kienu bħal idejn Esav ħuh, imxettin bi xagħar; u beriku.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "eb0279a7e082447f48e5f5d6db8f98c25efd0ff7074f3714f7d24221ff715212",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/27\/21-24.1792598372402.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "għarfu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "idejh"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "bħal idejn"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "imxettin bi xagħar"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "u beriku"
+    }
+  ],
+  "timestamp": "2026-10-21T15:59:32.403368311Z",
+  "model": "glm-5.3"
+}

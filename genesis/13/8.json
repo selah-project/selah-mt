@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Abram to Lot",
+      "rationale": "Diskors dirett: Avram jikkalma lil Lot"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אנשים אחים אנחנו",
+      "rationale": "'aħna irġiel, aħwa' — appożizzjoni żejda; ħallejtha 'aħna aħwa' għax 'irġiel' bil-Malti tarmi htija ta' maskil f'kuntest li l-Ebrajk ma jimplikax"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אל נא",
+      "rationale": "negazzjoni + נא partiċella ta' talba ħanina, 'jekk jogħġbok' mhux imperattiv wieqaf"
+    }
+  ],
+  "translation": "U Avram qal lil Lot: Jekk jogħġbok, ħalli ma jkunux hemm tilwisa bejni u bejnek, u bejn rgħajja u bejn rgħajjek, għax aħna aħwa.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "06e976347f2316a08f954f210adf39444b26af9fa88fd7e473b9740501988198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/13\/5-8.1792597972405.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ħalli ma ... jekk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jogħġbok"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "tilwisa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "bejni"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "u bejnek"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "rgħajja"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "rgħajjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨irġiel⟩"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "aħwa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:52.407002139Z",
+  "model": "glm-5.3"
+}

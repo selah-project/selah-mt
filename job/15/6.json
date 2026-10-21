@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lit-lilek",
+      "rationale": "Il-Hiphil ירשיעך jordna oġġett dirett; bil-Malti hemm bżonn 'lil'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יענו בך",
+      "rationale": "Letteralment 'jwieġbu flok' — 'jixhdu kontriek'."
+    }
+  ],
+  "translation": "Ħalqek jikkundanna ⟨lit⟩-⟨lilek⟩, mhux jien; u xufftejk jirrispondu fuqek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/15\/5-8.1792619278195.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "jikkundanna"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ħalqek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "xufftejk"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "jirrispondu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fuqek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:47:58.195822805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפש hija nifs\/ħajja-ħila, mhux ruħ biss; Malti m'għandux kelma waħda għall-qies kollu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תערג...תערג",
+      "rationale": "il-verbji l-istess għaċ-ċerv u għan-nefes, parabbża ta' tjikbir"
+    }
+  ],
+  "translation": "Bħaċ-ċerv jgħilli wara l-għejun ta' l-ilma, hekk tgħilli ruħi għalek, Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/42\/1-4.1792617072051.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Bħaċ-ċerv"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "jgħilli"
+    },
+    {
+      "surface": "על",
+      "gloss": "wara"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "l-għejun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ta' l-ilma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "tgħilli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "għalek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:12.052305159Z",
+  "model": "glm-5.3"
+}

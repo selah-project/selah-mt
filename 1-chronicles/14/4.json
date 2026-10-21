@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lista ta' ismijiet",
+      "rationale": "Vers bħala lista: ismijiet ta' wlied David imsemmija wieħed wieħed"
+    }
+  ],
+  "translation": "U dawn huma l-ismijiet tat-tfal li twieldulu f'Jeruxalajim: Xammuwa, u Xovav, Natan, u Xlomo.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "907f0fae1979fb6115ee245dfd97cb0034ef82388a8ad4af45917079b019a8ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/14\/4-4.1792623931472.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "U dawn"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "l-ismijiet"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "tat-tfal li twieldu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨twieldu⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "f'Jeruxalajim"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Xammuwa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "u Xovav"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "u Xlomo"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:31.472893626Z",
+  "model": "glm-5.3"
+}

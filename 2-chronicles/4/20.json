@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זהב סגור",
+      "rationale": "'deheb magħluq' — it-tradizzjonijiet jaqgħu bejn 'deheb safi' u 'deheb raffinat'; il-ħoss ta' סגר huwa 'magħluq\/siġillat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "id-Debir",
+      "rationale": "isem Lhudi għall-iktar parti interna tas-sanctuarius — ma jiġix tradott."
+    }
+  ],
+  "translation": "U ⟨את⟩ il-lampieri bil-lampi tagħhom, biex jaħarquhom skont id-dritt quddiem id-Debir — deheb safi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/17-20.1792622343357.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-lampieri"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "il-lampieri"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "bil-lampi tagħhom"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "biex jaħarquhom"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "skont id-dritt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "id-Debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "safi"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:03.358339342Z",
+  "model": "glm-5.3"
+}

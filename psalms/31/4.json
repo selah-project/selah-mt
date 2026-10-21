@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "Żewġ għeruq qrib (n-ħ-h \/ n-h-l) li jħalltu tmexxija u rwieħ bħal merħla — it-tgħawid tal-ħoss ma jgħaddix bil-Malti."
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "Is-suffiss tal-possessiv Lhudi fuq סלעי u מצודתי m'għandux bżonn pronom separat, imma l-Malti jikteh 'blati tiegħi' b'suffiss ieħor milli ta' verse 3."
+    }
+  ],
+  "translation": "Għax inti blati u fortizza tiegħi; u minħabba ismek tmexxieni u tiggidni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/31\/1-4.1792616846704.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "blati"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "u fortizza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "u minħabba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tmexxieni"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "u tiggidni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:26.704965652Z",
+  "model": "glm-5.3"
+}

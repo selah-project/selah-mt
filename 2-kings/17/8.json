@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומלכי ישראל אשר עשו",
+      "rationale": "Sintassi mbigħa: 'u slaten Jisrael li għamlu' — għal min jirreferi 'għamlu'? Il-ġnus, is-slaten, jew Jisrael? KJV u YLT jaqsmu."
+    },
+    {
+      "kind": "elision",
+      "subject": "בחקות הגוים",
+      "gloss": "il-kostrutt mieħed statuti + ġnus jeħtieġ 'ta'' bil-Malti, prepożizzjoni miżjuda."
+    }
+  ],
+  "translation": "u mxew fi statuti ta' l-ġnus li Jaħwe keċċi minn quddiem il-wlied ta' Jisrael, u skont dawk tas-slaten ta' Jisrael, li huma għamlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/5-8.1792610526244.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "u mxew"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "fi statuti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ta' l-ġnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "keċċi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "il-wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "u skont dawk tas-slaten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "huma għamlu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:22:06.246969589Z",
+  "model": "glm-5.3"
+}

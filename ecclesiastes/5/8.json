@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-vers kollu",
+      "rationale": "sentenza moota: 'u l-vantaġġ tal-art f'kollox hija re mħaddem għall-għalqa' — xi jaqraw jgħidu li r-re jqisha mill-għalqa; oħrajn jarawha bħala kritika tas-sultan mħaddem mill-art."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mħaddem",
+      "rationale": "נעבד passiv ta' עבד — 'mħaddem\/maħdum', il-passiv jiżomm il-voċ ta' min jaħdem l-art għal min jaħkimha."
+    }
+  ],
+  "translation": "U l-vantaġġ tal-art f'kollox hija: re mħaddem għall-għalqa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/5\/5-8.1792620296601.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "u l-vantaġġ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kollox"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hija"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "għall-għalqa"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "mħaddem"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:56.603612672Z",
+  "model": "glm-5.3"
+}

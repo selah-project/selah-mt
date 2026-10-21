@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kelmek",
+      "rationale": "והטף 'qattar' biss fil-Lhudi; il-kelma miżjuda għall-ġerġa tat-titjir"
+    },
+    {
+      "kind": "crux",
+      "subject": "sikkina tal-għalqa tan-Neghev",
+      "rationale": "il-KJV\/Jeneva jaqraw 'Ġerusalemm u s-santwarji' skont il-versifikazzjoni l-oħra; il-MT hawn jitkellem dwar sikkina tan-Neghev, metafora għal Ġuda"
+    },
+    {
+      "kind": "idiom",
+      "subject": "והטף",
+      "rationale": "'qattar' — idjoma Lhudija għat-taħdit profetiku b'qatra bla waqfien"
+    }
+  ],
+  "translation": "Iben adam, agħti wiċċek triq in-nofsinhar, u qattar ⟨kelmek⟩ lejn id-darum, u ppprofetizza lejn sikkina tal-għalqa, in-Neghev.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7da1e21f133e764a4b43af5a86cf8c8724fe0d443257e6cbb7577235c82a2f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/21\/1-4.1792614542977.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שים",
+      "gloss": "agħti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "triq"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "in-nofsinhar"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "u qattar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "id-darum"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "u ppprofetizza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sikkina"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tal-għalqa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "in-Neghev"
+    }
+  ],
+  "timestamp": "2026-10-21T20:29:02.978890278Z",
+  "model": "glm-5.3"
+}

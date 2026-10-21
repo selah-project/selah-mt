@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għid gideb fit-patt",
+      "rationale": "שקרנו בברית: litteralment 'iddiebdu (aħna) fil-patt tiegħek', verż f'Malti b'suffiss ta' qabel"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Din kollha ġiet fuqna",
+      "rationale": "באתנו jista' jkun ukoll 'ġejna f'din (kollha)', iżda 'ġriet fuqna' huwa l-qari naturali fil-kuntest tal-lamentu"
+    }
+  ],
+  "translation": "Din kollha ġiet fuqna, u ma ninsewk, u ma ħriġniex gideb fit-patt tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/17-20.1792617045263.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "ġiet fuqna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "ninsewk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ħriġniex gideb"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "fit-patt tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:45.264276733Z",
+  "model": "glm-5.3"
+}

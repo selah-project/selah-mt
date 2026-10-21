@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iktar",
+      "rationale": "il-Malti jeħtieġ 'iktar mid-deheb' għall-paragun; il-Lhudi jgħid sempliċement מִזָּהָב 'mid-deheb', bħal-min jgħid iħobb lil xi ħadd 'minn' ħaddieħor"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זהב\/פז",
+      "rationale": "żewġ kliem għad-deheb — deheb ordinarju u deheb raffinat — fil-paralleliżmu semitiku; it-tiġġebra ta' żewġ deheb tiffoka l-valor"
+    }
+  ],
+  "translation": "Għalhekk ħabbilt il-kmandamenti tiegħek, iktar mid-deheb u mid-deheb safi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1947eb59c44c28d134720372bcdf4dbcacc37f2f65a6ec6a5c2aac1159ccff56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/126-127.1792623865438.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ħabbilt"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "il-kmandamenti tiegħek"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "iktar mid-deheb"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "u mid-deheb safi"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:25.439480209Z",
+  "model": "glm-5.3"
+}

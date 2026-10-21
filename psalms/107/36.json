@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jbniew",
+      "rationale": "ויכוננו is 'they establish\/found'; 'jbniew' (build) captures the founding of a city but loses the erect\/set-up picture"
+    }
+  ],
+  "translation": "U hemm joqgħod lil min hu bil-ġuh, u jbniew belt biex jgħixu fiha",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/33-36.1792617866445.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "U joqgħod"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "lil min hu bil-ġuh"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "u jbniew"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "belt"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "biex jgħixu fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:26.446945225Z",
+  "model": "glm-5.3"
+}

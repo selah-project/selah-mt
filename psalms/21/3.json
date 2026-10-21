@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Maltese requires the article on ix-xewqa, t-talba; Hebrew has none"
+    },
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "gloss-note": "the negative particle בל merged into one Maltese negative maċċarthajr with מנעת"
+    }
+  ],
+  "translation": "Ix-xewqa ta' qalbu tajtha lilu, u t-talba ta' xofftejh maċċarthajr. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/21\/1-4.1792616756290.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Ix-xewqa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ta' qalbu"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tajtha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "u t-talba"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ta' xofftejh"
+    },
+    {
+      "surface": "בל",
+      "gloss": "maċċarthajr"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "maċċarthajr"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:56.291665653Z",
+  "model": "glm-5.3"
+}

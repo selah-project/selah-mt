@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kippur",
+      "rationale": "כפר huwa 'jgħatti\/jagħmel kippur' — mhux sempliċiment 'jidfen'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "il-Lhudi ma għandux kopula għas-subjekt femminili tad-dar"
+    }
+  ],
+  "translation": "U jbattiel ⟨את⟩ it-tjur il-ħaj 'il barra mill-belt, lejn wiċċ il-għalqa, u jagħmel kippur fuq id-dar, u ⟨hi⟩ titteħjar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6f488ff715578c94b3a1054d484d5f471288246f2b65cbc9925e17dde7764593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/53-56.1792600794469.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "u jbattiel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tjur il-ħaj"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "it-tjur"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "il-ħaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'il barra"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "minn barra"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mill-belt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il-għalqa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "u jagħmel kippur"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "u titteħjar"
+    }
+  ],
+  "timestamp": "2026-10-21T16:39:54.469563291Z",
+  "model": "glm-5.3"
+}

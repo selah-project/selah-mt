@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ġid li ħalla",
+      "rationale": "גמוליו tfisser 'trattament\/at ta' ġieħ' — ġid jew ħazen; hawn it-trattar tajjeb ta' Jaħwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ fi żraben",
+      "rationale": "l-ebda oġġett ċar għal את f'dan il-vers — iżżomm il-marka biss"
+    }
+  ],
+  "translation": "Ibierk il-ħajja fiħi, Jaħwe, u tinsietx kull ġid li ħalla ⟨את⟩",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/1-4.1792617813017.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Ibierk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "il-ħajja fiħi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "tinsietx"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "ġid li ħalla ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:33.018045117Z",
+  "model": "glm-5.3"
+}

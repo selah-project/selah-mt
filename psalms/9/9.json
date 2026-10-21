@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "תבל hija 'l-art imħallta u abitata' — kelma waħda, mhux sempliċement 'dinja'"
+    }
+  ],
+  "translation": "U ⟨huwa⟩ jaħkem b'tsedeq ⟨il-art abitata⟩, iġġudika lill-ġnus bid-dritt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/9-12.1792616511702.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "u ⟨huwa⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "jaħkem b'tsedeq"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨il-art abitata⟩"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "b'tsedeq"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "iġġudika"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "lill-ġnus"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "bid-dritt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:51.702536834Z",
+  "model": "glm-5.3"
+}

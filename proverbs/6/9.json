@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "għasil",
+      "rationale": "Domanda diretta li tissejjaħ l-għasil biex iqum — hmiz ta' mistrieħ."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-għasil",
+      "rationale": "Indirizz dirett lejn l-għasil bla karatteristiċi oħra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתי…מתי",
+      "rationale": "Iterazzjoni ta' 'sa meta' darbtejn, ritorn mgħallem tal-proverbju."
+    }
+  ],
+  "translation": "Sa meta, ja għasil, torqod? Sa meta tqum minn rqadek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/6\/9-12.1792618407423.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "għasil"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "torqod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "tqum"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "rqadek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:27.423625990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-pilastru",
+      "rationale": "מצבת: standing pillar \/ cult-stela; KJV 'image', LXX 'shameful thing' — the literal stone is kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "għax",
+      "rationale": "Hebrew has vav simply continuing; the causal link is implied by the narrative contrast."
+    }
+  ],
+  "translation": "U għamel il-ħażin f'għajnejn Jaħwe, biss mhux bħal missieru u bħal ommu; għax neħħa ⟨את⟩ il-pilastru ta' Baħal li kien għamel missieru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/3\/1-4.1792610115613.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "U għamel"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "biss"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "bħal missieru"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "u bħal ommu"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "għax neħħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-pilastru ta' Baħal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "il-pilastru"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ta' Baħal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kien għamel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "missieru"
+    }
+  ],
+  "timestamp": "2026-10-21T19:15:15.614195362Z",
+  "model": "glm-5.3"
+}

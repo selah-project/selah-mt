@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "maqdes",
+      "rationale": "Sett ta' qabel jittraduċi 'qaddis'; żommejt il-ġisem 'maqdes' (post qaddis) għax il-kelma tfisser post, mhux kwalità"
+    }
+  ],
+  "translation": "Ibgħatlek għajnuna mill-maqdes, u mis-Sjon jappoġġjalek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/20\/1-4.1792616759624.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ibgħatlek"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "għajnuna"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "mill-maqdes"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "u mis-Sjon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "jappoġġjalek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:59.624735150Z",
+  "model": "glm-5.3"
+}

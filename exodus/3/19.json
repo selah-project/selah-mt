@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא ביד חזקה",
+      "rationale": "'lanqas b'id qawwija' vs 'ħlief b'id qawwija' — il-KJV jaqra l-ewwel, il-JPS it-tieni; il-Lhudi jista' jifhem it-tnejn"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-missier tagħkom",
+      "rationale": "il-Lhudi għandu biss יתן אתכם להלך 'ma jħallix lilkom tmorru'; l-objett ta' יתן huwa lilkom innifskom"
+    }
+  ],
+  "translation": "U jien naf li ma jħallix il-missier tagħkom imorru, sultan Mitsrajim, lanqas b'id qawwija.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "2005100f72f4c77e74267f87ec30189fb5e0dbda32230829456b792831c36db5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/17-20.1792599307941.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jħallix"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "sultan Mitsrajim ma jħallix lilkom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "tmorru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lanqas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "b'id"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "qawwija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:15:07.942528677Z",
+  "model": "glm-5.3"
+}

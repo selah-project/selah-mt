@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-fond",
+      "rationale": "tehom huwa l-abiss, il-baħar il-fond primordjali; 'il-fond' jaqreb iż-żamma tal-ħoss ma' 'fond' ta' l-ilma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקע\/יבקע",
+      "rationale": "l-istess għerq ta' ps 78:13 — il-baħar u l-blat jitfaqqru bl-istess kelma, parallel li jibqa' ċar bil-Malti 'faqqar'"
+    }
+  ],
+  "translation": "Faqqar il-blat fid-deżert, u saqhom daqs il-fond il-kbir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/13-16.1792617467324.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "faqqar"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "il-blat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "u saqhom"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "daqs il-fond"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "il-kbir"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:47.325251921Z",
+  "model": "glm-5.3"
+}

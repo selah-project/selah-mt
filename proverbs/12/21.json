@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאנה",
+      "rationale": "jmiss\/li jtirax għalih: 'ma jiġrxux' (ħażen ma jaqax fuq il-ġust) kontra 'ma jixtieqx' (YLT: il-ġust ma jixtieqx l-iniquità)."
+    },
+    {
+      "kind": "addition",
+      "subject": "iżda",
+      "gloss-rationale": null,
+      "rationale": "il-waw (ו) ta' kuntrast rreżuta b'iżda, li Malti jeħtieġ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ebda",
+      "rationale": "in-negazzjoni doppja: לא...כל tittraduċi b'ma...ebda skont il-grammatika Maltija"
+    }
+  ],
+  "translation": "Ma jmissux lill-ġust ebda inkwetantiżmu, iżda l-ħżiena jkunu mimlija ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1a6647e4f6a0c7bd81ec8d4985205b95d09fbf9d90533ecf5d6aa8ece51a3cf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/12\/21-24.1792618604050.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "jmissux"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "lill-ġust"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ebda"
+    },
+    {
+      "surface": "און",
+      "gloss": "inkwetantiżmu"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "iżda l-ħżiena"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mimlija"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:44.050614629Z",
+  "model": "glm-5.3"
+}

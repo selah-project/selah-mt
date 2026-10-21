@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "l-Ebrajk m'għandux verb 'to be'; il-kopula meħtieġa bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiġġerja",
+      "rationale": "ירון lit. 'toħrog ħoss imlewwaq' — tiġri ta' leħen; 'jiġġerja' jaqrab għall-ħoss ta' ferħ"
+    }
+  ],
+  "translation": "Fit-trasgressjoni ta' bniedem ħażin ⟨hemm⟩ trappola, iżda l-ġust jiġġerja u jifraħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/29\/5-8.1792619017704.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "fit-trasgressjoni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta' bniedem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "trappola"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "iżda l-ġust"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "jiġġerja"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "u jifraħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:43:37.704723330Z",
+  "model": "glm-5.3"
+}

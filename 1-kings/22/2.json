@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "li",
+      "rationale": "konġunzjoni miżjuda bil-Malti għal ויהי + frażi temporali"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fit-tielet sena",
+      "rationale": "għadd ta' snin, kollegat mat-tlett snin ta' qabel"
+    }
+  ],
+  "translation": "U ġara fit-tielet sena, li Jehoxtafat, sultan ta' Jehuda, niżel għand sultan Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/1-4.1792610021194.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "fit-tielet"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "sena"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "niżel"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoxtafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:13:41.195304886Z",
+  "model": "glm-5.3"
+}

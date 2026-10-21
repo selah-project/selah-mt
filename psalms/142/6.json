@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħti",
+      "rationale": "seħti għal חלקי — l-erettri nett tal-Lhudi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "fl-art tal-ħajjin",
+      "rationale": "jista' jkun 'fil-pajjiż tal-ħajjin', iżżejjed minori"
+    }
+  ],
+  "translation": "Siret leke, Jaħwe; għidt: Inti kenni, seħti fl-art tal-ħajjin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/142\/5-8.1792618275108.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Siret"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "leke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inti"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "seħti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tal-ħajjin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:15.108694647Z",
+  "model": "glm-5.3"
+}

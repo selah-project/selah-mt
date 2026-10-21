@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-irġel tal-baħar",
+      "rationale": "Għona jweġeb l-istejjes tal-irġel: dikjarazzjoni diretta dwar min hu u lil min iqim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għandi l-biżgħa tiegħu",
+      "rationale": "ירא bi את — 'nibża' minnu \/ nirrispetta'; il-Malti jiftieħ bil-porporizzjoni."
+    }
+  ],
+  "translation": "U qal lilhom: Ebraj jien, u ⟨את⟩ Jaħwe, Elohim tas-sema, jien għandi l-biżgħa tiegħu, li għamel ⟨את⟩ il-baħar u ⟨את⟩ l-art in-nixfa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/1\/9-12.1792615809421.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ebraj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-sema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "għandi l-biżgħa tiegħu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-baħar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-art in-nixfa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "l-art in-nixfa"
+    }
+  ],
+  "timestamp": "2026-10-21T20:50:09.422476030Z",
+  "model": "glm-5.3"
+}

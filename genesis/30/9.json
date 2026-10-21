@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-mara tagħha",
+      "rationale": "שפחה hija skjava tal-familja; 'mara' fil-Malti huwa l-eqreb terminu ta' din il-pożizzjoni domestika"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עמדה מלדת",
+      "rationale": "litteralment 'telgħet tinsa' milli twelled, literalment 'waqfet milli twelled'"
+    }
+  ],
+  "translation": "U Lea rat li kienet waqfet milli twelled, u ħadet lil Zilpa, il-mara tagħha, u tat lilha lil Jagħaqov bħala mara.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "73ab5786e098fc7118e5ce9986d02d24e6f5c17bfade2760f3410c54df032865",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/30\/9-12.1792598367008.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "rat"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "kienet waqfet"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "milli twelled"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ħadet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "il-mara tagħha"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "tat lilha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jagħaqov"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lil Jagħaqov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bħala mara"
+    }
+  ],
+  "timestamp": "2026-10-21T15:59:27.008947408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "miegħi",
+      "rationale": "אתי hawn (H854, 'miegħi') kontra l-qari 'għajr jien' jew 'flimkien miegħi'; l-istess konsonanti tal-merkatur את"
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "gloss": "allat b'ittra żgħira għall-idoli, mhux Elohim"
+    }
+  ],
+  "translation": "La tagħmlux miegħi ⟨את⟩ allat tal-fidda, u allat tad-deheb la tagħmlux għalikom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/20\/21-24.1792599610434.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "La"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "tagħmlux"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ miegħi",
+      "marks": "allat tal-fidda u allat tad-deheb"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tal-fidda"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "u allat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tagħmlux"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:10.435860365Z",
+  "model": "glm-5.3"
+}

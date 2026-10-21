@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "talab",
+      "rationale": "ויתפלל tfisser 'interċeda\/talab b'mod uffiċjali' — 'talab' huwa l-eqreb bil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "welldu",
+      "rationale": "וילדו jista' jkun 'u welldu' jew 'u reġgħu welldu' — iż-żewġ saru maternej"
+    }
+  ],
+  "translation": "U Avraham talab lil Elohim, u Elohim fejjegħ ⟨את⟩ lil Avimelek u ⟨את⟩ lil martu u l-ilsiera tiegħu, u welldu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ebc5c3d80dd8765d16dd74f8b1a42fea020ec3ae3785531958dae86e04273230",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/20\/17-18.1792598111405.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "talab"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "fejjegħ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "martu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "martu"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "l-ilsiera tiegħu"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "welldu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:55:11.406313416Z",
+  "model": "glm-5.3"
+}

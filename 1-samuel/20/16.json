@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכרת",
+      "rationale": " Għerq כרת mill-ġdid: il-patt 'inqata'' — jircola ma' 'qatta'' tal-versi ta' qabel."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובקש יהוה",
+      "rationale": " 'U Jaħwe jfittex\/jitlobha': jew deċlarazzjoni narranti, jew kliem tal-patt stess ('Jaħwe jitlobha minn id l-għedewwa') — it-Tanakh jitla' it-tnejn."
+    },
+    {
+      "kind": "addition",
+      "subject": "jitlobha",
+      "rationale": " L-awgment 'ha' bil-Malti jimla l-oġġett impliċit tal-verb ובקש."
+    }
+  ],
+  "translation": "U Jonatan għamel patt mad-dar ta' David, ⟨u⟩ Jaħwe jitlobha minn id l-għedewwa ta' David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/20\/13-16.1792608196885.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "U għamel patt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "u jitlobha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "l-għedewwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:43:16.887057012Z",
+  "model": "glm-5.3"
+}

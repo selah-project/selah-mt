@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "נפש nefesh hija nifs \/ ħajja, mhux 'ruħ' fiż-żona tal-Lhudi — miżjuda l-prepożizzjoni biex tonqos it-tifsira"
+    },
+    {
+      "kind": "crux",
+      "subject": "iqumu b'ruwaħthom",
+      "rationale": "נשאו נפשו: 'jgħollu ruwaħthom' — jew 'ixennqu għal' l-għaww tagħhom, jew 'jitolbu' l-għaww tagħhom; il-KJV\/JPS 'set their heart on' taqbżiża"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ħtata \/ jieklu",
+      "rationale": "il-qassisin jieklu l-offerti tad-dnub (חטאת huwa wkoll is-sagrifiċċju tad-dnub, Lev 6) — taħt fuq l-ironija li jgħixu mid-dnub tan-nies"
+    }
+  ],
+  "translation": "Il-ħtata ta' niesi jieklu, u lejn l-għaww tagħhom iqumu b'ruwaħthom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b22359d58a33c85891115b859912be76d71e4c75ecbfcc74e487e14d82f75921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/4\/8-8.1792623673388.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "il-ħtata"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ta' niesi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jieklu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lejn"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "l-għaww tagħhom"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "iqumu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "b'ruwaħthom"
+    }
+  ],
+  "timestamp": "2026-10-21T23:01:13.389589811Z",
+  "model": "glm-5.3"
+}

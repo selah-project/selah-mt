@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 18:20",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בשרה \/ בשרת \/ תבשר",
+      "rationale": "Root בשר three times in one breath — 'news-bearer \/ you shall bear \/ you shall not bear' — the repetition is the rebuke."
+    },
+    {
+      "kind": "addition",
+      "subject": "dwar",
+      "rationale": "על before 'the king's son is dead' is asyndetic 'on account of'; Maltese adds dwar to carry the causal sense."
+    }
+  ],
+  "translation": "U Ġoab qallu: M'intix raġel ta' l-aħbar it-tajba din il-ġurnata; f'ġurnata oħra tħabbar, iżda din il-ġurnata ma tħabbarx, għaliex dwar miet iben ir-re.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a3385d7e7061cab6f1dbfea11606d7db1d1288afa95d0129e8f35c584ccd1cde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/18\/17-20.1792608961942.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ġoab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "ta' l-aħbar it-tajba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "ובשרת",
+      "gloss": "f'ġurnata oħra tħabbar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'ġurnata"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "oħra"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "u din"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "tħabbarx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "על",
+      "gloss": "dwar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miet"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:01.944073624Z",
+  "model": "glm-5.3"
+}

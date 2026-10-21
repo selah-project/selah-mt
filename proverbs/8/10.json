@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ħudu",
+      "rationale": "imperattiv li jsejjaħ lis-semmiegħ: hu l-għerf li jitkellem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mixtagħ",
+      "rationale": "מוסר jiżbarrex ukoll kastig u rimjärk; 'mixtagħ' (tagħlim bil-qagħda) jżomm biss parti mill-ħoss"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "deheb irfinat jew deheb maħtub; 'mid-deheb' biss fil-glossa, ma tantx jiddistingwi"
+    }
+  ],
+  "translation": "Ħudu l-mixtagħ tiegħi, u mhux fidda, u l-għarfien ⟨aktar⟩ mid-deheb l-iktar maħbub.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7bf49462191565032b5e4c2f0216d6ebdf11826bea8f07bf665bfc49cd0ae9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/8\/9-12.1792618489434.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Ħudu"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "l-mixtagħ tiegħi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u mhux"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "u l-għarfien"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "mid-deheb"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "l-iktar maħbub"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:49.435055946Z",
+  "model": "glm-5.3"
+}

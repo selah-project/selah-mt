@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għamilt",
+      "rationale": "יצרתי hija veru 'tajjart bħal fuq ir-roti tal-fuħħar'; il-Malti 'għamilt' ixxekkjen is-sura tal-ħaddiem tat-tajjir"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Malti jeħtieġ subjett għall-futur 'jirrakkontaw'"
+    }
+  ],
+  "translation": "Poplu dan għamilt għalija; it-tifħira tiegħi huma se jirrakkontaw.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/43\/21-24.1792611793773.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "għamilt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "it-tifħira tiegħi"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "huma se jirrakkontaw"
+    }
+  ],
+  "timestamp": "2026-10-21T19:43:13.773964645Z",
+  "model": "glm-5.3"
+}

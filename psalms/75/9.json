@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמר",
+      "rationale": "'to boil up \/ ferment' — rendered 'jagħli' (boils\/foams); literally it glows red"
+    },
+    {
+      "kind": "crux",
+      "subject": "אך שמריה",
+      "rationale": "'surely its dregs' — some read אך adverbially, others with the sense 'only its dregs'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "opening 'ki' loosely rendered 'għaliex'; Hebrew particle is simply 'for'"
+    }
+  ],
+  "translation": "Għaliex tazza hemm f'idejn Jaħwe, u l-inbid jagħli, mimli ta' taħlit, u minnha jintefa'; iżda s-sadar tagħha, id-dħaħin kollha tal-art igħargrhom u jixorbu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/75\/9-11.1792617440040.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "tazza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "u l-inbid"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "jagħli"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mimli"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ta' taħlit"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "u jintefa'"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "minnha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "iżda"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "is-sadar tagħha"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "igħargrhom"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "jixorbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "id-dħaħin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:20.040918020Z",
+  "model": "glm-5.3"
+}

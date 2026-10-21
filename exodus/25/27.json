@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לבתים לבדים",
+      "rationale": "litteralment 'għal djar għall-lasti' — 'djar' bħala lmorar fejn jidħlu l-berachel"
+    },
+    {
+      "kind": "addition",
+      "subject": "ikunu",
+      "rationale": "il-verb תהיין qiegħed, imma l-istruttura tal-Malti teħtieġh"
+    }
+  ],
+  "translation": "Viċin tal-qafas ikunu l-ċrieki, għal postijiet għall-berachel, biex iġorr ⟨את⟩ il-mejda.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ea5e9a797728651f6df21bd05726f5741bc56229b5afe779990134120dc5ef48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/25\/25-28.1792599875404.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "viċin ta'"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "il-qafas"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ikunu"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "l-ċrieki"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "għal postijiet"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "għall-berachel"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "biex iġorr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-mejda"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "il-mejda"
+    }
+  ],
+  "timestamp": "2026-10-21T16:24:35.405220913Z",
+  "model": "glm-5.3"
+}

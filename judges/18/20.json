@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "u qalb il-qassis ferħet",
+      "rationale": "וייטב לב — 'il-qalb saru tajba', idiom għall-ferrħ li bil-Malti ngħatajnieh b'\"ferħet\""
+    },
+    {
+      "kind": "elision",
+      "subject": "u mexa ma'",
+      "rationale": "ויבא בקרב העם 'daħal f'nofs in-nies' — il-veru tal-mogħdija miżjuda għal-fluwidità Maltija"
+    }
+  ],
+  "translation": "U qalb il-qassis ferħet, u ħa ⟨את⟩ l-efod u ⟨את⟩ it-terafim u ⟨את⟩ l-idlu mnaqqxa, u mexa ma' nofs in-nies.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e33979c6ea12a25f981f4251d1c1da4c47b66b7fc3b2d1e40678cf429e4c6ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/18\/17-20.1792607530921.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ferħet"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "l-efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "it-terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-idlu mnaqqxa"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "l-idlu mnaqqxa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "u mexa ma'"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nofs"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    }
+  ],
+  "timestamp": "2026-10-21T18:32:10.923235343Z",
+  "model": "glm-5.3"
+}

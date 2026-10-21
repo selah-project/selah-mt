@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 9:26",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jekk le",
+      "rationale": "il-formula tal-ħalf 'im lo' tfisser 'iva tabilħaqq', mhux mistoqsija"
+    },
+    {
+      "kind": "crux",
+      "subject": "ilbieraħ ħadier",
+      "rationale": "emesh: 'ilbieraħ' jew 'lbieraħ bil-lejl' — iż-żewġ qosor"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shillamti \/ taqsima",
+      "rationale": "ħlas id-demm fl-istess post fejn inxtered — ġustizzja qariba, għerq shalem 'taħta tajjeb'"
+    }
+  ],
+  "translation": "Jekk le, ⟨את⟩ id-demm ta' Navot u ⟨את⟩ id-demm uliedu j rajt ilbieraħ ħadier, jgħid Jaħwe, u ħlasstlek f'din it-taqsima, jgħid Jaħwe; u issa, qabbad, armih fit-taqsima, skont il-kelma ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/9\/25-28.1792610421685.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-demm ta' Navot"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ta' Navot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "id-demm uliedu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uliedu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rajt"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "ilbieraħ ħadier"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "u ħlasstlek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "בחלקה",
+      "gloss": "f'din it-taqsima"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "שא",
+      "gloss": "qabbad"
+    },
+    {
+      "surface": "השלכהו",
+      "gloss": "armih"
+    },
+    {
+      "surface": "בחלקה",
+      "gloss": "fit-taqsima"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "skont il-kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:21.686404381Z",
+  "model": "glm-5.3"
+}

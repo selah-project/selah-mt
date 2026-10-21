@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bniedem mill-art",
+      "rationale": "אנוש מן הארץ: 'bniedem mortal mill-art' — jista' jkun l-għadu jew l-bniedem b'mod ġenerali; il-verbi לערץ jaf jfisser 'jikkaġuna bi biża'' jew 'joħroġ bi biża''."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iltim",
+      "rationale": "יתום huwa min tilef il-ġenituri — 'iltim' jżomm il-forma qariba."
+    }
+  ],
+  "translation": "Biex tagħmel ġudizzju lill-iltim u lill-mgħaffeġ, biex bniedem mill-art ma jżidx jibża' mill-ġdid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/10\/17-18.1792616580359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "biex tagħmel ġudizzju"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "lill-iltim"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "u lill-mgħaffeġ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "jżidx"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mill-ġdid"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "jibża'"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:00.360563691Z",
+  "model": "glm-5.3"
+}

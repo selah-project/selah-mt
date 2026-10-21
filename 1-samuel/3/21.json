@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miftuħ",
+      "rationale": "נגלה qrib ta' 'ntefaħ\/ġie miftuħ', mhux sempliċiment 'rada ruħu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר יהוה",
+      "rationale": "il-kelma ta' Jaħwe — l-istess kelma דבר li tiġri f'kull sezzjoni ta' Samwel, tintilef ftit bil-Malti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kompla",
+      "rationale": "ויסף jgħid li d-dehriet ta' Jaħwe 'żiedu' jiġu — għadd li jikber, mhux dehra waħda"
+    }
+  ],
+  "translation": "U Jaħwe kompla jidher f'Xilow, għax Jaħwe kien ġie miftuħ ⟨għalih⟩ lil Samwel f'Xilow bil-kelma ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/3\/21-21.1792607592561.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "kompla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "jidher"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "f'Xilow"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "kien ġie miftuħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "f'Xilow"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bil-kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:12.565243087Z",
+  "model": "glm-5.3"
+}

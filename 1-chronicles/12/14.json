@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ordinals",
+      "rationale": "L-għaxar u il-ħdax — tkommissa tal-lista numerata."
+    },
+    {
+      "kind": "elision",
+      "subject": "עשתי עשר",
+      "gloss-rationale": "Lhudi jgħid 'ħdax-għaxar' b'żewġ kliem; il-Malti 'il-ħdax' kelma waħda.",
+      "rationale": "עשתי עשר literally 'eleven-ten'; Maltese single ordinal 'il-ħdax' collapses two tokens."
+    }
+  ],
+  "translation": "Jirmejahu l-għaxar, Makbannaj il-ħdax.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/12\/13-16.1792621927021.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "l-għaxar"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Makbannaj"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "il-ħdax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "il-mija-e-ħamsa? le: ħdax-mija? le: 'l-għaxar'"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:07.023165443Z",
+  "model": "glm-5.3"
+}

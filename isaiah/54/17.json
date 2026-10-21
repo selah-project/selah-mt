@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "il-Malti jeħtieġ oġġett għal תרשיעי; il-Lhudi jħallih mitluq"
+    },
+    {
+      "kind": "addition",
+      "subject": "hija · hu",
+      "rationale": "il-Malti jeħtieġ il-kopula li l-Lhudi jħalli barra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "tsedeq żamm għerq wieħed (D2), mhux 'ġustizzja' biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "titfaħ",
+      "rationale": "תרשיעי: 'tkondanna' (KJV) kontra 'tniżżel ħadin' — il-verb jiftiehem ukoll b'refliġju (BSB 'refute')"
+    }
+  ],
+  "translation": "Kull għodda li tinħadmet kontriek ma tislax; u kull ilsien li jqum ⟨את⟩ miegħek għall-ġudizzju titfaħ ⟨int⟩. Din ⟨hija⟩ l-wirt ta' l-ilsiera ta' Jaħwe, u t-tsedeq tagħhom ⟨את⟩ minn għandi ⟨hu⟩, jgħid Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/54\/17-17.1792611999955.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "għodda"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "li tinħadmet"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontriek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "tislax"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilsien"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "li jqum"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "għall-ġudizzju"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "titfaħ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "l-wirt"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ta' l-ilsiera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "u t-tsedeq tagħhom"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "minn għandi ⟨את⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:46:39.956446544Z",
+  "model": "glm-5.3"
+}

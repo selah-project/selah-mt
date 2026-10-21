@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפת\/תטפנה",
+      "rationale": "Alliterazzjoni bejn 'nift' (qtar ta' għasel) u 'tittof' (titqattar): l-istess ħoss jerġa' jerġa', mitluf fil-Malti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mara barranija",
+      "rationale": "זרה litteralment 'tal-barra, ġarriba'; iċ-ċiviliżazzjonijiet qraw il-kuntest bħala mara ta' ħaddieħor."
+    }
+  ],
+  "translation": "Għax bħal nift ta' għasel jitqattar x-xofftejn ta' mara barranija, u ħalqha jlix iżjed mill-żejt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/5\/1-4.1792618464582.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "bħal nift ta' għasel"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "jitqattar"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "x-xofftejn"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ta' mara barranija"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "u jlix"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "iżjed mill-żejt"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ħalqha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:24.583669843Z",
+  "model": "glm-5.3"
+}

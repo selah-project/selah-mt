@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-iben",
+      "rationale": "indirizz dirett: 'Ibni' — il-ħajja ta' Salamun lis-suwwett"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "hawn אתם (H854) huwa prepożizzjoni 'għand\/ma'', mhux il-marka ta' oġġett — iżda l-glossa tieħu ⟨את⟩ skont ir-regola"
+    }
+  ],
+  "translation": "Ibni, tmurx fit-triq ma' ⟨את⟩ dawk; żomm saqajk mill-mogħdija tagħhom",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/1\/13-16.1792618341732.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ibni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tmurx"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ma' ⟨את⟩",
+      "marks": "dawk"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "żomm"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "saqajk"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "mill-mogħdija tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:21.733542908Z",
+  "model": "glm-5.3"
+}

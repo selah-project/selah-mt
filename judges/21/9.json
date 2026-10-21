@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 21:9",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ il-verb 'kien' fejn il-Lhudi jgħid biss אין שם"
+    },
+    {
+      "kind": "measurement",
+      "subject": "innumeraw",
+      "rationale": "il-persuna hija ċensiment, għadd tan-nies"
+    }
+  ],
+  "translation": "U n-nies innumeraw, u ara, ma kienx hemm raġel minn fost l-abitanti ta' Javex Gilgħad.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b4375730f88e155a209dba8cb1ab499942e1d826162bbb0d0fab7198a4186ecf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/21\/9-12.1792607571660.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפקד",
+      "gloss": "innumeraw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma kienx"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "מיושבי",
+      "gloss": "minn fost l-abitanti ta'"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Javex"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgħad"
+    }
+  ],
+  "timestamp": "2026-10-21T18:32:51.661274476Z",
+  "model": "glm-5.3"
+}

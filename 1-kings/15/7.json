@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 15:7",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הלוא הם כתובים",
+      "rationale": "il-mistoqsija retorika 'mhumiex miktuba?' twassal lill-qarrej għall-isteru ta' barra."
+    },
+    {
+      "kind": "elision",
+      "subject": "הם",
+      "gloss-nat": "gloss 'huma' ingħaqad ma' 'mhumiex'",
+      "rationale": "il-Lhudi jqassam הלוא u הם; bil-Malti l-għaqda 'mhumiex' tieħu l-post ta' tnejn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ספר דברי הימים",
+      "rationale": "'il-ktieb tal-affarijiet tal-jiem' — isem proprju ta' dokument, mhux 'Kronaki' bħala titlu ta' ktieb."
+    }
+  ],
+  "translation": "U l-bqija tal-affarijiet ta' Avijam, u kull li għamel, mhumiex miktuba fuq il-ktieb tal-affarijiet tal-jiem tas-slaten ta' Jehuda? U kienet gwerra bejn Avijam u bejn Jaravam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/5-8.1792609730510.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "U l-bqija"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tal-affarijiet"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "ta' Avijam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mhumiex"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "miktuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il-ktieb"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tal-affarijiet"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "tal-jiem"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "tas-slaten"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "U gwerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravam"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:50.511503391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש hi nifs\/ħela\/appetit — ħejjinha 'nefes' qrib tal-Lhudi, mhux 'ruħ' biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "וגם הנפש",
+      "rationale": "u anki n-nefes (tal-bniedem) ma timlitha, jew 'u anki l-aptit ma jissodisfax'"
+    }
+  ],
+  "translation": "Kull għadex tal-bniedem għal ħalqu, u xorta waħda n-nefes ma timlitha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d50d1fcdd8116f469d6a5ccdfbae057e92c27b44596edc4016a8e9237f7193a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/6\/6-7.1792623887865.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "għadex"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tal-bniedem"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "għal ħalqu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u xorta waħda"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "in-nefes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "timlitha"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:47.866634811Z",
+  "model": "glm-5.3"
+}

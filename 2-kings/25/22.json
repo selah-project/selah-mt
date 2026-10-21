@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 25:22",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ordna",
+      "rationale": "פקד tfisser 'żar\/ħares\/mexxie' — 'ordna' huwa l-qari tal-kuntest"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "suffiss fin-narrattiva biex jifhem min ordna — miżjud bil-Malti"
+    }
+  ],
+  "translation": "U fuq il-poplu li kien baqa' fl-art ta' Juda, li Nebukadnessar sultan Babilon kien ħalla warajh, hu ordna lil ⟨את⟩ Godolja iben Aħikam iben Xafan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/21-24.1792610860836.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "u fuq il-poplu"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "li kien baqa'"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Juda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "kien ħalla"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "u ordna"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Godolja"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Godolja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Aħikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Xafan"
+    }
+  ],
+  "timestamp": "2026-10-21T19:27:40.837399920Z",
+  "model": "glm-5.3"
+}

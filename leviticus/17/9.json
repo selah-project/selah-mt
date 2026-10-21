@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת",
+      "rationale": "lit. 'li jinqata'', idiom ta' karriera\/eżilju — 'jinqata' minn fost niesu' żżomm il-ħoss tal-qtigħ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "lit. 'Tinda tal-Appuntament\/ħin magħruf'; 'Tinda tal-Laqgħa' żżomm l-istruttura kostrutt."
+    }
+  ],
+  "translation": "u lejn il-bieb tat-Tinda tal-Laqgħa ma jġibuh biex jagħmlu ⟨את⟩ lil Jaħwe — u dak ir-raġel jinqata' minn fost niesu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/17\/9-12.1792601005727.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "u lejn"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "il-bieb"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tat-Tinda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-Laqgħa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "jġibuh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "biex jagħmlu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jaħwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "u jinqata'"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ir-raġel"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "minn fost niesu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:43:25.728645196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יד יהוה",
+      "rationale": "'id Jaħwe' — fil-profezija tfisser qawwa ispirata, mhux id fiżika; il-forma litterali miżmuma"
+    },
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "il-kostruzzjoni narrattiva 'u ġara li' għal והיה כי"
+    }
+  ],
+  "translation": "U issa ġibuli daqqiem. U ġara li, meta d-daqqiem kien iddoqq, inħolqet fuqu id Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/3\/13-16.1792610088838.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ġibu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "daqqiem"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "U ġara li"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "meta kien iddoqq"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "id-daqqiem"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "inħolqet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:14:48.839068242Z",
+  "model": "glm-5.3"
+}

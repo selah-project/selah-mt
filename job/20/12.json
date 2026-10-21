@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jaħbuh taħt ilsienu",
+      "rationale": "il-ħażen bhala ħelu jinżamm taħt il-lsien bħal ħlewwa: stampa letterali ta' min iħobb il-ħażen, mhux idjom Malti għal xi ħaġa oħra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-ħażen",
+      "rationale": "רעה hawn nom astratt 'ħażen' mhux aġġettiv; il-Malti jħares lejn is-sustantiv sabiex iħares lejn il-plural fem. verb jgħidu jkun."
+    }
+  ],
+  "translation": "Jekk il-ħażen ikun ħelu f'ħalqu, jaħbuh taħt ilsienu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/20\/9-12.1792619395334.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "ikun ħelu"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "f'ħalqu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il-ħażen"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "jaħbuh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ilsienu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:49:55.335978573Z",
+  "model": "glm-5.3"
+}

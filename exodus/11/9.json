@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-Fargħon",
+      "gloss": "il-Fargħon",
+      "rationale": "פרעה is a title, not a name; Maltese keeps it as a proper noun as tradition dictates"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jisimgħax għalikom",
+      "gloss": "jisimgħax għalikom",
+      "rationale": "ישמע אליכם literally 'will not hear unto you', rendered idiomatically as 'not listen to you'"
+    }
+  ],
+  "translation": "U Jaħwe qal lil Moxe: ma jisimgħax għalikom il-Fargħon, biex jinżammu jjew mtiers fil-pajjiż ta' Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "906ca885bed15f84686871f47ab741839238b14e541e5656b782c184a8ed1a80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/11\/9-10.1792599351708.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "jisimgħax"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il-Fargħon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "jinżammu jjew"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mtiers tiegħi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fil-pajjiż"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:15:51.709600954Z",
+  "model": "glm-5.3"
+}

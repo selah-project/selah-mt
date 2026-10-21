@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is-sema",
+      "rationale": "Il-plural Lhudi שמים (duali) sar singular Malti; l-artiklu miżjud bil-Malti."
+    }
+  ],
+  "translation": "L-għajnuna tiegħi minn għand Jaħwe, li għamel ⟨את⟩ is-sema u ⟨את⟩ l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/121\/1-4.1792618108973.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "l-għajnuna tiegħi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "minn għand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "li għamel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "u l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:28.974691579Z",
+  "model": "glm-5.3"
+}

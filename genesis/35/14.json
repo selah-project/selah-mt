@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 35:14",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "libazzjoni",
+      "rationale": "נסך hu nixxiev ta' xarba bħala offerta; 'libazzjoni' tieħu post il-figura litterali."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "preposizzjoni 'imma'' (H854), mhux oġġett dirett; il-mark ⟨את⟩ baqa'."
+    }
+  ],
+  "translation": "U Jagħaqov poġġa ċippa fil-post fejn kien kellem ⟨את⟩ miegħu, ċippa ta' ġebel; u xerreġ fuqha libazzjoni, u faqqagħ fuqha żejt.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/35\/13-16.1792598675233.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ċippa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "fil-post"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kellem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu",
+      "marks": "miegħu"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ċippa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ta' ġebel"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "xerreġ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fuqha"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "libazzjoni"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "faqqagħ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fuqha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "żejt"
+    }
+  ],
+  "timestamp": "2026-10-21T16:04:35.234532550Z",
+  "model": "glm-5.3"
+}

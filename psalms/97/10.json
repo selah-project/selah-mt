@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nifsi",
+      "rationale": "נפשות hija ħajja\/nifs, mhux 'rui' fil-ħsibijiet il-ġodda."
+    },
+    {
+      "kind": "crux",
+      "subject": "חסידיו",
+      "rationale": "ħesed: ċżiċċi (dawk bil-ħesed) jew 'qaddisin'; għażlit ċżiċċi għall-qraba mal-Ħebrew."
+    },
+    {
+      "kind": "you",
+      "subject": "dawk li jħobbu lil Jaħwe",
+      "rationale": "Appell dirett lill-ħabibier ta' Jaħwe bl-imperattiv."
+    }
+  ],
+  "translation": "Jaħbu lil Jaħwe, jobogħdu l-ħażin; Hu jħares in-nifsi tas-ċżiċċi tiegħu, mill-id tal-ħżienaħ iħelsuhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/97\/9-12.1792617704877.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "jaħbu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "jobogħdu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "l-ħażin"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "in-nifsi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "tas-ċżiċċi tiegħu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mill-id"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tal-ħżienaħ"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "iħelsuhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:44.878781687Z",
+  "model": "glm-5.3"
+}

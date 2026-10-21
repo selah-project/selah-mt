@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lill-qorti",
+      "rationale": "il-melik jitkellem direttament ma' dawk preżenti bil-plural: 'agħtu… la toqtluhx'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היא אמו",
+      "rationale": "żewġ kelmiet qosra wara xulxin — it-tħabbir irbaħ bil-qosor tagħhom; traduzzjoni twalija titlef is-saħta"
+    }
+  ],
+  "translation": "U l-melik wieġeb u qal: Agħtu lilha ⟨את⟩ it-tifel il-ħaj, u lil min miet la toqtluhx — hi ommu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "773fa23ab09798ab5e2eb07a7d36ad74250f7fff1a78cdafd6ee77d33b71d93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/26-27.1792623334908.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wieġeb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "l-melik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "agħtu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lilha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tifel il-ħaj"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "החי",
+      "gloss": "il-ħaj"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "u lil min miet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "toqtluhx"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ommu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:34.909441249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Il-Lhudi m'għandux copula; miżjuda bil-Malti u mmarkata b'⟨…⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "għadd tas-snin",
+      "rationale": "L-età ta' Qeħat: mija u tlet u tletin sena, skont l-ordni tal-Lhudi."
+    }
+  ],
+  "translation": "U l-ulied ta' Qeħat: Amram u Jitsħar u Ħevron u Għuzziel; u s-snin ta' ħajjet Qeħat ⟨kienu⟩ tlieta u tletin u mija sena.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1abf366d484a58277f6a4a494e95d5c6a4d2cd9113bbe889d031d7a1e3008e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/6\/17-20.1792599253531.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "u l-ulied"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ta' Qeħat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "u Jitsħar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "u Ħevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "u Għuzziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "u s-snin"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ta' ħajjet"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qeħat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlieta"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "u tletin"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "u mija"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:13.532357300Z",
+  "model": "glm-5.3"
+}

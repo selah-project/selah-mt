@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajjithom",
+      "rationale": "נפש hija nifs \/ ħajja-forza, mhux 'ruħ' fil-sens Grieg"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ verb 'kien' għal היא f'costruzzjoni nominali"
+    }
+  ],
+  "translation": "Għalhekk qumu u ħarbu fil-għabex, u ħallew ⟨את⟩ it-tindi tagħhom u ⟨את⟩ żwiemelhom u ⟨את⟩ ħmirhom — il-kamp kif kien — u ħarbu għal ħajjithom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/7\/5-8.1792610302184.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Għalhekk qumu"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "u ħarbu"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "fil-għabex"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "u ħallew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tindi tagħhom"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "it-tindi tagħhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "żwiemelhom"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "żwiemelhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ħmirhom"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ħmirhom"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kien"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "u ħarbu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ħajjithom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:18:22.185937574Z",
+  "model": "glm-5.3"
+}

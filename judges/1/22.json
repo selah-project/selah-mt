@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hi⟩",
+      "rationale": "il-גם הם enfatiku (‘huma wkoll') ġie mmarkat b'pronom żjud bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "d-dar",
+      "rationale": "בית יוסף tfisser il-klan\/ il-familja ta' Jussef, mhux bini"
+    }
+  ],
+  "translation": "U d-dar ta' Jussef telgħet ukoll ⟨hi⟩ kontra Bet-El, u Jaħwe kien magħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0557de95f573336e9ce75b1807a0c202d9c5664e6f1ae4afeee50773f258ac95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/22-23.1792623185499.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "telgħet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "d-dar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ta' Jussef"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨hi⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "magħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:53:05.499724753Z",
+  "model": "glm-5.3"
+}

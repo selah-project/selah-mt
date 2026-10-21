@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 18:19",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil Jisrael fl-eżilju",
+      "rationale": "Jaħwe jaqbeż l-obiżzzjoni tal-poplu: 'U intom tgħidu: Għaliex...?'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hom",
+      "rationale": "il-pronom fil-glossa ta' ויעשה ('għamilhom') iwitta l-objett ta' אתם"
+    }
+  ],
+  "translation": "U intom tgħidu: Għaliex il-iben ma jġorrwx l-injustizzja tal-missier? U l-iben għamel ġudizzju u tsedeq, ⟨את⟩ l-istatureti tiegħi kollha żamm u għamilhom — ħaj jgħix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "232cbe3ceef49ca29e8b504d890b04cfa52afe3e4c527724e67900d6ca7ab412",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/18\/17-20.1792614449793.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "U intom tgħidu"
+    },
+    {
+      "surface": "מדע",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "jġorrwx"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "l-iben"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "l-injustizzja"
+    },
+    {
+      "surface": "האב",
+      "gloss": "tal-missier"
+    },
+    {
+      "surface": "והבן",
+      "gloss": "U l-iben"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ġudizzju"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "u tsedeq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-istatureti tiegħi kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "l-istatureti tiegħi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "żamm"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "u għamilhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "l-istatureti (il-passiv 'hom' fil-glossa ta' ויעשה)"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "jgħix"
+    }
+  ],
+  "timestamp": "2026-10-21T20:27:29.794941094Z",
+  "model": "glm-5.3"
+}

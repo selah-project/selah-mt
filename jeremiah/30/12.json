@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bla fejqien",
+      "rationale": "אנוש litteralment 'insostenibbli, immedikabbli' — il-forma verbla 'inqas' mill-għerq אנש; 'bla fejqien' huwa l-kamp mess-aġġettival eqreb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tqila",
+      "rationale": "נחלה għerq 'li d-dardir' — ifisser imweġġa' gravi, 'tqil\/ħarxa', mhux sempliċiment 'morbid'."
+    }
+  ],
+  "translation": "Għax hekk qal Jaħwe: bla fejqien huwa l-ksur tiegħek, tqila l-ferita tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/30\/9-12.1792613209657.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bla fejqien"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "l-ksur tiegħek"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "tqila"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "l-ferita tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T20:06:49.658974595Z",
+  "model": "glm-5.3"
+}

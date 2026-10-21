@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד... פחד",
+      "rationale": "għerq paħad irrepetut tlett darbiet — beżgħ, biża', biża' — logħba ta' ħsejjes li titil fil-Malti biss bil-varjazzjoni beżgħ\/biża'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חנך",
+      "rationale": "'dak li jikkampja kontriek' — is-suffiss hu ta' it-tieni persuna (lir-Israel); xi traduzzjonijiet jħalluh ġenerali 'dawk li jdawru madwarek'"
+    },
+    {
+      "kind": "you",
+      "subject": "kontriek",
+      "rationale": "indirizz dirett lir-Israel b'suffiss ta' it-tieni persuna"
+    }
+  ],
+  "translation": "Hemm beżgħu bi biża' fejn ma kien hemm biża', għax Elohim fiċ-ċir l-għadam ta' dak li jikkampja kontriek; għamiltilhom il-bikkien, għax Elohim warrabhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/53\/5-7.1792617169150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "beżgħu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "biża'"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "biża'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "fiċ-ċir"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "l-għadam"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "dak li jikkampja kontriek"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "għamiltilhom il-bikkien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "warrabhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:49.150902088Z",
+  "model": "glm-5.3"
+}

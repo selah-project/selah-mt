@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תקע…תקע",
+      "rationale": "l-istess verb għal Jagħaqov u għal Lavan — il-paralleliżmu jinżamm bil-Malti b'\"ġabber… ġabber\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġabber",
+      "rationale": "תקע litteralment 'ikek\/isawwat il-pali' — 'pitch a tent'; il-Malti juża verb differenti għall-istess azzjoni"
+    }
+  ],
+  "translation": "U Lavan laħaq ⟨את⟩ lil Jagħaqov; u Jagħaqov ġabber it-tinda tiegħu fil-ġebel, u Lavan ġabber ⟨את⟩ lil ħutu fil-Ġilgħad, fil-ġebel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/25-28.1792598522515.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "laħaq"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jagħaqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "u Jagħaqov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ġabber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tinda tiegħu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "it-tinda tiegħu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fil-ġebel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "u Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ġabber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil ħutu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħutu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fil-Ġilgħad, fil-ġebel"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "il-Ġilgħad"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:02.515699566Z",
+  "model": "glm-5.3"
+}

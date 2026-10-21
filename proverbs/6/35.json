@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישא פני",
+      "rationale": "'iġib wiċċ' — idjom Lhudi għal jaċċetta b'parzjalità; rendut 'jagħti wiċċu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'koper\/ransom' kontra 'rimessja'; jew rigal ta' kumpens — il-vendettatur ma jridx jisma' bih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "anki jekk",
+      "rationale": "כי hawn konċessiv ('minkejja li'), mhux 'għax'"
+    }
+  ],
+  "translation": "Ma jagħtix wiċċu lil ebda rimessja, u ma jaqbilx, anki jekk tkattar ir-rigali.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/6\/33-35.1792618408885.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "jagħtix wiċċu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ebda"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "rimessja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "jaqbilx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "anki jekk"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "tkattar"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ir-rigali"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:28.886426180Z",
+  "model": "glm-5.3"
+}

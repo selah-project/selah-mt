@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "40,000 \/ 12,000",
+      "rationale": "in-numri sħaħ bħall-Lhudi: erbgħin elf stalel, tnax-il elf kavallier."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארות",
+      "rationale": "l-emf ta' 'stall' (post tal-merħla) fil-plural; 2 Kron 9:25 jagħti 4,000 — il-bibbjisti jqiegħdu t-tnejn ħdejn xulxin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרשים",
+      "gloss-adjust": null,
+      "rationale": "jaf jfisser 'żwiemel biċ-ċarru' mhux biss 'rajtla'; il-Lhudi żomm it-tifsira ta' sieħ ta' karru."
+    }
+  ],
+  "translation": "U kellu Slomon erbgħin elf stalel ta' żwiemel għall-karru tiegħu, u tnax-il elf kavallier.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/5\/5-8.1792609328756.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kellu"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Slomon"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "erbgħin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "stalel"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ta' żwiemel"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "għall-karru tiegħu"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "u tnax"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-il"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kavallier"
+    }
+  ],
+  "timestamp": "2026-10-21T19:02:08.757957204Z",
+  "model": "glm-5.3"
+}

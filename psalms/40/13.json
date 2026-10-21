@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħruien",
+      "rationale": "עונות huwa 'iniquities\/avon' — tqarreb bħala 'dnubiet' ikun eżatt iktar"
+    },
+    {
+      "kind": "idiom",
+      "subject": "qalbi abbandunatni",
+      "rationale": "il-Lhudi ולבי עזבני — 'qalbi telqetni' — idjoma ta' debolezza u biċċa lil qalb bħala suġġett"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bla għadd",
+      "rationale": "għadd ta' ħruien u xagħar ta' ras — vers tal-għadd"
+    }
+  ],
+  "translation": "Għax dawk li jriduħom ħzież ħdawwruni sal-mistrieħ, bla għadd; laħquni dnubieti, u ma stajtx nara; saru iktar mix-xagħar ta' rasim, u qalbi abbandunatni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/40\/13-16.1792617039824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "ħdawwruni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ħruien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bla"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "għadd"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "laħquni"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "dnubieti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "stajtx"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nara"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "sar iktar minn"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "xagħar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "rasi"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "u qalbi"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "abbandunatni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:39.824998237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בי",
+      "rationale": "il-prepożizzjoni ġiet assimilata f' ' tridtni'; il-Lhudi jgħid litteralment ' li rġejtx pjaċir fija'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jgħajjirx",
+      "rationale": "יריע tfisser ' jiftaħ widnieh b'seħta' — għajda ta' rebbħa; ' ma jgħajjirx fuqi' żżomm il-ħoss tat-treġġigħ lura."
+    }
+  ],
+  "translation": "B'dan naf li tridtni, għax l-għadu tiegħi ma jgħajjirx fuqi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/41\/9-12.1792617017849.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "B'dan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "tridtni"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "jgħajjirx"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "l-għadu tiegħi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:17.850157244Z",
+  "model": "glm-5.3"
+}

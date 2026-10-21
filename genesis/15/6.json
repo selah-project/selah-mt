@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedaqa",
+      "rationale": "Il-għarbi צדקה ma jittraduċix b'sempliċità bħala 'ġustizzja'; ġie miżmum qrib tal-Lhudi skont ir-regola D2."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ħasebha lilu",
+      "rationale": "Min ħaseb lil min? Il-Lhudi jippermetti lil Jaħwe jħaseb l-emment ta' Abram (qari tradizzjonali) jew lil Jaħwe jħasebha bħala tsedaqa għalih."
+    }
+  ],
+  "translation": "U emmen f'Jaħwe, u ħasebha lilu tsedaqa.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/15\/5-8.1792597958415.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "u emmen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "f'Jaħwe"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "u ħasebha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedaqa"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:38.417598567Z",
+  "model": "glm-5.3"
+}

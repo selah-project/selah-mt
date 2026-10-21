@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nnifsu",
+      "rationale": "Hebrew has only 'small and great are there he'; the pronoun 'alike' supplied to carry the equalizing force"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חפשי",
+      "rationale": "literally 'free\/exempt' (from bondage or tax); 'jitħallas' — set free — rather than a mere adjective"
+    }
+  ],
+  "translation": "Żgħir u kbir hemm huwa nnifsu, u l-iskav jitħallas minn taħt sidu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/3\/17-20.1792619067740.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "Żgħir"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "u kbir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "u l-iskav"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "jitħallas"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "minn taħt sidu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:27.740856506Z",
+  "model": "glm-5.3"
+}

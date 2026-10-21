@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kippur",
+      "rationale": "כפר literally 'cover\/overlay'; rendered by the Hebrew word itself rather than 'expiation'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jagħmel",
+      "rationale": "Hebrew uses the verb כפר alone; Maltese needs a light verb"
+    }
+  ],
+  "translation": "U Aharon jressaq ⟨את⟩ il-baqar tal-ħatta li tiegħu, u jagħmel kippur għalih u għal daru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/5-8.1792600913019.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "jressaq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-baqar"
+    },
+    {
+      "surface": "פר",
+      "gloss": "il-baqar"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "tal-ħatta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiegħu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "u jagħmel kippur"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "għalih"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "u għal"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "daru"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:53.020338806Z",
+  "model": "glm-5.3"
+}

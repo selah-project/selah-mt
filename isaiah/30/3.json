@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se tkun",
+      "rationale": "Maltese future copula supplied for והיה."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבשת \/ לכלמה",
+      "rationale": "parallel pair shame\/disgrace answering the pair fortizza\/dell of v.2 — the refuge words invert into shame words."
+    }
+  ],
+  "translation": "U s-saħħa ta' Para ⟨se tkun⟩ għalikom għall-għajb, u l-kenn fid-dell ta' Mitsrajim għall-istmerrija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/30\/1-4.1792611476803.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u ⟨se tkun⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "is-saħħa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ta' Para"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "għall-għajb"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "u l-kenn"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "fid-dell"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "għall-istmerrija"
+    }
+  ],
+  "timestamp": "2026-10-21T19:37:56.804877355Z",
+  "model": "glm-5.3"
+}

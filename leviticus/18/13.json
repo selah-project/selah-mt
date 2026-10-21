@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tikxif l-għajba",
+      "rationale": "גלה ערוה, litteralment 'skopri l-għajba', eufemiżmu għal relazzjoni sesswali; il-Malti żamm il-figura litterali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġisem",
+      "rationale": "שאר huwa 'laħam\/ġisem b'mod wiesa'' — il-qraba ta' demm, mhux sempliċiment 'qraba'"
+    }
+  ],
+  "translation": "L-għajba ta' oħt ommok ma tikxifha, għax hi ġisem ommok.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8f38b99a46ac65889ec44f1beb82ea528f0c83eb5563ddef35b2faa7758fed21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/18\/13-16.1792600897110.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "l-għajba"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ta' oħt"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ommok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tikxifha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ġisem"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ommok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:37.110919507Z",
+  "model": "glm-5.3"
+}

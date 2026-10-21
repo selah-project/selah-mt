@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sultan f'Jixurun",
+      "rationale": "Min hu s-sultan: Jaħwe (BSB), Moxe (tradizzjoni rabbinika), jew Jisrael stess bħala persuna kollettiva — it-test ma jissemmix isem."
+    },
+    {
+      "kind": "addition",
+      "subject": "meta",
+      "rationale": "Il-ħila ta' ב, l-infinittiv b'waw konsessiv ġie miftuħ b'\"meta\" bil-Malti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישרון",
+      "rationale": "Smoll ta' Jisrael minn ישר (dritt): \"il-wieħed id-dritt\", imma jibqa' isem — ma jintradux."
+    }
+  ],
+  "translation": "U kien f'Jixurun sultan, meta nġabru r-rasijiet tal-poplu, flimkien it-tribù ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/33\/5-8.1792606268621.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U kien"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "f'Jixurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "meta nġabru"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "r-rasijiet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tal-poplu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "it-tribù"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T18:11:08.621634853Z",
+  "model": "glm-5.3"
+}

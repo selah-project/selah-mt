@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "raqad ma' missirietu",
+      "rationale": "לשכב עם אבותיו: 'lie down with his fathers' — idiom for dying, kept half-literal in Maltese"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "rationale": "Maltese construct requires 'ta' between 'il-belt' and 'David'; Hebrew construct בעיר דויד is bound directly"
+    }
+  ],
+  "translation": "U Jeħożafat raqad ma' missirietu, u ġie midfun ma' missirietu fil-belt ta' David; u ħakem ibnu Jeoram minfloku.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/21\/1-4.1792622722959.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "u raqad"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jeħożafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "missirietu"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "u ġie midfun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "missirietu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "fil-belt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "u ħakem"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jeoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "minfloku"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:22.959899344Z",
+  "model": "glm-5.3"
+}

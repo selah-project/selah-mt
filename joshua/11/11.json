@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħ",
+      "rationale": "נפש hawn = ruħ ħajja, bniedem li jieħu nifs; mhux 'anima' fiż-żagħżugħ tal-lingwa"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "litteralment 'fom is-sejf' — idjom għal lemnata; miżjum bil-fom biex il-figura tibqa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרם\/החרים",
+      "rationale": "għerq ħerem, 'qaddes għall-qerda', jibqa' fil-kelma Maltija 'ħerrem' qrib ħafna tal-Lhudi"
+    }
+  ],
+  "translation": "U ħadu ⟨את⟩ lil kull ruħ li kienet fiha bil-fom tas-sejf, ħerrem; ma baqa' ebda nifs, u ⟨את⟩ lil Ħatsor ħaraq bin-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/11\/9-12.1792606471610.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "u ħadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull ruħ li kienet fiha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ruħ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bil-fom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tas-sejf"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ħerrem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "baqa'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "xejn"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ħatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Ħatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ħaraq"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:14:31.611309939Z",
+  "model": "glm-5.3"
+}

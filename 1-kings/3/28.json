@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħema",
+      "rationale": "חכמה ma għandha l-ebda kelma Maltija waħda; 'ħema' (intelliġenza, għerf) tinqarab għalha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפט\/משפט",
+      "rationale": "l-istess għerq jingħata darbtejn — 'ħaħħar il-ġudizzju' — il-ħoss tar-repetizzjoni jibqa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ġiet",
+      "rationale": "il-Malti jeħtieġ verb fil-klawżola 'li ġiet il-ħema ta' Elohim ġo fih'"
+    }
+  ],
+  "translation": "U sema' Jisrael kollu ⟨את⟩ il-ġudizzju li ħaħħar is-sultan, u beżgħu minn quddiem is-sultan, għax raw li ġiet il-ħema ta' Elohim ġo fih, biex jagħmel ġudizzju.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "13790993e1da0cedfb06d6997de3529c34405701d3419cf91680cd9753e7b94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/28-28.1792623277675.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "U sema'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġudizzju"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "il-ġudizzju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ħaħħar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "u beżgħu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "raw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "il-ħema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ġo fih"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "biex jagħmel"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ġudizzju"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:37.677738118Z",
+  "model": "glm-5.3"
+}

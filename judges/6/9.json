@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "aleph-tav bisuffiss wħadd ma ġie mmarkat b'⟨את⟩ għax suffiss -hom qiegħed mal-verb"
+    }
+  ],
+  "translation": "U ħlistkom minn id Mitsrajim u minn id dawk ilkoll li kienu jgħassbukom, u keċċejthom minn quddiemkom, u tajtkom ⟨את⟩ l-art tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4f2ab91242b7114e31a0aa425d0ec7abef2e78b9f414e23d4ebc6fc4725fb8b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/6\/9-12.1792607053806.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "u ħlis=tkom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩=kom",
+      "marks": "kom (ilsien mal-verb ħlist)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "u minn id"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ilkoll"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "li kienu jgħassbukom"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "u keċċejt=hom"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hom",
+      "marks": "l-objett ta' keċċejt"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "minn quddiem=kom"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "u tajt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "l=kom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art tagħhom"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "l-art tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:24:13.807048654Z",
+  "model": "glm-5.3"
+}

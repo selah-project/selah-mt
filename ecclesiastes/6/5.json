@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחת",
+      "rationale": "s'hebel: 'mistrieħ' kontra 'sażżjatura\/sodisfazzjon' — il-kelma tfittex wkoll ikel restorattiv"
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "gloss": "'Anki' temm f'בnij toqgħod għal dak li ma ra x-xemx"
+    }
+  ],
+  "translation": "Anki x-xemx ma ra u ma taraf; għal dan hemm iktar mistrieħ milli għal dak.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/6\/5-8.1792620227558.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anki"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "x-xemx"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "taraf"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mistrieħ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "għal dan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "għal dak"
+    }
+  ],
+  "timestamp": "2026-10-21T22:03:47.558996259Z",
+  "model": "glm-5.3"
+}

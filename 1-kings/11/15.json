@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (David ma' Edom)",
+      "rationale": "dan l-את hu l-prepożizzjoni 'ma'', mhux il-marka tal-oġġett; għalhekk bla ⟨את⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kull raġel f'Edom",
+      "rationale": "qtil totali ta' kull maskeddu — għadd sħiħ ta' sterminju"
+    }
+  ],
+  "translation": "U ġara meta David kien ⟨את⟩ ma' Edom, fil-ħin li Joab, il-kmandant tal-armata, tela' biex jiddifna ⟨את⟩ lill-mejtin maqtula, li qatel lil kull raġel f'Edom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/13-16.1792609576204.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "meta kien"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "fil-ħin li tela'"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-kmandant"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tal-armata"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "biex jiddifna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-mejtin maqtula"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "lill-mejtin maqtula"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "qatel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "f'Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:16.205976131Z",
+  "model": "glm-5.3"
+}

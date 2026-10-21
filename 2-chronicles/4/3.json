@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien hemm",
+      "rationale": "Il-verbu ודמות huwa sostantiv; il-Malti jehtiegġ kopula miżjuda."
+    },
+    {
+      "kind": "crux",
+      "subject": "baqar",
+      "rationale": "F'1 Slat 7:24 l-istess vers jaqra בקר עשרה ('għaxar karozziż-żgħar\/knops') fil-Masoretiku, filwaqt li Kroni jaqra בקרים (baqar); l-ilsien Lhudi jistrieħ fuq il-vokali biss."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב סובבים ... מקיפים ... סביב",
+      "rationale": "Għerq סבב imqassam erba' darbiet f'vers wieħed — iċ-ċirku tal-baqar jidher bl-istess ħoss."
+    }
+  ],
+  "translation": "U taħt kien hemm xebh ta' baqar, madwar madwar jdawru ⟨את⟩ lilu, għaxra f'kull kubitu, jdawru ⟨את⟩ il-Baħar madwar: żewġ ringieli ta' baqar mfundqa fit-tfundiq tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/1-4.1792622342275.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "u xebh"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "ta' baqar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "jdawru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "għaxra"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "f'kull kubitu"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "jdawru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Baħar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il-Baħar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ringieli"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ta' baqar"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "mfundqa"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "fit-tfundiq tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:02.276300048Z",
+  "model": "glm-5.3"
+}

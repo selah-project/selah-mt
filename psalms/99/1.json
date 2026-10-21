@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלך \/ ירגזו",
+      "rationale": "the psalm opens with the verb 'reign' (מלך) without a copula; the trembling of the peoples answers the enthronement directly."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יושב כרובים",
+      "rationale": "'the one who sits (on) the cherubim' — the seat of the ark; rendered with a preposition."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תנוט",
+      "rationale": "the hophal of נוט occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "Jaħwe beda jirregna — jirtrembu l-popli; bilqiegħda fuq il-kerubim, tittħarkek l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/99\/1-4.1792617733302.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "beda jirregna"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "jirtrembu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "il-popli"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bilqiegħda"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "fuq il-kerubim"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "tittħarkek"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:13.303232223Z",
+  "model": "glm-5.3"
+}

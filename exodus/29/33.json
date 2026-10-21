@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "למלא את ידם",
+      "rationale": "'biex jimlew ⟨את⟩ idejhom' — idiom ta' konsagrazzjoni, litteralment 'milija tal-idejn'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר כפר בהם",
+      "rationale": "'dawk li bihom sar il-kippur' vs 'dawk li bihom ġie mqarraq għalihom' — verb bil-passiv mingħajr suġġett"
+    }
+  ],
+  "translation": "U jieklu ⟨את⟩ lilhom dawk li bihom sar il-kippur, biex jimlew ⟨את⟩ idejhom, biex jqaddshuhom; iżda l-barrani m'għandux jiekol, għax qaddis huma.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/33-36.1792599988418.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "u jieklu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "dawk li bihom sar il-kippur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "sar il-kippur"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bihom"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "biex jimlew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idejhom"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "idejhom"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "biex jqaddshu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ homm"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "iżda l-barrani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m'għandux"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    }
+  ],
+  "timestamp": "2026-10-21T16:26:28.419371305Z",
+  "model": "glm-5.3"
+}

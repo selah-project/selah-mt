@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי עתה",
+      "rationale": "Read as conditional ('if I hold my tongue, I die' — KJV, Geneva) or as causal\/conclusive ('for then I would be silent and die' — ASV\/JPS); the Hebrew has no explicit 'if'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nimmut",
+      "rationale": "ואגוע is literally 'breathe out one's last \/ expire', the picture of the final breath is lost in 'nimmut'."
+    }
+  ],
+  "translation": "Min hu li jħaqqaħ miegħi? Għaliex issa niskiet u nimmut?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/13\/17-20.1792619311009.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "li jħaqqaħ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "miegħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "niskiet"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "u nimmut"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:31.009987140Z",
+  "model": "glm-5.3"
+}

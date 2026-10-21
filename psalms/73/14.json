@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "filgħodu",
+      "rationale": "לבקרים huwa plural — 'għall-bjarin' — 'kull filgħodu' tbiddel il-plural f'singular uman"
+    }
+  ],
+  "translation": "U kont imsawta l-ġurnata kollha, u t-tigħrif tiegħi kull filgħodu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/73\/13-16.1792617385960.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "u kont"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "imsawta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha (kull)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "u t-tigħrif tiegħi"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kull filgħodu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:25.961154877Z",
+  "model": "glm-5.3"
+}

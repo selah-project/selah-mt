@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סחרה",
+      "rationale": "kelma li tidher hawn biss fit-Tanakh — targa żgħira li ddawr il-ġisem kollu; 'skud' huwa approssimazzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "verità",
+      "rationale": "אמת jiswa s-saħħa u l-fidalità ta' min żamm kelmtu; 'verità' tilqa' biss nofs il-kelma"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "gloss": "il-lamed direzzjonali ġie maħdum ġewwa 'jagħtik kenn', mhux tradott weħidu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסך\/תחסה",
+      "rationale": "il-verb סכך (jgħatti) u חסה (jlaħħaq kenn) jirrispondu fil-paralleliżmu — l-eku jintilef bil-Malti"
+    }
+  ],
+  "translation": "Bir-rix tiegħu jagħtik kenn, u taħt ġwienaħu tilħa kenn; targa u skud il-verità tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/91\/1-4.1792617709261.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Bir-rix tiegħu"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "jagħtik kenn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "u taħt"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ġwienaħu"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "tilħa kenn"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "targa"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "u skud"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "il-verità tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:49.262207839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bniet",
+      "rationale": "בנותיה tfisser litteralment 'il-bniet tagħha' għalkemm tqis irħula ż-żgħar tal-belt"
+    },
+    {
+      "kind": "addition",
+      "subject": "fi kull waħda mill-bliet",
+      "rationale": "il-ġerża 'kollha' tal-Lhudi ġiet mgħaddija b'repetizzjoni Maltija"
+    }
+  ],
+  "translation": "U Jisrael ħa ⟨את⟩ dawn il-bliet kollha, u Jisrael għex fi Ħeshbon u f'kull waħda mill-bliet tal-Emorri, f'Ħeshbon u fil-bniet kollha tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e0f7b63a9168f9f21ae87713da43ab7f60b547a00cb3a08bcf4c0000d55ed3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/21\/25-28.1792603132861.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-bliet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "il-bliet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u għex"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fi kull"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "tal-Emorri"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "f'Ħeshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "u fil-bniet"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kollha tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T17:18:52.862741005Z",
+  "model": "glm-5.3"
+}

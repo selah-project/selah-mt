@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אורי\/אורך",
+      "rationale": "קול יסודי אור חוזר: 'דַּוְול' u 'דַּוְולְךֶ' — pun għall-verb u għan-nun possessiva, mitluf bil-Malti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Qum, iddawwal",
+      "rationale": "żewġ imperattivi femminili jiftħu l-kapitlu b'sejħa"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Sijon",
+      "rationale": "indirizz femminili singular għal Sijon\/Ġerusalemm, mingħajr isem fil-vers"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tella'",
+      "rationale": "זרח huwa tlugħ tax-xemx — x'jiġri bil-ħila tar-raġġi, mhux sempliċiment 'qam'"
+    }
+  ],
+  "translation": "Qum, iddawwal, għax ġie dawltek, u l-ġmiel ta' Jaħwe fuqek tella'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/60\/1-4.1792612218383.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Qum"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "iddawwal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "dawltek"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "u l-ġmiel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "tella'"
+    }
+  ],
+  "timestamp": "2026-10-21T19:50:18.383622410Z",
+  "model": "glm-5.3"
+}

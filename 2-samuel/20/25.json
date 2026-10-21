@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩\/⟨kienu⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kittieb",
+      "rationale": "סופר tfisser litteru skont il-ħoss — minn ספר, li jikteb jgħodd; 'kittieb' jitbiegħed mill-ħoss"
+    }
+  ],
+  "translation": "u Xeva ⟨kien⟩ kittieb, u Tsadok u Avjatar kienu qassisin;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/20\/25-26.1792609055770.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "u Xeva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kittieb"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "u Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "u Avjatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "qassisin"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:35.770993023Z",
+  "model": "glm-5.3"
+}

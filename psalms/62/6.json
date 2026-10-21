@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefesh hija l-ħajja\/nifs, mhux ruħ flimkien ma' ġisem jew diviżjoni Ellenika; 'nifsi' izomm il-ħoss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך",
+      "rationale": "l-avverbju 'biss' jirrepeti fil-versi 5–7 bħala refren tal-Salm"
+    }
+  ],
+  "translation": "Biss għal Elohim agħti skiet, ja nifsi, għaliex mingħandu t-tama tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/62\/5-8.1792617256867.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Biss"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "għal Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "agħti skiet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ja nifsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mingħandu"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "t-tama tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:16.867906426Z",
+  "model": "glm-5.3"
+}

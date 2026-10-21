@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "il-ġieħ 'my glory' — Hebrew כבוד jġib 'ta' min jikkanta, imma l-possessiv Malti jħtieġ lil tiegħi"
+    },
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "'il-ġieħ tiegħi' (my glory) kontra Geneva 'ilsien' u BSB 'qalb' — l-ebda kelma Lhudija għal ilsien jew qalb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידם",
+      "rationale": "דמם tfisser 'jibqa' bla ħoss, jaqgħad fis-skiet — verb ta' skiet mhux ta' waqfien biss"
+    }
+  ],
+  "translation": "Biex il-ġieħ tiegħi jkanta bik, u ma joħroġx jaqgħad fis-skiet. Jaħwe, Elohim tiegħi, nirringrazzjajk għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/30\/13-13.1792616790070.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "biex"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "jkanta bik"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-ġieħ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jaqgħad fis-skiet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nirringrazzjajk"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:30.070703505Z",
+  "model": "glm-5.3"
+}

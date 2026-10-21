@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-propizzatorju",
+      "rationale": "כפורת: 'il-kopertura' (jps) kontra 'propizzatorju\/misericordja' (kjm) — litteralment 'il-kopertura tal-aron' mill-għerq כפר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-aron",
+      "gloss": "ארון litteralment 'kaxxa'; il-Malti żamm l-ilsier Semitiku 'aron'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקח",
+      "gloss": "'u hu ħa' bla oġġett fil-Lhudi — l-oġġett (ix-xhieda) jiġi wara"
+    }
+  ],
+  "translation": "U hu ħa u poġġa ⟨את⟩ ix-xhieda fl-aron, u sebbħ ⟨את⟩ il-varekks fuq l-aron, u poġġa ⟨את⟩ il-propizzatorju fuq l-aron minn fuq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/40\/17-20.1792600445334.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ix-xhieda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ix-xhieda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fl-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sebbħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-varekks"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "il-varekks"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l-aron"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-propizzatorju"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "il-propizzatorju"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l-aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "minn fuq"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:05.335088969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 10:13",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאול\/לשאול",
+      "rationale": "Isem Xaul (token 2) u l-verb לשאול 'biex jistaqsi' (token 14) għandhom l-istess konsonanti — il-figura tal-istorja ta' Xaul tinżamm fil-ħoss"
+    },
+    {
+      "kind": "crux",
+      "subject": "אוב",
+      "rationale": "'negromant' (dak li jġib il-mejtin jitkelmu) kontra 'spirtu familjari' (KJV) jew 'arf' (ħaġa moħbija)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kelmt Jaħwe",
+      "rationale": "דבר tfisser kemm 'kelma' kif ukoll 'kmand'; il-Malti jżomm il-ħoss ta' kelma waħda"
+    }
+  ],
+  "translation": "U miet Xaul fit-tradiment li wera kontra Jaħwe, dwar kelmt Jaħwe li ma żammhiex, u wkoll għaliex mar jistaqsi għand negromant biex ifittex.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/10\/13-14.1792621863818.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "U miet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "במעלו",
+      "gloss": "fit-tradiment tiegħu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "wera tradiment"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kontra Jaħwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dwar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelmt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "żammhiex"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u wkoll"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "għaliex staqsa"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "għand negromant"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "biex ifittex"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:03.819092253Z",
+  "model": "glm-5.3"
+}

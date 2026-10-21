@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנצח",
+      "rationale": "l-ism il-Lhudi ifisser 'dak li jsofoq \/ jippresiedi' — titlu mużikali, mhux isem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזמור שיר",
+      "rationale": "żewġ kliem għal mużika wieħed imqabbad — 'taħdida, għanja' iżżomm id-doppju"
+    }
+  ],
+  "translation": "Lil dak li jiddettaha, bil-instrumenti tal-kordi. Taħdida, għanja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/67\/1-4.1792617313458.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lil dak li jiddettaha"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "bil-instrumenti tal-kordi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "taħdida"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "għanja"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:13.459368486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 10:13",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ħraj\/ħsad",
+      "rationale": "Ekku ta' Osea 10:12 — żerigħu t-tsedeq, ħsadu fil-ħesed; hawn il-verb huma l-istess imma l-għan hu maħbuż"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כחש",
+      "gloss-surface": "פרי כחש",
+      "rationale": "kilma rari: letteralment 'degħra tal-ġisem', figurattivament ipokriżija; hawn 'il-gideb'"
+    }
+  ],
+  "translation": "ħarajtu ħażen, inġustizzja ħsadtu, friet il-gideb kilktu; għax ħlest fil-triq tiegħek, fil-moloz ta' ġibborek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "85cedc65ef27f6d9c20f2c180b5cd1d55d9a12f5b6b3651560e39d494ed1f5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/10\/13-15.1792615507657.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרשתם",
+      "gloss": "ħarajtu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "inġustizzja"
+    },
+    {
+      "surface": "קצרתם",
+      "gloss": "ħsadtu"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "kilktu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "friet"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "il-gideb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "ħlest"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "fil-triq tiegħek"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "fil-moloz"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "ta' ġibborek"
+    }
+  ],
+  "timestamp": "2026-10-21T20:45:07.657874878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "muser",
+      "rationale": "מוסר hu għal darba kastig u għal darba tagħlim; miżżum il-kelma Semitika minflok 'korrezzjoni' biss"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-ġenituri\/qarrej",
+      "rationale": "imperattiv negattiv idirizza direttament lil min jirregola lit-tifel"
+    }
+  ],
+  "translation": "La ttħallix li jitnaqqas mit-tifel ⟨il-muser⟩; għax jekk tgħobbdu bil-statbba, ma jmutx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/23\/13-16.1792618811064.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ttħallix"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "mit-tifel"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "muser"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "tgħobbdu"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bil-statbba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "jmutx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:40:11.064646869Z",
+  "model": "glm-5.3"
+}

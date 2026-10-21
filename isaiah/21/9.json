@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 21:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "Il-Malti jeħtieġ il-kopula; il-Lhudi ma għandux"
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהי�ה hawn jirreferi għall-allat ta' Babilonja, allura *alla\/allat* b'ittra żgħira skont ir-regola (Eżodu 32:8)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלה נפלה",
+      "rationale": "Iterazzjoni ta' ”waqgħet, waqgħet” — repetizzjoni retorika tal-profezia, miżmuma"
+    }
+  ],
+  "translation": "U aru, din hi tiġi karrozza, raġel, par ta' żwiemel; u wieġeb u qal: Waqgħet, waqgħet Babilonja, u l-idoli ta' l-allat tagħha l-kollha kiserhom sal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/21\/9-12.1792611239359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "U aru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "din"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tiġi"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karrozza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "par"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ta' żwiemel"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "u wieġeb"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "Waqgħet"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "waqgħet"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-kollha"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "l-idoli"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "ta' l-allat tagħha"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kiserhom"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sal-art"
+    }
+  ],
+  "timestamp": "2026-10-21T19:33:59.359903390Z",
+  "model": "glm-5.3"
+}

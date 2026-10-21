@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקם\/נקמת",
+      "rationale": "Verb and noun from the same root stacked — 'avenge the vengeance' — the repetition is flattened in Maltese."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "Jaħwe addresses Moxe directly with an imperative."
+    },
+    {
+      "kind": "addition",
+      "subject": "dan",
+      "rationale": "Maltese needs 'wara dan' where Hebrew has the bare adverb אחר."
+    }
+  ],
+  "translation": "Ħu raġġi lill-wlied Jisrael minn ⟨את⟩ il-Medinjani; wara dan tinġabar ma' niesok.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9b67a77a3a1956c68237ab6db9ba69f891f2ef9d62dfbdfbc14fcfb2ab68a3f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/31\/1-4.1792604997248.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Ħu raġġi"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "raġġi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lill-wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn ⟨את⟩",
+      "marks": "il-Medinjani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "il-Medinjani"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wara dan"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "tinġabar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "niesok"
+    }
+  ],
+  "timestamp": "2026-10-21T17:49:57.249683788Z",
+  "model": "glm-5.3"
+}

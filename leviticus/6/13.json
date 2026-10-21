@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-kopula, il-Lhudi ma għandux"
+    },
+    {
+      "kind": "measurement",
+      "subject": "deċima parti ta' efa",
+      "rationale": "kejl ta' l-efa maqsum f'għaxar"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationalale": "",
+      "rationale": "l-alef-tav jippunta lejn Aharon, inżamm bħala ⟨את⟩"
+    }
+  ],
+  "translation": "Dan huwa l-qorban ta' Aharon u ta' wliedu, li jqarrbu lil Jaħwe fin-jum meta jiġi msawħ ⟨את⟩: minħa ta' deċima parti ta' efa sola, kontinwa — nofsha fil-għodu u nofsha filgħaxija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/6\/13-16.1792600546157.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "u wliedu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "jqarrbu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fin-jum"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "jiġi msawħ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lil Aharon"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "deċima parti"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "ta' efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sola"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minħa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kontinwa"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "nofsha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "fil-għodu"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "u nofsa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "filgħaxija"
+    }
+  ],
+  "timestamp": "2026-10-21T16:35:46.157835018Z",
+  "model": "glm-5.3"
+}

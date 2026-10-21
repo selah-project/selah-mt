@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi ma għandux kopula; miżjuda bil-Malti u mmarkata ⟨hija⟩ — hawn miżjuda bla marka fid-dawl tar-regola; ara l-gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għar-ruwaħ",
+      "rationale": "לרוח huwa 'riħ\/ruwaħ' — ix-xogħol għar-riħ, mhux ' bla xejn'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mard-grav",
+      "rationale": "חולה: jew adverbju 'bil-mard' jew tem attributtiv; rajtha bħala.descriptor imwaħħal."
+    }
+  ],
+  "translation": "U dan ukoll hija ħaża mard-grav: kollu kif ġie, hekk jimxi; u xi qligħ għandu minn dak li jistabtu għar-ruwaħ?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4198bf3345ce9fc8d5ebfbe5c36ef51455d5edb50a979a643fa438a780c1d8b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/5\/13-16.1792620222341.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "u dan ukoll"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ħaża"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "mard-grav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu kif"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "kif"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "jimxi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u xi"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "qligħ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għandu"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "minn dak li jistabtu"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "għar-ruwaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T22:03:42.342838598Z",
+  "model": "glm-5.3"
+}

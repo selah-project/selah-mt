@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עפלים",
+      "rationale": "'tumours\/emerods' vs 'haemorrhoids' (Talmud) vs 'mounds' (fortified hillocks) — same word covers swelling and height"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יד יהוה",
+      "rationale": "'the hand of Jaħwe' = his power in action, rendered literally to keep the image"
+    }
+  ],
+  "translation": "U saret tqila l-id ta' Jaħwe fuq in-nies ta' Axod, u ġarrathom, u lahitom bit-tumuri, ⟨את⟩ Axod u ⟨את⟩ frustieri tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/5\/5-8.1792607763906.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "u saret tqila"
+    },
+    {
+      "surface": "יד",
+      "gloss": "l-id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "in-nies ta' Axod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "u ġarrathom"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "u lahitom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lit-tumuri"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "bit-tumuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Axod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "frustieri tagħha"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "frustieri tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:03.907827270Z",
+  "model": "glm-5.3"
+}

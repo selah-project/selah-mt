@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "psalm 95:1",
+      "rationale": "Kohortiċi li jistednu l-ġemgħa: 'Ejju' — beraħ tal-innu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nħabbru bil-qlubja",
+      "rationale": "רוע פjagħra 'taqta' widnejn bil-ħoss', bandiera ta' ħoss qawwi; ma tantx tinstab kelma Maltija waħda."
+    },
+    {
+      "kind": "crux",
+      "subject": "selqa",
+      "rationale": "צור: 'blata, ħaġra' — xbihat ta' saħħa; 'selqa' jew 'blata'?"
+    }
+  ],
+  "translation": "Ejju, nirnennu lil Jaħwe, nħabbru bil-qlubja lejn is-selqa tas-salvazzjoni tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/95\/1-4.1792617747378.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ejju"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "nirnennu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "nħabbru bil-qlubja"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "lejn is-selqa"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "tas-salvazzjoni tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:27.378951957Z",
+  "model": "glm-5.3"
+}

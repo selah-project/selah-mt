@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "'l-għata' (gidru, kif JPS) vs 'siġġu tal-Ħniena' (KJV): il-Lhudi huwa kopertura, mhux siġġu"
+    }
+  ],
+  "translation": "⟨את⟩ it-tebuta tax-xhieda u ⟨את⟩ il-lasti tagħha u ⟨את⟩ l-għata.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/39\/33-36.1792600380389.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tebuta tax-xhieda"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "it-tebuta"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "tax-xhieda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-lasti tagħha"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "il-lasti tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-għata"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "l-għata"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:00.390728105Z",
+  "model": "glm-5.3"
+}

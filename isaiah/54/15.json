@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גור\/יגור\/גר",
+      "rationale": "Għerq għeruq wieħed mittradutt tliet darbiet — l-għajdut tintilef bil-Malti."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס מאותי",
+      "rationale": "'jiġbor mingħajri' vs 'tabilħaqq mhux mingħandi' — KJV 'not by me', YLT 'without My desire'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem\/Sion",
+      "rationale": "Indirizz femminil singular kompli."
+    }
+  ],
+  "translation": "Ara, min jiġbor ruħu jagħmel hekk ⟨את⟩ mingħajri; min jiġbor miegħek ⟨את⟩? kontrik jaqa'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/54\/13-16.1792612024304.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "גור",
+      "gloss": "min jiġbor"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "jiġbor ruħu"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "jagħmel hekk mingħajri"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ mingħajri",
+      "marks": "min jiġbor"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "גר",
+      "gloss": "jiġbor"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontrik"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "jaqa'"
+    }
+  ],
+  "timestamp": "2026-10-21T19:47:04.305849067Z",
+  "model": "glm-5.3"
+}

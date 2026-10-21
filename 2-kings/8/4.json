@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נער",
+      "rationale": "litteralment 'żagħżugħ'; 'il-qaddej' ħaditilha mir-rwol ta' Geħażi ma' Eliseu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "il-kbirajiet ta' Eliseu",
+      "rationale": "is-sultan jistaqsi biex jismgħu l-ġrajjiet kollha — stedina għal rendikont"
+    }
+  ],
+  "translation": "U s-sultan kien qed jitkellem ma' Geħażi, il-qaddej ta' raġel Elohim, jgħid: Għidli jekk jogħġbok ⟨את⟩ kollox il-kbirajiet li għamel Eliseu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/1-4.1792610247190.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "U s-sultan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kien qed jitkellem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Geħażi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "il-qaddej"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Għidli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kollox il-kbirajiet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "il-kbirajiet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:17:27.191455710Z",
+  "model": "glm-5.3"
+}

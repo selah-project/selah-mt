@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "prepositional accusative required before the direct object, marking the object of ⟨את⟩"
+    }
+  ],
+  "translation": "U lil ⟨את⟩ ħukom ħuduh, u qumu, erggħu għand ir-raġel.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/43\/13-16.1792598989403.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ħukom"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ħukom"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ħuduh"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "qumu"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "erggħu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ir-raġel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:49.403652787Z",
+  "model": "glm-5.3"
+}

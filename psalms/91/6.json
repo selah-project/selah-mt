@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקטב",
+      "rationale": "kelma rari: 'qerda\/mewt bil-ħela' kontra LXX 'demonju ta' nofs in-nhar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nofs in-nhar",
+      "rationale": "צהרים huwa dual ta' 'dawl' — 'id-dawl doppju', jiġifieri nofs in-nhar"
+    }
+  ],
+  "translation": "mill-pesti li timxi fid-dlam, u mill-qerda li teqred f'nofs in-nhar;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/91\/5-8.1792617692255.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "mill-pesti"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "fid-dlam"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "li timxi"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "mill-qerda"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "li teqred"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "f'nofs in-nhar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:32.256425889Z",
+  "model": "glm-5.3"
+}

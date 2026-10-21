@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 1:24",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dawk li kienu joqogħdu joħarsu",
+      "rationale": "השמרים: il-partiċipju ta' שמר — 'dawk li joħarsu', spiss tradott biss 'l-ispiji'"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "partiċella ta' supplika rrattra 'jekk jogħġbok', l-ebda ekwivalenti eżatt bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-bniedem li ħarġeż mill-belt",
+      "rationale": "diskors diret — talba lill-istralċ għall-ħajja tiegħu"
+    }
+  ],
+  "translation": "U dawk li kienu joqogħdu joħarsu raw raġel joħroġ mill-belt, u qalulu: Uriħna, jekk jogħġbok, ⟨את⟩ id-daħla tal-belt, u aħna nagħmlulek ħesed.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ffd512d925783cb62aa29b0d41929249d7f71f5bf60f1a985cba4cbc4fbc5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/24-24.1792623172704.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "raw"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "dawk li kienu joqogħdu joħarsu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "joħroġ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalulu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "uriħna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-daħla tal-belt"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "id-daħla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tal-belt"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "u nagħmlulek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miegħek"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:52.705564750Z",
+  "model": "glm-5.3"
+}

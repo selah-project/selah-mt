@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għadira",
+      "rationale": "אגם letteralment 'palud\/siġar tal-qasab' — għadira ta' ilma wieqaf"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מים...מים",
+      "rationale": "il-kelma 'ilma' tirrepeti fil-bidu u fit-tarf, ħolqien ta' inkwiżizzjoni mir-rużżun"
+    }
+  ],
+  "translation": "lilli qalleb il-blat f'għadira ta' ilma, il-flint f'għajn ta' ilma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "036edf5516041f77edc5f49b5de41b526f71b3b3ead57ca90a7283266a489271",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/114\/7-8.1792623837952.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "lilli qalleb"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "il-blat"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "għadira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ta' ilma"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "il-flint"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "f'għajn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ta' ilma"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:57.953536109Z",
+  "model": "glm-5.3"
+}

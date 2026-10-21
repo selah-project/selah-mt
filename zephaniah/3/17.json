@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 3:17",
+  "book": "zephaniah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "L-Lhudi m'għandux kopula qabel gibbor"
+    },
+    {
+      "kind": "crux",
+      "subject": "joqgħod sieket",
+      "rationale": "יחריש: 'joqgħod sieket fl-imħabba' jew 'jieqaf jgħid xejn' jew (KJV) 'jistrieħ fl-imħabba tiegħu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישיש\/יגיל",
+      "rationale": "Żewġ verbi differenti għall-ferħ, שׂוּשׂ u גיל, iterazzjoni retorika li Malti jkaxxi b'verbu wieħed imtenni"
+    }
+  ],
+  "translation": "Jaħwe, l-Elohim tiegħek, f'nofsok ⟨hu⟩ gibbor li jsalva; jifraħ fuqek bil-ferħ, joqgħod sieket fl-imħabba tiegħu, jerġa' jifraħ fuqek b'għanja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dccc0d87725a437121555f0ae15f1bc96a8e1bb9ec078b17ef2caee57518403b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zephaniah\/3\/17-20.1792616190289.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-Elohim tiegħek"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "f'nofsok"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gibbor"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "li jsalva"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "jifraħ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bil-ferħ"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "joqgħod sieket"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "fl-imħabba tiegħu"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "jerġa' jifraħ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "b'għanja"
+    }
+  ],
+  "timestamp": "2026-10-21T20:56:30.290612937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "באר",
+      "rationale": "l-għerq ifisser 'jħaffer' u wkoll 'jispjega' — il-Tora mħaffra bħal bir, ma jogħobx lil qarrej"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הואיל",
+      "rationale": "'qabad' (jagħti ruħu għal xi ħaġa); possibbli wkoll 'hua jgħid bil-qalb' — ħtieġa ta' volontà"
+    }
+  ],
+  "translation": "Barra mill-Ġordan, fl-art ta' Moab, qabad Moxe jispjega ⟨את⟩ din it-Tora, billi jgħid:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/5-8.1792605214986.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "barra"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "mill-Ġordan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "qabad"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "jispjega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din it-Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "it-Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    }
+  ],
+  "timestamp": "2026-10-21T17:53:34.986609549Z",
+  "model": "glm-5.3"
+}

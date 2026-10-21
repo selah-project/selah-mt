@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 12:4",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ma'",
+      "rationale": "il-פליטי ma' 'il-Lhudi hawn maħsub bħala prefissjoni 'ma'' (kontra), mhux bħala markatur ta' oġġett; għalhekk ma għandux il-bracket ⟨את⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "il-fittir ta' Efrajm",
+      "rationale": "il-fittir ta' Efrajm — 'Efrajm huma mħarba\/fittir' — xi jaqra jgħidu li Gilad hu mħarba fost Efrajm u Manasse; jixbah ukoll għajd ta' sħaħra li wasslet għall-ħtif ta' Efrajm fil-passaġġi ta' l-Ġordan (v. 5-6)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "f'nofs Efrajm u f'nofs Manasse",
+      "rationale": "repetizzjoni parallel ta' בתוך — mogħdija ta' żewġ tribujiet, rrimarkata bil-Malti bir-ripetizzjoni identika."
+    }
+  ],
+  "translation": "U Jiftaħ ġabar ⟨את⟩ lil irġiel Gilad kollha, u ġġieled ⟨את⟩ ma' Efrajm; u rġiel Gilad laqtu ⟨את⟩ lil Efrajm, għax qalu: Il-fittir ta' Efrajm intom, a Gilad, f'nofs Efrajm u f'nofs Manasse.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ae1f282aa3d26a9e234f86191bba42cd9e56e0b08507a39e9c72bca81aacf91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/12\/1-4.1792607306772.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "u ġabar"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil irġiel Gilad kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "u ġġieled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "u laqtu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "rġiel"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Efrajm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "il-fittir ta'"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    }
+  ],
+  "timestamp": "2026-10-21T18:28:26.774613938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "Partiċipella waħedha mingħajr kopula; il-Malti jinsab iktar ċar bi 'hu' bracketed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mix-xemx tinħareġ sa għaruba tagħha",
+      "rationale": "Span spazjali tal-ħajja ta' kuljum, mix-xef għall-inżul, jkejjel il-firxa tat-tifħir"
+    }
+  ],
+  "translation": "Mix-xemx tinħareġ sa għaruba tagħha, imfaħħar ⟨hu⟩ isem Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/113\/1-4.1792617951328.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "tinħareġ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "xemx"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "għaruba tagħha"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "imfaħħar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:51.329150497Z",
+  "model": "glm-5.3"
+}

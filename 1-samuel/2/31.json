@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "id-driegħ",
+      "rationale": "זרוע hija driegħ — il-forza tas-saħħa tal-familja; xi traduzzjonijiet jbiddlu għal 'saħħa' u jtellgħu l-istampa."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Eli",
+      "rationale": "Profezija ta' kastig indirizzata direttament lil Eli."
+    }
+  ],
+  "translation": "Ara, ġranet ġejjin, u naqtgħu ⟨את⟩ id-driegħ tiegħek u ⟨את⟩ id-driegħ tad-dar ta' missierek, biex ma jibqax xi xiħ f'darek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/2\/29-32.1792607672846.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ġranet"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ġejjin"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "u naqtgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-driegħ tiegħek"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "id-driegħ tiegħek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "id-driegħ tad-dar"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "id-driegħ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ta' missierek"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "biex ma jibqax"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "xi xiħ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "f'darek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:34:32.847305907Z",
+  "model": "glm-5.3"
+}

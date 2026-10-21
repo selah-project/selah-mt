@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nifs",
+      "rationale": "נפש hi nifs \/ ħajja \/ għajn il-ħelu — mhux ruħ bħala entità separata"
+    },
+    {
+      "kind": "addition",
+      "subject": "minn jien",
+      "rationale": "il-Malti jrid il-pronom wara minn; il-Lhudi għandu ממני biss"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "appell dirett lil Jaħwe b'mistoqsija ta' wġigħ"
+    }
+  ],
+  "translation": "Għaliex, Jaħwe, tixliħ in-nifs tiegħi? Taħbi wiċċek minn jien?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/88\/13-16.1792617641537.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tixliħ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nifs tiegħi"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Taħbi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minn jien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:41.538454720Z",
+  "model": "glm-5.3"
+}

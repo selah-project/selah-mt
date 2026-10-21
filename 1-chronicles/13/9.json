@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמטו",
+      "rationale": "'imbardħu' (stumbled, KJV\/JPS) vs 'inħallu' (were let loose, YLT midrash) — rabbinic tradition reads the oxen were freed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "berġa",
+      "rationale": "גרן huwa l-art imlewja tal-għanu; 'berġa' hija l-kelma Maltija għal post tat-taħin."
+    }
+  ],
+  "translation": "U waslu sal-berġa ta' Kidon, u Uzza miefed ⟨את⟩ idu biex jaħtaf ⟨את⟩ l-aron, għax il-baqar imbardħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "14ff900c392302f655b63eff9a3f4d7bde999bce09c6991ec9f8fc0f270c52a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/13\/9-12.1792621898909.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "waslu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "berġa"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "miefed"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "idu"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "biex jaħtaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-aron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l-aron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "imbardħu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "il-baqar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:31:38.911618319Z",
+  "model": "glm-5.3"
+}

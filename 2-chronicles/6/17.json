@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-kelma",
+      "rationale": "nominal sentence with jussive verb; the noun 'kelma' carries the construct דברך"
+    },
+    {
+      "kind": "crux",
+      "subject": "yiqqamenna",
+      "rationale": "jussive of אמן (Hiphil): 'li jiġi mkemmmed\/salvatur' — 'keep faith' vs 'confirm\/verify'"
+    }
+  ],
+  "translation": "U issa, Jaħwe, Elohim ta' Jisrael, li jiġi mkemmmed ⟨il-kelma⟩ tiegħek li ktibt lil qaddejok, lil David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/17-20.1792622383986.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "u issa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "li jiġi mkemmmed"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "il-kelma tiegħek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ktibt"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "lil qaddejok"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "lil David"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:43.987683983Z",
+  "model": "glm-5.3"
+}

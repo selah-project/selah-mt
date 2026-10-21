@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "המה",
+      "rationale": "il-pronomen enfatiku 'huma' m'għandux post naturali fil-Malti hawn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקללו \/ תברך",
+      "rationale": "il-kuntrast sħet\/barka, għerq קלל kontra ברך — miżmum b'jisħtu\/tipberik"
+    }
+  ],
+  "translation": "Jisħtu — u int tipberik; jqumu u jistħejju, u l-qaddej ⟨tiegħek⟩ iferaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/25-28.1792617934828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Jisħtu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u int"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "tipberik"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "jqumu"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "u jistħejju"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "u l-qaddej"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iferaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:34.829262549Z",
+  "model": "glm-5.3"
+}

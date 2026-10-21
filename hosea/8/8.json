@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ġie",
+      "rationale": "Auxiliary verb supplied: Hebrew נבלע is a bare passive participle, 'swallowed (is) Israel'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jiblagħuha \/ miblagħ",
+      "rationale": "בלע of 8:7 (strangers swallow the grain) recurs in 8:8 (Israel swallowed) — the nation becomes its own harvest."
+    }
+  ],
+  "translation": "Miblagħ ⟨ġie⟩ Jisrael; issa saru fost il-ġnus bħal ġarra li ma hemm fiha pjaċir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/5-8.1792615465822.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "miblagħ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "issa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "saru"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fost il-ġnus"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "bħal ġarra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemm"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pjaċir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fiha"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:25.823678356Z",
+  "model": "glm-5.3"
+}

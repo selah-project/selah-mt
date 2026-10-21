@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Għajjtu",
+      "rationale": "רוּעַ literally 'to split the ears (with sound)' — a shout that breaks open the sound, rendered as 'għajjtu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פצחו\/רננו\/זמרו",
+      "rationale": "three verbs of escalating sound: break out, ring out, play strings — a tricolon of shouting"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to all the earth",
+      "rationale": "imperative summons addressed to the whole earth to praise Jaħwe"
+    }
+  ],
+  "translation": "Għajjtu lejn Jaħwe, l-art kollha; intefħu u għajtu bil-ferħ, u għannu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7764a32b7b3f2cabc92e5320a688c2164b99519af7c201b57a1e490b72ef7b2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/98\/4-4.1792623783711.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Għajjtu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lejn Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "intefħu"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "u għajtu bil-ferħ"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "u għannu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:03.711918236Z",
+  "model": "glm-5.3"
+}

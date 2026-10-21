@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 36:16",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הגיד נגיד",
+      "rationale": "infinitiv absolut ripetut — 'ngħarrfu żgur ngħarrfu' — l-istess għerq נגד darbtejn, iżommjet il-qawwa bit-tDupja"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "gloss-missing": false,
+      "rationale": "ויהי dejjem jittraduċi 'u kien \/ u sar' fil-Malti għax il-verb m'għandux kopula implicita"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lill-king",
+      "rationale": "għandu tkun 'lir-re' — 'king' mhux kelma Maltija; l-glossa t-tajba hi 'lir-re'"
+    }
+  ],
+  "translation": "U ⟨kien⟩ meta semgħu ⟨את⟩ il-kliem kollu, beżgħu, kull wieħed minn sħabu, u qalu lil Baruk: żgur ngħarrfu lill-king ⟨את⟩ il-kliem kollu dan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "37213f5ceb141864119539f6fcca21c126276a5fc5a17c2285bbdeaf48ab309d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/36\/13-16.1792613334860.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kien"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "meta semgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kliem kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "beżgħu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kull wieħed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "minn"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sħabu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ngħarrfu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "żgur ngħarrfu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lill-king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kliem kollu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "il-kliem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T20:08:54.862434284Z",
+  "model": "glm-5.3"
+}

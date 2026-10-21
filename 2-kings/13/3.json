@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għadab",
+      "rationale": "אף hija l-imnieħer\/il-wiċċ — rabja bit-Tanakh toħroġ minn imnieħer Alla; 'l-għadab' jitilf il-ġisem"
+    },
+    {
+      "kind": "elision",
+      "subject": "הימים",
+      "gloss": "",
+      "rationale": "מerġut ma' כל f'żewġ kliem: il-Malti jagħmel 'il-ġranet kollha' darba"
+    }
+  ],
+  "translation": "U l-għadab ta' Jaħwe ħaraq kontra Jisrael, u taħthom f'idejn Ħazael, sultan ta' Aram, u f'idejn Ben-Ħadad bin Ħazael, il-ġranet kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/13\/1-4.1792610444601.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ħaraq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l-għadab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kontra Jisrael"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "u taħthom"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Ħazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ta' Aram"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "u f'idejn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ħadad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Ħazael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-ġranet kollha"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "il-ġranet kollha"
+    }
+  ],
+  "timestamp": "2026-10-21T19:20:44.602021279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "dgħajjef",
+      "rationale": "אמלל jista' jkun ukoll 'milqut bil-mard' jew 'majna' — ħrejjegna dgħajjef bħala l-qari ewlieni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tremew",
+      "rationale": "בהל hu tremor ta' ġewwa, battik tal-qalb — mhux biss biża'"
+    }
+  ],
+  "translation": "Ħenn għalija, Jaħwe, għax jien dgħajjef; fejqani, Jaħwe, għax għadamja tremew.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/1-4.1792616558967.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ħenn għalija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "dgħajjef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "fejqani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "tremew"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "għadamja"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:38.968408422Z",
+  "model": "glm-5.3"
+}

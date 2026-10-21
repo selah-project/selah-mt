@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 14:8",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Kopula meħtieża bil-Malti għall-passiv_COMPLETED mimsuħ, ma hemmx fix-xemgħa Lhudija."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-Filiżtin",
+      "rationale": "שם עם bil-plural — Fil-Punent 'Philistines' bil-Malti jintuża l-plural ta' l-qedem."
+    }
+  ],
+  "translation": "U semgħu l-Filiżtin li David kien mimsuħ sultan fuq kollha Jisrael, u tellgħu l-Filiżtin kollha biex ifittxu ⟨את⟩ lil David; u David semaʾ u ħareġ quddiemhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cfc5027cd81a26326f7c135f1df4a40da3f2f85473e5bc4c1a508f716fcac6f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/14\/5-8.1792621965510.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "semgħu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "l-Filiżtin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "נמשח",
+      "gloss": "kien mimsuħ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "tellgħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "l-Filiżtin"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "biex ifittxu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "semaʾ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ħareġ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "quddiemhom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:45.511488201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבי",
+      "rationale": "Ripetizzjoni tal-għerq ריב: 'iġġieled iġġilda tiegħi' — l-istess ħoss darbtejn, mitlief bil-Malti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "feġġni",
+      "rationale": "גאל hija r-rabb tal-familja li jifdi — 'feġġ' (jirxel, jirċievi lura) huwa l-eqraf kunċett Malti."
+    }
+  ],
+  "translation": "Iddifendi l-każ tiegħi u feġġni, skont kelmtex ħajjini.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/153-156.1792618071563.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "Iddifendi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "l-każ tiegħi"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "u feġġni"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "skont kelmtex"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ħajjini"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:51.564076655Z",
+  "model": "glm-5.3"
+}

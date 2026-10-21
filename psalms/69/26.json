@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fortizza",
+      "rationale": "טירה: 'torri\/fortizza' (YLT 'tower') kontra 'abitazzjoni\/insedjament' (KJV 'habitation')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vojta",
+      "rationale": "נשמה — sterili, meqruda, mqalla'; 'vojta' jaqbez in-naħa ta' abbandunata"
+    }
+  ],
+  "translation": "Jkun il-fortizza tagħhom vojta, u fit-tined tagħhom la jkun hemm min joqgħod.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/25-28.1792617375813.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Jkun"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "il-fortizza tagħhom"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "vojta"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "fit-tined tagħhom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jkun hemm"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "min joqgħod"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:15.813775886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "siwi twil",
+      "rationale": "ארך אפים literalment 'twil ta' wiċċ\/icħal' — idjom għal paċenzja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħu",
+      "rationale": "רוח = ruwaħ skont D2 — nifs\/ruwaħ\/spirtu, kelma waħda mhux 'spirtu' waħdu"
+    },
+    {
+      "kind": "addition",
+      "subject": "milli",
+      "rationale": "il-Malti jeħtieġ 'milli' għal paragun; il-Lhudi għandu biss מִ prefiss"
+    }
+  ],
+  "translation": "Aħjar min siwi twil milli kwalankja ġellied, u min jiggverna ruwaħu milli min jaħtaf belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/16\/29-32.1792618725548.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "twil"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "siwi"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "milli kwalankja ġellied"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "u min jiggverna"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruwaħu"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "milli min jaħtaf"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "belt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:45.549633888Z",
+  "model": "glm-5.3"
+}

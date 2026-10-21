@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הותל",
+      "rationale": "verbi li jidħku bil-ħzien — jidher biss hawn fit-Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruħu",
+      "rationale": "נפש mhux 'ruħ' astratt imma ħajja\/ħelu — il-ħila ta' ħajja tal-bniedem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה אפר",
+      "rationale": "'jirgħu rmad' — stampar ta' ragħaj: li jirgħi fuq idolu qed jirgħi rmad, xejn ma jibqa'"
+    }
+  ],
+  "translation": "Irgħi rmad, qalb imqarrba dardritu, u ma jista' jeħlis ⟨את⟩ ruħu, u ma jgħidx: Mela gidba hemm f'limini?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/44\/17-20.1792611845907.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Irgħi"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "rmad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "imqarrba"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "dardritu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "jista' jeħlis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruħu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ruħu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jgħidx"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Mela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "gidba"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "f'limini"
+    }
+  ],
+  "timestamp": "2026-10-21T19:44:05.910735758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nikun⟩",
+      "rationale": "Il-Malti jeħtieġ kupula; il-Lhudi għandu particella וְ fuq incoattiv."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "qdushî \/ wëniqqadhashtî \/ mëqaddishkhèm",
+      "rationale": "Għerq קדש tliet darbiet — isem qaddis, jien inqaddes, li jqaddaskom — il-qdusija tgħaddi minn Alla għal niesu."
+    },
+    {
+      "kind": "crux",
+      "subject": "wëniqqadhashtî",
+      "rationale": "Nifa' 'u jien inqaddes' vs imperattiv 'u qaddsuma l-ismi' (bħal ”I must be hallowed”) — l-istess forma ta' נקדש tinstab f'Eżodu."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-qassisin u lil Jisrael",
+      "rationale": "Proibizzjoni u wegħda diretti lis-smigħ."
+    }
+  ],
+  "translation": "U tprofanawx ⟨את⟩ isem qdusiji, u ⟨nikun⟩ mqaddes fost wlied Jisrael: jien Jaħwe li jqaddaskom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c51213c2d7568d84fef881947c4c0434cfe86726c1b9a578496989e3e1d3482a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/29-32.1792601089180.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u le"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "tprofanawx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem qdusiji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qdusiji"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "u nikun mqaddes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "fost"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "li jqaddaskom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:44:49.181169507Z",
+  "model": "glm-5.3"
+}

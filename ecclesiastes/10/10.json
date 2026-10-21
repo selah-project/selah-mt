@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ kopula li ma hemmx fil-Lhudi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קלקל",
+      "rationale": "għerq mridrat b'sillabi mkabbrin — 'qalleb fis-scorse' — l-iterazzjoni titlef bit-traduzzjoni"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכשיר",
+      "rationale": "'jsewwi\/jsaħħaħ' (Kashar: jaħdem sewwa) kontra 'jiddirigi' — il-KJV 'to direct' aktar baxx mil-literal"
+    }
+  ],
+  "translation": "Jekk il-ħadid jitmaħħan, u l-wiċċ ma jiġix eżlat, il-ħila trid tegħleb; iżda l-qligħ li jsewwi ⟨hu⟩ l-għerf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5ffc9e32a98b3126c4e1bbe237186bc98140e5b7f8174786410dc2983c43213a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/10\/10-11.1792623920831.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "jitmaħħan"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il-ħadid"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "il-wiċċ"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "jiġix eżlat"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "ħila"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "tegħleb"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "u l-qligħ"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "jsewwi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "l-għerf"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:20.832531042Z",
+  "model": "glm-5.3"
+}

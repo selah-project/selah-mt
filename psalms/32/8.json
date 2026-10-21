@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "Suffiss bil-qedem mehmuż mal-verb; il-Malti jżid il-pronom għaċ-ċar"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדבר",
+      "rationale": "Min jitkellem hawn — Jaħwe (ġibda ta' sehwa ġdida fil-psalm) jew il-psalmista jillistru lil ħaddieħor"
+    },
+    {
+      "kind": "alternative",
+      "subject": "איעצה עליך עיני",
+      "rationale": "JPS jaqra l-għajn bħala ħajt: 'nagħti pariri, għajni tkun fuqek' — bil-Malti ħadt it-tnejn ma' xulxin bħal ASV"
+    }
+  ],
+  "translation": "Nagħllemek għerf u nwerrilek fit-triq li fiha timxi; jien nparirlek, għajni fuqek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9552c2ba84b009521dbae9444c318d0ee747e435e9767f5d7ac163f041ac0650",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/32\/7-8.1792623823359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Nagħllemek għerf"
+    },
+    {
+      "surface": "ו אורך",
+      "gloss": "u nwerrilek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "זו",
+      "gloss": "li fiha"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "timxi"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "nparirlek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajni"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:43.361523834Z",
+  "model": "glm-5.3"
+}

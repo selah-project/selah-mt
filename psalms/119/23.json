@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kontrija",
+      "rationale": "בי 'kontra jien': ppronon bil-Malti ma jiflaħx, għalhekk avverbju"
+    },
+    {
+      "kind": "crux",
+      "subject": "jiftakar",
+      "rationale": "שיח: 'jiftakar f'' (b'rażan) vs 'jistaqsi'\/'jiddiskuti' — il-kelma tfisser tmexxija rażanali li titkellem"
+    }
+  ],
+  "translation": "Anki jekk il-kbar joqogħdu u jitkellmu kontrija, il-qaddej tiegħek jiftakar f' ħuqieqek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "11871cdc9e699b814fcbc08edbcce91960f48c1032e665dfded39717e628f884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/21-24.1792618047020.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anki"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "joqogħdu"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "il-kbar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kontrija"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "jitkellmu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il-qaddej tiegħek"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "jiftakar"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "f' ħuqieqek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:27.021263318Z",
+  "model": "glm-5.3"
+}

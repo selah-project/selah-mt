@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 15:24",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כידור",
+      "rationale": "Occurs only here in the Tanakh; glossed as 'battle\/tumult' from the context."
+    },
+    {
+      "kind": "crux",
+      "subject": "a king ready to the battle",
+      "rationale": "Some read לכידור as 'against the boaster' (YLT), taking the king as advancing against the wicked man's boast."
+    }
+  ],
+  "translation": "It-tbatija u l-angustja jibżgħuh; jeqilgħuh bħal sultan mħejji għall-battalja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "94b187575137ce243e55ab4ac0ed5d27c0f2005ba5f00940da84c0415fafbcac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/15\/21-24.1792619309605.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבעתהו",
+      "gloss": "jibżgħuh"
+    },
+    {
+      "surface": "צר",
+      "gloss": "it-tbatija"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "u l-angustja"
+    },
+    {
+      "surface": "תתקפהו",
+      "gloss": "jeqilgħuh"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "bħal sultan"
+    },
+    {
+      "surface": "עתיד",
+      "gloss": "mħejji"
+    },
+    {
+      "surface": "לכידור",
+      "gloss": "għall-battalja"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:29.606712847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 36:18",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בספק",
+      "rationale": "ספק: 'mila\/sażżan' (JPS 'thy sufficiency') jew 'kastig' (KJV 'stroke') — hawn rendut bħala għajxien"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imrar",
+      "rationale": "חמה litteralment 'sħana', fit-tifsira 'rabja'; il-Malti żamm il-ħoss ta' מרירה"
+    },
+    {
+      "kind": "addition",
+      "subject": "lidejk",
+      "rationale": "il-Malti jeħtieġ oġġett għal 'jdawwar'; l-Lhudi għandu biss suffiss -ך"
+    }
+  ],
+  "translation": "Għax hemm imrar — ħares ma jippruvakx bil-ġid li għandek; u l-kobor ta' fdawl ma jdawwarx ⟨lidejk⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/36\/17-20.1792619767144.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "imrar"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ħares...ma"
+    },
+    {
+      "surface": "יסיתך",
+      "gloss": "jippruvakx"
+    },
+    {
+      "surface": "בספק",
+      "gloss": "bil-ġid li għandek"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "u l-kobor"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ta' fdawl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma...x"
+    },
+    {
+      "surface": "יטך",
+      "gloss": "jdawwar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:07.144947145Z",
+  "model": "glm-5.3"
+}

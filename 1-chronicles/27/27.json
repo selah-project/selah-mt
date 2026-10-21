@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 27:27",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ il-verb 'kien'; il-Lhudi għandu biss 'u fuq'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבכרמים",
+      "rationale": "KJV 'the increase of the vineyards' vs YLT 'what is in the vineyards'; il-Lhudi mhu ċar jekk tfisser il-prodott jew il-ħaddiema tal-ġnien"
+    }
+  ],
+  "translation": "U fuq il-ġnien tal-għeneb kien Ximi r-Ramati, u fuq dak li huwa fil-ġnien tal-għeneb għall-maħżen tal-inbid kien Zabdi x-Xifmi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd566db08673027307713596f3b4ee2afd20c998fc6e7dfe30e31bd9b36820b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/27\/25-28.1792622192470.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "U fuq"
+    },
+    {
+      "surface": "הכרמים",
+      "gloss": "il-ġnien tal-għeneb"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Ximi"
+    },
+    {
+      "surface": "הרמתי",
+      "gloss": "r-Ramati"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "שבכרמים",
+      "gloss": "dak li huwa fil-ġnien tal-għeneb"
+    },
+    {
+      "surface": "לאצרות",
+      "gloss": "għall-maħżen"
+    },
+    {
+      "surface": "היין",
+      "gloss": "tal-inbid"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    },
+    {
+      "surface": "השפמי",
+      "gloss": "x-Xifmi"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:32.471223600Z",
+  "model": "glm-5.3"
+}

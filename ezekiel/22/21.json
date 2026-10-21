@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עברתי",
+      "rationale": "Lhudi għandu biss 'rabja tiegħi' bla 'ta''; il-Malti jeħtieġ il-ġenittiv"
+    },
+    {
+      "kind": "substitution",
+      "subject": "titħalltu",
+      "rationale": "נתך tfisser literali 'jitferra' bħal metall imdewweb; il-Malti ħalla l-istampa tas-sajf"
+    }
+  ],
+  "translation": "U nġibermilkom u nfuħ fuqkom bin-nar ta' rabja tiegħi, u titħalltu f'nofsha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7ef7112bc9e6d73491a69c1b4d6b9534167ac3322b82fcc68e13c01fd681c640",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/22\/21-24.1792614481486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "nġibermilkom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom (il-ħadid u l-fidda li ġġabru)"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "u nfuħ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fuqkom"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bin-nar"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ta' rabja tiegħi"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "u titħalltu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "f'nofsha"
+    }
+  ],
+  "timestamp": "2026-10-21T20:28:01.486969365Z",
+  "model": "glm-5.3"
+}

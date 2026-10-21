@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוריש\/ירשתם",
+      "rationale": "Same root twice: 'Jaħwe dispossesses ... and you dispossess' — cause and effect from one verb, kept with jkeċċi\/twarrbu."
+    },
+    {
+      "kind": "you",
+      "subject": "israel",
+      "rationale": "Promise addressed to Israel in the second person."
+    }
+  ],
+  "translation": "U Jaħwe jkeċċi ⟨את⟩ dawn in-nazzjonijiet kollha minn quddiemkom, u intom twarrbu n-nazzjonijiet il-kbar u l-iktar qawjija minnkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "38e60c66f2c16f61d3068c29f686f3d6233eae9a43f14a39c4871d377fcdadd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/11\/21-24.1792605561212.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "U jkeċċi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn in-nazzjonijiet kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "in-nazzjonijiet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "minn quddiemkom"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "u intom twarrbu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "n-nazzjonijiet"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "il-kbar"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "u l-iktar qawjija"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "minnkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:59:21.214022612Z",
+  "model": "glm-5.3"
+}

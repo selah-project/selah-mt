@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "erbgtin jum",
+      "rationale": "Għadd tas-sigħat ta' żmien il-Filistew jippresenta ruħu: erbgħin jum."
+    },
+    {
+      "kind": "idiom",
+      "subject": "filgħodu u filgħaxija",
+      "rationale": "השכם והערב huma infinitivi bil-artiklu, litteralment 'it-tlugħ bikri' u 'l-għabex'; il-Malti jagħtihom bħala żmienijiet tat-jum."
+    }
+  ],
+  "translation": "U l-Filistew qorob filgħodu u filgħaxija, u qagħad bil-wieqfa hemm erbgħin jum.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/13-16.1792608008405.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "U qorob"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "l-Filistew"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "filgħodu"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "u filgħaxija"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "u qagħad bil-wieqfa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "erbgħin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:08.406791784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨poġġ⟩",
+      "rationale": "il-Lhudi jgħid biss 'għal ħalqek xofar'; il-verb imperattiv miżjud"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל חכך שפר",
+      "rationale": "'Għal ħalqek xofar' — jew deskrittiv jew imperattiv 'poġġu'; l-iktar maħsub li hemm kelma tal-qari (דּוֹם, oqgħod bil-ħuft) li ttieħdet bħala אל"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנשר",
+      "rationale": "ajkla jew avultun — għasfur tal-priża; l-ajkla Maltija żżomm il-ħażna tal-priża"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-profeta",
+      "rationale": "il-vers jindirizza lil xi ħadd biex jiftaħ ħalqu bħal xofar — sejħa għall-ħars"
+    }
+  ],
+  "translation": "Għal ħalqek ⟨poġġ⟩ ix-xofar, bħal ajkla fuq id-dar ta' Jaħwe, għax qasmu lil patt-i u kontra t-Tora tiegħi trabżaw.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/8\/1-4.1792615455882.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ħalqek"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ix-xofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "bħal ajkla"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "qasmu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il-patt tiegħi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u kontra"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "it-Tora tiegħi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "trabżaw"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:15.882672124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כחש",
+      "rationale": "il-verb ifisser 'gidem\/ikrah' — hawn 'naqas minn xaħam'; l-għerq jista' jfisser 'gideb' f'postijiet oħra"
+    },
+    {
+      "kind": "elision",
+      "subject": "משמן",
+      "rationale": "'xaħam\/imsaħħan' — l-ideja li s-sawm ħassar ix-xaħam tal-ġisem"
+    }
+  ],
+  "translation": "irkoppi tħassru bis-sawm, u ġismi naqas mis-saħħa mill-imsaħħan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/21-24.1792617939554.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "irkoppi"
+    },
+    {
+      "surface": "כשלu",
+      "gloss": "tħassru"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "bis-sawm"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "u ġismi"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "naqas mis-saħħa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mill-imsaħħan"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:39.555766422Z",
+  "model": "glm-5.3"
+}

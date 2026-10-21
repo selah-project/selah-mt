@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפליטה",
+      "rationale": "litteralment 'għal fdal li jaħrab' — partit li jibqa' ħaj wara l-ħerba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויאמר",
+      "rationale": "jista' jkun 'ħaseb' (rimarka interna) milli 'qal' bil-leħen, kif jissuġġerixxi l-kuntest"
+    }
+  ],
+  "translation": "U qal: Jekk Esav jiġi għand il-kamp il-wieħed u jidribh, il-kamp l-ieħor li jifdal ikun għall-ħarba.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a051a49a2e0a04c31e0fe5881ab1df3ea41e37ea7fdb45f9c75ce208c83c63b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/32\/9-12.1792598566783.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jiġi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "il-wieħed"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "u jidribh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "li jifdal"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "għall-ħarba"
+    }
+  ],
+  "timestamp": "2026-10-21T16:02:46.783996098Z",
+  "model": "glm-5.3"
+}

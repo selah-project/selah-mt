@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "השמינית",
+      "rationale": "Xeminit — probabilment lira ta' tmien kordi, jew fuq it-tmien nota; baqgħet b'ħoss Lhudi għax il-Malti m'għandux kelma għaliha"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השמינית",
+      "rationale": "kelma rari — tinstax ħlief hawn u f'Salm 12:1; tittrażżan biss bil-ħoss"
+    }
+  ],
+  "translation": "Lil-dak li jmexxi, b'negħinot — fuq ix-Xeminit. Mizmor lil David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/1-4.1792616558967.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lil-dak li jmexxi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "b'negħinot"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ix-Xeminit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:38.968041237Z",
+  "model": "glm-5.3"
+}

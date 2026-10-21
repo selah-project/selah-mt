@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקרע\/קרועי בגדים",
+      "rationale": "Ripetizzjoni tal-għerq קרע: is-sultan jaqra' u l-ilsiera bil-ħwejjeġ imjaqrgħa — il-lament jaqbeż lil kulħadd."
+    },
+    {
+      "kind": "elision",
+      "subject": "להמלך",
+      "rationale": "L-Infinitiv bil-lamed ma jidhirx fil-ktieb hawn; l-ilsiera 'tal-sultan' mneħħija biex il-vers jibqa' eżatt."
+    }
+  ],
+  "translation": "U qam is-sultan u jaqra' ⟨את⟩ l-ħwejjeġ tiegħu u muxel l-art; u l-ilsiera tiegħu kollha weqfin, bil-ħwejjeġ imjaqrgħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/13\/29-32.1792608854880.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "U qam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "u jaqra'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "l-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "u muxel"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "l-ilsiera tiegħu"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "weqfin"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "imjaqrgħa"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "bil-ħwejjeġ"
+    }
+  ],
+  "timestamp": "2026-10-21T18:54:14.881441738Z",
+  "model": "glm-5.3"
+}

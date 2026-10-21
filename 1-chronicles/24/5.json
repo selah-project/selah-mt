@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 24:5",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Il-Malti jeħtieġ 'kien hemm' għal והיו f'dan il-kuntest"
+    },
+    {
+      "kind": "crux",
+      "subject": "prinċepi ta' Elohim",
+      "rationale": "שרי האלהים: 'prinċepi ta' Elohim' (literal) kontra 'prinċepi tad-dar ta' Elohim' (KJV)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-qasma bil-gorarot",
+      "rationale": "Il-vers jiddeskrivi tqassim b'lottijiet tan-nisa sacerdotali"
+    }
+  ],
+  "translation": "U qassamhom bil-gorarot, dawk ma' dawk, għax kienu ⟨hemm⟩ prinċepi tal-qdusija u prinċepi ta' Elohim, minn wlied Elazar u minn wlied Itamar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8711f0e5d66cd8891bd418ee6d28547b4996d40debd5c8047525645c761b4bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/24\/5-8.1792622168981.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלקום",
+      "gloss": "U qassamhom"
+    },
+    {
+      "surface": "בגורלות",
+      "gloss": "bil-gorarot"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dakk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dakk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "prinċepi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tal-qdusija"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "u prinċepi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "minn wlied"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "u minn wlied"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:08.982298290Z",
+  "model": "glm-5.3"
+}

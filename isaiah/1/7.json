@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "Il-Lhudi għandu ż-żewġ kelmi biss 'u-ħerba', bla verb; il-<hi> tagħti s-sens sħiħ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים ... זרים",
+      "rationale": "L-istess kelma tiftaħ u tagħlaq il-vers — inkalċ minn barranin, imwaqqa' bħal ma jagħmlu barranin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדמה",
+      "rationale": "'Adama' = ħamra, l-art ħamra; il-Malti 'art' iħares il-gerq imma jitlef il-kulur."
+    }
+  ],
+  "translation": "L-art tagħkom ħerba, il-bliet tagħkom maħruq bin-nar; l-art tagħkom quddiemkom barranin jieklu ⟨את⟩ lilha, u ⟨hi⟩ ħerba bħal qerda ta' barranin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/1\/5-8.1792610914482.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "l-art tagħkom"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ħerba"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "il-bliet tagħkom"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "maħruq"
+    },
+    {
+      "surface": "אש",
+      "gloss": "bin-nar"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "l-art tagħkom"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "quddiemkom"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "barranin"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jieklu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lilha"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "u ħerba"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "bħal qerda"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ta' barranin"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:34.483326337Z",
+  "model": "glm-5.3"
+}

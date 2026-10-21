@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lil dawk fil-ġolja f'Bavel",
+      "rationale": "Imperative 'ismgħu' — direct summons to the exiles."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-eżiljati f'Bavel",
+      "rationale": "Second-person plural address to the whole golah community."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lejn Bavel",
+      "rationale": "Directional suffix הָ on בבלה rendered with Maltese 'lejn'."
+    }
+  ],
+  "translation": "U intom, ismgħu kelmt Jaħwe, il-ġolja kollha li bħajt minn Jeruxalajim lejn Bavel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f796c09f8980ca95a338fbe1ecaa019a3e6958b893a1eee82a182ab711f12a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/29\/19-20.1792623586788.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "U intom"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ismgħu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelmt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "il-ġolja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "bħajt"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "minn Jeruxalajim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "lejn Bavel"
+    }
+  ],
+  "timestamp": "2026-10-21T22:59:46.789577294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ruwaħ sar qasir",
+      "rationale": "קצרה נפש — idjom Lhudi: 'il-ħajja\/ruwaħ sar qasir' = tilef is-sabar; il-litteralità miżmuma, it-tifsira: inkwetru u nuqqas ta' paċenzja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Baħar tas-Suf",
+      "rationale": "ים סוף huwa 'il-Baħar tar-ross\/kenur' (סוף = papiru); mhux neċessarjament l-Eġew — iżżomm il-forma litterali."
+    }
+  ],
+  "translation": "U telqu mill-muntanja Hor bit-triq tal-Baħar tas-Suf, biex idorru ma' ⟨את⟩ art Edom; u ruwaħ il-poplu sar qasir fit-triq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/21\/1-4.1792603008565.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "telqu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mill-muntanja"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "bit-triq"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tal-Baħar"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "tas-Suf"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "biex idorru ma'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "art Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "sar qasir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    }
+  ],
+  "timestamp": "2026-10-21T17:16:48.568845061Z",
+  "model": "glm-5.3"
+}

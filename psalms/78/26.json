@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסע\/וינהג",
+      "rationale": "żewġ verbiet tal-vjaġġ — it-tinda titqajjem u tmur, ir-riħ qisu merħla miċ-ċaqliq tal-Imgħallem."
+    },
+    {
+      "kind": "addition",
+      "subject": "riħ",
+      "rationale": "il-kelma 'riħ' miżjuda mal-lvant u n-nofsinhar għax il-Lhudi jqis dawk l-irjieħ."
+    }
+  ],
+  "translation": "Ġibed riħ tal-lvant biex iwasslu fis-sema, u b'qawwtu mexxa r-riħ tan-nofsinhar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/25-28.1792617479150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Ġibed biex iwasslu"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "riħ tal-lvant"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "fis-sema"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "mexxa"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "b'qawwtu"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "r-riħ tan-nofsinhar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:59.151490601Z",
+  "model": "glm-5.3"
+}

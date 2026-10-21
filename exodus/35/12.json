@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "kapporet: 'l-għatu tal-kbir' (litteral mill-għerq kpr, kbir) kontra 'mitt tad-deheb' jew sempliċiment 'l-għatu' — jiddependi jekk il-kbir jinżamm jew le."
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-lista",
+      "rationale": "komponenti ta' qaddisa meħtieġa, kull wieħed immarkat bl-aleph-tav."
+    }
+  ],
+  "translation": "⟨את⟩ l-arka u ⟨את⟩ l-lasti tagħha, ⟨את⟩ l-għatu tal-kbir u ⟨את⟩ l-pannellu tal-velu;",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "3721dd6abfef58bb0395f9712a6065e5d96aa8062f39c472ac0101ef6a09f21f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/35\/9-12.1792600108448.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-arka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l-arka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-lasti tagħha"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "l-lasti tagħha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għatu tal-kbir"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "l-għatu tal-kbir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-pannellu tal-velu"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "l-pannellu tal-velu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "tal-velu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:28:28.449872984Z",
+  "model": "glm-5.3"
+}

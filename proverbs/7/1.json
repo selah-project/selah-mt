@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "L-imperattiv Malti jeħtieġ il-pronom fis-sħiħ; il-Lhudi għandu biss אמרי"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-iben",
+      "rationale": "Appell dirett 'Ibnì' — indirizz lis-semmiegħ"
+    }
+  ],
+  "translation": "Ibnì, ħares il-kelmiem tiegħi, u l-ordnijiet tiegħi aħbishom ⟨את⟩ miegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/7\/1-4.1792618452136.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ibnì"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ħares"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "il-kelmiem tiegħi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "u l-ordnijiet tiegħi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "aħbishom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "miegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:12.137221750Z",
+  "model": "glm-5.3"
+}

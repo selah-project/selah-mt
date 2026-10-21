@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨għalik⟩",
+      "rationale": "L-antenat Ebrajk ma jgħidx lil min jiżdied il-ġid; il-Malti jeħtieġ objett għar-ruħ tar-rabbi."
+    },
+    {
+      "kind": "crux",
+      "subject": "bla ġid",
+      "rationale": "בלא הון: 'bla ġid' (KJV\/ASV) kontra 'bi qligħ żgħir' (JPS); il-Lhudi jgħid sempliċiment 'mhux b'ħaġa ta' valur'."
+    }
+  ],
+  "translation": "Tbigħ lil-poplu tiegħek bla ġid, u ma żidtx ⟨għalik⟩ xejn bil-prezz tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/13-16.1792617030964.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Tbigħ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lil-poplu tiegħek"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bla"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ġid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma żidtx"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "xejn"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "bil-prezz tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:30.965296756Z",
+  "model": "glm-5.3"
+}

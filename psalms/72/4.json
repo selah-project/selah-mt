@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-għorfa",
+      "rationale": "'Għaref' huwa qrib ta' אביון — il-qraba Semitika tal-Malti taħdem hawn"
+    },
+    {
+      "kind": "elision",
+      "subject": "עושק",
+      "rationale": "Verb substantivat: 'l-oppressur' fis-soltu; hawn maħruġ bħala frażi 'min joqgħod fuqhom' biex il-verba tibqa' ħajja"
+    }
+  ],
+  "translation": "Jiġġudika lil foqra il-poplu, jsalva lil ulied l-għorfa, u jaħbat lil min joqgħod fuqhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/1-4.1792617439388.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Jiġġudika"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "lil foqra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "jsalva"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lil ulied"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "l-għorfa"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "u jaħbat"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "lil min joqgħod fuqhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:19.388924677Z",
+  "model": "glm-5.3"
+}

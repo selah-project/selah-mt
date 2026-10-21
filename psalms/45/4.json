@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lir-re",
+      "rationale": "indirizz dirett lis-sultan fid-dawl tas-salm"
+    },
+    {
+      "kind": "alternative",
+      "subject": "il-kobor u l-isbuħija tiegħek",
+      "rationale": "jistgħu jkunu vokattiv ('ja kobor u isbuħija tiegħek') bħal ma jissuġġerixxu xi traduzzjonijiet"
+    }
+  ],
+  "translation": "Axxorta x-xabla tiegħek fuq koxxtek, ja qawwi; il-kobor tiegħek u l-isbuħija tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/45\/1-4.1792617049945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "axxorta"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "x-xabla tiegħek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "koxxtek"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ja qawwi"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "il-kobor tiegħek"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "u l-isbuħija tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:49.946282639Z",
+  "model": "glm-5.3"
+}

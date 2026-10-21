@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kliewi",
+      "rationale": "כליות litteralment il-kliewi; figura għall-intern tal-bniedem, mhux 'qalb' jew '_coscienza'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לילות",
+      "rationale": "plural 'lejlatur' bil-Lhudi; bil-Malti l-plural ma jaqgħux tajjeb"
+    }
+  ],
+  "translation": "Niberek lil ⟨את⟩ Jaħwe li taħt l-pariri tiegħi; anki bil-lejl il-kliewi tiegħi jiddiċiplinawni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/16\/5-8.1792616656447.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Niberek lil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "taħt l-pariri tiegħi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anki"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "jiddiċiplinawni"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "il-kliewi tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:16.448539297Z",
+  "model": "glm-5.3"
+}

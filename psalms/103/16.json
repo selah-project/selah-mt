@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ma jgħarfx iktar il-post tiegħu",
+      "rationale": "l-Lhudi jagħti lill-post s-sensi ta' għarfien — il-post 'ma jgħarfx' lill-bniedem; miżmum litteralment"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח hawn tfisser ir-riħ, iżda l-għerq huwa wieħed — inżamm 'ruwaħ' skont ir-regola D2"
+    }
+  ],
+  "translation": "Għax ruwaħ tgħaddi fuqu u m'għadux, u ma jgħarfx iktar il-post tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/13-16.1792617811643.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "tgħaddi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "u m'għadux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "jgħarfx"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "il-post tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:31.644211557Z",
+  "model": "glm-5.3"
+}

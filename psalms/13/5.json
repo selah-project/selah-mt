@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יכלתיו",
+      "rationale": "literally 'I have prevailed over him', rendered with one Maltese verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמוט",
+      "rationale": "to waver\/slip, rendered 'nintefa' (I am shaken down)"
+    },
+    {
+      "kind": "mystery",
+      "subject": "psalm",
+      "rationale": "verse voices the hidden fear of being overcome, answered only in the next verse"
+    }
+  ],
+  "translation": "Ħalli ma jgħidx l-għadu tiegħi: Ħeligħtu; u dawk li jagħtu l-inkwiet jifirħu meta nintefa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/13\/5-6.1792616591519.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ħalli ma"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jgħidx"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "l-għadu tiegħi"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "Ħeligħtu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dawk li jagħtu l-inkwiet"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "jifirħu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nintefa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:11.519562739Z",
+  "model": "glm-5.3"
+}

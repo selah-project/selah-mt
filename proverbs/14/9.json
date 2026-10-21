@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "min jaqbad mal-ħtija",
+      "rationale": "KJV\/Aeder 'l-għomaq jiddieħku bid-dnub'; ASV 'l-offerta tal-ħtija taħtfu lill-għomaq'; JPS 'l-għomaq għandhom bżonn il-ħlas'. Jrid jgħid li l-verb jista' jieħu jew lill-ħtija bħala oġġett jew bħala suġġett."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħtija",
+      "rationale": "אָשָׁם tfisser il-ħtija infushha u wkoll l-offrida tal-ħtija; ħadt it-tifsira l-aktar wiesgħa."
+    },
+    {
+      "kind": "alternative",
+      "subject": "rida",
+      "rationale": "רָצוֹן jista' jkun ukoll 'għaxqa' jew 'aċċettazzjoni'; rida tilħaq il-ħoss u l-qalba tat-tifsira."
+    }
+  ],
+  "translation": "L-inġenwi jiddieħku bil-ħtija, iżda fost in-nies id-dritt hemm ir-rida.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/14\/9-12.1792618588115.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "L-inġenwi"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "jiddieħku bil-"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ħtija"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iżda fost"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "in-nies id-dritt"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ir-rida"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:28.116146006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממתים",
+      "rationale": "minn מת 'miet': 'dawk li mmiew' (mortal) kontra qari 'min-nies' b'waw konsonantali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mid-dinja",
+      "rationale": "חלד hija l-ħajja qasira u għal għajn din il-ħajja preżenti"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨din⟩",
+      "rationale": "l-artiklu dimostrattiv Malti għad-determinazzjoni li t-Testment jimplika b'בחיים"
+    }
+  ],
+  "translation": "Minn dawk li mmiew, b'idek, Jaħwe, minn dawk li mmiew mid-dinja; is-sehem tagħhom fil-ħajja ⟨din⟩: bit-teżor moħbi tiegħek timla teħnidhom, jiżgħaw bit-tfal, u jħallu l-fdal tagħhom għat-trottja tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/17\/13-15.1792616593619.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "Minn dawk li mmiew"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "b'idek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "minn dawk li mmiew"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "mid-dinja"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "is-sehem tagħhom"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "fil-ħajja"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "bit-teżor moħbi tiegħek"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "timla"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "teħnidhom"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "jiżgħaw"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bit-tfal"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "u jħallu"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "l-fdal tagħhom"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "għat-trottja tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:13.620370884Z",
+  "model": "glm-5.3"
+}

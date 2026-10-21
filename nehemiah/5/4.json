@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "flus",
+      "rationale": "כסף literalment 'fidda'; il-Malti juża 'flus' għall-munita."
+    }
+  ],
+  "translation": "U hemm min qed jgħid: Selfna flus skond il-miżura tas-sultan, fuq l-għelieqi u d-dwieli tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3e4851fd4e7ef30bc5bc4836abad8c6a6d0fede2e092517c8fc697a5af5f4465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/5\/1-4.1792621354155.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "u hemm min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "qed jgħid"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "selfna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "flus"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "skond il-miżura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "l-għelieqi"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "u d-dwieli tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T22:22:34.156064573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Isma jekk jogħġbok",
+      "rationale": "Imperattiv li jsejjaħ lill-aktar sema għandu; jirrepeti Ġob 38:3 u 40:7."
+    },
+    {
+      "kind": "you",
+      "subject": "is-sejħa lil Jaħwe",
+      "rationale": "Ġob jindirizza lil Jaħwe direttament bit-talba li jismagħu u jgħarrafu."
+    },
+    {
+      "kind": "crux",
+      "subject": "min jitkellem",
+      "rationale": "Dan il-vers huwa kwotazzjoni ta' Ġob 38:3 — BSB iqisuh bħala kliem Jaħwe meħud mill-ktieb ta' qabel, mhux talba ġdida ta' Ġob."
+    }
+  ],
+  "translation": "Isma jekk jogħġbok, u jien nitkellem; nistaqlek, u inti għarrafni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/42\/1-4.1792619861803.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Isma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nitkellem"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "nistaqlek"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "u għarrafni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:57:41.804878167Z",
+  "model": "glm-5.3"
+}

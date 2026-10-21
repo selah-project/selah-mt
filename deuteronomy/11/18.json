@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajātikom",
+      "rationale": "נפש = nifs\/ħaja, mhux 'ruħ' b'moħħ duali"
+    },
+    {
+      "kind": "crux",
+      "subject": "לטוטפת",
+      "rationale": "kelma rari, probabbilment faxex tal-forehead; LXX 'immobilizzat', Talmud 'tfilin'"
+    }
+  ],
+  "translation": "U tqiegħdu ⟨את⟩ dawn il-kelmi tiegħi fuq qlubkom u fuq ħajātikom, u torbtuhom bħala sinjal fuq idejkom, u jkunu bħala faxex bejn għajnejkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/11\/17-20.1792605600266.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "tqiegħdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-kelmi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "il-kelmi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qlubkom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ħajātikom"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "torbtuhom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sinjal"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "idejkom"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "faxex"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "għajnejkom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:00:00.267772111Z",
+  "model": "glm-5.3"
+}

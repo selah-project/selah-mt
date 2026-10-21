@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tħadet saħħitha",
+      "rationale": "ויחזק litteralment 'u ssaħħet' — il-kelma tar-re 'ssaħħet' fuq Joab, jiġifieri prevaliet"
+    },
+    {
+      "kind": "measurement",
+      "subject": "biex jgħoddu il-poplu",
+      "rationale": "il-ċensment jibda tassew"
+    }
+  ],
+  "translation": "U kelmet ir-re tħadet saħħitha fuq Joab u fuq il-kmandanti tal-eżerċitu; u Joab u l-kmandanti tal-eżerċitu ħarġu mill-quddiem tar-re biex jgħoddu ⟨את⟩ il-poplu, ⟨את⟩ lil Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/24\/1-4.1792609255612.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "tħadet saħħitha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelmet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "il-kmandanti"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "tal-eżerċitu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u ħarġu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "u l-kmandanti"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "tal-eżerċitu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mill-quddiem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "biex jgħoddu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:55.613964753Z",
+  "model": "glm-5.3"
+}

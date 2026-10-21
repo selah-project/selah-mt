@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ix-xatt",
+      "rationale": "שפת litteralment 'xofftejn'; hawn 'ix-xatt' (il-linja tal-fruntiera tan-nixxiegħa)."
+    },
+    {
+      "kind": "crux",
+      "subject": "Sijon",
+      "rationale": "שיאן hawn huwa quċċata tal-Ħermon, mhux Sijon ta' Ġerusalemm; xi traduzzjonijiet jħallu 'Sion' u joħolqu konfużjoni."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fruntiera ġeografika",
+      "rationale": "Il-vers jiddeskrivi fruntiera bil-punti ta' bidu u tmiem — kejl ta' spazju."
+    }
+  ],
+  "translation": "Minn Argħer li tinsab fuq ix-xatt tan-nixxiegħa tal-Arnon, sa ma ssal il-muntanja Sijon — hi hi Ħermon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "53f0dc2ea7a131f64016b7861d3d675064449a6122c4c7a2c1153c0908450a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/4\/45-48.1792605413861.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "Minn Argħer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ix-xatt"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "tan-nixxiegħa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "tal-Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa ma ssal"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il-muntanja"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Sijon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi hi"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Ħermon"
+    }
+  ],
+  "timestamp": "2026-10-21T17:56:53.862511992Z",
+  "model": "glm-5.3"
+}

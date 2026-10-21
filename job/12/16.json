@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 12:16",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ verb 'to be' għal klawsola nominali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "toshija",
+      "gloss": ""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שגג\/משגה",
+      "rationale": "l-istess għerq שגג f'żewġ forom — dak li jżall u dak li jżelleż lil ħaddieħor — l-attiv u l-passiv tal-istess realtà, effetti mitlufa parzjalment"
+    }
+  ],
+  "translation": "Miegħu hemm qawwa u toshija; tiegħu ⟨hemm⟩ min iddallim u min jiddallim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/13-16.1792619294541.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qawwa"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "u toshija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiegħu"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "min iddallim"
+    },
+    {
+      "surface": "ומשגה",
+      "gloss": "u min jiddallim"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:14.542293054Z",
+  "model": "glm-5.3"
+}

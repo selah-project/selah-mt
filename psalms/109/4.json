@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "va'ani tefilla",
+      "rationale": "Hebrew is a bare nominal: 'but I — prayer'; versions supply a verb ('I give myself to prayer' KJV) or an apposition ('I am all prayer' JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישטנוני",
+      "rationale": "the verb shares its root with שטן, the accuser; their role answers his love with accusation"
+    }
+  ],
+  "translation": "Minflok l-imħabba tiegħi akkużawni, iżda jien ⟨nagħti ruħi għat-⟩talb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/1-4.1792617919731.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Minflok"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "l-imħabba tiegħi"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "akkużawni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iżda jien"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "talb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:19.732707138Z",
+  "model": "glm-5.3"
+}

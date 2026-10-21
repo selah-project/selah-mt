@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lit-Taħanit lil Jaħwe",
+      "rationale": "Appell dirett b'imperattivi: Ftakar, ħares, ara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "għajbiena",
+      "rationale": "חרפתנו tfisser iċ-ċaħda u l-għajb (reproach), mhux sempliċiment 'vergognja'."
+    }
+  ],
+  "translation": "Ftakar, Jaħwe, x'ġara lilna; ħares u ara ⟨את⟩ għajbiena.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/5\/1-4.1792620156083.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ġara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lilna"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ħares"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għajbiena"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "għajbiena"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:36.083970640Z",
+  "model": "glm-5.3"
+}

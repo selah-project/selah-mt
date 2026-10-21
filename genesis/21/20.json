@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Hawn את mhuwiex il-markatur ta' oġett dirett (H853) izda prepożizzjoni 'ma'' (H854): 'Elohim kien mat-tifel' — mhux 'Elohim (għamel) it-tifel'."
+    },
+    {
+      "kind": "crux",
+      "subject": "רבה קשת",
+      "rationale": "Forma stramba: 'kiber (bil-)qaws' jew 'jieħu r-rbulk tal-qaws'; verżjonijiet jaqsmu bejn 'sar arċier' u 'kiber jisparaw bil-qaws'."
+    }
+  ],
+  "translation": "U Elohim kien ma' ⟨את⟩ it-tifel, u kiber u għex fid-deżert, u sar jisparaw bil-qaws.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a1d7e8693fefbb1d2c931627856edfc5093d96fc422e7ed381e7758abe70641a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/21\/17-20.1792598198257.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "ma' ⟨את⟩",
+      "marks": "it-tifel"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "u kiber"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u għex"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u sar"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "jisparaw"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bil-qaws"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:38.258683968Z",
+  "model": "glm-5.3"
+}

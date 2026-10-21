@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jgħidu \/ jitkellem",
+      "rationale": "Il-Lhudi għandu frażi nominali bla verb; il-Malti jżomm verbi miżjuda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bir-reqqa",
+      "rationale": "ברור 'imfassal, mibjugħ' — it-tqila ta' kliem ippurifikat."
+    }
+  ],
+  "translation": "Bit-tqila ta' qalbi jgħidu kliemi, u l-għarfien ta' fxajti jitkellem bir-reqqa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/33\/1-4.1792619663365.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "it-tqila"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ta' qalbi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kliemi"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "u l-għarfien"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ta' fxajti"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "bir-reqqa"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "jitkellem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:23.366534319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "pronoun supplimentali biex jifhem li l-qaħba titla' qabel xahar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kavod",
+      "rationale": "כבודי tfisser 'sebħi\/piżi'; 'qum, kavod tiegħi' iżomm il-kelma ħajja"
+    },
+    {
+      "kind": "crux",
+      "subject": "inseqq lil xahar",
+      "rationale": "אעירה שחר: 'nqajjem xahar' (JPS) jew 'insejq qabel xahar' — il-verb עור jista' jkun it-trasittiv jew le"
+    }
+  ],
+  "translation": "Qum, kavod tiegħi, qum, in-nevel u l-kinor; jien insejq lil xahar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/57\/9-12.1792617188902.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Qum"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kavod tiegħi"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "qum"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "in-nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "u l-kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "jien insejq"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "lil xahar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:08.903257289Z",
+  "model": "glm-5.3"
+}

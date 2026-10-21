@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "qassis",
+      "rationale": "כהן לדוד: KJV\/ASV 'chief ruler\/minister' (merelaħħaq bħala uffiċjal għoli) kontra BSB\/JPS aktar litterali 'priest'; il-Lhudi jgħid qassis għal David"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jajri",
+      "rationale": "היארי tfisser dixxendent ta' Jajir; ma jintużax 'tarbì' (עיר actar kelma)"
+    }
+  ],
+  "translation": "u wkoll Ira l-Jajri ⟨kien⟩ qassis għal David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/20\/25-26.1792609055770.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "u wkoll"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ira"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "l-Jajri"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨kien⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qassis"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "għal David"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:35.771261236Z",
+  "model": "glm-5.3"
+}

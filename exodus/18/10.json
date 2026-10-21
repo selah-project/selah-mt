@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sija⟩",
+      "rationale": "il-Malti jrid il-verbu 'jkun' fil-berka; l-Lhudi ma għandux kopula."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "suffess akkussattiv mehmuż ma' את; mgħarraf bil-verbu 'ħeliskom'."
+    }
+  ],
+  "translation": "U Jitro qal: Imbierek ⟨sija⟩ Jaħwe, li ħeliskom mill-id ta' Mitsrajim u mill-id ta' Paroh, hu li ħeles lil-poplu ⟨את⟩ minn taħt id Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/18\/9-12.1792599649254.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Imbierek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ħeliskom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mill-id"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ta' Mitsrajim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "u mill-id"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ta' Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ħeles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lil-poplu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "minn taħt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "id"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:20:49.255851085Z",
+  "model": "glm-5.3"
+}

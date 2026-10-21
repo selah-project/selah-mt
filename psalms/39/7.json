@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bħal dell",
+      "rationale": "בצלם: 'b'dell\/immaġni' jew 'b'xi ftit' (qari b'שֵׁם mxerrba) — id-dell jaħraf il-wiċċ ta' Eccl 1:2."
+    },
+    {
+      "kind": "addition",
+      "subject": "ġid",
+      "rationale": "יצבור ma għandux oġġett bl-Ebrajk; il-⟨ġid⟩ żdied biex is-sens ikun ċar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל",
+      "rationale": "L-istess kelma ablel mill-vers 6 — ritorn qawwi fuq il-vanità tal-bniedem."
+    }
+  ],
+  "translation": "Tassew bħal dell jimxi l-bniedem; tassew ablel ihemmem; jiġbor ⟨ġid⟩ u ma jaf min iġborhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/39\/5-8.1792617084993.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tassew"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "bħal dell"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "jimxi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l-bniedem"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tassew"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ablel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ihemmem"
+    },
+    {
+      "surface": "יצבור",
+      "gloss": "jiġbor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "iġborhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:24.994222224Z",
+  "model": "glm-5.3"
+}

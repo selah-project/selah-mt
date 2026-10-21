@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 3:13",
+  "book": "nahum",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi ma għandux kopula; miżjuda bil-Malti u mmarkata"
+    },
+    {
+      "kind": "elision",
+      "subject": "פתוח",
+      "rationale": "l-infinitiv assolut qabel il-verb, għall-aċċent; mgħoddja b'repetizzjoni 'infetħu mbieraħ'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Ninwe",
+      "rationale": "indirizz dirett lejn il-belt"
+    }
+  ],
+  "translation": "Ara, niesek huma nisa fin-nofs tiegħek; għal għedewwek infetħu mbieraħ il-bibien tal-art tiegħek: nielet in-nar il-lasti tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a191a72f704716bdb189713adb9aa604a0b49d20aa4275c1d05271dd9bd2289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nahum\/3\/13-16.1792616059616.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "niesek"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nisa"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "fin-nofs tiegħek"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "għal għedewwek"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "infetħu mbieraħ"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "infetħu"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "il-bibien"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tal-art tiegħek"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "nielet"
+    },
+    {
+      "surface": "אש",
+      "gloss": "in-nar"
+    },
+    {
+      "surface": "בריחיך",
+      "gloss": "il-lasti tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T20:54:19.617232944Z",
+  "model": "glm-5.3"
+}

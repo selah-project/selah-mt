@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בין ... ובין",
+      "rationale": "L-għerq 'bejn' mtenni — bejn raġel u bejn il-prossmu tiegħu — iż-żewġ termini mill-għerq בין, miżjuma lit-traduzzjoni."
+    },
+    {
+      "kind": "hapax-mhux",
+      "subject": "תורתיו",
+      "rationale": "Il-plural ta' Tora bil-pronom suffiss — 'it-Torot tiegħu' — jinżamm fil-plural għax hekk qal l-Ebrajk, mhux 'it-Tora' singular."
+    },
+    {
+      "kind": "elision",
+      "subject": "להם דבר",
+      "rationale": "Litteralment 'li jkollhom kelma' — id-doppja ta' 'ħaġa' tirrendi l-ekwivalenti Malti idjomatiku."
+    }
+  ],
+  "translation": "Għax meta jkollhom ħaġa, tiġi għandi, u jiena nagħmel ġudizzju bejn raġel u bejn il-prossmu tiegħu, u nagħrafhom ⟨את⟩ l-istatuti ta' Elohim u ⟨את⟩ it-Torot tiegħu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/18\/13-16.1792599673775.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għandhom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ħaġa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tiġi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "u nagħmel ġudizzju"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il-prossmu tiegħu"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "u nagħrafhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-istatuti"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "l-istatuti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "it-Torot"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "it-Torot tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:13.776901250Z",
+  "model": "glm-5.3"
+}

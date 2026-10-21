@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta' l-idoli",
+      "rationale": "l- fuq שדים jibqa' sempliċi; żieda biex il-qarre jifhem li huma d-demonji tal-vers 36"
+    }
+  ],
+  "translation": "U sagrifikaw ⟨את⟩ uliedhom u ⟨את⟩ bniethom lid-demonji ta' l-idoli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/106\/37-40.1792617878986.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "U sagrifikaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uliedhom"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "uliedhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "bniettom"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "bniethom"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "lid-demonji ta' l-idoli"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:38.986570169Z",
+  "model": "glm-5.3"
+}

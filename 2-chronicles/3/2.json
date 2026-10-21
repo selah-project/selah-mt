@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jum",
+      "rationale": "בשני waħdu: ”fit-tieni” ta' xejn? traduzzjonijiet qadma jżidu ”jum”; forsi qari biss ”fix-xahar it-tieni”"
+    },
+    {
+      "kind": "measurement",
+      "subject": "iz-zmien",
+      "rationale": "xahar, jum u sena r-raba' tas-saltna"
+    }
+  ],
+  "translation": "U beda jibni fix-xahar it-tieni, fit-tieni ⟨jum⟩, fis-sena ir-raba' ta' saltnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/3\/1-4.1792622299083.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "beda"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "jibni"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "fix-xahar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "fit-tieni ⟨jum⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "fis-sena"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ir-raba'"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "ta' saltnu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:38:19.084671864Z",
+  "model": "glm-5.3"
+}

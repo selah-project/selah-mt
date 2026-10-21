@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-arranġamenti",
+      "rationale": "מערכי literally 'arrangements\/preparings' of the heart, kept literal rather than 'plans'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ownership",
+      "rationale": "'to man belong... and from YHWH' vs KJV reading both lines as one statement governed by 'is from the LORD'"
+    }
+  ],
+  "translation": "Ta' l-bniedem l-arranġamenti tal-qalb, u minn Jaħwe l-weġiba tal-ilsien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/16\/1-4.1792618725257.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "ta' l-bniedem"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "l-arranġamenti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tal-qalb"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "u minn Jaħwe"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "l-weġiba"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tal-ilsien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:45.257858065Z",
+  "model": "glm-5.3"
+}

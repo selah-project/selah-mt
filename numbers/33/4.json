@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-prepożizzjoni 'lil' meħtieġa għall-oġġett dirett dwar persuni bil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "kienu qed",
+      "rationale": "il-partiċipju מקברים jeħtieġ il-verb għajnuna bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהיהם hawn tirreferi għall-idoli tal-Mitsrijim, allura 'l-allat' b'ittra żgħira skond D1, mhux Elohim"
+    }
+  ],
+  "translation": "U l-Mitsrijin kienu qed jiddifnu lil dawk ⟨את⟩ li ħasdet Jaħwe fosthom, kull iben-mieldi; u fuq l-allat tagħhom għamel Jaħwe ġudizzji.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4e1006d65a8a0da39524095d189250ac6599bd9cce82e0f9abfcd6931115a112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/33\/4-4.1792623114538.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "U l-Mitsrijin"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "kienu qed jiddifnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawk li ħasdet Jaħwe fosthom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ħasdet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fosthom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "iben-mieldi"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "u fuq l-allat tagħhom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ġudizzji"
+    }
+  ],
+  "timestamp": "2026-10-21T22:51:54.539372105Z",
+  "model": "glm-5.3"
+}

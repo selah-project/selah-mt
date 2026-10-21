@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Malti jeħtieġ il-copula li ma hemmx fil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qaddis ta' qaddisin",
+      "rationale": "קדש קדשים superlattiv Lhudi — 'l-aktar qaddis', mhux ħaġa waħda qaddisa"
+    }
+  ],
+  "translation": "U dak li jifdal mill-minħa ⟨hu⟩ għal Aharon u għal wliedu: qaddis ta' qaddisin, min-niriet ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/2\/1-4.1792600466731.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "U dak li jifdal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "il-minħa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "għal Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "u għal wliedu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ta' qaddisin"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "min-niriet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:34:26.732988565Z",
+  "model": "glm-5.3"
+}

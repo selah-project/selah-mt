@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למצער",
+      "rationale": "'għal żmien qasir' (KJV, YLT) vs JPS 'kważi keċċew' mill-għerq מצער."
+    },
+    {
+      "kind": "addition",
+      "subject": "ħadu possediment",
+      "rationale": "ירשו verb sħiħ bil-Malti jeħtieġ oġġett; il-veru nsibhux miktub."
+    }
+  ],
+  "translation": "Għal żmien qasir ⟨ħadu possediment⟩ in-nies il-qaddisa tiegħek; l-għedewwa tagħna tramplaw il-Miqdes tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/63\/17-19.1792612169082.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "Għal żmien qasir"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "⟨ħadu possediment⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "il-qaddisa tiegħek"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "l-għedewwa tagħna"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "tramplaw"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "il-Miqdes tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T19:49:29.083751241Z",
+  "model": "glm-5.3"
+}

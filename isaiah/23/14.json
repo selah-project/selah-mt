@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעזכן",
+      "rationale": "'il-fortizza tagħkom' vs 'il-port tagħkom' (BSB 'harbor') — מָעוֹז tfisser fortizza, mhux port."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ewwew",
+      "rationale": "Sejħa diretta lill-vapuri ta' Tarxix, imperattiv."
+    }
+  ],
+  "translation": "Ewwew, vapuri ta' Tarxix, għax inqered il-fortizza tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7561d76f3ee08c3cdbdaacd62cc6223227da5bb7fb567d892f40ea6bd1b46b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/23\/14-15.1792623440308.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Ewwew"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "vapuri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarxix"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "inqered"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "il-fortizza tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:57:20.308699675Z",
+  "model": "glm-5.3"
+}

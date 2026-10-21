@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 26:16",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משמר לעמת משמר",
+      "rationale": "Ripetizzjoni: 'għassa quddiem għassa' — żewġ għassa waħda kontra l-oħra, ttraskurat fix-xejn."
+    },
+    {
+      "kind": "hapax",
+      "subject": "Xalleket",
+      "rationale": "שלכת jidher biss hawn fit-Tanakh bħala isem tal-bieb; mill-għerq 'biecċa' (li tittrema)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "l-gors",
+      "rationale": "L-aħħar ġibda tal-gors: il-punent għal Xuppim u Ħosa — l-erbgħa direzzjonijiet lemtin."
+    }
+  ],
+  "translation": "Lil Xuppim u lil Ħosa lejn il-punent, mal-bieb tax-Xalleket, fit-triq li titla': għassa quddiem għassa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/26\/13-16.1792622180795.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפים",
+      "gloss": "Lil Xuppim"
+    },
+    {
+      "surface": "ולחסה",
+      "gloss": "u lil Ħosa"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "lejn il-punent"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mal-"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bieb"
+    },
+    {
+      "surface": "שלכת",
+      "gloss": "tax-Xalleket"
+    },
+    {
+      "surface": "במסלה",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "li titla'"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "għassa"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "għassa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:20.796625648Z",
+  "model": "glm-5.3"
+}

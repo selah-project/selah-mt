@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 25:13",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija ħajja\/nifs, mhux ruħ b'sens Platonic; tradott 'ħajja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ציר",
+      "rationale": "'mibgħut' vs 'pakku' — ציר jafzor minn zoppun; ħafna jqisu mibgħut hawn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ציר \/ קציר",
+      "rationale": "alliterazzjoni bejn 'mibgħut' u 'ħsad', mitlufa fit-traduzzjoni"
+    }
+  ],
+  "translation": "Bħall-kesħa tas-silġ f'jum il-ħsad, hekk il-mibgħut leali lil min bagħtu, u l-ħajja ta' sidu jirfeshha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c8e93595ea61d5213bf857961d4115903817189a3586cae21d5ad24e37db7480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/25\/13-16.1792618909863.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצנת",
+      "gloss": "bħall-kesħa"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "tas-silġ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "il-ħsad"
+    },
+    {
+      "surface": "ציר",
+      "gloss": "il-mibgħut"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "leali"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "lil min bagħtu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "u l-ħajja"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ta' sidu"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "jirfeshha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:49.864067842Z",
+  "model": "glm-5.3"
+}

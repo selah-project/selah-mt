@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fl-aħrab",
+      "rationale": "אף literament 'mnieħer\/nostril'; l-aħrab (il-brema) tal-wiċċ hija l-istorbju Semitiku tal-ħakma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש ... אש",
+      "rationale": "in-nar jidher darbtejn, fil-bidu u fl-aħħar tal-vers, inkornċentiku ma' Jibla'hom\/jiekolhom"
+    }
+  ],
+  "translation": "Tpoġġihom bħal forn tan-nar fi żmien wiċċek, Jaħwe; fl-aħrab tiegħu jibla'hom, u n-nar jiekolhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/21\/9-12.1792616710335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Tpoġġihom"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "bħal forn tan-nar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "fi żmien"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "fl-aħrab tiegħu"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "jibla'hom"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "u jiekolhom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:05:10.336127422Z",
+  "model": "glm-5.3"
+}

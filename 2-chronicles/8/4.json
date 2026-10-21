@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המסכנות",
+      "rationale": "'ibliet tal-ħażna \/ maħżen' — kliem rar għal bliet għall-provvisti ta' Salamun."
+    }
+  ],
+  "translation": "U bena ⟨את⟩ Tadmor fid-deżert, u ⟨את⟩ l-ibliet kollha tal-ħażna li bena f'Ħamat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0887fe0077689ebb512d0d61c70a6f76e933866aa6fb9640791a798b5f6a6ab4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/8\/1-4.1792622361778.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ibliet kollha tal-ħażna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "l-ibliet"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "tal-ħażna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bena"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "f'Ħamat"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:21.779470295Z",
+  "model": "glm-5.3"
+}

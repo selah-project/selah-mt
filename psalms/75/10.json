@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Maltese needs no supplied copula here; verbs carry the clauses"
+    }
+  ],
+  "translation": "U jien inħabbar għal dejjem, inkant lill-Elohim ta' Jagħaqov.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/75\/9-11.1792617440040.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "inħabbar"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "inkant"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "lill-Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:20.041127352Z",
+  "model": "glm-5.3"
+}

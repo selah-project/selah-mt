@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 22:24",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bla tbegħid",
+      "rationale": "תמים 'sħiħ, komplet' — JPS 'single-hearted', KJV 'upright'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tamim",
+      "rationale": "jista' jibqa' qarib tal-Lhudi: 'kont tamim quddiemu'"
+    }
+  ],
+  "translation": "U kont bla tbegħid quddiemu, u ħrixt ruħi mid-deni tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "54566add259e417b2fbdeb19c6e06df6eaa390b749036b96a538d2c3b9519087",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/22\/21-24.1792609044718.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "u kont"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bla tbegħid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ואשתמרה",
+      "gloss": "u ħrixt ruħi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "mid-deni tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T18:57:24.719957009Z",
+  "model": "glm-5.3"
+}

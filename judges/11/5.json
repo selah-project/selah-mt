@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tov",
+      "rationale": "טוב hawn huwa isem ta' post, mhux l-aġġettiv 'tajjeb'"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "gloss": "prepożizzjoni Maltija meħtieġa quddiem l-oġġett li jġorr ⟨את⟩"
+    }
+  ],
+  "translation": "U ġara meta wlied Għammon ġġieldu ma' Jisrael, li l-kbar ta' Gilgħad marru biex jieħdu ⟨את⟩ lil Jiftaħ mill-art ta' Tov.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e95f0722b4c4f08df53a059bfc9c0aa4600a0b3db6022311d8638491f46f8a1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/11\/5-8.1792607217313.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ġara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "meta"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "ġġieldu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Għammon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "marru"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "l-kbar"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgħad"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "biex jieħdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jiftaħ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaħ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mill-art"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ta' Tov"
+    }
+  ],
+  "timestamp": "2026-10-21T18:26:57.314006414Z",
+  "model": "glm-5.3"
+}

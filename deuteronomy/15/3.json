@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-barrani",
+      "rationale": "הנכרי: barrani (mhux Lhudi) kontra ħu Lhudi — id-distingw jibqa' fis-socjetà ta' paċi ma' dawk li jobgħduh."
+    },
+    {
+      "kind": "alternative",
+      "subject": "idek tħalli",
+      "rationale": "Tqarrib' l-aktar litterali: 'tħalli' = tneħħi l-pressjoni."
+    }
+  ],
+  "translation": "⟨את⟩ il-barrani tippressa; u dak li jkollok ⟨את⟩ ma' ħuk, idek tħalli.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/15\/1-4.1792605693512.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-barrani"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "il-barrani"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "tippressa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "u dak li"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkollok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ħuk"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "tħalli"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "idek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:01:33.513057515Z",
+  "model": "glm-5.3"
+}

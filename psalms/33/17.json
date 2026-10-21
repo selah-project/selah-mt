@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil ħadd",
+      "rationale": "il-Lhuid għandu biss לא ימלט, bla oġġett; 'lil ħadd' miżjud biex is-Semtex tal-Malti jifhem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qliegħ bażit",
+      "rationale": "שקר hawn duplici bħala avverbju: 'giddieb għas-salvazzjoni' — it-traduzzjoni tagħti n-nom"
+    }
+  ],
+  "translation": "Il-ħiemel huwa qliegħ bażit għas-salvazzjoni, u fir-roħs kbira ta' qawwietu ma jeħlis lil ħadd.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/33\/17-20.1792616824160.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "qliegħ bażit"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "il-ħiemel"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "għas-salvazzjoni"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "u fir-roħs kbira"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ta' qawwietu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "jeħlis lil ħadd"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:04.161215075Z",
+  "model": "glm-5.3"
+}

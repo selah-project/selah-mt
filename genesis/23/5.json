@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "lil",
+      "rationale": "lil huwa l-akkużattiv Malti meħtieġ għall-oġġett ta' ויענו; il-Lhudi juża את"
+    }
+  ],
+  "translation": "U wlied Ħet wieġbu lil ⟨את⟩ Avraham, biex jgħidulu:",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/23\/5-8.1792598203668.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "U wieġbu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ħet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex jgħidulu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:43.669160772Z",
+  "model": "glm-5.3"
+}

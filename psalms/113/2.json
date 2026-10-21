@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Il-Malti jeħtieġ 'u' qabel 'sal' għall-kollegament minn... sa..."
+    }
+  ],
+  "translation": "Ikun imbierek isem Jaħwe, minn issa ⟨u⟩ sal għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/113\/1-4.1792617951328.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ikun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "imbierek"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "minn issa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨u⟩ sal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:51.329005564Z",
+  "model": "glm-5.3"
+}

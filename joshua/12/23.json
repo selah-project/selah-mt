@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפת",
+      "rationale": "'height\/region' (ASV 'height', JPS 'region', BSB keeps 'Naphath-dor'); kept as place-name Nafat"
+    },
+    {
+      "kind": "crux",
+      "subject": "גוים לגלגל",
+      "rationale": "'nations in Gilgal' (KJV) vs 'Goiim in Gilgal' as proper name; some read Gilgal = Galilee (LXX)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wieħed",
+      "rationale": "king-list counting formula"
+    }
+  ],
+  "translation": "ir-re ta' Dor, fin-Nafat ta' Dor, wieħed; ir-re tal-ġnus, fil-Gilgal, wieħed;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "670d7bd202abe5528da65d8512c3f103b17b50b0c52071707ac2403f72bb56ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/12\/22-23.1792623171430.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "fin-Nafat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ta' Dor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tal-ġnus"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "fil-Gilgal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:51.431331852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדתי",
+      "rationale": "'edot: 'dixxendenzi\/testimonjanzi' — l-għarfien ta' Siġġu Qaddis; tradott b'qraba 'dixxendenzi' biex jinżamm il-ħoss ta' עד"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי עד",
+      "rationale": "repetizzjoni ta' עד ('dejjem dejjem'), rabta fil-ħoss ma' עדות; dil ħila taqtgħet parzjalment bit-traduzzjoni"
+    },
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-Malti jeħtieġ is-suddettu ta' אלמדם"
+    }
+  ],
+  "translation": "Jekk uliedek iżommu l-patt tiegħi u d-dixxendenzi tiegħi li din jien ngħallimhom, anki uliedhom għal dejjem dejjem jaqsgħu fuq it-tron ⟨għalik⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ce6989f15875387eba09d0536c8dac325a49810fd136feba74d97470a1f11fbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/132\/12-12.1792623835574.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "iżommu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "uliedek"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il-patt tiegħi"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "u d-dixxendenzi tiegħi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "li din"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "jien ngħallimhom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "uliedhom"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jaqsgħu"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "fuq it-tron"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:55.575083918Z",
+  "model": "glm-5.3"
+}

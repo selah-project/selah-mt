@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "titolbu",
+      "rationale": "Mosè jistaqsi lill-ġemgħa ta' Korah b'mistoqsja retorika"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובקשתם",
+      "rationale": "preżent\/dirett 'qegħdin titolbu' kontra futur 'titolbu' — l-Ebrajk jista' jifhem it-tnejn"
+    }
+  ],
+  "translation": "U resaq ⟨את⟩ int u ⟨את⟩ lil kull ħutok, ulied Levi, ⟨את⟩ miegħek, u qegħdin titolbu wkoll is-saċerdozju?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "644dc5f635863d06b20d16c2529df2fad0b7fa1836c177984444bf8fc0fb836c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/16\/9-12.1792602805037.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "U resaq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ int",
+      "marks": "int"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "kull ħutok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lil kull"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ħutok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "prepożizzjoni עם, mhux l-aleph-tav"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "u qegħdin titolbu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wkoll"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "is-saċerdozju"
+    }
+  ],
+  "timestamp": "2026-10-21T17:13:25.041153607Z",
+  "model": "glm-5.3"
+}

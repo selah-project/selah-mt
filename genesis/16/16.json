@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Lhudi ma għandux verbi 'kien'; in-numru jingħad direttament"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tmenin sena u sitt snin",
+      "rationale": "il-età ta' Avram għal twelid Jixmael, nodja kronoloġika"
+    }
+  ],
+  "translation": "U Avram kien iben tmenin sena u sitt snin meta Haġar welldet ⟨את⟩ lil Jixmael lil Avram.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/16\/13-16.1792598008789.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "u Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "tmenin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "u sitt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snin"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "meta welldet"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Haġar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jixmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jixmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "lil Avram"
+    }
+  ],
+  "timestamp": "2026-10-21T15:53:28.790782869Z",
+  "model": "glm-5.3"
+}

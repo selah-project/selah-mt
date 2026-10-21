@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Malti jeħtieġ il-kopula għal ויהי, li bil-Lhudi huwa sempliċement 'u ġara'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "qatta' l-ħwejjeġ",
+      "rationale": "qatti' l-ħwejjeġ — sinjal tal-mitja fil-Lhud; l-istess stamp tal-Lhudi"
+    }
+  ],
+  "translation": "U ⟨kien⟩ meta sma' ir-re ⟨את⟩ kliem it-Tora, li qatta' ⟨את⟩ l-ħwejjeġ tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "834726cfbac34520d6037b08b427a57f1b470e3057b2e15497643291537dcbd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/34\/17-20.1792622978593.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ⟨kien⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "meta sma'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kliem it-Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kliem"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "it-Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "li qatta'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ħwejjeġ tiegħu"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "l-ħwejjeġ tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:49:38.594712772Z",
+  "model": "glm-5.3"
+}

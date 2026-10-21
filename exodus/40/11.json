@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-baċin",
+      "rationale": "הכיר literally 'ħaġa tonda maħruga\/fossa' — baċin tat-tindif; it-tifsira litterali tintilef"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "forma ta' את mal-pronom suffiss, inżamet bħala ⟨את⟩ u l-pronom bħala lilu"
+    }
+  ],
+  "translation": "U tmidd ⟨את⟩ il-baċin u ⟨את⟩ il-bażi tiegħu, u tweddeġ ⟨את⟩ lilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/40\/9-12.1792600391574.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "u tmidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-baċin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "il-baċin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bażi"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "il-bażi tiegħu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "u tweddeġ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:11.575287006Z",
+  "model": "glm-5.3"
+}

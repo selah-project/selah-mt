@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 17:12",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Maltese requires the copula twice; the Hebrew verbless clauses have none"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בא באנשים",
+      "rationale": "'daħal fost ir-ġelebb' — literally 'gone among men', an idiom for advanced in age"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tmienja subien",
+      "rationale": "The count of Jesse's eight sons is structural — it sets David as the eighth"
+    }
+  ],
+  "translation": "U David ⟨kien⟩ iben ta' raġel Efrati — dan min Bet-Leħem ta' Juda — u ismu Jixaj, u kellu tmienja subien; u r-raġel fi żmien Sawl ⟨kien⟩ xiħ, daħal fost ir-ġelebb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/9-12.1792608075828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "U David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta' raġel"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "Efrati"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "min Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Leħem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Juda"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "u ismu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jixaj"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "u kellu"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tmienja"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "subien"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "u r-raġel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "fi żmien"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "xiħ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "daħal"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "fost ir-ġelebb"
+    }
+  ],
+  "timestamp": "2026-10-21T18:41:15.829320966Z",
+  "model": "glm-5.3"
+}

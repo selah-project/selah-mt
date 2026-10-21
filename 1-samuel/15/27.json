@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 15:27",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Saul⟩",
+      "rationale": "Hebrew leaves the subject of 'he laid hold' implicit; Maltese requires it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fil-ġenb",
+      "rationale": "כנף is literally 'wing' — the skirt\/corner of the garment; the wing-picture is kept as 'ġenb' (edge)"
+    }
+  ],
+  "translation": "U Samwel dar biex jimxi, u ⟨Saul⟩ qabad fil-ġenb tal-mant tiegħu, u ttella'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/15\/25-28.1792608012873.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "U dar"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "biex jimxi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "u qabad"
+    },
+    {
+      "surface": "בכנף",
+      "gloss": "fil-ġenb"
+    },
+    {
+      "surface": "מעילו",
+      "gloss": "tal-mant tiegħu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "u ttella'"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:12.874637092Z",
+  "model": "glm-5.3"
+}

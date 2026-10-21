@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 12:6",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "quddiem",
+      "rationale": "את פני is literally 'near the face of' — rendered 'quddiem' (before), the Hebrew idiom of standing in someone's presence."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויועץ \/ נועצים",
+      "rationale": "the root יעץ repeats: the king 'took counsel' with men who 'counsel' — the echo is kept with 'kunsill'\/'parir'."
+    }
+  ],
+  "translation": "U r-re Reħavam ħa kunsill ma' ⟨את⟩ l-anzjani li kienu qegħdin ⟨את⟩ quddiem Slomon missieru meta kien għadu ħaj, billi jgħid: Kif intom tagħtu parir, biex nieġġbu lil dan ⟨את⟩ il-poplu kelma?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/5-8.1792609716720.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ħa kunsill"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reħavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-anzjani"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "l-anzjani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "qegħdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quddiem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Slomon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "missieru"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "meta kien"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "billi jgħid"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "intom"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "tagħtu parir"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "biex nieġġbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan il-poplu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:36.721197654Z",
+  "model": "glm-5.3"
+}

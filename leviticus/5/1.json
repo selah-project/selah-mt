@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש hawn 'bniedem\/ħajja', mhux ruħ biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "קול אלה",
+      "rationale": "'leħen ta' mnied': mnied mill-udjenza pubblika (ASV\/JPS) vs ħalf ta' ħallief privat (KJV)"
+    }
+  ],
+  "translation": "U nefes meta tidnobb, u tisma' l-leħen ta' mnied, u hi xhieda — jew rat, jew kienet taf — jekk ma txerridx, iġorr d-dnub tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/5\/1-4.1792600579297.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "U nefes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "tidnobb"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "u tisma'"
+    },
+    {
+      "surface": "קול",
+      "gloss": "l-leħen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ta' mnied"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "xhieda"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rat"
+    },
+    {
+      "surface": "או",
+      "gloss": "jew"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kienet taf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "txerridx"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "iġorr"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "id-dnub tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T16:36:19.297771283Z",
+  "model": "glm-5.3"
+}

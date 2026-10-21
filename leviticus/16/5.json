@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta' l-irħula",
+      "rationale": "עזים elliptical: 'goats' with שעירי he-goats; supplied the noun literally"
+    },
+    {
+      "kind": "substitution",
+      "subject": "offerta maqtula bin-nar",
+      "rationale": "עלה is 'that which ascends' — a whole burnt offering; no single Maltese word keeps the going-up picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "mogħoż għoljin",
+      "rationale": "שעיר shaggy he-goat; later tradition hears 'demons' (fauns) in the same word — here literal goats"
+    }
+  ],
+  "translation": "U mill-kongregazzjoni ta' wlied Jisrael jieħu żewġ mogħoż għoljin ta' l-irħula għall-offerta tal-ħatta, u muntun wieħed għall-offerta maqtula bin-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/5-8.1792600913019.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "minn ⟨את⟩",
+      "marks": "il-kongregazzjoni"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "il-kongregazzjoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jieħu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "mogħoż għoljin"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ta' l-irħula"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "għall-offerta tal-ħatta"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "u muntun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "għall-offerta maqtula bin-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T16:41:53.020131779Z",
+  "model": "glm-5.3"
+}

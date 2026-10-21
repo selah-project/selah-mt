@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 12:2",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dan",
+      "rationale": "l-għarfien tal-verb sema' jeħtieġ oġġett fil-Malti; l-Lhudi jħallih mhux mitkun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישב",
+      "gloss_note": "",
+      "rationale": "il-verb 'joqgħod\/jistabilixxi ruħu' irrendut b'\"ġie u qagħad\" biex izżomm il-continwità tal-għajn"
+    }
+  ],
+  "translation": "U ġara, meta Jarobeam iben Nevat sema' dan — u hu għadu f'Mitsrajim, fejn kien ħarab minn quddiem is-sultan Shelomo — u Jarobeam ġie f'Mitsrajim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "46c8d1f54a9689849e0652d7030cf630c6200b43ac489aacb25cf24ab63d0354",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/2-3.1792623349611.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "meta sema'"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fejn"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kien ħarab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ġie u qagħad"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:55:49.612192590Z",
+  "model": "glm-5.3"
+}

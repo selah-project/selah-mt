@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאלהים",
+      "rationale": "'tkun għalu Elohim' — 'f'post Elohim' (JPS) jew 'bħal Elohim' (BSB); il-kelma tibqa' Elohim, mhux tittraduċix."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bħal⟩",
+      "rationale": "Il-Lhudi għandu biss לְ ('għal'); il-prepożizzjoni waħdieha tqis ir-rwol — 'bħal' miżjuda bil-Malti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא יהיה \/ אתה תהיה",
+      "rationale": "Simetrija ta' jaħ ħdejn jaħ: 'huwa jkun għalik... int tkun għalu' — chiasm ta' rwoli."
+    }
+  ],
+  "translation": "U huwa jitkellem għalik mal-poplu; u huwa jkun għalik ⟨bħal⟩ fomm, u int tkun għalu Elohim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/4\/13-16.1792599287798.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "u jitkellem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "u jkun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "fomm"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u int"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "għalu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:47.799923704Z",
+  "model": "glm-5.3"
+}

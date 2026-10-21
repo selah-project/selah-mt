@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "inventarju tal-vedovi",
+      "rationale": "Għaddijiet: 30 knis tad-deheb, 410 tal-fidda, 1000 utensili oħra."
+    },
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "'Ta' żewġ grad' — ta' grad it-tieni (KJV\/JPS) jew kopji joqogħdu (doppji); dubju antik."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפורי",
+      "gloss": "knis",
+      "rationale": "Kelma ta' oriġini Griega (kyparion?) — tazza msaqqfa jew barmil kbir."
+    }
+  ],
+  "translation": "Knis tad-deheb tletin, knis tal-fidda ta' grad it-tieni mija erba' u għaxra, utensili oħra elf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/1\/9-11.1792621010516.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Knis"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tletin"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "knis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tal-fidda"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "ta' grad it-tieni"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "erba'"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "u għaxra"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "utensili"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oħra"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    }
+  ],
+  "timestamp": "2026-10-21T22:16:50.517769247Z",
+  "model": "glm-5.3"
+}

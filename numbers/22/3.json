@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויגר",
+      "rationale": "gur = joqgħod bħala żmil \/ ġar bi biebu; 'beza'' jew 'għex bħala żmil ma' — Zofanja 2:8 u sażż iħallu l-ebdieni miftuħa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "litteralment 'mid-dawl ta' — wiċċ ta' — mhux 'minħabba'"
+    }
+  ],
+  "translation": "U Moab beza' ħafna mill-wiċċ ta' dak il-poplu, għax ⟨hu⟩ kbir; u Moab għaddu ġibda ta' mocc mid-dawl ta' wlied Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ec2b09880c3eb528bdb762c35f45472513c45496523e19d40021a0e47d74c480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/22\/1-4.1792603141640.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "beza'"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mid-dawl ta'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dak il-poplu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "għaddu ġibda ta' mocc"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mid-dawl ta'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T17:19:01.642651380Z",
+  "model": "glm-5.3"
+}

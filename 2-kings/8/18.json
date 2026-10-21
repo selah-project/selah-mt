@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 8:18",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "f'għajnejn Jaħwe",
+      "rationale": "בעיני יהוה — idjom Semitiku għal 'f'ħsieb' jew 'fil-ġudizzju ta'', miżjum b'mod letterali."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-familja",
+      "rationale": "בית 'dar\/familja' għal dinastija; il-Malti jrid 'familja' għal 'il-familja ta' Aħab'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bħala",
+      "rationale": "לאשה mibni jittraduċi 'ilha bħala martu' — il-prepożizzjoni għal għan tal-possess."
+    }
+  ],
+  "translation": "U mxiet fit-triq tal-ħrħief ta' Jisrael, kif għamel il-familja ta' Aħab, għax bint Aħab kinitilha bħala martu, u għamel il-ħażin f'għajnejn Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "423f077560e5a6e1592bb1ba9f7c0e8cd12cfc075ee8f7ecf9a5d7657958ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/17-20.1792610233652.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "u mxiet"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "tal-ħrħief"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "għamel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "il-familja"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ta' Aħab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aħab"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kinit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ilha"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bħala martu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il-ħażin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:17:13.653017533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח mrobbija bħala 'ruwaħ' skont ir-regoli, mhux 'spirtu' waħdu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sillgħejt ruħi",
+      "rationale": "אשפך נפשי — idjom ta' talb b'qalb sħiħa, 'sallat il-Ħajja tiegħi'"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Eli",
+      "rationale": "indirizz dirett ta' Ħanna lil Eli b'sidi"
+    }
+  ],
+  "translation": "U Ħanna wieġbet u qalt: Le, sidi, jiena mara ta' ruwaħ imqatta'; inbid u xmir ma xorbejtx, u sillgħejt ⟨את⟩ ruħi quddiem Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/1\/13-16.1792607637136.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "U wieġbet"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ħanna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "u qalt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ta' ruwaħ imqatta'"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "inbid"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "u xmir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "xorbejtx"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "u sillgħejt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruħi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:57.137916995Z",
+  "model": "glm-5.3"
+}

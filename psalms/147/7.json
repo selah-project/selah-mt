@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Għannu",
+      "rationale": "imperattiv plurali, sejħa lit-turġien kollha għat-tifħira"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ċittra",
+      "rationale": "כנור hija l-arpà\/Lhudija; 'ċittra' tal-Malti hija l-eqreb strument, iżda mhux l-istess"
+    }
+  ],
+  "translation": "Għannu lil Jaħwe bit-tifħira, għannu lil Elohim tagħna biċ-ċittra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/5-8.1792618345878.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Għannu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bit-tifħira"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "għannu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "lil Elohim tagħna"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "biċ-ċittra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:25.879397873Z",
+  "model": "glm-5.3"
+}

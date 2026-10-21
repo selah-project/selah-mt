@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "waqt li ⟨hu⟩",
+      "rationale": "il-pronun Lhudija והוא tinsab hemm, iżda l-istruttura Maltija teħtieġ ”waqt li” biex tkun ċara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kiel fuq l-igħor",
+      "rationale": "”kiel fuq l-igħor” = ikel sacrifikaċju lil allat fuq l-igħor (Lev 19); il-literal ma jinbidilx."
+    }
+  ],
+  "translation": "waqt li ⟨hu⟩ ⟨את⟩ dawn kollha ma għamilx, għax anki fuq l-igħor kiel, u lil ⟨את⟩ mart ħotu tniġġis —",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/18\/9-12.1792614393579.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "waqt li ⟨hu⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamilx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "l-igħor"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kiel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u lil ⟨את⟩",
+      "marks": "mart ħotu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mart"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ħotu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tniġġis"
+    }
+  ],
+  "timestamp": "2026-10-21T20:26:33.580165545Z",
+  "model": "glm-5.3"
+}

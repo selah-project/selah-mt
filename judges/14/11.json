@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tletin sħabhom",
+      "rationale": "Numru fiss — tletin, li jirbat mal-wager ta' tletin qmies f'v 12."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Preposizzjoni 'għadih' (ma'') mhux piruna ta' oġġett iżda hija mmarkata ⟨את⟩ skond ir-regola tal-markatur."
+    }
+  ],
+  "translation": "U ġara meta raw ⟨את⟩ lilu, li ħadu tletin sħabhom, u kienu ⟨את⟩ għadih.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5b3cd8011f84065c5861ecb67106067882703d3d0dbd50ca9bf2cc315353b85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/14\/9-12.1792607333947.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ġara"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "meta raw"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu (Ximxon)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "li ħadu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tletin"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sħabhom"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ għadih"
+    }
+  ],
+  "timestamp": "2026-10-21T18:28:53.948978974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוציא ... הוציא",
+      "rationale": "l-istess verb יצא għal Korox u għal Nebukadnessar: dak li ħareġ wieħed, ħarġu lura l-ieħor — għawdja mhux maħsuba fil-Malti."
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ l-għajnuna tal-preterit għall-istejjer preċedenti tal-perfect Lhudi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהיו hawnhekk plural dwar allat Babiloniżi — allat b'ittra żgħira, mhux Elohim."
+    }
+  ],
+  "translation": "U r-re Korox ħareġ ⟨את⟩ l-oġġetti tad-dar ta' Jaħwe, li Nebukadnessar kien ħareġ minn Jeruxalajim u kien poġġiehom fit-tempju ta' allat tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/1\/5-8.1792621034913.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "U r-re"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Korox"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ħareġ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-oġġetti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "l-oġġetti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kien ħareġ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "minn Jeruxalajim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "u kien poġġiehom"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fit-tempju"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ta' allat tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:17:14.916504797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħasethom",
+      "rationale": "וָתָּחָס letteralment 'tgħatti (bil-ħniena)', eżattament l-istess għerq ta' 'to spare' — il-Malti jgħid l-effett, mhux l-istampa ta' l-għata."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה",
+      "rationale": "kelma b'għerq minn 'spiċċa' u 'qerda' fl-istess ħin — 'ma għamilthomx tmiem\/qerda'"
+    }
+  ],
+  "translation": "Imma għajni ħasethom milli jeqirdhom, u ma għamilthomx ⟨את⟩ qerda sħiħa fid-deżert.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/17-20.1792614514731.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "u ħasethom"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "għajni"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "milli jeqirdhom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "għamilthomx"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "qerda sħiħa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "qerda sħiħa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "fid-deżert"
+    }
+  ],
+  "timestamp": "2026-10-21T20:28:34.732365018Z",
+  "model": "glm-5.3"
+}

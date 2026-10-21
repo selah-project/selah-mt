@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויושב",
+      "rationale": "Il-Ħdud 'ġeles biex joqogħdu' huwa kawżattiv; il-Malti jrid 'ħalla lil ... joqogħdu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "l-ibliet li Ħiram ta",
+      "rationale": "1 Slat 9:11 jgħid l-oppost — Xlomo ta l-ibliet lil Ħiram; hawn Ħiram reġa' tahom lill-Maltin b'reħba."
+    }
+  ],
+  "translation": "U l-ibliet li Ħiram ta lil Xlomo, Xlomo benahom, u hemm ħalla lil wlied Jisrael joqogħdu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0887fe0077689ebb512d0d61c70a6f76e933866aa6fb9640791a798b5f6a6ab4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/8\/1-4.1792622361778.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "u l-ibliet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Ħiram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "lil Xlomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xlomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "l-ibliet"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "u ħalla joqogħdu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wlied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T22:39:21.779136915Z",
+  "model": "glm-5.3"
+}

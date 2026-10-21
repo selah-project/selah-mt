@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iktar minn",
+      "rationale": "The comparative מ ('more than') is carried by the preposition alone in Hebrew; Maltese needs 'iktar minn'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "għaxar ħakkiena",
+      "rationale": "Counting: wisdom outweighs ten rulers in the city."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה\/חכם",
+      "rationale": "ħeċma\/ħakam — 'wisdom\/wise one' sound pairing, kept partly in 'il-għerf\/lill-għaref'."
+    }
+  ],
+  "translation": "Il-għerf jagħti qawwa lill-għaref, iktar minn għaxar ħakkiena li kienu fil-belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/7\/17-20.1792620260372.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "il-għerf"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "jagħti qawwa"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "lill-għaref"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "iktar minn għaxar"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ħakkiena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "fil-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T22:04:20.373606025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תנסו \/ במסה",
+      "rationale": "l-istess għerq נסה — 'tiġġarrbux... f'Massa' (isem il-post ifisser 'it-tigħrib'), għalqa li tinżamm bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Israel",
+      "rationale": "imperattiv negattiv indirizzat direttament lil Israel fil-ħarba"
+    }
+  ],
+  "translation": "M'tiġġarrbux lil ⟨את⟩ Jaħwe Elohim tagħkom, kif ġarrbtuh f'Massa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/6\/13-16.1792605478089.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "m'tiġġarrbux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ġarrbtuh (ġarrbtu)"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "f'Massa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:57:58.091024281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבל",
+      "rationale": "isem Javal jixbaħ il-verb יבל 'immexxi\/mexxi biex jinġabar' — missien nomadiżmu u merħliet, il-ġuħ milliż-żmien mitluf"
+    },
+    {
+      "kind": "substitution",
+      "subject": "missier",
+      "rationale": "אבי hawn 'missier' fl-għerq — fondatur ta' klassi ta' nies, mhux missier litterali biss"
+    }
+  ],
+  "translation": "U Adà tat il-ħajja lil ⟨את⟩ Javal; hu kien missier min joqgħod f'ħemmet u joħod bhejjem.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/4\/17-20.1792597717078.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "tat il-ħajja lil"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Javal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Javal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missier"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "min joqgħod"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "f'ħemmet"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "u joħod bhejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:37.079235348Z",
+  "model": "glm-5.3"
+}

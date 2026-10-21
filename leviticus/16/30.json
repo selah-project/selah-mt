@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jikkopri",
+      "rationale": "כפר literalment ifisser 'jikkopri'; l-Ingliż 'atonement' jitlef il-ħoss tat-tkapri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jnaddaf\/titnaddfu",
+      "rationale": "għerq טהר mifrex darbtejn, inizjattiva ta' Elohim u riżultat fil-poplu"
+    }
+  ],
+  "translation": "Għax f'dan il-jum jikkopri għalikom, bi jnaddafkom ⟨את⟩kom minn kollu dnubietkom; quddiem Jaħwe titnaddfu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/29-32.1792600983209.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'dan il-jum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "jikkopri għalikom"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "bi jnaddaf"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom",
+      "marks": "kom"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn kollu"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dnubietkom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "titnaddfu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:43:03.210612230Z",
+  "model": "glm-5.3"
+}

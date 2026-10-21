@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ibnu",
+      "rationale": "il-Malti jeħtieġ 'ibnu' għal בכרו, 'l-kbir mwelled ta' qabel'"
+    }
+  ],
+  "translation": "U Binjamin ġġib ⟨את⟩ Bela, ibnu l-kbir, Axbel it-tieni, u Aħraħ it-tielet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f1e06e25412f021c74b48f1291d84477a5280bc83062d985c9da25bce5c2863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/8\/1-4.1792621798954.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "U Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ġġib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ibnu l-kbir"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Axbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "u Aħraħ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "it-tielet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:29:58.954917328Z",
+  "model": "glm-5.3"
+}

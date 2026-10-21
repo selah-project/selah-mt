@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 27:23",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "cens m'tellgħux taħt l-għoxrin sena",
+      "rationale": "David iddeċieda li ma jgħodidx dawk ta' taħt għoxrin sena — paġna ta' veru ħsieb fuq l-għadd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħatafx",
+      "rationale": "נשא literalment 'tellgħa' (tellgħa l-għadd); il-Malti 'taħataf' takkwista t-traġitt li ħadu l-verb 'tellgħa'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בנים ככוכבים",
+      "rationale": "ix-xbieha tal-kokbx tirrimmanda għal Ġen 15:5 u 22:17 — wegħda lil Avraham mhux għarfien minn qabel hawnhekk, imma l-qarrej jaf."
+    }
+  ],
+  "translation": "U David ma ħatafx l-għadd tagħhom, minn ben għoxrin sena 'l isfel, għax qal Jaħwe li se jżid ⟨את⟩ lil Jisrael bħall-kokbx tas-sema.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d44c3f86e2255064eabe4b207ef8a3bce6b027e08e559ae62aae922be2758b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/27\/21-24.1792622219080.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ħatafx"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "l-għadd tagħhom"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "minn ben"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "'l isfel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "li se jżid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lil Jisrael"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "bħall-kokbx"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tas-sema"
+    }
+  ],
+  "timestamp": "2026-10-21T22:36:59.081401565Z",
+  "model": "glm-5.3"
+}

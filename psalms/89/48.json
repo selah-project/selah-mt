@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kemm hi qasira ħajti",
+      "rationale": "the word ḥeled means 'life that passes'; KJV\/JPS 'how short my time is', YLT 'what is life-time?'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaħwe",
+      "rationale": "the psalmist turns to Jaħwe with a prayer of remembrance and a question."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġidel",
+      "rationale": "the word גאול means emptiness\/deceit; 'vanity' — nothing that lasts."
+    }
+  ],
+  "translation": "Ftakar li jien ⌊qasira⌋ il-ħajja ta' ḥeled; għaliex bil-ġidel ħlaqt lil kulħadd minn ulied Adam?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f2361448b820e43538140bba91febbd67508c36144c0299ff41f8c16d53c905e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/45-48.1792617660435.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ftakar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "il-ħajja li tgħaddi"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "xi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ġidel"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "ħlaqt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:00.436353618Z",
+  "model": "glm-5.3"
+}

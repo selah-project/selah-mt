@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajti",
+      "rationale": "נפש hija nifs \/ ħajja mhux ruħ immortali"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-egħor",
+      "rationale": "עזים: 'l-qawwija' (KJV) jew 'l-nesħa' (JPS); ħadt l-egħor bħala l-imgħallem tal-Lhudi"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "appell dirett lemn l-aħħar tal-vers lil Jaħwe"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jiġbru ruħhom",
+      "rationale": "יגורו litteralment 'jikkampaw \/ joqogħdu ma' — jekk jingħataw il-mixja ta' ġbir ta' nies qawwija"
+    }
+  ],
+  "translation": "Għax arahuma: ħabtu għajjien għal ħajti; il-egħor jiġbru ruħhom kontri — mhux ribelljoni tiegħi, u lanqas dneb tiegħi, Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/1-4.1792617220828.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "arahuma"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ħabtu għajjien"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "għal ħajti"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "jiġbru ruħhom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontri"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "l-egħor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ribelljoni tiegħi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dneb tiegħi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:40.829137747Z",
+  "model": "glm-5.3"
+}

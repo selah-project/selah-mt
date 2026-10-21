@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 8:21",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "il-kopula narrattiva ma għandha ekwivalenti Malti u ġiet maħruġa"
+    },
+    {
+      "kind": "crux",
+      "subject": "צעירה",
+      "rationale": "Sa'ir bħala isem post (KJV 'Zair') kontra qari bħala 'għaż-żgħar' mill-għerq צעיר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-bnjiet",
+      "rationale": "לאהליו litteralment 'l-għerien\/il-hjiet tiegħu'; 'bnjiet' (idjar) jintuża għall-figura Semitika"
+    }
+  ],
+  "translation": "U Joram qasm' lejn Sa'ir, u ⟨את⟩ ir-rikbi kollu miegħu; u hu qam bil-lejl u laqat ⟨את⟩ lil Edom li kien mdawwar miegħu, u ⟨את⟩ lill-ikbar ta' r-rikbi; u l-poplu ħarab lejn il-bnjiet tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ddc49e6e68c6f8b137e7a74fcbeef09cc9ef6bea5f0ddce0ff496ffa6bd58c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/21-24.1792610188751.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "qasm' lejn"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "צעירה",
+      "gloss": "Sa'ir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollu"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ir-rikbi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "קם",
+      "gloss": "qam"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bil-lejl"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "u laqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "li kien mdawwar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "miegħu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lill-ikbar ta' r-rikbi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "lill-ikbar"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ta' r-rikbi"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "u ħarab"
+    },
+    {
+      "surface": "העם",
+      "gloss": "l-poplu"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "lejn il-bnjiet tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:16:28.752253934Z",
+  "model": "glm-5.3"
+}

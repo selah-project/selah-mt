@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħtija",
+      "rationale": "עון huwa inikmità\/kuruzzja; 'iġor il-ħtija' tfisser iġor il-konsegwenzi tagħha"
+    },
+    {
+      "kind": "you",
+      "subject": "to Aharon",
+      "rationale": "Jaħwe jkellem lil Aharon direttament, mhux permezz ta' Moxe"
+    }
+  ],
+  "translation": "U Jaħwe qal lil Aharon: Int, u wliedek, u dar missierek miegħek, intom iġoru ⟨את⟩ ħtija tas-santwarju; u int u wliedek miegħek iġoru ⟨את⟩ ħtija tas-saċerdozju tagħkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d40404a03b0ceb6b3bc595288120140be4821ad367889c711f289d435f16f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/18\/1-4.1792603007633.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Int"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "u wliedek"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "u dar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "missierek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "intom iġoru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħtija"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ħtija"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "tas-santwarju"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u int"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "u wliedek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miegħek"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "iġoru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ħtija"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ħtija"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "tas-saċerdozju tagħkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:16:47.634381134Z",
+  "model": "glm-5.3"
+}

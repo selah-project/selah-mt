@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vleġġa",
+      "rationale": "חץ hija litteralment vleġġa — ġie miżjud 'li ttir' bħala partiċipja minn יעוף"
+    }
+  ],
+  "translation": "M'tibżax minn biż'a ta' bil-lejl, lanqas mil-vleġġa li ttir binhar;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/91\/5-8.1792617692255.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "m'…-x"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tibża'"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "minn biż'a"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ta' bil-lejl"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mil-vleġġa"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "li ttir"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "binhar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:32.256251341Z",
+  "model": "glm-5.3"
+}

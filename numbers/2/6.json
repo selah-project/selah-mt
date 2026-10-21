@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "in-numri",
+      "rationale": "Għadd tas-suldati tat-tribù ta' Jissaħkar: 54,400"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imrawmma",
+      "rationale": "פקד huwa l-verb tal-census, 'għadd\/żjara'; 'dawk imrawmma' iżomm il-ġnota tal-għadd"
+    }
+  ],
+  "translation": "U l-armata tiegħu, u dawk imrawmma minnha: erbgħa u ħamsin elf, u erbgħa mija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5c8ef20b7aab85768818fdc0f9de7f879c082f23492656f5c0291ed5ac0eb6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/2\/5-8.1792602328757.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "u l-armata tiegħu"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "u dawk imrawmma minnha"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "erbgħa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "u ħamsin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "u erbgħa"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "mija"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:28.758691230Z",
+  "model": "glm-5.3"
+}

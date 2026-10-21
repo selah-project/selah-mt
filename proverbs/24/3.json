@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-passiv",
+      "rationale": "il-verbi Lhud mhumiex passivi għal kollox; il-Malti jeħtieġ passiv ('jinbena', 'tittwaqqaf')"
+    }
+  ],
+  "translation": "B'ħikma jinbena dar, u b'fehim tittwaqqaf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/24\/1-4.1792618893460.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "b'ħikma"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "jinbena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "u b'fehim"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "tittwaqqaf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:33.461715877Z",
+  "model": "glm-5.3"
+}

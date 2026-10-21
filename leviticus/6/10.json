@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inħari ta' nar",
+      "rationale": "אִשָּׁה hija offerta maħruqa bin-nar; 'inħar ta' nar' iżomm il-ħoss u l-istampa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "qaddis qaddisin",
+      "rationale": "superlattiv Ebrajk 'qaddis ta' qaddisin', mhux superlattiv Malti komuni"
+    },
+    {
+      "kind": "crux",
+      "subject": "aŝam",
+      "rationale": "offerta tal-ħtija: maggħuxa jew isem bħall-ħoss? inħar ta' ħtija\/jiżbalja mhux istiħ"
+    }
+  ],
+  "translation": "Ma tinħameż bi ħamiż; bħala sehem tagħhom tajthilha minn inħari ta' nar Jaħwe — hi qaddis tal-qaddisin, bħad-daħħa u bħall-<!--[-->aŝam.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39e74b5395ce05c0b7b1e5e8138f90f5d5d6ce9c1433475776551ccc90757e21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/6\/10-12.1792602240650.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "tinħameż"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ħamiż"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "sehem tagħhom"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tajt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hi (is-sehem)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "minn inħari ta' nar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tal-qaddisin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "bħad-daħħa"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "u bħall-aŝam"
+    }
+  ],
+  "timestamp": "2026-10-21T17:04:00.652313955Z",
+  "model": "glm-5.3"
+}

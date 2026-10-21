@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dak⟩",
+      "rationale": "is-suġġett tal-verb m'huwiex espress fit-Tanakh; il-Malti jeħtieġ pronom"
+    },
+    {
+      "kind": "crux",
+      "subject": "min jiġi",
+      "rationale": "KJV jagħti s-sultan tan-nofsinhar bħala suġġett; ASV\/JPS jaqraw 'huwa (is-sultan tat-tramuntana) jidħol fir-renju tas-sultan tan-nofsinhar'"
+    }
+  ],
+  "translation": "U ⟨dak⟩ jidħol fir-renju tas-sultan tan-nofsinhar, u jerġa' jirrita lejn l-art tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03836e91b6badd55106d4ca2904c87e1e18395c7472f5504dba8865e5c8d2b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/11\/9-12.1792620849831.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "jidħol"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "fir-renju"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "tan-nofsinhar"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "jerġa' jirrita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "l-art tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:14:09.831961779Z",
+  "model": "glm-5.3"
+}

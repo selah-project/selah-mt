@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għadamhom",
+      "rationale": "עצמתיהם literally 'their bones'; 'għadamhom' keeps the plural picture of the collected bones"
+    },
+    {
+      "kind": "crux",
+      "subject": "l-isfel",
+      "rationale": "האשל is a tamarisk tree; rendered 'l-isfel' (Maltese for tamarisk); some versions say 'a tree' generally"
+    }
+  ],
+  "translation": "U ħadu ⟨את⟩ għadamhom, u difnuhom taħt l-isfel ġewwa Javex, u sawmu sebat ijiem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a5f23c64a8255291404bfd9ba6c5a910966c8b10228a6b9b042369584ca13c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/31\/13-13.1792608378971.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "U ħadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għadamhom"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "għadamhom"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "u difnuhom"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "l-isfel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ġewwa Javex"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "u sawmu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    }
+  ],
+  "timestamp": "2026-10-21T18:46:18.972258583Z",
+  "model": "glm-5.3"
+}

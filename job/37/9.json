@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mizarim",
+      "rationale": "מזרים: 'dawk li jxerrdu s-sħab' (litteral, irjieħ tat-tramuntana) kontra 'it-tramuntana' sempliċi tal-KJV\/JPS."
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-kamra ta' ġewwa",
+      "rationale": "החדר hija litteralment 'il-kamra' — il-ħelaq tal-beraħ maħsuba bħala kamra tas-sema; 'inland\/gettar' mitluba mir-reġistru."
+    }
+  ],
+  "translation": "Minn ġewwa l-kamra tiġi l-maltempata, u mill-irjieħ li jxerrdu s-sħab il-bard.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "69b2eae1e74b0dffd42470f4e627f0e6c67bbe4b41b3a164ae80823d517a4346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/37\/9-12.1792619726781.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "l-kamra ta' ġewwa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tiġi"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "il-maltempata"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "u mill-irjieħ li jxerrdu s-sħab"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "il-bard"
+    }
+  ],
+  "timestamp": "2026-10-21T21:55:26.781593218Z",
+  "model": "glm-5.3"
+}

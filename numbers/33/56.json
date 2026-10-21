@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħsibt",
+      "rationale": "דמיתי literalment 'qjist\/sembjajt'; 'ħsibt' jaqbad il-ħsieb li kien maħsub għalihom"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨se jkun⟩",
+      "rationale": "kopula futura miżjuda għal והיה"
+    }
+  ],
+  "translation": "U ⟨se jkun⟩ li kif ħsibt li nagħmel lilhom, nagħmel lilkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e6394510709ab3291555db9a5c45ff89ec73f1e2b6c03b5e204c139628bf8b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/33\/55-56.1792623136120.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "U ⟨se jkun⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ħsibt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "li nagħmel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lilkom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:16.121660095Z",
+  "model": "glm-5.3"
+}

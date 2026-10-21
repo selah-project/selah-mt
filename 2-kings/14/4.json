@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bamot",
+      "rationale": "במות tfisser 'għoljiet' (-postijiet ta' qerq għoljin); il-kelma Lhudija miżmuma għaliex l-għoli huwa qerq saċerdotali mhux traduttibbli b'kelma waħda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaqtol għall-qrub",
+      "rationale": "מזבחים huwa particippju ta' זבח 'jaqtol\/jaħasgel' — l-azzjoni ta' qtugħ il-gerħa, mhux biss 'offri'."
+    }
+  ],
+  "translation": "Biss il-bamot ma tneħħewx; għadu l-poplu qiegħed jaqtol għall-qrub u jaħraq l-inċens fil-bamot.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2118a771d23c9a05eace2d12e7b9db3b6054d3f2dc63ad781e6f9a6698ac1592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/1-4.1792610510868.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "biss"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "il-bamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "tneħħewx"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "l-poplu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "qiegħed jaqtol għall-qrub"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "u jaħraq l-inċens"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "fil-bamot"
+    }
+  ],
+  "timestamp": "2026-10-21T19:21:50.869692902Z",
+  "model": "glm-5.3"
+}

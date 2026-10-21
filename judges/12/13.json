@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Abdon",
+      "rationale": "הפרעתוני echoes פרעתון where he is buried (v. 15); the name-place link is kept."
+    }
+  ],
+  "translation": "U warajh ġudika lil Abdon bin Hillel il-Piratonit ⟨את⟩ lil Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "72a242087f79c2d9c0352148a5df37688015a455add37d30b06ebded01e1c7be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/12\/13-15.1792607294031.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ġudika"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "warajh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "il-Piratonit"
+    }
+  ],
+  "timestamp": "2026-10-21T18:28:14.032084783Z",
+  "model": "glm-5.3"
+}

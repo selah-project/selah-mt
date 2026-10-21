@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kontra",
+      "rationale": "Hebrew has no preposition before אמה and חמתה; the verb 'rises' alone carries the hostility."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איבי אישׁ אנשׁי ביתו",
+      "rationale": "Chain of three near-identical א words (oyev\/ish\/anshei) closing the verse, lost in translation."
+    }
+  ],
+  "translation": "Għax iben jgħajjar lil missieru, bint tqum kontra ommha, kollha kontra l-ħamrata tagħha; il-għedewwa ta' raġel huma rġiel daru.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/7\/5-8.1792615919177.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "jgħajjar"
+    },
+    {
+      "surface": "אב",
+      "gloss": "missieru"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "tqum"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kontra ommha"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "kontra l-ħamrata tagħha"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "il-għedewwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta' raġel"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "rġiel"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "daru"
+    }
+  ],
+  "timestamp": "2026-10-21T20:51:59.178044071Z",
+  "model": "glm-5.3"
+}

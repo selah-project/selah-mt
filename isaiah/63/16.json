@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 63:16",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Malti jeħtieġ kopula fejn il-Lhudi jgħid semmel biss 'ismek'"
+    },
+    {
+      "kind": "crux",
+      "subject": "missierina",
+      "rationale": "Il-plural tal-qeddem jaf jirreferi għall-poplu (aħna) jew persuna waħda; il-Lhudi אבינו għandu l-pronun minn ġewwa"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mis-semprevi",
+      "rationale": "מעולם tista' tfisser 'minn dejjem' jew 'minn żmien il-bidu' — il-ħażin tal-ħin mhuwiex ċar"
+    }
+  ],
+  "translation": "Għaliex int missierina; għax Avraham ma jafnix lilna, u Jisrael ma jagħrafx lilna; int, Jaħwe, missierina, il-fdil tagħna mis-semprevi ⟨hu⟩ ismek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "86949c1efd52088bb8a7c13771d2741e8783ff951a7cebb4fa685e2d0149095e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/63\/16-16.1792623532749.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "missierina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "jafnix lilna"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "u Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "jagħrafx lilna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "missierina"
+    },
+    {
+      "surface": "גאלנו",
+      "gloss": "il-fdil tagħna"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mis-semprevi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:52.750378620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jaħwe",
+      "rationale": "יהוה bil-ħ Maltija skont D1 — mhux 'Mulej'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħek",
+      "rationale": "il-possessiv Lhudi fid-desinenza -ך jitkellem bil-Malti b'kelma sħiħa"
+    },
+    {
+      "kind": "invitation",
+      "subject": "salm",
+      "rationale": "l-istqarrija li ttajjeb li tirringrazzja tissedaq lill-qarrej talli jingħaqad mat-talb"
+    }
+  ],
+  "translation": "Tjebbi li tagħti ħajr lil Jaħwe, u li tizammer lil ⟨את⟩ isem ⟨tiegħek⟩, Elijon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/92\/1-4.1792617693029.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tjebbi"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "li tagħti ħajr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "u li tizammer"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lil isem tiegħek"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:33.030715890Z",
+  "model": "glm-5.3"
+}

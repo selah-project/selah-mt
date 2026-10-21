@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "hawn אתו hija prepożizzjoni (H854, 'miegħu'), mhux l-iskritt ta' את — allavolja l-pront jgħid li trid tiġi mmarkata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "reġgħu ħadu nifs",
+      "rationale": "וינפש mill-għerq נפש, 'ieħu nifs mill-ġdid' — bil-Malti wlied bħala frażi, il-ħoss tan-nefes mitluf"
+    }
+  ],
+  "translation": "U r-re ġie, u l-poplu kollu li kien ⟨את⟩ miegħu, għejja, u hemm reġgħu ħadu nifs.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/16\/13-16.1792608943679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "u ġie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "r-re"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u ... kollu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "għejja"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "u reġgħu ħadu nifs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    }
+  ],
+  "timestamp": "2026-10-21T18:55:43.680780006Z",
+  "model": "glm-5.3"
+}

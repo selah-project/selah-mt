@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-Lhudi m'għandux kopula; הוא huwa enfattiku biss"
+    },
+    {
+      "kind": "measurement",
+      "subject": "twelid",
+      "rationale": "baħħ tal-ġenealoġija — toledot ta' Esav"
+    }
+  ],
+  "translation": "U dawn huma t-twelid ta' Esav — huwa Edom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "9ec784d8dedcbc1b5a62ee6a7275df76a185bb4ae4f7978d1350e81f2fd7e1d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/36\/1-4.1792598639001.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "u dawn"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "it-twelid"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ta' Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:03:59.001790087Z",
+  "model": "glm-5.3"
+}

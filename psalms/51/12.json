@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "oħloq",
+      "rationale": "ברא huwa l-verb tal-ħolqien absolut (Ġen 1:1) — użat hawn għal qalb ġdida, mhux għal 'isir' sempliċi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stabli",
+      "rationale": "נכון għal qalbu 'waqfa dritta, stabbli' — 'sewwa' jew 'mwaħħda' huma alternattivi oħra"
+    }
+  ],
+  "translation": "Qalb nadifa oħloq għalija, ja Elohim, u ruwaħ stabli ġeddid ġo fija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/51\/9-12.1792617112113.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadifa"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "oħloq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "u ruwaħ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "stabli"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ġeddid"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ġo fija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:52.114618195Z",
+  "model": "glm-5.3"
+}

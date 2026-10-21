@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ħalila",
+      "rationale": "חלילה — interjezzjoni Lhudija 'mbierah\/minn quddiem'; 'ħalila għalina' żżomm il-ħoss ta' ġewwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהים אחרים = allat oħrajn, ittra żgħira għall-idoli mhux Elohim"
+    }
+  ],
+  "translation": "U l-poplu wieġeb u qal: Ħalila għalina li neċċedu ⟨את⟩ Jaħwe biex neservu allat oħrajn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/24\/13-16.1792606804501.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "u wieġeb"
+    },
+    {
+      "surface": "העם",
+      "gloss": "l-poplu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ħalila"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "għalina"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "neċċedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "neservu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allat"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oħrajn"
+    }
+  ],
+  "timestamp": "2026-10-21T18:20:04.503387187Z",
+  "model": "glm-5.3"
+}

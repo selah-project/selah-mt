@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħbitiet",
+      "rationale": "מצרים literally 'post id-doqq' (narrowness), bil-Malti resa bħala 'ħbitiet' (distress)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצאוני \/ אמצא",
+      "rationale": "Għerq wieħed מצא 'sab\/sibt' darbtejn — is-sekwenza ma tinżammqx kompletament bil-Malti"
+    }
+  ],
+  "translation": "Ġibdu madwari l-ħbula tal-mewt, u l-ħbitiet ta' Xeol sabuni; sibt inkwiet u niket.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/116\/1-4.1792617995059.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Ġibdu madwari"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "l-ħbula"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tal-mewt"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "u l-ħbitiet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ta' Xeol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "sabuni"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "inkwiet"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "u niket"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "sibt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:35.060686354Z",
+  "model": "glm-5.3"
+}

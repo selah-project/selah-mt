@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nfuskom",
+      "rationale": "נפש hija l-ħajja\/nifs, mhux ruħ b'sens Platonic"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lill-Iżrael",
+      "rationale": "imperattiv: ara ħafna għal nfuskom biex tħobbu"
+    }
+  ],
+  "translation": "U ndiewżu ħafna għal nfuskom, biex tħobbu ⟨את⟩ Jaħwe Elohimkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4628bf1cd59fd95085db3b7694fe203bc8f2ae5d7dd511dffc7cafa158a86e20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/23\/9-12.1792606754587.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "u ndiewżu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "għal nfuskom"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "biex tħobbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe Elohimkom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:19:14.588251354Z",
+  "model": "glm-5.3"
+}

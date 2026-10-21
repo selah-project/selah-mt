@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמדים ... עמדים",
+      "rationale": "it-tissodduplikazzjoni 'wqfu ... wqfu' u l-għoli fuq kull naħa tirrifletti l-istruttura mimetika tal-oriġinal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגיא",
+      "rationale": "il-gorga mill-ġnub għoljin — serviet b''l-wied fond' biex tiddistingwi minn עמק tas-seħt 2"
+    }
+  ],
+  "translation": "U l-Filistini kienu ⟨wqfu⟩ lejn il-muntanja minn hawn, u Jisrael kienu ⟨wqfu⟩ lejn il-muntanja minn hemm, u l-wied fond bejniethom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/1-4.1792608020896.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "U l-Filistini"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "wqfu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il-muntanja"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "minn hawn"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "u Jisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "wqfu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il-muntanja"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "u l-wied fond"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "bejniethom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:20.898065546Z",
+  "model": "glm-5.3"
+}

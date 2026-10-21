@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "'il fuq",
+      "rationale": "Il-verb המעלה (forma intensiva ta' 'għola') ħtieġ iktar minn kelma waħda bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qaddis",
+      "rationale": "קדוש miżmum qarib tal-Lhudi (għerq qaddis\/qdusija) skont D2, mhux 'santu'"
+    }
+  ],
+  "translation": "Għaliex jien Jaħwe, li għollejt ⟨את⟩kom 'il fuq minn art Mitsrajim, biex inkun għalikom Elohim; u jkunu qaddis, għaliex jien qaddis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/45-47.1792600622114.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "li għollejt 'il fuq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom",
+      "marks": "kom"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "minn art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "biex inkun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "u jkunu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:02.115319599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Sejħa diretta lill-muntanji u l-pedamenti tad-dinja bħala xhieda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האתנים",
+      "rationale": "'l-qawwa\/li jdumu' — renduti bħala 'ħaġar il-qawwi' biex jinżamm il-konkrett ta' pedamenti."
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Malti jeħtieġ suġġett għal יתוכח, miżjud fil-parentesi."
+    }
+  ],
+  "translation": "Isimgħu, muntanji, ⟨את⟩ l-argument ta' Jaħwe, u l-ħaġar il-qawwi, pedamenti ta' l-art; għaliex hemm ġlied għal Jaħwe ma' ħolqu, u ma' Jisrael ⟨hu⟩ jiddiskuti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/6\/1-4.1792615948463.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Isimgħu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "muntanji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-argument ta' Jaħwe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "l-argument"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "u l-ħaġar il-qawwi"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "pedamenti ta'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ġlied"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "għal Jaħwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ħolqu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "u ma'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "jiddiskuti"
+    }
+  ],
+  "timestamp": "2026-10-21T20:52:28.464359840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-verb 'kienu' miżjud bil-Malti; il-Lhudi jgħid sempliċement 'dawn il-kapijiet ta' Edom'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-lista",
+      "rationale": "tmiem tal-għadd tal-kapijiet ta' Edom — konklużjoni tal-lista tan-nisel"
+    }
+  ],
+  "translation": "il-kap Magdiel, il-kap Iram. Dawn kienu l-kapijiet ta' Edom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f32be554fbc0558b99d7f912b7e3a77f340146c70192d4d06670fefa1a5ce9ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/1\/53-54.1792621635872.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "il-kap"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Magdiel"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "il-kap"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Iram"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kienu l-kapijiet"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ta' Edom"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:15.873318802Z",
+  "model": "glm-5.3"
+}

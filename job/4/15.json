@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "רוח is one word for spirit\/wind\/breath; kept as ruwaħ rather than choosing between 'spirtu' and 'riħ'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סמר\/שערת",
+      "rationale": "Hebraism: hair 'bristles' or stands on end — idiom for terror rendered literally."
+    }
+  ],
+  "translation": "U ruwaħ għaddiet fuq wiċċi; xagħar ta' ġismi tqajjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7ce8288c94b9253748ad4af1aecb85a19e0af4243e25cbd5eee3cb9b338ddb3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/4\/13-16.1792619084182.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "u ruwaħ"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċi"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "għaddiet"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "tqajjem"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "xagħar"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ta' ġismi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:44.183512628Z",
+  "model": "glm-5.3"
+}

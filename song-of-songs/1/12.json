@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במסבו",
+      "rationale": "מסב — divan imdawwar għall-mistejja, mhux 'mejda'; 'fuq id-divan' iżomm il-forma tal-kelma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tagħha",
+      "rationale": "ריחו bil-maskil, iżda n-nardi femminil bil-Malti; il-pronun jaqbel man-nardi mhux mas-sultan"
+    }
+  ],
+  "translation": "Salamat s-sultan fuq id-divan imdawwar tiegħu, in-nardi tiegħi tat ir-riħa tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/1\/9-12.1792619869007.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Salamat"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "s-sultan"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "fuq id-divan imdawwar tiegħu"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "in-nardi tiegħi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "tat"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ir-riħa tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:57:49.008029313Z",
+  "model": "glm-5.3"
+}

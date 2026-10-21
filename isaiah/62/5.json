@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבעל\/יבעלוך",
+      "rationale": "Għerq בעל irrepetut fil-vers: 'jiżżewweġ' l-ewwel u 'jiżżewġulek', logħba li qiegħda tixbah lil Sijon bl-għarusa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiżżewweġ",
+      "rationale": "בעל tfisser 'jkun sid', u minn hemm 'jiżżewweġ'; il-Malti żamm il-ħajja taż-żwieġ, mhux is-sidien."
+    }
+  ],
+  "translation": "Għaliex bħalma żagħżugħ jiżżewweġ lil verġni, hekk il-wliedek jiżżewġulek; u bħall-ferħ ta' spus fuq spusa, hekk Elohim tiegħek jifraħ fuqek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3b03ad39445de22f7af6a26e7badd6b2ccbc55373114397fd9f31073ccd950c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/62\/5-8.1792612278927.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "jiżżewweġ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "żagħżugħ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "verġni"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "jiżżewġulek"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "il-wliedek"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ferħ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "spus"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "spusa"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "jifraħ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fuqek"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T19:51:18.927770658Z",
+  "model": "glm-5.3"
+}

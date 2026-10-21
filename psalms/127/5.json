@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "quiveru",
+      "rationale": "אַשְׁפָּה hija kwiver — il-Malti għandu 'kwiver'; użajt 'quiveru' msawwar skont il-ħoss; xi traddutturi jibqgħu bl-Ingliż"
+    },
+    {
+      "kind": "crux",
+      "subject": "yitħajtru",
+      "rationale": "יבשו: 'jistħaw' jew 'jitħajtru' — it-tifsira hi li ma jinħarbux b'wejjaħ quddiem l-għedewwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי\/אשר\/אשפתו",
+      "rationale": "alliterazzjoni ta' אשר fil-bidu (tri darba) ma' אשפה — il-ħoss jinżamm fil-Lhudi, jaqa' bil-Malti"
+    }
+  ],
+  "translation": "Sabiħ min hu l-ġellied li mleja ⟨את⟩ quiveru bihom; mhux se jitħajtru, għax jistgħu jkellmu ⟨את⟩ ma' l-għedewwa fil-bieb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/127\/5-5.1792618145713.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sabiħ min hu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l-ġellied"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mleja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quiveru"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "quiveru"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "bihom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "se jitħajtru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "jkellmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "l-għedewwa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "fil-bieb"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:05.714554889Z",
+  "model": "glm-5.3"
+}

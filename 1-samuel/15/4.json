@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Għadd tas-suldati: mitejn elf tar-riġlejn u għaxra elef minn Jehuda."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sejjaħ lil",
+      "rationale": "וישמע litteralment 'u awta lil' — idjom għas-sejħiet ta' ġemgħa, bħal Imħ 2:20."
+    }
+  ],
+  "translation": "U Xaul sejjaħ ⟨את⟩ lil-ġemgħa u għaddiehom f'Talajim: mitejn elf suldat tar-riġlejn, u għaxra elef ⟨את⟩ raġel ta' Jehuda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/15\/1-4.1792607984148.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sejjaħ lil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil-ġemgħa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lil-ġemgħa"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "u għaddiehom"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "f'Talajim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mitejn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "suldat tar-riġlejn"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "u għaxra"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raġel ta' Jehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-21T18:39:44.149823175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירצח\/הרצח",
+      "rationale": "same root as verb and object: the killer (qattil) is killed (jinqatel), reciprocal irony"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפי",
+      "rationale": "literally 'according to the mouth of' the witnesses; rendered 'skond'"
+    }
+  ],
+  "translation": "Kull min joqtol ruħ, skond ix-xhieda jinqatel ⟨את⟩ il-qattil; u xhud wieħed ma jixhidx ruħ għall-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/35\/29-32.1792605267661.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kull"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "min joqtol"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruħ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "skond"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ix-xhieda"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "jinqatel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-qattil"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "il-qattil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u xhud"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "jixhidx"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ruħ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "għall-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T17:54:27.662675272Z",
+  "model": "glm-5.3"
+}

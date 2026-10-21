@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lilu",
+      "rationale": "is-suffiss tal-oġġett fuq אתו jittraduċi b'pronun separata bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Aaron u uliedu",
+      "rationale": "regola dwar min jiekol l-iktar qaddis, indirizzata lis-saċerdoti"
+    }
+  ],
+  "translation": "F'qaddis il-qaddisin tiekluh; kull raġel jiekol ⟨את⟩ lilu; qaddis ikun għalek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39d83533cd78079dc6f863f9860ab51678f75e536738270b83267cd983e126c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/18\/9-12.1792602945937.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "f'qaddis"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "il-qaddisin"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "tiekluh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "dak (l-ikel qaddis)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jkun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalek"
+    }
+  ],
+  "timestamp": "2026-10-21T17:15:45.939259699Z",
+  "model": "glm-5.3"
+}

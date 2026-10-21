@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סאן",
+      "rationale": "verbu 'jilbes iż-żraben' jidher hawn biss fit-Tanakh; סאון qrib ħafna ta' biss"
+    },
+    {
+      "kind": "crux",
+      "subject": "סאון סאן ברעש",
+      "rationale": "sensi tal-espressjoni: 'żraben suldat magħmulin għat-tremon' (JPS 'boot stamped with fierceness') kontra 'għajta\/ħasil bil-ħambriegħa' (KJV 'battle of the warrior with confused noise')"
+    }
+  ],
+  "translation": "Għax kull żarbun ta' min jieħu bil-qawwa bit-tremor tal-battalja, u kull libsa mgħollija fid-demm, se tkun għall-ħruq, għażżeż għan-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "20fb27f973d38d3fc8cba60489bbb6fab767816f6b9618c840519859f8263d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/9\/1-4.1792611066563.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "żarbun ta' min jieħu bil-qawwa"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "min jieħu bil-qawwa"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "bit-tremor tal-battalja"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "u libsa"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "mgħollija"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "fid-demm"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "se tkun"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "għall-ħruq"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "għażżeż"
+    },
+    {
+      "surface": "אש",
+      "gloss": "għan-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:31:06.564446970Z",
+  "model": "glm-5.3"
+}

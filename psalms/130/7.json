@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lil Jisrael",
+      "rationale": "Sejħa diretta lil Jisrael biex jistenna f'Jaħwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Il-Lhudi jgħid 'ma' Jaħwe ħesed' bla verb; il-Malti jżid 'hemm' bħala kopula."
+    }
+  ],
+  "translation": "Jistenna Jisrael lil Jaħwe, għax ma' Jaħwe hemm ħesed, u m'għandu fedut f'abbondanza.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/130\/5-8.1792618175601.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Jistenna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hemm ħesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "u m'għandu f'abbondanza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "m'għandu"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "fedut"
+    }
+  ],
+  "timestamp": "2026-10-21T21:29:35.602274705Z",
+  "model": "glm-5.3"
+}

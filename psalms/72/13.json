@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifsijiet",
+      "rationale": "נפש הija nifs \/ ħajja, mhux 'ruħ' fil-kena ta' ruħ immortali."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביון \/ אביונים",
+      "rationale": "l-istess kelma tindaqq darbtejn fil-vers — l-iterazzjoni titlef bil-Malti."
+    }
+  ],
+  "translation": "Iħenn għal id-dgħjuf u l-bżonnjuż, u n-nifsijiet tal-bżonnjużin isalva.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/72\/13-16.1792617448246.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "iħenn"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "דל",
+      "gloss": "id-dgħjuf"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "u l-bżonnjuż"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "u n-nifsijiet"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "tal-bżonnjużin"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "isalva"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:28.246578030Z",
+  "model": "glm-5.3"
+}

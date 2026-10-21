@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאשר",
+      "rationale": "indikattiv 'huwa jkollu s-sa'ied' kontra ġussiv 'ħallih ikollu s-sa'ied' (JPS); l-istess għerq ta' אשרי"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fin-nefs",
+      "rationale": "נפש hija l-ħela, il-ħtiġija — mhux ruħ; 'fin-nefs ta' għedewwaħu' = f'xi jixtrabu l-għedewwa"
+    },
+    {
+      "kind": "you",
+      "subject": "tal-oreditur",
+      "rationale": "מ'v 3 ikompli fit-tielet persuna imma 'la tagħtihx' jindirizza lil Jaħwe direttament — bidla ta' persuna"
+    }
+  ],
+  "translation": "Jaħwe jħarishu u jħajjih; huwa jkollu s-sa'ied fl-art, u la tagħtihx fin-nefs ta' għedewwaħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/41\/1-4.1792617057018.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "jħarishu"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "u jħajjih"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "huwa jkollu s-sa'ied"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u la"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "tagħtihx"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "fin-nefs"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ta' għedewwaħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:57.019139061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ma baqax jeżisti",
+      "rationale": "איננו huwa negattiv sempliċi 'mhuwiex'; rrendejt b'referenza għal eżistenza għax il-Malti jeħtieġ verb"
+    },
+    {
+      "kind": "addition",
+      "subject": "-tu",
+      "rationala": "l-obaġġ fuq ואבקשהו (fittixtu = fittix lilu) ma jidhirx b'mod separat fil-Malti",
+      "rationale": "suffiss -hu fuq il-verb 'fittex' jiġi assimilat fil-pronunja Maltija; miżjud mal-glossa"
+    }
+  ],
+  "translation": "U għadda, u ara, ma baqax jeżisti, u fittixtu, u ma nstabx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e23a59c81f1217dd92e6c2ba12ccaad505f9ce570bb1a7db44f0a39328ba50fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/36-36.1792623784445.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "u għadda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u ara"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma baqax jeżisti"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "u fittixtu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nstabx"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:04.446149403Z",
+  "model": "glm-5.3"
+}

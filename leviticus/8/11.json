@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebat darbiet",
+      "rationale": "Għadd ta' seba' spargimenti — seba' bħala n-numru sħiħ ta' qdusija."
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħu",
+      "rationale": "Il-pronomen possessesiv miżjud bil-Malti fejn il-Lhudi juża kostrutt (כל כליו, כנו)."
+    }
+  ],
+  "translation": "U bexx minnu fuq l-artal sebat darbiet, u massaħ ⟨את⟩ l-artal u ⟨את⟩ l-istrumenti kollha tiegħu, u ⟨את⟩ il-baċir u ⟨את⟩ l-bażi tiegħu, biex iqaddashom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/9-12.1792600636219.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "U bexx"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sebat"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "darbiet"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "u massaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-istrumenti kollha tiegħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "l-istrumenti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-baċir"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "il-baċir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-bażi tiegħu"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "il-bażi"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "biex iqaddashom"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:16.220736046Z",
+  "model": "glm-5.3"
+}

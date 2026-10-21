@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lill-kbar",
+      "rationale": "רוזנים is literally 'the weighty\/dignified ones', princes by gravitas; Maltese uses an honorific rather than weight-word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו",
+      "rationale": "The same word as Gen 1:2 'formless' — judges reduced to pre-creation chaos, echo lost in Maltese."
+    }
+  ],
+  "translation": "Li jagħti lill-kbar għal xejn, lill-ġudikaturi tal-art għamilhom bħal ħela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/40\/21-24.1792611663993.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "li jagħti"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "lill-kbar"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "għal xejn"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "lill-ġudikaturi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "bħal ħela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "għamilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:03.995383421Z",
+  "model": "glm-5.3"
+}

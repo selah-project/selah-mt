@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש ואיש",
+      "rationale": "repetizzjoni ta' 'raġel u raġel' — wieħed u ieħor, kulħadd — l-iterazzjoni tinżamm bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "והוא יכוננה עליון",
+      "rationale": "jaqra bħala suġġett (Elijon jwaqqafha) jew bħala wiss (Hu jwaqqaf lil Elijon = Sijon); ħadt l-ewwel waħda"
+    }
+  ],
+  "translation": "U għal-Sijon jingħad: raġel u raġel twelid fiha; u Hu, Elijon, iwaqqafha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/87\/5-7.1792617648753.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "u għal-Sijon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jingħad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "u raġel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "twelid"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u Hu"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "iwaqqafha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:20:48.753994832Z",
+  "model": "glm-5.3"
+}

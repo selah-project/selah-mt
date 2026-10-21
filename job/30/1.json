@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 30:1",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fid-diegħa",
+      "rationale": "לימים litteralment 'għal jiem\/jranar', 'fid-diegħa' tuża l-kostruzzjoni tal-plural ta' żmien"
+    },
+    {
+      "kind": "crux",
+      "subject": "stmażtajt",
+      "rationale": "מאסתי: 'stmażtajt\/meraħt' — xi versjonijiet jqisu 'ma ridtx' (KJV 'would have disdained')"
+    },
+    {
+      "kind": "you",
+      "subject": "l-ħatra ta' Ġobb",
+      "rationale": "Ġobb jitkellem dwar dawk li jriduh, indirizz indirett lejn ħbiberija mitlufa"
+    }
+  ],
+  "translation": "U issa jidħku għalija żgħażagħ iżgħar minni fid-diegħa, li missirijiethom stmażtajt ⟨li⟩ npoġġi ma' klieb in-nagħaġ tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "976ceedb52a8b216ec5ab5340de1152af6e1765cdecba7208f0b5e3c402cc1cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/30\/1-2.1792623909451.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "שחקו",
+      "gloss": "jidħku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "צעירים",
+      "gloss": "żgħażagħ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iżgħar minni"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "fid-diegħa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "stmażtajt"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "missirijiethom"
+    },
+    {
+      "surface": "לשית",
+      "gloss": "li npoġġi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "klieb"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "in-nagħaġ tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:09.452265501Z",
+  "model": "glm-5.3"
+}

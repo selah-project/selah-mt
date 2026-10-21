@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהים אחרים here are foreign gods, so the lowercase 'allat' of the nations is used, not Elohim."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וְחָרָה אַף",
+      "rationale": "lit. 'the nose will burn' — Hebrew idiom for anger, rendered with 'ħadid jaħraq' (nose flares\/burns)."
+    },
+    {
+      "kind": "crux",
+      "subject": "יסיר",
+      "rationale": "singular 'he will turn away' with plural referent (the nations or the daughter-in-law) — KJV 'they', YLT 'he'."
+    }
+  ],
+  "translation": "għaliex joskor lil ⟨את⟩ ibnek minn warajja, u jqumu jqimu allat oħra; u l-ħadid ta' Jaħwe jaħraq kontrikom, u jeqridlek bil-għaġla.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/7\/1-4.1792605483204.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "joskor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibnek"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "lil ibnek"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "minn warajja"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "u jqumu jqimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allat"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oħra"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "jaħraq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l-ħadid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kontrikom"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "u jeqridlek"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "bil-għaġla"
+    }
+  ],
+  "timestamp": "2026-10-21T17:58:03.205410102Z",
+  "model": "glm-5.3"
+}

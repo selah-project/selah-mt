@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "toħu",
+      "rationale": "תהו echoes Gen 1:2 — formless waste; the same word kept"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדבר\/תהו\/ישמן",
+      "rationale": "three piled synonyms for wilderness, an ascending desolation; Ješimon kept as the proper desert-name"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ċ-ċekkija",
+      "rationale": "אישון is literally 'the little man of the eye', the reflection one sees in another's pupil"
+    },
+    {
+      "kind": "you",
+      "subject": "Jakkov",
+      "rationale": "the Song addresses Israel's history — 'him' is Jacob from v. 9"
+    }
+  ],
+  "translation": "Sibuh f'art midbar, u f'toħu jagħliġ f'Jeżimon; dawwarh, għarrafh, ħarish bħal ċ-ċekkija ta' għajnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "58a324fc05435d9b8e712c92888f2d34cbc1efb2e6fcafaf69c73decba716614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/32\/10-11.1792623131120.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "Sibuh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "f'art"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "midbar"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "u f'toħu"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "jagħliġ"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "f'Jeżimon"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "dawwarh"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "għarrafh"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "ħarish"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "bħal ċ-ċekkija"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ta' għajnu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:52:11.121389842Z",
+  "model": "glm-5.3"
+}

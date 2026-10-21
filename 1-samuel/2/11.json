@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את פני",
+      "rationale": "'quddiem wiċċ' — il-prepożizzjoni את quddiem פני; miċħuda biss għal 'quddiem' biex tinżamm il-fluss"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Malti jeħtieġ l-għajnuna għall-verb fil-passat imperfett"
+    }
+  ],
+  "translation": "U Elkana mar ir-Rama, għand daru; u ż-żagħżugħ kien jaqdi lil Jaħwe ⟨את⟩ quddiem Eli, il-qassis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/2\/9-12.1792607615543.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "u mar"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ir-Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "għand"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "daru"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "u ż-żagħżugħ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "jaqdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ quddiem",
+      "marks": "Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "quddiem wiċċ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:35.544309419Z",
+  "model": "glm-5.3"
+}

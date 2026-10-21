@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמאס \/ מאס",
+      "rationale": "Il-passiv u l-attiv tal-istess għerq מאס: il-fidda 'miċħuda' għax Jaħwe 'ċaħad' — l-echo jinżamm bil-Malti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "qrajt 'jsejħulhom'",
+      "rationale": "קראו להם litteralment 'sejħu lilhom': l-attiv bla suġġett, l-aktar mutur bħala 'jissejħulhom'."
+    }
+  ],
+  "translation": "Fidda miċħuda jsejħulhom, għax Jaħwe ċaħad lilhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80d4d6ee42ff02ee4912cc582599749c605c23a459553b778d670232c6710280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/6\/29-30.1792612434275.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "miċħuda"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "jsejħu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ċaħad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "lilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:53:54.276303711Z",
+  "model": "glm-5.3"
+}

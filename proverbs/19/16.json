@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר...שמר",
+      "rationale": "l-istess verb darbtejn — 'jżomm il-kmandament \/ jżomm nefesu' — ripetizzjoni li torbot iż-żewġ frażijiet"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכיו",
+      "rationale": "'triqatu' ta' min isemmilhom, jew triqat ta' Alla? verżjonijiet jaqralhom it-tnejn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jintemm bil-mewt",
+      "rationale": "יומת huwa passiv ta' 'mut' jew 'jimtied' — forsi sentenza ta' mewt mhux sempliċiment 'jmut'"
+    }
+  ],
+  "translation": "Min jżomm il-kmandament jżomm nefesu; min jiddeprezza triqatu jintemm bil-mewt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/13-16.1792618694794.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "min jżomm"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "il-kmandament"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jżomm"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesu"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "min jiddeprezza"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "triqatu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "jintemm bil-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:14.795567457Z",
+  "model": "glm-5.3"
+}

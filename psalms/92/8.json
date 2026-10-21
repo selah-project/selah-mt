@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "il-Lhudi juża ל biss — 'għal' — biex jindika l-għan; bil-Malti hemm bżonn prepożizzjoni kompluta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרח\/יציצו",
+      "rationale": "żewġ verbi differenti għall-fjorixxar — spruzz u kattar — jissimbolizzaw il-ħajja qasira tal-ħżiena"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עדי עד",
+      "rationale": "il-femini profond ta' 'għal dejjem u għal dejjem' — terminu poetiku intensiv biss hawn u f'kapitli ftit oħrajn"
+    }
+  ],
+  "translation": "Meta jiffjorixxu l-ħżiena bħal xi ħaxix, u jkattar kull min jagħmel ħażen — ⟨biex⟩ jinqerdu għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/92\/5-8.1792617725885.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "Meta jiffjorixxu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "l-ħżiena"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "xi ħaxix"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "u jkattar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "min jagħmel"
+    },
+    {
+      "surface": "און",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "jinqerdu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "għal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:05.886807110Z",
+  "model": "glm-5.3"
+}

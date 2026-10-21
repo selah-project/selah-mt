@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaqbeż",
+      "rationale": "העביר is causative — 'make cross over \/ bring across' — Judah conducts the king across; rendered with a single verb."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ġie",
+      "rationale": "ויהודה בא uses a singular masculine verb with a feminine collective name — 'and Judah came', kept as collective."
+    }
+  ],
+  "translation": "U is-sultan reġa' lura u wasal sal-Ġordan, u Jehuda ġie l-Gilgal biex jimxi jiltaqa' mas-sultan, biex jaqbeż ⟨את⟩ is-sultan ⟨את⟩ il-Ġordan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/19\/13-16.1792608997484.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "u reġa' lura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "u wasal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "l-Ġordan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "u Jehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġie"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "l-Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "biex jimxi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "jiltaqa' ma'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "biex jaqbeż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-sultan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Ġordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "l-Ġordan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:56:37.485861326Z",
+  "model": "glm-5.3"
+}

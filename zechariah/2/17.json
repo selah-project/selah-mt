@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הַס",
+      "rationale": "'Hush!' — interjection ta' skiet solenni, mhux sempliċiment 'kun bieqed'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשר",
+      "rationale": "kol-basar = 'il-ġimd kollu' — bniedem f'ġismu, kliem semitiku għall-umanità"
+    }
+  ],
+  "translation": "Oqgħod bil-biki, kulħadd minn ġisimha, quddiem Jaħwe, għax qam mill-abitazzjoni qaddisa tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "11eaad8a06b62c46377bff29b15d03ac42fa16950cc282321e5faea6b3e77413",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/2\/17-17.1792616126848.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הַ֥ס",
+      "gloss": "Oqgħod bil-biki"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kulħadd"
+    },
+    {
+      "surface": "בָּשָׂ֖ר",
+      "gloss": "minn ġisimha"
+    },
+    {
+      "surface": "מִפְּנֵ֣י",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נֵע֖וֹר",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מִמְּע֥וֹן",
+      "gloss": "mill-abitazzjoni"
+    },
+    {
+      "surface": "קָדְשֽׁוֹ",
+      "gloss": "qaddisa tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:55:26.849430524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "il-ħażen",
+      "rationale": "רע: 'ħażen' morali (KJV) kontra 'kalamità\/ġid ieħor' (BSB) — id-deċiżjoni tinstab f'kull traduzzjoni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יוצר\/בורא\/עשה",
+      "gloss": "tliet verbi differenti (ifur\/noħloq\/nagħmel) mibnija fuq żewġ pari simetriċi dawl-ġo dlam, sliem-ġo ħażen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "in-nissiegħ",
+      "rationale": "יוצר huwa għerq ta' fuħħar (li jifur it-tajn); 'nissiegħ' zżomm il-manwalità, mhux biss 'ifurma'"
+    }
+  ],
+  "translation": "Jien in-nissiegħ id-dawl u noħloq id-dlam; nagħmel is-sliem u noħloq il-ħażen; jien Jaħwe, nagħmel dawn kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "852e2d5a56fca374c00684b5adf9dd00f6dacb9350217b8b3507c0994af05079",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/45\/6-7.1792623484110.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "in-nissiegħ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "id-dawl"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "u noħloq"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "id-dlam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "is-sliem"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "u noħloq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il-ħażen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagħmel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dawn"
+    }
+  ],
+  "timestamp": "2026-10-21T22:58:04.112271335Z",
+  "model": "glm-5.3"
+}

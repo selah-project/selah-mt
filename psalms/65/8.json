@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jissedda",
+      "rationale": "משביח: hiphil ta' שׁבח 'jissedda\/jisketta' (l- qari ta' KJV, JPS) vs qari 'jieħu pjaċir\/jikber' minn għerq ieħor"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאון ... שאון",
+      "rationale": "repetizzjoni ta' שאון (ragħni... ragħni) tiżomm il- gemina"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-għajta ta' l-ġnus",
+      "rationale": "המון huwa ħlewwa ta' nies u ħwejjeġ fl- istess ħin; 'għajta' tieħu l- ħoss tar- rivolt"
+    }
+  ],
+  "translation": "Li jissedda r-ragħni tal-ibħra, ir-ragħni tal-mewġ tagħhom, u l-għajta ta' l-ġnus.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/65\/5-8.1792617328105.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "jissedda"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ir-ragħni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tal-ibħra"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ir-ragħni"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "tal-mewġ tagħhom"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "u l-għajta"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ta' l-ġnus"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:28.105952035Z",
+  "model": "glm-5.3"
+}

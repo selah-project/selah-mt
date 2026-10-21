@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מיץ ... מיץ ... מיץ",
+      "rationale": "Ir-repetizzjoni ta' 'pressjoni' tliet darbiet tibni l-paralleliżmu: ħalib→ġobon, moħħ→demm, għadab→ġlied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף \/ אפים",
+      "rationale": "L-ewwel 'af huwa l-moħħ litteralment; 'appajim (dual tan-moħħ) huwa idjom għall-għadab, u għalhekk tradott b'hekk."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חמאה",
+      "rationale": "Ħalib imsawwat\/ġobon frisk; 'ħalib imsawwat' iżomm l-ambjent rurali aħjar."
+    }
+  ],
+  "translation": "Għax il-pressjoni tal-ħalib toħroġ ġobon, u l-pressjoni tan-moħħ toħroġ demm, u l-pressjoni ta' l-għadab toħroġ ġlied.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/30\/33-33.1792618943569.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "il-pressjoni"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tal-ħalib"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "toħroġ"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ġobon"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "u l-pressjoni"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tan-moħħ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "toħroġ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "demm"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "u l-pressjoni"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ta' l-għadab"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "toħroġ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ġlied"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:23.569915637Z",
+  "model": "glm-5.3"
+}

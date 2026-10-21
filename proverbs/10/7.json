@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tkun⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-verb 'tkun' miżjud bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jitħassar",
+      "rationale": "ירקב tfisser letteralment 'jitmermer bil-ħanxir'; bil-Malti ġie użat 'jitħassar'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/שם",
+      "rationale": " parallel bejn it-tifkira u l-isem — żewġ kelmiet għall-istess idea, contrastrat ġust\/ħziena"
+    }
+  ],
+  "translation": "It-tifkira tal-ġust ⟨tkun⟩ għal barka, iżda l-isem tal-ħżiena jitħassar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "90c3289866177a7b9c49ca0304046d5b853754bd94f0c46f170c7bc06486c1b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/7-8.1792623852575.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "it-tifkira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tal-ġust"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "għal barka"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "iżda l-isem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tal-ħżiena"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "jitħassar"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:12.576409044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Il-Lhudi ma għandux kopula għal מי זה; miżjud bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "meta Adonaj ma ammirx",
+      "rationale": "Jista' jinqra bħala mistoqsija ('meta ma ammirx?') jew bħala dikjarazzjoni ('Adonaj ma ammirx')"
+    }
+  ],
+  "translation": "Min hu dan li qal, u ⟨seħħ⟩, meta Adonaj ma ammirx?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/3\/37-40.1792620147991.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "u seħħ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ammirx"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:27.992726252Z",
+  "model": "glm-5.3"
+}

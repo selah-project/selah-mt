@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Devir",
+      "rationale": "דביר mħalli bħala isem proprju — il-post l-aktar intern tas-sanċtarju"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל תחת",
+      "rationale": "żewġ prepożizzjonji Lhud mħaddmin f'\"taħt\" wieħed"
+    }
+  ],
+  "translation": "U l-qassisin daħlu ⟨את⟩ l-aruna tal-patt ta' Jaħwe f'postha, għad-Devir tad-dar, għall-qaddis tal-qaddisin, taħt ġwienaħ il-kerubin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/5-8.1792609471259.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "U daħlu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "l-qassisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-aruna"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l-aruna"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tal-patt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f'"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "postha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għad-"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tad-dar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għall-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddis"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tal-qaddisin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ġwienaħ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "il-kerubin"
+    }
+  ],
+  "timestamp": "2026-10-21T19:04:31.260348012Z",
+  "model": "glm-5.3"
+}

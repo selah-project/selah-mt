@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "ras għerq רבב: 'bosta' (sajjetti numerużi) jew 'raġġad\/sajjett' bħala verbu; KJV jqis 'he shot out'"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-pronum 'hom'",
+      "rationale": "il-suffiss -מ ta' ויפיצם u ויהמם jittraduċi b'pronum Malti separata"
+    }
+  ],
+  "translation": "U bagħat il-vleġġa tiegħu u xerridhom, u sajjetti bosta, u ħawwadhomm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/13-16.1792616631197.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "U bagħat"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "il-vleġġa tiegħu"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "u xerridhom"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "u sajjetti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bosta"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "u ħawwadhomm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:51.198364603Z",
+  "model": "glm-5.3"
+}

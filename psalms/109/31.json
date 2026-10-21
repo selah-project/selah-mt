@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש huwa nifs\/ħajja, mhux 'ruħ' fl-iskema Griega; in-nifs iżomm il-ħoss u l-forma tan-nifs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "joqgħod",
+      "rationale": "יעמד jista' jkunu preżenti ('joqgħod') jew futur 'se joqgħod' — it-Tanakh m'għandux zum temporali fiss."
+    }
+  ],
+  "translation": "Għax huwa joqgħod fuq il-lemin tal-miskin, biex isalvah minn dawk li jagħmlu ġudizzju fuq in-nifs tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/29-31.1792617933534.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "joqgħod"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "fuq il-lemin"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "tal-miskin"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "biex isalvah"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "minn dawk li jagħmlu ġudizzju"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "in-nifs tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:33.535203191Z",
+  "model": "glm-5.3"
+}

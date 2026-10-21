@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכב\/השכיב",
+      "rationale": "l-istess għerq jidher tlett darbiet f'v.19–20: raqdet fuqu, ttorqodh, ttorqodtu — xejra li tqabbad il-mewt mas-skravizament tal-irqad, diffiċli biex tinqeda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמתך",
+      "rationale": "'qadma tiegħek' — din tatkarm lil Salamun b'mod ta' żeddkarar meta l mara tittestmonja quddiem is-sultan"
+    }
+  ],
+  "translation": "U qamet f'nofs il-lejl u ħadet ⟨את⟩ ibni minn ħdeji, waqt li l-qadma tiegħek riqda, u ttorqodh f'ħoqobha, u ⟨את⟩ ibinha l-mejjieq ttorqodtu f'ħoqobi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "322493bbf3c58d505b483e841ab27e9a558123c4dbffe26b9bccef70622c14f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/17-20.1792609390076.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "U qamet"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "u ħadet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ibni"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "minn ħdeji"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "waqt li l-qadma tiegħek"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "riqda"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "u ttorqodh"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "f'ħoqobha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibinha l-mejjieq"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ibinha"
+    },
+    {
+      "surface": "המת",
+      "gloss": "l-mejjieq"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "ttorqodtu"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "f'ħoqobi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:03:10.077820075Z",
+  "model": "glm-5.3"
+}

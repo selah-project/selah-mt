@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 15:5",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienx \/ kien",
+      "rationale": "Il-Lhudi m'għandux il-kopula; il-Malti jeħtieġha għan-negazzjoni u għall-ġudia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tfixkil",
+      "rationale": "מהומה tfisser inkwiet u ġennen (uproar); 'tfixkil' jaqrab iż-żewġt idjar"
+    }
+  ],
+  "translation": "U f'dawk iż-żminijiet ma ⟨kienx⟩ hemm paċi għal min joħroġ u għal min jidħol, għax tfixkil kbir ⟨kien⟩ fuq l-abitanti kollha tal-artijiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80a3343f9f00aac97a097218f227622ce7de8e108ab271d069251c8ffdadd1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/15\/5-8.1792622626250.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעתים",
+      "gloss": "U f'dawk iż-żminijiet"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dawk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma hemm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paċi"
+    },
+    {
+      "surface": "ליוצא",
+      "gloss": "għal min joħroġ"
+    },
+    {
+      "surface": "ו לבא",
+      "gloss": "u għal min jidħol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "tfixkil"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abitanti"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tal-artijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T22:43:46.250841561Z",
+  "model": "glm-5.3"
+}

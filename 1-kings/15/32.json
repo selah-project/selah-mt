@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "Il-Malti jeħtieġ 'kien hemm' fejn il-Lhudi għandu biss ומלחמה היתה"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בין...ובין",
+      "rationale": "Il-בין imtenni tal-Lhudi jinżamm: 'bejn... u bejn...'"
+    }
+  ],
+  "translation": "U kien hemm gwerra bejn Asa u bejn Bagħsa, sultan ta' Jisrael, il-ġranet tagħhom kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/29-32.1792609823276.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "U gwerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bagħsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "il-ġranet tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:10:23.277788652Z",
+  "model": "glm-5.3"
+}

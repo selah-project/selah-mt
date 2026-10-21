@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 22:49",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨made⟩",
+      "rationale": "il-verbi Malti mehudda; il-Lhudi għandu biss 'Jehosaphat għaxra vapuri', bla verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ships of Tarshish",
+      "rationale": "תרשיש hawnnett mhux post imma tip ta' vapur tal-merkanti, bħal 'vapuri ta' Tarshish'"
+    }
+  ],
+  "translation": "Jehosaphat ⟨made⟩ ten ships of Tarshish to go to Ophir for the gold, but they did not go, for the ships were broken at Etsjon-Geber.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/49-52.1792610056189.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosaphat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "għaxra"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "vapuri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ta' Tarshish"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "biex imorru"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "Ophir"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "għad-deheb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mortx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "inkisru"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "il-vapuri"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "f'Etsjon"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-Geber"
+    }
+  ],
+  "timestamp": "2026-10-21T19:14:16.189868273Z",
+  "model": "glm-5.3"
+}

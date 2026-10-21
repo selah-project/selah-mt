@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħi",
+      "rationale": "נפשי hija n-nifs \/ il-ħajja-ħila, mhux 'ruħ' b'sens taljan"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסך",
+      "rationale": "saħfa (thicket) bħala turpija — 'mas-saqaf' (booth) jew 'mat-turpija' skont il-vokaliżżazzjoni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אדדם",
+      "gloss": "inmarsa",
+      "rationale": "jeddadhom 'immexxihom' (KJV) jew 'nimxi bil-mod magħhom' (YLT)"
+    }
+  ],
+  "translation": "Dawn iniftakru, u nixxi ruħi fuqi, għax kont niċċaqlaq mat-turpija, inmarsa magħhom sa dar Elohim, b'leħen għajt ta' ferħ u radd il-ħajr, folkom jonfoħ il-festa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/42\/5-8.1792617084960.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "iniftakru"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "u nixxi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "niċċaqlaq"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "mat-turpija"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "inmarsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "b'leħen"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "għajt ta' ferħ"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "u radd il-ħajr"
+    },
+    {
+      "surface": "המון",
+      "gloss": "folkom"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "jonfoħ il-festa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:11:24.962230513Z",
+  "model": "glm-5.3"
+}

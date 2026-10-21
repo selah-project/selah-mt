@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "Tora Miż-Tabella D2 — mhux 'liġi' waħedha"
+    },
+    {
+      "kind": "alternative",
+      "subject": "għal dejjem u għal kull żmien",
+      "rationale": "l-Iterazzjoniżm doppju Lhudi לעולם ועד jinżamm b'żewġ frażijiet Maltin differenti"
+    }
+  ],
+  "translation": "U nserraħ Tora tiegħek dejjem, għal dejjem u għal kull żmien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/41-44.1792618027486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "U nserraħ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora tiegħek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u għal kull żmien"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:07.487499603Z",
+  "model": "glm-5.3"
+}

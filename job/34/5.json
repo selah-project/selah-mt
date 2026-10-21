@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "t-tsedeq",
+      "rationale": "צדקתי huwa verb — 'jien tjeddakt' — mhux isem; it-traduzzjoni tuża n-nom għall-firxa Maltija"
+    },
+    {
+      "kind": "crux",
+      "subject": "El",
+      "rationale": "ואל jista' jkun ukoll 'u Alla' jew 'u El'; hawn El bħala isem ta' Alla"
+    }
+  ],
+  "translation": "Għaliex Ijov qal: Jien għandi t-tsedeq jiena, u El neħħa ⟨lil⟩ ġudizzju tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7f6ee47fd518beff898ee7d1dbb6a3cb2a864ea3644c6a9e6edb1641655b24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/34\/5-8.1792619684801.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "jien għandi t-tsedeq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "neħħa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ġudizzju tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:54:44.801502470Z",
+  "model": "glm-5.3"
+}

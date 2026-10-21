@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש mhux 'ruħ' fil-ħsieb Grieg; hija l-ħajja\/nifs, iżda 'ruħu' huwa l-eqreb fil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "'imma' (KJV) jew 'biss\/immedjatament' (BSB) — hawn ifisser 'tagħna biss'"
+    }
+  ],
+  "translation": "Mmixi ġismu fuqu jweġġa', u ruħu fuq tiegħu tibki.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/14\/21-22.1792619328134.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mmixi"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ġismu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "jweġġa'"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "u ruħu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "tibki"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:48.135373103Z",
+  "model": "glm-5.3"
+}

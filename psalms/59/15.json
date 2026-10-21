@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bħall-klieb",
+      "rationale": "Il-Lhudi għandu singular b'xibha 'bħal il-kelb'; il-Malti jippreferi plural 'bħall-klieb'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "joħorgu l-ħsejjes",
+      "rationale": "המה = tagħmel ħoss qawwi, ġelejjes (bħal 'hum'); l-ewwel kelma hija eku"
+    }
+  ],
+  "translation": "U jerġgħu lura fi żmien inżul ix-xemx, joħorgu l-ħsejjes bħall-klieb, u jduru madwar il-belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/13-16.1792617213404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "u jerġgħu lura"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "fi żmien inżul ix-xemx"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "joħorgu l-ħsejjes"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "bħall-klieb"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "u jduru"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "madwar il-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:33.405796031Z",
+  "model": "glm-5.3"
+}

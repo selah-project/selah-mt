@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ġid",
+      "rationale": "חיל jiżżerżaq 'saħħa, armata, ġid' — hawn il-ġid u r-riżorsi ta' Damasku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "qabel ma jkun jaf it-tifel",
+      "rationale": "Skadenza mqies t-triq tat-tifel: il-waqgħa ta' Damasku u Samerja seħħet qabel ma jkellmu."
+    }
+  ],
+  "translation": "Għax qabel ma jkun jaf it-tifel isejjaħ 'missieri' u 'ommi', jinġabar ⟨את⟩ il-ġid ta' Damasku u ⟨את⟩ l-għanid ta' Samerja quddiem ir-re ta' Assur.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/8\/1-4.1792611009553.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "qabel ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jkun jaf"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "isejjaħ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "missieri"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "u ommi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "jinġabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġid ta' Damasku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "il-ġid"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ta' Damasku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-għanid ta' Samerja"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "l-għanid"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ta' Samerja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ta' Assur"
+    }
+  ],
+  "timestamp": "2026-10-21T19:30:09.554677459Z",
+  "model": "glm-5.3"
+}

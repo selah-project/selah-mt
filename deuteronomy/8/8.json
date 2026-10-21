@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "דבש",
+      "rationale": "'għasel' could be date syrup; bees' honey vs fruit honey debated"
+    },
+    {
+      "kind": "measurement",
+      "subject": "the seven species",
+      "rationale": "catalogue list — wheat, barley, vine, fig, pomegranate, olive, honey — a counted inventory of the land's produce"
+    }
+  ],
+  "translation": "art ta' qamħ u xgħir, ta' dwieli, siġar tat-tin u r-rummien; art taż-żebbuġ għall-żejt u għall-għasel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/8\/5-8.1792605461466.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ta' qamħ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "u xgħir"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ta' dwieli"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "siġar tat-tin"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "u r-rummien"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "זית",
+      "gloss": "taż-żebbuġ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "għall-żejt"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "u għall-għasel"
+    }
+  ],
+  "timestamp": "2026-10-21T17:57:41.467597394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ferħ",
+      "rationale": "שמחה huwa ferħ, jiġfreġħ — mhux biss 'divertiment'"
+    },
+    {
+      "kind": "crux",
+      "subject": "raġel f'nuqqas",
+      "rationale": "איש מחסור: 'raġel ta' fqar\/li jkollu nuqqas' vs 'għandu jkun raġel fqir' (KJV 'shall be a poor man')"
+    }
+  ],
+  "translation": "Raġel f'nuqqas ⟨hu⟩ min iħobb il-ferħ; min iħobb l-inbid uż-żejt ma jagħnix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/21\/17-20.1792618823879.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "f'nuqqas"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iħobb"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "il-ferħ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iħobb"
+    },
+    {
+      "surface": "יין",
+      "gloss": "l-inbid"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "uż-żejt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "jagħnix"
+    }
+  ],
+  "timestamp": "2026-10-21T21:40:23.879693178Z",
+  "model": "glm-5.3"
+}

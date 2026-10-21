@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ma'",
+      "rationale": "אֵת hawn mhux is-suq tal-verb izda prepozizzjoni 'ma'' — 'jgħixu ma' wliedhom'"
+    },
+    {
+      "kind": "crux",
+      "subject": "jgħixu ma' wliedhom",
+      "rationale": "וְחָיו אֶת בְּנֵיהֶם: 'jgħixu flimkien ma' wliedhom' vs qari b'suffiss 'jħajju lil wliedhom'"
+    }
+  ],
+  "translation": "U nzerragħuhom fost l-illat, u f'postijiet imbiegħda jiftakruni, u jgħixu ⟨את⟩ wliedhom u jirgħu lura.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/10\/9-12.1792616275726.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "U nzerragħuhom"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "fost l-illat"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "f'postijiet imbiegħda"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "jiftakruni"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "u jgħixu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wliedhom"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wliedhom"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "u jirgħu lura"
+    }
+  ],
+  "timestamp": "2026-10-21T20:57:55.726944510Z",
+  "model": "glm-5.3"
+}

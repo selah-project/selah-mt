@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 23:31",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "במספר",
+      "rationale": "The offerings are counted 'by number' — fixed quantities prescribed for each occasion."
+    },
+    {
+      "kind": "substitution",
+      "subject": "olot",
+      "rationale": "עלה 'that which ascends' rendered by the Hebrew-near term 'olot' rather than a descriptive phrase like 'offerti maħruqa'."
+    }
+  ],
+  "translation": "u għal kull tqarbin ta' olot lil Jaħwe, għas-Xabbat, għall-qmura l-ġodda u għall-festi stabbiliti, bin-numru skont id-dritt fuqhom, dejjem quddiem Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0d772bfcf9d05736f658d94022b6aa3f3b37bf8b88559b5e7a8a27a937ede37f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/23\/30-31.1792624027722.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "u għal kull"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "tqarbin ta'"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "olot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "לשבתות",
+      "gloss": "għas-Xabbat"
+    },
+    {
+      "surface": "לחדשים",
+      "gloss": "għall-qmura l-ġodda"
+    },
+    {
+      "surface": "ולמעדים",
+      "gloss": "u għall-festi stabbiliti"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bin-numru"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "skont id-dritt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:07.723335233Z",
+  "model": "glm-5.3"
+}

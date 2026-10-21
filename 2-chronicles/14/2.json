@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-pilastri",
+      "rationale": "המצבות litteralment 'ħaġa mwaqqfa' — kolonna jew ġeġa commemorative, mhux biss statwa."
+    },
+    {
+      "kind": "elision",
+      "subject": "l-bamot",
+      "rationale": "הבמot ma ntlaħaqx b'את hawn; il-kelma ma tradottiex b'referenza għal 'postijiet imtieħen' iżda żżomm il-ħoss Lhudi."
+    }
+  ],
+  "translation": "U neħħa ⟨את⟩ l-artalji tal-barranin u l-bamot, u kisir ⟨את⟩ il-pilastri, u qata' ⟨את⟩ l-Axerim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/14\/1-4.1792622465860.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "neħħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artalji tal-barranin"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "l-artalji"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tal-barranin"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "u l-bamot"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "kisir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-pilastri"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "il-pilastri"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-Axerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "l-Axerim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:41:05.860898388Z",
+  "model": "glm-5.3"
+}

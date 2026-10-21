@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi m'għandux verbi; il-kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "you",
+      "subject": "lil niesu",
+      "rationale": "Paġnu j indirizza lil-nies ta-negus"
+    },
+    {
+      "kind": "alternative",
+      "subject": "minna",
+      "rationale": " ממנו jista' jkun 'minna' jew 'minnu'; il-kuntest tal-frugħ tal-negus jagħti 'minna'"
+    }
+  ],
+  "translation": "U qal lil niesu: Ara, nies ulied Jisrael hija ħafna u aktar b'saħħitha minna.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/1\/9-12.1792599129370.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niesu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nies"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "u aktar b'saħħitha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minna"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:09.370841621Z",
+  "model": "glm-5.3"
+}

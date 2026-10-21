@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jidħol bir-roqdan",
+      "rationale": "menaggeaħ iffisser litteralment 'joħroġ bil-qrun' bħal muntun; l-azzjoni tal-bhejjem ma għandha kelma Maltija waħda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lejn il-punent u t-tramuntana u n-nofsinhar",
+      "rationale": "tmaha vetsafonah venegvah — tliet direzzjonijiet bla levant, għax il-muntun ġej mil-lvant (il-vers li jmiss)"
+    }
+  ],
+  "translation": "Rajt ⟨את⟩ il-muntun jidħol bir-roqdan lejn il-punent, u t-tramuntana, u n-nofsinhar; u l-ebda bhejjem ma jistgħu jweqfu quddiemu, u ma kienx hemm min jifdiħ minn idu; u għamel kif ried, u kabbar ruħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4b390c126b9535d7d900cbb846e7bdda8a37adcb9c03d7bcaa6efbb120c83107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/8\/1-4.1792620890359.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Rajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-muntun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il-muntun"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "jidħol bir-roqdan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-punent"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "u t-tramuntana"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "u n-nofsinhar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-ebda"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "bhejjem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "jistgħu jweqfu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u ma kienx hemm"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "min jifdiħ"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "minn idu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "kif ried"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "u kabbar ruħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:14:50.360571628Z",
+  "model": "glm-5.3"
+}

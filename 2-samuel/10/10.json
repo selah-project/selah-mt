@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dan",
+      "rationale": "soggett miżjud bil-Malti għall-verb ויערך, li jaqbeż lill-Abixaj"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'f'id' — idjom Semitiku għal 'taħt il-kmand ta', miżmum litteralment"
+    }
+  ],
+  "translation": "U ⟨את⟩ l-baqija tan-nies ta f'id Abixaj ħuh, u dan ordnihom f'riljieħ quddiem wlied Għammon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/10\/9-12.1792608673882.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-baqija tan-nies"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "l-baqija"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tan-nies"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'id"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abixaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "u ordnihom"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "f'riljieħ quddiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Għammon"
+    }
+  ],
+  "timestamp": "2026-10-21T18:51:13.883247970Z",
+  "model": "glm-5.3"
+}

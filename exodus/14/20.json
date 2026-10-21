@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ post għal 'u sar is-sħab u d-dlam' biex il-frasa tifhim"
+    },
+    {
+      "kind": "crux",
+      "subject": "is-sħab u d-dlam",
+      "rationale": "għal min kien id-dlam u għal min id-dawl? il-Lhudi jgħid biss 'saret is-sħab u d-dlam, u dawwal il-lejl' — il-KJV iżid 'għalihom\/għal dawn'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויאר \/ הלילה",
+      "rationale": "'u dawwal il-lejl' — id-dawl u d-dlam jiltaqgħu fl-istess sħaba: paradosu li jibqa' miftuħ"
+    }
+  ],
+  "translation": "U daħal bejn il-kamp tal-Mitsrijin u bejn il-kamp ta' Jisrael, u sar hemm is-sħab u d-dlam, u dawwal ⟨את⟩ il-lejl, u dak ma qorobx lejn dak il-lejl kollu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/14\/17-20.1792599588816.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "U daħal"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "tal-Mitsrijin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "il-kamp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u sar"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "is-sħab"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "u d-dlam"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "u dawwal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-lejl"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "il-lejl"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "u dawwal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "qorobx"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "lejl kollu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:19:48.817584268Z",
+  "model": "glm-5.3"
+}

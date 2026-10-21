@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-istatwi",
+      "rationale": "מצבות = ġebel wieqaf, kolonni; 'istatwi' iżomm il-pożitura tal-ġebla bil-wieqfa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-axerim",
+      "rationale": "האשרים isem proprju tal-alla Axera u l-arbli tagħha; ma jittraduċix b''siġar'"
+    }
+  ],
+  "translation": "U kisir ⟨את⟩ l-istatwi, u qata' ⟨את⟩ l-axerim, u mela ⟨את⟩ il-postijiet tagħhom b'għadam ta' bniedem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c7181d931840394dcd83a87bd06ca5d981d933ea47b0b9bb94f7c1ccd29bf53f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/13-16.1792610849341.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "U kisir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-istatwi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "l-istatwi"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "u qata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-axerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "l-axerim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "u mela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-postijiet tagħhom"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "il-postijiet tagħhom"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "għadam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ta' bniedem"
+    }
+  ],
+  "timestamp": "2026-10-21T19:27:29.344369294Z",
+  "model": "glm-5.3"
+}

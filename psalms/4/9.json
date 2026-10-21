@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בשלום יחדו",
+      "rationale": "litteralment 'f'paċi flimkien' — jaħsilha ġibda ta' moħġa waħda ta' mistrieħ, mhux biss ħolm indipendenti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "b'ħelsien",
+      "rationale": "לבטח huwa 'kenn sigur' — il-Malti jieħu l-fatt, mhux il-post"
+    },
+    {
+      "kind": "crux",
+      "subject": "waħdek",
+      "rationale": "לבדד jista' jfisser 'waħdek' (KJV, ASV) jew 'tolqotni waħli' (JPS 'alone'); ħriġt ma' l-ewwel taħriġ"
+    }
+  ],
+  "translation": "Fil-ġemgħa ta' paċi nnifsu nmintor, u norqod; għaliex int, Jaħwe, waħdek, b'ħelsien twassanni biex noqgħod.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1814adc919befac7216545885acbe320f7d614af3de7993ff831b253c13f3c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/4\/9-9.1792616485492.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "fil-ġemgħa ta' paċi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nnifsu"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "nmintor"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "u norqod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "waħdek"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "b'ħelsien"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "twassanni biex noqgħod"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:25.493025743Z",
+  "model": "glm-5.3"
+}

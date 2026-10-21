@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasi",
+      "rationale": "נשיא — 'nasi', mexxej eżaltat, mhux 'prìncip' sempliċement."
+    },
+    {
+      "kind": "measurement",
+      "subject": "camp layout",
+      "rationale": "Pożizzjoni spazjali eżatta: il-Lvant, lejn ix-xemx, taħt il-bandiera ta' Jehuda."
+    },
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "Verbu kopulattiv miżjud bil-Malti għal ונשיא bla verbu."
+    }
+  ],
+  "translation": "U dawk li jikkampjaw fil-Lvant, lejn fejn tinżel ix-xemx filgħodu, huma taħt il-bandiera tal-kamp ta' Jehuda skont il-ġemgħat tagħhom; u n-nasi tal-wlied ta' Jehuda huwa Naħxon bin Amminadav.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "67ea8d55c4d98711b0aecf04bcec4e41108230a0ec21729a4f61efa4f99beeff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/2\/1-4.1792602349176.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "u dawk li jikkampjaw"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "fil-Lvant"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "lejn fejn tinżel ix-xemx filgħodu"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "il-bandiera"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tal-kamp"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "skont il-ġemgħat tagħhom"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "u n-nasi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tal-wlied"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naħxon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    }
+  ],
+  "timestamp": "2026-10-21T17:05:49.178649454Z",
+  "model": "glm-5.3"
+}

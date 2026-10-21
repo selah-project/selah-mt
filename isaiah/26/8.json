@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hemm⟩",
+      "rationale": "Il-Lhudi m'għandux verbu 'to be'; il-Malti jeħtieġ 'hemm' għas-sentenza nomina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש hija ħajja\/nifs\/appett, mhux 'ruħ' fil-mawħud astratt — 'nifs' żomm il-ħoss u l-qrib."
+    }
+  ],
+  "translation": "Anki fit-triq tal-ġudizzji tiegħek, Jaħwe, stennejnieħek; lejn ismek u lejn il-ftakar tiegħek ⟨hemm⟩ x-xewqa tan-nifs.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/26\/5-8.1792611365741.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Anki"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "fit-triq"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tal-ġudizzji tiegħek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "stennejnieħek"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lejn ismek"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "u lejn il-ftakar tiegħek"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "x-xewqa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tan-nifs"
+    }
+  ],
+  "timestamp": "2026-10-21T19:36:05.742791666Z",
+  "model": "glm-5.3"
+}

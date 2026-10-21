@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחת לו לא בניו מומם",
+      "rationale": "Sintassi milsuna: 'ħsaru lilhom infushom \/ mhux uliedu, id-difett tagħhom' vs 'il-ħsara mhux tiegħu, iżda ta' wliedu' (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש ופתלתל",
+      "rationale": "Żewġ kliem għal mgħawġ\/tortuż — alliterazzjoni ta' tkabbage li tinżalet għal darba"
+    }
+  ],
+  "translation": "Ħsartu lejh, mhux uliedu, biċċa tagħhom; ġenerazzjoni mgħawġa u mbiegħda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/32\/5-8.1792606072455.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ħsartu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lejh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uliedu"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "biċċa tagħhom"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ġenerazzjoni"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "mgħawġa"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "u mbiegħda"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:52.456443707Z",
+  "model": "glm-5.3"
+}

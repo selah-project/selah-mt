@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "daħal għand",
+      "rationale": "בוא אל ewfemiżmu għas-sess; litteralment 'daħal għand'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Is-suġġett (Abram) mhux fil-Lhudi; miżjud bir-reqqa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרתה…ותקל",
+      "rationale": "Ripetizzjoni ta' 'ħatet' u l-kuntrast ma' 'ħafifa' (ויקל, to make light) — Sarai saret 'ħafifa', jiġifieri meqjusa b'xejn"
+    }
+  ],
+  "translation": "U ⟨hu⟩ daħal għand Hagar, u hi ħatet; u rat li kienet ħatet, u siditha saret ħafifa f'għajnejha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "813a5638abccfd29b184ac90cd4ab92f1c74d575e87b148b519fddf9b8970ee2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/16\/1-4.1792598068788.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "U daħal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "u ħatet"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "u rat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "kienet ħatet"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "u saret ħafifa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "siditha"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "f'għajnejha"
+    }
+  ],
+  "timestamp": "2026-10-21T15:54:28.789459923Z",
+  "model": "glm-5.3"
+}

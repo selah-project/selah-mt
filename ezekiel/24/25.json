@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 24:25",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משא נפשם",
+      "rationale": "litteralment 'il-piż ta' ruwaħthom'; LXX\/Qumran jissuġġerixxu 'il-kantriena ta' ruwaħthom' (משאת)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן אדם",
+      "rationale": "'iben adam'żomm it-tifsira litterali 'iben bniedem' mhux titlu"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-profeta Jħeżqel",
+      "rationale": "Ġeħwekel jitkellem ma' Ħezqe'il b'nofs leħnu"
+    }
+  ],
+  "translation": "U int, iben adam, mela fil-ġurnata li nieħu minnhom ⟨את⟩ il-fortizza tagħhom, il-ferraħ tal-għeruq tagħhom, ⟨את⟩ id-desiderju ta' għajnejhom u ⟨את⟩ il-piż ta' ruwaħthom, uliedhom u bniethom —",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "aee37606ced6680217e51216b957dfb27a704d1575e3d6e77ea11b2c74cfe485",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/24\/25-27.1792614668781.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "U int"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-ġurnata"
+    },
+    {
+      "surface": "קחתי",
+      "gloss": "nieħu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "minnhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-fortizza tagħhom"
+    },
+    {
+      "surface": "מעוזם",
+      "gloss": "il-fortizza tagħhom"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "il-ferraħ"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "tal-għeruq tagħhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-desiderju ta' għajnejhom"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "id-desiderju"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ta' għajnejhom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-piż ta' ruwaħthom"
+    },
+    {
+      "surface": "משא",
+      "gloss": "il-piż"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ta' ruwaħthom"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "uliedhom"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "u bniethom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:31:08.781933181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 5:8",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tagħhom \/ kienu qed",
+      "rationale": "il-Lhudi m'għandux il-pronom għal כנפים uż il-progressiv; miżjuda bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aron",
+      "rationale": "הארון huwa 'kaxxa' — miżmum qrib il-ħoss Lhudi bħala 'aron' mhux tradott"
+    },
+    {
+      "kind": "alternative",
+      "subject": "פרשים",
+      "rationale": "l-għerq jfisser 'ifrex\/frakk' — 'jifrexu' għall-ġwienaħ; alternattiva 'jiftħu' (viżjoni ta' fdil)"
+    }
+  ],
+  "translation": "U l-ħerubin kienu qed jifrexu l-ġwienaħ tagħhom fuq il-post ta' l-aron, u l-ħerubin għattew l-aron u l-vireg tiegħu minn fuq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d195f0caaacd72a35d612f60ff83fa8b81098f1780b946360ad0cf5849462e2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/5\/8-8.1792624008201.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "l-ħerubin"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "jifrexu"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ġwienaħ"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "il-post"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ta' l-aron"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "u għattew"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "l-ħerubin"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l-aron"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "l-vireg tiegħu"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "minn fuq"
+    }
+  ],
+  "timestamp": "2026-10-21T23:06:48.202272794Z",
+  "model": "glm-5.3"
+}

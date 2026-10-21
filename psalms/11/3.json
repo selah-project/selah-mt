@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "x'għandu jagħmel il-ġust",
+      "rationale": "מה־פעל: 'x'nista' jagħmel il-ġust?' (tradizzjonali) kontra 'x'għamel il-ġust?' (jiddikjara innoċenza, bħal YLT u JPS)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Meta jinħarmu",
+      "rationale": "כי jista' jkun ukoll 'għax' — l-għajbuna tal-pedamenti bħala raġuni għall-parir tal-ħarba"
+    }
+  ],
+  "translation": "Meta jinħarmu l-pedamenti, x'għandu jagħmel il-ġust?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/11\/1-4.1792616679507.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Meta"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "l-pedamenti"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "jinħarmu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-ġust"
+    },
+    {
+      "surface": "מה",
+      "gloss": "x'"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "għandu jagħmel"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:39.508836337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוממה",
+      "rationale": "'Is exalted' (passive participle) vs 'has exalted me' — some versions (LXX-influenced) read a transitive sense, 'the right hand of Jaħwe has lifted me up'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימין יהוה",
+      "rationale": "The phrase 'the right hand of Jaħwe' repeats across vv. 15–16 three times — a refrain structure Maltese keeps through verbatim repetition."
+    }
+  ],
+  "translation": "Il-lemin ta' Jaħwe mgħollija, il-lemin ta' Jaħwe jagħmel b'saħħtu!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/118\/13-16.1792618017680.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "il-lemin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "mgħollija"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "il-lemin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jagħmel"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'saħħtu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:57.681197369Z",
+  "model": "glm-5.3"
+}

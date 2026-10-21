@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 19:28",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "X'nsegwuhlu",
+      "rationale": "מַה נִּרְדָּף לוֹ: 'għaliex inħarbu hielu' (Geneva, l-għadu ta' qabel) jew 'ejjew nsegwuh' (imperattiv propositu, KJV\/ASV) — il-parsing tal-passiv\/in attiv jibdel s-sens."
+    },
+    {
+      "kind": "addition",
+      "subject": "Jekk",
+      "gloss": "כִּי hawn jiftaħ kundizzjonali ('jekk tgħidu...') mhux sempliċiment 'għaliex'."
+    },
+    {
+      "kind": "you",
+      "subject": "lill-ħbieb ta' Ġob",
+      "rationale": "Indirizz dirett lill-ħbieb li jippruvaw jaraw il-ħtija f'Ġob."
+    }
+  ],
+  "translation": "Jekk tgħidu: X'nsegwuhlu? Għaliex għerq ta' kelma jinstab fija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/19\/25-28.1792619401535.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jekk"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "tgħidu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "X'"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "nsegwuhlu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "Għaliex għerq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ta' kelma"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "jinstab"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:50:01.536932227Z",
+  "model": "glm-5.3"
+}

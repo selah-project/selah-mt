@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tqil",
+      "rationale": "כבד litteralment 'tqil', użat hawn għalġuħ qalil qħieħed"
+    }
+  ],
+  "translation": "U l-ġuħ tqil fl-art.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/43\/1-4.1792598952503.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "il-ġuħ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tqil"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    }
+  ],
+  "timestamp": "2026-10-21T16:09:12.503911284Z",
+  "model": "glm-5.3"
+}

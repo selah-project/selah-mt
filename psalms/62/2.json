@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "in-nifs",
+      "rationale": "נפש hija nifs \/ ħajja, mhux 'ruħ' fl-isir platoniku"
+    },
+    {
+      "kind": "addition",
+      "subject": "ġej",
+      "routine": "il-Lhudi m'għandux verb 'jkun' hawn",
+      "rationale": "il-Lhudi m'għandux verb 'jkun' hawn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דומיה",
+      "rationale": "l-istess għerq ta' skiet jiekber fil-psalm kollu (dumiyah\/domam) — il-ħemda quddiem Elohim"
+    }
+  ],
+  "translation": "Biss, għal Elohim in-nifs tiegħi tiskiet; mingħandu ⟨ġej⟩ l-ħelsien tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/62\/1-4.1792617265806.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Biss"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tiskiet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "in-nifs tiegħi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mingħandu"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "l-ħelsien tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:25.806779151Z",
+  "model": "glm-5.3"
+}

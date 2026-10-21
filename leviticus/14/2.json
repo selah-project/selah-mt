@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiġ",
+      "rationale": "il-passiv Malti jeħtieġ verhu awżiljari; il-Lhudi għandu passiv semitiku wieħed והובא"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imsaħħar",
+      "rationale": "המצרע qarib tal-għerq 'sħiħ\/saħħa' — l-imsaħħar minn צרעת, mhux sempliċiment 'il-barrani'"
+    }
+  ],
+  "translation": "Din tkun it-Tora ta' l-imsaħħar, fin-jum tat-tindif tiegħu, u ⟨jiġ⟩ mdaħħal għand il-qassis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/1-4.1792600784537.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tkun"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "it-Tora"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "ta' l-imsaħħar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fin-jum"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "tat-tindif tiegħu"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "u jiġ mdaħħal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    }
+  ],
+  "timestamp": "2026-10-21T16:39:44.538330551Z",
+  "model": "glm-5.3"
+}

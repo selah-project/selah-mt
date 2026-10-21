@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "quddiemu",
+      "rationale": "לפניו litteralment 'faċċata tiegħu', maħduma bħala 'quddiemu'"
+    },
+    {
+      "kind": "elision",
+      "subject": "fil-Miqdes",
+      "rationale": "l-artiklu Malti 'il-' jittraduċi l-artiklu Lhudi ה, mhux immarkat"
+    }
+  ],
+  "translation": "Hod u hadar quddiemu; għoz u tiferet fil-Miqdes tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "72f5ff8127472c491dce64c7cac825dd622d4f8a5ba419a17768a5b6b7ee6d9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/96\/6-7.1792623792708.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Hod"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "u hadar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "għoz"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "u tiferet"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "fil-Miqdes tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:12.708561805Z",
+  "model": "glm-5.3"
+}

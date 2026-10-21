@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ġenealoġija",
+      "rationale": "lista ta' ismijiet tan-nisel tas-saċerdoti"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוליד",
+      "rationale": "it-tielet klausola tonqos il-verb — il-Lhudi jirrepeti biss darbtejn, u t-tielet darba jħalli l-verb mhux mitkelllem"
+    }
+  ],
+  "translation": "U Jixwa ġib ⟨את⟩ Jojakim, u Jojakim ġib ⟨את⟩ Eljaxiv, u Eljaxiv ⟨את⟩ Jojada.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/12\/9-12.1792621582150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "U Jixwa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ġib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "u Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ġib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljaxiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljaxiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "u Eljaxiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    }
+  ],
+  "timestamp": "2026-10-21T22:26:22.150811982Z",
+  "model": "glm-5.3"
+}

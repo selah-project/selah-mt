@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tletin u tnejn sultan",
+      "rationale": "L-għadd tas-slattniet alleati ma' Ben-Hadad iservi bħala għadd strutturali fil-ġrajja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שכור",
+      "rationale": "'xorb saħan' għal 'intoxicated' — l-istat ta' min xorob wisq, mhux sempliċiment 'ixrob'."
+    }
+  ],
+  "translation": "U ħarġu fin-nofs in-nhar; u Ben-Hadad kien qed jixrob xorb saħan fil-għorrief, hu u s-slattniet — tletin u tnejn sultan — li kienu jgħinuh ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e103acdd39ddccaaf50c4e922632ef9e94a61497601bcceb98bdd7ca5703183",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/20\/13-16.1792609953603.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "U ħarġu"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "fin-nofs in-nhar"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "u Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "kien qed jixrob"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "xorb saħan"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "fil-għorrief"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "u s-slattniet"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tletin"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "u tnejn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "li kienu jgħinuh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-10-21T19:12:33.604295484Z",
+  "model": "glm-5.3"
+}

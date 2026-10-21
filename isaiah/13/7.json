@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "idejn jdumu",
+      "rationale": "Id-dwal Lhudi għal biża' u dgħufija — l-idejn jitfgħu saqajhom."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mortali",
+      "rationale": "אנוש tfisser bniedem bħala mortal, friħ, mhux sempliċement 'raġel'."
+    }
+  ],
+  "translation": "Għalhekk idejn kollha se jdumu dgħjufa, u kull qalb ta' mortali se tdub.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f6410302172dcf66097e8343d4f9a4b3a9565c4c1b0e3894d06fe10605cb1ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/13\/5-8.1792611130036.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "se jdumu dgħjufa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ta' mortali"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "se tdub"
+    }
+  ],
+  "timestamp": "2026-10-21T19:32:10.036939440Z",
+  "model": "glm-5.3"
+}

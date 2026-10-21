@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebgħin nifs",
+      "rationale": "l-għadd ta' sebgħin huwa magħdud b'mod sħiħ, bħall-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifs",
+      "rationale": "נפש tfisser iktar 'ħajja\/nifs li jieħu nifs' milli 'ruħ' għal kull bniedem"
+    }
+  ],
+  "translation": "U kollha kemm hi ta' nifs li ħarġu minn koxxa Jagħaqov ⟨kienu⟩ sebgħin nifs; u Jusef kien f'Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/1\/5-8.1792599140383.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U sar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha kemm hi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "li ħarġu"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "minn koxxa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebgħin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nifs"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "u Jusef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kien"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:20.383792730Z",
+  "model": "glm-5.3"
+}

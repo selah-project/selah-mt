@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבעה \/ שבע",
+      "rationale": "isem il-bir Iseba jirriflessi f'isem il-belt Baer-Seba — il-logħba tal-kliem ma titleqx bil-Malti"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "gloss": "il-markatur ta' oġġett dirett m'għandux ekwivalenti Malti u jinżamm biss bħala ⟨את⟩"
+    }
+  ],
+  "translation": "U sejjaħilha Iseba; għalhekk isem il-belt Baer-Seba, sal-ġurnata ta' llum.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/26\/33-35.1792598309836.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħilha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Iseba"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Iseba"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Baer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il-ġurnata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta' llum"
+    }
+  ],
+  "timestamp": "2026-10-21T15:58:29.836974296Z",
+  "model": "glm-5.3"
+}

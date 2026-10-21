@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקדש",
+      "rationale": "'fil-qaddis' — Hebrew says 'in the holy (place)', adjective used as noun."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תחתיו",
+      "rationale": "Could read 'in his stead' (office succession) rather than spatial 'in his place'."
+    }
+  ],
+  "translation": "Sebat ijiem ilbihsalhom il-kowejn minn uliedu, għall-waqfa f'binth, li jidħol fi ħaxon il-mo'ad biex jaqdi fil-qaddis.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "61ff768f0e41d42f0ce194214e82b726afcc6a7836771006f1c0f7e091784123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/29\/29-32.1792600041591.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Sebat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ijiem"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "ilibeshom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-kowejn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "f'binth"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "minn uliedu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jidħol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "fi ħaxon"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "il-mo'ad"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "biex jaqdi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "fil-qaddis"
+    }
+  ],
+  "timestamp": "2026-10-21T16:27:21.592526887Z",
+  "model": "glm-5.3"
+}

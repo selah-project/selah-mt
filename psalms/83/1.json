@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Mizmor",
+      "rationale": "Il-Malti jippreferi 'Mizmor' qrib ta' מזמור milli 'salma'"
+    }
+  ],
+  "translation": "Taħtija, Mizmor lil Asaf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/83\/1-4.1792617567719.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Taħtija"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "lil Asaf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:27.719675048Z",
+  "model": "glm-5.3"
+}

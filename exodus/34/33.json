@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "velu",
+      "rationale": "מסוה velo; kelma rari — forsi mhux velu sħiħ imma tip ta' għatta fuq il-wiċċ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסוה",
+      "rationale": "Kelma li tidher kważi biss f'dan il-passaġġ (Eżodu 34)"
+    }
+  ],
+  "translation": "U Moxe lesta' jitkellem ⟨את⟩ magħhom, u poġġa velu fuq wiċċu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/34\/33-35.1792600148872.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "lesta'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jitkellem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ magħhom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wiċċu"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "velu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:29:08.873448236Z",
+  "model": "glm-5.3"
+}

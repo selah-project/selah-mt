@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kirjat-Arba'",
+      "rationale": "Isem il-post ma jiġix tradott, anke jekk jfisser 'belt ta' erba''; il-verseż tammetti li hi Ħevron."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hi⟩",
+      "rationale": "הוא pronunzju emphatiku 'hi\/dak'; il-Malti jtejjeb il-plate b'kopula żgħira fil-parentesi."
+    }
+  ],
+  "translation": "U mietet Sara f'Kirjat-Arba', hi ⟨hi⟩ Ħevron, fl-art ta' Kenaan; u daħal Avraham biex ilmenta lil Sara u biex ibkiha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "76da426a409e03a75f5be6fde419f10f5bd6faa6bc76dfdaa3ff6fd250d0df6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/23\/1-4.1792598191401.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "U mietet"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "f'Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba'"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ħevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ta' Kenaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "u daħal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "biex ilmenta"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "lil Sara"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "u biex ibkiha"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:31.402566100Z",
+  "model": "glm-5.3"
+}

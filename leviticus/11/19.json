@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסידה",
+      "rationale": "iċ-ċikun isejjaħ mill-għerq חסד 'ħesed' — l-għasfur tal-ħniena; it-traduzzjoni tagħti l-isem biss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האנפה",
+      "rationale": "sors mhux ċert: 'heron' (ħafna) kontra 'parrot'; rużżun magħżul skond il-maġġoranza"
+    }
+  ],
+  "translation": "u ⟨את⟩ iċ-ċikun, ir-rużżun skont is-sorta tagħha, u ⟨את⟩ il-punpe u ⟨את⟩ il-farfett il-lejl",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/17-20.1792600666738.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "iċ-ċikun"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "iċ-ċikun"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ir-rużżun"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "skont is-sorta tagħha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-punpe"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "il-punpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-farfett il-lejl"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "il-farfett il-lejl"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:46.739125934Z",
+  "model": "glm-5.3"
+}

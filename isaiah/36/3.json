@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 36:3",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-kopula miżjuda għar-relattiv אשר על הבית"
+    },
+    {
+      "kind": "substitution",
+      "subject": "l-għaref li jiftakar",
+      "rationale": "המזכיר mill-għerq זכר 'jiftakar', officju tal-qorti; 'recorder' titlu, mhux traduzzjoni litterali"
+    }
+  ],
+  "translation": "U ħareġ lejh Eljaqim iben Ħilqijahu, li kien fuq id-dar, u Xevna l-kittieb, u Joaħ iben Asaf, l-għaref li jiftakar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/36\/1-4.1792611591912.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "u ħareġ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lejh"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljaqim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Ħilqijahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "u Xevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "il-kittieb"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "u Joaħ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "l-għaref li jiftakar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:39:51.914314117Z",
+  "model": "glm-5.3"
+}

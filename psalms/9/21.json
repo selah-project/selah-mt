@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "morah: 'terror\/fear' (KJV, JPS) vs 'director\/lawgiver' (YLТ, Wycliffe) — same consonants מורה\/מורא."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bijiedem",
+      "rationale": "enosh is 'mortal' (human in its frailty), not merely 'man' (ish)."
+    }
+  ],
+  "translation": "Poġġi ħasha fuqhom, Jaħwe; jafu l-ġnus li huma ⟨bijiedem⟩ mortali biss. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/21-21.1792616482592.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Poġġi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ħasha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "l-ġnus"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortali"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:22.592927964Z",
+  "model": "glm-5.3"
+}

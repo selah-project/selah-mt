@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "kopula miżjuda bil-Malti, mhux fil-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bħal ftit",
+      "rationale": "כמעט: 'ta' ftit (valur)' — it-test jgħid 'bħal ftit', mhux 'ta' xejn'"
+    }
+  ],
+  "translation": "Fidda maħtura ⟨hi⟩ lsien il-ġust, u qalb il-ħżiena bħal ftit.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/10\/17-20.1792618527294.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Fidda"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "maħtura"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lsien"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-ġust"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "il-ħżiena"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bħal ftit"
+    }
+  ],
+  "timestamp": "2026-10-21T21:35:27.294853161Z",
+  "model": "glm-5.3"
+}

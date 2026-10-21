@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 3:27",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "taħt il-ħames dilq",
+      "rationale": "החמש: 'il-ħames dilq' (KJV) kontra 'l-ġuf\/żaqq' (ASV) kontra 'il-qxor' (JPS) — it-terminu huwa mhux ċar."
+    },
+    {
+      "kind": "elision",
+      "subject": "עשהאל",
+      "rationale": "l-isem maqsum f'żewġ tokens fil-konsonanti mnejn (עשה + אל) iżda huwa isem wieħed."
+    }
+  ],
+  "translation": "U Abner reġa' lura Ħevron, u Joab miegħu 'l bogħod lejn nofs il-bieb bi jitkellem ⟨את⟩ miegħu f'privat, u laqtet hemm taħt il-ħames dilq, u miet bid-demm ta' Asaħel ħuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/3\/25-28.1792608613471.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "U reġa' lura"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ħevron"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "u miegħu 'l bogħod"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "nofs"
+    },
+    {
+      "surface": "השער",
+      "gloss": "il-bieb"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bi jitkellem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miegħu"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "f'privat"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "u laqtet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "taħt il-ħames dilq"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "u miet"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "bid-demm"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ta' Asaħel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asaħel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ħuh"
+    }
+  ],
+  "timestamp": "2026-10-21T18:50:13.472544736Z",
+  "model": "glm-5.3"
+}

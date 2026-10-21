@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bl-Aramajk",
+      "rationale": "minn hawn it-test jitbidel għall-Aramajk; 'Sirjan' (KJV) jew 'Aramajk' — l-Aramajk huwa l-ktib korrett"
+    },
+    {
+      "kind": "you",
+      "subject": "lis-sultan",
+      "rationale": "appell dirett lill-sultan bil-furmal tar-reġalità: 'Sultan, għix għal dejjem'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "għid il-ħolm",
+      "rationale": "talba imperattiva lis-sultan biex jirrivelax il-ħolm"
+    }
+  ],
+  "translation": "U l-Kasdej tkellmu mas-sultan bl-Aramajk: Sultan, għix għal dejjem; għid il-ħolm lill-qaddejja tiegħek, u aħna nuru t-tifsira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/1-4.1792620600321.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "tkellmu"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "il-Kasdej"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mas-sultan"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "bl-Aramajk"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Sultan"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "għix"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "għid"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "il-ħolm"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "lill-qaddejja tiegħek"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "u t-tifsira"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "nuru"
+    }
+  ],
+  "timestamp": "2026-10-21T22:10:00.322626098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ħgejjeg",
+      "rationale": "Għadd ta' kobbbiet: twil, wiesgħa, għoli tal-artal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kobba",
+      "rationale": "אמה hija miżata mid-driegħ ta' taħt il-minkeb; 'kobba' hija l-kelma Maltija tradizzjonali għal din il-miżata."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kienu ħriegu qrunu",
+      "rationale": "litteralment 'minnu kienu qrunu' — il-qrun kienu parti mill-istess biċċa, mhux imwaħħlin."
+    }
+  ],
+  "translation": "U għamel ⟨את⟩ l-artal tal-inċens, injuż tas-sitta: kobba twila u kobja wiesgħa, kwadru, u żewġ kobbiet għoli; minnu kienu ħriegu qrunu.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "bd2c810335aca2d2e5f8427997d993fb929ade3d899797facc64565fc01a8f1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/37\/25-28.1792600270321.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal tal-inċens"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tal-inċens"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "injuż"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "tas-sitta"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kobba"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "twila"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "u kobba"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "wiesgħa"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kwadru"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "u żewġ kobbiet"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "għoli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "qrunu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:31:10.322126911Z",
+  "model": "glm-5.3"
+}

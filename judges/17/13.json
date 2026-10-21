@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiena",
+      "rationale": "Il-Lhudi m'għandux pronom suġġett ma' ידעתי; miżjud bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għandni",
+      "rationale": "היה לי litteralment 'kien għalija'; bil-Malti 'għandni' torbtu"
+    },
+    {
+      "kind": "crux",
+      "subject": "il-ġid",
+      "rationale": "ייטיב 'se jagħmel il-ġid' kontra 'se tkun tajba għalija' — l-istorja ta' Mika tgħid l-ironija: ġid mistenni minn qassis mqaddes ħażin"
+    }
+  ],
+  "translation": "U Mika qal: Issa jiena naf li Jaħwe se jagħmel il-ġid ⟨lijja⟩, għax għandni l-Levita għall-qassis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a8c22017b420d189d6425421c4bb4f22af68c9d2c1825a073287868a8a2776cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/17\/13-13.1792607283275.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Issa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "se jagħmel il-ġid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lijja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "היה",
+      "gloss": "għandni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "l-Levita"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "għall-qassis"
+    }
+  ],
+  "timestamp": "2026-10-21T18:28:03.275951199Z",
+  "model": "glm-5.3"
+}

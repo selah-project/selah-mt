@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שחר · חרה · חרב",
+      "rationale": "it-tliet kliem kollha għandhom l-għerq Ħ-R\/R: iswed, jaħraq, nixfa — alliterazzjoni ta' deni, li bil-Malti għaddiet b'sewda\/jaħraq\/nixfa."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחר מעלי",
+      "rationale": "KJV 'is black upon me' vs ASV\/JPS 'black and falleth from me' (מעלי bħala 'tgħaddi minni'); hawn l-ewwel qari."
+    }
+  ],
+  "translation": "Ġildemmi għamlet sewda fuqi, u għadmi jaħraq bin-nixfa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eb2982aabea12cbe79d25fa5408aa2a2805943f9bfd7cba084631303bf137639",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/30\/29-31.1792619602924.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "ġildemmi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "għamlet sewda"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "u għadmi"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "jaħraq"
+    },
+    {
+      "surface": "מני",
+      "gloss": "bin-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "nixfa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:22.924866466Z",
+  "model": "glm-5.3"
+}

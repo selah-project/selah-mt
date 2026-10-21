@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויגף",
+      "rationale": "litteralment 'qatbet\/habbet' — verb ta' bnar jikxxaħ, bħal qarn; 'laqtet' ixxekkrek iżda jmiss it-tip ta' ħabta."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאנש",
+      "rationale": "'u sar bla feġġ' (YLT 'incurable') kontra 'u sar marid ħafna' (KJV\/JPS) — l-għerq jfisser fraġli, bla saħħa."
+    }
+  ],
+  "translation": "U Natan mar id-dar tiegħu, u Jaħwe laqtet ⟨את⟩ it-tifel li welldet mart Urjja lil David, u huwa sar bla feġġ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/12\/13-16.1792608798782.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "U mar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "id-dar tiegħu"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "u laqtet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tifel"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "welldet"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mart"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urjja"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "u sar bla feġġ"
+    }
+  ],
+  "timestamp": "2026-10-21T18:53:18.783565929Z",
+  "model": "glm-5.3"
+}

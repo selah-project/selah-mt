@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "il-plural femminili",
+      "rationale": "il-Lhudi juża plural wieħed għal kull ġens; il-Malti jirrepeti l-plural bl-artiklu"
+    },
+    {
+      "kind": "you",
+      "subject": "il-qarrej",
+      "rationale": "rakkont dwar Shelomo, l-ebda indirizz dirett"
+    }
+  ],
+  "translation": "U s-sultan Shelomo ħabb nisa barranin ħafna, u ⟨את⟩ bint Paroh, Moabbitin, Amonitin, Edomitin, Sidonitin, Ħittitin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/1-4.1792609643440.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "u s-sultan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ħabb"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nisa"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "barranin"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bint Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabbitin"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amonitin"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomitin"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidonitin"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Ħittitin"
+    }
+  ],
+  "timestamp": "2026-10-21T19:07:23.440940630Z",
+  "model": "glm-5.3"
+}

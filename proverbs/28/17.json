@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħajja",
+      "rationale": "נפש hija nifs \/ ħajja, mhux ruħ"
+    },
+    {
+      "kind": "crux",
+      "subject": "mgħaffeġ bid-demm",
+      "rationale": "עשק בדם: 'għaffeġ bid-demm' (qatiel mgħatti bid-demm) kontra 'jaqgħad fid-demm' (qatel ta' ħaddieħor); il-Lhudi jġib it-tnejn"
+    }
+  ],
+  "translation": "Bniedem mgħaffeġ bid-demm ta' ħajja jaħrab sa l-fostra, m'għandhomx jżommuh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3181c1b9699163fd3d4412d818a1b05e9d3579f6e99f1224b2187ac140a7f885",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/28\/17-20.1792618964076.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "mgħaffeġ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "bid-demm"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "l-fostra"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "jaħrab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'għandhomx"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "jżommuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-h"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:44.076672569Z",
+  "model": "glm-5.3"
+}

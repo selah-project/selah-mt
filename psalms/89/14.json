@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hemi⟩",
+      "rationale": "il-Lhudi m'għandux verb fil-bidu — kelma Maltija miżjuda biex is-sentenza tiflaħ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għeżżież",
+      "rationale": "גבורה hija 'saħħa, rebħa, valor' — l-istess għerq tal-'għażiż' Malti"
+    }
+  ],
+  "translation": "Lilek ⟨hemi⟩ driegħ m'għeżżież; qawwija jidek, mgħollija leminek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/89\/13-16.1792617667589.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Lilek"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "driegħ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "m'"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "għeżżież"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "qawwija"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jidek"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "mgħollija"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leminek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:21:07.590253086Z",
+  "model": "glm-5.3"
+}

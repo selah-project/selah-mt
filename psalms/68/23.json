@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשיב אשיב",
+      "rationale": "il-verb mrobbi darbtejn — l-istorbju ta' wegħda solenni, ma jgħaddix"
+    },
+    {
+      "kind": "crux",
+      "subject": "mill-fond tal-baħar",
+      "rationale": "ממצלות ים: 'il-fond tal-baħar' metaforiku għall-eżil estrem, mhux baħar fiżiku"
+    }
+  ],
+  "translation": "Adonaj qal: Minn Baxan nerġa' nieħu, erġa' nieħu mill-fond tal-baħar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/68\/21-24.1792617289497.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Minn Baxan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "erġa' nieħu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "erġa' nieħu"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "mill-fond"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tal-baħar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:49.498499802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jżomm",
+      "rationale": "עצר 'jażżen\/jiżżarma' — ingħata bħala żamma tal-ilma, il-bandiera ta' Dewt 6:4 ma tingħatax"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויבשו",
+      "rationale": "l-istess għerq jista' jfisser 'jistħejjew' jew 'jinżef (ilma)' — il-kuntest tal-ilma jagħti 'jinżef'"
+    }
+  ],
+  "translation": "Ara, jżomm l-ilma u jinżef; u jibgħathom u jaqilgħu l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/12\/13-16.1792619294541.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "jżomm"
+    },
+    {
+      "surface": "במים",
+      "gloss": "l-ilma"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "jinżef"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "u jibgħathom"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "u jaqilgħu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:14.542142323Z",
+  "model": "glm-5.3"
+}

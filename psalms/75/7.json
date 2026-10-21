@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ממוצא",
+      "rationale": "mimmotsa = 'minn fejn joħroġ (ix-xemx)' — jiġifieri mil-lvant; l-Ingliż 'east', il-Malti żamm il-ħsoba ta' ħruġ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħadd",
+      "rationale": "il-Lhudi jżomm il-partiċipju 'hgħali' waħdu; il-Malti jheggieġ suġġett 'ħadd'"
+    }
+  ],
+  "translation": "Għaliex mhux mill-ħruġ tax-xemx u lanqas mill-punent, u lanqas mid-deżert, jogħla ⟨ħadd⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/75\/5-8.1792617522061.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "mill-ħruġ tax-xemx"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "u lanqas mill-punent"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "mid-deżert"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "jogħla"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:42.062130564Z",
+  "model": "glm-5.3"
+}

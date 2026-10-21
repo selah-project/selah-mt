@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħthom",
+      "rationale": "נפש hi nifs \/ ħajja, mhux 'anima' b'sens Platuniku."
+    },
+    {
+      "kind": "crux",
+      "subject": "לחמם",
+      "rationale": "Root חמם: 'biex jisħon' (l-astroloġi) jew 'għalihom' — il-maġġaranza taqra 'biex jisħon biha'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אור \/ להבה \/ אש",
+      "rationale": "Katina ta' kliem tan-nar f'vers wieħed: nar, leħeb, pruna, dawl — in-nar li kellu jifdiħom jibqielhom."
+    }
+  ],
+  "translation": "Ara, saru bħall-ħaxix niexef; in-nar ħaraqhom; ma jbiddlux ⟨את⟩ ruwaħthom minn id il-leħeb; m'hemmx pruna biex jisħon biha, lanqas dawl biex bilqiegħdu ħdejha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0da6585cd1d76a77657cfd2424be659d396f0ab0e770e85b963d5844f3c3c9f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/47\/13-15.1792611885210.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "היו",
+      "gloss": "saru"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bħall-ħaxix niexef"
+    },
+    {
+      "surface": "אש",
+      "gloss": "in-nar"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "ħaraqhom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "jbiddlux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwaħthom"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ruwaħthom"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "il-leħeb"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "pruna"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "biex jisħon biha"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dawl"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "biex bilqiegħdu"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ħdejha"
+    }
+  ],
+  "timestamp": "2026-10-21T19:44:45.211655298Z",
+  "model": "glm-5.3"
+}

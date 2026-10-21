@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבותם",
+      "rationale": "'L-uġigħ tagħhom' (KJV) kontra 'l-idoli tagħhom' (JPS); l-għerq עצב iffirxa t-tnejn — ħadt 'l-allat' skont il-kontext tal-vers."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחר מהרו",
+      "rationale": "'Għaġlu wara (alla) oħra' — אחר bl-artiklu miħut; JPS taqra 'jaraw suwwa' b'qari differenti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "gloss-addition": null,
+      "rationale": "'allat' bil-ħa b'ittra żgħira għall-idoli tal-ġnus, skont ir-regola; Elohim qatt ma jinbidel."
+    }
+  ],
+  "translation": "Jiżdiedu l-allat tagħhom — għaġlu wara oħra; ma nixerridx inxtejhom tad-demm, u lanqas nerfa' ⟨את⟩ l-ismijiet tagħhom fuq xofftejja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/16\/1-4.1792616644896.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Jiżdiedu"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "l-allat tagħhom"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "oħra"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "għaġlu wara"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma nixerridx"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "inixxer"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "inxtejhom tagħhom"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tad-demm"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nerfa'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ismijiet tagħhom"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "l-ismijiet tagħhom"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "xofftejja"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:04.897126660Z",
+  "model": "glm-5.3"
+}

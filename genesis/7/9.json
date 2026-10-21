@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raġel u mara",
+      "rationale": "זכר ונקבה tfisser 'maskil u femminil', imma bil-Malti 'raġel u mara' iżżomm il-ġemgħa tal-ħlejjaq"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-vaska",
+      "rationale": "התבה hija 'kaxxa'; il-Malti 'vaska' huwa l-kelma għal senduq kbir fl-ilma"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "prepożizzjoni Maltija meħtieġa quddiem l-oġġett direct"
+    }
+  ],
+  "translation": "Tnejn tnejn ġew għand Noċe, għand il-vaska, raġel u mara, kif kien amar Elohim lil ⟨את⟩ Noċe.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1517930cbdce0b6e78836d467255734e92ce3af7268d11c0762735b8f7cc4483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/7\/9-12.1792597775900.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "tnejn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tnejn"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ġew"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noċe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "il-vaska"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "u mara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kien amar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Noċe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noċe"
+    }
+  ],
+  "timestamp": "2026-10-21T15:49:35.901304035Z",
+  "model": "glm-5.3"
+}

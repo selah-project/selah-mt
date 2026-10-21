@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פקד יפקד",
+      "rationale": "Infinitive absolute + finite verb: 'żuru ż-żjara…ż-żjara' — intensity replicated by repetition"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "'to visit\/remember' — ippakad covers visit, muster, remember; 'jżuru ż-żjara' keeps the visiting sense"
+    }
+  ],
+  "translation": "U Josef ġiegħel lil ⟨את⟩ ulied Jisrael jaħilfu, billi jgħid: Jżuru ż-żjara Elohim ż-żjara ⟨את⟩ lilkom, u titilgħu ⟨את⟩ għadamija minn hawn.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/50\/25-26.1792599200501.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "u ġiegħel jaħilfu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ulied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "billi jgħid"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "jżuru ż-żjara"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "Elohim ż-żjara lilkom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lilkom"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "u titilgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għadamija"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "għadamija"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "minn hawn"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:20.501937943Z",
+  "model": "glm-5.3"
+}

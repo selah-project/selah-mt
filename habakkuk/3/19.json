@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "habakkuk 3:19",
+  "book": "habakkuk",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi għandu klawżola nominali bla kopula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "במותי",
+      "rationale": "'l-għoljiet tiegħi' jista' jkun anke l-għoljiet sagri (bamot) ta' Ġuda, mhux biss postijiet għoljin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ċervi",
+      "rationale": "אילות hija d-dikka (ċerva), mhux ċerv maskil"
+    }
+  ],
+  "translation": "Jaħwe Adonaj ⟨hu⟩ s-saħħa tiegħi, u jagħmel li riġlej ⟨jkunu⟩ bħal taċ-ċervi, u fuq l-għoljiet tiegħi jimxenni. Lill-mexxej tal-kor, bil-strumenti tal-kordi tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3a432eb2950b67e7331edff9805c0cf6779a7bce7883b5544cf929f1576ab01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/habakkuk\/3\/17-19.1792616031842.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "s-saħħa tiegħi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "u jagħmel"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "riġlej"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "bħal taċ-ċervi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "l-għoljiet tiegħi"
+    },
+    {
+      "surface": "ידרכני",
+      "gloss": "jimxenni"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "Lill-mexxej tal-kor"
+    },
+    {
+      "surface": "בנגינותי",
+      "gloss": "bil-strumenti tal-kordi tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T20:53:51.843965295Z",
+  "model": "glm-5.3"
+}

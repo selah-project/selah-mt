@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rigal",
+      "rationale": "הבל l-ewwel tfiffer nifs\/ħela — 'vanità' jitbiegħed mill-istorbju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħaddied",
+      "rationale": "חרש ħaddiem ta' materjal; 'ħaddied' tal-metall hawn għall-ħaddiem tal-injam bil-mannara"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-kopula nieqsa fil-Lhudi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חקות",
+      "rationale": "jista' jkun 'statuti' ukoll — 'drawwi' jaqbel mal-kuntest tal-paganiżmu"
+    }
+  ],
+  "translation": "Għax id-drawwi tan-popli huma rigal: għax siġra mill-foresta qata' ⟨את⟩, għemil idejn ħaddied, bil-mannara.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/10\/1-4.1792612740456.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "id-drawwi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tan-popli"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "huma rigal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "siġra"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "mill-foresta"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "qata'"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ħaddied"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "bil-mannara"
+    }
+  ],
+  "timestamp": "2026-10-21T19:59:00.457463225Z",
+  "model": "glm-5.3"
+}

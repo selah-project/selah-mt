@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "hawn את (H854) tfisser 'ma'', mhux il-marka tad-dirett — minħabba f'hekk il-Malti jżid 'ma'\/'mal-' barra l-marka"
+    },
+    {
+      "kind": "addition",
+      "subject": "ma' \/ mal-",
+      "rationale": "prepożizzjoni miżjeda għax l-את f'dan il-vers hija 'ma', mhux marka tal-oġġett"
+    }
+  ],
+  "translation": "Aħjar ruwaħ umli ma' ⟨את⟩ l-foqra milli jaqsam ⟨את⟩ il-preda mal-arroganti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/16\/17-20.1792618745110.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "umli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-foqra"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "l-foqra"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "jaqsam"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "il-preda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-arroganti"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "l-arroganti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:39:05.111026356Z",
+  "model": "glm-5.3"
+}

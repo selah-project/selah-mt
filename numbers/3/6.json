@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wettaq",
+      "rationale": "והעמדת litteralment 'wieqef' (to cause to stand) — 'ippreżentah' \/ 'poġġieh quddiem'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקרב \/ ושרתו",
+      "rationale": "il-qerried (qrb) għal-Levi huwa d-dwella ta' qurban — il-Leviti mmexxija 'qrib' quddiem Aharon"
+    }
+  ],
+  "translation": "Qerreb ⟨את⟩ lit-tribù ta' Levi, u wettaq ⟨את⟩ quddiem Aharon il-qassis, u jaqdmlu s-servizz:",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/5-8.1792602368844.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Qerreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lit-tribù ta' Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribù"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "u wettaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "quddiem Aharon il-qassis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "u jaqdmlu s-servizz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu (Aharon)"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:08.847358613Z",
+  "model": "glm-5.3"
+}

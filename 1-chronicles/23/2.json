@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Il-prepożizzjoni Maltija meħtieġa qabel l-oġġett diretta maqbuda ma' ⟨את⟩."
+    }
+  ],
+  "translation": "U ġabar lil ⟨את⟩ il-ġdenbija kollha ta' Jisrael, ma' l-anzjani-qassisin u mal-Leviti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/23\/1-4.1792622049859.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "U ġabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġdenbija kollha ta' Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "il-ġdenbija"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ma' l-anzjani-qassisin"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "mal-Leviti"
+    }
+  ],
+  "timestamp": "2026-10-21T22:34:09.859853958Z",
+  "model": "glm-5.3"
+}

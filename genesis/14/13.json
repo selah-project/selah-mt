@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 14:13",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "verbless clause והם בעלי ברית needs Maltese copula kienu"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלי ברית",
+      "rationale": "'sponsors of a covenant' — b'rahma ta' Mamre as subject: Mamre u sħabu (KJV 'confederate with Abram') vs Mamre biss; il-punt ġeografiku tintilef"
+    }
+  ],
+  "translation": "U ġie dak li ħarab, u ġabar lil Avram l-Ivri — u kien jistabbu fl-insiġ tal-ballut ta' Mamre l-Emorit, ħu Eshkol u ħu Aner — u dawn kienu sidien ta' patt ma' Avram.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/14\/13-16.1792597946579.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "u ġie"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "dak li ħarab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "u ġabar lil"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "l-Ivri"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "jistabbu"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "fl-insiġ tal-ballut"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "ta' Mamre"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l-Emorit"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "u ħu"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "והם",
+      "gloss": "u dawn"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "sidien ta'"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "patt"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ma' Avram"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:26.580642095Z",
+  "model": "glm-5.3"
+}

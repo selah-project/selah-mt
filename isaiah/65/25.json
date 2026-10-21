@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירעו",
+      "rationale": "same spelling twice: 'graze' (רעה) vs 'do evil' (רעע) — the word-shape link between feeding and harming is lost in Maltese."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma … x",
+      "rationale": "Maltese negation needs the circumfix around the verb; Hebrew has simple לא."
+    },
+    {
+      "kind": "elision",
+      "subject": "לחמו",
+      "rationale": "possessive 'his food' rendered with bracketed tiegħu to keep the construct bread-of-him shape."
+    }
+  ],
+  "translation": "Lupu u ħaruf jirgħu bħala wieħed, u l-iljun jiekol tebben bħal-baqar, u s-serp—trab ikun iklu ⟨tiegħu⟩; ma jagħmlux deni u lanqas jeqirdu, fil-muntanja qaddisa tiegħi kollha, jgħid Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f4b68e5d2d387c1e658f393d49074e4d9791ee34d9c62dd3bdae151c520332e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/65\/25-25.1792612144534.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "lupu"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "u ħaruf"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "jirgħu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bħala wieħed"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "u l-iljun"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "bħal-baqar"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "tebben"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "u s-serp"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "trab"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "iklu ⟨tiegħu⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "jagħmlux deni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "jeqirdu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fil-… kollha"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntanja"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qaddisa tiegħi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T19:49:04.535378233Z",
+  "model": "glm-5.3"
+}

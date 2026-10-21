@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "żvett",
+      "relationship": "",
+      "rationale": "הבל litteralment 'nifs\/fwar' — dak li jgħaddi; 'żvett' jaqbad iżda jitilf l-istampa tan-nifs"
+    },
+    {
+      "kind": "crux",
+      "subject": "x-xewqa tiegħu",
+      "rationale": "חמודו: 'dak li jħobb' (KJV 'sbuħija') jew 'għonu'; YLT 'desirabbiltà'"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "markatur mużikali fit-Tanakh, mhux kelma f'kuntest; ma jintradux"
+    }
+  ],
+  "translation": "Bir-rimarki kontra l-ħażen qiżżajt lil bniedem, u x-xewqa tiegħu tbattlet bħal dudu; biss żvett hu kull bniedem. Sela.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/39\/9-12.1792617020087.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "bir-rimarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "עון",
+      "gloss": "il-ħażen"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "qiżżajt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lil bniedem"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "u tbattlet"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "bħal dudu"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "x-xewqa tiegħu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "biss"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "żvett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:20.088044944Z",
+  "model": "glm-5.3"
+}

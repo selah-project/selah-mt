@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jimġħashom",
+      "rationale": "מָאַס tfisser 'ċaħad bil-miżerja, remmet b'disgust' — 'jimġħa' jew 'jremm' alternattivi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nomadi",
+      "rationale": "נֹדְדִים — dawk li jterrqu 'l hawn u 'l hemm, jixxerrdu; 'jixxerrdu fost il-ġnus' qari ieħor"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiegħi",
+      "rationale": "suffiss tal-1 persuna f'אלהי — il-possessiv Malti jitkellem b'kelma separata"
+    }
+  ],
+  "translation": "Elohim tiegħi jimġħashom, għax ma smgħux lilu; u jkunu nomadi fost il-ġnus.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d4a0730fb137e813205e2bde3288480c08c9e7d3170a109d648bf19c5487b286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/9\/17-17.1792615355680.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "jimġħashom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "smgħux"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u jkunu"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "nomadi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fost il-ġnus"
+    }
+  ],
+  "timestamp": "2026-10-21T20:42:35.680575942Z",
+  "model": "glm-5.3"
+}

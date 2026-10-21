@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "daret lura",
+      "rationale": "נסוג אחור litteralment 'tirretratta lura', taqbel ma' dawr ta' qalb fil-lamentu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ma xebbetx",
+      "rationale": "il-Malti jeħtieġ negazzjoni mbraxka għall-verb ותט li bil-Lhudi jinqara biss darba waħda mal-לא ta' qabel"
+    }
+  ],
+  "translation": "Ma daretx lura qalbna, u ma xebbetx passienna mit-triq tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/44\/17-20.1792617045263.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "daretx"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lura"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "qalbna"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "u ma xebbetx"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "passienna"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minn"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "it-triq tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:45.264428720Z",
+  "model": "glm-5.3"
+}

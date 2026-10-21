@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 1:11",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sidna",
+      "rationale": "אדנינו hawnhekk dwar bniedem — David — għalhekk 'sidna', mhux Adonaj."
+    },
+    {
+      "kind": "you",
+      "subject": "lil Bat-Xeva",
+      "rationale": "Natan jindirizza b'mod dirett lil Bat-Xeva b'mistoqsija."
+    }
+  ],
+  "translation": "U Natan qal lil Bat-Xeva, omm Shelomo: Ma smajtx li sar sultan Adonijaħu, iben Ħagit, u David sidna ma jafx?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "04176cf383202b003caf3b80cf1f7e173680039930a9c58fbd4e79f7b2c94485",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/9-12.1792609227824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Xeva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "omm"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bil-qal"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma…x"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "smajtx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sar sultan"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijaħu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Ħagit"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "u sidna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma…x"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jafx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:27.825244727Z",
+  "model": "glm-5.3"
+}

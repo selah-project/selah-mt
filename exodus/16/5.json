@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is-sitt jum \/ doppju",
+      "rationale": "Għadd ta' jiem u porzjon doppju — il-vers jkejjel ir-razzjon tal-ġurnata s-sitta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuljum",
+      "rationale": "משנה tfisser litteralment 'ripetizzjoni, doppju'; 'doppju' żomm il-forma, 'porzjon' mitluba mit-tradizzjoni mhix hemm."
+    }
+  ],
+  "translation": "U jkun fil-ġurnata s-sitta, jħejjew ⟨את⟩ dak li jġibu; u jkun doppju fuq dak li jiġbru kuljum.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "1e3ce2aed1ffe699fe3b628c84023717eed6263d713c160e6e2ff5f400bcc454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/5-8.1792599699880.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "u jkun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-ġurnata"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "is-sitta"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "jħejjew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li jġibu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "jġibu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "u jkun"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "doppju"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "jiġbru"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kul"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jum"
+    }
+  ],
+  "timestamp": "2026-10-21T16:21:39.881071111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-għadab",
+      "rationale": "אף literally 'nieżer\/mara', hawn mezz tal-għadab"
+    },
+    {
+      "kind": "crux",
+      "subject": "missjoni ta' mibgħutin",
+      "rationale": "משלחת מלאכי רעים: 'bgħuta ta' mibgħutin ħżiena' (KJV\/ASV 'evil angels') kontra 'deheb ta' mibgħutin ta' sfortuna' (JPS); il-kelma מלאך tista' tkun kbir Alla wkoll"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משלחת",
+      "rationale": "kelma rari, forsi l-unika waqt itself hawn b'dan is-sens"
+    }
+  ],
+  "translation": "Bagħat fuqhom il-ħruq ta' l-għadab tiegħu, għadab u tiġrib, u tqila — missjoni ta' mibgħutin tal-ħażen.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/49-52.1792617456666.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Bagħat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "il-ħruq"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ta' l-għadab tiegħu"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "għadab"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "u tiġrib"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "u tqila"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "missjoni"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ta' mibgħutin"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "tal-ħażen"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:36.666965207Z",
+  "model": "glm-5.3"
+}

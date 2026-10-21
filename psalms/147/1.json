@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-verb 'kien' fejn il-Lhudi jgħid biss 'tajjeb'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Faħħu lil Jaħ",
+      "rationale": "imperattiv plurali li jsejjaħ lill-qriewa għat-tifħir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נעים \/ נאוה",
+      "rationale": "alliterazzjoni ta' żewġ kliem semitiċi qrib ta' xulxin, li tintilef bit-traduzzjoni"
+    }
+  ],
+  "translation": "Faħħu lil Jaħ, għaliex ⟨huwa⟩ tajjeb li ngħannu lil Elohim tagħna, għaliex ⟨huwa⟩ pjaċevoli, u t-tifħir xieraq.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/147\/1-4.1792618337896.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "faħħu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lil Jaħ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tajjeb"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "li ngħannu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lil Elohim tagħna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "pjaċevoli"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "xieraq"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tifħir"
+    }
+  ],
+  "timestamp": "2026-10-21T21:32:17.897474721Z",
+  "model": "glm-5.3"
+}

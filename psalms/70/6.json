@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tqattirx",
+      "rationale": "il-Malti jikkundensa 'אל' + 'תאחר' f'format negattiv wieħed — żewġ token Lhud, kelma Maltija waħda"
+    },
+    {
+      "kind": "you",
+      "subject": "għal lil Jaħwe",
+      "rationale": "talba directa b'seкond persuna lil Elohim u lil Jaħwe — l-isem stess imsejjaħ bil-miktub"
+    }
+  ],
+  "translation": "Jiena fqir u brażżil: Elohim, aġġellej għalija! Inti l-għajnuna tiegħi u dak li jeħlesni, Jaħwe; tqattirx!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/70\/5-6.1792617367975.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Jiena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fqir"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "u brażżil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "aġġellej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "l-għajnuna tiegħi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "u dakk li jeħlesni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tqattirx! (ma)"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tqattirx"
+    }
+  ],
+  "timestamp": "2026-10-21T21:16:07.976437839Z",
+  "model": "glm-5.3"
+}

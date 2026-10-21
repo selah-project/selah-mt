@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għalhekk",
+      "rationale": "על כן bil-Malti jirreżisti bħala 'għalhekk', żewġ kliem Lhud f'kelma waħda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jfaħħruk",
+      "rationale": "יהודם għandu t-tifsira ta' 'jirringrazzjawk\/jirrikonoxxux b'ringrazzjament', mhux biss tifħir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "ripetizzjoni ta' 'ġenerazzjoni u ġenerazzjoni', infrastruttura tal-poeżija Lhudija miżmuma litteralment"
+    }
+  ],
+  "translation": "Infakkar ⟨isem⟩ ismek f'kull ġenerazzjoni u ġenerazzjoni; għalhekk il-ġnus jfaħħruk għal dejjem u għal żmien bla tmiem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/45\/17-18.1792617004869.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "Infakkar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kull"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ġenerazzjoni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "u ġenerazzjoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "il-ġnus"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "jfaħħruk"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u għal żmien bla tmiem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:04.869879432Z",
+  "model": "glm-5.3"
+}

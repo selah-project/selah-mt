@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "is-suġett ta' וירף m'huxiktux bit-test; Alla (Jaħwe) mill-vers 24 huwa l-aktar probabbli."
+    },
+    {
+      "kind": "crux",
+      "subject": "min telaq minn min",
+      "rationale": "וירף ממנו: 'u (Alla) telaq minnu (Moxe)' jew 'u huwa telaq minnu' — l-antiċedenti ambigu."
+    }
+  ],
+  "translation": "U ⟨hu⟩ telaq minnu; allura qalet: Għurus tad-demm — fir-rigward taċ-ċirkonċiżjonijiet.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/4\/25-28.1792599268662.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "u telaq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allura"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "qalet"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "Għurus"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tad-demm"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "fir-rigward taċ-ċirkonċiżjonijiet"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:28.663730915Z",
+  "model": "glm-5.3"
+}

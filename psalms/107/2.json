@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאולי\/גאלם",
+      "rationale": "għerq gאל mtenni — l-istruttura ta' familja li twelldet terġa' tersqet, sebgħa fil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "צר",
+      "rationale": "jista' jkun 'maħtugħ\/attur' jew 'għadu' — hawn 'għadu'"
+    }
+  ],
+  "translation": "Għandhom jgħidu l-maħtura ta' Jaħwe, dawk li feġġaħhom mill-id ta' għadu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/1-4.1792617884263.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Għandhom jgħidu"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "l-maħtura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dawk li"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "feġġaħhom"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mill-id"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ta' għadu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:44.264405459Z",
+  "model": "glm-5.3"
+}

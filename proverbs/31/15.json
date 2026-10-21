@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ikel",
+      "rationale": "טרף litteralment 'preda\/dak li jitqatta'', 'ħaġa maqtugħa'; 'ikel' jittraskura l-istampa"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sehem",
+      "rationale": "וחק jista' jkun ukoll 'xogħol\/porzjon assigned'; ASV jagħti 'task'"
+    }
+  ],
+  "translation": "U qgħet waqt li kien għadu lejl, u tat ikel lil darha, u sehem lill-qaddejja tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/31\/13-16.1792618975112.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "u qgħet"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "waqt li kien għadu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lejl"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "u tat"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ikel"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "lil darha"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "u sehem"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "lill-qaddejja tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:55.113624462Z",
+  "model": "glm-5.3"
+}

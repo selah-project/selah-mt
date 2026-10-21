@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se jkun⟩",
+      "rationale": "והיה huwa ħabta li ġejja; il-Malti jippretendi futur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב...ימית x3",
+      "rationale": "repetizzjoni kaskata — xabla ta' Ħazael, xabla ta' Jehu, Elixa — fl-istess għamla tliet darbiet, sostanza retorika li tgħaddi"
+    }
+  ],
+  "translation": "U ⟨se jkun⟩ li dak li jaħrab mix-xabla ta' Ħazael, joqtlu Jehu; u dak li jaħrab mix-xabla ta' Jehu, joqtlu Elixa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "443e89d8bb7451f94f12a0c7ea4cf933e574a4525abd4f069d24891f5e0ac907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/19\/17-20.1792609930607.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "U ⟨se jkun⟩"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "dak li jaħrab"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mix-xabla"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ta' Ħazael"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "joqtlu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "u dak li jaħrab"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mix-xabla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ta' Jehu"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "joqtlu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elixa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:12:10.607722772Z",
+  "model": "glm-5.3"
+}

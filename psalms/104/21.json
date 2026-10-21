@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-luvuni żgħar",
+      "rationale": "כפירים huwa l-iljun żgħir, mhux l-iljun adult (ארי)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לטרף",
+      "rationale": "l-istess għerq tar-refgħa li tagħti t-tereefa, l-ikel maħtuf"
+    }
+  ],
+  "translation": "Il-luvuni żgħar jagħtu s-siġħat għall-priġa, u jfittxu lil ikelhom mingħand El.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/21-24.1792617816448.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "il-luvuni żgħar"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "jagħtu s-siġħat"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "għall-priġa"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "u jfittxu"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "mingħand El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ikelhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:36.449253108Z",
+  "model": "glm-5.3"
+}

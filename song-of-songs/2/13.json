@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 2:13",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kelltu",
+      "rationale": "חנטה verament tfisser 'taħrax\/bażbat' l-ewwel fawwal tinjiet — l-istess għerq tal-kelma għat-tħarrix tal-ġisem mejjet"
+    },
+    {
+      "kind": "addition",
+      "subject": "{mexxa}",
+      "rationale": "לך huwa sempliċement 'għalik\/imxi' — il-Malti jrid kelma ta' moviment"
+    }
+  ],
+  "translation": "It-tinja kelltu l-fawwal tagħha, u d-dwieli bis-smadar taw riħa; qum, għiddi għandek, ħabiba tiegħi, sabiħa tiegħi, u ejja {mexxa} tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/2\/13-16.1792619903075.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התאנה",
+      "gloss": "it-tinja"
+    },
+    {
+      "surface": "חנטה",
+      "gloss": "kelltu"
+    },
+    {
+      "surface": "פגיה",
+      "gloss": "l-fawwal tagħha"
+    },
+    {
+      "surface": "והגפנים",
+      "gloss": "u d-dwieli"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "bis-smadar"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "taw"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "riħa"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "qum"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "għiddi għandek"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ħabiba tiegħi"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "sabiħa tiegħi"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "u ejja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:58:23.075993408Z",
+  "model": "glm-5.3"
+}

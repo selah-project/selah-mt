@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Malti jeħtieġ kopula; il-Lhudi għandu biss is-sostantivi b'על"
+    },
+    {
+      "kind": "substitution",
+      "subject": "memorizzatur",
+      "rationale": "מזכיר: 'dak li jiftakar' — uffiċċju tal-qorti; 'rekorder' fit-tradizzjonijiet"
+    }
+  ],
+  "translation": "U Joab iben Serujah ⟨kien⟩ fuq l-eżerċtu; u Jexoafat iben Aħilud ⟨kien⟩ l-memorizzatur.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/18\/13-16.1792622032753.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "U Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Serujah"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l-eżerċtu"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "u Jexoafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Aħilud"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "l-memorizzatur"
+    }
+  ],
+  "timestamp": "2026-10-21T22:33:52.754919467Z",
+  "model": "glm-5.3"
+}

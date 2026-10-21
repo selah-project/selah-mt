@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 3:7",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fronti iebsa",
+      "rationale": "חזקי מצח: litt. 'qawwijiet ta' fronti' — fronti li ma tistax tinħass; KJV 'impudent'"
+    },
+    {
+      "kind": "addition",
+      "subject": "għandha",
+      "gloss": "",
+      "rationale": "verb 'għandha' miżjud bil-Malti; il-Lhudi jgħid biss nominali"
+    },
+    {
+      "kind": "you",
+      "subject": "lejk",
+      "rationale": "Jaħwe jkellem lil Eżekjel direttament dwar il-miżjata tiegħu"
+    }
+  ],
+  "translation": "Iżda dar Jisrael ma tridx tisma' lejk, għax huma ma jridux jisimgħu lejja; għax id-dar kollha ta' Jisrael għandha fronti iebsa u qalb iebsa — huma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "128f526aee59ddf03590506a540fcea19e4a163f08a702048ca8921af5e2c34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/3\/5-8.1792614029621.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Iżda dar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאבו",
+      "gloss": "tridx"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "tisma'"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lejk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "huma ma"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "jridux"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "jisimgħu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "iebsa"
+    },
+    {
+      "surface": "מצח",
+      "gloss": "fronti"
+    },
+    {
+      "surface": "וקשי",
+      "gloss": "u qalb iebsa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huma"
+    }
+  ],
+  "timestamp": "2026-10-21T20:20:29.622633864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמת",
+      "rationale": "il-glossa tgħid 'stabbilità, ċertezza'; 'bil-verità' jaqrab għall-jaħir tal-ħalf"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע\/ישוב",
+      "rationale": "ħalf (niġbed lura) u jerġa' jieħu l-istess għerq שׁוב — l-ħalf ma 'jergax'"
+    }
+  ],
+  "translation": "Ġaħmet Jaħwe lil David bil-verità, ma jerġax minnha: mill-frott ta' żaqqek npoġġi għal tron għalik.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6071aaef2e25e53b91b63d3736db6c33f5bb07be64c641b8e75fa4c1c1c0ab2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/132\/10-11.1792623850651.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Ġaħmet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lil David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bil-verità"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "jerġax"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "minnha"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mill-frott"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ta' żaqqek"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "npoġġi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "għal tron"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:10.651744390Z",
+  "model": "glm-5.3"
+}

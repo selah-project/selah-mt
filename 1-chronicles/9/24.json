@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לארבע רוחות",
+      "rationale": "'erba' riħ\/ruwaħ' = erba' direzzjonijiet — il-Lhudi juża ruwaħ (ir-riħ) għal kull punt kardinali"
+    },
+    {
+      "kind": "substitution",
+      "subject": "il-baħar",
+      "rationale": "ימה litteralment 'lejn il-baħar' = punent; baħar mill-Malti jżomm il-ħoss iżda jista' joħlom"
+    }
+  ],
+  "translation": "Lejn erba' ruwaħ kienu s-saħħara: lejn ix-xiriq, lejn il-baħar, lejn it-tramuntana u lejn in-nofsinhar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4af917128977be64890599bf9c0f40bec729b6745ca4bd5d4db81380f0168f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/9\/21-24.1792621801387.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "Lejn erba'"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kienu"
+    },
+    {
+      "surface": "השעערים",
+      "gloss": "is-saħħara"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "lejn ix-xiriq"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-baħar"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "lejn it-tramuntana"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "u lejn in-nofsinhar"
+    }
+  ],
+  "timestamp": "2026-10-21T22:30:01.389242381Z",
+  "model": "glm-5.3"
+}

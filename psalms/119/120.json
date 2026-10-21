@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Innexa'",
+      "rationale": "סמר litteralment 'il-ġilda toħroġ ponot \/ ix-xagħar jitla' ma' bażżuh' — meta l-ġisem ibżiegħ; idjoma Maltija għażluta għat-tbid kollu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Sameħ",
+      "rationale": "Dan il-vers jibda bis-SAMEḤ (ס), l-għaxar ittra tal-alfabett fl-akkrostiku tal-Psalm 119"
+    }
+  ],
+  "translation": "Ix-xaħam tiegħi nnexa' mill-biżgħa li jkollna Minnek, u minn ġudizzji tiegħek jien ibżiegħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/117-120.1792618075954.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Innexa'"
+    },
+    {
+      "surface": "مפחדך",
+      "gloss": "mill-biżgħa li jkollna Minnek"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Ix-xaħam \/ il-laħam tiegħi"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "u minn ġudizzji tiegħek"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "jien ibżiegħ"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:55.955888202Z",
+  "model": "glm-5.3"
+}

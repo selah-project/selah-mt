@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hi",
+      "rationale": "Il-verb Malti jieħu suġġett; il-Lhudi għandu biss אשר דבר."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמרון",
+      "rationale": "Isem bil-ħoss Lhudi 'Shomron' mhux l-isem ta' wara."
+    }
+  ],
+  "translation": "U ġie f'Shomron, u laqat ⟨את⟩ lil dawk kollha li kienu baqgħu minn ta' Aħav f'Shomron, sa ma qerdu, skont il-kelma ta' Jaħwe li ⟨hi⟩ tkellmet lil Elijahu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/10\/17-20.1792610373517.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "U ġie"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "f'Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "u laqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil dawk kollha li kienu baqgħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "li kienu baqgħu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "minn ta' Aħav"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "f'Shomron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "qerdu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "skont il-kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tkellmet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:19:33.518524840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במי מדמנה",
+      "rationale": "ketiv במו 'f'Madmena' (post) vs qere במי 'fil-miżbla'; il-KJV tqarraq: 'for the dunghill'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דוש \/ הדוש",
+      "rationale": "l-istess għerq 'jiħassar' darbtejn — l-għerq jirrepeti ruħu, moħu qadim mitluf bil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תחתיו",
+      "rationale": "'taħtu' (taħt id Jaħwe) jew 'f'postu' (JPS) — it-tnejn possibbli"
+    }
+  ],
+  "translation": "Għax se jistrieħ id Jaħwe fuq din il-muntanja, u Moab jitħassar taħtu, bħalma jitħassar il-pagun fis-sit tad-tnabar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "61954c91746a6d090d42579eafc2a9cd0bbc5359b221e5ee1ca03f41cd888df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/25\/9-12.1792611392036.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "se jistrieħ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fuq il-muntanja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "u jitħassar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "taħtu"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "bħalma jitħassar"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "il-pagun"
+    },
+    {
+      "surface": "במי",
+      "gloss": "fis-sit"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "tad-tnabar"
+    }
+  ],
+  "timestamp": "2026-10-21T19:36:32.037722660Z",
+  "model": "glm-5.3"
+}

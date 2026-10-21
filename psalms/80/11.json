@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "il-Lhudi ma għandux verbu; il-kopula miżjuda bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארזי אל",
+      "rationale": "'ċedri ta' El' (soperlativ, 'ċedri kbar') vs JPS\/BSB 'iċ-ċedri tal-muntanji' — l-ebda kelma 'ta' Alla' ma tinstab f'dan il-verse"
+    }
+  ],
+  "translation": "Il-muntanji ktiebu bit-teżi tagħha, u l-friegħi tagħha ⟨kienu⟩ ċedri ta' El.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/80\/9-12.1792617561165.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "ktiebu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "il-muntanji"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "bit-teżi tagħha"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "u l-friegħi tagħha"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ċedri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta' El"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:21.166289224Z",
+  "model": "glm-5.3"
+}

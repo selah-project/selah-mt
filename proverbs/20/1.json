@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לץ",
+      "rationale": "mocker — the לץ is one who mocks, not simply a scoffer of wine; the Hebrew makes wine itself the mocker"
+    },
+    {
+      "kind": "crux",
+      "subject": "המה",
+      "rationale": "'to hum \/ roar' applied to strong drink: 'is noisy\/brawling' (KJV) vs 'makes an uproar'"
+    }
+  ],
+  "translation": "L-inbejjed huwa wieħed li jidħak bik, ix-xorb il-qawwi jagħmel għajta; u kull min jorbot fih ma jsibx il-għerf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/20\/1-4.1792618755484.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "wieħed li jidħak bik"
+    },
+    {
+      "surface": "היין",
+      "gloss": "l-inbejjed"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jagħmel għajta"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ix-xorb il-qawwi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "jorbot"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "jsibx il-għerf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:39:15.485348577Z",
+  "model": "glm-5.3"
+}

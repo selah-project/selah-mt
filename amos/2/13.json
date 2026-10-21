@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעיק\/תעיק\/העגלה",
+      "rationale": "Għerq ־עיק jirrepeti ma' עגלה: il-pressjoni tal-karretta, logħba tal-ħsejjes li titlef fit-traduzzjoni"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמיר",
+      "rationale": "Moll\/ħsad maqtugħ; verżjonijiet jaqsmu bejn 'sheaves' u 'bunch of grain' — jintuża 'moll' bħala l-eqreb lemnja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "inressaq taħtkom",
+      "rationale": "מעיק litteralment 'inpressa\/nikka': Jaħwe jagħmel l-art tnikka taħthom bħal karretta mimlija"
+    }
+  ],
+  "translation": "Ara, jien inressaq taħtkom, bħalma tikkarkar il-karretta l-mimlija moll tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/2\/13-16.1792615657891.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "inressaq"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "taħtkom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bħalma"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "tikkarkar"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "il-karretta"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "l-mimlija"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tagħha"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "moll"
+    }
+  ],
+  "timestamp": "2026-10-21T20:47:37.891640352Z",
+  "model": "glm-5.3"
+}

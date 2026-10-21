@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ma jinstab",
+      "rationale": "il-Lhudi jgħid sempliċement ואין 'u m'hemmx'; il-Malti jeħtieġ verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "palpebri",
+      "rationale": "עפעפי literally 'jcippen', hawn rajiet is-sebħ — idda ppreservata bħala palpebri tal-bidu tan-nhar"
+    }
+  ],
+  "translation": "Jidilmu l-kwiekeb tat-twilija tagħha, jistenna d-dawl u ⟨ma jinstab⟩ xejn, u la tarax fuq il-palpebri tal-bidu tan-nhar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/3\/9-12.1792619061812.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "Jidilmu"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "l-kwiekeb"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "tat-twilija"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "jistenna"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "d-dawl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u xejn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "tarax"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "il-palpebri"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tal-bidu tan-nhar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:21.813447661Z",
+  "model": "glm-5.3"
+}

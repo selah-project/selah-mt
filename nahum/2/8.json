@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 2:8",
+  "book": "nahum",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והוצב גלתה",
+      "rationale": "KJV jaqra 'Huzzab' bħala isem ir-reġina; ASV\/JPS 'huwa ddeċieda: hi tkixfa' — għażilt it-tieni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבבהן",
+      "rationale": "KJV 'siderhom' għal לבב (qlub); il-Lhudi jgħid qlub, mhux sider"
+    },
+    {
+      "kind": "alternative",
+      "subject": "העלתה",
+      "rationale": "jista' jkun 'titneħħa (tgħaddi)' f'purċissjoni ta' priġunieri, mhux sempliċement 'titla'"
+    }
+  ],
+  "translation": "U tħarġef: tkeċċew, titla' titneħħa; u l-iskjavi tagħha jinħarġu jaħku bħal leħen il-ħamiem, jgħattfu fuq il-qlub tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nahum\/2\/5-8.1792616060365.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצב",
+      "gloss": "u tħarġef"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "tkeċċew"
+    },
+    {
+      "surface": "העלתה",
+      "gloss": "titla' titneħħa"
+    },
+    {
+      "surface": "ו אמהתיה",
+      "gloss": "u l-iskjavi tagħha"
+    },
+    {
+      "surface": "מנהגות",
+      "gloss": "jinħarġu jaħku"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "bħal leħen"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "il-ħamiem"
+    },
+    {
+      "surface": "מתפפת",
+      "gloss": "jgħattfu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "לבבהן",
+      "gloss": "il-qlub tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:54:20.366335755Z",
+  "model": "glm-5.3"
+}

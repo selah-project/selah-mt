@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħwejjeġ il-kbar",
+      "rationale": "גדלות plural ta' גדול, 'ħwejjeġ kbar' bil-plural, veru għall-Lhudi"
+    },
+    {
+      "kind": "addition",
+      "subject": "Int",
+      "rationale": "Pronom miżjud għall-verb עשית bla suffiss miftuħ bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי כמוך",
+      "rationale": "Mistoqsija retorika — 'min hu bħalek?' — sinjal li l-ebda alla ieħor mhu bħal Jaħwe"
+    }
+  ],
+  "translation": "U t-tsedeq tiegħek, Elohim, sa l-għoli; Int li għamilt il-ħwejjeġ il-kbar; Elohim, min hu bħalek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4400e313b3c538551727f4fb022b9de615fe03fe4421318f9b1c2b8a1ac53d63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/71\/18-19.1792623825078.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "u t-tsedeq tiegħek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "l-għoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "għamilt"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "il-ħwejjeġ il-kbar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hu bħalek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:45.079619558Z",
+  "model": "glm-5.3"
+}

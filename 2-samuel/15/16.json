@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברגליו",
+      "rationale": "Litteralment 'bir-riġlejha\/taħt riġlejha' — idjom għal 'wara' meta d-dar kollha jimxu wara s-sultan; il-forma litterali żammet."
+    },
+    {
+      "kind": "measurement",
+      "subject": "għaxra",
+      "rationale": "Għaxra nisa pilegħex tħallew joħorsu d-dar — numru sħiħ bħal fil-Lhudi."
+    }
+  ],
+  "translation": "U ħareġ is-sultan u d-dar kollha tiegħu bir-riġlejha, u ħalla s-sultan ⟨את⟩ għaxra nisa, pilegħex, biex jaħarsu d-dar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/15\/13-16.1792608829517.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "U ħareġ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u d-dar kollha"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tiegħu"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "bir-riġlejha"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "u ħalla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "għaxra nisa pilegħex"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "għaxra"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nisa"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "pilegħex"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "biex jaħrsu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "id-dar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:53:49.519117113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 5:7",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Hebrew כי כן is elliptical ('that so'); Maltese needs the copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saret tqila",
+      "rationale": "קשתה literally 'was hard\/severe'; the weight metaphor from v.6 is carried over in Maltese to keep the echo"
+    },
+    {
+      "kind": "you",
+      "subject": "lirġiel ta' Axod",
+      "rationale": "direct speech of the Ashdodites deliberating about the ark"
+    }
+  ],
+  "translation": "U l-irġiel ta' Axod raw li hekk kien, u qalu: Mhux għandu joqgħod magħna l-aron ta' Elohim ta' Jisrael, għax idu saret tqila fuqna u fuq Dagon alla tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/5\/5-8.1792607763906.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "U raw"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "l-irġiel"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ta' Axod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "għandu joqgħod"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l-aron"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ta' Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "magħna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "saret tqila"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "idu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fuqna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u fuq"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "alla tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:03.908010689Z",
+  "model": "glm-5.3"
+}

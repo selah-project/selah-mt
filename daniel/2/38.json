@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "daniel 2:38",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "L-Aramaiku אנתה הוא jikkonferma b'sodoma; il-Malti jżid il-kopula"
+    },
+    {
+      "kind": "crux",
+      "subject": "fejn joqogħdu wlied il-bnedmin",
+      "rationale": "Sintassi Aramajka: min jaħkem — il-bnedmin (KJV) jew fejn jgħixu l-bnedmin u l-bhejjem flimkien (JPS\/BSB)"
+    },
+    {
+      "kind": "you",
+      "subject": "in-Nabukadnessar",
+      "rationale": "Identifikazzjoni diretta: int r-ras tad-deheb"
+    }
+  ],
+  "translation": "u fejn joqogħdu wlied il-bnedmin, il-bhejjem tas-sit u l-għasafar tas-smewwiet, tahom f'idejk u ħallek taħkem minnhom ilkoll — int ⟨hu⟩ r-ras ta' dak id-deheb.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b048f3ce3e136ccdc75a7bf5a9f673b704c205c1c898a28b998571226e0955f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/37-40.1792620569151.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "u fejn"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "דארין",
+      "gloss": "joqogħdu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "il-bnedmin"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "il-bhejjem"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "tas-sit"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "u l-għasafar"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "tas-smewwiet"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "tahom"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "f'idejk"
+    },
+    {
+      "surface": "והשלטך",
+      "gloss": "u ħallek taħkem"
+    },
+    {
+      "surface": "בכלהון",
+      "gloss": "minnhom ilkoll"
+    },
+    {
+      "surface": "אנתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "r-ras"
+    },
+    {
+      "surface": "די",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "dak id-deheb"
+    }
+  ],
+  "timestamp": "2026-10-21T22:09:29.153600443Z",
+  "model": "glm-5.3"
+}

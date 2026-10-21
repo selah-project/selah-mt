@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ruwaħ",
+      "rationale": "נפש mhux 'ruħ' fil-mod Platoniku; aktar qrib thira\/ħajja\/appettit"
+    },
+    {
+      "kind": "elision",
+      "subject": "tofgħoż",
+      "rationale": "תבוס jfisser verament 'tofgħoż'; verżjonijiet bħal KJV jgħidu biss 'loatheth'"
+    }
+  ],
+  "translation": "Ruwaħ xotta tofgħoż ix-xagħgi; u ruwaħ bil-ġuħ, kull marra, ħelwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/27\/5-8.1792618895034.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Ruwaħ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "xotta"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "tofgħoż"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "ix-xagħgi"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "u ruwaħ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "bil-ġuħ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "מר",
+      "gloss": "marra"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "ħelwa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:41:35.035462544Z",
+  "model": "glm-5.3"
+}

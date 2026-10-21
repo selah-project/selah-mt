@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lil nies kollha",
+      "rationale": "Kmand imperattiv diretta tal-isultan lil-nies: 'Agħmlu l-Pesaħ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "patt",
+      "rationale": "ברית huwa patt, mhux 'alieħza' jew 'testment'"
+    }
+  ],
+  "translation": "U s-sultan amar ⟨את⟩ nies kollha billi jgħid: Agħmlu l-Pesaħ lil Jaħwe, Elohim tagħkom, kif miktub fuq il-ktieb ta' dan il-patt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dcc52fec3e30481b0c2731ddf6d4f0f55692e91947f5ae5056c1105481484ee9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/21-24.1792610765168.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "amar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "s-sultan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nies kollha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n-nies"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "billi jgħid"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Agħmlu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "l-Pesaħ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kif miktub"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il-ktieb"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "tal-patt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T19:26:05.169775247Z",
+  "model": "glm-5.3"
+}

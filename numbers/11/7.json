@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dehra",
+      "rationale": "עין hawn tfisser 'ħarsa\/dehra', mhux għajn litterali"
+    },
+    {
+      "kind": "crux",
+      "subject": "bedolak",
+      "rationale": "בדלח: bdellium (gomma aromatika) vs ħaġar prezzjuż (Onyx, Ġen 2:12); miżmum bħala ħoss"
+    }
+  ],
+  "translation": "U l-man kien bħaż-żerriegħa tal-kusbar, u dehra bħad-dehra tal-bedolak.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/11\/5-8.1792602674042.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "U l-man"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "bħaż-żerriegħa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "tal-kusbar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kien⟩"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "u dehra"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "bħad-dehra"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "tal-bedolak"
+    }
+  ],
+  "timestamp": "2026-10-21T17:11:14.045462881Z",
+  "model": "glm-5.3"
+}

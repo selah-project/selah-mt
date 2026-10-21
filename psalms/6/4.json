@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת",
+      "rationale": "hawn ואת huwa l-pronom 'u inti' (c\/859), MHUX ix-xifer tal-oġġett את — għalhekk ma nmarkax b'⟨את⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefsi",
+      "rationale": "נפש hi nifs\/ħajja\/qalgħa — 'nefs' Maltija tal-qalb tagħha hija l-eqreb"
+    },
+    {
+      "kind": "invitation",
+      "subject": "sa kemm?",
+      "rationale": "mistoqsja maqtugħha lil Jaħwe — l-iktar talba qasira u demgħuża tas-Salm"
+    }
+  ],
+  "translation": "U nefsi tretret wisq; u inti, Jaħwe — sa kemm?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/1-4.1792616558967.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "U nefsi"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "tretret"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "wisq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u inti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kemm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:38.968545182Z",
+  "model": "glm-5.3"
+}

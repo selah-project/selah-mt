@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקצותם",
+      "rationale": "'From their extremities' — KJV takes it as 'the lowest of them' (socially), others as 'from among themselves in their various districts'; the literal 'mill-estremi' keeps the Hebrew shape."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaqsmu",
+      "rationale": "עשים להם is literally 'doing for them', i.e. officiating\/sacrificing; a service-verb is supplied since Maltese needs one."
+    }
+  ],
+  "translation": "U kienu jibżgħu ⟨את⟩ Jaħwe, u għamlu lilhom mill-estremi tagħhom qassisin tal-għoljiet; u kienu jaqsmu għalihom fid-dar tal-għoljiet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/29-32.1792610626597.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "jibżgħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "u għamlu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "mill-estremi tagħhom"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "qassisin"
+    },
+    {
+      "surface": "במות",
+      "gloss": "tal-għoljiet"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u kienu"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "jaqsmu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "għalihom"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tal-għoljiet"
+    }
+  ],
+  "timestamp": "2026-10-21T19:23:46.598571058Z",
+  "model": "glm-5.3"
+}

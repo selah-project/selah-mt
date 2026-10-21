@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תפיני",
+      "rationale": "kelma li tidher darba biss fit-Tanakh; verżata 'biċċiet' skont il-kuntest tal-ħobż imkisser"
+    },
+    {
+      "kind": "substitution",
+      "subject": "riħ ta' sliem",
+      "rationale": "ניחח (restful) ġie rrendut 'ta' sliem' mhux sempliċement 'pjaċevoli'"
+    }
+  ],
+  "translation": "Fuq maħbat, bl-żejt titgħamel; imqerba bit-tremment tagħha, iġġibha; biċċiet ta' minħa tal-ħobż iqarrab, bħala riħ ta' sliem lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/6\/13-16.1792600546157.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Fuq"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "maħbat"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bl-żejt"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "titgħamel"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "imqerba"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "iġġibha"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "biċċiet"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ta' minħa"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "tal-ħobż"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "iqarrab"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "riħ"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "ta' sliem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:35:46.158114897Z",
+  "model": "glm-5.3"
+}

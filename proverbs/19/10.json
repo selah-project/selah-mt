@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Malti jeħtieġ kopula li l-Lhudi ma għandux"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף כי",
+      "rationale": "'kemm aktar' kontra 'anqas': kolloqbijiet jimxu żewġ trejqiet"
+    }
+  ],
+  "translation": "Ma hija xieraq għall-għaġel il-lussu, kemm aktar għal-qaddej jmexxi lil-niesi",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/19\/9-12.1792618684273.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "hija xieraq"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "għall-għaġel"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "il-lussu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kemm aktar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għal"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "qaddej"
+    },
+    {
+      "surface": "משל",
+      "gloss": "jmexxi"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "niesi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:38:04.274343175Z",
+  "model": "glm-5.3"
+}

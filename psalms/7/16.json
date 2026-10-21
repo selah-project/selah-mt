@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shaħat",
+      "rationale": "שחת huwa siġġu doppju: ħofra-remża U qerda; 'shaħat' bil-Malti joħroġ id-doppju ta' ħofra ta' bla fejn tużah."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "l-għaxqa tad-destin",
+      "rationale": "Il-ħażin jaqa' fl-istess ħofra li ħaffer — il-ħofra u l-qerda (שחת) huma l-istess kelma f'posthom tal-ħażen ta' ġewwa."
+    }
+  ],
+  "translation": "Ħofra ħaffer u tkixfitha, u waqa' f'shaħat li jagħmel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/7\/13-16.1792616545824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Ħofra"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ħaffer"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "u tkixfitha"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "u waqa'"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "f'shaħat"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "li jagħmel"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:25.824965845Z",
+  "model": "glm-5.3"
+}

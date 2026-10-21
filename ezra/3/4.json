@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "במספר",
+      "rationale": "l-għadd ta' l-offerti skont in-numru preskritt għal kull jum tas-Sukkot (Num 29)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום ... יום ביומו",
+      "rationale": "iterazzjoni ta' 'jum fi jmu': kuljum, jum b'jum, il-ħaġa ta' kuljum fin-nhar tiegħu — ritm Lhudi mibni fuq il-kelma יום"
+    }
+  ],
+  "translation": "U għamlu ⟨את⟩ il-festa tas-Sukkot, kif miktub, u l-ola ta' kuljum bil-għadd, skond id-dritt, il-ħaġa ta' kuljum fin-nhar tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/3\/1-4.1792621041329.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "U għamlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-festa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "il-festa"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "tas-Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kif miktub"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "u l-ola"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ta' kuljum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuljum"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bil-għadd"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "skond id-dritt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il-ħaġa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ta' kuljum"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "fin-nhar tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:17:21.330876217Z",
+  "model": "glm-5.3"
+}

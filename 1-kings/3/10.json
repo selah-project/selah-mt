@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sab tajjeb fl-għajnejn",
+      "rationale": "idjoma Lhudi 'tajjeb fl-għajnejn' = pjaċir, miżmum litteralment fil-Malti"
+    }
+  ],
+  "translation": "U d-diskors sab tajjeb fl-għajnejn ta' Adonaj, għax Xlomo talab ⟨את⟩ dan id-diskors.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/9-12.1792609356814.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "u sab tajjeb"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "id-diskors"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "fl-għajnejn ta'"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "talab"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-diskors"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "id-diskors"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T19:02:36.814805520Z",
+  "model": "glm-5.3"
+}

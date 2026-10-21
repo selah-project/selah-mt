@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lilha",
+      "rationale": "il-post ta' oġġett għandu jingħata fil-Malti; il-Lhudi jużaw il-pronom maħdum fit-verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טרף יטרף",
+      "rationale": "infinitiv assolut ripetut: 'tiġi mgħarġra tigħrġar' — l-għerq jidher tliet darbiet (טרף, יטרף, הטרפה), enfasi mitlufa fil-Malti"
+    }
+  ],
+  "translation": "Jekk tiġi mġarġra biċċa biċċa, iġib ⟨lilha⟩ bħala xhieda; dak li ttirfak ma jħallasx.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/9-12.1792599750981.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jekk"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tiġi"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "mġarġra biċċa biċċa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "iġib"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bħala xhieda"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "dak li ttirfak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "jħallasx"
+    }
+  ],
+  "timestamp": "2026-10-21T16:22:30.982250506Z",
+  "model": "glm-5.3"
+}

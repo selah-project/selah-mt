@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ 'kien hemm' għal היתה eżistentjali"
+    }
+  ],
+  "translation": "U kien hemm gwerra bejn Asa u bejn Baaxa, sultan Jisrael, il-ġranet tagħhom kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f243442e953b28e3d7500bd4d4bb09beb7a4cfcab15ad555e3df56256aa445cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/13-16.1792609696490.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו מלחמה",
+      "gloss": "u gwerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kien hemm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bejn"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "u bejn"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaxa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "il-ġranet tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:08:16.491447271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 2:32",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "Maltese past tense requires the auxiliary kien; Hebrew has only the imperfect ידע."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saħħet",
+      "rationale": "פגע 'fell upon' again (as vv. 29, 31) — the verb of violent striking, here of Joab's ambush of Avner and Amasa."
+    },
+    {
+      "kind": "you",
+      "subject": "Salomon għand Benajahu",
+      "rationale": "The king's decree is direct reported speech to a named addressee, continuing the command sequence of v. 31."
+    }
+  ],
+  "translation": "U Jaħwe jirritorna ⟨את⟩ demmu fuq rasu — hu li saħħet fi żewġt irġiel ġusti u tajbin minnu, u qatilhom bis-sejf — u missierija David ma ⟨kien⟩ jaf ⟨את⟩ lil Avner bin Ner, il-kmandant tal-eżerċitu ta' Jisrael, u ⟨את⟩ lil Amasa bin Jeter, il-kmandant tal-eżerċitu ta' Jehuda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "29063703a068d4864c6594e17d487518d98a1e6b6d17bde520a56f799173aef2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/2\/29-32.1792609406172.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "U jirritorna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "demmu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "demmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hu li"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "saħħet"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "fi żewġt"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irġiel"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "ġusti"
+    },
+    {
+      "surface": "וטבים",
+      "gloss": "u tajbin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "u qatilhom"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bis-sejf"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "u missier"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-kmandant"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tal-eżerċitu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-kmandant"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tal-eżerċitu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-21T19:03:26.173859872Z",
+  "model": "glm-5.3"
+}

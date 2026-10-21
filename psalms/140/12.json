@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רע יצודנו",
+      "rationale": "min jittradu ħażin? 'il-ħażin jittardeh lill-raġel ta' vjolenza' (KJV) kontra 'raġel ta' vjolenza, ħażin, jittardeh' — il-Malti ħalla s-sostantiv bħala epitet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lsien qliegħ",
+      "rationale": "'l-ilsien' bħala persuna: דבר\/לשון għal min jgħid ħażin — literal 'raġel ta' lsien'"
+    }
+  ],
+  "translation": "Raġel ta' lsien qliegħ ma jitheddanx fl-art; raġel ta' vjolenza ħażin — jittardeh għal mwegħdra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/140\/9-12.1792618223588.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ta' lsien qliegħ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "jitheddanx"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fl-art"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ta' vjolenza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "jittardeh"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "għal mwegħdra"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:23.589006092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "gazzam (הגזם)",
+      "rationale": "Kelma li tinsab hawn biss\/stadji rari tal-ħanfus; ma ntradmitx bħala 'locust' ġenerali iżda bl-isem Lhudi tagħha"
+    },
+    {
+      "kind": "crux",
+      "subject": "erba' ismijiet tal-ħanfus",
+      "rationale": "Arbeh\/jaleq\/ħasil\/gazzam: jew erba' stadji ta' ħajja tal-ħanfus, jew erba' invażjonijiet suċċessivi — l-interpretazzjonijiet jaqsmu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "il-kadenza jter...ajkal...jter",
+      "rationale": "Xibka ta' ripetizzjoni tripla: dak li jħalli wieħed jieklu t-tielet — ritmo ta' qerda totali"
+    }
+  ],
+  "translation": "Il-mitluq tal-gazzam ħieles l-arbeh, u l-mitluq tal-arbeh ħieles il-jaleq, u l-mitluq tal-jaleq ħieles il-ħasil.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joel\/1\/1-4.1792615598399.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Il-mitluq"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "tal-gazzam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ħieles"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "l-arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "u l-mitluq"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "tal-arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ħieles"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "il-jaleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "u l-mitluq"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "tal-jaleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ħieles"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "il-ħasil"
+    }
+  ],
+  "timestamp": "2026-10-21T20:46:38.400478824Z",
+  "model": "glm-5.3"
+}

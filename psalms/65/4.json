@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דברי עונת",
+      "rationale": "'ħwejjeġ\/id-dnubiet' — 'l-istorja tad-dnubiet tiegħi' (JPS 'the tale of iniquities') kontra qari bħala 'd-nubiet' (bil-artiklu)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tgħattihom",
+      "rationale": "כפר tfisser litteralment 'tgħatti' (kiel bitum), mhux sempliċement 'jaħfrilhom'"
+    }
+  ],
+  "translation": "Il-ġrajjiet tad-dnubiet għalbu milli jiena; ir-rewwixta tagħna inti tgħattihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/65\/1-4.1792617330969.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Il-ġrajjiet"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "tad-dnubiet"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "għalbu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "milli jiena"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ir-rewwixta tagħna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "tgħattihom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:30.970907163Z",
+  "model": "glm-5.3"
+}

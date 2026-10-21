@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 1:14",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ġarr",
+      "rationale": "על huwa ġarr ta' bendha fuq il-għonq, mhux il-prepożizzjoni 'al — l-istess konsonanti, kelma oħra."
+    },
+    {
+      "kind": "crux",
+      "subject": "nżamm f'idu",
+      "rationale": "נשקד: 'tgħasses\/issaħħaħ' — xi traduzzjonijiet jqisu li l-ġarr tqiegħed fuq idu ta' Adonaj, oħrajn li hu marbut b'idu; jien għażilt l-ewwel."
+    },
+    {
+      "kind": "alternative",
+      "subject": "li ma nista' nqum",
+      "rationale": "il-Lhudi jgħid biss 'f'idejn li ma nista' nqum' — 'minn' jew 'kontri' huwa miżjud mit-traduzzjonijiet."
+    }
+  ],
+  "translation": "Il-ġarr tar-ribellijoni tiegħi nżamm f'idu; huma mgeżwrin flimkien u telgħu fuq għonqi; hu faqqar il-qawwa tiegħi — Adonaj ta lili f'idejn li ma nista' nqum.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88bb1b338035221ce06beb8a75440d4a5872ee549c8d0d9b70d4754bec713394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/1\/14-15.1792623943344.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקד",
+      "gloss": "nżamm"
+    },
+    {
+      "surface": "על",
+      "gloss": "il-ġarr"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "tar-ribellijoni tiegħi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idu"
+    },
+    {
+      "surface": "ישתרגו",
+      "gloss": "huma mgeżwrin flimkien"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "telgħu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "għonqi"
+    },
+    {
+      "surface": "הכשיל",
+      "gloss": "faqqar"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "il-qawwa tiegħi"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "ta lili"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nista'"
+    },
+    {
+      "surface": "קום",
+      "gloss": "nqum"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:43.345206798Z",
+  "model": "glm-5.3"
+}

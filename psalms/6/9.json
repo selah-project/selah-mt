@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-ħażen",
+      "rationale": "און huwa litteralment 'vanità, ħielsa, xejn', mhux sempliċiment 'ħażen'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-ħatrin",
+      "rationale": "indirizz dirett lill-ħatrin tal-ħażen, fil-persona tal-psalmista"
+    }
+  ],
+  "translation": "Ħarbu minn għandi, inti lkoll li taħdmu l-ħażen, għax sema' Jaħwe il-vuċi tal-biki tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/9-11.1792616498888.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Ħarbu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minn għandi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lkoll"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "li taħdmu"
+    },
+    {
+      "surface": "און",
+      "gloss": "l-ħażen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sema'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il-vuċi"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "tal-biki tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:38.889465807Z",
+  "model": "glm-5.3"
+}

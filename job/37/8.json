@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 37:8",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moħbi",
+      "rationale": "ארב 'voltu\/ambaxxata' — l-annimal jista' jinżamm moħbi; 'moħbi' iċempel l-idea bażika"
+    },
+    {
+      "kind": "addition",
+      "subject": "tieġħu",
+      "rationale": "il-Lhudi għandu suffiss femminil singular; bil-Malti lill-annimal nirreferu b'suffiss maskil"
+    }
+  ],
+  "translation": "U l-annimal jidħol fil-moħbi, u f'abitazzjoni tiegħu joqgħod.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/37\/5-8.1792619758289.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "jidħol"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "l-annimal"
+    },
+    {
+      "surface": "במו",
+      "gloss": "fil-"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "moħbi"
+    },
+    {
+      "surface": "ובמעונתיה",
+      "gloss": "f'abitazzjoni tiegħu"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "joqgħod"
+    }
+  ],
+  "timestamp": "2026-10-21T21:55:58.290487960Z",
+  "model": "glm-5.3"
+}

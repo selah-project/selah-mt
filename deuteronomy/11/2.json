@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 11:2",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את (it-tieni token)",
+      "rationale": "Hawnhekk את mhux il-markatur tal-oġġett (H853) imma prepożizzjoni 'ma'' (H854): 'mhux ma' uliedkom nista'' — il-verb 'nitkellem' huwa mifhum"
+    },
+    {
+      "kind": "elision",
+      "subject": "nitkellem",
+      "rationale": "Il-verb tal-qlubija ('nista' ma') maħbuż mill-verb ידעתם ta' qabel"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Iżrael",
+      "rationale": "Indirizz dirett: 'tkunu tafu llumi'"
+    }
+  ],
+  "translation": "U tkunu tafu llumi, għax ⟨את⟩ ma' uliedkom ma huwiex li jafu u li raw ⟨את⟩ id-dixxiplina ta' Jaħwe Elohim tagħkom, ⟨את⟩ il-kobor tiegħu, ⟨את⟩ idu l-qawwija, u driegħu l-miftuħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/11\/1-4.1792605618913.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "U tkunu tafu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "llumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "uliedkom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jafu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "u li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "raw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dixxiplina"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "id-dixxiplina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim tagħkom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kobor tiegħu"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "il-kobor tiegħu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "idu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "l-qawwija"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "u driegħu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "l-miftuħa"
+    }
+  ],
+  "timestamp": "2026-10-21T18:00:18.914311153Z",
+  "model": "glm-5.3"
+}

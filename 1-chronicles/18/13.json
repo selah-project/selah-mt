@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 18:13",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "garniġġuni",
+      "rationale": "נציבים: 'prefetti, postijiet militari' — l-għażla ta' 'garniġġuni' timxi mat-tradizzjoni"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהיו",
+      "rationale": "l-ebda verbi 'kien' għalihom bil-Malti; 'u kellu' jġorr is-sens ta' sar"
+    }
+  ],
+  "translation": "U poġġa f'Edom garniġġuni, u kellu Edom kollu nilqtu bħala qadja għal David; u Jaħwe ta' l-għeluq lil David dovwar kollu li mexa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/18\/13-16.1792622032753.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "f'Edom"
+    },
+    {
+      "surface": "נציבים",
+      "gloss": "garniġġuni"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u kellu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nilqtu bħala qadja"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "għal David"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "u ta' l-għeluq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dovwar kollu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mexa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:33:52.754531816Z",
+  "model": "glm-5.3"
+}

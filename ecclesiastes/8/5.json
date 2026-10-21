@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא ידע דבר רע",
+      "rationale": "'shall know no evil thing' vs 'shall experience no harm' — jaf vs jesperjenza."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע...ידע",
+      "rationale": "għerq 'jaf' jintuża darbtejn fil-vers, dawra bil-moħbi bejn l-ordenanza u l-għerf."
+    }
+  ],
+  "translation": "Min jżomm il-mitzva ma jaf xejn ħażin, u żmien u ġudizzju jafhom il-qalb tal-għaref.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/8\/5-8.1792620357602.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "min jżomm"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "il-mitzva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jaf"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "xejn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażin"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "u żmien"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "u ġudizzju"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "jafhom"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il-qalb"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tal-għaref"
+    }
+  ],
+  "timestamp": "2026-10-21T22:05:57.604051329Z",
+  "model": "glm-5.3"
+}

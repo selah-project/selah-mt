@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ħajja tagħhom",
+      "rationale": "נפש hi nifs\/ħajja-ħarri, mhux 'ruħ' flimkien ma' kull tifsira tal-kelma"
+    },
+    {
+      "kind": "addition",
+      "subject": "il-ħajja tagħhom",
+      "rationale": "il-Lhudi jqiegħed lil נפשם bħala suġġett lil מות bil-prepożizzjoni מן; il-Malti jeħtieġ l-istruttura sħiħa"
+    }
+  ],
+  "translation": "Sawwat triq għal ⟨l-għadab ta' nieżru⟩; ma żammx mill-mewt ⟨il-ħajja tagħhom⟩, u lil qawwithom tad-debter tahhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/49-52.1792617456666.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Sawwat"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "triq"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "għal l-għadab tiegħu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "żammx"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mill-mewt"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "il-ħajja tagħhom"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "u lil qawwithom"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tad-debter"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "tahhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:36.667278191Z",
+  "model": "glm-5.3"
+}

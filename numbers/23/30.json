@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fl-artal",
+      "rationale": "Hebrew has a singular altar; many versions read 'on every altar' (distributive singular) since seven altars were built in v. 29"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tella'",
+      "rationale": "ויעל is literally 'made ascend'; the offering sense is supplied by context"
+    }
+  ],
+  "translation": "U Balak għamel kif qal Bilam, u tella' barri u muntun fl-artal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "06df11e3cf8896993132f02f86dd848063c454e7f7502231933981c2abe02daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/23\/29-30.1792603039404.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "u għamel"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "u tella'"
+    },
+    {
+      "surface": "פר",
+      "gloss": "barri"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "u muntun"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "fl-artal"
+    }
+  ],
+  "timestamp": "2026-10-21T17:17:19.406519729Z",
+  "model": "glm-5.3"
+}

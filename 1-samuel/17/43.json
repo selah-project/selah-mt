@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 17:43",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באלהיו",
+      "rationale": "Lhudi 'bi-elohim tiegħu' — allat tal-Pelixti; skont id-dokument 'allat' bi ħaġa żgħira għall-allat tal-ġnus."
+    },
+    {
+      "kind": "you",
+      "subject": "il-Pelixti lil David",
+      "rationale": "Indirizz dirett bi mistoqsija sarkastika: 'Jien kelb jien?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במקלות",
+      "rationale": "Plural 'ħatar' — wieħed biss kien f'id David; il-plural jeħoddu bħala insult."
+    }
+  ],
+  "translation": "U l-Pelixti qal lil David: Jien kelb jien, li inti ġej għandi bil-ħatar? U l-Pelixti sabb ⟨את⟩ lil David bl-allat tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/41-44.1792608020070.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "l-Pelixti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "kelb"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ġej"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "במקלות",
+      "gloss": "bil-ħatar"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "sabb"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "l-Pelixti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באלהיו",
+      "gloss": "bl-allat tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:20.071453950Z",
+  "model": "glm-5.3"
+}

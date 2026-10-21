@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהים hawn bil-plural għal allat barranin — allat b'ittra żgħira skond id-dokument, mhux Elohim"
+    }
+  ],
+  "translation": "Morrux wara allat oħrajn, mill-allat tal-ġnus li għandkom madawrkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/6\/13-16.1792605478089.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "tmorrux"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allat"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oħrajn"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "mill-allat"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tal-ġnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "għandkom madawrkom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:57:58.090577120Z",
+  "model": "glm-5.3"
+}

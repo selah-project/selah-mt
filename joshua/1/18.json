@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaħlef",
+      "rationale": "ימרה litteralment 'imurr\/mur', 'jagħmel id-dettall jaħmar' — jaħlef hija t-tifsira figurattiva"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימרה את פיך",
+      "rationale": "'jmur kontra fommok' — jinħareġ fommok bħala s-setta tal-awtorità, mhux sempliċiment 'jagħmel xi ħaġa kontra komandament tiegħek'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "חזק ואמץ",
+      "rationale": "l-istess imperattiv doppju mogħti lil Josva f'1:6,7,9 — issa lill-poplu jirrepetiħ lilu"
+    }
+  ],
+  "translation": "Kull raġel li jaħlef ⟨את⟩ fommok u ma jisimgħax ⟨את⟩ kliemek, f'kollox li taqbdlu, jitqatil; biss kun qawwi u saħħaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/1\/17-18.1792606195183.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "jaħlef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fommok"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "fommok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "jisimgħax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kliemek"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kliemek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "f'kollox"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "taqbdlu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "jitqatil"
+    },
+    {
+      "surface": "רק",
+      "gloss": "biss"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kun qawwi"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "u saħħaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T18:09:55.184040688Z",
+  "model": "glm-5.3"
+}

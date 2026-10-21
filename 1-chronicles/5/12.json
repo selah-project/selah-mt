@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kbir",
+      "rationale": "הראש literally 'ir-ras' (kap), użat għal skart ta' grad; 'il-kbir' jew 'il-kap' it-tnejn possibbli"
+    },
+    {
+      "kind": "measurement",
+      "subject": "il-kbir ... it-tieni",
+      "rationale": "Gradazzjoni ta' nies magħduda bir-rank: l-ewwel, it-tieni"
+    }
+  ],
+  "translation": "Jojel il-kbir, u Xafam it-tieni, u Jaanaj u Xafat fil-Baixan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ea8fb16b83938ed535993243e9db2930eef2949d263d4546e4cfaa0d106fed28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/5\/12-12.1792623931610.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Jojel"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "il-kbir"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "u Xafam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "u Jaanaj"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "u Xafat"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "fil-Baixan"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:31.610872369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "inħarreq",
+      "rationale": "מבעיר literally 'burn\/consume by fire'; KJV takes it causatively as 'cut off posterity' (from בער II), JPS 'sweep away' — the fire-picture kept here"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Bagħsa",
+      "rationale": "judgment oracle continues addressed to Baasha"
+    }
+  ],
+  "translation": "Ara jien qiegħed inħarreq wara Bagħsa u wara daru, u nagħti ⟨את⟩ darek bħal dar Jarobgħam bin Nevat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "649cb9efe163ae281cf525e2068d4e20a29567394a874796b7d4d7b273f8b217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/16\/1-4.1792609872080.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ara jien"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "inħarreq"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bagħsa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "u wara"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "daru"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "u nagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darek"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "darek"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "bħal dar"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobgħam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-10-21T19:11:12.081706524Z",
+  "model": "glm-5.3"
+}

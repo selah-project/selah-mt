@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תבה",
+      "rationale": "same rare word as Noah's ark (Gen 6); the basket is a miniature ark — lost in Maltese 'teva' unless the reader knows the root"
+    },
+    {
+      "kind": "crux",
+      "subject": "qasab",
+      "rationale": "גמא is specifically papyrus; 'qasab' (reeds) generalizes the plant"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tax-xmara",
+      "rationale": "היאר is Ye'or, the Egyptian name of the Nile specifically"
+    }
+  ],
+  "translation": "U meta ma setgħetx terġa' taħbigħu, ħaditlu teva tal-qasab, u xteritha biż-żift u bit-tajn, u poġġiet fiha ⟨את⟩ it-tifel, u poġġietha fil-ħaxix max-xatt tax-xmara.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "3160c3055f4b7fb737ec7f8b18e13aa9f9bc6f3d0c28f2342f9ad43ea18ef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/1-4.1792599208195.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "U ... ma ... x"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "setgħet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "terġa'"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "taħbigħu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ħaditlu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "teva"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "tal-qasab"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "u xteritha"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "bit-tajn"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "biż-żift"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "u poġġiet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fiha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-tifel"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "it-tifel"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "u poġġietha"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "fil-ħaxix"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "xatt"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "tax-xmara"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:28.196020881Z",
+  "model": "glm-5.3"
+}

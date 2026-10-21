@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי",
+      "rationale": "literally 'I cut' — Hebrew cuts a covenant, not makes one."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "preposition את 'with you' (H854), not the direct-object marker; some read it as DOM 'I covenanted you'."
+    },
+    {
+      "kind": "you",
+      "subject": "lil-poplu",
+      "rationale": "'tibżgħux' — address to the people building the house."
+    }
+  ],
+  "translation": "Il-kelma li ktart ⟨maġġkom⟩ meta ħriġtum minn Mitsrajim, u ruwaħti tista' fostkom: tibżgħux.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/haggai\/2\/5-8.1792616183814.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-kelma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il-kelma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ktart"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ maġġkom"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "meta ħriġtum"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "minn Mitsrajim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "u ruwaħti"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tista'"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "fostkom"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tibżgħux"
+    }
+  ],
+  "timestamp": "2026-10-21T20:56:23.814748145Z",
+  "model": "glm-5.3"
+}

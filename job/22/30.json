@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אי",
+      "rationale": "Hawn אִי tfisser 'mhux' (bħal לוֹא), iżda l-istess konsonanti jistgħu jkunu 'gżira' — minn hemm KJV 'il-gżira tal-innoċenti'; għażilt 'mhux' mal-ASV\/BSB."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בבר",
+      "rationale": "'Tifqija' — jidher darba biss fit-Tanakh; ġej mill-għerq ta' ברר."
+    }
+  ],
+  "translation": "Jiffranka lil min mhuwiex innoċenti, u jinħeles bit-tifqija tal-palmejn ta' idejk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4983a18876d1aff17858b477c1741da9e6f1ce9f4d440f1875880175129c4dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/22\/29-30.1792619491436.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "Jiffranka"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innoċenti"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "u jinħeles"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "bit-tifqija"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tal-palmejn ta' idejk"
+    }
+  ],
+  "timestamp": "2026-10-21T21:51:31.438898553Z",
+  "model": "glm-5.3"
+}

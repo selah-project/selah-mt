@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיד\/תתחסד · תמים\/תתמם",
+      "rationale": "itthipʿal jieħu l-ħoss tar-raġel: 'mal-ħanin inti ħanin, mas-sħiħ inti sħiħ' — il-paronomasja hi l-qalba tal-vers."
+    },
+    {
+      "kind": "addition",
+      "subject": "turi",
+      "rationale": "l-verb reflexiv fit-Tanakh huwa 'taġixxi bħal' — bil-Malti ttieħed 'turi (lilek innifsek)'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "l-Indirizz kollu jmur lejn Jaħwe, it-tieni persuna impliċita."
+    }
+  ],
+  "translation": "M'All-ħanin turi ħesed, m'All-bniedem sħiħ turi s-sħaħ tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/25-28.1792616637123.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "m'All-"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ħanin"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "turi ħesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "m'All-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sħiħ"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "turi s-sħaħ tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:57.124081972Z",
+  "model": "glm-5.3"
+}

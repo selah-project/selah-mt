@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 33:49",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "max-xatt",
+      "rationale": "על = 'fuq\/quddiem'; Maltese jħtieġ prepożizzjoni ta' post għall-ikkampjar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "boundaries",
+      "rationale": "il-versa jkejjel it-triq bil-ġeografija: minn Beit-Jeiximot sa Abel ha-Xittim"
+    }
+  ],
+  "translation": "U kkampjaw max-xatt tal-Jordan, minn Beit-Jeiximot sa Abel ha-Xittim, fil-pjanuri ta' Moab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4ef8efc134e5aca57d3aefdb178cb9c9fb6449423ac0a58af4c6b96690143ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/33\/49-52.1792605192079.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "u kkampjaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "max-xatt"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "tal-Jordan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "minn Beit"
+    },
+    {
+      "surface": "הישמת",
+      "gloss": "Jeiximot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "ha-Xittim"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "fil-pjanuri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ta' Moab"
+    }
+  ],
+  "timestamp": "2026-10-21T17:53:12.079988935Z",
+  "model": "glm-5.3"
+}

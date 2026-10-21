@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mazmor",
+      "rationale": "מזמור hija poeżija b'mużika strumentali; miżjuda fejn il-bibbji jaqgħu fuq l-ewwel vers tal-korp"
+    },
+    {
+      "kind": "elision",
+      "subject": "lill-mexxej tal-kor",
+      "rationale": "it-titlu Lhudi m'għandux ekwivalenti Malti eżatt; למנצח = lil-dak li jbrillu minn bogħod, is-surintendent"
+    }
+  ],
+  "translation": "Lill-mexxej tal-kor. Ta' David. Mazmor.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/40\/1-4.1792617057526.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "lill-mexxej tal-kor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmor"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:57.527479776Z",
+  "model": "glm-5.3"
+}

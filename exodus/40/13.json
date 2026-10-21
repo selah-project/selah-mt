@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iservi jaqra qassis",
+      "rationale": "וכהן huwa verb mill-għerq כהן — 'jaqra qassis' miżjud biex il-Malti jifhem"
+    },
+    {
+      "kind": "elision",
+      "subject": "את בגדי",
+      "rationale": "l-את ta' quddiem בגדי fil-Lhudi huwa prepożizzjoni 'mal', mhux is-sinjal ta' oġġett; ġie mgħarrex f''bl-'"
+    }
+  ],
+  "translation": "U tilbes lil ⟨את⟩ Aharon bl-ilbies tal-qdusija, u timsħu u tqaddes lilu, u jservi jaqra qassis għalijja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/40\/13-16.1792600407889.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "U tilbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ilbies"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "l-ilbies"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tal-qdusija"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "u timsħu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "u tqaddes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "jaqra qassis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalijja"
+    }
+  ],
+  "timestamp": "2026-10-21T16:33:27.890191556Z",
+  "model": "glm-5.3"
+}

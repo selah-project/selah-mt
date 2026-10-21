@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mhux iċċirkonċizzati",
+      "rationale": "ערל שפתים litteralment 'ixxofftejn bla ġilda maqtugħa' — idjoma Ebrajk għal 'li ma jista' jitkellem sew', imqar litteoralment."
+    },
+    {
+      "kind": "addition",
+      "subject": "għand",
+      "rationale": "il-Malti jeħtieġ verbu 'għand' fejn il-Lhudi għandu biss is-sostantiv adjettivali."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "Moxe jwieġeb lil Jaħwe b'mistoqsija retorika, protesta personali."
+    }
+  ],
+  "translation": "U Moxe qal quddiem Jaħwe: Ara, jien għand ixxofftejn mhux iċċirkonċizzati, u kif se jisma' lili Parħ?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "e0490129c4d2c46171a2696c2cca643fd2a60b6699d4a5e89d19804cedf64237",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/6\/29-30.1792599210276.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "mhux iċċirkonċizzat"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ixxofftejn"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "u kif"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "jisma'"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parħ"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:30.277604383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 1:13",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is-sultan",
+      "rationale": "מלך huwa 'sultan' b'Malti, kelma Semitika qrib tal-Lhudi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidni",
+      "rationale": "אדני dwar bniedem: 'sidi\/sidni' skont D1, mhux 'Mulej'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "joħroġ reli",
+      "rationale": "ימלך litteralment 'jagħmel-mulk\/reli'; bil-Malti jrid verb b'sostantiv"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Bat-Xeba",
+      "rationale": "Naħan jagħtiha kliem dirett biex tgħid lid-David"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך\/ימלך\/מלך",
+      "rationale": "Għerq m-l-k irrepeti tliet darbiet fil-vers: laqam, żarb, u mistoqsja"
+    }
+  ],
+  "translation": "Mur, idħol għand is-sultan David u għidlu: Mela int, sidni s-sultan, ma ħlift lil qaddejja tiegħek fil-qal: Skont Xlomo ibnek joħroğ reli warajja, u hu jagħles fuq it-tron tiegħi? Għalhekk għalfejn wettaq Adonijaħ r-reli?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6c69edec50781295b2e58ebe30217b1d3f0b96a12e6686d6e81dae9a6daa9d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/13-16.1792609213657.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכי",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "idħol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "u għidlu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ħlift"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "lil qadwejja tiegħek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "fil-qal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "skont"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xlomo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ibnek"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "joħroġ reli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "warajja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jagħles"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "it-tron tiegħi"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "għalhekk għalfejn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wettaq reli"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:13.658532193Z",
+  "model": "glm-5.3"
+}

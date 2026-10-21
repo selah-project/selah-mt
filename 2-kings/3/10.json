@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lit-tliet slaten",
+      "rationale": "l-għadd tat-tliet slaten mniżżel"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרא",
+      "rationale": "'sejjaħ lil' (biex iwassalhom għall-qerda) kontra 'għeraq' — iż-żewġ qosra mill-għerq qra'"
+    }
+  ],
+  "translation": "U qal is-sultan ta' Jisrael: Ħaw! Għaliex Jaħwe sejjaħ dawn it-tliet slaten biex jagħti ⟨את⟩hom f'idejn Moab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "858259e49cdb4caad24f2b628b9fd189bca89096455c2c8f68deca18e6a385ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/3\/9-12.1792610079256.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ħaw!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sejjaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "lit-tliet"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "slaten"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "biex jagħti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩hom",
+      "marks": "dawn it-tliet slaten"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "f'idejn"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-21T19:14:39.257172890Z",
+  "model": "glm-5.3"
+}

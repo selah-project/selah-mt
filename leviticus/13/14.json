@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laħam ħaj",
+      "rationale": "בשר חי litteralment 'laħam ħaj', jiġifieri laħam neżżaħ\/mhux mijiet, mhux laħam li jmiss"
+    }
+  ],
+  "translation": "U fil-jum li jidher fih laħam ħaj, jitmejjel.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/13\/13-16.1792600761165.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "u fil-jum"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "li jidher"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fih"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laħam"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ħaj"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "jitmejjel"
+    }
+  ],
+  "timestamp": "2026-10-21T16:39:21.166471882Z",
+  "model": "glm-5.3"
+}

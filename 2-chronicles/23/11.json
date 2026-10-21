@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "id-djadema",
+      "rationale": "הנזר: 'djadema\/inċizz irjali' vs 'għerq ta' dedikazzjoni' — Kelb ta' Moħed tinterpreta bħala l-kopja tat-Tora (Dewt 17:18)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "midlkuh",
+      "rationale": "וימשחהו litteralment 'u midlkuh bil-żejt' — għerq משיח, l-istess għerq ta' Maxiaħ"
+    }
+  ],
+  "translation": "U ħarġu ⟨את⟩ lil iben is-sultan, u poġġew fuqu ⟨את⟩ id-djadema u ⟨את⟩ ix-xhieda, u għamluh isultan, u midlkuh Jehojada u wliedu, u qalu: Ħaj is-sultan!",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "47749a7c379c154603747ff8eec52c3c12bf3dc3f3c8cd627077cd0e11fc2abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/23\/9-12.1792622722178.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "ħarġu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iben is-sultan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "poġġew"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fuqu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-djadema"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "id-djadema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ix-xhieda"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ix-xhieda"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "għamluh isultan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ + lilu",
+      "marks": "iben is-sultan (midluk)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "u midlkuh"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "u wliedu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Ħaj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "is-sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:22.179829213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-passiv Malti jeħtieġ 'kien' għall-partiċippju; il-Lhudi għandu לקח attiv bla ajżiljarja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האדם \/ האדמה",
+      "rationale": "bniedem u ħamrija — l-istess għerq fil-Lhudi, u l-Malti 'l-art' jaqbeż il-ħoss imma jżomm is-sens"
+    }
+  ],
+  "translation": "U Jaħwe Elohim bagħtu minn ġnien Għeden, biex jaħdem ⟨את⟩ l-art li minnha ⟨kien⟩ meħud.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "74471a1707e533cf2913e04fc2c47140a8a0ac7bf873fcde31c9c5cf5a07ce03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/3\/21-24.1792597722916.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "U bagħtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "minn ġnien"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Għeden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "biex jaħdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "meħud"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minnha"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:42.917832453Z",
+  "model": "glm-5.3"
+}

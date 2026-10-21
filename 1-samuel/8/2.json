@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kien⟩",
+      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משנהו",
+      "rationale": "litteralment 'it-tieni (kopja) tiegħu', jiġifieri l-iben it-tieni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ismijiet",
+      "rationale": "il-vers jgħodd u jsemmi l-ismijiet tat-tnejn"
+    }
+  ],
+  "translation": "U isem ibnu l-kbir ⟨kien⟩ Joel, u isem it-tieni Abija, mħallfin f'Bir-Xeva.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/8\/1-4.1792607735318.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibnu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "l-kbir"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u isem"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "it-tieni"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abija"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mħallfin"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "f'Bir"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Xeva"
+    }
+  ],
+  "timestamp": "2026-10-21T18:35:35.319150687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלף רוח",
+      "rationale": "'tgħaddi ruwaħ' (ASV\/JPS — l-armata bħar-riħ) kontra 'nbidlet ruħu' (KJV — il-mexxej jibqa' kapriċċuż); il-Lhudi jista' jġorr it-tnejn."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשם",
+      "rationale": "'u jagħti ħtija' — jew juri li hu ħati, jew jagħmel lil ħaddieħor ħati; qari oħra 'vojqod' bil-qari ta' ואשם b'alef ħafif."
+    },
+    {
+      "kind": "substitution",
+      "subject": "alla tiegħu",
+      "rationale": "אלהיו b'ittra żgħira — l-alla tal-Babiloniżi, mhux Elohim; ir-regola tippermetti l-ittra żgħira għall-idoli."
+    }
+  ],
+  "translation": "Imbagħad tgħaddi ruwaħ u tgħaddi 'l hemm, u tagħti ħtija — dan, il-qawwa tiegħu għal alla tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/habakkuk\/1\/9-12.1792616026909.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Imbagħad"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "tgħaddi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwaħ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "u tgħaddi 'l hemm"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "u tagħti ħtija"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "il-qawwa tiegħu"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "għal alla tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:53:46.910498482Z",
+  "model": "glm-5.3"
+}

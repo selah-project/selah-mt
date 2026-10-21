@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קימנו",
+      "rationale": "'our adversaries' (ASV\/BSB) vs 'their substance' (KJV\/JPS) — the consonants admit both readings"
+    },
+    {
+      "kind": "addition",
+      "subject": "dawk li qamu kontrina",
+      "rationale": "Maltese expands the collective noun 'opponents' into a relative clause"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elifaz's audience",
+      "rationale": "continuation of the quoted speech of the righteous from v. 19"
+    }
+  ],
+  "translation": "Sigur ⟨ma⟩ nqerdux dawk li qamu kontrina, u ⟨l-fdal⟩ tagħhom kielu ⟨l-⟩nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5314afad910672d692ff006a2ecf34733326f35473c112562d697f0d0283f87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/22\/20-20.1792623871881.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sigur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ma⟩...x"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nqerdu"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "dawk li qamu kontrina"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "l-fdal tagħhom"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "kielu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nar"
+    }
+  ],
+  "timestamp": "2026-10-21T23:04:31.881992933Z",
+  "model": "glm-5.3"
+}

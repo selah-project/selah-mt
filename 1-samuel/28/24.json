@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "tal-istall",
+      "rationale": "מרבק (stall għall-bhejjem) jidher darba biss fit-Tanakh"
+    },
+    {
+      "kind": "alternative",
+      "subject": "għoġol tal-istall",
+      "rationale": "KJV\/JPS 'għoġol imsemmen' (fatted); it-test jgħid biss 'mit-triq tal-istall' — żammejna litterali"
+    }
+  ],
+  "translation": "U l-mara kellha għoġol tal-istall fid-dar, u ħarġet malajr u qatlitu, u ħadet dqiq, u ħamret, u ħamedtu bla ħmira.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/28\/21-24.1792608439761.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "u l-mara"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "għoġol"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "tal-istall"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fid-dar"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "ħarġet malajr"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "qatlitu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "u ħadet"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "dqiq"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "u ħamret"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "u ħamedtu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bla ħmira"
+    }
+  ],
+  "timestamp": "2026-10-21T18:47:19.763069709Z",
+  "model": "glm-5.3"
+}

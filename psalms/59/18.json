@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huwa",
+      "rationale": "il-Malti jeħtieġ il-kopula, il-Lhudi m'għandux"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזך\/עזי",
+      "rationale": "il-vers 17 jgħid 'il-ħila tiegħek' u 18 iweġib 'il-ħila tiegħi' — l-istess kelma tonqos permezz ta' żewġ versi"
+    }
+  ],
+  "translation": "Il-ħila tiegħi, lilek inżammerek, għax Elohim huwa l-għolja tas-salvagward tiegħi, Elohim tal-ħesed tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/17-18.1792617184850.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "il-ħila tiegħi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lilek"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "inżammerek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "l-għolja tas-salvagward tiegħi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "tal-ħesed tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:04.850900087Z",
+  "model": "glm-5.3"
+}

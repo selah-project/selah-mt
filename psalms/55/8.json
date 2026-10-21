@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במדבר",
+      "rationale": "midbar fil-qofshaħ tagħha hija merħla miftuħa fejn idoqqu l-merħla; 'deżert' huwa qari validu iżda dejjem b'dak il-limitu."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "gloss": "marka mużikali fl-Ebrajk (paża), ma għandhiex traduzzjoni; mibgħuta bħalissa."
+    }
+  ],
+  "translation": "Ara, inhareb 'il bogħod, naqgħad għal lejl f'deżert. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/55\/5-8.1792617200518.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "'il bogħod"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "inhareb"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "naqgħad għal lejl"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "f'deżert"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:20.519221046Z",
+  "model": "glm-5.3"
+}

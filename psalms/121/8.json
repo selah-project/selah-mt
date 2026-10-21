@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צאתך\/ובואך",
+      "rationale": "merism: joħroġ u jidħol — il-ħajja kollha fil-żewġ mtigħa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מעתה ועד עולם",
+      "rationale": "firxa taż-żmien: minn issa sal-għalmita"
+    }
+  ],
+  "translation": "Jaħwe jħares joħroġek u d-dħul tiegħek, minn issa u għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/121\/5-8.1792618110335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "joħroġek"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "u d-dħul tiegħek"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "minn issa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "u għal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:30.335923411Z",
+  "model": "glm-5.3"
+}

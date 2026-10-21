@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויזעק זעקה",
+      "rationale": "verb and noun from the same root — 'għaddab għajta' repeats the sound; the root echo is lost in Maltese."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saċċ",
+      "rationale": "שק rendered as saċċ, the Maltese cognate of the coarse cloth, not 'xaħma' or generic cloth."
+    }
+  ],
+  "translation": "U Mordokaj kien jaf ⟨את⟩ kollox li sar, u Mordokaj qatta' ⟨את⟩ l-ilbies tiegħu, u libbes saċċ u rmied, u ħareġ f'nofs il-belt, u għaddab għajta kbira u morra.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/4\/1-4.1792620491375.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "U Mordokaj"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kien jaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kollox"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollox"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sar"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "u qatta'"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ilbies tiegħu"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "l-ilbies tiegħu"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "u libbes"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saċċ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "u rmied"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u ħareġ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "f'nofs"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "u għaddab"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "għajta"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "u morra"
+    }
+  ],
+  "timestamp": "2026-10-21T22:08:11.376051134Z",
+  "model": "glm-5.3"
+}

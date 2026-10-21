@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-arħa",
+      "rationale": "ארון 'kaxxa\/sendiema' — sendiema kbira tal-injam; 'arħa' żżomm il-forma Maltija qariba"
+    },
+    {
+      "kind": "elision",
+      "subject": "verb",
+      "rationale": "L-Ebrajk ma għandux verb 'jduqqu' — il-Malti jifhmu mill-kuntest (bħal BSB)"
+    }
+  ],
+  "translation": "u Benajahu u Jaħazi-el, il-qassisin, bit-trombi dejjem quddiem l-arħa tal-patt ta' Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/16\/5-8.1792621961840.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "u Benajahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "u Jaħazi-el"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "il-qassisin"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "bit-trombi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dejjem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l-arħa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tal-patt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ta' Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T22:32:41.841572793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 21:3",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-kbir",
+      "rationale": "הבכור is 'the firstborn', a legal status; Maltese 'il-kbir' (the eldest) is the natural rendering"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u ⟨את⟩ is-saltna għatha",
+      "rationale": "Many versions render the waw adversatively ('but the kingdom'); the plain waw 'u' is kept since Hebrew has no explicit contrast marker"
+    }
+  ],
+  "translation": "U missierhom ta' lilhom rigali kbar, f'fidda u f'deheb u f'oġġetti prezzjużi, flimkien ma' bliet iffortifikati f'Jehuda; u ⟨את⟩ is-saltna għatha lil Jeoram, għax huwa kien il-kbir.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/21\/1-4.1792622722959.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "u ta'"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "missierhom"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "rigali"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "kbar"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "f'fidda"
+    },
+    {
+      "surface": "ולזהב",
+      "gloss": "u f'deheb"
+    },
+    {
+      "surface": "ולמגדנות",
+      "gloss": "u f'oġġetti prezzjużi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "flimkien ma'"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bliet"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "iffortifikati"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "f'Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "is-saltna"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "is-saltna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "għatha"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "lil Jeoram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "il-kbir"
+    }
+  ],
+  "timestamp": "2026-10-21T22:45:22.960368507Z",
+  "model": "glm-5.3"
+}

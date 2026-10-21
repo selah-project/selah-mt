@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 38:17",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "il-pronom miżjud għall-ħlewwa fil-Malti; il-Lhudi għandu biss תראה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dell ta' mewt",
+      "rationale": "צלמות — kilbiet ta' צל (dell) u מות (mewt); ħafna tradutturi jaqsmuha bħala tnejn"
+    },
+    {
+      "kind": "secret",
+      "subject": "il-bieb ta' mewt",
+      "rationale": "l-IMGħUN ta' Jaħwe jmiss x'ikun moħbi lil Ġob — l-aħħar mistoqsija dwar il-misteru"
+    }
+  ],
+  "translation": "Jinfetħulek il-bieb ta' mewt, u l-bieb ta' dell ta' mewt, int tara?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/38\/17-20.1792619765150.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגלו",
+      "gloss": "jinfetħulek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lek"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "il-bieb ta'"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mewt"
+    },
+    {
+      "surface": "ושערי",
+      "gloss": "u l-bieb ta'"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dell ta' mewt"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "int tara"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:05.150606604Z",
+  "model": "glm-5.3"
+}

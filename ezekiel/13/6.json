@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 13:6",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחלו",
+      "rationale": "Whose hope? 'They themselves hope' (JPS) vs 'they make others hope' (KJV) — the Hebrew verb has no object."
+    },
+    {
+      "kind": "substitution",
+      "subject": "qies",
+      "rationale": "קסם divination rendered with Maltese 'qies' (lot-casting), the nearest native word for the oracle-monger's craft."
+    }
+  ],
+  "translation": "Raw ħela u qiesu gideb, huma li jgħidu: jgħid Jaħwe — u Jaħwe ma bagħthomx — u jistennew li tikkonferma kelma.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "72ed175dec5826e7a630a874e940e5a426fbd934e59fdf403e97e88b14f64b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/13\/5-8.1792614309115.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזו",
+      "gloss": "raw"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ħela"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "u qiesu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gideb"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "huma li jgħidu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "bagħthomx"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "u jistennew"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "li tikkonferma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    }
+  ],
+  "timestamp": "2026-10-21T20:25:09.116591506Z",
+  "model": "glm-5.3"
+}

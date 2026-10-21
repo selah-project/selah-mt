@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 2:13",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħrejjef il-ħolma",
+      "rationale": "l-ס2692 חכימיא hawn huma l-ħrejjef tal-ħolma tas-sultan, mhux għerf ġenerali"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "il-verbi passivi bil-Malti jeħtieġu għajnuna ta' verb, li l-Aramajk jesprizza bil-forma stip"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתקטלין\/להתקטלה",
+      "rationale": "għerq qtl iktar minn darba f'vers wieħed — l-istess kelma tgħaddi mill-ġdid"
+    }
+  ],
+  "translation": "U d-deċretar ħareġ, u l-ħrejjef il-ħolma qiegħed jinqatlu; u kienu qiegħda jfittxu lil Daniel u lil sħabu biex jinqatlu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bb0e57a1789b1afeec6273b28319c8185370bc7682de9ac35bb131d7f8a7f8b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/13-16.1792620612715.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודתא",
+      "gloss": "u d-deċretar"
+    },
+    {
+      "surface": "נפקת",
+      "gloss": "ħareġ"
+    },
+    {
+      "surface": "וחכימיא",
+      "gloss": "l-ħrejjef il-ħolma"
+    },
+    {
+      "surface": "מתקטלין",
+      "gloss": "qiegħed jinqatlu"
+    },
+    {
+      "surface": "ובעו",
+      "gloss": "u kienu qiegħda jfittxu"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "lil Daniel"
+    },
+    {
+      "surface": "וחברוהי",
+      "gloss": "u lil sħabu"
+    },
+    {
+      "surface": "להתקטלה",
+      "gloss": "biex jinqatlu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:10:12.716481660Z",
+  "model": "glm-5.3"
+}

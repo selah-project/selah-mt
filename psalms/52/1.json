@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lill-mexxej",
+      "rationale": "למנצח huwa t-titlu tal-kor, 'lill-mexxej [tal-kor]', mhux isem ta' persuna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "maskil ta' David",
+      "rationale": "supra skript: klassifikazzjoni tal-istejjer — poeżija li twiegħed, attribwita lil David"
+    }
+  ],
+  "translation": "Lill-mexxej, maskil ta' David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/52\/1-4.1792617176537.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "lill-mexxej"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta' David"
+    }
+  ],
+  "timestamp": "2026-10-21T21:12:56.537697938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "lit. 'fl-ħalq tal-ħarba' — l-ewwel kelma tfisser 'ħalq', mhux 'naħa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרם",
+      "rationale": "ħerem: ddedikazzjoni sħiħa għall-qerd — mhux sempliċiment 'qerdu'."
+    }
+  ],
+  "translation": "U qerdu b'ħerem ⟨את⟩ kull li kien fil-belt, mill-raġel sal-mara, mit-tifel sa xih, u sa l-barri, u l-ħaruf, u l-ħmar, bil-ħalq tal-ħarba.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f7d14af993dc0f6a19849b931cfad13dacc24151420a611cd71d7421dec7c6c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/6\/21-24.1792606389499.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "qerdu b'ħerem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kull li kien fil-belt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "fil-belt"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mill-raġel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "il-mara"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "mit-tifel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "xih"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "l-barri"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "l-ħaruf"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "l-ħmar"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "il-ħalq"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tal-ħarba"
+    }
+  ],
+  "timestamp": "2026-10-21T18:13:09.500671949Z",
+  "model": "glm-5.3"
+}

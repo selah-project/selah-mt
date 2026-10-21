@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "u ħawwadh om",
+      "rationale": "וּתְהֻמֵּם — thel li jqanqal \/ jeqred; 'ħawwadh om' jżomm il-ħolqien ta' confusioni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברוק ברק",
+      "rationale": "Verb u nom mill-istess għerq — 'berqa li ddawwal', ripetizzjoni li tinżamm fil-Malti b'verb+nom qrib ta' xulxin."
+    }
+  ],
+  "translation": "Xegħel berqa u fxiddhom; ibgħat il-vleġeġ tiegħek u ħawwadh om.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/144\/5-8.1792618269033.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Xegħel"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "berqa"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "u fxiddhom"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ibgħat"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "il-vleġeġ tiegħek"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "u ħawwadh om"
+    }
+  ],
+  "timestamp": "2026-10-21T21:31:09.034184167Z",
+  "model": "glm-5.3"
+}

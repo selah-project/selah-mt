@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 15:7",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "winnowing",
+      "rationale": "the winnowing-fork image (chaff scattered at the gates) rendered literally: judgement as threshing, kept because the picture is the point."
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "Maltese direct-object preposition supplied before the noun phrase that את marks."
+    }
+  ],
+  "translation": "U nżerfrihom bil-mżerreħ fil-bibien tal-art; sridt, qerdt ⟨את⟩ lil-poplu tiegħi mit-toroq tagħhom — ma rritornawx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2abfa913b0d6f3f994c61da856ad0961241865a11e09d06c3ed730285f1b5b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/15\/5-8.1792612787084.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרם",
+      "gloss": "u nżerfrihom"
+    },
+    {
+      "surface": "במזרה",
+      "gloss": "bil-mżerreħ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "fil-bibien"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "sridt"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "qerdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil-poplu tiegħi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poplu tiegħi"
+    },
+    {
+      "surface": "מדרכיהם",
+      "gloss": "mit-toroq tagħhom"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "rritornawx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:59:47.085951034Z",
+  "model": "glm-5.3"
+}

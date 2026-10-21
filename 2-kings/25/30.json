@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Malti jeħtieġ il-kopula; il-Lhudi juża נתנה waħdu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר יום ביומו",
+      "rationale": ".literalment 'kelma ta' jum fi jumu' — porzjon ta' kuljum; idjom tal-għoti ta' kuljum"
+    }
+  ],
+  "translation": "U r-razzjon tiegħu, razzjon kontinwu, kien mogħti lilu minn ⟨את⟩ ir-re, l-għoti ta' kuljum fil-jum tiegħu, il-ġranet kollha ta' ħajtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/29-30.1792610830788.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "u r-razzjon tiegħu"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "razzjon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kontinwu"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kien mogħti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "minn ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "l-għoti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ta' kuljum"
+    },
+    {
+      "surface": "ביומום",
+      "gloss": "fil-jum tiegħu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-ġranet kollha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ħajtu"
+    }
+  ],
+  "timestamp": "2026-10-21T19:27:10.789352401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiekol",
+      "rationale": "il-Lhuid għandu verb biss fil-ewwel nofs; it-tieni nofs, KJV jirrepeti 'shall eat' — miżjud bejn parentesi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ruħ it-tradituri tiekol żulm",
+      "rationale": "JPS jaqra 'id-desir ta' wara fidil-jà huwa vjolenza'; KJV\/ASV jirrepetu l-verb 'tiekol' mill-ewwel nofs"
+    }
+  ],
+  "translation": "Minn frott il-ħalq ta' raġel jiekol it-tajjeb; u ruħ it-tradituri ⟨tiekol⟩ żulm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/1-4.1792618661859.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Minn frott"
+    },
+    {
+      "surface": "פי",
+      "gloss": "il-ħalq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jiekol"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "it-tajjeb"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ruħ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "tat-tradituri"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "żulm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:41.860682383Z",
+  "model": "glm-5.3"
+}

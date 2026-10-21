@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefsi",
+      "rationale": "נפש hija ħajja\/nifs\/milked, mhux 'ruħ' biss"
+    },
+    {
+      "kind": "invitation",
+      "subject": "talba lil Jaħwe",
+      "rationale": "imperattivi diretti: erga', ħeles, isalvani"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Jaħwe",
+      "rationale": "indirizz dirett lel Jaħwe fit-talba"
+    }
+  ],
+  "translation": "Erga' lura, Jaħwe, ħeles lil nefti; isalvani għall-ħesed tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/5-8.1792616543726.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Erga' lura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ħeles"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lil nefti"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "isalvani"
+    },
+    {
+      "surface": "למען",
+      "gloss": "għall-"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ħesed tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:23.727234250Z",
+  "model": "glm-5.3"
+}

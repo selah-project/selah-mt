@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olzgħu",
+      "rationale": "שאו tfisser 'iġbgħu, olzgħu' — il-Lhudi jgħid 'iġiegħu' mhux sempliċement 'ġibu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "minħa",
+      "rationale": "מנחה: offerta tal-qamħ bla demm; 'offerta\/sagrifiċċju' aktar milli sempliċi 'rigal'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבוד",
+      "rationale": "Il-ġieħ = il-piż, il-ġmiel; il-kelma tiffissa ruwaħ"
+    }
+  ],
+  "translation": "Agħtu lil Jaħwe l-ġieħ ta' ismu; olzgħu ⟨את⟩ minħa u dħlu fil-ġnien tagħtu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e873f1bd5ee7d4b0edba047d20b9d96c8bb6bf102de7d72760728ae017990f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/96\/8-8.1792623786465.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Agħtu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "l-ġieħ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ta' ismu"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "olzgħu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "⟨את⟩ minħa"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "u dħlu"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "fil-ġnien tagħtu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:06.465966069Z",
+  "model": "glm-5.3"
+}

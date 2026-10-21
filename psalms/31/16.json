@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hemm",
+      "rationale": "il-Malti jeħtieġ verb; il-Lhudi m'għandux kopula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בידך \/ מיד",
+      "rationale": "id f'idejk kontra id tal-għedewwa — l-istess kelma יד darbtejn, il-poeżija taħdem bid-dualità"
+    }
+  ],
+  "translation": "F'idejk hemm il-ħinijiet tiegħi; ħarisni minn id l-għedewwa tiegħi u minn dawk li jippersegwitawni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/31\/13-16.1792616836194.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "f'idejk"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "il-ħinijiet tiegħi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ħarisni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "l-għedewwa tiegħi"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "u minn dawk li jippersegwitawni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:16.195686130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "disgħa",
+      "rationale": "il-għadd ta' wlied David f'Jeruxalajim jitgħalla b'dan il-vers"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואליפלט",
+      "rationale": "isem imdoppja ma' v.6; xi manuskripti tal-LXX u qari ta' Sam jinħasswhom differenti"
+    }
+  ],
+  "translation": "u Elixtama, u Eljada, u Elifelet — disgħa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8f603a07f24bf175669bd034fa9a7fda45112e410b60769ef68e86fe2bb69a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/3\/5-8.1792621652679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "u Elixtama"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "u Eljada"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "u Elifelet"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "disgħa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:32.680121747Z",
+  "model": "glm-5.3"
+}

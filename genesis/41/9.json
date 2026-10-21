@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (ma' Paroħ)",
+      "rationale": "l-ewwel את hawn hija preposizzjoni (דבר את = kellem lil), mhux l-oġġett diretta; mgħoddija bħala 'ma''."
+    },
+    {
+      "kind": "you",
+      "subject": "il-kaptan tal-imbiċċer",
+      "rationale": "diskors dirett lejn Paroħ; l-iskop huwa li jfaħħar lil Ġużeppi mingħajr ma jsemmih għadu."
+    }
+  ],
+  "translation": "U tkellem il-kaptan tal-imbiċċer ⟨את⟩ ma' Paroħ, jgħid: ⟨את⟩ id-dnubiet tiegħi jien insemm illum.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/41\/9-12.1792598879638.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "U tkellem"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il-kaptan"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "tal-imbiċċer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ma'"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroħ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dnubiet tiegħi"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "id-dnubiet tiegħi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "insemm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    }
+  ],
+  "timestamp": "2026-10-21T16:07:59.639509311Z",
+  "model": "glm-5.3"
+}

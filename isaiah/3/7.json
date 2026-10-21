@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חבש",
+      "rationale": "lit. 'dak li joqgħod \/ li joqgħod jimmand il-feriti' — 'dak li jimmand'; 'healer' ta' KJV tressaq ħafna"
+    },
+    {
+      "kind": "addition",
+      "subject": "leħnu",
+      "rationale": "nasaf — il-verb נשא jerfa' xi ħaġa; il-Lhudi ma jgħidx xi"
+    }
+  ],
+  "translation": "Jerfa' ⟨leħnu⟩ f'dak il-jum u jgħid: Ma nkunux dak li jimmand; f'dari m'hemmx ħobż u lanqas libsa; la tagħmlunix kap tan-nies.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/3\/5-8.1792610895695.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "jerfa'"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "fil-jum"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "u jgħid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nkun"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "dak li jimmand"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "f'dari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "m'hemmx"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ħobż"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u lanqas"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "libsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "tagħmlunix"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "kap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tan-nies"
+    }
+  ],
+  "timestamp": "2026-10-21T19:28:15.696435091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-bniedem",
+      "rationale": "אנוש = 'mortal' (kontra bniedem aktar dinjitat): fragiltà umana, mhux sempliċement 'raġel'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "appell dirett lit-talb, imperattiv 'Qum'"
+    }
+  ],
+  "translation": "Qum, Jaħwe; la jipprevaħ il-bniedem; jiġu mħarrba l-ġnus quddiem wiċċek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/9\/17-20.1792616534219.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Qum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "jipprevaħ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "jiġu mħarrba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "l-ġnus"
+    },
+    {
+      "surface": "על",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wiċċek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:14.220826909Z",
+  "model": "glm-5.3"
+}

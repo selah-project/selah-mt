@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שובנו",
+      "rationale": "Lit. 'erġagħlna' — l-imperattiv ta' שׁוּב użat b'mod riflessiv: 'dur lejna', mhux sempliċiment 'lura'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġrab",
+      "rationale": "כעס huwa 'qallez\/għadab'; il-Malti juża 'ġrab' (ħraba) għall-ġrab ta' widdieb."
+    }
+  ],
+  "translation": "Dur għalina, Elohim ta' ⟨l-⟩ħelsien tagħna, u ħassar il-ġrab tiegħek ma' tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/85\/5-8.1792617569455.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Dur għalina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ta'"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ħelsien tagħna"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "u ħassar"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "il-ġrab tiegħek"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ma' tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:29.456442861Z",
+  "model": "glm-5.3"
+}

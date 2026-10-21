@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "persuna",
+      "rationale": "נפש hawnhekk tfisser persuna ħajja, mhux nifs biss"
+    },
+    {
+      "kind": "addition",
+      "subject": "immiss",
+      "rationale": "il-Malti jeħtieġ l-auxiliary għas-sentenza tal-mewt; il-Lhudi għid biss ומת"
+    },
+    {
+      "kind": "you",
+      "subject": "maħsub għal Jisrael",
+      "rationale": "ו בערת — imperattiv singulari indirizzat lill-poplu"
+    }
+  ],
+  "translation": "Meta jinstab raġel li jisraq persuna minn fost aħwaħ, minn fost wlied Jisrael, u jagħmel skjav minnu u jbigħha, imiss miet dak il-ħalliel; u tneħħi l-ħażin minn fostek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/24\/5-8.1792605918378.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Meta"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "jinstab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "li jisraq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "persuna"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "minn fost aħwaħ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "minn fost wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "u jagħmel skjav"
+    },
+    {
+      "surface": "בו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "u jbigħha"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "immiss miet"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "il-ħalliel"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "u tneħħi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "l-ħażin"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "minn fostek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:05:18.379413541Z",
+  "model": "glm-5.3"
+}

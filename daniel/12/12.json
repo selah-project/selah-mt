@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jum",
+      "rationale": "Il-Malti jeħtieġ 'jum' fl-aħħar; il-Lhudi jgħid biss il-għadd — 'elf tlett mija u tletin u ħamsa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "elf tlett mija u tletin u ħamsa jum",
+      "rationale": "Għadd eżatt: 1335 jum, kontra d-1290 ta' v. 11"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lil min jistenna",
+      "rationale": "Is-somma ta' hieni tindirizza lill-qarreġ li jistenna u jlaħħaq dan l-għadd"
+    }
+  ],
+  "translation": "Hieni lil min jistenna u jasal sal-elf tlett mija u tletin u ħamsa jum.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b44b2635239d137cacfac27e5e6baf129b38b4cf47cc9b3e39024b5e9739bb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/12\/9-12.1792621010123.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Hieni"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "lil min jistenna"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "u jasal"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "sa żmien ta'"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlett"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "u tletin"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "u ħamsa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:16:50.124612434Z",
+  "model": "glm-5.3"
+}

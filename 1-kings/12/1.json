@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "served as causal connector absorbed into 'għax' with the second Sikem"
+    }
+  ],
+  "translation": "U Reħavam mar fi-Sikem, għax lejn Sikem kien ġie Jisrael kollu bi jagħmlu ⟨את⟩ lilu sultan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/1-4.1792609655451.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mar"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reħavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "fi-Sikem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kien ġie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "bi jagħmlu sultan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lilu sultan"
+    }
+  ],
+  "timestamp": "2026-10-21T19:07:35.452346058Z",
+  "model": "glm-5.3"
+}

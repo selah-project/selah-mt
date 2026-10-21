@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "huhu (partiċella ta' aċċettazzjoni)",
+      "rationale": "Partiċella ironika mgħoddja bla traduzzjoni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "interpretazzjoni tal-jekk",
+      "rationale": "Jista' jinqra bħala mistoqsja retorika: 'Ma hemmx ħadd fost il-qaddejja tiegħek...?'"
+    }
+  ],
+  "translation": "U jekk is-sħaba ma titlaġx, ma jixirqux sa ġurnata li titla'.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "971eb927d76f0771d652adbe0c5b5540bb2959252e955d25b5a7f67b9b6a0580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/40\/37-38.1792600360167.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "u jekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "titlaġ...x"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "is-sħaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "jixirqux"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ġurnata"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "li titla'"
+    }
+  ],
+  "timestamp": "2026-10-21T16:32:40.167534096Z",
+  "model": "glm-5.3"
+}

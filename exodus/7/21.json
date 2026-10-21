@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 7:21",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Verbless clause ויהי הדם; il-Malti jeħtieġ il-kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħut",
+      "gloss": "",
+      "rationale": "הדגה singular bil-Malti jinbidel f'plural 'l-ħut' għal-li ċ-ċirkostanza tmur hekk."
+    }
+  ],
+  "translation": "U l-ħut li kien fix-xmara miet, u x-xmara faħmet, u l-Misrijin ma setgħux jixorbu ilma mix-xmara; u d-demm ⟨kien⟩ f'art Mitsrajim kollha.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "0febab48967ed0cdb86dc03f6365a619460851e3ab2178f7df67c74465ef5de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/7\/21-24.1792599227394.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "u l-ħut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li kien"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "fix-xmara"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "miet"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "u faħmet"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "x-xmara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "setgħux"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l-Misrijin"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "jixorbu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "x-xmara"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'... kollha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:47.394930520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגאון יעקב",
+      "rationale": "'bil-kobor ta' Jagħaqov' — Jaħwe jaħlef b'għajnunisru jew b'għeruq ta' Jagħaqov; l-antenati għandhom is-siġġu"
+    },
+    {
+      "kind": "addition",
+      "subject": "qatt",
+      "rationale": "l-ħalf bl-אם... לנצח jissieħeb f'moħħ il-qarrej bħala ħalf sħiħ; 'qatt' iżżid il-forza tan-negazzjoni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ninsa",
+      "rationale": "jista' jkun ukoll 'ma naħlifx li ninsa' — il-ħalf fl-imperfect bl-אם"
+    }
+  ],
+  "translation": "Ħala Jaħwe bil-kobor ta' Jagħaqov: Mela qatt ma ninsa għal dejjem lil għemejjelhom kollha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f1eace625e8ce6fc779704402dcd1258a9a87b8a6078d07b4df41b647d4a5d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/8\/5-8.1792615796800.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Ħala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "bil-kobor"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Mela"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ma ninsa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "għal dejjem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "għemejjelhom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:49:56.801457522Z",
+  "model": "glm-5.3"
+}

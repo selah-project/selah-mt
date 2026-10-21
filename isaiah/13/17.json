@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בו",
+      "rationale": "il-prepożizzjoni finali 'fih' tintela' fil-verb Malti 'jixtiequhux'"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-qarrej",
+      "rationale": "'הנני' — Ara — jaqbad l-attenzjoni ta' min jisema'"
+    }
+  ],
+  "translation": "Ara, jien qajjem kontrihom ⟨את⟩ il-Medjani, li l-fidda ma jagħtux kas tagħha, u d-deheb ma jixtiequhux.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e6f1528e78f732d87ce9a35fae03f5db992620ec926562a3c27205aedf901714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/13\/17-20.1792611151044.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "jien (ara)"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "qajjem"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kontrihom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Medjani"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "il-Medjani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "il-fidda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "jagħtux kas"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "u d-deheb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "jixtiequhux"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(fih)"
+    }
+  ],
+  "timestamp": "2026-10-21T19:32:31.045256271Z",
+  "model": "glm-5.3"
+}

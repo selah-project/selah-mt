@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ma kinux",
+      "rationale": "il-verb ישרו għandu bżonn copula fil-passat fil-Malti; il-Lhudi jaqsamha"
+    },
+    {
+      "kind": "idiom",
+      "subject": "f'għajnejh",
+      "rationale": "בעיניו: 'f'għajnejh' — idjomm semitiku għal 'skond il-ħsib tiegħu', miżmum litteralment"
+    }
+  ],
+  "translation": "U Ħiram ħareġ minn Tsor biex jara ⟨את⟩ l-ibliet li Salomo ta lilu, u ⟨ma kinux⟩ tajbin f'għajnejh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "83c105468cb03b4b62e29e5cfd3777ca43e5ea82f11da8090585f6c89da39106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/9\/9-12.1792609581133.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "u ħareġ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ħiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "minn Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "biex jara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ibliet"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "l-ibliet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lilu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "kienu tajbin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "f'għajnejh"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:21.134868050Z",
+  "model": "glm-5.3"
+}

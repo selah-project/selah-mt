@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחש בה",
+      "rationale": "'jgiddeb fiha' kontra 'jonqos fiha' (KJV\/ASV 'fail'): il-verbu jista' jkun tixrid (inbet iqarraq) jew nuqqas — hawn it-tir 'jigdefer' billi jwassal inqas milli jwegħed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בה singular",
+      "rationale": "Il-Ġibt lil 'fihom' bil-plural għax il-verb ta' qabel huwa plural; il-Lhudi għandu femminil singular, probabbilment għal Efrajm."
+    }
+  ],
+  "translation": "Għarġien u bir tal-inbid mhux se jirmuhom, u t-tir il-ġdid se jgiddeb fihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dc2a195ac3ffcd3d266f437cbe454d7274ccb39fe0d35b022f146ac78d242fa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/hosea\/9\/1-4.1792615468045.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "għarġien"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "u bir tal-inbid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "se jirmuhom"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "u t-tir il-ġdid"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "se jgiddeb"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fihom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:44:28.046172688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tlift il-wiċċ tiegħek",
+      "rationale": "נשא פנים: 'tefa' il-wiċċ' = aċċetta persuna b'mod favorévoli; il-forma letterali mażżmuma"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "David jikkmanda u jikkonferma direttament lil Abigajil"
+    }
+  ],
+  "translation": "U David ħa minn idejha ⟨את⟩ dak li kienet ġibdietlu, u qalilha: Tla' fis-sliem għand darek; ara, smajt leħnek, u tlift il-wiċċ tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1c815526323512d4e74d506d6dfb3ff207a74f9dc9281d34f1f68b575073f572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/33-36.1792608365881.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "U ħa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "minn idejha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li kienet ġibdietlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "kienet ġibdiet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lu"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "u [lilha]"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qalilha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Tla'"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "fis-sliem"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "għand darek"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ara"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "smajt"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "leħnek"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "u tlift"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il-wiċċ tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:46:05.882230762Z",
+  "model": "glm-5.3"
+}

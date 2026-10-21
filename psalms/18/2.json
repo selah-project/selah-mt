@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nħobbok b'ruħi",
+      "rationale": "ארחמך minn רחם: 'inħobbok b'ħlewwa u bi hniena' vs sempliċiment 'inħobbok'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "għajni",
+      "rationale": "חזקי (ħezeq) jidher darba biss fit-Tanakh, hawn u fid-doppju f'2 Sam 22"
+    },
+    {
+      "kind": "substitution",
+      "subject": "għajni",
+      "rationale": "ħezeq probabbilment 'saħħa, għajnuna' — mhux l-istess kelma bħala חזק (saħħa)"
+    }
+  ],
+  "translation": "U qal: Nħobbok b'ruħi, Jaħwe, għajni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/1-4.1792616653841.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "nħobbok b'ruħi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "għajni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:04:13.842508686Z",
+  "model": "glm-5.3"
+}

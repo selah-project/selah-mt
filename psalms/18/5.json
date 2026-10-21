@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני\/יבעתוני",
+      "rationale": "żewġ affissi ta' l-ewwel persuna -uni jgħattu l-bidu u t-tmiem tal-vers, framing tal-biża'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבלי",
+      "rationale": "'ħbula' kontra 'uġigħ' (minn חולי): it-tradizzjonijiet jaqsmu bejn cords u sorrows"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בליעל",
+      "rationale": "beljal — 'bla' + 'qligħ': isem ta' nies ħżiena, mhux persuna; il-Malti żamm il-ħoss"
+    }
+  ],
+  "translation": "Għamlu l-ħajt madwari ħbula tal-mewt, u nixxiegħa ta' beljal bqiegħdu jbeżżgħuni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/5-8.1792616614029.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "għamlu l-ħajt madwari"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ħbula"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tal-mewt"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "u nixxiegħa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ta' beljal"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "bqiegħdu jbeżżgħuni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:34.030338388Z",
+  "model": "glm-5.3"
+}

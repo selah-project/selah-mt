@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "Hebrew verb says only 'and he said'; Maltese subject pronoun supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bir",
+      "rationale": "באר dug well — Maltese 'bir' is itself Semitic cognate"
+    }
+  ],
+  "translation": "U ⟨hu⟩ qal: Għax ⟨את⟩ is-seba' ħrief tan-nisaġ tieħu minn idejja, biex ikunu għalija għal xhieda li jien ħrejjirt ⟨את⟩ il-bir din.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c1f4d924f7d1fc36560f46f583846f6bfc4d6ac60649151cdc49f13bce3e9e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/21\/29-32.1792598167620.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-seba' ħrief tan-nisaġ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba'"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ħrief tan-nisaġ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tieħu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "minn idejja"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "biex"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ikunu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "għal xhieda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ħrejjirt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-bir din"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "il-bir"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:07.620894250Z",
+  "model": "glm-5.3"
+}

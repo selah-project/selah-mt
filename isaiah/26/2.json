@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "l-Ebrajk għandu sempliċiment weqfil 'u jidħol'; 'biex' miżjud għaċ-ċar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שערים",
+      "rationale": "plural Ebrajk 'biebien' sar singular Malti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Iftħu l-bieb",
+      "rationale": "imperattiv li jsejjaħ — il-kanzunetta tindirizzat lil dawk li jżommu l-bieb"
+    }
+  ],
+  "translation": "Iftħu l-bieb, biex jidħol poplu ġust li jżomm il-fidi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/26\/1-4.1792611404744.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Iftħu"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "l-bieb"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "biex jidħol"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "poplu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ġust"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "li jżomm"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "il-fidi"
+    }
+  ],
+  "timestamp": "2026-10-21T19:36:44.747918005Z",
+  "model": "glm-5.3"
+}

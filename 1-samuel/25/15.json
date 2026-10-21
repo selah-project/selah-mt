@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדנו",
+      "rationale": "'ma niżllx nieqes xejn' (KJV 'miss') kontra 'ma soltu ninteressawniex'; l-għerq פקד tfisser żjara\/għadd."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "il-prepożizzjoni Lhudija את (ma') ma għandha ekwivalenti liberu fil-Malti; il-glossa tipporta ⟨את⟩."
+    }
+  ],
+  "translation": "U l-irġiel ⟨kienu⟩ tajbin magħna ħafna, u ma ġarrbuwiex, u ma niżllx nieqes xejn, il-ġranet kollha li mxejna magħhom ⟨את⟩, meta konna aħna fil-għalqa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "98be5d05332a9864912d68beb4f6954903d9a24bdce8d2bc0ff8fb9f0f923734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/14-15.1792623296247.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "u l-irġiel"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "tajbin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "magħna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "ġarrbuwiex"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "nżllx nieqes"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "xejn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il-ġranet kollha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "il-ġranet"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "mxejna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "magħhom ⟨את⟩",
+      "marks": "magħhom"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "meta konna aħna"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "fil-għalqa"
+    }
+  ],
+  "timestamp": "2026-10-21T22:54:56.247912633Z",
+  "model": "glm-5.3"
+}

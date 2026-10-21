@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hemm⟩",
+      "rationale": "L-Lhudi m'għandux kopula; bil-Malti hemm bżonn 'hemm'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kull",
+      "rationale": "'lil kull raġel' — לאיש huwa 'lil raġel' biss, 'kull' miżjud skont is-sens"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħesed",
+      "rationale": "Ħesed jitħalla skont il-ħoss Lhudi, mhux 'ħniena' waħedha"
+    }
+  ],
+  "translation": "U lilek, Adonaj, ⟨hemm⟩ ħesed, għax inti tħallas lil kull raġel skont għemilu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/62\/13-13.1792617258545.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "u lilek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ħesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "tħallas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "lil kull raġel"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "skont għemilu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:14:18.545596327Z",
+  "model": "glm-5.3"
+}

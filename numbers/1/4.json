@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "Ripetizzjoni 'raġel raġel' — kull wieħed wieħed, distribuzzjoni fuq it-tribujiet."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Il-prononom bl-aħħar 'hu' jissellef biss għall-enfasi; għadu fil-Malti."
+    }
+  ],
+  "translation": "U miegħkom ⟨את⟩ jkunu raġel għal kull tribù, raġel ras għal dar ta' missirijietu — hu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/1\/1-4.1792602411892.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "U miegħkom ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "għal kull tribù"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "għal dar"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ta' missirijietu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:51.895764825Z",
+  "model": "glm-5.3"
+}

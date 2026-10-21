@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 47:3",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kubitu",
+      "rationale": "באמה għandha ssir 'kubitu' fil-Malti, miżjuda ma' 'elf'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "elf kubitu",
+      "rationale": "l-ewwel kejl tax-xmara li qed tobħorħom."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפסים",
+      "rationale": "'għofojja' vs 'saqajn' —litteralment verby tal-għarqa; it-traduzzjonijiet jaqblu fuq l-ankles."
+    }
+  ],
+  "translation": "Meta l-raġel ħareġ lejn il-lvant, u ħabel f'idu, kejl elf [kubitu], u għaddini fl-ilmijiet, ilma sa' l-għofojja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "33d5f964440d1f610a6303e2c451905f677c6ecee1e243f70dc4650a389bba87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/47\/1-4.1792615323440.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "meta ħareġ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l-raġel"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "lejn il-lvant"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "u ħabel"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idu"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "kejl"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf ⟨kubitu⟩"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "[kubitu]"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "u għaddini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "fl-ilmijiet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אפסים",
+      "gloss": "sa' l-għofojja"
+    }
+  ],
+  "timestamp": "2026-10-21T20:42:03.441057196Z",
+  "model": "glm-5.3"
+}

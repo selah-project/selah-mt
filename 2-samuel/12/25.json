@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lilu",
+      "rationale": "il-Lhudi ma jgħidx lil min ġie mibgħut; il-Malti jeħtieġ oġġett"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jdidijaħ",
+      "rationale": "isem ifisser 'maħbub ta' Jaħ' — isem il-persuna jġorr l-għerq ħesed u l-isem Jaħ"
+    },
+    {
+      "kind": "crux",
+      "subject": "minħabba Jaħwe",
+      "rationale": "b'abur Jaħwe: 'minħabba Jaħwe' jew 'għal ġieħ Jaħwe' — l-għerq jfisser 'minħabba' jew 'favur'"
+    }
+  ],
+  "translation": "u bagħat ⟨lilu⟩ bin-Natan il-profeta, u sejjaħ ⟨את⟩ ismu Jdidijaħ, minħabba Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/12\/25-28.1792608774741.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il-profeta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismu"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jdidijaħ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:52:54.742222281Z",
+  "model": "glm-5.3"
+}

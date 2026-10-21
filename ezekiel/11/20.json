@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ilhom",
+      "rationale": "אֹתָם hawn mhux il-marka tal-objett ħieli iżda l-pronom 'ilhom' (את + suffiss), għalhekk ma nmarkatx b'⟨את⟩ bħal ואת."
+    },
+    {
+      "kind": "addition",
+      "subject": "ljа\/inkun",
+      "rationale": "il-Lhudi juża l-prepożizzjoni לְ waħda ('għal'); il-Malti jeħtieġ 'jkunu lja għal poplu' biex il-ġunta tiffunzjona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחקתי\/משפטי",
+      "rationale": "il-parallażiżmu walk–keep–do fuq żewġ nominijiet paralleli (ħoqoi \/ ġudizzji tiegħi) jinżamm fit-traduzzjoni bil-verb naqs."
+    }
+  ],
+  "translation": "Sabiex jimxu fi ħoqoi, u jżommu ⟨את⟩ l-ġudizzji tiegħi, u jagħmluhom; u jkunu lja għal poplu, u jien inkun lilhom għal Elohim.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a2f67f2cc1e46621cb53ed2e98747e81b76c4e09d374d7e75a6cf9ceda598804",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/11\/20-20.1792623613463.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Sabiex"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "fi ħoqoi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "jimxu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l-ġudizzji tiegħi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "l-ġudizzji tiegħi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "jżommu"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "u jagħmlu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ilhom"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u jkunu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ljа"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "għal poplu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "u jien"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "inkun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "għal Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T23:00:13.464324702Z",
+  "model": "glm-5.3"
+}

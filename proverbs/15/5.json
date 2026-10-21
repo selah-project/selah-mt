@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jgħodd għal għaref",
+      "rationale": "יערם għandu l-għerq 'kiesħa\/għarfa' (ערם); 'isir għaref' huwa l-qari komuni"
+    },
+    {
+      "kind": "crux",
+      "subject": "jiddeprezza",
+      "rationale": "נאץ: 'jiddeprezza' jew 'jiċċaħħad b'rabba'"
+    }
+  ],
+  "translation": "Il-ġarjeb jiddeprezza l-muser ta' missieru, iżda min jissirma t-tokħa jgħodd għal għaref.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/15\/5-8.1792618574093.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "il-ġarjeb"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "jiddeprezza"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "l-muser"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ta' missieru"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "iżda min jissirma"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "t-tokħa"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "jgħodd għal għaref"
+    }
+  ],
+  "timestamp": "2026-10-21T21:36:14.093558257Z",
+  "model": "glm-5.3"
+}

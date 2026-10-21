@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mill-foqra",
+      "rationale": "דלה is literally 'the dangling ones' (a loose thread); rendered 'the poor of the land', losing the hanging image."
+    }
+  ],
+  "translation": "U mill-foqra tal-art ħalla ir-rav tat-tabbaħin ⟨lid-dieħla⟩ għal kulturi tad-dwieli u għal ħaddiema tal-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/9-12.1792610726175.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "u mill-foqra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal-art"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ħalla"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ir-rav"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tat-tabbaħin"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "għal kulturi tad-dwieli"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "u għal ħaddiema tal-art"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:26.176973950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "'Would feign obedience \/ cringe \/ lie to Him' — KJV 'submit', JPS 'dwindle away', YLT 'feign obedience'; rendered as cringing submission."
+    },
+    {
+      "kind": "crux",
+      "subject": "עתם לעולם",
+      "rationale": "'Their time forever' — whose time and which time: their doom (JPS) or their prosperity (KJV) is disputed."
+    },
+    {
+      "kind": "addition",
+      "subject": "quddiemu",
+      "rationale": "Hebrew has only 'to Him'; 'quddiemu' (before Him) added to carry the cringing sense."
+    }
+  ],
+  "translation": "Dawk li jobgħodu lil Jaħwe jinkampaw quddiemu, u żmienhom ikun għal dejjem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/81\/13-16.1792617570349.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Dawk li jobgħodu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "jinkampaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u ikun"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "żmienhom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "għal dejjem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:19:30.350660194Z",
+  "model": "glm-5.3"
+}

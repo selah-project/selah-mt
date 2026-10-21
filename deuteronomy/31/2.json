@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לצאת ולבוא",
+      "rationale": "'toħroġ u tidħol' — idjom Lhudi għall-mexxi u tmexxija; illum 'ma nista' għadha'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן מאה ועשרים שנה",
+      "rationale": "litteralment 'iben mija u għoxrin sena'; sir 'għandi ... sena' bil-Malti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mija u għoxrin sena",
+      "rationale": "l-età ta' Moxe mhuma għaddha bħal-Lhudi"
+    },
+    {
+      "kind": "you",
+      "subject": "lilhom",
+      "rationale": "diskors dirett ta' Moxe lil Jisrael kollu"
+    }
+  ],
+  "translation": "U qal lilhom: Jien illum għandi mija u għoxrin sena; ma nista' għadha inħareġ u nidħol; u Jaħwe qal lili: Ma tgħaddix ⟨את⟩ dan il-Ġordan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "93068135cf33ae1e5fc4afae7b6848fcc2a0a396743b2258686252ac2e77c840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/31\/1-4.1792606114030.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "għandi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mija"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "u għoxrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "היום",
+      "gloss": "illum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nista'"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għadha"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "inħareġ"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "u nidħol"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Jaħwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... x"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "tgħaddi"
+    },
+    {
+      "surface": "ħירדן את",
+      "gloss": "⟨את⟩",
+      "marks": "il-Ġordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il-Ġordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-21T18:08:34.031800736Z",
+  "model": "glm-5.3"
+}

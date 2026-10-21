@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "il-ġmiel",
+      "rationale": "כבוד tfisser fil-bidu 'piż', imma hawn 'splendur, ġmiel'"
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "il-verb Lhudi mghandiex tempji futuri; il-Malti ghandu bzonnu"
+    }
+  ],
+  "translation": "U se jinżara l-ġmiel ta' Jaħwe, u kull ġisem se jarah flimkien, għax fomm Jaħwe tkellmet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/40\/5-8.1792611629248.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "se jinżara"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "il-ġmiel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "u jarah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ġisem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "flimkien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fomm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tkellmet"
+    }
+  ],
+  "timestamp": "2026-10-21T19:40:29.250755556Z",
+  "model": "glm-5.3"
+}

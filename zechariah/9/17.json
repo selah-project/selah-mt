@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טובו \/ יפיו",
+      "rationale": "Suffissi ta' min: 'it-tajjeb u s-sbuħija tiegħu' (Jaħwe, lil poplu) kontra 'tagħhom' (il-poplu, JPS) kontra mqar lejn il-verżelli."
+    },
+    {
+      "kind": "crux",
+      "subject": "דגן בחורים",
+      "rationale": "Sintassi mingħajr verb fil-ġemgħa: 'qamħ għall-iżgħażżagħ' jew 'il-qamħ jagħti ġdid lill-iżgħażżagħ' — verbadded b'mod liberu minn KJV\/Ġeneva."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ינובב",
+      "rationale": "Forma Piel ta' נוב 'to germina\/jiffjorixxi' hawn fin-nuqqas b'sens ta' fertilità, tqanqal lit-tajjeb 'jiffjorixxi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בתלות",
+      "rationale": "b'tulot tfisser 'verġni\/bniet żgħażagħ' mhux sempliċement 'verġni' fi kliem metaforiku."
+    }
+  ],
+  "translation": "Għax kemm hu sabiħ il-ġid tiegħu, u kemm hija sabiħa s-sbuħija tiegħu! Il-qamħ ser jiffjorixxi l-iżgħażżagħ, u l-inbid ġdid il-bniet.meta",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "49689ce843762268131ffbf3f56310a2eb81c7f00fb270bfe30595e5143680a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/9\/17-17.1792616255988.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "il-ġid tiegħu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u kemm"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "is-sbuħija tiegħu"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "il-qamħ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "l-iżgħażżagħ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "u l-inbid ġdid"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "ser jiffjorixxi"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "il-bniet.meta"
+    }
+  ],
+  "timestamp": "2026-10-21T20:57:35.989152752Z",
+  "model": "glm-5.3"
+}

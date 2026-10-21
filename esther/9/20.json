@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨humaw⟩",
+      "rationale": "Maltese needs the verb 'were'; Hebrew participle אשר בכל alone carries 'who were in all'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ittri",
+      "rationale": "ספרים is literally 'writings\/books\/documents'; 'ittri' (letters) fits the sending context but narrows the word."
+    }
+  ],
+  "translation": "U Mordokaj kiteb ⟨את⟩ dawn il-kliem, u bagħat ittri lil kullass dawk il-Lhud li ⟨humaw⟩ f'kull il-provinċji tar-re Aħaxwerox, il-qrib u l-mbiegħda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a8c0ef5c874f62a931e5798a5a09cdd0d195ce8558b7917420cdde547289b26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/9\/19-20.1792623980397.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "u kiteb"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-kliem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dawn il-kliem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "u bagħat"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ittri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "il-Lhud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "f'kull"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "il-provinċji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tar-re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aħaxwerox"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "il-qrib"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "u l-mbiegħda"
+    }
+  ],
+  "timestamp": "2026-10-21T23:06:20.398284296Z",
+  "model": "glm-5.3"
+}

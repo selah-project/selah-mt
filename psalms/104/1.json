@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruwaħi",
+      "rationale": "נפש hija l-ħajja\/nifs tal-bniedem, mhux 'anima' fi ħsieb sussegwenti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "il-vers jiftaħ b'sejħa imperattiva lill-ruwaħ tal-qarrej"
+    }
+  ],
+  "translation": "Ibierek ruwaħi ⟨את⟩ Jaħwe; Jaħwe, Elohim tiegħi, inti kbir wisq; bil-ġmiel u l-għama libsilt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/1-4.1792617840413.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ibierek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruwaħi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim tiegħi"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "inti kbir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "wisq"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ġmiel"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "u l-għama"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "libsilt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:00.414190610Z",
+  "model": "glm-5.3"
+}

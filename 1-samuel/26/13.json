@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ verb 'l-ispazju kien kbir'; il-Lhudi għandu biss רב — il-ħajt ta' kliem bla verb."
+    },
+    {
+      "kind": "crux",
+      "subject": "ras il-muntanja",
+      "rationale": "ראש fuq muntanja: 'ras' litterali jew 'quċċata'; l-istess kelma ta' ras il-ġisem."
+    }
+  ],
+  "translation": "U David għadda għall-ġenb l-ieħor, u safa wieqaf fuq ras il-muntanja, 'l bogħod — kbir ⟨kien⟩ l-ispazju bejniethom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/26\/13-16.1792608390226.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "U għadda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "għall-ġenb l-ieħor"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "u safa wieqaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ras"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il-muntanja"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "'l bogħod"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kbir"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "l-ispazju"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "bejniethom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:46:30.226960449Z",
+  "model": "glm-5.3"
+}

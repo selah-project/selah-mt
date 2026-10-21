@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלה אלהיך",
+      "rationale": "Formula plurali ('dawn l-allat tiegħek') b'verb singulari 'tellgħuk' — LXX u Samaritana jqraw singulari; il-plural tal-Lhudi jibqa' plural."
+    },
+    {
+      "kind": "crux",
+      "subject": "בחרט",
+      "rationale": "'B'skarpell' (Rashi) jew mid-dahħal 'f'qafas' (LXX 'f'kalċ') — żewġ qari antiki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "allat",
+      "rationale": "אלהים hawn dwar id-deheb imwaddab: 'allat' b'ittra żgħira għall-idoli, mhux isem Elohim."
+    }
+  ],
+  "translation": "U ħa minn idejhom, u sawwar ⟨את⟩ b'skarpell, u għamlu għoġol imwaddba; u qalu: Dawn l-allat tiegħek, Jisrael, li tellgħuk minn art Mitsrajim.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "6e1c9d727695a47d80fc1f12fdb81bf92e44cfa5c3f82884062361d2e97262fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/32\/1-4.1792600190706.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "U ħa"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "minn idejhom"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "u sawwar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "għoġol"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "b'skarpell"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "u għamlu"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "għoġol"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "imwaddba"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dawn"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "l-allat tiegħek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "tellgħuk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "minn art"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:29:50.707507879Z",
+  "model": "glm-5.3"
+}

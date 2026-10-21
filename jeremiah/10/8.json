@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובאחת",
+      "rationale": "'flimkien f'waħda' (one and all, KJV) kontra YLT 'f'waħda' (bl-istess mod) kontra 'għal darb'a waħda' — il-Lhudi mhux ċar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jhumu bħal bhejjem",
+      "rationale": "יבערו hawn 'jkunu bhejjem bla moħħ', mhux 'jaħarqu' — l-istess għerq נשא b'żewġ tifsiriet."
+    },
+    {
+      "kind": "crux",
+      "subject": "עץ הוא",
+      "rationale": "'l-injam, siġra huwa' — tagħlim tal-idoli huwa siġra: lil min jirreferi, l-ewlenija tnejn."
+    }
+  ],
+  "translation": "U flimkien jhumu bħal bhejjem u jkunu sħaħ; tagħlim tal-vanjitajiet — l-injam, siġra huwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3de59caafb89fa41a15557fd268c4eaef4097bcb65b90b88d8b024fab11557bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/10\/5-8.1792612675787.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "u flimkien"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "jhumu bħal bhejjem"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "u jkunu sħaħ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tagħlim"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tal-vanjitajiet"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "l-injam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siġra huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:57:55.788855851Z",
+  "model": "glm-5.3"
+}

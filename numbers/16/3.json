@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 16:3",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rav lachem",
+      "rationale": "litteralment 'ħafna għalikom', iffirmat bħala 'hemm biżżejjed għalikom' — protesta kontra l-eċċess ta' potestà"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתנשאו \/ נשיאי",
+      "rationale": "l-istess għerq nasa' — il-nasjixja (vers 2) jilgħab fuq li 'jitilgħu lilkom': il-kbirin jiċċampjaw lilhom infushom"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Moxe u Aharon",
+      "rationale": "indirizz dirett mir-ribelli b' mistoqsija retorika"
+    }
+  ],
+  "translation": "U ġemgħew kontra Moxe u kontra Aharon, u qalulhom: Hemm biżżejjed għalikom, għax il-ġemgħa kollha, kulħadd minnhom, huma ⟨qaddisin⟩, u Jaħwe fosthom; u għaliex titilgħu lilkom fuq il-milja ta' Jaħwe?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b08d47f344a996abd6a774dec18d811fa32e96645baca05782813867eac04585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/16\/1-4.1792602852369.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "u ġemgħew"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u kontra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Hemm biżżejjed"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "għalikom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "il-ġemgħa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kulħadd minnhom"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qaddisin"
+    },
+    {
+      "surface": "ובתוכם",
+      "gloss": "u fosthom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "u għaliex"
+    },
+    {
+      "surface": "תתנשאו",
+      "gloss": "titilgħu lilkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "il-milja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T17:14:12.372481738Z",
+  "model": "glm-5.3"
+}

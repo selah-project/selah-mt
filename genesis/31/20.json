@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "seraq ⟨את⟩ il-qalb",
+      "rationale": "Hebrew 'stole the heart of' = kept him in the dark, acted without his knowledge; kept literal with the picture intact."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב",
+      "rationale": "Same verb as Rachel's theft in v.19 — Jacob 'steals' Laban's heart just as Rachel steals the terafim."
+    }
+  ],
+  "translation": "U Jagħaqov seraq ⟨את⟩ qalb Lavan l-Aramaj, mingħajr ma għarrafh li huwa kien jaħrab.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "448808e7e38ff01d675a9f145a877a90dad509ecfdadf6faea27717820a36d2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/18-20.1792602137979.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "U seraq"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jagħaqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalb Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l-Aramaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "mingħajr ma"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "għarraf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-h"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kien jaħrab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-10-21T17:02:17.982318044Z",
+  "model": "glm-5.3"
+}

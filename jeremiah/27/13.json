@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 27:13",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "verb 'to speak' and noun 'pestilence' share one root-shape; both occur in this verse."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל הגוי",
+      "rationale": "'dwar in-nazzjon' — literally 'toward\/concerning the nation'; some read 'against'."
+    }
+  ],
+  "translation": "Għaliex ttinux inti u niesek bil-ħatar, bil-ġuħ u bil-pesta, kif tkellem Jaħwe dwar in-nazzjon li ma jaqbdax lil ⟨את⟩ re' Babil?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/27\/13-16.1792613135521.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ttinux"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "u niesek"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bil-ħatar"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "bil-ġuħ"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "u bil-pesta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tkellem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dwar"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "in-nazzjon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "jaqbdax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "re' Babil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re'"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    }
+  ],
+  "timestamp": "2026-10-21T20:05:35.522218047Z",
+  "model": "glm-5.3"
+}

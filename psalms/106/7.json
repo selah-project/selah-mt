@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימרו על ים",
+      "rationale": "'rribellaw fuq il-baħar' kontra 'mtellgħu għall-għarrieda fuq il-baħar' — מרה jista' jkun ribelljoni jew imħabba tqil."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ים סוף",
+      "rational": "Baħar tas-Suf: literalment 'baħar tar-riħu (papiru)', mhux 'il-Baħar l-Aħmar'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "ħesed miżmum skond id-dokument, mhux 'ħniena' waħedha."
+    }
+  ],
+  "translation": "Missirijietna f'Mitsrajim ma fehmux il-moħġġtieg tiegħek, ma ftakrux ⟨את⟩ l-abbundanza ta' ħesed tiegħek, u rribellaw fuq il-baħar, fil-Baħar tas-Suf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/106\/5-8.1792617896945.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Missirijietna"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "f'Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "fehmu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "il-moħġġtieg tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ftakrux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-abbundanza ta' ħesed tiegħek"
+    },
+    {
+      "surface": "רב",
+      "gloss": "l-abbundanza"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ta' ħesed tiegħek"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "u rribellaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il-baħar"
+    },
+    {
+      "surface": "בים",
+      "gloss": "fil-Baħar"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "tas-Suf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:56.946478873Z",
+  "model": "glm-5.3"
+}

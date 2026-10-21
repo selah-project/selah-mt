@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dur bi dnubi",
+      "rationale": "שא נא את חטאתי 'lift, pray, my sin' — 'bear with my sin' vs 'pardon my sin' (KJV\/JPS); the literal 'lift' is kept"
+    },
+    {
+      "kind": "you",
+      "subject": "Saul to Samuel",
+      "rationale": "Saul pleads directly with Samuel after confessing his sin"
+    }
+  ],
+  "translation": "U issa, jekk jogħġbok, dur ⟨את⟩ bi dnubi, u erga' miegħi, u nagħti ġieħ lil Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/15\/25-28.1792608012873.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "שא",
+      "gloss": "dur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dnubi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bi dnubi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "u erga'"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "miegħi"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "u nagħti ġieħ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:12.874280034Z",
+  "model": "glm-5.3"
+}

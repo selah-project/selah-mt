@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jien",
+      "rationale": "il-qedem Lhuid jaħtar leh bil-verb wieħed; il-pronom miżjud biex iċċarġja lil min jitkellem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naġmel ħażin",
+      "rationale": "ארשע hu verbu — 'kun\/agħmel ħażin' — mhux aġġettiv 'ħażin' biss"
+    }
+  ],
+  "translation": "skont għerftek, li jien ma naġmelx ħażin; u m'hemm min jisalvani minn idejk.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/10\/5-8.1792619204300.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "skont"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "għerftek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "naġmel ħażin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "u m'hemm"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "minn idejk"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "min jisalvani"
+    }
+  ],
+  "timestamp": "2026-10-21T21:46:44.301490667Z",
+  "model": "glm-5.3"
+}

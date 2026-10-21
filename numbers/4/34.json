@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "għaddew",
+      "rationale": "פקד hawn = għadd (ċensiment), mhux żjara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nassara",
+      "rationale": "נשיא = eżaltat, kap; 'nassar' żomm il-ħoss ta' nsijiem"
+    }
+  ],
+  "translation": "U Moxe u Aharon u n-nassara tal-laqgħa għaddew ⟨את⟩ l-iben ta' Keħat skont il-familji tagħhom u skont id-dar tal-missirijiet tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4c83d4d49ff09bd6e8bee4806ad167b5ed717e9dd24195f8788eacce3df5adab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/33-36.1792602433778.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "għaddew"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "u Aharon"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "u n-nassara"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-iben ta' Keħat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "l-iben"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ta' Keħat"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "skont il-familji tagħhom"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "u skont id-dar"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "tal-missirijiet tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:07:13.779526349Z",
+  "model": "glm-5.3"
+}

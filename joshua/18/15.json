@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 18:15",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fruntiera",
+      "rationale": "Bidu tan-naħa tan-nofsinhar tal-fruntiera ta' Benjamin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lejn il-punent",
+      "rationale": "Jammah tfisser litteralment 'lejn il-baħar', jiġifieri lejn il-punent; ttraducejt id-direzzjoni mhux il-kelma."
+    }
+  ],
+  "translation": "U n-naħa tan-nofsinhar, mill-aħħar ta' Kirjat-Jegħarim; u l-fruntiera ħarġet lejn il-punent, u ħarġet sal-għajn tal-ilmijiet ta' Neftoak.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e55e02be3472b0c6dd4faa87c2edab964613bb0cdc32b6e9ed884d90383acdf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/18\/13-16.1792606713870.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "u n-naħa"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "tan-nofsinhar"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "mill-aħħar"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jegħarim"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u ħarġet"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "il-fruntiera"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lejn il-punent"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u ħarġet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "l-għajn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tal-ilmijiet"
+    },
+    {
+      "surface": "נפתוח",
+      "gloss": "ta' Neftoak"
+    }
+  ],
+  "timestamp": "2026-10-21T18:18:33.871737323Z",
+  "model": "glm-5.3"
+}

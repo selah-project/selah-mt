@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruħek",
+      "rationale": "נפש hija n-nifs, il-ħajja, il-ħela — mhux ruħ fl-iskunzur Platoniku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמרך\/ישמר",
+      "rationale": "għerq שׁמר imtenni — l-istess kelma tal-versi 3–5 u 8"
+    }
+  ],
+  "translation": "Jaħwe jħarsek minn kull ħażen; jħares ⟨את⟩ ruħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/121\/5-8.1792618110335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "jħarsek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minn kull"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ħażen"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "jħares"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruħek"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ruħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:30.335795241Z",
+  "model": "glm-5.3"
+}

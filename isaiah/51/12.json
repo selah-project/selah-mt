@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "irdoppjar tal-pronunom għall-aċċent: 'Jien, jien' — il-vuċi ta' Jaħwe nnifsu"
+    },
+    {
+      "kind": "you",
+      "subject": "lil Sijon \/ lill-eżiljati",
+      "rationale": "Jaħwe jwieġeb is-sejħiet tal-versi 9-10 b'indirizz dirett"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש \/ אדם",
+      "rationale": "par 'bniedem' u 'iben adam' — parallelżmu semitiku, iż-żewġ kelmiet tal-bniedem mortal"
+    }
+  ],
+  "translation": "Jien, jien huwa li nwegħedkom; min inti, li tibża' minn bniedem mejjet, u minn iben adam, ħaxix li jingħata?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/51\/9-12.1792611943616.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jien"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "li nwegħedkom"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "inti",
+      "marks": "li tibża'"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "li tibża'"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "minn bniedem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mejjet"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "u minn iben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ħaxix"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "li jingħata"
+    }
+  ],
+  "timestamp": "2026-10-21T19:45:43.619977738Z",
+  "model": "glm-5.3"
+}

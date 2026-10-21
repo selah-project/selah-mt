@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tastier",
+      "rationale": "נאד hija ġilda għall-likwidu — 'fjaskun' jew 'barmil żgħir' fil-verżjonijiet oħra; 'tastier' jaqreb lejn oġġett ta' ġilda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tbatx",
+      "rationale": "נוֹד tfisser 'tnaxxir, ħajja ta' persuna li ttbattex' — mhux sempliċement 'ħarba'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "għaddajthom",
+      "rationale": "Allużjoni għall-għadd u r-reġistrazzjoni — it-tbatx magħduda, id-dmugħ miktuba f'ktieb."
+    }
+  ],
+  "translation": "It-tbatx tiegħi int għaddajthom; poġġi d-dmugħ tiegħi fit-tastier tiegħek; ma qegħdinx f'ktieb tiegħek?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/56\/9-12.1792617193341.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "it-tbatx tiegħi"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "għaddajthom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "poġġi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "d-dmugħ tiegħi"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "fit-tastier tiegħek"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "f'ktieb tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:13.341962487Z",
+  "model": "glm-5.3"
+}

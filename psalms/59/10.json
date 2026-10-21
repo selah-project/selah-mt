@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עזו אליך אשמרה",
+      "rationale": "qari tradizzjonali: 'l-ħila tiegħu nieżżra fik' (il-ħila tal-għadu jew ta' Alla); qari ieħor: 'Qawwa tiegħi, għalik nara ħares' (theżż l-Isem bħala appell)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משגבי",
+      "rationale": "litteralment 'il-blat għoli u mbiegħed tiegħi' — post imkieni ma jlaħħquh xejn; bil-Malti 'għolja-fortizza"
+    }
+  ],
+  "translation": "Il-qawwa tiegħi, għalik inżomm rasi ⟨ħaj⟩; għax Elohim huwa l-għolja-fortizza tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/59\/9-12.1792617197528.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "il-qawwa tiegħi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "inżomm rasi ħaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "l-għolja-fortizza tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:13:17.528903629Z",
+  "model": "glm-5.3"
+}

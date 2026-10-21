@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 1:16",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקוא",
+      "rationale": "Keva (post fil-Kilikja, 'Kue') skont il-maġġoranza; verżjonijiet qodma qrawh bħala 'remixa ta' żwiemel' jew 'ħajt (tal-injam)' — l-eskport tal-injam minn Mitsrajim"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Il-kostruzzjoni nominals m'għandhiex verbu; il-copula 'kienet' miżjuda bil-Malti"
+    }
+  ],
+  "translation": "U d-daħla taż-żwiemel ta' Salomonn kienet minn Mitsrajim, u minn Keva; in-negozjanti tas-sultan minn Keva kienu jieħdu b'prezz.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/1\/13-16.1792622277198.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "U d-daħla"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "taż-żwiemel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomonn"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "minn Mitsrajim"
+    },
+    {
+      "surface": "ומקוא",
+      "gloss": "u minn Keva"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "in-negozjanti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tas-sultan"
+    },
+    {
+      "surface": "מקוא",
+      "gloss": "minn Keva"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "kienu jieħdu"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "b'prezz"
+    }
+  ],
+  "timestamp": "2026-10-21T22:37:57.200032864Z",
+  "model": "glm-5.3"
+}

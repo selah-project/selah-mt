@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "harrèj El",
+      "rationale": "'il-muntanji ta' El' jew, għax El jista' jkun superlativ, 'il-muntanji l-kbar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tehom",
+      "rationale": "תהום hu l-abiss, il-baħar primordjali — 'l-fond il-kbir' iżomm id-deżerta tal-ħoss"
+    }
+  ],
+  "translation": "It-tsedeq tiegħek bħall-muntanji ta' El; il-ġudizzju tiegħek ⟨hija⟩ l-fond il-kbir; bniedem u bhejjem tisalvizza, Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/36\/5-8.1792616959693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "It-tsedeq tiegħek"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "bħall-muntanji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta' El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "il-ġudizzju tiegħek"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "l-fond"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "il-kbir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "u bhejjem"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "tisalvizza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:19.693998879Z",
+  "model": "glm-5.3"
+}

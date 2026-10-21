@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "interjezzjoni li tfisser 'ħa lin', ma tmurrx': miżjuda 'li' biex tinbena s-sentenza"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "hawn אם mhiex kondizzjonali talli interrogattiva: saħħaħ lil-ġurament, mhix 'jekk'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tumma",
+      "rationale": "תֻמָּה = innoċenza sħiħa; il-Malti żejjed il-kelma maqluba mill-ħoss"
+    }
+  ],
+  "translation": "Ħalila għalija li nagħmel ⟨את⟩kom ġusti — sa mmut, ma nwarrabx it-tumma tiegħi minni.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/27\/5-8.1792619557030.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "ħalila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "אם",
+      "gloss": "li"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "nagħmel ġusti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kom",
+      "marks": "kom (lis-seħta tal-ħbiberija)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "mmut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "nwarrabx"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "it-tumma tiegħi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:37.030743445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "u niżżel",
+      "rationale": "וְנִחֲתָה: 'inżlet' (il-qaws tinżel mgħawġa mid-dirgħajn) kontra KJV 'inkisret' (qaws tal-ħadid tinkser); il-verba tgħid 'tniżżel\/tingħafa', mhux 'tinkser'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tar-ram",
+      "rationale": "נחושה huwa ram\/ħadid imħallat, mhux 'istad' ta' KJV"
+    }
+  ],
+  "translation": "Jgħalllem idejja għall-ġlied, u niżżel qaws tar-ram b'dirgħajja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "07777335d6fec712f4ce1638740460f46e07e106b808e25431c7d8a099ec3359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/34-35.1792623759522.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "jgħalllem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idejja"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "għall-ġlied"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "u niżżel"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qaws"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tar-ram"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "b'dirgħajja"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:39.522821702Z",
+  "model": "glm-5.3"
+}

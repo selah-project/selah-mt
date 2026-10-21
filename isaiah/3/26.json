@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "il-bibien tagħha jivvjaġġaw",
+      "rationale": "persunikazzjoni: il-bibien (bil-Ġerusalemm mingħajr nies) jieħu l-għajt u jivvjaġġaw"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקתה",
+      "rationale": "qrib ta' נקה 'titnaddaf\/titfassad': KJV 'desolate', JPS 'utterly bereft', YLT 'emptied'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לארץ תשב",
+      "rationale": "'toqgħod l-art' — poż ta' withRouter mortali; l-awd ibqa' hekk"
+    }
+  ],
+  "translation": "U jieħu l-għajt u jivvjaġġaw il-bibien tagħha, u hi titnaddfu ⟨għal⟩ xejn, tilqa' l-art u toqgħod.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "28aab94f341e3b3fe1e1d9587fc54a75d5d3557f410479cab60f1cf5fdb004f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/3\/25-26.1792610828817.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "u jieħu l-għajt"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "u jivvjaġġaw"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "il-bibien tagħha"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "u hi titnaddfu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "toqgħod"
+    }
+  ],
+  "timestamp": "2026-10-21T19:27:08.818633140Z",
+  "model": "glm-5.3"
+}

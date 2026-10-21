@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "aħna ma tminux",
+      "rationale": "תמנו is second person feminine singular ('they have not ended' — the mercies), but many render 'we are not consumed'; the feminine singular points to חסדי as subject"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħniena",
+      "rationale": "רחמים is plural of רחם, 'wombs' — compassion from the womb-root"
+    }
+  ],
+  "translation": "Il-ħesed ta' Jaħwe — għaliex ma tminux, għaliex ma kinux għajbien il-ħniena tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/3\/21-24.1792620135147.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "il-ħesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "tminux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kinux"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "għajbien il-ħniena tiegħu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:02:15.147919344Z",
+  "model": "glm-5.3"
+}

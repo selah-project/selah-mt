@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiġu bilqieghdina",
+      "rationale": "l-għarbi għandu stativ; il-Malti jżid verb għall-kopula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/ירושלים",
+      "rationale": "il-ġdida tal-כסאות doppja: troni għall-ġudizzju, troni għal dar David — ripetizzjoni żżommtha"
+    }
+  ],
+  "translation": "Għax hemm jiġu bilqieghdina troni għall-ġudizzju, troni għal dar David.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/122\/5-8.1792618126186.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiġu bilqieghdina"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "troni"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "għall-ġudizzju"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "troni"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "għal dar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-21T21:28:46.186804788Z",
+  "model": "glm-5.3"
+}

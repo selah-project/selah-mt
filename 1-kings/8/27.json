@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 8:27",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי (second)",
+      "rationale": "the second כי is absorbed into the a fortiori idiom 'kemm iktar'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "Hebrew 'how much more\/less' a fortiori idiom rendered as Maltese 'kemm iktar'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים\/שמי השמים",
+      "rationale": "superlative by repetition — 'smewwiet is-smewwiet' keeps the Hebrew repetition; the dual of שמים is not a countable two."
+    }
+  ],
+  "translation": "Għaliex — minn tassew jaqgħad Elohim fuq l-art? Ara, is-smewwiet u smewwiet is-smewwiet ma jistgħux jifilħuk, kemm iktar din id-dar li jien bnejt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "494601008492f3b30020b5e25620a324351a2acce6582c9f5bab104c4743c70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/25-28.1792609536448.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "האמנם",
+      "gloss": "minn tassew"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jaqgħad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "u smewwiet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-smewwiet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכלכלוך",
+      "gloss": "jistgħux jifilħuk"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kemm iktar"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הבית",
+      "gloss": "din id-dar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "jien bnejt"
+    }
+  ],
+  "timestamp": "2026-10-21T19:05:36.449320698Z",
+  "model": "glm-5.3"
+}

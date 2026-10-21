@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 10:2",
+  "book": "esther",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tifrissa\/tifsira",
+      "rationale": "וּפָרָשַׁת is 'exposition, full account'; rendered 't-tifsira' (the explanation) rather than a role-word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלת\/גדלו",
+      "rationale": "The root גדל sounds twice — the greatness of Mordecai and the king who made him great — a play lost in Maltese."
+    },
+    {
+      "kind": "mystery",
+      "subject": "il-ktieb tal-kliem tal-ġranet",
+      "rationale": "The verse points to a chronicle the reader does not have: the full account is withheld outside the book."
+    }
+  ],
+  "translation": "U kull għemil ta' qawwtu u ta' ħiltu, u t-tifsira ta' kobor Mordekaj, li bih ir-re kabbru — ma humiex miktuba fuq il-ktieb tal-kliem tal-ġranet tas-slaten ta' Medja u Paras?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/10\/1-3.1792620575214.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "U kull"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "għemil"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ta' qawwtu"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "u ta' ħiltu"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "u t-tifsira"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ta' kobor"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kabbru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "humiex"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "miktuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il-ktieb"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tal-kliem"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "tal-ġranet"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "tas-slaten"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ta' Medja"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "u Paras"
+    }
+  ],
+  "timestamp": "2026-10-21T22:09:35.215978285Z",
+  "model": "glm-5.3"
+}

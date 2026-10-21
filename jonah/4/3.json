@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפש hija nifs \/ ħajja-vitalità, mhux 'ruħ' fl-imħabba tal-ġisem — bil-Malti 'nifs' iżomm il-ħoss u s-sens."
+    },
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Lhudi m'għandux verb 'hija' f' 'טוב מותי' — il-kopula miżjuda bil-Malti."
+    }
+  ],
+  "translation": "U issa, Jaħwe, ħu, jekk jogħġbok, ⟨את⟩ nifsi mingħandi, għax mewti hija aħjar mill-ħajja tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jonah\/4\/1-4.1792615815437.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "U issa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ħu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogġġbok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nifsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nifsi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mingħandi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hija aħjar"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "mewti"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "mill-ħajja tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T20:50:15.439459844Z",
+  "model": "glm-5.3"
+}

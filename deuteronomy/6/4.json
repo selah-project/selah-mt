@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wieħed",
+      "rationale": "אחד: 'wieħed' (unità assoluta) kontra 'wieħed biss' jew 'uniku'; it-test jgħid biss 'wieħed'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi m'għandux verb; il-Malti jeħtieġ il-kopula"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Isma'",
+      "rationale": "imperattiv li jsejjaħ lill-qarrej u lis-smigħ"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "indirizz dirett lil Jisrael"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "l-Elohim tagħna ... wieħed",
+      "rationale": "il-plural ta' Elohim ma jinqalbux: il-plural ta' Ġen 1:26 jibqa' plural, u 'wieħed' jgħid dak li jgħid"
+    }
+  ],
+  "translation": "Isma', ja Jisrael: Jaħwe, l-Elohim tagħna, Jaħwe ⟨hu⟩ wieħed.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/6\/1-4.1792605459697.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Isma'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ja Jisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "l-Elohim tagħna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wieħed"
+    }
+  ],
+  "timestamp": "2026-10-21T17:57:39.699068129Z",
+  "model": "glm-5.3"
+}

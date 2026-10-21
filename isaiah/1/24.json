@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Inneħħi l-inkwiet",
+      "rationale": "אנחם minn נחם — \"inħelsu r-ruħ, inbiegħed niketbi\"; KJV \"ease me\""
+    },
+    {
+      "kind": "crux",
+      "subject": "eżektri",
+      "rationale": "מצרי mill-għerq \"dejjaq\" — \"dawk li jagħmlu l-angustja\" jiġifieri l-avversarji"
+    }
+  ],
+  "translation": "Għalhekk jgħid Adonaj, Jaħwe Tsebawot, il-Qawwi ta' Jisrael: Ħaħ! Inneħħi l-inkwiet minn eżektri, u nieħu ndiema minn għedewwejai.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/1\/21-24.1792610866984.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Għalhekk"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebawot"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "il-Qawwi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ħaħ!"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "Inneħħi l-inkwiet"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "minn eżektri"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "u nieħu ndiema"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "minn għedewwejai"
+    }
+  ],
+  "timestamp": "2026-10-21T19:27:46.985138241Z",
+  "model": "glm-5.3"
+}

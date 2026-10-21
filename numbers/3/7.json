@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישמרו \/ משמרת",
+      "rationale": "għerq שׁמר darbtejn: 'jħarsu l-ħarsien' — l-għassa ta' min jħares, mitlufa ftit bil-Malti"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (משמרתו)",
+      "rationale": "l-aleph-tav mal-possessiv imdendel ma' 'għassa tiegħu', mhux ripetut separatament"
+    }
+  ],
+  "translation": "u jħarsu ⟨את⟩ l-għassa tiegħu, u ⟨את⟩ l-għassa tal-knisja kollha quddiem it-tinda tal-laqgħa, biex jagħmlu ⟨את⟩ is-servizz tal-Mixkan.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/3\/5-8.1792602368844.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "u jħarsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għassa tiegħu"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "l-għassa tiegħu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-għassa tal-knisja kollha"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "l-għassa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kol"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "il-knisja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "it-tinda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "biex jagħmlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "is-servizz tal-Mixkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "is-servizz"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tal-Mixkan"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:08.848010843Z",
+  "model": "glm-5.3"
+}

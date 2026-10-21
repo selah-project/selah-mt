@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mid-deżert ta' Sin sa Reħov",
+      "rationale": "Il-vers jiddefinixxi l-fruntieri taż-żona spikkjata bl-estremi tagħha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבא חמת",
+      "rationale": "'Dak li jidħol għal Ħamat' — post jew id-daħla ta' Ħamat; xi traduzzjonijiet jieħduh bħala verb ('meta wieħed jidħol')."
+    }
+  ],
+  "translation": "U telgħu u spekjaw ⟨את⟩ l-art, mid-deżert ta' Sin sa Reħov, fid-dħul ta' Ħamat.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "88b56335fc16430197b8e71700a49db5367559a661e80d68ccb5398cd7bc9a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/13\/21-24.1792602683788.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "telgħu"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "spekjaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-art"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "mid-deżert"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Reħov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "fid-dħul"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ħamat"
+    }
+  ],
+  "timestamp": "2026-10-21T17:11:23.790219185Z",
+  "model": "glm-5.3"
+}

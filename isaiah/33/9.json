@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tella' ħmar wiċċu",
+      "rationale": "חפיר litteralment 'taħmar' — tifsira 'tella' ħmar wiċċu' tfisser miblugħ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונער",
+      "rationale": "'jitremxu' (KJV 'shake off their fruits') kontra 'jiġu mgħarrfa' — għerq נער iffissar b'mod varju"
+    }
+  ],
+  "translation": "Għadha tgħin, għadha tdgħif l-art; Libnan tella' ħmar wiċċu u nixef; Saron saret bħal deżert, u Bašan u Karmel jitremxu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "a56ab7d8fc4f967477cd1ba253603db4e6465427fc768b472f00a4fee4b6809b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/33\/9-12.1792611494701.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "tgħin"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "tdgħif"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "tella' ħmar wiċċu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libnan"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "nixef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "saret"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Saron"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "bħal deżert"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "jitremxu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "u Karmel"
+    }
+  ],
+  "timestamp": "2026-10-21T19:38:14.702518080Z",
+  "model": "glm-5.3"
+}

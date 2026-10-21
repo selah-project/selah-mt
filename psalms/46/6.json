@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hu⟩",
+      "rationale": "il-Lhudi m'għandux kopula; il-Malti jeħtieġha"
+    },
+    {
+      "kind": "crux",
+      "subject": "meta jaqleb il-lejl għall-ghodu",
+      "rationale": "לפנות בקר: 'meta jersaq il-bokor' (KJV 'right early') vs 'meta ddawwal id-dawl'"
+    }
+  ],
+  "translation": "Elohim ⟨hu⟩ f'nofsha, bla t-tremit ttfittex; Elohim jgħinha meta jaqleb il-lejl għall-ghodu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/46\/5-8.1792617047785.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "f'nofsha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bla"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ttremit"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "jgħinha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "meta jaqleb"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "l-ghodu"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:47.786487932Z",
+  "model": "glm-5.3"
+}

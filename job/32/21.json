@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nirfa' l-wiċċ",
+      "rationale": "נשא פנים 'lift the face' = show partiality; rendered literally with the idiom kept"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אכנה",
+      "rationale": "kanah 'address by an added name, eulogize' — rare word; here 'give flattering titles'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lill-qriegħda",
+      "rationale": "Elihu's נא 'I pray you' appeals to his hearers as he vows impartiality"
+    }
+  ],
+  "translation": "Jekk jogħġobkom, mela ħa nirfa' l-wiċċ ta' raġel, u lil bniedem ma nsemmihx b'titli tqil.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/32\/21-22.1792619631560.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ħa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Jekk jogħġobkom"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nirfa'"
+    },
+    {
+      "surface": "פני",
+      "gloss": "l-wiċċ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u lil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "nsemmihx b'titli tqil"
+    }
+  ],
+  "timestamp": "2026-10-21T21:53:51.561402570Z",
+  "model": "glm-5.3"
+}

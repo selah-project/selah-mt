@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "raġelha",
+      "rationale": "Hebrew says only איש 'a man \/ her man'; the possessive 'her' is supplied by context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעם איש מעם",
+      "rationale": "the doubled 'minn għand raġel, minn għand Paltiel' is a Hebrew appositional repetition, kept literally"
+    }
+  ],
+  "translation": "U Ix-Boxet bagħat u ħadha minn għand raġelha, minn għand Paltiel iben Lajx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/3\/13-16.1792608609210.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ix-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boxet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "u ħadha"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "minn għand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġelha"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "minn għand"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Lajx"
+    }
+  ],
+  "timestamp": "2026-10-21T18:50:09.211903889Z",
+  "model": "glm-5.3"
+}

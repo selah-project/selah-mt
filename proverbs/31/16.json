@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 31:16",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ħasbet",
+      "rationale": "זמם ġeneralment 'ippjana' (spiss ħażin); hawn 'ħasbet\/kkalkulat' bħal KJV 'considereth'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ġnien",
+      "rationale": "כרם = ġnien tal-għeneb speċifikament, mhux ġnien b'mod ġenerali"
+    }
+  ],
+  "translation": "Ħasbet għalqa u ħaditha; bil-frott ta' idejha ħawwlet ġnien.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/31\/13-16.1792618975112.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זממה",
+      "gloss": "ħasbet"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "għalqa"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "u ħaditha"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "bil-frott"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "ta' idejha"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ħawwlet"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ġnien (tal-għeneb)"
+    }
+  ],
+  "timestamp": "2026-10-21T21:42:55.113749838Z",
+  "model": "glm-5.3"
+}

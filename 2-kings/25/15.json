@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב ... כסף כסף",
+      "rationale": "irdoppjar tal-materjal: 'deheb, deheb; fidda, fidda' — jenfasizza l-metall pur; żmienhem fil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב טבחים",
+      "rationale": "litteralment 'kaptan tal-biċċiera' (biċċa tal- ġellieda); 'kaptan tal-gwardja' (KJV) kontra l-ktajjeb eżekuttiv"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Lhudi jghid biss 'li deheb, deheb'; il-kopula miżjuda bil-Malti"
+    }
+  ],
+  "translation": "U ⟨את⟩ il-panewi tan-nar, u ⟨את⟩ il-ktajjen — dak li ⟨hu⟩ deheb, deheb, u dak li ⟨hu⟩ fidda, fidda — ħadhom il-kaptan tal-għassiesa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/13-16.1792610740822.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-panewi tan-nar"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "il-panewi tan-nar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-ktajjen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "il-ktajjen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dak li"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "u dak li"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ħadhom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "il-kaptan"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tal-għassiesa"
+    }
+  ],
+  "timestamp": "2026-10-21T19:25:40.823851117Z",
+  "model": "glm-5.3"
+}

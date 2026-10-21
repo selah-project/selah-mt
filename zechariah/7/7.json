@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 7:7",
+  "book": "zechariah",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kienet⟩ · ⟨kienu⟩",
+      "rationale": "Maltese requires copula\/auxiliary for the stative participles; Hebrew participle carries it alone"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבת\/ישב",
+      "rationale": "root repetition 'inhabited' opening and closing the verse — frame kept with 'abitata\/abitati'"
+    }
+  ],
+  "translation": "M'hux ⟨את⟩ dawn il-kliem li seħħ Jaħwe bi ‹id› il-profeti l-ewwel, meta Jeruxalajim ⟨kienet⟩ abitata u fil-miġjaħ, u l-ibliet tagħha madwarha, u n-Nefel u x-Xejjel ⟨kienu⟩ abitati?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/7\/5-8.1792616305546.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "m'hux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawn il-kliem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dawn il-kliem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "seħħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi-id"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "il-profeti"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "meta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruxalajim"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "abitata"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "u fil-miġjaħ"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "u l-ibliet tagħha"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "madwarha"
+    },
+    {
+      "surface": "והנגב",
+      "gloss": "u n-Nefel"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "u x-Xejjel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "abitati"
+    }
+  ],
+  "timestamp": "2026-10-21T20:58:25.547605270Z",
+  "model": "glm-5.3"
+}

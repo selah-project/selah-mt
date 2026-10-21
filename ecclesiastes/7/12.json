@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצל ... בצל",
+      "rationale": "repetizzjoni parallela — l-istess kelma 'dell' għal għerf u flus"
+    },
+    {
+      "kind": "crux",
+      "subject": "בצל",
+      "rationale": "'dell\/kenn' — KJV 'defence'; l-ebda kelma Maltija waħda ma ttejjeb il-metàfora"
+    }
+  ],
+  "translation": "Għax fid-dell tal-għerf ⟨hemm ukoll id-⟩dell tal-flus; iżda l-vantaġġ tal-għarfien hu li l-għerf tagħti ħajja lis-sidien tagħha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/7\/9-12.1792620204254.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "fid-dell"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "tal-għerf"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dell"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "tal-flus"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "iżda l-vantaġġ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tal-għarfien"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "l-għerf"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tagħti ħajja"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "lis-sidien tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T22:03:24.255637047Z",
+  "model": "glm-5.3"
+}

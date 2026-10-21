@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tessawtu l-gideb",
+      "rationale": "טפלי שקר: 'plasterers of lies' (JPS) vs 'forgers of lies' (KJV) — Hebrew picture is patching plaster over a wall"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tfissru ta' xeħet",
+      "rationale": "רפאי אליל literally 'healers of nothing\/no-value' — physicians of no value"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל \/ אליל",
+      "rationale": "v3 has אל twice (God); v4 answers with אליל (worthless) — the pun on God vs no-value is lost in translation"
+    }
+  ],
+  "translation": "Intom però tessawtu l-gideb, tfissru ta' xeħet — intom ilkoll.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/13\/1-4.1792619319679.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "però"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Intom"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "tessawtu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "l-gideb"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "tfissru"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "ta' xeħet"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "intom ilkoll"
+    }
+  ],
+  "timestamp": "2026-10-21T21:48:39.680171299Z",
+  "model": "glm-5.3"
+}

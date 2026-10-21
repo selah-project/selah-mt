@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "Istruzzjoni mużikali li tibqa' ma' translitterata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוד",
+      "rationale": "Ħod = ġmiel-imponenti, isbaħ milli 'glorja'"
+    }
+  ],
+  "translation": "Elowaħ ġej minn Tejman, u l-Qaddis minn muntja Paran. Selah. Is-sema ħattiet bil-ġmiel tiegħu, u l-art mimlija bit-tifħir tiegħu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/habakkuk\/3\/1-4.1792616081716.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Elowaħ"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "minn Tejman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ġej"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "u l-Qaddis"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "minn muntja"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ħattiet"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bil-ġmiel tiegħu"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "u bit-tifħir tiegħu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mimlija"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:54:41.717646769Z",
+  "model": "glm-5.3"
+}

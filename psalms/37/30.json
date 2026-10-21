@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iħenn",
+      "rationale": "יהגה hagah — 'iħenn\/jaħseb bil-ħlewwa', il-ħoss baxx ta' min iqis kelma qabel ma jgħidha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jitkellem",
+      "rationale": "il-verb תדבר fil-femminil, jqis lil לשון (lsien, femminil bil-Lhudi), mhux ma' 'fomm'"
+    }
+  ],
+  "translation": "Fomm il-ġust iħenn ħikma, u lsienu jitkellem dritt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/37\/29-32.1792616978449.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "fomm"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il-ġust"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "iħenn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ħikma"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "u lsienu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "jitkellem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dritt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:09:38.449661195Z",
+  "model": "glm-5.3"
+}

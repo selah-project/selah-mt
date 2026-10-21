@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמסס נסס",
+      "rationale": "KJV 'standard-bearer fainteth' (minn נס bżalla?) kontra JPS 'sick man wasteth away'; נסס jidher biss hawn"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסס",
+      "rationale": "kelma li tidher biss f'dan il-vers fit-Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruwaħ",
+      "rationale": "נפש hawn tfisser il-ħajja\/ir-ruwaħ ta' ġisem sħiħ, mhux ruħ biss"
+    }
+  ],
+  "translation": "U l-kobor tal-foresta tiegħu u ta' ġonna mħawla tiegħu, mill-ruwaħ sa l-ġisem, jikkonsmahom; u jkun bħal meta l-imrID? l-ImrID? — bħal meta marid jitħallja jitħallja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/10\/17-20.1792611025957.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "u l-kobor"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "tal-foresta tiegħu"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "u ta' ġonna mħawla tiegħu"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "mill-ruwaħ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "l-ġisem"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "jikkonsmahom"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "u jkun"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "bħal li jitħallja"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "imrID? majruż"
+    }
+  ],
+  "timestamp": "2026-10-21T19:30:25.958285514Z",
+  "model": "glm-5.3"
+}

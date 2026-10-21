@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "Il-Malti jeħtieġ il-kopula, bil-parentesi mqassra għax il-Malti jippreferi 'Din hija'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש tfisser dak li jieħu n-nifs — ħolqien ħaj; miżmuma qrib tal-Lhudi, mhux 'ruħ'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רמש\/שרץ",
+      "rationale": "Żewġ għeruq differenti għal żewġ ħaririet: titkaxkar (fl-ilma) u ttermex (fuq l-art) — it-Tanakh jużahom fil-qosor"
+    }
+  ],
+  "translation": "Din hija t-Tora tal-bhejjem, u tal-għasfur, u ta' kull nefesh ħajja li tittkaxkar fl-ilma, u ta' kull nefesh li ttermex fuq l-art;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/45-47.1792600622114.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Din"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "t-Tora"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "tal-bhejjem"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "u tal-għasfur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u ta' kull"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "li tittkaxkar"
+    },
+    {
+      "surface": "במים",
+      "gloss": "fl-ilma"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "u ta' kull"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "li ttermex"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:02.115512866Z",
+  "model": "glm-5.3"
+}

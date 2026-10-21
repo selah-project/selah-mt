@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sejjaħ",
+      "rationale": "ויצעק qrib ta' 'għajjat\/ipproklama assemblea'; 'sejjaħ flimkien' jaqbad l-idea tal-migħja"
+    },
+    {
+      "kind": "you",
+      "subject": "in-nies",
+      "rationale": "Samwel jsejjaħ il-poplu ta' Jisrael għal assemblea quddiem Jaħwe"
+    }
+  ],
+  "translation": "U Samwel sejjaħ ⟨את⟩ in-nies quddiem Jaħwe f'Mitspaħ.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/10\/17-20.1792607801122.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "sejjaħ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nies"
+    },
+    {
+      "surface": "העם",
+      "gloss": "in-nies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "f'Mitspaħ"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:41.123375356Z",
+  "model": "glm-5.3"
+}

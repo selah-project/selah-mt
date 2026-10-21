@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 20:12",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Il-Malti jeħtieġ il-verbi 'kien sema'' u 'kien mard' fejn il-Lhudi għandu żewġ verbi sempliċi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rigal",
+      "rationale": "מנחה hawnhekk mhux offrita bħala minħa sacrifikali iżda rigal\/tribut ta' sidien, għalhekk 'rigal' mhux 'minħa'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ittri",
+      "rationale": "ספרים plural — 'ittri', mhux 'ittra' waħda (KJV 'letters' kontra JPS 'a letter')."
+    }
+  ],
+  "translation": "F'dak iż-żmien Berodak-Baladan bin Baladan, sultan ta' Babilon, bagħat ittri u rigal lil Ħizqijahu, għax kien sema' li kien mard Ħizqijahu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ae5da412b61d4aa38a6140ee971ad01dd4f8fa25b4d38ba8f465e948341d42e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/20\/12-12.1792623384668.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "F'dak iż-żmien"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "בראדך",
+      "gloss": "Berodak-"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ittri"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "u rigal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ħizqijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kien sema'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "li"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "kien mard"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ħizqijahu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:56:24.669375108Z",
+  "model": "glm-5.3"
+}

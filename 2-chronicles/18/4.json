@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lis-sultan ta' Jisrael",
+      "rationale": "Jeħoxafat jwieġeb b'rikjesta diretta: fittex kelma ta' Jaħwe qabel il-ġlied"
+    },
+    {
+      "kind": "crux",
+      "subject": "llum",
+      "rationale": "כיום: 'llum' (KJV, JPS) kontra 'l-ewwel' \/ 'qabel kollox' (ASV, BSB mill-qari metaf.Onqelos)"
+    }
+  ],
+  "translation": "U qal Jeħoxafat lis-sultan ta' Jisrael: Fittex, jekk jogħġbok, illum ⟨את⟩ kelma ta' Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2c2d761bb9e2a0804c12ef98992ba61f43b54c578b4ead2620dcce9be90f42a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/18\/1-4.1792622624439.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jeħoxafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is-sultan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "fittex"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "illum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelma ta' Jaħwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T22:43:44.441129204Z",
+  "model": "glm-5.3"
+}

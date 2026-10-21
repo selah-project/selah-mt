@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ \/ יציץ",
+      "rationale": "żahar\/jiffjorixxi — l-istess għerq צוץ, paronomażja li tinżamm parzjalment bil-Malti"
+    },
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "il-kopula miżjeda għax il-Lhudi jgħid biss 'jiemu bħall-ħaxix'"
+    }
+  ],
+  "translation": "Il-bniedem bħall-ħaxix huma jiemu, bħaż-żahar tal-għalqa, hekk jiffjorixxi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/103\/13-16.1792617811643.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "bħall-ħaxix"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "huma jiemu"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "bħaż-żahar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tal-għalqa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "jiffjorixxi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:31.644016404Z",
+  "model": "glm-5.3"
+}

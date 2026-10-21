@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "leħen Jaħwe",
+      "rationale": "paralleliżmu esatt ta' żewġ żwiemel identiku —bil-qawwa \/ fl-imponenti — struttura retorika ta' s-salm"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fl-imponenti",
+      "rationale": "בהדר huwa 'ħadra, għamara, splendor'; kelma waħda Lhudija ssir frażi Maltija"
+    }
+  ],
+  "translation": "Leħen Jaħwe bil-qawwa; leħen Jaħwe fl-imponenti.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/29\/1-4.1792616833132.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "bil-qawwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "leħen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "fl-imponenti"
+    }
+  ],
+  "timestamp": "2026-10-21T21:07:13.133599762Z",
+  "model": "glm-5.3"
+}

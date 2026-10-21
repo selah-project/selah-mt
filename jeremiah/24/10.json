@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-ivlu",
+      "rationale": "הדבר hawn tfisser pestilenza\/ivlu, mhux kelma"
+    },
+    {
+      "kind": "addition",
+      "subject": "jgħid Jaħwe",
+      "rationale": "mibni mill-kuntest ta' 24:8 (jgħid Jaħwe), il-vers jgħlaq id-diskors"
+    }
+  ],
+  "translation": "U nibgħat fuqhom ⟨את⟩ l-ispada, ⟨את⟩ il-ġuħ u ⟨את⟩ l-ivlu, sa ma jispiċċaw minn fuq l-art li jgħid Jaħwe li tani lilhom u lil missirijiethom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39423e72be1bc6f30bf27c6a17fc37b0b660ba63dd70a1676c144f31a6753b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/24\/9-10.1792612900505.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "U nibgħat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-ispada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "l-ispada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ġuħ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "il-ġuħ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ivlu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "l-ivlu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa ma"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "jispiċċaw"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "minn fuq"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tani"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "u lil missirijiethom"
+    }
+  ],
+  "timestamp": "2026-10-21T20:01:40.505916538Z",
+  "model": "glm-5.3"
+}

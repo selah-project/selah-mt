@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ulied il-mewt",
+      "rationale": "בני תמותה literalment 'wlied il-mewt' — dawk mixtija għall-mewt, mhux sempliċiment 'kundannati'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jiftaħ",
+      "rationale": "פתח jfisser 'jiftaħ\/moħlli' — il-figura tal-ħabs maħlul, mhux 'jeħles' biss"
+    }
+  ],
+  "translation": "Biex jisma' l-għajt tal-ilsir, biex jiftaħ lil ulied il-mewt;",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/21-24.1792617778633.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "biex jisma'"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "l-għajt"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tal-ilsir"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "biex jiftaħ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lil ulied"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "il-mewt"
+    }
+  ],
+  "timestamp": "2026-10-21T21:22:58.634214556Z",
+  "model": "glm-5.3"
+}

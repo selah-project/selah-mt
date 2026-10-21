@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 7:23",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is-shelamim",
+      "rationale": "השלמים ma għandux ekwivalent Malti net; ħliġtuh bħala isem b'saħħtu, 'sewwieq tas-sliem'."
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "il-Lhudi m'għandux verbi 'kien'; żdit għall-grammatika Maltija."
+    },
+    {
+      "kind": "measurement",
+      "subject": "għadd tal-vittmi",
+      "rationale": "żewġ baqar, ħames muntun, ħames mogħoż, ħames iħrufen — l-għadir eżatt tal-offerta ta' Netanel."
+    }
+  ],
+  "translation": "u għal żerb is-shelamim: żewġ baqar, ħames muntun, ħames mogħoż kbar, ħames iħrufen ta' sena; dan kien il-korban ta' Netanel iben Suar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "48729ce438dc3a0e4cff41d6fc1eee847472db1368219fc94d2768536c0b6e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/7\/21-24.1792602515412.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "u għal żerb"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "is-shelamim"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "baqar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "żewġ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "muntun"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ħames"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mogħoż kbar"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ħames"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "iħrufen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ħames"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "il-korban"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Suar"
+    }
+  ],
+  "timestamp": "2026-10-21T17:08:35.415060185Z",
+  "model": "glm-5.3"
+}

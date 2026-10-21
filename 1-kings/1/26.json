@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 1:26",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני עבדך",
+      "rationale": "il-membru 'jien il-qadwej tiegħek' jiżfen mal-lista ta' dawk li ma ġewx imsejħa — emfasi ta' Natan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "qadwej",
+      "rationale": "il-plural ta' עבדך huwa singular fl-Ebrajk; il-Malti jeħtieġ qbil fin-numru mal-qaddej"
+    }
+  ],
+  "translation": "Iżda lilja, jien il-qaddej tiegħek, u lil Tsadok is-saċerdot, u lil Benajah bin Jehojada, u lil Shelomo l-qaddej tiegħek, ma ċemplilhomx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "e0b35e2ff16ad281eb331f8fc5edfcc6b58259e4beea55d604ccd517a359a17f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/25-28.1792609257641.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "iżda lilja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jien"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il-qaddej tiegħek"
+    },
+    {
+      "surface": "ו לצדק",
+      "gloss": "u lil Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "is-saċerdot"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "u lil Benajah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "u lil Shelomo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il-qadwej tiegħek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ċemplilhomx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:00:57.642534037Z",
+  "model": "glm-5.3"
+}

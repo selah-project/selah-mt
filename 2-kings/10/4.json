@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמדו \/ נעמד",
+      "rationale": "l-għerq 'waqaf' irrepetut — 'ma homesx' u 'nqumu' jimbżgħu l-ilsien Malti jitliftu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nqumu",
+      "rationale": "עמד huwa 'staqsieq\/waqaf'; bil-Malti 'qam' iġġib il-kuntest tal-battalja"
+    }
+  ],
+  "translation": "U beżgħu ħafna ħafna, u qalu: Ara, il-żewġ rejiet ma homesx quddiemu, u kif se nqumu aħna?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/10\/1-4.1792610332843.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "u beżgħu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u qalu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "שני",
+      "gloss": "il-żewġ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rejiet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "homesx"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "u kif"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "se nqumu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aħna"
+    }
+  ],
+  "timestamp": "2026-10-21T19:18:52.844604344Z",
+  "model": "glm-5.3"
+}

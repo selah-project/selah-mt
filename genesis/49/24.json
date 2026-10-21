@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 49:24",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אביר יעקב",
+      "rationale": "'il-Qawwi ta' Jagħaqov' (singular ta' אביר, isem ta' Alla) kontra 'il-bhejjem ta' Jagħaqov' (plural אבירים, bhejjem)"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבן ישראל",
+      "rationale": "'Ħaġra ta' Jisrael' bħala isem ta' Jaħwe; xi traduzzjonijiet jaqrawh b'mod differenti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויפזו",
+      "rationale": "'ġew irfinuti\/żviluppati' — il-għerq פזז tfisser irfinar tal-metall; 'saħħu' huwa qari aktar sempliċi"
+    }
+  ],
+  "translation": "U ḋaret fi stadu qawwi l-qaws tiegħu, u saħħu driegħajn idajh, mil-idejn tal-Qawwi ta' Jagħaqov; minn hemm Ragħi, Ħaġra ta' Jisrael.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "93b0d21c5b4cb20d6cfd0ba103f7a3d38581c723a1d9718ddd685f799721e13c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/49\/21-24.1792599124933.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "U ḋaret"
+    },
+    {
+      "surface": "באיתן",
+      "gloss": "fi stadu qawwi"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "l-qaws tiegħu"
+    },
+    {
+      "surface": "ויפזו",
+      "gloss": "u saħħu"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "driegħajn"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "idajh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mil-idejn"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "tal-Qawwi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ta' Jagħaqov"
+    },
+    {
+      "surface": "משם",
+      "gloss": "minn hemm"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ragħi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Ħaġra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ta' Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T16:12:04.934895588Z",
+  "model": "glm-5.3"
+}

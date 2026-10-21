@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hija",
+      "rationale": "il-Lhudi m'għandux copula; il-Malti jħarieġ lil 'aħjar' b'żieda ta' hija"
+    },
+    {
+      "kind": "substitution",
+      "subject": "d-dħul",
+      "rationale": "תבואתה tfisser litteralment 'il-prodott tagħha', il-ħsad; 'dħul' jagħti s-sens kummerċjali"
+    }
+  ],
+  "translation": "Għax il-merkanzija tagħha ⟨hija⟩ aħjar mill-kummerċ tal-fidda, u d-dħul tagħha mid-deheb fin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/3\/13-16.1792618388554.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għax"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "aħjar"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "il-merkanzija tagħha"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "mill-kummerċ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tal-fidda"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "mid-deheb fin"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "d-dħul tagħha"
+    }
+  ],
+  "timestamp": "2026-10-21T21:33:08.555262913Z",
+  "model": "glm-5.3"
+}

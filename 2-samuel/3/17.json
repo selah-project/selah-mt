@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גם תמול גם שלשם",
+      "rationale": "litteralment 'kemm ilbieraħ kemm ilbieraħ tlett ijiem', idjom Għarbi għal 'minn żmien twil ilu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "l-prepożizzjoni Maltija meħtieġa qabel oġġett dirett ta' persuna"
+    }
+  ],
+  "translation": "U kellimt Avner kienet max-xjuħi ta' Jisrael, biex tgħid: Kemm ilbieraħ kemm tlett ijiem ilu kontu qegħdin tfittxu ⟨את⟩ lil David biex ikollkom sultan fuqkom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/3\/17-20.1792608615741.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "U kellimt"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kienet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "xjuħi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biex tgħid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "ilbieraħ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kemm"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "tlett ijiem ilu"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kontu"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "qegħdin tfittxu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "biex ikollkom sultan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fuqkom"
+    }
+  ],
+  "timestamp": "2026-10-21T18:50:15.742562408Z",
+  "model": "glm-5.3"
+}

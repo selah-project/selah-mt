@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fil-",
+      "rationale": "l-artiklu Malti jerfgħu l-artiklu Lhudi הַ, mhux immarkat"
+    },
+    {
+      "kind": "crux",
+      "subject": "in-numru tal-vers",
+      "rationale": "dan il-vers huwa 20:42 fin-numrar Lhudi; il-KJV jqiegħdu miegħu l-ewwel vers ta' kapitolu 21"
+    }
+  ],
+  "translation": "U qam u marr, u Jonatan daħal fil-belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/21\/1-4.1792608194117.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "u qam"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u marr"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "u Jonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "daħal"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "fil-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T18:43:14.118288138Z",
+  "model": "glm-5.3"
+}

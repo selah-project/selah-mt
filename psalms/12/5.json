@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ragħwa",
+      "rationale": "נגביר huwa 'nagħmlu qawwa\/nprewali'; bl-użu ta' ragħwa (ġbir ta' frott) inżommu l-istampa ta' qligħ bit-tkabbir"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "אֵת 1 ('magħna', kif fil-JPS 'our lips are with us') kontra qari bħala את 853; hawn 'magħna' — is-suffiss ta' pussess"
+    }
+  ],
+  "translation": "Dawk li qalu: Bil-ilsien tagħna nagħmlu r-ragħwa; xofftejn huma tagħna: min hu s-sid fuqna?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/12\/5-8.1792616634486.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dawk li"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "qalu"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "bil-ilsien tagħna"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "nagħmlu r-ragħwa"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "xofftejn"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "tagħna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "s-sid"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fuqna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:54.487002909Z",
+  "model": "glm-5.3"
+}

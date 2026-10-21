@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "il-bniedem",
+      "rationale": "Jaħwe j indirizza lill-bniedem direttament b'mistoqsija: 'Fejn int?'"
+    },
+    {
+      "kind": "addition",
+      "subject": "int",
+      "rationale": "L-Ebrajk għandu biss איכה 'fejn'; il-pronom bil-Malti miżjud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lill-bniedem",
+      "rationale": "האדם huwa 'il-bniedem' (il-ġeneru uman), mhux isem proprju"
+    }
+  ],
+  "translation": "U Jaħwe Elohim sejjaħ lill-bniedem u qalilu: Fejn int?",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/3\/9-12.1792597653559.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejjaħ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lill-"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bniedem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Fejn int?"
+    }
+  ],
+  "timestamp": "2026-10-21T15:47:33.562238396Z",
+  "model": "glm-5.3"
+}

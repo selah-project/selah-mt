@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lit-Triq",
+      "rationale": "Il-Malti jeħtieġ oġġett għal נחית; il-Lhudi jħallih impliċit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "b'idejn",
+      "rationale": "ביד huwa singular ('idejn' bil-Malti huwa plural); 'b'idejn' għall-ġest ta' żewġ persuni"
+    }
+  ],
+  "translation": "Għeddt ⟨lit-Triq⟩ lil poplu tiegħek bħal merħla, b'idejn Moxe u Aharon.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "06e6ab777cc305adfc8b902300dadc3c02ed983aea52653db7aae92601ec0898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/77\/21-21.1792617429607.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Għeddt"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "bħal merħla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poplu tiegħek"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "b'idejn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "u Aharon"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:09.608349992Z",
+  "model": "glm-5.3"
+}

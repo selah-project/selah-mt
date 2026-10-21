@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tal-belt",
+      "rationale": "חומה hija l-ħajt tal-belt; miżjud biex jiddistingwi minn קיר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tgħix",
+      "rationale": "יושבת litteralment 'tinsab bilqiegħda', jiġifieri toqgħod"
+    }
+  ],
+  "translation": "Hija niżżlithom bi ħabel minn ġewwa l-ħajtiera, għax id-dar tagħha kienet fis-ħajt tal-belt, u fis-ħajt tal-belt kienet tgħix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dfdac5f749cbf66ad3ebfeb5d11c44f0634451c865d6e37d5c10cfb698cefa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/2\/14-15.1792623188754.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "u niżżlithom"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "bi ħabel"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "minn ġewwa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "l-ħajtiera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "id-dar tagħha"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "fis-ħajt"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tal-belt"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "u fis-ħajt tal-belt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hija"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "kienet tgħix"
+    }
+  ],
+  "timestamp": "2026-10-21T22:53:08.755461954Z",
+  "model": "glm-5.3"
+}

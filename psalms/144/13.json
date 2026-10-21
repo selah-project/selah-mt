@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מזוינו",
+      "rationale": "מזוה jidher biss hawn fit-Tanakh; mill-kontest: maħżen ta' l-ikel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזן אל זן",
+      "rationale": "repetizzjoni ta' זן — minn ġeneru għal ġeneru — iż-żewġ kelmiet jidhru l-istess bil-Malti."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאליפות",
+      "rationale": "minn אלף: 'tiġbed bi-elfin' (KJV) kontra 'tmexxi' (JPS 'increase by thousands')."
+    }
+  ],
+  "translation": "Il-maħżen tagħna mimli, jagħti minn ġeneru għal ġeneru; il-merħla tagħna tiġbed bil-elfin, bl-għaxar elef fit-toroq tagħna.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/144\/13-15.1792618247264.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "il-maħżen tagħna"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "mimli"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "jagħti"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "minn ġeneru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għal"
+    },
+    {
+      "surface": "זן",
+      "gloss": "ġeneru"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "il-merħla tagħna"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "bil-elfin"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "bl-għaxar elef"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "fit-toroq tagħna"
+    }
+  ],
+  "timestamp": "2026-10-21T21:30:47.264461736Z",
+  "model": "glm-5.3"
+}

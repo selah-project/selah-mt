@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פעם",
+      "rationale": "'martellata' vs 'inċud' (KJV 'anvil') — il-kelma tfisser daqqta, mhux l-għodda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "id-dewwieb",
+      "rationale": "צרף 'dewweb ir-ram' — ħaddiem tal-metall imdewweb, mhux 'orefiċċ' biss"
+    },
+    {
+      "kind": "addition",
+      "subject": "biex",
+      "rationale": "l-għan ma ġġibux bil-Lhudi; miżjud bil-Malti għall-koerenza"
+    }
+  ],
+  "translation": "U l-ħaddiem isaħħaħ ⟨את⟩ id-dewwieb, li jleqq bil-martell ⟨את⟩ dak li joqrod bil-martellata, jgħid għas-saldatura: Tajba hija; u jsaħħaħha b'imsieti, biex ma tiċċaqlaqx.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1dc903695f7053f3f1e8b90fa48511e2e19d713141337230f5c7f827f7143126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/41\/5-8.1792611714077.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "u isaħħaħ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "l-ħaddiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-dewwieb"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "id-dewwieb"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "li jleqq"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "bil-martell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dak li joqrod bil-martellata"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "dak li joqrod"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "bil-martellata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "għas-saldatura"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tajba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hija"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "u jsaħħaħha"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "b'imsieti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "biex ma"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tiċċaqlaqx"
+    }
+  ],
+  "timestamp": "2026-10-21T19:41:54.078125669Z",
+  "model": "glm-5.3"
+}

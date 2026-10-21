@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בר",
+      "rationale": "Threefold repetition of Aramaic בר (son) — 'my son, son of my womb, son of my vows' — rhetorical triad"
+    },
+    {
+      "kind": "addition",
+      "subject": "tal-voti tiegħi",
+      "rationale": "Construct chain expanded with possessive 'tiegħi' for Maltese"
+    }
+  ],
+  "translation": "Xi, ibni? u xi, iben ta' ġo fiqi? u xi, iben tal-voti tiegħi?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/31\/1-4.1792619004611.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Xi"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ibni"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u xi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "iben"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ta' ġo fiqi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "u xi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "iben"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "tal-voti tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:43:24.611822835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 40:22",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siġar tal-wied",
+      "rationale": "ערבי = siġar tas-salix; 'siġar tal-wied' għax jikbru max-xatt"
+    }
+  ],
+  "translation": "Is-siġar tal-lotus jaħbtuh bid-dell tagħhom, is-siġar tal-wied tan-nixxiegħa jdawruh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2336e67332002e5d068d402d141cc2f33e3c706c3c3e388a955550e28122c99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/40\/21-24.1792619798261.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסכהו",
+      "gloss": "jaħbtuh"
+    },
+    {
+      "surface": "צאלים",
+      "gloss": "is-siġar tal-lotus"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "bid-dell tagħhom"
+    },
+    {
+      "surface": "יסבוהו",
+      "gloss": "jdawruh"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "is-siġar tal-wied"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "tan-nixxiegħa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:56:38.262715913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 28:9",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ħaċir",
+      "rationale": "חלמיש (flint) appears only in Job and a few poetic passages; kept literal as flint-rock."
+    },
+    {
+      "kind": "substitution",
+      "subject": "qabal",
+      "rationale": "הפך is 'to overturn\/turn over', rendered with 'qaleb' (overturn) — the picture of mountains uprooted kept literal."
+    }
+  ],
+  "translation": "Fuq il-ħaċir bagħat idu; qabal mill-għerq il-muntanji.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2bdece10afc0d882d73eb15916a755c8f88992be6a097a2693429a0138e81b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/28\/9-12.1792619546942.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחלמיש",
+      "gloss": "fuq il-ħaċir"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bagħat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "idu"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "qabal"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "mill-għerq"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "il-muntanji"
+    }
+  ],
+  "timestamp": "2026-10-21T21:52:26.942789546Z",
+  "model": "glm-5.3"
+}

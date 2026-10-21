@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jkissru għat-xem",
+      "rationale": "ישברו literally 'break' — 'break their thirst'; Maltese keeps the violent verb of breaking"
+    }
+  ],
+  "translation": "Jisqew kull bhejjem ta' l-għalqa; il-ħmira salvaġġi jkissru għat-xem tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/104\/9-12.1792617786267.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "jisqew"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bhejjem"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ta' l-għalqa"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "jkissru"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "il-ħmira salvaġġi"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "għat-xem tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:23:06.268695918Z",
+  "model": "glm-5.3"
+}

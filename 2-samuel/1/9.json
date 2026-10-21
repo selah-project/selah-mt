@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השבץ",
+      "rationale": "Deher biss hawn fit-Tanakh; titra bħala ddardir jew telfien ta' l-għaqal — hawn 'id-dardir'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nifsi",
+      "rationale": "נפש hija nifs \/ ħajja, mhux 'ruħ' fl-iskat Taljan."
+    },
+    {
+      "kind": "alternative",
+      "subject": "fuqi",
+      "rationale": "עלי jista' jkun 'fuqi' jew 'ġo­wi'; it-test ma jgħidx b'mod ċar."
+    }
+  ],
+  "translation": "U qal lejja: Agħfas fuqi, jekk jogħġbok, u o qtulni, għax qabdini d-dardir, għax nifsi għadha kollha fiija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/1\/9-12.1792608435627.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lejja"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "agħfas"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekk jogħġbok"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fuqi"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "u o qtulni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "qabdini"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "id-dardir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kollha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "għadha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nifsi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fiija"
+    }
+  ],
+  "timestamp": "2026-10-21T18:47:15.628215400Z",
+  "model": "glm-5.3"
+}

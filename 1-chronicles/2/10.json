@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prinċep",
+      "rationale": "נשיא huwa 'l-olmi' — kap ta' tribù; 'prinċep' huwa l-eqreb kliem Malti għar-rwol"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ġenealoġija",
+      "rationale": "ktieb tal-ġenealoġiji: ismijiet magħduda minn Ram sa Naħxon"
+    }
+  ],
+  "translation": "U Ram twelled ⟨את⟩ Aminadav, u Aminadav twelled ⟨את⟩ Naħxon, prinċep ta' wlied Jehuda.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/2\/9-12.1792621668394.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "U Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "twelled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "u Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "twelled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naħxon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naħxon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "prinċep"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta' wlied"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-21T22:27:48.395077308Z",
+  "model": "glm-5.3"
+}

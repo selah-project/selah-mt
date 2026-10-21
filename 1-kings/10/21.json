@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 10:21",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kienu",
+      "rationale": "Malti jeħtieġ il-verb 'kien' fejn il-Lhudi jgħid biss 'deheb'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "safi",
+      "rationale": "זהב סגור litteralment 'deheb magħluq', maħsub deheb imrawwaġ\/safi"
+    }
+  ],
+  "translation": "U kċejjen ix-xorb tal-melik Xlomo kollha kemm huma ⟨kienu⟩ deheb, u kċejjen id-dar tal-forest tal-Libanu kollha deheb safi; ma kienx hemm fidda — ma kinitx titqies fil-jiemien ta' Xlomo għal xejn.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5f728de0c6fd16c5177883f32b3f7c392303070f915dd2313f65a93adfbce50a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/10\/21-24.1792609588497.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kollha kemm huma"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kċejjen"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "ix-xorb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tal-melik"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xlomo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kollha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kċejjen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "id-dar"
+    },
+    {
+      "surface": "יער",
+      "gloss": "tal-forest"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "tal-Libanu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma kienx hemm"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "titqies"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "fil-jiemien"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Xlomo"
+    },
+    {
+      "surface": "למאומה",
+      "gloss": "għal xejn"
+    }
+  ],
+  "timestamp": "2026-10-21T19:06:28.497909488Z",
+  "model": "glm-5.3"
+}

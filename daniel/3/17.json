@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 3:17",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jista' jeħlis \/ jeħlis",
+      "rationale": "Aramaic says 'is able to deliver... he will deliver'; some read both verbs as potential ('could deliver'), JPS splits them as ability plus assertion."
+    },
+    {
+      "kind": "you",
+      "subject": "ja sultan",
+      "rationale": "Speech of the three youths addressed directly to Nebuchadnezzar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Aramaic אלהנא 'our God' rendered with the fixed Name-form rather than the common noun, per the discipline."
+    }
+  ],
+  "translation": "Ara, hemm Elohim tagħna, li aħna naqdmu, li jista' jeħlisna minn forn in-nar jaħraq, u minn idek, ja sultan, jeħlis.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "35752b22c1a43c49c228904ca7322616322065a85b3a22892e72bab554e6d16a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/3\/17-20.1792620666928.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "אלהנא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "אנחנא",
+      "gloss": "aħna"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "naqdmu"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "jista'"
+    },
+    {
+      "surface": "לשיזבותנא",
+      "gloss": "jeħlisna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "forn"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "in-nar"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "jaħraq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "u minn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "idek"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sultan"
+    },
+    {
+      "surface": "ישיזב",
+      "gloss": "jeħlis"
+    }
+  ],
+  "timestamp": "2026-10-21T22:11:06.928893887Z",
+  "model": "glm-5.3"
+}

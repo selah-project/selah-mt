@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעה\/ירוע",
+      "rationale": "il-verb 'jirgħa' (raħħa) u l-verb 'jirruħ' (jiddeni) jisħqu fl-istess għerq — l-eco ma tgħaddix bil-Malti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "isir meqrud",
+      "rationale": "ירוע jista' jkun 'jiġi meqrud\/mgħaxxeq' mhux biss 'isir ħażin'"
+    }
+  ],
+  "translation": "Min jimxi ⟨את⟩ il-ħukka jsir ħakim, u min jirgħa ma' ħmien isir ħażin.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/13\/17-20.1792618634393.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Min jimxi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħukka"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "il-ħukka"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "jsir ħakim"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "u min jirgħa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ma' ħmien"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "isir ħażin"
+    }
+  ],
+  "timestamp": "2026-10-21T21:37:14.394484009Z",
+  "model": "glm-5.3"
+}

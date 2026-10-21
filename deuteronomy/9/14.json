@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ġib ruħek minni",
+      "rationale": "הרף ממני lit. 'slacken from me', rendered as Maltese idiom 'take yourself away from me'."
+    },
+    {
+      "kind": "addition",
+      "subject": "jiena",
+      "rationale": "Maltese requires subject pronoun for the cohortative verbs nqerridhom\/neħħi\/nagħmel."
+    }
+  ],
+  "translation": "Ġib ruħek minni, u jiena nqerridhom, u neħħi ⟨את⟩ isimhom taħt is-sema, u nagħmel ⟨את⟩ lilek għal nazzjon qawwi uNumeruż minnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/9\/13-16.1792605532940.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Ġib ruħek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minni"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "u nqerridhom"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "u neħħi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimhom"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "isimhom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "is-sema"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "u nagħmel"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ lilek",
+      "marks": "għal nazzjon"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "għal nazzjon"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "qawwi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "u Numeruż"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    }
+  ],
+  "timestamp": "2026-10-21T17:58:52.942112419Z",
+  "model": "glm-5.3"
+}

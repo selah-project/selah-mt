@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jieħu għaxra minnhom",
+      "rationale": "יעשר huwa verb — 'jgħaxxer'; bil-Malti sfat frażi"
+    },
+    {
+      "kind": "crux",
+      "subject": "סריסים",
+      "rationale": "'ewnuki' jew 'uffiċjali tal-qorti'; il-kelma tista' tfisser it-tnejn"
+    }
+  ],
+  "translation": "U żerriegħa tagħkom u dwejraħ tagħkom huwa jieħu għaxra minnhom, u jagħti lill-ewnuki tiegħu u lil qaddejja.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/8\/13-16.1792607816193.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "u żerriegħa tagħkom"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "u dwejraħ tagħkom"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "jieħu għaxra minnhom"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "u jagħti"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "lill-ewnuki tiegħu"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "u lil qaddejja"
+    }
+  ],
+  "timestamp": "2026-10-21T18:36:56.194640243Z",
+  "model": "glm-5.3"
+}

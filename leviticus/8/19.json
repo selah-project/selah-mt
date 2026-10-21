@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "soggett ta' וישחט",
+      "rationale": "il-Lhudi ma jsemmix lil min ħataf; it-traduzzjoni tħalli s-soggett miftuħ bħal-Lhudi"
+    }
+  ],
+  "translation": "U ġegħlu, u Moxe xerred ⟨את⟩ id-demm ma' l-artal madwar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/17-20.1792600652606.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ġegħlu"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "xerred"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moxe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-demm"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "id-demm"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    }
+  ],
+  "timestamp": "2026-10-21T16:37:32.606990481Z",
+  "model": "glm-5.3"
+}

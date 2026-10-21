@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "raqqaq idejn",
+      "rationale": "מרפים ידי — idjom Semitiku: għajjuna l-idejn, ittrixaw il-qawwa ta' ħaddiem"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבנות",
+      "rationale": "il-Lhudi għandu infinitiv 'biex jibnu' mhux marbut; il-Malti jeħtieġ 'milli jibnu' wara l-bierek"
+    }
+  ],
+  "translation": "U ġara li ġens l-art raqqaq idejn il-ġens ta' Juda, u bierek bil-biza' ⟨את⟩hom milli jibnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/4\/1-4.1792621127016.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "U ġara li"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ġens"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "raqqaq"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "idejn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il-ġens"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Juda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "u bierek bil-biza'"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩hom",
+      "marks": "il-ġens ta' Juda"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "milli jibnu"
+    }
+  ],
+  "timestamp": "2026-10-21T22:18:47.018374495Z",
+  "model": "glm-5.3"
+}

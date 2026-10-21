@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראמים",
+      "rationale": "בר ארמיא — jaqsam it-tantajn; ארזים (plural ta' siġra) għandu zewġ tifsiriet; 'siġar tal-arżar' milqugħa f'Ġen 21:33; b'dan it-tifsir, użajt 'tal-arżar'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hom",
+      "rationale": "Suffiss objett Lhudi -em ma jinstabx bil-Malti b'wegħda waħda; 'hom' miżjud biex jipproteġi l-objett tar-remiem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן ראמים",
+      "rationale": "'Iben tar-remiem' — stat konstrutt Lhudi; Malti jżomm 'bin tar-remiem' biex jippreserva l-forma"
+    }
+  ],
+  "translation": "U jaqdiżhom bħal għoġol — il-Libanu u Sirjon bħal bin tar-remiem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/29\/5-8.1792616813824.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "u jaqdiżhom"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "għoġol"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "il-Libanu"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "u Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bħal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "tar-remiem"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:53.825256699Z",
+  "model": "glm-5.3"
+}

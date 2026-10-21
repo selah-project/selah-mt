@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברא ×3",
+      "rationale": "Verb mitlugħ tliet darbiet — kostruzzjoni poetika b'saġġ kwivvalenti"
+    }
+  ],
+  "translation": "U Elohim ħalaq ⟨את⟩ il-bniedem fix-xbieha tiegħu; fix-xbieha ta' Elohim ħalaq ⟨את⟩ lilu; maskil u femminil ħalaq ⟨את⟩ lilhom.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/25-28.1792597690282.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "u ħalaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-bniedem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "il-bniedem"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "fix-xbieha tiegħu"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "fix-xbieha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ħalaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu (il-bniedem)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "u femminil"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ħalaq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "lilhom (il-bniedem, maskil u femminil)"
+    }
+  ],
+  "timestamp": "2026-10-21T15:48:10.283500086Z",
+  "model": "glm-5.3"
+}

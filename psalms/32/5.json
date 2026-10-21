@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אודיעך \/ אודה",
+      "rationale": "għerq jada' (tagħrif) u għerq jadah (ringrazzament\/ confessione) jseħħu fl-istess vers — l-għarfien tad-dnub isir confessione; il-logħba tal-ħoss tintilef bil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħfajt",
+      "rationale": "נשאת literally 'tlift' (il-penali tad-dnub); 'ħfajt' jaqbad il-figura tat-tneħħija"
+    },
+    {
+      "kind": "addition",
+      "subject": "għarftekn bih",
+      "rationale": "il-הifil אודיעך jeħtieġ 'il-biħ' bil-Malti; il-Lhudi għandu biss 'inġib għarfief lilek'"
+    }
+  ],
+  "translation": "Id-dnub tiegħi għarftekn bih, u l-ħażar tiegħi ma ħbajtx; għidt: nerfaħ lil Jaħwe dwar it-trasgressjonijiet tiegħi, u int ħfajt il-ħażar tad-dnub tiegħi. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "eefed57de1ebc106835c0702183513a7e857e0dba19b7f313367b2731cf76e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/32\/5-6.1792623783642.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "id-dnub tiegħi"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "għarftekn bih"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "u l-ħażar tiegħi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ħbajtx"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "għidt"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nerfaħ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dwar"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "t-trasgressjonijiet tiegħi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u int"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ħfajt"
+    },
+    {
+      "surface": "עון",
+      "gloss": "il-ħażar"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tad-dnub tiegħi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T23:03:03.643214815Z",
+  "model": "glm-5.3"
+}

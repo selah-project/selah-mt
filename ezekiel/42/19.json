@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "measurement",
+      "rationale": "Naħa tal-punent (il-baħar, jiġifieri l-Mediterran): ħames mija qasbiet."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ruwaħ tal-baħar",
+      "rationale": "רוח הים litteralment 'il-riħ tal-baħar' = il-punent għall-Lhud."
+    }
+  ],
+  "translation": "Dar ma' ir-ruwaħ tal-baħar, kejjel: ħames mija qasbiet, bil-qasba tal-kejl.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fa69aa4cfc290ef219dcc6bb46fdca672ab4013daa867e8ec3afe885d5fdd510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/42\/17-20.1792615162240.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "Dar ma'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lejn"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ir-ruwaħ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tal-baħar"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "kejjel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ħames"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mija"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qasbiet"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "bil-qasba"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "tal-kejl"
+    }
+  ],
+  "timestamp": "2026-10-21T20:39:22.241467005Z",
+  "model": "glm-5.3"
+}

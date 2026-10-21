@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויאסף",
+      "rationale": "lit. 'and Saul added to fear' — idiom of continuing action, rendered 'kompla'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kien",
+      "rationale": "Hebrew verbless clause ויהי שאול איב requires Maltese copula"
+    }
+  ],
+  "translation": "U Xaul kompla jibza' minn quddiem David iktar, u Xaul kien għadu ta' David ⟨את⟩ kuljum.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b730fc5cc880ad3008028311b1af05296bbae4e930523479319bceb199ecd97b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/18\/29-30.1792608131466.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "kompla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "jibza'"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minn quddiem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iktar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "u kien"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Xaul"
+    },
+    {
+      "surface": "איב",
+      "gloss": "għadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta' David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kul"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jum"
+    }
+  ],
+  "timestamp": "2026-10-21T18:42:11.466991766Z",
+  "model": "glm-5.3"
+}

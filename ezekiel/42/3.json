@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨amma⟩",
+      "rationale": "l-Ebrajk għandu biss 'l-għoxrin', il-kejl-implied miżjud bil-Malti"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלשים",
+      "rationale": "'fit-tielet (sular)' waħdu kontra 'fi tliet sulari\/saffi' — l-istess konfużjoni fil-verżjonijiet kollha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתיק אל פני אתיק",
+      "rationale": "ripetizzjoni ta' attik wiċċattik, att ikon ma' att ikon, wisq wisq"
+    }
+  ],
+  "translation": "Quddiem l-għoxrin ⟨amma⟩ li kienu għall-bitħa ta' ġewwa, u quddiem it-trottar li kien għall-bitħa ta' barra — attik quddiem wiċċ attik, fi tliet sulari.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/42\/1-4.1792615190255.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "l-għoxrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "għall-bitħa"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ta' ġewwa"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "u quddiem"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "it-trottar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "għall-bitħa"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ta' barra"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "attik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "attik"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "fi tliet sulari"
+    }
+  ],
+  "timestamp": "2026-10-21T20:39:50.256240709Z",
+  "model": "glm-5.3"
+}

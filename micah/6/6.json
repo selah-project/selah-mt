@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 6:6",
+  "book": "micah",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lill-qarrej",
+      "rationale": "Mistoqsija retorika diretta tal-profeta, b'voltagg ta' domanda li tistieden lis-semaċċa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olostawt",
+      "rationale": "עולות (olot, offrji maħruqa kollha kemm hi) miżjuma bħala kelma qarba tal-ħoss Lhudi"
+    },
+    {
+      "kind": "elision",
+      "subject": "במה",
+      "rationale": "l-interrogattiv Lhudi 'b'x'in?' ma għandux ekwivalent ta' kelma waħda fil-Malti"
+    }
+  ],
+  "translation": "B'xi ħaġa niltaqa' ma' Jaħwe, ninil għal Elohim tal-għoli? Niltaqa' quddiemu bil-olostawt, bil-għoġol ta' beni sena?",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a5b40d050698b4fd5e547b145a55595715c0944640254a248623934256f6491",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/6\/6-7.1792623746391.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "b'xi ħaġa"
+    },
+    {
+      "surface": "אקדם",
+      "gloss": "niltaqa' ma'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "ninil"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "għal Elohim"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tal-għoli"
+    },
+    {
+      "surface": "האקדמנו",
+      "gloss": "niltaqa' quddiemu"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "bil-olostawt"
+    },
+    {
+      "surface": "בעגלים",
+      "gloss": "bil-għoġol"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta' beni"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-21T23:02:26.392146051Z",
+  "model": "glm-5.3"
+}

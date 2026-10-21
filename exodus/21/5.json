@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אמר יאמר",
+      "rationale": "Infinitiv-assolut duplikazzjoni: 'jgħid bil-qawwa \/ jgħid b'mod ċar', enfasi fuq id-dikjarazzjoni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidi",
+      "rationale": "אדני hawn dwar bniedem, għalhekk 'sid\/sidi' mhux 'Adonaj'"
+    }
+  ],
+  "translation": "U jekk il-ħaddiem jgħid bil-qawwa: Jien ħabbilt ⟨את⟩ sidi, ⟨את⟩ marti u ⟨את⟩ uliedi — ma joħroġx ħieles;",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/21\/5-8.1792599790447.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "U jekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bil-qawwa"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "il-ħaddiem"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Jien ħabbilt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sidi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marti"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "marti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "uliedi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "uliedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "joħroġx"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ħieles"
+    }
+  ],
+  "timestamp": "2026-10-21T16:23:10.448196686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לשמי",
+      "rationale": "Lit. 'l-isem tiegħi' — għal-isem Jaħwe, mhux għal-persona ġenerika"
+    },
+    {
+      "kind": "you",
+      "subject": "li David",
+      "rationale": "Kelma ta' Elohim indirizzata direttament lil David: 'int'"
+    }
+  ],
+  "translation": "Iżda Elohim qal liġi: Mhux inti tinbena' dar għal-ismi, għaliex raġel ta' gwerer inti, u demm ftħart.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4a25ec89718d55d83b8baea50f4c6b1a9a6d0d728a3a4e594460c73086f732d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/28\/2-3.1792624054650.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Iżda Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "liġi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mhux"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tinbena'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dar"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "għal-ismi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "איש",
+      "gloss": "raġel"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ta' gwerer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "u demm"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ftħart"
+    }
+  ],
+  "timestamp": "2026-10-21T23:07:34.651397120Z",
+  "model": "glm-5.3"
+}

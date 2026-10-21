@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשתרות",
+      "rationale": "'żieda\/twelid' għall-għerq עשׂר, iżda l-ħoss qrib ta' Ashtarot, l-allat; l-aktar tradutturi: 'ż-żieda tan-nagħaġ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בטן",
+      "rationale": "żaqtek: litteralment 'ġufek', il-ġuf li jġorr it-tfal"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעלליך \/ אשר עזבתני fit-28:20",
+      "rationale": "l-invers ta' 28:4 jirrepeti kelma b'kelma l-berħa bħala tbiġċir"
+    }
+  ],
+  "translation": "Misħut il-frott ta' żaqtek u l-frott ta' artek, it-twelid tal-baqar tiegħek u t-twelid tan-nagħaġ u l-mogħoż tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "f0defbafbbda89eae1d0eb94f35ff549b7f66c3fb06ecb3008fbab28b90dee60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/28\/17-20.1792605985766.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "misħut"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "il-frott"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ta' żaqtek"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "u l-frott"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ta' artek"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "it-twelid"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "tal-baqar tiegħek"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "u t-twelid"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "tan-nagħaġ u l-mogħoż tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T18:06:25.767530269Z",
+  "model": "glm-5.3"
+}

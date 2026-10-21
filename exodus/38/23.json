@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 38:23",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħaddied",
+      "rationale": "חרש tfisser 'bennej\/naqqax' ta' kwalunkwe materjal; 'ħaddied' huwa eqreb għal metall biss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "demm il-qirmiz",
+      "rationale": "תולעת השני litteralment 'il-ħanxir tal-qirmiz' (insett); ingħata b'demm il-qirmiz"
+    },
+    {
+      "kind": "crux",
+      "subject": "שש",
+      "rationale": "שש jista' jkun 'ħarir fin' jew 'Ħanax l-egizzjan'; hawn 'ħarir fin' bħal Ġen 41:42"
+    }
+  ],
+  "translation": "U ⟨את⟩ miegħu kien Oholiab bin Aħisamak, mit-tribù ta' Dan, ħaddied u disinjatur u riċċamatur fit-tkelet u fil-porpora u f'demm il-qirmiz u fil-ħarir fin.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "89516dbc97c6d08c301a947f8dc4d4a27752438102c7d42a2cc4443d72409ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/38\/21-24.1792600298207.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתו",
+      "gloss": "U ⟨את⟩ miegħu"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Oholiab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "Aħisamak"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mit-tribù"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ta' Dan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ħaddied"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "u disinjatur"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "u riċċamatur"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "fit-tkelet"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "fil-porpora"
+    },
+    {
+      "surface": "ובתולעת",
+      "gloss": "f'demm il-qirmiz"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il-qirmiz"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "fil-ħarir fin"
+    }
+  ],
+  "timestamp": "2026-10-21T16:31:38.208347006Z",
+  "model": "glm-5.3"
+}

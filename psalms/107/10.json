@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fl-iska ta' mewt",
+      "rationale": "צלמות = 'il-lirda tal-mewt', sfumatura li tinħass qalb skura; verżjoni litterali żżomm il-forma kompożita"
+    },
+    {
+      "kind": "addition",
+      "subject": "Dawk li",
+      "rationale": "il-Malti jeħtieġ nominattiv; l-Ebrajk għandu simpliment partiċipju kostrutt"
+    }
+  ],
+  "translation": "Dawk li jibilżqu fid-dlam u fl-iska ta' mewt, msabbtin fil-miżerja u fil-ħadid.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/9-12.1792617861374.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "dawk li jibilżqu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "fid-dlam"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "u fl-iska ta' mewt"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "msabbtin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fil-miżerja"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "u fil-ħadid"
+    }
+  ],
+  "timestamp": "2026-10-21T21:24:21.375331234Z",
+  "model": "glm-5.3"
+}

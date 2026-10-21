@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אף עלה",
+      "rationale": "ħarb 'telgħet' (litterali) jew 'ċcat' fuqhom — l-Ingliż jagħti 'came up', il-Malti żamm il-ħraska ta' עלה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħrab",
+      "rationale": "אף litteralment 'imnieħer\/mnieħer' — idjom Semitiku għall-għadab; il-Malti għandu 'ħrab' mill-istess għerq"
+    }
+  ],
+  "translation": "U l-ħrab ta' Elohim telgħet fuqhom, u qatel fl-ixkabb tagħhom, u ż-żgħażagħ ta' Jisrael ċeddhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/78\/29-32.1792617505180.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "u l-ħrab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "telgħet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fuqhom"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "u qatel"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "fl-ixkabb tagħhom"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "u ż-żgħażagħ ta'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "ċeddhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:18:25.180859692Z",
+  "model": "glm-5.3"
+}

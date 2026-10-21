@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברע\/ברשע",
+      "rationale": "Bera and Birsha echo the Hebrew root רשע (wicked), lost in Maltese."
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Maltese needs a dash before 'hi Tsoar' to render the appositional gloss."
+    }
+  ],
+  "translation": "dawn għamlu gwerra ma' ⟨את⟩ Bera sultan ta' Sedom u ma' ⟨את⟩ Birxa sultan ta' Għomorra, Xinaħ sultan ta' Adma, u Xemeber sultan ta' Tsebojim, u sultan ta' Bela — hi Tsoar.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "b536d78a180eab8b115762f86c1e99103396565de6a0138bd0530d80ab59ca98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/14\/1-4.1792597956663.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "għamlu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gwerra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan ta'"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ma' ⟨את⟩",
+      "marks": "Birxa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birxa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan ta'"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Għomorra"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Xinaħ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan ta'"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "u Xemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sultan ta'"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsebojim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "u sultan ta'"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hi"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-21T15:52:36.664495520Z",
+  "model": "glm-5.3"
+}

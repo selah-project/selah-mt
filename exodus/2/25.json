@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "u Elohim ġaraf",
+      "rationale": "וידע אלהים għandu oġġett impliċitu: 'ħa fehem tagħhom' \/ 'għarafhom' — id-direzzjoni tal-oġġett mhix speċifikata fit-test"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ra",
+      "gloss_source": "וירא f'dan il-kuntest tfisser 'ra b'attenzjoni \/ leħ id-daħk għal', mhux sempliċiment vista fiżika"
+    }
+  ],
+  "translation": "U Elohim ra ⟨את⟩ lil wlied Jisrael, u Eloheim ġaraf.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "49ad89dbcddadfe72b8195cda99bca004bdb2b4a60382f34451387ab6b0010c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/25-25.1792599095159.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wlied Jisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ġaraf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T16:11:35.159988292Z",
+  "model": "glm-5.3"
+}

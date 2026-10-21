@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבעות מטות אמר",
+      "rationale": "Ħalfa traduzzjoni: 'ġuramenti tat-tribbjiet kienu kelma żżomm' (KJV\/ASV) kontra 'ħalfiet jaħkmu l-virgi tal-kelma' (JPS); il-vokali tal-Masoretik jisħqu 'virgi' (מטות) mhux 'tribbjiet'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עריה תעור",
+      "rationale": "'għerwieħ' (nudity) b'sens ta' 'tgħarġa l-qaws' — torja mill-gerħa għal maħruġ, mhux sebgħa biss."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sela — sinjal ta' paża mużikali, ma għandux ekwivalent; baqa' kif inh."
+    }
+  ],
+  "translation": "Għerwieħ sirt tgħarġa l-qaws tiegħek; ġuramenti tal-virgi ⟨huma⟩ kelma żżomm. Sela. Bin-nixxiegħat taqta' l-art.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "7673cd59b19b061289e226810539faed037cb851a321864aae4bac0adbcc1d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/habakkuk\/3\/9-12.1792616023107.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "għerwieħ"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "tgħarġa"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "il-qaws tiegħek"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "ġuramenti"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "tal-virgi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kelma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bin-nixxiegħat"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "taqta'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "l-art"
+    }
+  ],
+  "timestamp": "2026-10-21T20:53:43.108069814Z",
+  "model": "glm-5.3"
+}

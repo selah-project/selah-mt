@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "mt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Lhudi m'għandux copula fil-ewwel fossemt"
+    },
+    {
+      "kind": "crux",
+      "subject": "tal-qaddisin",
+      "rationale": "qdoshim plural bil-fatt: 'tal-qaddisin' jew 'ta' dak li hu qaddis' (singular intensiv) — il-plural jibqa' plural"
+    }
+  ],
+  "translation": "Il-bidu tal-għerf huwa l-joqob ta' Jaħwe, u l-għarfien tal-qaddisin ⟨hu⟩ fehm.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/9\/9-12.1792618486182.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Il-bidu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tal-għerf"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "l-joqob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "u l-għarfien"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tal-qaddisin"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fehm"
+    }
+  ],
+  "timestamp": "2026-10-21T21:34:46.182853997Z",
+  "model": "glm-5.3"
+}

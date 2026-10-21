@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבה",
+      "rationale": "'Arka' għal תבה, li literalment tfisser 'kaxxa' (bħal kaxxa ta' Musa u l-frażi Eġizzjani)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "l-familji",
+      "rationale": "Il-ħruġ organizzat skont il-mišpaħot — kategorizzazzjoni tal-ħlejjaq."
+    }
+  ],
+  "translation": "Kull ħajja, kull dak li jitkaxkar, u kull għasfur, kull li jitkaxkar fuq l-art, skont il-familji tagħhom, ħarġu mill-arka.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/8\/17-20.1792597847526.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "dak li jitkaxkar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u kull"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "għasfur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "li jitkaxkar"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "l-art"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "skont il-familji tagħhom"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ħarġu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minn"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l-arka"
+    }
+  ],
+  "timestamp": "2026-10-21T15:50:47.527250409Z",
+  "model": "glm-5.3"
+}

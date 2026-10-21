@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 22:8",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jarah-lu",
+      "rationale": "יראה לו: 'Elohim jarah għalih\/nefsha' — 'jara' litterali, jew 'jipprovdi' (KJV 'provide'); il-kelma tingħata moħħha mill-ġdid f'22:14 'Jaħwe jarah'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראה",
+      "rationale": "L-istess għerq ראה jidher hawn u f'22:14 (JHWH Jireh), ħolqa li l-Malti jżomm b''jarah'."
+    },
+    {
+      "kind": "elision",
+      "subject": "isem il-verb",
+      "rationale": "Il-verb יראה huwa singular għalkemm Elohim huwa plural — it-test jibqa' kif inhu."
+    }
+  ],
+  "translation": "U Avraham qal: Elohim jarah-lu il-ħaruf għall-olà, ibni. U marru it-tnejn flimkien.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "ee1cc4c3e38cd3970757f7844553ba5a32841f2e40b4f83571c8edb53a322a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/22\/5-8.1792598172305.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "jarah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "השה",
+      "gloss": "il-ħaruf"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "għall-olà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ibni"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "U marru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "it-tnejn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "flimkien"
+    }
+  ],
+  "timestamp": "2026-10-21T15:56:12.307003474Z",
+  "model": "glm-5.3"
+}

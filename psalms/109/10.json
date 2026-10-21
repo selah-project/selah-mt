@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונוע ינועו",
+      "rationale": "infinitiv absolut qabel il-verb — 'jitellqu bla qieghda jitellqu', tgeżwir figurattiv mitluf fil-Malti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruins",
+      "rationale": "חרבות litteralment 'postijiet nixfa mbieraħ', mill-gerħa 'jkun nixf'"
+    }
+  ],
+  "translation": "U jkunu ulsidu jtellqu bla waqfien, u jitolbu, u jfittxu l-ħobż minn fbiedietilhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/9-12.1792617907738.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "u jtellqu"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bla waqfien"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ulsidu"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ujitolbu"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ujfittxu"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "minn fbiedietilhom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:25:07.739583321Z",
+  "model": "glm-5.3"
+}

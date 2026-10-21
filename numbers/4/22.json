@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את ראש",
+      "rationale": "'Li ttella' r-ras' tfisser tagħmel ċensiment; il-Malti jgħid 'Ġib l-għadd'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "iċ-ċensiment",
+      "rationale": "Ordni li tgħodd wlied Gerxown skond id-djar u l-familji"
+    }
+  ],
+  "translation": "Ġib ⟨את⟩ l-għadd ta' wlied Gerxown, huma ukoll, skond id-dar ta' missirijietħom, skond il-familji tagħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/21-24.1792602443596.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ġib l-għadd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-għadd"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "l-għadd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerxown"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ukoll"
+    },
+    {
+      "surface": "הם",
+      "gloss": "huma"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "skond id-dar"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ta' missirijietħom"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "skond il-familji tagħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T17:07:23.615968029Z",
+  "model": "glm-5.3"
+}

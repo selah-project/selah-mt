@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "terafim",
+      "rationale": "תרפים kept as 'terafim': household idols\/images — translators split between 'idols', 'images', and transliteration."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "Hebrew waw frames Rachel's theft as the next act while Laban is away; Maltese pluperfect 'kien mar' carries the overlap."
+    }
+  ],
+  "translation": "U Lavan kien mar jiġżż ⟨את⟩ in-nagħaġ u l-mogħoż tiegħu, u Rachell serqet ⟨את⟩ it-terafim li kienu ta' missierha.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "448808e7e38ff01d675a9f145a877a90dad509ecfdadf6faea27717820a36d2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/18-20.1792602137979.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "U Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kien mar"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "jiġżż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "in-nagħaġ u l-mogħoż tiegħu"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "in-nagħaġ u l-mogħoż tiegħu"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "u serqet"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "it-terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "it-terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ta' missierha"
+    }
+  ],
+  "timestamp": "2026-10-21T17:02:17.981859079Z",
+  "model": "glm-5.3"
+}

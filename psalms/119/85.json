@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ħofru btieħi",
+      "rationale": "כרו שיחות: 'ħofru btieħi' — l-eżempju tal-figura: jitħasseb il-ħatra kontra l-qaddis, mhux tħaffir litterali"
+    },
+    {
+      "kind": "crux",
+      "subject": "li mhux skont it-Tora tiegħek",
+      "rationale": "li mhux skont it-Tora tiegħek — l-antecedent ta' אשר: il-btieħi (KJV\/ASV) jew l-arroganti (JPS)"
+    }
+  ],
+  "translation": "L-arroganti ħofru għalija btieħi, li mhux skont it-Tora tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/119\/85-88.1792618047495.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ħofru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "għalija"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "l-arroganti"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "btieħi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "skont it-Tora tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T21:27:27.495868152Z",
+  "model": "glm-5.3"
+}

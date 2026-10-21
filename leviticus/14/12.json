@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tenufa",
+      "rationale": "תנופה — il-moviment ta' llejqfu: 'jgħollihom' kontra traduzzjonijiet bħala 'jċaqlaqhom lura u quddiem'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħtija",
+      "rationale": "אשם huwa l-offerta tal-ħtija (guilt offering), mhux ħtija biss"
+    }
+  ],
+  "translation": "U l-qassis jieħu ⟨את⟩ il-ħaruf l-ewwel u joffru bħala ħtija, u ⟨את⟩ il-log taż-żejt, u jgħollihom bħala tenufa quddiem Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/9-12.1792600808424.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "u jieħu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "l-qassis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-ħaruf l-ewwel"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "il-ħaruf"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l-ewwel (l-waħdu)"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "u joffru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bħala ħtija"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "bħala ħtija"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "il-log taż-żejt"
+    },
+    {
+      "surface": "לג",
+      "gloss": "il-log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "taż-żejt"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "u jgħollihom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bħala tenufa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "bħala tenufa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:40:08.425861800Z",
+  "model": "glm-5.3"
+}

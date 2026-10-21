@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "wiċċ ieħbes",
+      "rationale": "קשי פנים litteralment 'iebsa wiċchom' — wiċċ li ma jistax jitgħaxxaq bl-għajb"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta'",
+      "rationale": "il-kostrutt ebrajk jeħtieġ 'ta'' bil-Malti: קשי־פנים, חזקי־לב mibnijin flimkien"
+    },
+    {
+      "kind": "elision",
+      "subject": "tgħidilhom",
+      "rationale": "אליהם it-tieni darba ma tiġix duplicata: 'u tgħid lilhom' saret 'tgħidilhom'"
+    }
+  ],
+  "translation": "U ulied ta' wiċċ ieħbes u ta' qalb iebsa — jiena nibgħat ⟨את⟩ lilek lejhom, u tgħidilhom: Hekk jgħid Adonaj Jaħwe.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/2\/1-4.1792614060702.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "U ulied"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "ta' wiċċ ieħbes"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wiċċ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "u ta' qalb iebsa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jiena"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "nibgħat"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "lilek"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lejhom"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "u tgħidilhom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lilhom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hekk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jgħid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T20:21:00.704003097Z",
+  "model": "glm-5.3"
+}

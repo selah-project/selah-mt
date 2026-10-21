@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "għand",
+      "rationale": "אל 'lejn' bil-Malti jieħu 'għand' mal-isem"
+    },
+    {
+      "kind": "you",
+      "subject": "hawn jien",
+      "rationale": "Samwel iwieġeb lill-ispaker b'הנני, indirizz dirett lil Eli"
+    }
+  ],
+  "translation": "U ġera għand Eli u qal: Hawn jien, għax int sejjaħtni. U ⟨qal: ma sejjaħtlekx; erga' mor rħis. U mar u rtebet.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/3\/5-8.1792607625143.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "u ġera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "għand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hawn jien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "int sejjaħtni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lili"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u qal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sejjaħt"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "erga'"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "rħis"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u mar"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "u rtebet"
+    }
+  ],
+  "timestamp": "2026-10-21T18:33:45.143737261Z",
+  "model": "glm-5.3"
+}

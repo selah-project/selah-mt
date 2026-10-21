@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiksruh",
+      "rationale": "תעטרנו għandha t-tifsira 'taqterh' — tidher kemm bħala kurunament kif ukoll tiġbir ta' madwar għall-ħarsien; hawn hi maħduma bħala 'taqterh bħala siger ras', imma r-riżq eżistenti mhuwiex ċar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tibierrek",
+      "rationale": "jista' jkun preżent jew futur; l-għan huwa dwar Jaħwe bħala dak li jberrek il-ġust"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כצנה",
+      "rationale": "il-kelma tfisser kemm ganc kif ukoll xexħa kbira — l-istampa hi ta' għajnuna tal-gwerra, mhux biss ħarsien"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-ġust",
+      "rationale": "il-vers jitkellem dwar Jaħwe fit-tielet persuna ta' indirizz, iqarreb lejh lill-ġust"
+    }
+  ],
+  "translation": "Għaliex int, Jaħwe, tibierrek lil dak il-ġust; bir-riżq ⟨ttiegħlemh⟩ bħal xexħa ta' pjaċir tiksruh.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/5\/13-13.1792616486585.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "tibierrek"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "dak il-ġust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "bħal xexħa"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "pjaċir"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "tiksruh"
+    }
+  ],
+  "timestamp": "2026-10-21T21:01:26.585693101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "mt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fittex il-wiċċ",
+      "rationale": "חלה את פני — literali 'ħlieġ\/ilbet il-wiċċ': ewtan ta' qerq il-wiċċ, tradott b''fittex il-wiċċ\/favori'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "u niżżel ruħu",
+      "rationale": "ויכנע literali 'mingħata r-rkobbtejn' — inxtet, ċeda"
+    },
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-pronom sottopost miżjud bil-Malti għas-sjegħa, immarkat ⟨hu⟩... mhux immarkat għax parti minn 'meta sab ruħu'"
+    }
+  ],
+  "translation": "U meta sab ruħu fit-tbatija, hu fittex ⟨את⟩ il-wiċċ ta' Jaħwe Elohim tiegħu, u niżżel ruħu ħafna quddiem Elohim ta' missirietu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "4d28a50277711074e9cc7de8e43a0625940b788eba5dabf11ef1d6a7086e2817",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/33\/11-12.1792624099937.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "meta sab ruħu fit-tbatija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiegħu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "fittex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-wiċċ ta' Jaħwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il-wiċċ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim tiegħu"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "u niżżel ruħu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ħafna"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ta' missirietu"
+    }
+  ],
+  "timestamp": "2026-10-21T23:08:19.938648755Z",
+  "model": "glm-5.3"
+}

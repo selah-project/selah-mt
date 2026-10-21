@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחזק לב",
+      "rationale": "litteralment 'u qalbtu sabet qawwa' — idjoma għal ħtijaħa; l-Ingliż juża 'hardened'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "smiex għandihom",
+      "rationale": "שמע אל tfisser 'isma' għal', jiġifieri jobdi"
+    }
+  ],
+  "translation": "U ħadet qawwa qalb Faragħun, u ma smiex għandihom, kif kien qal Jaħwe.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/7\/13-16.1792599295722.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "u ħadet qawwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faragħun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "smiex"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "għandihom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kif"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kien qal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    }
+  ],
+  "timestamp": "2026-10-21T16:14:55.722836789Z",
+  "model": "glm-5.3"
+}

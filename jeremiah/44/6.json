@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 44:6",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-għadab ta' mnierti",
+      "rationale": "אפi litteralment 'imnierti'; il-Malti jżomm il-ħatra metaforika tal-Lhudi"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta' mnierti",
+      "rationale": "zieda bil-Malti biex jifhem il-ħolqien tal-ħemda mal-אף"
+    }
+  ],
+  "translation": "u tfiet ħemda tiegħi u l-għadab ta' mnierti, u ħarqet fil-bliet ta' Jehuda u fit-toroq ta' Jeruxalajim, u saru ħerba u melodija, sal-lum din.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/44\/5-8.1792613571341.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתך",
+      "gloss": "u tfiet"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ħemda tiegħi"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "u l-għadab ta' mnierti"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "u ħarqet"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "fil-bliet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ta' Jehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "u fit-toroq"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ta' Jeruxalajim"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "u saru"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "ħerba"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "u melodija"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sal-lum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-21T20:12:51.342707618Z",
+  "model": "glm-5.3"
+}

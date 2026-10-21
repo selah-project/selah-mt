@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 2:11",
+  "book": "daniel",
+  "lang": "mt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "l-allat",
+      "rationale": "אלהין hawn plurar Aramajk f'ħalq il-Kaldajq pagani, għalhekk b'ittra żgħira skont D1, mhux Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "rari",
+      "rationale": "יקירה: 'rari\/prezzjuż' kontra 'tqila' (jps 'hard thing')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ħadd",
+      "rationale": "il-Malti jeħtieġ 'ħadd' għad-negattiv, l-Aramajk għandu biss 'la itaj'"
+    }
+  ],
+  "translation": "U l-kelma li r-re jitlob hija rari, u m'hemm ⟨ħadd⟩ ieħor li jista' juriha quddiem ir-re, għajr l-allat, li r-residenza tagħhom mhix ma' min għandu ġisem.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "bcda1fea4fc4681ac216d70445d29c05cc70c267ccdb68d2f2e30082bbb494f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/11-12.1792623989043.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלתא",
+      "gloss": "U l-kelma"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "jitlob"
+    },
+    {
+      "surface": "יקירה",
+      "gloss": "hija rari"
+    },
+    {
+      "surface": "ואחרן",
+      "gloss": "u ieħor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "hemm"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "יחונה",
+      "gloss": "juriha"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ir-re"
+    },
+    {
+      "surface": "להן",
+      "gloss": "għajr"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "l-allat"
+    },
+    {
+      "surface": "די",
+      "gloss": "li"
+    },
+    {
+      "surface": "מדרהון",
+      "gloss": "ir-residenza tagħhom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ma'"
+    },
+    {
+      "surface": "בשרא",
+      "gloss": "min għandu ġisem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhix"
+    },
+    {
+      "surface": "איתוהי",
+      "gloss": "hemm"
+    }
+  ],
+  "timestamp": "2026-10-21T23:06:29.045357170Z",
+  "model": "glm-5.3"
+}

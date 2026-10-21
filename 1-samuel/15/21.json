@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 15:21",
+  "book": "1-samuel",
+  "lang": "mt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħerem",
+      "rationale": "החרם huwa l-ħerem — il-ħaġa mħarsa għall-qerda għal Jaħwe; ma ntradmitx b'sempliċement 'qerda'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hom",
+      "rationale": "il-pronum 'hom' miżjud bil-Malti għaliex לזבח huwa infinitiv bi skop"
+    }
+  ],
+  "translation": "U l-poplu ħa mill-merħla tal-ħsara, nagħaġ u mogħoż u baqar — l-ewwel tal-ħerem — biex jissagrifikawhom lil Jaħwe, Elohim tiegħek, fil-Gilgal.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/15\/21-24.1792608006208.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "u ħa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il-poplu"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "mill-merħla tal-ħsara"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nagħaġ u mogħoż"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "u baqar"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "l-ewwel"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tal-ħerem"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "biex jissagrifikaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lil Jaħwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tiegħek"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "fil-Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-21T18:40:06.208658751Z",
+  "model": "glm-5.3"
+}

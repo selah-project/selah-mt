@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאץ נאצת",
+      "rationale": "infinitiv assolut bis-servizz ta' verb finit — 'ddeżżajt ddeżżajt' — intensità mitlufa bil-Malti bi verb wieħed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות ימות",
+      "rationale": "infinitiv assolut oħra: 'jmut jmut' — taħlita ta' rabta ma' לא תמות fil-vers 13, issa ġiet maqluba."
+    },
+    {
+      "kind": "crux",
+      "subject": "נאצת את אויבי יהוה",
+      "rationale": "litteralment 'ddeżżajt lill-għedewwa ta' Jaħwe'; il-biċċa l-kbira tat-traduzzjonijiet jaqilgħuha 'tajthom il-każuni biex jikkalunjawaw' — l-oġġett dirett fl-Ebrajk huma l-għedewwa stess."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אפס כי",
+      "rationale": "'ġej tmiem: għaliex' — jew sempliċement 'imma', perħusa ta' avversattiv."
+    }
+  ],
+  "translation": "Ġej tmiem: għaliex ddeżżajt ⟨את⟩ lill-għedewwa ta' Jaħwe b'din il-kelma — anki l-iben il-missier mwieled għalik, jmut jmut tassew.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/12\/13-16.1792608798782.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Ġej tmiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliex"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ddeżżajt"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "ddeżżajt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lill-għedewwa ta' Jaħwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "lill-għedewwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "b'din il-kelma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "din"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anki"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "l-iben"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "il-missier mwieled"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "מות",
+      "gloss": "jmut"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "jmut tassew"
+    }
+  ],
+  "timestamp": "2026-10-21T18:53:18.783384466Z",
+  "model": "glm-5.3"
+}

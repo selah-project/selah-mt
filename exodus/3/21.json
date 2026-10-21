@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨li⟩",
+      "rationale": "Il-Malti jeħtieġ il-konġunzjoni wara 'jiġri' li m'għandux l-Lhudi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעיני מצרים",
+      "rationale": "Fil-literali 'f'għajnejn il-Mitsrijin' — idjom Lhudi għal 'f'għajthom\/fil-preżenza ta', miżmum letterali fil-Malti."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Jaħwe jkellem lil Moxe dwar il-poplu ta' Jisrael, b'indirizz mill-bogħod fit-tieni persuna plural."
+    }
+  ],
+  "translation": "U nagħti ⟨את⟩ il-grazzja ta' dan il-poplu f'għajnejn il-Mitsrijin; u jiġri ⟨li⟩ meta tmorru, mhux se tmorru vojt.",
+  "provenance": {
+    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/21-22.1792599221210.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "U nagħti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-grazzja"
+    },
+    {
+      "surface": "חן",
+      "gloss": "il-grazzja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ta' dan il-poplu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "f'għajnejn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "il-Mitsrijin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "u jiġri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meta"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "tmorru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "se tmorru"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "vojt"
+    }
+  ],
+  "timestamp": "2026-10-21T16:13:41.210748871Z",
+  "model": "glm-5.3"
+}

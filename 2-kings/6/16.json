@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אתנו \/ אותם",
+      "rationale": "Żewġ kliem kważe identiċi bl-ittri (alef-tav): 'magħna' u 'dawk' — il-ħila tal-ħars ma tidhirx fil-Malti."
+    },
+    {
+      "kind": "you",
+      "subject": "lis-servitur imbeżża'",
+      "rationale": "Kelma ta' ferħ u imperattiv indirizzati diretta lill-żagħżugħ."
+    },
+    {
+      "kind": "crux",
+      "subject": "min jkun magħna",
+      "rationale": "Il-vers ma jsemmix l-eżerċitu ta' Jaħwe — il-qarrej jara biss fil-vers 17; traduzzjoni ma tistax tiżżid l-ispjegazzjoni."
+    }
+  ],
+  "translation": "U qal: La tibża', għax iktar huma dawk li ⟨את⟩ magħna minn dawk li ⟨את⟩ magħhom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/6\/13-16.1792610231910.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "U qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tibża'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "iktar huma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dawk li"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ magħna"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "minn dawk li"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ magħhom"
+    }
+  ],
+  "timestamp": "2026-10-21T19:17:11.911921301Z",
+  "model": "glm-5.3"
+}

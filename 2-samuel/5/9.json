@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "mt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "għammel",
+      "rationale": "וישב huwa 'poġġa\/fosta'; 'għammel (residence)' fil-Malti jagħti sens idjomatiku"
+    },
+    {
+      "kind": "crux",
+      "subject": "וביתה",
+      "rationale": "'l ġewwa (inward)' vs 'lejn id-dar'; aktar minn interpretazzjoni waħda"
+    }
+  ],
+  "translation": "U David għammel fil-fortizza, u sejħilha il-belt ta' David; u David bena madwar, mill-Millo 'l ġewwa.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/5\/9-12.1792608543694.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "għammel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "fil-fortizza"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "u sejħelha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ilha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "il-belt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ta' David"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "u bena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "madwar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mill-"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "'l ġewwa"
+    }
+  ],
+  "timestamp": "2026-10-21T18:49:03.694540485Z",
+  "model": "glm-5.3"
+}

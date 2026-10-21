@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לאולתי",
+      "rationale": "'ħmerija\/ġeħ' — kliem qrib ta' ps 69:6, il-Malti juża 'ġeħ' għal silliness"
+    },
+    {
+      "kind": "addition",
+      "subject": "int taf",
+      "rationale": "l-emfassi ta' אתה torbot il-grammatika Maltija"
+    },
+    {
+      "kind": "secret",
+      "subject": "נכחדו",
+      "rationale": "dak li hu moħbi quddiem Elohim — il-ħtif ma jiflaħx; l-ebda ħaġa moħbija minn Alla"
+    }
+  ],
+  "translation": "Elohim, int taf ⟨i⟩ ġeħ tiegħi, u ħtijieti mingħandek ma ġewux moħbijija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/69\/5-8.1792617349182.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "int"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tfaf"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "iġ-ġeħ tiegħi"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "u ħtijieti"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mingħandek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ġewux moħbijija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:15:49.183372779Z",
+  "model": "glm-5.3"
+}

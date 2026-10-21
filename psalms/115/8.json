@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כמוהם...בהם",
+      "rationale": "the verse turns: those who make and trust become 'like them' — the idols' emptiness infects the worshippers; refrain of Ps 135:18."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "",
+      "rationale": "relative particle absorbed into 'kull min'."
+    }
+  ],
+  "translation": "Bħalhom ikunu dawk li għamluhom, kull min jafdahom ⟨jaħwilha miegħu⟩.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/115\/5-8.1792617973061.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Bħalhom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ikunu"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "dawk li għamluhom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kull min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בטח",
+      "gloss": "jafdahom"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fihom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:13.062035366Z",
+  "model": "glm-5.3"
+}

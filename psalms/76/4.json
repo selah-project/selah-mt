@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hu",
+      "rationale": "il-Lhudi ma jgħidx min kiser; il-veru suġġett (Elohim) m'hemmx f'dan il-vers."
+    },
+    {
+      "kind": "crux",
+      "subject": "רשפי",
+      "rationale": "רשף tfisser 'fraqa' jew 'vleġġa': 'fljamberġi tal-qniefes' (JPS) kontra sempliċement 'vleġeġ'; għażilt in-nar biex inżomm id-doppju."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "סלה hija marker mużikali (paża) fil-Lhudi; ma jiġix tradott."
+    }
+  ],
+  "translation": "Hemm ⟨hu⟩ kiser il-vleġġa tan-nar tal-qniefes; it-targa, ix-xabla, u l-gwerra. Selah.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/76\/1-4.1792617468250.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Hemm"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kiser"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "tan-nar"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "vleġġa tal-qniefes"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "it-targa"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ix-xabla"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "u l-gwerra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T21:17:48.251287830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשרתי",
+      "rationale": "'għidt il-bxara' (bishâr) kontra sempliċement 'għidt'; il-għerq jifhem bxara tajba"
+    },
+    {
+      "kind": "substitution",
+      "subject": "xofftejtja",
+      "rationale": "שפתי litteralment 'xofftejn', konfini tal-ħalq"
+    },
+    {
+      "kind": "you",
+      "subject": "lill-Jaħwe",
+      "rationale": "appell diretta lisem Jaħwe fl-aħħar tal-vers"
+    }
+  ],
+  "translation": "Biċ-ċentru tal-bxara għidt it-tsedeq fil-laqgħa kbira; ara, xofftejtja ma nżommhomx, Jaħwe, inti taf.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/40\/9-12.1792617027579.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "biċ-ċentru tal-bxara għidt"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "it-tsedeq"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "fil-laqgħa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kbira"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "xofftejtja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "nżommhomx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "taf"
+    }
+  ],
+  "timestamp": "2026-10-21T21:10:27.580169133Z",
+  "model": "glm-5.3"
+}

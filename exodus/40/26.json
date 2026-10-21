@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "mt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "l-",
+      "rationale": "l-artiklu Malti m'għandux bżonnhu ma' 'tenda' bl-ebada semantika"
+    }
+  ],
+  "translation": "U poġġa ⟨את⟩ l-artal tad-deheb fit-tinda tal-laqgħa, quddiem il-velu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b149e5d1ecadd7ab4d49575833c7f6842da9e731c78137272e478762189067eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/40\/25-28.1792600363376.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "poġġa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-artal tad-deheb"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l-artal"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tad-deheb"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "fit-tinda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tal-laqgħa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "quddiem"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "il-velu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:32:43.376804337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minn ġewwa għal barra",
+      "rationale": "Miżjud biex jiddeskrivi l-ħruxija ta' נמקו (dewbib\/biqi), m'hemmx fil-Lhudi."
+    },
+    {
+      "kind": "crux",
+      "subject": "חבורתי",
+      "rationale": "Ċiċirjoniet\/is-sinji mis-sabaq: l-istorja tara 'ġrieħi' b'mod aktar wiesa'."
+    }
+  ],
+  "translation": "Tintonaw u ddewbu l-ġrieħi tiegħi, minn ġewwa għal barra, minħabba l-ħmerija tiegħi.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/38\/5-8.1792616917584.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "tintonaw"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "ddewbu"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "il-ġrieħi tiegħi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "minħabba"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "l-ħmerija tiegħi"
+    }
+  ],
+  "timestamp": "2026-10-21T21:08:37.585406479Z",
+  "model": "glm-5.3"
+}

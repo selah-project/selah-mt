@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "mt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "xejn",
+      "rationale": "Il-Malti jeħtieġ oġġett ma' 'ma jħallix'; il-Lhudi għandu biss 'ma jħallix minnu'."
+    }
+  ],
+  "translation": "Il-laħam ta' zebbax it-tifħir tas-sliem tiegħu jittiekol f'jum il-qorban tiegħu; ma jħallix xejn minnu sa filgħodu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/7\/13-16.1792600541231.json",
+    "code": "21b4e50c7-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "il-laħam"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ta' zebbax"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "it-tifħir"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "tas-sliem tiegħu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "f'jum"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "il-qorban tiegħu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jittiekol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "jħallix"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "filgħodu"
+    }
+  ],
+  "timestamp": "2026-10-21T16:35:41.233067224Z",
+  "model": "glm-5.3"
+}

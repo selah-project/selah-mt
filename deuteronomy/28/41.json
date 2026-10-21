@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "mt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "f'jasar",
+      "rationale": "שבי hija l-ħabsija\/is-servitù; 'jasar' bil-Malti żżomm il-ħoss Semitiku"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "rationale": "il-miżjud '-x' bil-Malti jaqbad ma' 'għalik' biex jifhem in-negazzjoni ta' ולא"
+    }
+  ],
+  "translation": "Subien u bniet se twelled, u ma jkunu għalikx, għax se jimxu f'jasar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/28\/41-44.1792606025879.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Subien"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "u bniet"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "se twelled"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jkunu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalikx"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għax"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "se jimxu"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "f'jasar"
+    }
+  ],
+  "timestamp": "2026-10-21T18:07:05.879907513Z",
+  "model": "glm-5.3"
+}

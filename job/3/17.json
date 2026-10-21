@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 3:17",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שם ... ושם",
+      "rationale": "repetition of 'there ... and there', the anaphora of Sheol's equalizing rest, kept in Maltese with 'Hemm ... u hemm'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רגז",
+      "rationale": "the Hebrew is commotion\/restlessness\/anger, not only 'troubling'; 'taħwid' keeps the inner agitation"
+    }
+  ],
+  "translation": "Hemm il-ħżejjen joqtgħu minn taħwid, u hemm jistrieħu l-għejjaħ ta' ġlied.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/3\/17-20.1792619067740.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Hemm"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "il-ħżejjen"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "joqtgħu minn"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "taħwid"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "u hemm"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "jistrieħu"
+    },
+    {
+      "surface": "יגיעי",
+      "gloss": "l-għejjaħ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ta' ġlied"
+    }
+  ],
+  "timestamp": "2026-10-21T21:44:27.740564055Z",
+  "model": "glm-5.3"
+}

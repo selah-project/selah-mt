@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "huma",
+      "rationale": "Il-Lhudi m'għandux verb 'to be' fil-preżent; il-Malti jeħtieġ 'huma'."
+    }
+  ],
+  "translation": "Kbar huma l-għemejjel ta' Jaħwe, jiġu fittxija minn kull min għandu pjaċir fihom.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/111\/1-4.1792617968512.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Kbar"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "l-għemejjel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta' Jaħwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "jiġu fittxija"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minn kull min"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "għandu pjaċir fihom"
+    }
+  ],
+  "timestamp": "2026-10-21T21:26:08.513470130Z",
+  "model": "glm-5.3"
+}

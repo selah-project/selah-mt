@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "mt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומדבריך",
+      "rationale": "jista' jkun 'il-kelem tiegħek' (mil-lat tad-dibbur) jew 'dwar il-ħalq tiegħek' — l-aktar tradutturi jaqtgħu għal 'speech'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ħaddejk",
+      "rationale": "רקה litteralment 'il-ħaffef tal-ras', il-ġenb tal-ras — mhux eżatt 'templeja'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לצמתך",
+      "rationale": "צמה 'velu' jidher darba biss fit-Tanakh, hawn"
+    }
+  ],
+  "translation": "Bħal ħajt ta' ħamra xofftejk, u l-kelem ⟨sabiħ⟩; bħal qaċċata rummien ħaddejk, minn wara l-velu tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "ee9ac201cd9452d4fe751633bdeced77406941d519a3641bcf9345faa7df048c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/4\/2-3.1792623909693.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "bħal ħajt"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ta' ħamra"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "xofftejk"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "u l-kelem"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sabiħ"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "bħal qaċċata"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "rummien"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ħaddejk"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "minn wara"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "l-velu tiegħek"
+    }
+  ],
+  "timestamp": "2026-10-21T23:05:09.694694810Z",
+  "model": "glm-5.3"
+}

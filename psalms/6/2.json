@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rabbi",
+      "rationale": "אף litteralment huwa mnieħer\/wiċċ — idjom Lhudi għall-rabbi; il-Malti żamm idjom 'f'rabbi'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaħwe",
+      "rationale": "talba diretta lil Jaħwe, bil-foqa negattiv deprekattiv אל"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "paralleliżmu",
+      "rationale": "żewġ settijiet parallel biss — tokeħieni\/jassreni ma' af\/ħema — estrutura tal-poeżija Ebrajka"
+    }
+  ],
+  "translation": "Jaħwe, la ttikkixmini f'rabbi tiegħek, u la ttiddixiplinaxni f'ħemdi tiegħek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/6\/1-4.1792616558967.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "f'rabbi tiegħek"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ttikkixmini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u la"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "f'ħemdi tiegħek"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ttiddixiplinaxni"
+    }
+  ],
+  "timestamp": "2026-10-21T21:02:38.968260766Z",
+  "model": "glm-5.3"
+}

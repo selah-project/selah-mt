@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faħam",
+      "rationale": "גחלי huwa embrju jaħraq, mhux faħam mfettiħ; Malti ma għandux kelma għalih apparti 'faħam tan-nar'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברד וגחלי אש",
+      "rationale": "il-formula 'ħaġar tas-silġ u faħam tan-nar' tinġabar mill-ġdid fil-vers 14 bħala ritorn"
+    }
+  ],
+  "translation": "Mill-briju quddiemu, is-sħab l-iħxien tiegħu għaddu; ħaġar tas-silġ u faħam tan-nar.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/13-16.1792616631197.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Mill-briju"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "quddiemu"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "is-sħab l-iħxien tiegħu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "għaddu"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ħaġar tas-silġ"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "u faħam"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tan-nar"
+    }
+  ],
+  "timestamp": "2026-10-21T21:03:51.197947058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "mt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tagħmel ċens \/ tilħaqha tgħidha",
+      "rationale": "פקד u נשא both refer to mustering\/counting; two Hebrew verbs rendered with two Maltese counting-phrases"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ċens",
+      "rationale": "verse commands not to enroll Levi in the census"
+    }
+  ],
+  "translation": "Imma lil ⟨את⟩ tribù Levi m'taghmlilhiex ċens, u ⟨את⟩ ras il-Leviti mhux tilħaqha tgħidha fost wlied Jisrael.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/1\/49-52.1792602369335.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Imma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribù Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribù"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tagħmel ċens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "ras il-Leviti"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ras il-Leviti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mhux"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "tilħaqha tgħidha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "fost"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wlied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T17:06:09.337437022Z",
+  "model": "glm-5.3"
+}

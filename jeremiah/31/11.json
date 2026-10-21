@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "mt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goel",
+      "rationale": "גאל mhuwiex sempliċement 'ħeles' — huwa l-qrubi skont il-liġi tal-qraba li jifdi; il-kelma 'goel' żżomm il-forma Lhudija."
+    },
+    {
+      "kind": "addition",
+      "subject": "lil",
+      "rationale": "il-Malti jeħtieġ 'lil' għall-oġġett dirett, u ma jidhirx fil-Lhudi."
+    }
+  ],
+  "translation": "Għaliex Jaħwe ħeles ⟨את⟩ lil Jagħaqov, u ħelsih bħala goel minn id ta' min hu qawwi minnu.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "b8e0679aad7cc720094ac663520bb0ba4c6edd75efcdf25253b5cdd31e8a7e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/31\/9-12.1792613197882.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Għaliex"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ħeles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jaħwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil Jagħaqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lil Jagħaqov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "u ħelsih bħala goel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "minn id"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ta' min hu qawwi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "minnu"
+    }
+  ],
+  "timestamp": "2026-10-21T20:06:37.884075711Z",
+  "model": "glm-5.3"
+}

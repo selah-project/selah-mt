@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "mt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ħallisni",
+      "rationale": "פדה tfisser ifed\/iriffer — ma jittraduċix b'kelma ġenerika ta' ħniena"
+    },
+    {
+      "kind": "invitation",
+      "subject": "talba tal-psalmista",
+      "rationale": "żewġ imperattivi diretti lejn Alla: ħallisni, ħenn għalija"
+    }
+  ],
+  "translation": "Jien imorrfi-tumija tiegħi: ħallisni u ħenn għalija.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/26\/9-12.1792616794386.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "imma jien"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "fi-tumija tiegħi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "immur"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ħallisni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "u ħenn għalija"
+    }
+  ],
+  "timestamp": "2026-10-21T21:06:34.387648034Z",
+  "model": "glm-5.3"
+}

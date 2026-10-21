@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "mt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחים\/פחד",
+      "rationale": "alliterazzjoni bejn nassa (פח) u biża' (פחד), mitlufa fit-traduzzjoni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tidħlek",
+      "rationale": "ויבהלך qrib ukoll ta' 'jterrifk\/il-vjolenza tal-biża' ta' f'daqqa teħodha kontrik'"
+    }
+  ],
+  "translation": "Għalhekk hemm nassiet madwarek, u biża' f'daqqa tidħlek.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/job\/22\/9-12.1792619475440.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekk"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "madwarek"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "nassiet"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "u tidħlek"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "biża'"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "f'daqqa"
+    }
+  ],
+  "timestamp": "2026-10-21T21:51:15.441016170Z",
+  "model": "glm-5.3"
+}

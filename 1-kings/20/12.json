@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "mt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שימו",
+      "rationale": "verb vojt ta' oġġett — 'poġġew (f'posta)' hu suppliment; il-Lhudi jħalli s-sentenza maqtugħa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fis-soqof",
+      "rationale": "סכות litteralment 'soqof\/tined'; 'paviljuni' huwa tagħmir militari tard"
+    }
+  ],
+  "translation": "U ġara, meta sema' ⟨את⟩ id-diskors dan — u hu kien xorb, hu u s-slaten, fis-soqof — li qal lil-qeddejja: Poġġew f'posta. U poġġew f'posta kontra l-belt.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "881bab84f5dd4601c59c81eebb036a7873d1c49872824062203fbd481ad4990f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/20\/9-12.1792609949967.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "u ġara"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "meta sema'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-diskors"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "id-diskors"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u hu"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "xorb"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "u s-slaten"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "fis-soqof"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "qal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lil"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qeddejja"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "poġġew f'posta"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "u poġġew f'posta"
+    },
+    {
+      "surface": "על",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "l-belt"
+    }
+  ],
+  "timestamp": "2026-10-21T19:12:29.968712443Z",
+  "model": "glm-5.3"
+}

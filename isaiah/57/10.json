@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "mt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ħajja f'idek",
+      "rationale": "חית ידך: KJV 'the life of thine hand' vs ASV\/JPS 'renewal of thy strength' — idjom: sib saħħa f'idek biss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברב",
+      "rationale": "'l-abbundanza' ta' triqatek rendered 'it-tul' (il-kobor tat-tul), bħal JPS."
+    }
+  ],
+  "translation": "Bit-tul tat-triq tiegħek int għejit, ma għidtx: Ma hemmx tama; ħajja f'idek sibt, għalhekk ma ddgħajfix.",
+  "provenance": {
+    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
+    "user-sha256": "60ca08b901540170b77e46fadf067cc639fe5af218e7f92b60dd8352c291b853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/57\/10-11.1792623477271.json",
+    "code": "2734b1a4b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "bit-tul"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tat-triq tiegħek"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "int għejit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "għidtx"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "ma hemmx tama"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ħajja"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "f'idek"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "sibt"
+    },
+    {
+      "surface": "על",
+      "gloss": "għal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "għalhekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ddgħajfix"
+    }
+  ],
+  "timestamp": "2026-10-21T22:57:57.272290546Z",
+  "model": "glm-5.3"
+}
