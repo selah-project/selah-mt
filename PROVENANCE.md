@@ -2,7 +2,7 @@
 
 *Malti. Il-Bibbja Lhudija, vers b'vers. Bdiet fil-21 ta' Ottubru 2026 fil-11:47; it-Tanakh kollu niżel
 fil-21 ta' Ottubru 2026 fis-19:17; ir-round taċ-ċensiment u t-tiswijiet bl-id intemmu fit-22:18 tal-istess jum;
-il-qari wara l-bieb sar wara (ħin tal-Lvant tal-Istati Uniti, EDT = UTC−4).*
+il-qari wara l-bieb u t-tiswijiet tiegħu saru wara, fl-istess jum (ħin tal-Lvant tal-Istati Uniti, EDT = UTC−4).*
 
 Dan huwa d-dokument li jiġbor kif saret din it-traduzzjoni u x'għad irid jiġi korrett. Traduzzjoni magħmula minn
 magna ma jistħoqqilhiex fiduċja jekk ma tarax kif saret. Għalhekk dan il-fajl jgħid kollox — **anki
@@ -83,8 +83,8 @@ fil-corpus kollu) sab dak li l-bieb ma jarax:
   Iż 53:5 *traskendenzi* (`פשע`); Għan 2:3 *Fix-xita tiegħu* (`בצלו`, fid-dell tiegħu); Rut 1:6 *l-ikel tagħha*
   (`כלתיה`); 2 Slat 14:23 *sittax* (`חמש עשרה`, ħmistax); 2 Slat 18:4 *in-naħas tan-naħas* (`נחש הנחשת`).
 
-**Ebda vers ma nbidel f'dan il-qari** — il-lista sħiħa, b'kull fajl, kliem ħażin u tiswija proposta, tinsab
-fl-aħħar ta' `NOTES.md` ("Mistoqsijiet miftuħa"). Ma nstab l-ebda kelma tat-Testment il-Ġdid (*Kristu*, *Ġesù*,
+Il-lista sħiħa tal-qari (8cab973d) ġiet **applikata bl-id** wara r-regoli tal-jum — ara "X'ġie korrett" isfel u
+`NOTES.md` §1. Dak li jibqa' miftuħ jinsab fl-aħħar ta' `NOTES.md` ("Mistoqsijiet miftuħa"). Ma nstab l-ebda kelma tat-Testment il-Ġdid (*Kristu*, *Ġesù*,
 *Messija*, *Spirtu s-Santu*, *appostlu*, *evanġelju*): **0** — ħlief *il-knisja* hawn fuq. Ma nstab l-ebda *Mulej*:
 **0**.
 
@@ -102,11 +102,26 @@ fl-aħħar ta' `NOTES.md` ("Mistoqsijiet miftuħa"). Ma nstab l-ebda kelma tat-T
 - **Il-pressa tas-47:** **l-Isem MIŻJUD** fejn il-Lhudi m'għandux (Ġen 42:16 il-post tal-Fargħun; Eż 9:17 *il-poplu
   ta' Jaħwe*; 1 Slat 8:28 *qaddej ta' Jaħwe*; Ġob 8:3 `אל` …). L-aħħar sitta ngħalqu bl-id: Ħos 6:11 (`יהודה` —
   **Jehuda**, mhux l-Isem), Salm 66:6, 145:19, Imħ 13:16, 2 Slat 18:6, Ġen 18:23.
+- **Ir-regoli tal-jum** (Scott, 2026-10-21, issa fir-regoli Maltin): `עלה` → **sagrifiċċju tal-ħruq** (forma waħda
+  għall-54 variant); `ארון` → **l-arka** (*tebut* biss Ġen 50:26, *senduq* biss 2 Slat 12 / 2 Kron 24); it-`תבה` ta'
+  Noaħ → **l-arka**.
+- **It-tiswijiet tal-qari** (`dev/scripts/mt_reading_mends.py`, 2,357 fajl; `translation` u `gloss` biss — ivverifikat:
+  ebda `surface` jew qasam ieħor mibdul; idempotenti, jikkonverġi f'run waħda minn kopja nadifa ta' 8cab973d):
+  `עלה` (233 vers), l-arka (145) u t-teva ta' Noaħ (23); *c* → *ċ* u *ch* → *ħ* (96); *sh* → *x* fl-ismijiet fejn
+  il-Lhudi għandu `ש` (336); *gh* → *għ* (231); *kubit* → **driegħ** (29) u *deċimu* (5); *żaħħar* (2); ittri barra
+  mill-alfabett (460); karattri moħbija, tab u linja ġdida (29); kliem Ingliż (madwar 60, u Prov 15:20 kollu);
+  parentesi (h1 43, h2 84, h3 16, h4 114); *Elohim* miktub ħażin (31); *Alla* / *Elohim* kontra l-Lhudi (11);
+  28 vers ivvintati jew imħawda maqlubin mil-Lhudi; *il-knisja* → **il-ġemgħa** (25); l-ismijiet tar-regoli (88);
+  u l-kampjun vers b'vers (403 vers). L-ismijiet li r-regoli ma jsemmux **ma ġewx normalizzati**.
+- **Il-bieb wara t-tiswijiet:** l-Isem **6,007 / 6,007**; *fewer* **0**, *added* **0**, l-Isem miktub ħażin **0**,
+  awto-korrezzjonijiet **0**, tħassir **0**, NT **0**, Ingliż **0**, parentesi **0**, Lhudi **0**, NFC **0**;
+  **bleed 0** (kien 101); *indovin* **1** (2 Slat 23:24, fuq `הידענים` — tajjeb).
 
 ## Il-magna u l-bniedem
 
 **Il-kliem kollu fil-fajls tal-versi għamlitu l-magna**, ħlief it-tiswijiet bl-id imsemmija f'`NOTES.md` §1.
-Il-biċċa l-kbira tal-versi ma qrahom ebda bniedem. **L-ebda Malti għadu ma qara din it-traduzzjoni.** Dik hija
+Il-biċċa l-kbira tal-versi ma qrahom ebda bniedem, u l-kliem ivvintat — l-ikbar klassi — jibqa' fil-versi li ma
+nqrawx: il-Malti jidħol l-ewwel fir-round tal-qari sħiħ fiċ-ċirkwit tar-raffinament. **L-ebda Malti għadu ma qara din it-traduzzjoni.** Dik hija
 l-iktar mistoqsija miftuħa.
 
 L-istorja sħiħa tax-xogħol: `NOTES.md` u l-istorja ta' git.
