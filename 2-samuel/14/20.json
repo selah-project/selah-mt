@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hu",
-      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-wiċċ tal-każ",
-      "rationale": "סבב את פני הדבר: idum ma jgħidx 'jiżvolġi l-wiċċ tal-każ', mit-taħlita ta' 'dur' u 'wiċċ'"
-    },
-    {
-      "kind": "crux",
-      "subject": "mibgħut ta' Elohim",
-      "rationale": "מלאך jista' jkun anġlu jew bniedem mibgħut; KJV 'angel', YLT 'messenger'"
-    }
-  ],
-  "translation": "Biex jirravvolġi l-wiċċ tal-każ, għamel il-qaddej tiegħek Joab ⟨את⟩ il-każ dan; u sidi ⟨hu⟩ għaref skont l-għerf ta' mibgħut ta' Elohim, biex jaf ⟨את⟩ kollox li hemm fl-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bd2a872c270a2eea9d35126a3dd2921e3c37dde98541f6253ad842fcbfae4302",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/14\/20-20.1792623273863.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biex idawwar faċċata l-ħaġa, ħadem l-iskjav tiegħek Jowab ⟨את⟩ din il-ħaġa; u sidi ⟨hu⟩ għaref bħall-għerf ta' mibgħut Elohim, biex jaf ⟨את⟩ kollox li hemm fl-art.",
   "tokens": [
     {
       "surface": "לבעבור",
@@ -39,45 +13,45 @@
     },
     {
       "surface": "סבב",
-      "gloss": "jirravvolġi"
+      "gloss": "idawwar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-wiċċ"
+      "marks": "faċċata l-ħaġa"
     },
     {
       "surface": "פני",
-      "gloss": "il-wiċċ"
+      "gloss": "faċċata"
     },
     {
       "surface": "הדבר",
-      "gloss": "tal-każ"
+      "gloss": "l-ħaġa"
     },
     {
       "surface": "עשה",
-      "gloss": "għamel"
+      "gloss": "ħadem"
     },
     {
       "surface": "עבדך",
-      "gloss": "il-qaddej tiegħek"
+      "gloss": "l-iskjav tiegħek"
     },
     {
       "surface": "יואב",
-      "gloss": "Joab"
+      "gloss": "Jowab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-każ"
+      "marks": "din il-ħaġa"
     },
     {
       "surface": "הדבר",
-      "gloss": "il-każ"
+      "gloss": "il-ħaġa"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "ואדני",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "כחכמת",
-      "gloss": "skont l-għerf"
+      "gloss": "bħall-għerf"
     },
     {
       "surface": "מלאך",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "ta' Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לדעת",
@@ -121,6 +95,6 @@
       "gloss": "fl-art"
     }
   ],
-  "timestamp": "2026-10-21T22:54:33.864769284Z",
+  "timestamp": "2026-10-22T00:05:40.790085893Z",
   "model": "glm-5.3"
 }

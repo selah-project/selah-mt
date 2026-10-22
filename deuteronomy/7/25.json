@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "toʿeba",
-      "rationale": "תועבה miżżuma qrib tal-Lhudi għax 'disgustabbli' biss jitlef il-piż morali"
-    },
-    {
-      "kind": "elision",
-      "subject": "לך",
-      "rationale": "il-ל אttakkata għandha Malti naturali; ⟨għalik⟩ miżjuda bil-parentesi"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Jisrael",
-      "rationale": "ordni dirett fit-plural lis-semmiegħa"
-    }
-  ],
-  "translation": "L-istatwi tal-allat tagħhom għandkom taħarqu fin-nar; toħobbx l-fidda u d-deheb li hemm fuqhom u ma tieħudx ⟨għalik⟩, biex ma tiġix maqbud fihom, għaliex toʿeba ta' Jaħwe Elohim tiegħek huwa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d8741166ba443037ad018c83a6005eb2d9f59605f16e5bf28d46d48dc07a4bfc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/7\/25-26.1792605412495.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "L-iddoli maħduma tal-allat tagħhom għandkom taħarqu fin-nar; toħobux il-fidda u d-deheb li fuqhom u lanqas tieħdu ⟨lilek⟩ minnhom, biex ma tinżammeqx fihom, għax toɛba ta' Jaħwe Elohim tiegħek huma.",
   "tokens": [
     {
       "surface": "פסילי",
-      "gloss": "l-istatwi"
+      "gloss": "l-iddoli maħduma"
     },
     {
       "surface": "אלהיהם",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "ma…x"
     },
     {
       "surface": "תחמד",
-      "gloss": "toħobbx"
+      "gloss": "toħobux"
     },
     {
       "surface": "כסף",
-      "gloss": "l-fidda"
+      "gloss": "il-fidda"
     },
     {
       "surface": "וזהב",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "li hemm fuqhom"
+      "gloss": "li fuqhom"
     },
     {
       "surface": "ולקחת",
-      "gloss": "u ma tieħudx"
+      "gloss": "u lanqas tieħdu"
     },
     {
       "surface": "לך",
-      "gloss": "⟨għalik⟩"
+      "gloss": "⟨lilek⟩"
     },
     {
       "surface": "פן",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "תוקש",
-      "gloss": "tiġix maqbud"
+      "gloss": "tinżammeqx"
     },
     {
       "surface": "בו",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "תועבת",
-      "gloss": "toʿeba"
+      "gloss": "toɛba"
     },
     {
       "surface": "יהוה",
@@ -107,9 +81,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "huwa"
+      "gloss": "huma"
     }
   ],
-  "timestamp": "2026-10-21T17:56:52.496234680Z",
+  "timestamp": "2026-10-22T00:11:10.144674924Z",
   "model": "glm-5.3"
 }

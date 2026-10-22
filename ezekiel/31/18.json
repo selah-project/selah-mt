@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil-Faragħon",
-      "rationale": "Mistoqsja diretta indirizzata lill-sultan ta' Mitsrajim, b'seba' persuna ('tqabbillek', 'tinżel', 'torqod')."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Ma' min tqabbillek",
-      "rationale": "Mistoqsja retorika li tistedin lill-qarrej jaqbel il-q paragun tas-siġar."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ċirkonċiżi",
-      "rationale": "ערלים literal 'dawk bla ċirkonċiżjoni' — marka ta' mwiet immaqtin u mhux tad-din."
-    }
-  ],
-  "translation": "Ma' min tqabbillek b'dan il-mod fil-ġmiel u fil-kobor fost is-siġar ta' Għeden? Inti tinżel ma' siġar Għeden ⟨את⟩ għall-art ta' isfel, fin-nofs taċ-ċirkonċiżi torqod ma' dawk imwaqqgħin bil-xabla. Dak hu Faragħon u l-folla tiegħu kollha, jgħid Adonaj Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8fe58fd7207ee972e501194ac1da852c52f4cd735d1faad2ec783797f3c61cc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/31\/17-18.1792614765264.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lil min qbilt hekk fil-ġmiel u fil-kobor fost is-siġar ta' Eden? U tinżel int ⟨flimkien⟩ ma' ⟨את⟩ is-siġar ta' Eden għal art ta' isfel; f'nofs dawk li mhux imsunnin torqod ma' ⟨את⟩ l-meqtulin bis-sejf. Hu Faragħon, hu u l-ġemgħa kollha tiegħu, jgħid Adonaj Jaħwe.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Ma'"
+      "gloss": "Lil"
     },
     {
       "surface": "מי",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "דמית",
-      "gloss": "tqabbillek"
+      "gloss": "qbilt"
     },
     {
       "surface": "ככה",
-      "gloss": "b'dan il-mod"
+      "gloss": "hekk"
     },
     {
       "surface": "בכבוד",
@@ -59,32 +33,32 @@
     },
     {
       "surface": "בעצי",
-      "gloss": "fost is-siġar ta'"
+      "gloss": "fost is-siġar"
     },
     {
       "surface": "עדן",
-      "gloss": "Għeden"
+      "gloss": "ta' Eden"
     },
     {
       "surface": "והורדת",
-      "gloss": "Inti tinżel"
+      "gloss": "u tinżel int"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "siġar Għeden"
+      "marks": "is-siġar ta' Eden"
     },
     {
       "surface": "עצי",
-      "gloss": "siġar"
+      "gloss": "is-siġar"
     },
     {
       "surface": "עדן",
-      "gloss": "Għeden"
+      "gloss": "ta' Eden"
     },
     {
       "surface": "אל",
-      "gloss": "għall-"
+      "gloss": "għal"
     },
     {
       "surface": "ארץ",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "fin-nofs taċ-"
+      "gloss": "f'nofs"
     },
     {
       "surface": "ערלים",
-      "gloss": "ċirkonċiżi"
+      "gloss": "dawk li mhux imsunnin"
     },
     {
       "surface": "תשכב",
@@ -109,19 +83,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawk imwaqqgħin bil-xabla"
+      "marks": "l-meqtulin bis-sejf"
     },
     {
       "surface": "חללי",
-      "gloss": "imwaqqgħin"
+      "gloss": "l-meqtulin"
     },
     {
       "surface": "חרב",
-      "gloss": "bil-xabla"
+      "gloss": "bis-sejf"
     },
     {
       "surface": "הוא",
-      "gloss": "Dak hu"
+      "gloss": "hu"
     },
     {
       "surface": "פרעה",
@@ -129,11 +103,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u kollha"
+      "gloss": "u l-ġemgħa kollha"
     },
     {
       "surface": "המונה",
-      "gloss": "il-folla tiegħu"
+      "gloss": "tiegħu"
     },
     {
       "surface": "נאם",
@@ -148,6 +122,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:32:45.265894425Z",
+  "timestamp": "2026-10-22T00:18:00.446451118Z",
   "model": "glm-5.3"
 }

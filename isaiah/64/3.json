@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 64,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "il-prepożizzjoni mehmuża lill-infinitiv ma għandhiex ekwivalenti Malti mnifxa."
-    },
-    {
-      "kind": "mystery",
-      "subject": "ma jismgħux, għajn ma ratx",
-      "rationale": "il-vers iqiegħed kelma moħbija dwar x'se jaġġixxi Elohim għal min jistennih — dak li l-għajn ma ratitx."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמעו \/ האזינו",
-      "rationale": "żewġ verbi tas-smigħ f'paralleliżmu, sażżijiet repetuti li jżidu s-saħħa tan-negazzjoni."
-    }
-  ],
-  "translation": "U minn żmien antik ma smgħux, ma tawx widen smigħ; għajn ma ratx Elohim ħlief inti, li jaġġixxi għal min jistennih.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/64\/1-4.1792612172463.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U minn żmien il-qedem ma semgħu, la broadnedu l-widnejn, għajn ma rat ħa Elohim minnbarra fik, jagħmel għal min jistennieh.",
   "tokens": [
     {
       "surface": "ומעולם",
-      "gloss": "u minn żmien antik"
+      "gloss": "u minn żmien il-qedem"
     },
     {
       "surface": "לא",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "smgħu"
+      "gloss": "semgħu"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "la"
     },
     {
       "surface": "האזינו",
-      "gloss": "tawx widen smigħ"
+      "gloss": "broadnedu l-widnejn"
     },
     {
       "surface": "עין",
@@ -63,29 +37,29 @@
     },
     {
       "surface": "ראתה",
-      "gloss": "ratx"
+      "gloss": "rat"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "ħa Elohim"
     },
     {
       "surface": "זולתך",
-      "gloss": "ħlief inti"
+      "gloss": "minnbarra fik"
     },
     {
       "surface": "יעשה",
-      "gloss": "li jaġġixxi"
+      "gloss": "jagħmel"
     },
     {
       "surface": "למחכה",
-      "gloss": "għal min jistennih"
+      "gloss": "għal min jistennieh"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "⟨lilu⟩"
     }
   ],
-  "timestamp": "2026-10-21T19:49:32.464584858Z",
+  "timestamp": "2026-10-22T00:26:30.845038454Z",
   "model": "glm-5.3"
 }

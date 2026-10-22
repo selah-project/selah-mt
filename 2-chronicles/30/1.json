@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ta'",
-      "rationale": "glossa miżjuda għall-kostrutt Lhudi אלהי ישראל"
-    },
-    {
-      "kind": "substitution",
-      "subject": "itti",
-      "rationale": "אגרות kelma Persana li tfisser 'ittri', miġjuba mill-eżilju"
-    }
-  ],
-  "translation": "U Ħizqijahu bagħat għal kollha Jisrael u Ġuda, u kiteb ukoll itti lil Efrajm u Manasse, biex jiġu għal dar Jaħwe f'Jeruxalajim, biex jagħmlu l-Pesach lil Jaħwe, Elohim ta' Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "82adde529565cb408ab5347a4164ad69f0939b7edb167d3900c6489abd01e9ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/30\/1-4.1792622897462.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Ħizqijahu bagħat ⟨għal⟩ kollha kemm hi ta' Jisrael u ta' Jehuda, u kiteb ukoll ittri lil Efraim u Manasse, biex jiġu d-dar ta' Jaħwe f'Jeruxalajim, biex jagħmlu l-Pesaħ lil Jaħwe, Elohim ta' Jisrael.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "bagħat"
+      "gloss": "u bagħat"
     },
     {
       "surface": "יחזקיהו",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "għal"
+      "gloss": "⟨għal⟩"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kollha kemm hi"
     },
     {
       "surface": "ישראל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויהודה",
-      "gloss": "u Ġuda"
+      "gloss": "u ta' Jehuda"
     },
     {
       "surface": "וגם",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אגרות",
-      "gloss": "itti"
+      "gloss": "ittri"
     },
     {
       "surface": "כתב",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrajm"
+      "gloss": "Efraim"
     },
     {
       "surface": "ומנשה",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "jiġu"
+      "gloss": "biex jiġu"
     },
     {
       "surface": "לבית",
-      "gloss": "għal dar"
+      "gloss": "d-dar"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "בירושלם",
@@ -98,7 +77,7 @@
     },
     {
       "surface": "פסח",
-      "gloss": "l-Pesach"
+      "gloss": "l-Pesaħ"
     },
     {
       "surface": "ליהוה",
@@ -113,6 +92,6 @@
       "gloss": "ta' Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T22:48:17.462665517Z",
+  "timestamp": "2026-10-22T00:02:10.944897455Z",
   "model": "glm-5.3"
 }

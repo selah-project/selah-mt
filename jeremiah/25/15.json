@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Jeremijaħ",
-      "rationale": "Jaħwe jindires direttament lill-profeta bil-verb 'Ħu'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "tazza l-inbid tal-għadab",
-      "rationale": "il-ħemda ta' Alla bħala xarba tas-sakra — tazza ġudizzjali, mhux tazza litterali"
-    },
-    {
-      "kind": "substitution",
-      "subject": "għadab",
-      "rationale": "חמה litteralment 'sħana' — is-sħana tal-rabja"
-    }
-  ],
-  "translation": "Għax hekk qal Jaħwe, Elohim ta' Jisrael, lili: Ħu ⟨את⟩ tazza l-inbid tal-għadab din minn idi, u agħtihom jixorbu lilha ⟨את⟩ il-ġnus kollha li jiena nibgħat ⟨את⟩ lilok lejnhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/25\/13-16.1792613083970.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex hekk jgħid Jaħwe, Elohim ta' Jisrael, lejja: Ħu ⟨את⟩ l-ixikka tal-inbed tal-għadab din minn idni, u tagħmel tilrob ⟨את⟩ lilhom, ⟨את⟩ il-ġnus kollha li jien nibghatlek lejhom.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "Għaliex"
     },
     {
       "surface": "כה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "qal"
+      "gloss": "jgħid"
     },
     {
       "surface": "יהוה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "lili"
+      "gloss": "lejja"
     },
     {
       "surface": "קח",
@@ -68,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tazza l-inbid tal-għadab"
+      "marks": "l-ixikka tal-inbed tal-għadab"
     },
     {
       "surface": "כוס",
-      "gloss": "tazza"
+      "gloss": "l-ixikka"
     },
     {
       "surface": "היין",
-      "gloss": "l-inbid"
+      "gloss": "tal-inbed"
     },
     {
       "surface": "החמה",
@@ -88,16 +62,16 @@
     },
     {
       "surface": "מידי",
-      "gloss": "minn idi"
+      "gloss": "minn idni"
     },
     {
       "surface": "והשקיתה",
-      "gloss": "u agħtihom jixorbu"
+      "gloss": "u tagħmel tilrob"
     },
     {
       "surface": "אתו",
-      "gloss": "lilha ⟨את⟩",
-      "marks": "it-tazza"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "il-ġnus kollha"
     },
     {
       "surface": "את",
@@ -118,22 +92,22 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "jiena"
+      "gloss": "jien"
     },
     {
       "surface": "שלח",
-      "gloss": "nibgħat"
+      "gloss": "nibghatlek"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ lilok",
-      "marks": "int (Jeremijaħ)"
+      "gloss": "⟨את⟩-ek",
+      "marks": "lek għand il-ġnus"
     },
     {
       "surface": "אליהם",
-      "gloss": "lejnhom"
+      "gloss": "lejhom"
     }
   ],
-  "timestamp": "2026-10-21T20:04:43.971919139Z",
+  "timestamp": "2026-10-22T00:28:50.276912662Z",
   "model": "glm-5.3"
 }

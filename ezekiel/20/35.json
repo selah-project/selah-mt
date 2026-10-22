@@ -5,49 +5,28 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "פנים אל פנים",
-      "rationale": "'wiċċ imbatt wiċċ' — konfront dirett, mhux biss ħarsa; idiom Semitiku komuni."
-    },
-    {
-      "kind": "alternative",
-      "subject": "נשפטתי אתכם",
-      "rationale": "את hawn tista' tkun H854 'ma' — 'inħareġ ġudizzju magħkom' — jew l-oġġett dirett; ħadt l-ewwel."
-    }
-  ],
-  "translation": "U nidħalkom għal deżert il-popli, u nagħmel ġudizzju ⟨את⟩ magħkom hemm, wiċċ imbatt wiċċ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e1e647a4e008bf21d9dcaff0656403b2a6b70eae36fe96cbbd69081d11b36008",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/33-36.1792614508662.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U niġġibu ⟨את⟩ lilkom fil-merħba tal-ġnus, u nagħmel ġudizzju ma' ⟨את⟩kom hemm, wiċċ ma' wiċċ.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "U nidħalkom"
+      "gloss": "u niġġibu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "fil-merħba tal-ġnus"
     },
     {
       "surface": "אל",
-      "gloss": "għal"
+      "gloss": "fil-"
     },
     {
       "surface": "מדבר",
-      "gloss": "deżert"
+      "gloss": "merħba"
     },
     {
       "surface": "העמים",
-      "gloss": "il-popli"
+      "gloss": "tal-ġnus"
     },
     {
       "surface": "ונשפטתי",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ magħkom"
+      "gloss": "ma' ⟨את⟩kom"
     },
     {
       "surface": "שם",
@@ -67,13 +46,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "imbatt"
+      "gloss": "ma'"
     },
     {
       "surface": "פנים",
       "gloss": "wiċċ"
     }
   ],
-  "timestamp": "2026-10-21T20:28:28.663325479Z",
+  "timestamp": "2026-10-22T00:16:32.338894203Z",
   "model": "glm-5.3"
 }

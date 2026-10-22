@@ -5,33 +5,12 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-ġellieda",
-      "rationale": "אנשי המלחמה litteralment 'irġiel il-ġlied' — suldati tal-gwerra"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "tliet את",
-      "rationale": "tliet marki את wieħed wara l-ieħor jżommu r-repetizzjoni ta' lista qatla qasira"
-    }
-  ],
-  "translation": "U lil ⟨את⟩ dawk il-Lhudin kollha li kienu miegħu, ma' Gdaljahu fil-Miċpa, u lil ⟨את⟩ il-Kaldejin li ntbew hemm, lil ⟨את⟩ il-ġellieda, laqat Jixmael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/41\/1-4.1792613554725.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ il-Lhud kollha li kienu miegħu ma' Gdaljaħ f'Mitspa, u ⟨את⟩ il-Kasdej li nstabu hemm, ⟨את⟩ irġiel il-ġlied, laħathom Jixmael.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "id-dawk il-Lhudin kollha"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-Lhud kollha"
     },
     {
       "surface": "כל",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "il-Lhudin"
+      "gloss": "il-Lhud"
     },
     {
       "surface": "אשר",
@@ -51,30 +30,29 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu",
-      "marks": "miegħu"
+      "gloss": "miegħu ⟨את⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ma' Gdaljahu"
+      "marks": "Gdaljaħ"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gdaljahu"
+      "gloss": "Gdaljaħ"
     },
     {
       "surface": "במצפה",
-      "gloss": "fil-Miċpa"
+      "gloss": "f'Mitspa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "il-Kaldejin"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-Kasdej"
     },
     {
       "surface": "הכשדים",
-      "gloss": "il-Kaldejin"
+      "gloss": "il-Kasdej"
     },
     {
       "surface": "אשר",
@@ -82,7 +60,7 @@
     },
     {
       "surface": "נמצאו",
-      "gloss": "ntbew"
+      "gloss": "nstabu"
     },
     {
       "surface": "שם",
@@ -91,7 +69,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġellieda"
+      "marks": "irġiel il-ġlied"
     },
     {
       "surface": "אנשי",
@@ -99,17 +77,17 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "tal-ġlied"
+      "gloss": "il-ġlied"
     },
     {
       "surface": "הכה",
-      "gloss": "laqat"
+      "gloss": "laħathom"
     },
     {
       "surface": "ישמעאל",
       "gloss": "Jixmael"
     }
   ],
-  "timestamp": "2026-10-21T20:12:34.727476837Z",
+  "timestamp": "2026-10-22T00:53:01.575387289Z",
   "model": "glm-5.3"
 }

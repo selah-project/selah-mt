@@ -5,35 +5,19 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ההוא",
-      "rationale": "id-dimostrattiv Lhudi jinbiegħed ġewwa l-espressjoni Maltija 'dak in-nar'"
-    }
-  ],
-  "translation": "U se tgerbgu f'dak in-nar minn quddiem is-sultan tagħkom li għażiltu għalikom, u Jaħwe ma jweġibx lilkom ⟨את⟩ f'dak in-nar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/8\/17-20.1792607730705.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U se tolqtu f'dak in-nhar minn quddiem il-sultan tagħkom li għżiltu għalikom, u Jaħwe ma jqabbilx ⟨għalikom⟩ f'dak in-nhar.",
   "tokens": [
     {
       "surface": "וזעקתם",
-      "gloss": "u se tgerbgu"
+      "gloss": "U se tolqtu"
     },
     {
       "surface": "ביום",
-      "gloss": "f'dak in-nar"
+      "gloss": "f'dak in-nhar"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "dak"
     },
     {
       "surface": "מלפני",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "מלככם",
-      "gloss": "is-sultan tagħkom"
+      "gloss": "il-sultan tagħkom"
     },
     {
       "surface": "אשר",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "בחרתם",
-      "gloss": "għażiltu"
+      "gloss": "għżiltu"
     },
     {
       "surface": "לכם",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "יענה",
-      "gloss": "jweġibx"
+      "gloss": "jqabbilx"
     },
     {
       "surface": "יהוה",
@@ -69,18 +53,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "lilkom ⟨את⟩",
-      "marks": "kom (intom)"
+      "gloss": "⟨את⟩",
+      "marks": "għalikom"
     },
     {
       "surface": "ביום",
-      "gloss": "f'dak in-nar"
+      "gloss": "f'dak in-nhar"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "dak"
     }
   ],
-  "timestamp": "2026-10-21T18:35:30.706179146Z",
+  "timestamp": "2026-10-22T00:00:43.948754796Z",
   "model": "glm-5.3"
 }

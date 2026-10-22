@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "hawn אותם hija pronom suffiss, mhux il-marka את, u twassal id-dibbrażjon 'kelma' lil dawk l-irġiel"
-    },
-    {
-      "kind": "measurement",
-      "subject": "il-kongregazzjoni kollha ta' wlied Jisrael",
-      "rationale": "il-pubbliku sħiħ ta' Jisrael jisimgħa r-rapport, mhux il-mexxejja biss"
-    }
-  ],
-  "translation": "U huma marru u ġew għand Moxe u għand Aharon u għand il-kongregazzjoni kollha ta' wlied Jisrael, fiċ-ċarċara ta' Paran, lejn Kades, u rrappurtawhom ⟨דבר: kelma⟩ u ⟨את⟩ il-kongregazzjoni kollha, u wrewhom ⟨את⟩ il-frott tal-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ea0989dbff8e8eb6076f23eda1e400d61deb1f9eb700d4f7123f4963c6773a35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/13\/25-28.1792602673078.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U marru u ġew għand Moxe u għand Aharon u għand il-kongregazzjoni kollha ta' wlied Jisrael, fil-mergħa ta' Paran, f'Kadesx, u rrappurtaw lilhom kelma ⟨את⟩ u ⟨את⟩ lill-eżerċt\/c\/5712il-kongregazzjoni kollha, u wrewhom ⟨את⟩ il-frott tal-art.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "marru"
+      "gloss": "u marru"
     },
     {
       "surface": "ויבאו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "il-kongregazzjoni kollha"
     },
     {
       "surface": "עדת",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "ta' wlied"
     },
     {
       "surface": "ישראל",
@@ -74,27 +53,28 @@
     },
     {
       "surface": "אל",
-      "gloss": "fi"
+      "gloss": "fil"
     },
     {
       "surface": "מדבר",
-      "gloss": "iċ-ċarċara"
+      "gloss": "mergħa"
     },
     {
       "surface": "פארן",
-      "gloss": "Paran"
+      "gloss": "ta' Paran"
     },
     {
       "surface": "קדשה",
-      "gloss": "Kades"
+      "gloss": "f'Kadesx"
     },
     {
       "surface": "וישיבו",
-      "gloss": "u rrappurtawhom"
+      "gloss": "u rrappurtaw"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
     },
     {
       "surface": "דבר",
@@ -120,7 +100,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-frott"
+      "marks": "il-frott tal-art"
     },
     {
       "surface": "פרי",
@@ -131,6 +111,6 @@
       "gloss": "tal-art"
     }
   ],
-  "timestamp": "2026-10-21T17:11:13.081009242Z",
+  "timestamp": "2026-10-22T00:44:20.084113050Z",
   "model": "glm-5.3"
 }

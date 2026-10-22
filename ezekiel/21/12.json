@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "il-irkopptijiet jmorru ilma",
-      "rationale": "תלכנה מים — l-irkopptijiet 'jimxu ilma': biża' tant kbira li jkun hemm telf ta' kontinenza; ħafna jittraduċu b'mod ipoforestiċi 'jitħalltu mal-ilma'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ונהיתה",
-      "rationale": "'u ssir' — wieħed jista' jqarreb 'u tikkonsma' minn היה f'sens ta' ġrajja, iżda l-qari sempliċi huwa 'u ssir' (tkun saret)."
-    }
-  ],
-  "translation": "U jiġri meta jgħidulek: Għaliex int tnewwaħ? u tgħid: Minħabba l-aħbar, għaliex qiegħda tiġi; u kull qalb tid-dub, u l-idijiet kollha jissiġġlu, u kull ruwaħ tistaġni, u l-irkopptijiet kollha jmorru ilma; ara, qiegħda tiġi, u ssir — kelma ta' Adonaj Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a10d42eeb63e6229eba5cbd5ce9b5ddf8664549a8e04c0dfc3bc1b9974d810a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/21\/9-12.1792614504569.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jsir meta jgħidulek: Għaliex inti tħass? U tħares: Minħabba l-aħbar, għaliex hi ġejja, u jdub kull qalb, u ddgħjfu kull idejn, u tdgħuf kull ruwaħ, u l-irkopptejn kollha jimxu ilma — ara, hi ġejja, u ssir, jgħid Adonaj Jaħwe.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "U jiġri"
+      "gloss": "U jsir"
     },
     {
       "surface": "כי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "jgħidulek"
+      "gloss": "jgħidu"
     },
     {
       "surface": "אליך",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "על",
-      "gloss": "Għal"
+      "gloss": "għal"
     },
     {
       "surface": "מה",
-      "gloss": "xi raġuni"
+      "gloss": "għaliex"
     },
     {
       "surface": "אתה",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "נאנח",
-      "gloss": "tnewwaħ"
+      "gloss": "tħass"
     },
     {
       "surface": "ואמרת",
-      "gloss": "u tgħid"
+      "gloss": "u tħares"
     },
     {
       "surface": "אל",
-      "gloss": "Minħabba"
+      "gloss": "lil"
     },
     {
       "surface": "שמועה",
@@ -78,14 +57,14 @@
     },
     {
       "surface": "באה",
-      "gloss": "qiegħda tiġi"
+      "gloss": "hi ġejja"
     },
     {
       "surface": "ונמס",
-      "gloss": "u tid-dub"
+      "gloss": "u jdub"
     },
     {
-      "surface": "кל",
+      "surface": "כל",
       "gloss": "kull"
     },
     {
@@ -94,19 +73,19 @@
     },
     {
       "surface": "ורפו",
-      "gloss": "u jissiġġlu"
+      "gloss": "u ddgħjfu"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "ידים",
-      "gloss": "l-idijiet"
+      "gloss": "idejn"
     },
     {
       "surface": "וכהתה",
-      "gloss": "u tistaġni"
+      "gloss": "u tdgħuf"
     },
     {
       "surface": "כל",
@@ -118,15 +97,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u l-"
+      "gloss": "u kull"
     },
     {
       "surface": "ברכים",
-      "gloss": "irkopptijiet"
+      "gloss": "irkopptejn"
     },
     {
       "surface": "תלכנה",
-      "gloss": "kollha jmorru"
+      "gloss": "jimxu"
     },
     {
       "surface": "מים",
@@ -138,7 +117,7 @@
     },
     {
       "surface": "באה",
-      "gloss": "qiegħda tiġi"
+      "gloss": "hi ġejja"
     },
     {
       "surface": "ונהיתה",
@@ -146,7 +125,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "kelma ta'"
+      "gloss": "jgħid"
     },
     {
       "surface": "אדני",
@@ -157,6 +136,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:28:24.571333509Z",
+  "timestamp": "2026-10-22T00:17:05.085230516Z",
   "model": "glm-5.3"
 }

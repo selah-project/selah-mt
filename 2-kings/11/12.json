@@ -5,38 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "in-neżer",
-      "rationale": "הנזר: kemm 'djadema' kemm 'dedikazzjoni' — in-neżer żżomm il-ħoss; id-djadema hija t-traduzzjoni komuni"
-    },
-    {
-      "kind": "crux",
-      "subject": "ix-xhieda",
-      "rationale": "העדות: il-kopja tat-Tora (Dewt 17:18) jew l-ġojelli tal-ingħata; l-Ingliż jgħid 'the testimony'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ħabtu l-idejn",
-      "rationale": "ויכו כף litteralment 'laqtu l-pala (tal-id)' — idjom ta' Applawż"
-    },
-    {
-      "kind": "you",
-      "subject": "Jaħja s-sultan",
-      "rationale": "sejħa ċerimonjali tal-poplu għas-sultan il-ġdid"
-    }
-  ],
-  "translation": "U ħareġ ⟨את⟩ iben ir-re, u poġġa fuqu ⟨את⟩ in-neżer u ⟨את⟩ ix-xhieda, u għamluh sultan u midlukuh; u ħabtu l-idejn u qalu: Jaħja s-sultan!",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ff8e7e442f8e4a0f09177127b412e769bcb7d3900ae6b43d8cb9ed4634246e89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/11\/9-12.1792610353310.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħareġ ⟨את⟩ lil bin is-sultan, u poġġie fuqu ⟨את⟩ in-neżer u ⟨את⟩ l-għarfa, u għamluh sultan u midlukh; u ħabbtu l-idejn u qalu: Jaħi s-sultan!",
   "tokens": [
     {
       "surface": "ויוצא",
@@ -45,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iben ir-re"
+      "marks": "bin is-sultan"
     },
     {
       "surface": "בן",
-      "gloss": "iben"
+      "gloss": "bin"
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "ויתן",
-      "gloss": "u poġġa"
+      "gloss": "u poġġie"
     },
     {
       "surface": "עליו",
@@ -75,11 +44,11 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "ix-xhieda"
+      "marks": "l-għarfa"
     },
     {
       "surface": "העדות",
-      "gloss": "ix-xhieda"
+      "gloss": "l-għarfa"
     },
     {
       "surface": "וימלכו",
@@ -87,15 +56,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hu"
+      "gloss": "⟨את⟩",
+      "marks": "h"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "u midlukuh"
+      "gloss": "u midlukh"
     },
     {
       "surface": "ויכו",
-      "gloss": "u ħabtu"
+      "gloss": "u ħabbtu"
     },
     {
       "surface": "כף",
@@ -107,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "Jaħja"
+      "gloss": "Jaħi"
     },
     {
       "surface": "המלך",
       "gloss": "is-sultan"
     }
   ],
-  "timestamp": "2026-10-21T19:19:13.312029573Z",
+  "timestamp": "2026-10-22T00:03:11.562541819Z",
   "model": "glm-5.3"
 }

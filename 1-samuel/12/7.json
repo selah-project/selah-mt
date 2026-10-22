@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צדקות",
-      "rationale": "KJV 'righteous acts', JPS 'righteousness\/deeds of righteousness' — atti ġusti ta' Jaħwe lejn Jisrael, mhux ġustizzja astratta"
-    },
-    {
-      "kind": "addition",
-      "subject": "dwar",
-      "rationale": "l-ebrajk jgħaqqad 'inġudikakom' mal-oġġett b'את diretta; il-Malti jeħtieġ prepożizzjoni"
-    },
-    {
-      "kind": "invitation",
-      "subject": "lill-poplu",
-      "rationale": "imperattiv התיצבו jsejjjaħ lill-udjenza tqum wieqfa għall-ġudizzju"
-    }
-  ],
-  "translation": "U issa agħtu rwieħkom bil-wieqfa, u inġib il-ġudizzju magħkom quddiem Jaħwe, ⟨ dwar ⟩ ⟨את⟩ il-ġustizzji kollha ta' Jaħwe li għamel magħkom u mal-missirijietkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/12\/5-8.1792607925162.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa wieqfu, u jien ngħaddi l-ġudizzju ma' ⟨את⟩kom quddiem Jaħwe, dwar ⟨את⟩ kull tsedeq ta' Jaħwe, li għamel ma' ⟨את⟩kom u ma' ⟨את⟩ missirijietkom.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "התיצבו",
-      "gloss": "agħtu rwieħkom bil-wieqfa"
+      "gloss": "wieqfu"
     },
     {
       "surface": "ואשפטה",
-      "gloss": "inġib il-ġudizzju"
+      "gloss": "u jien ngħaddi l-ġudizzju"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ magħkom"
+      "gloss": "ma' ⟨את⟩kom"
     },
     {
       "surface": "לפני",
@@ -60,19 +34,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġustizzji kollha"
+      "marks": "kull tsedeq ta' Jaħwe"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "צדקות",
-      "gloss": "il-ġustizzji"
+      "gloss": "tsedeq"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "אשר",
@@ -84,17 +58,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ magħkom"
+      "gloss": "ma' ⟨את⟩kom"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩"
+      "gloss": "u ma' ⟨את⟩"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "mal-missirijietkom"
+      "gloss": "missirijietkom"
     }
   ],
-  "timestamp": "2026-10-21T18:38:45.164160506Z",
+  "timestamp": "2026-10-21T23:58:58.775036842Z",
   "model": "glm-5.3"
 }

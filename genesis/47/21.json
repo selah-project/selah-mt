@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-poplu",
-      "rationale": "העם huwa singular kollettiv; il-Malti jeħtieġ il-plural ta' kelma singular"
-    },
-    {
-      "kind": "crux",
-      "subject": "לערים",
-      "rationale": "Samaritanu u LXX: 'lis-servitù'; MT: 'lejn il-bliet' — ħriżna l-MT"
-    },
-    {
-      "kind": "measurement",
-      "subject": "mil-estrem sal-estrem",
-      "rationale": "il-vers jiddeskrivi l-estensjoni totali ta' Mitsrajim"
-    }
-  ],
-  "translation": "U ⟨את⟩ il-poplu ġarrbu lejn il-bliet, mill-estrem tal-fruntiera ta' Mitsrajim sa l-estrem tagħha.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/47\/21-24.1792599100876.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ il-poplu ttrasferih ⟨את⟩ lejn il-bliet, minn tarf ta' fruntiera ta' Mitsrajim sa t-truf tiegħu.",
   "tokens": [
     {
       "surface": "ואת",
@@ -44,11 +18,11 @@
     },
     {
       "surface": "העביר",
-      "gloss": "ġarrbu"
+      "gloss": "ttrasferih"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
+      "gloss": "⟨את⟩",
       "marks": "lejn il-bliet"
     },
     {
@@ -57,15 +31,15 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "mill-estrem"
+      "gloss": "minn tarf"
     },
     {
       "surface": "גבול",
-      "gloss": "fruntiera"
+      "gloss": "ta' fruntiera"
     },
     {
       "surface": "מצרים",
-      "gloss": "ta' Mitsrajim"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "ועד",
@@ -73,9 +47,9 @@
     },
     {
       "surface": "קצהו",
-      "gloss": "l-estrem tagħha"
+      "gloss": "t-truf tiegħu"
     }
   ],
-  "timestamp": "2026-10-21T16:11:40.877754251Z",
+  "timestamp": "2026-10-22T00:23:30.118005104Z",
   "model": "glm-5.3"
 }

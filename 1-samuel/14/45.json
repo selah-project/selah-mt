@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħelsien",
-      "rationale": "הישועה hija salvazzjoni\/deliverance; tradott b'ħelsien biex jifhem il-Malti"
-    },
-    {
-      "kind": "crux",
-      "subject": "חלילה",
-      "rationale": "litteralment ħaġa mħassra; jintuża bħala interjuzzjoni: 'ħalila \/ m'għandux ikun!'"
-    },
-    {
-      "kind": "crux",
-      "subject": "משערת ראשו",
-      "rationale": "litteralment 'mix-xagħar ta' rasu'; idjoma li tfisser 'xejn ma ġarrab"
-    }
-  ],
-  "translation": "U l-poplu qal lil Xaul: Jaħwe, se jintilef minn saħħtu — jew saħansitra jmut Jonatan, li għamel din il-ħelsien il-kbir f'Jisrael? Ħalila! Qisru ħajja ħa Ħaj Jaħwe: mħallflux jaqa' minn fuq tuffieħ ta' rasu sa l-art — għax ma' Elohim għamel dan l-illum. U ħelsu l-poplu lil Jonatan, u ma mietx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca69a4d5f5fcbe18d345bcc6c26bf0aa10cc6a94d482d0ba5dc7c4e76beed602",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/14\/45-48.1792607865156.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-poplu qal lil Xaul: Jaħilineux, Jonatan għandu jmut, hu li għamel din il-hielsa l-kbira f'Jisrael? Ħalila! Jaħwe ħaj, jaqgħax saħansitra xagħar waħad minn rasu l-art, għax ma' Elohim għamel ⟨hu⟩illum. U l-poplu feda ⟨את⟩ lil Jonatan, u lanqas biss miet.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U l-poplu qal"
     },
     {
       "surface": "העם",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "ימות",
-      "gloss": "jmut"
+      "gloss": "għandu jmut"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "hu li"
     },
     {
       "surface": "עשה",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "הישועה",
-      "gloss": "iż-żwieg"
+      "gloss": "il-hielsa"
     },
     {
       "surface": "הגדולה",
-      "gloss": "il-kbir"
+      "gloss": "l-kbira"
     },
     {
       "surface": "הזאת",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "בישראל",
@@ -95,23 +69,23 @@
     },
     {
       "surface": "אם",
-      "gloss": "jekk"
+      "gloss": "jaqgħax"
     },
     {
       "surface": "יפל",
-      "gloss": "jaqa'"
+      "gloss": "jaqgħax"
     },
     {
       "surface": "משערת",
-      "gloss": "minn fuq tuffieħ"
+      "gloss": "xagħar"
     },
     {
       "surface": "ראשו",
-      "gloss": "ta' rasu"
+      "gloss": "minn rasu"
     },
     {
       "surface": "ארצה",
-      "gloss": "sa l-art"
+      "gloss": "l-art"
     },
     {
       "surface": "כי",
@@ -131,15 +105,15 @@
     },
     {
       "surface": "היום",
-      "gloss": "dan il-"
+      "gloss": "illum"
     },
     {
       "surface": "הזה",
-      "gloss": "jum"
+      "gloss": " illum"
     },
     {
       "surface": "ויפדו",
-      "gloss": "u ħelsu"
+      "gloss": "U l-poplu feda"
     },
     {
       "surface": "העם",
@@ -148,7 +122,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jonatan"
+      "marks": "lil Jonatan"
     },
     {
       "surface": "יונתן",
@@ -156,13 +130,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u lanqas biss"
     },
     {
       "surface": "מת",
-      "gloss": "mietx"
+      "gloss": "miet"
     }
   ],
-  "timestamp": "2026-10-21T18:37:45.157547955Z",
+  "timestamp": "2026-10-21T23:59:39.790446015Z",
   "model": "glm-5.3"
 }

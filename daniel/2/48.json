@@ -5,23 +5,7 @@
   "book": "daniel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "kap tal-gvernaturi",
-      "rationale": "רב סגנין jista' jqis ukoll 'il-kbir fost il-gvernaturi' mhux biss 'kap tagħhom'"
-    }
-  ],
-  "translation": "Imbagħad is-sultan kabbar lil Daniel, u tih rigali kbar u ħafna; u tiah jaħkem fuq il-provinċja kollha ta' Babilonja, u kap tal-gvernaturi fuq il-ħukkiem kollha ta' Babilonja.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ecb2041fab8f1d6fac48ffdf8c21b52ae0310b9126be8a1c7732a9608bc65c9a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/2\/45-48.1792620647132.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imbagħad is-sultan kabbar lil Daniel, u ta' rigali kbar u ħafna, u qiegħdu jaħkem fuq il-provinċja kollha ta' Babilonja, u kap tal-prefetti fuq il-għorrief kollha ta' Babilonja.",
   "tokens": [
     {
       "surface": "אדין",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ומתנן",
-      "gloss": "rigali"
+      "gloss": "u rigali"
     },
     {
       "surface": "רברבן",
@@ -53,15 +37,15 @@
     },
     {
       "surface": "יהב",
-      "gloss": "tih"
+      "gloss": "ta'"
     },
     {
       "surface": "לה",
-      "gloss": ""
+      "gloss": "lilu"
     },
     {
       "surface": "והשלטה",
-      "gloss": "u tiah jaħkem"
+      "gloss": "u qiegħdu jaħkem"
     },
     {
       "surface": "על",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "il-… kollha"
+      "gloss": "kollha"
     },
     {
       "surface": "מדינת",
@@ -77,7 +61,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "ta' Babilonja"
+      "gloss": "Babilonja"
     },
     {
       "surface": "ורב",
@@ -85,7 +69,7 @@
     },
     {
       "surface": "סגנין",
-      "gloss": "tal-gvernaturi"
+      "gloss": "tal-prefetti"
     },
     {
       "surface": "על",
@@ -97,13 +81,13 @@
     },
     {
       "surface": "חכימי",
-      "gloss": "il-ħukkiem"
+      "gloss": "għorrief"
     },
     {
       "surface": "בבל",
-      "gloss": "ta' Babilonja"
+      "gloss": "Babilonja"
     }
   ],
-  "timestamp": "2026-10-21T22:10:47.133495142Z",
+  "timestamp": "2026-10-22T00:08:27.643886418Z",
   "model": "glm-5.3"
 }

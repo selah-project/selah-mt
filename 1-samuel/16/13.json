@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "għaddiet b'saħħa",
-      "rationale": "ותצלח jista' tfisser ukoll 'nfirħet\/ġġib il-ħila' — id-direzzjoni tal-ruwaħ tħares 'il David"
-    },
-    {
-      "kind": "substitution",
-      "subject": "misaħ",
-      "rationale": "וימשח literally 'għammru bil-żejt'; il-verb Malti jikkwota l-ġerq ta' Maxiaħ"
-    }
-  ],
-  "translation": "U Samwel ħa ⟨את⟩ il-qrun taż-żejt, u misaħ lilu f'nofs ħutu, u ruwaħ Jaħwe għaddiet b'saħħa fuq David minn dak il-jum u 'l fuq; u Samwel qam u mar Rama.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d09a6ba2d51d6c2f2dca20b4de87dbb9e2bce136a5480532478c4df89a4add23",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/16\/13-16.1792608086646.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Samwel ħa ⟨את⟩ il-qrun taż-żejt, u xmewħ ⟨את⟩ lil David f'nofs aħtu; u ruwaħ Jaħwe faqgħet 'l fuq 'il David minn dak in-nhar 'il quddiem; u Samwel qum u mar Rama.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "U ħa"
+      "gloss": "ħa"
     },
     {
       "surface": "שמואל",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-qrun taż-żejt"
+      "marks": "il-qrun"
     },
     {
       "surface": "קרן",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "u misaħ"
+      "gloss": "xmewħ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "lilu (David)"
+      "gloss": "⟨את⟩ lil David",
+      "marks": "lil David"
     },
     {
       "surface": "בקרב",
@@ -64,11 +43,11 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "ħutu"
+      "gloss": "aħtu"
     },
     {
       "surface": "ותצלח",
-      "gloss": "għaddiet b'saħħa"
+      "gloss": "faqgħet 'l fuq"
     },
     {
       "surface": "רוח",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "fuq"
+      "gloss": "'il"
     },
     {
       "surface": "דוד",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "מהיום",
-      "gloss": "minn dak il-jum"
+      "gloss": "minn dak in-nhar"
     },
     {
       "surface": "ההוא",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "u 'l fuq"
+      "gloss": "'il quddiem"
     },
     {
       "surface": "ויקם",
-      "gloss": "u qam"
+      "gloss": "qum"
     },
     {
       "surface": "שמואל",
@@ -108,13 +87,13 @@
     },
     {
       "surface": "וילך",
-      "gloss": "u mar"
+      "gloss": "mar"
     },
     {
       "surface": "הרמתה",
       "gloss": "Rama"
     }
   ],
-  "timestamp": "2026-10-21T18:41:26.647390095Z",
+  "timestamp": "2026-10-21T23:59:03.843090477Z",
   "model": "glm-5.3"
 }

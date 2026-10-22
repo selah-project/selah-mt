@@ -5,38 +5,7 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sehem",
-      "rationale": "גורל huwa litteralment 'ċagħqa' (l-ġebel użati għall-qassam), mhux sempliċement 'sehem'"
-    },
-    {
-      "kind": "addition",
-      "subject": "biss",
-      "rationale": "l-KJV\/jps iżidu 'only'; il-Lhudi jgħid biss 'sehem wieħed', u l-⟨biss⟩ tinsab fil-kontest ta' 17:16"
-    },
-    {
-      "kind": "you",
-      "subject": "ill-ġens ta' Jusef",
-      "rationale": "appell diretta ta' Jehoxwa lil Efraim u Menasse"
-    },
-    {
-      "kind": "alternative",
-      "subject": "לך גורל אחד",
-      "rationale": "jista' jinqra bħala misturija: 'ma jkollokx sehem wieħed' — jiġifieri jkollok iktar minn wieħed, kif joħroġ fil-vers 18"
-    }
-  ],
-  "translation": "U Jehoxwa qal lil dar Jusef, lil Efraim u lil Menasse, billi: Ġens kbir inti, u saħħa kbira għandek; mhuwiex se jkollok sehem wieħed biss.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f4d9312c103e6fac3cbec9b16fdb5b98e4db2bbbb2d4045b1b040543780c8568",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/17\/17-18.1792606653365.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joxwa qal lil dar Ġosef, lil Efraim u lil Manasse, jgħid: Inti poplu kbir, u għandek ħila kbira; mhux se jkollok sorti waħda biss ⟨biss⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoxwa"
+      "gloss": "Joxwa"
     },
     {
       "surface": "אל",
@@ -56,23 +25,23 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Jusef"
+      "gloss": "Ġosef"
     },
     {
       "surface": "לאפרים",
       "gloss": "lil Efraim"
     },
     {
-      "surface": "וולמנשה",
-      "gloss": "u lil Menasse"
+      "surface": "ולמנשה",
+      "gloss": "u lil Manasse"
     },
     {
       "surface": "לאמר",
-      "gloss": "billi"
+      "gloss": "jgħid"
     },
     {
       "surface": "עם",
-      "gloss": "ġens"
+      "gloss": "poplu"
     },
     {
       "surface": "רב",
@@ -80,11 +49,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "inti"
+      "gloss": "Inti"
     },
     {
       "surface": "וכח",
-      "gloss": "u saħħa"
+      "gloss": "u ħila"
     },
     {
       "surface": "גדול",
@@ -100,21 +69,21 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "jkollok"
+      "gloss": "se jkollok"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "ikollok"
     },
     {
       "surface": "גורל",
-      "gloss": "sehem"
+      "gloss": "sorti"
     },
     {
       "surface": "אחד",
-      "gloss": "wieħed biss"
+      "gloss": "waħda biss"
     }
   ],
-  "timestamp": "2026-10-21T18:17:33.366394950Z",
+  "timestamp": "2026-10-22T00:34:12.540197770Z",
   "model": "glm-5.3"
 }

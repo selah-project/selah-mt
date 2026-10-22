@@ -5,33 +5,7 @@
   "book": "malachi",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גער את הזרע",
-      "rationale": "'inċaħħad iż-żerriegħa' (JPS) kontra 'inħassar\/inkorrompi n-nisel tagħkom' (KJV, Geneva) — גער normalment 'ċaħħad', mhux 'ikorrompi'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ונשא אתכם אליו",
-      "rationale": "'u jqanqalkom għaliha\/jittneħħew magħha' — verb maskedil: 'jieħukom miegħu' (KJV 'one shall take you away') jew 'intom titneħħew' (ASV 'ye shall be taken away')."
-    },
-    {
-      "kind": "addition",
-      "subject": "hi",
-      "rationale": "Suffiss femminil li jirreferi għall-ħmieġ; il-Malti jeħtieġ suġġett fil-verb, mħabbar b'⟨hi⟩."
-    }
-  ],
-  "translation": "Ara jien inċaħħad għalikom ⟨את⟩ iż-żerriegħa, u nfarfar ħmieġ fuq wċċkom — ħmieġ ta' l-ifesti tagħkom — u ⟨hi⟩ tqiegħedkom magħha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/2\/1-4.1792616500130.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ara jien ngħajjar għalikom ⟨את⟩ iż-żerzija, u nferrex ħmieġ fuq wċcuhkom — ħmieġ il-festi tagħkom — u hu ⟨se⟩ jieħudkom miegħu.",
   "tokens": [
     {
       "surface": "הנני",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "גער",
-      "gloss": "inċaħħad"
+      "gloss": "ngħajjar"
     },
     {
       "surface": "לכם",
@@ -48,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iż-żerriegħa"
+      "marks": "iż-żerzija"
     },
     {
       "surface": "הזרע",
-      "gloss": "iż-żerriegħa"
+      "gloss": "iż-żerzija"
     },
     {
       "surface": "וזריתי",
-      "gloss": "u nfarfar"
+      "gloss": "u nferrex"
     },
     {
       "surface": "פרש",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "פניכם",
-      "gloss": "wċċkom"
+      "gloss": "wċcuhkom"
     },
     {
       "surface": "פרש",
@@ -76,21 +50,22 @@
     },
     {
       "surface": "חגיכם",
-      "gloss": "ta' l-ifesti tagħkom"
+      "gloss": "il-festi tagħkom"
     },
     {
       "surface": "ונשא",
-      "gloss": "u tqiegħedkom"
+      "gloss": "u jieħudkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩",
+      "marks": "miegħu (il-ħmieġ)"
     },
     {
       "surface": "אליו",
-      "gloss": "magħha"
+      "gloss": "miegħu"
     }
   ],
-  "timestamp": "2026-10-21T21:01:40.131383697Z",
+  "timestamp": "2026-10-22T00:42:51.456300504Z",
   "model": "glm-5.3"
 }

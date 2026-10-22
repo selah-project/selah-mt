@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil wlied Jisrael",
-      "rationale": "Moxe jgħallem lill-poplu direttament; att ta' tagħlim pubbliku"
-    }
-  ],
-  "translation": "U Moxe kiteb ⟨את⟩ din l-għanja f'dak in-nhar, u għallimha lil wlied Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9ccf73410e7ac0be03ffdcddd3a23d204c710ad49ab1eb3b6f803237e041935c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/31\/21-24.1792606051553.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe kiteb din ⟨את⟩ il-kantika f'dak in-nhar, u għallimha lil ⟨את⟩ wlied Jisrael.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "kiteb"
+      "gloss": "u kiteb"
     },
     {
       "surface": "משה",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "din l-għanja"
+      "marks": "din il-kantika"
     },
     {
       "surface": "השירה",
-      "gloss": "l-għanja"
+      "gloss": "il-kantika"
     },
     {
       "surface": "הזאת",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "f'nhar"
+      "gloss": "f'dak in-nhar"
     },
     {
       "surface": "ההוא",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "וילמדה",
-      "gloss": "għallimha"
+      "gloss": "u għallimha"
     },
     {
       "surface": "את",
@@ -70,6 +54,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T18:07:31.554846851Z",
+  "timestamp": "2026-10-22T00:11:08.136232932Z",
   "model": "glm-5.3"
 }

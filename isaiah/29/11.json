@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "il-",
-      "rationale": "artiklu Malti miżjud għal חזות, mhux immarkat bħal l-artiklu Lhudi"
-    },
-    {
-      "kind": "mystery",
-      "subject": "il-ktieb imsieħba",
-      "rationale": "il-viżjoni magħluqa bħal sigill — test moħbi li lanqas min jaf jaħrah"
-    },
-    {
-      "kind": "you",
-      "subject": "lilkom",
-      "rationale": "Ġerużalemme indirizzata direttament (l- suffiss ta' persuna waħda plural)"
-    }
-  ],
-  "translation": "U saret lilkom il-viżjoni ta' ⟨il⟩-kollox bħal kliem il-ktieb imsieħba, li jagħtuh lil min jaf il-ktieb, billi jgħidu: Aqra dan, jekk jogħġbok; u jgħid: Ma nista', għaliex imsiel huwa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "adb74fd6bbcf56713b5bf2eb621eab82088922939ca3cdde870c91d9f7b80690",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/29\/11-12.1792623511141.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U saret għalkom il-viżjoni ta' kollox bħal kliem il-ktieb imsieħba, li jgħadduh ⟨את⟩ lil min jaf il-ktieb, billi jgħidu: Aqraw dan, jekk jogħġbok; u jgħid: Ma nista', għaliex imsieħeb huwa.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "U saret"
+      "gloss": "u saret"
     },
     {
       "surface": "לכם",
-      "gloss": "lilkom"
+      "gloss": "għalkom"
     },
     {
       "surface": "חזות",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "jagħtuh"
+      "gloss": "jgħadduh"
     },
     {
       "surface": "אתו",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "Aqra"
+      "gloss": "Aqraw"
     },
     {
       "surface": "נא",
@@ -120,13 +94,13 @@
     },
     {
       "surface": "חתום",
-      "gloss": "imsiel"
+      "gloss": "imsieħeb"
     },
     {
       "surface": "הוא",
       "gloss": "huwa"
     }
   ],
-  "timestamp": "2026-10-21T22:58:31.142139823Z",
+  "timestamp": "2026-10-22T00:26:01.835372346Z",
   "model": "glm-5.3"
 }

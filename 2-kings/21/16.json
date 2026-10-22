@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "פה לפה",
-      "rationale": "litteralment 'ħalq għal ħalq' — mit-tarf sat-tarf; xi traduzzjonijiet jippreferu 'minn naħa għal naħa'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חטא\/החטיא",
-      "rationale": "il-għerq ta' dnub jirrepeti: dnubietu li bih 'ġegħel jiddennu' lil Jehuda."
-    }
-  ],
-  "translation": "U wkoll demm innoċenti xeħet Menaxxe ħafna bil-kbir, sa ma mtela ⟨את⟩ Jeruxalajim ħalq għal ħalq, apparti mid-dnubiet tiegħu li bih ġegħel lil ⟨את⟩ Jehuda jiddennu, biex jagħmlu l-ħażin f'għajnejn Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/21\/13-16.1792610772863.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wkoll demm innoċenti xerred Menaxxe ħafna ħafna, sa ma mlieħ ⟨את⟩ Jeruxalajim ħalq għal ħalq, apparti mid-dnub tiegħu li bih ħalla lil ⟨את⟩ Jhuda jidnobb, biex jagħmel il-ħażin f'għajnejn Jaħwe.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "U wkoll"
+      "gloss": "u wkoll"
     },
     {
       "surface": "דם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "xeħet"
+      "gloss": "xerred"
     },
     {
       "surface": "מנשה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "bil-kbir"
+      "gloss": "ħafna"
     },
     {
       "surface": "עד",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "מלא",
-      "gloss": "mtela"
+      "gloss": "mlieħ"
     },
     {
       "surface": "את",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "מחטאתו",
-      "gloss": "mid-dnubiet tiegħu"
+      "gloss": "mid-dnub tiegħu"
     },
     {
       "surface": "אשר",
@@ -99,24 +78,24 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "ġegħel jiddennu"
+      "gloss": "ħalla jidnobb"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehuda"
+      "marks": "Jhuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "Jhuda"
     },
     {
       "surface": "לעשות",
-      "gloss": "biex jagħmlu"
+      "gloss": "biex jagħmel"
     },
     {
       "surface": "הרע",
-      "gloss": "l-ħażin"
+      "gloss": "il-ħażin"
     },
     {
       "surface": "בעיני",
@@ -127,6 +106,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T19:26:12.865831102Z",
+  "timestamp": "2026-10-22T00:04:40.088685892Z",
   "model": "glm-5.3"
 }

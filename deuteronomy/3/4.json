@@ -5,45 +5,24 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sittin belt",
-      "rationale": "għadd eżatt tal-bliet maħtuma — kollu l-ħabel ta' Argob"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חבל",
-      "rationale": "lit. 'ħabel \/ ħajt tal-kejl', imbagħad 'distrett'; il-Malti żamm 'ħabel', il-ġemgha tal-ħoss tal-Lhudi"
-    }
-  ],
-  "translation": "U ħduna ⟨את⟩ kollu blietu f'dak iż-żmien; ma kienet hemm belt li ma ħduna minn tagħhom: sittin belt, kollu ħabel Argob, ir-renju ta' Og fil-Baxan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/3\/1-4.1792605331633.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħdaftna ⟨את⟩ il-bliet kollha tiegħu f'dak iż-żmien; ma kienet hemm ebda belt li ma ħadna minn ħdejhom — sittin belt, ir-reġjun kollu ta' Argob, is-saltna ta' Og fil-Baxan.",
   "tokens": [
     {
       "surface": "ונלכד",
-      "gloss": "U ħduna"
+      "gloss": "u ħdaftna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kollu blietu"
+      "marks": "il-bliet kollha"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "עריו",
-      "gloss": "blietu"
+      "gloss": "il-bliet tiegħu"
     },
     {
       "surface": "בעת",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "(dak)"
+      "gloss": "dak"
     },
     {
       "surface": "לא",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "קריה",
-      "gloss": "belt"
+      "gloss": "ebda belt"
     },
     {
       "surface": "אשר",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "ħduna"
+      "gloss": "ħadna"
     },
     {
       "surface": "מאתם",
-      "gloss": "minn ⟨את⟩ tagħhom"
+      "gloss": "minn ħdejhom ⟨את⟩"
     },
     {
       "surface": "ששים",
@@ -95,15 +74,15 @@
     },
     {
       "surface": "חבל",
-      "gloss": "ħabel"
+      "gloss": "ir-reġjun"
     },
     {
       "surface": "ארגב",
-      "gloss": "Argob"
+      "gloss": "ta' Argob"
     },
     {
       "surface": "ממלכת",
-      "gloss": "ir-renju"
+      "gloss": "is-saltna"
     },
     {
       "surface": "עוג",
@@ -114,6 +93,6 @@
       "gloss": "fil-Baxan"
     }
   ],
-  "timestamp": "2026-10-21T17:55:31.635135701Z",
+  "timestamp": "2026-10-22T00:10:22.405787911Z",
   "model": "glm-5.3"
 }

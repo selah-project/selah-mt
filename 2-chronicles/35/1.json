@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "fl-erbatax tax-xahar l-ewwel",
-      "rationale": "data preċiża ta' ġurnata u xahar għall-ħatra tal-Pesaħ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħatru",
-      "rationale": "לשחט tfisser biax, użata hawn għall-ħatra ritwali tal-Pesaħ"
-    }
-  ],
-  "translation": "U Joxijaħu għamel f'Jeruxalajim Pesaħ lil Jaħwe, u ħatru l-Pesaħ fl-erbatax tax-xahar l-ewwel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/35\/1-4.1792623002782.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joŝjahu għamel f'Jeruxalajem Pesach lil Jaħwe, u xxettlu l-Pesach fl-erbatax ⟨jittem> tal-ewwel xahar.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "U għamel"
+      "gloss": "għamel"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Joxijaħu"
+      "gloss": "Joŝjahu"
     },
     {
       "surface": "בירושלם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "פסח",
-      "gloss": "Pesaħ"
+      "gloss": "Pesach"
     },
     {
       "surface": "ליהוה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "וישחטו",
-      "gloss": "u ħatru"
+      "gloss": "u xxettlu"
     },
     {
       "surface": "הפסח",
-      "gloss": "il-Pesaħ"
+      "gloss": "l-Pesach"
     },
     {
       "surface": "בארבעה",
@@ -62,17 +41,17 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "−tax"
     },
     {
       "surface": "לחדש",
-      "gloss": "tax-xahar"
+      "gloss": "tal-ewwel xahar"
     },
     {
       "surface": "הראשון",
       "gloss": "l-ewwel"
     }
   ],
-  "timestamp": "2026-10-21T22:50:02.782759771Z",
+  "timestamp": "2026-10-22T00:02:09.488480446Z",
   "model": "glm-5.3"
 }

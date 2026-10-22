@@ -5,36 +5,20 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "l-aleph-tav bil-waw konsonantali (vav) jipponta fuq l-istess oġġett tal-ħtija, miżmum bħala ⟨את⟩ biss"
-    }
-  ],
-  "translation": "U jpoġġi ⟨את⟩ idejh fuq ras l-offerta tal-ħtija, u jbiethilha bħala offerta tal-ħtija fil-post fejn jibiet l-olokawst.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e5894b14c7d6382cc5275267c68ff62cb35f49e17ce429b889e941e7cc89a2fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/33-35.1792600491945.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jpoġġi idu fuq ras il-ħatif għall-ħatat, u jbiethilha bħala ħatif għall-ħatat fil-post fejn jintbieth l-olá.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "jpoġġi"
+      "gloss": "u jpoġġi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "idejh"
+      "marks": "idu"
     },
     {
       "surface": "ידו",
-      "gloss": "idejh"
+      "gloss": "idu"
     },
     {
       "surface": "על",
@@ -46,20 +30,20 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "l-offerta tal-ħtija"
+      "gloss": "il-ħatif għall-ħatat"
     },
     {
       "surface": "ושחט",
-      "gloss": "ujbiethilha"
+      "gloss": "u jbiethi"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ilha"
+      "marks": "hi — il-ħatif għall-ħatat"
     },
     {
       "surface": "לחטאת",
-      "gloss": "bħala offerta tal-ħtija"
+      "gloss": "għall-ħatat"
     },
     {
       "surface": "במקום",
@@ -71,18 +55,18 @@
     },
     {
       "surface": "ישחט",
-      "gloss": "jibiet"
+      "gloss": "jintbieth"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-olokawst"
+      "marks": "l-olá"
     },
     {
       "surface": "העלה",
-      "gloss": "l-olokawst"
+      "gloss": "l-olá"
     }
   ],
-  "timestamp": "2026-10-21T16:34:51.946348176Z",
+  "timestamp": "2026-10-22T00:42:07.526775947Z",
   "model": "glm-5.3"
 }

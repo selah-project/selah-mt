@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħamiċ",
-      "rationale": "חמץ: dak li jagħfsa\/jagħmel ħamiċ — maħdum bħala nom, mhux sempliċement 'ħobż jaħmaċ'"
-    },
-    {
-      "kind": "addition",
-      "subject": "-kom",
-      "rationale": "אתכם huwa l-את ta' oġġett fil-plural ma' suffiss; il-Malti jirriflettuh biss fis-suffiss tal-verb"
-    }
-  ],
-  "translation": "U Moxe qal lill-poplu: Ftakru ⟨את⟩ f'dan il-jum li ħriegħtu minn Mitsrajim, minn dar ta' qaddejja, għax b'idejn qawwija ħarregħkom Jaħwe minn hawn; u ma jittiekilx ħamiċ.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/13\/1-4.1792599547613.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe qal lill-poplu: Ftakru f'dan il-jum li ħarġtu minn Mitsrajim, mill-idra tal-ilsiera, għax b'idejn qawwija ħarrek Jaħwe minn hawn, u ma jittiekel xejn imħamed.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "משה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "lil"
+      "gloss": "lill-"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "poplu"
     },
     {
       "surface": "זכור",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "יצאתם",
-      "gloss": "ħriegħtu"
+      "gloss": "ħarġtu"
     },
     {
       "surface": "ממצרים",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "מבית",
-      "gloss": "minn dar"
+      "gloss": "mill-idra"
     },
     {
       "surface": "עבדים",
-      "gloss": "ta' qaddejja"
+      "gloss": "tal-ilsiera"
     },
     {
       "surface": "כי",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "בחזק",
-      "gloss": "b'qawwa"
+      "gloss": "b'qawwi"
     },
     {
       "surface": "יד",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "ħarreg"
+      "gloss": "ħarrek"
     },
     {
       "surface": "יהוה",
@@ -103,7 +82,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ -kom"
+      "gloss": "⟨את⟩",
+      "marks": "intkom"
     },
     {
       "surface": "מזה",
@@ -115,13 +95,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "jittiekil"
+      "gloss": "jittiekel"
     },
     {
       "surface": "חמץ",
-      "gloss": "ħamiċ"
+      "gloss": "imħamed"
     }
   ],
-  "timestamp": "2026-10-21T16:19:07.614065172Z",
+  "timestamp": "2026-10-22T00:12:29.660283599Z",
   "model": "glm-5.3"
 }

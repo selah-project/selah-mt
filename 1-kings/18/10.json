@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "Partiċella ta' l-ħalf li m'għandha ekwivalenti Malti; il-ġurament infetaħ b'\"Jaħwe, Elohim tiegħek, jgħix\"."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אדני",
-      "rationale": "Dwar bniedem (ir-re Aħav), għalhekk \"sidi\" mhux \"Adonaj\"."
-    }
-  ],
-  "translation": "Jaħwe, Elohim tiegħek, jgħix: m'hemmx ġens u lanqas saltna li sidi ma bagħat hemm biex jifttek; u qalu: Mhux hemm; u ħalles lil is-saltna u ⟨את⟩ lil il-ġens bil-ġurament li ma jsibukx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/18\/9-12.1792609850150.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ħaj Jaħwe, Elohim tiegħek, jekk hemm xi għans jew saltna li ma bgħatx sidi hemm biex ifitttek, u qalu: Mhux hawn; u ġegħel il-għans u ⟨את⟩ is-saltna u ⟨את⟩ il-għans jaħilfu li ma jsibukx.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "jgħix"
+      "gloss": "Ħaj"
     },
     {
       "surface": "יהוה",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "jekk"
     },
     {
       "surface": "יש",
-      "gloss": "m'hemmx"
+      "gloss": "hemm"
     },
     {
       "surface": "גוי",
-      "gloss": "ġens"
+      "gloss": "xi għans"
     },
     {
       "surface": "וממלכה",
-      "gloss": "u lanqas saltna"
+      "gloss": "jew saltna"
     },
     {
       "surface": "אשר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "bagħat"
+      "gloss": "bgħatx"
     },
     {
       "surface": "אדני",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "לבקשך",
-      "gloss": "biex jifttek"
+      "gloss": "biex ifitttek"
     },
     {
       "surface": "ואמרו",
@@ -86,16 +65,16 @@
     },
     {
       "surface": "אין",
-      "gloss": "Mhux hemm"
+      "gloss": "Mhux hawn"
     },
     {
       "surface": "והשביע",
-      "gloss": "u ħalles bil-ġurament"
+      "gloss": "u ġegħel jaħilfu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil is-saltna"
+      "marks": "is-saltna"
     },
     {
       "surface": "הממלכה",
@@ -104,11 +83,11 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "lil il-ġens"
+      "marks": "il-għans"
     },
     {
       "surface": "הגוי",
-      "gloss": "il-ġens"
+      "gloss": "il-għans"
     },
     {
       "surface": "כי",
@@ -123,6 +102,6 @@
       "gloss": "jsibukx"
     }
   ],
-  "timestamp": "2026-10-21T19:10:50.151721933Z",
+  "timestamp": "2026-10-21T23:57:22.826541791Z",
   "model": "glm-5.3"
 }

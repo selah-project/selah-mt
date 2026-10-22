@@ -5,41 +5,15 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "il-klawżola relattiva m'għandha bżonnhha bil-Malti hawn"
-    },
-    {
-      "kind": "crux",
-      "subject": "הבצור",
-      "rationale": "'il-foresta ffortifikata\/mtahhma' vs 'il-foresti tal-btietiet' (KJV 'of the vintage') — sens mhux ċert"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הילל\/הילילו",
-      "rationale": "it-tberbir ta' jeremija fuq is-siġar jerrepeti l-verbi tal-uler, struttura parallela"
-    }
-  ],
-  "translation": "Għajjat, iċ-ċipress, għax waqa' iċ-ċedru; lill-kbar tagħhom insterqu; għajjtu, il-ballut ta' Baixan, għax nżlet il-foresta l-mtahhma.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/11\/1-4.1792616330382.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ilmenta, ċipress, għax in-naqal l-arżina; l-kbar ġew serqu; ilmentaw, il-ballut tal-Baxan, għax inżlet il-foresta ⟨l-forti⟩.",
   "tokens": [
     {
       "surface": "הילל",
-      "gloss": "Għajjat"
+      "gloss": "Ilmenta"
     },
     {
       "surface": "ברוש",
-      "gloss": "iċ-ċipress"
+      "gloss": "ċipress"
     },
     {
       "surface": "כי",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "נפל",
-      "gloss": "waqa'"
+      "gloss": "in-naqal"
     },
     {
       "surface": "ארז",
-      "gloss": "iċ-ċedru"
+      "gloss": "l-arżina"
     },
     {
       "surface": "אשר",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "אדרים",
-      "gloss": "lill-kbar"
+      "gloss": "l-kbar"
     },
     {
       "surface": "שדדו",
-      "gloss": "isterqu"
+      "gloss": "ġew serqu"
     },
     {
       "surface": "הילילו",
-      "gloss": "għajjtu"
+      "gloss": "ilmentaw"
     },
     {
       "surface": "אלוני",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "בשן",
-      "gloss": "ta' Baixan"
+      "gloss": "tal-Baxan"
     },
     {
       "surface": "כי",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ירד",
-      "gloss": "nżlet"
+      "gloss": "inżlet"
     },
     {
       "surface": "יער",
@@ -91,9 +65,9 @@
     },
     {
       "surface": "הבצור",
-      "gloss": "l-mtahhma"
+      "gloss": "l-forti"
     }
   ],
-  "timestamp": "2026-10-21T20:58:50.382847947Z",
+  "timestamp": "2026-10-22T00:51:33.561951354Z",
   "model": "glm-5.3"
 }

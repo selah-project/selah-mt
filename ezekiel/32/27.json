@@ -5,58 +5,32 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "minn dawk mhux iċċirkonċiżi",
-      "rationale": "KJV 'fallen of the uncircumcised' vs JPS 'inferior to the uncircumcised'; מערלים read as source or comparison"
-    },
-    {
-      "kind": "substitution",
-      "subject": "qawwija",
-      "rationale": "גבורים 'mighty ones\/warriors'; 'qawwija' (strong ones) is the nearest Maltese shape"
-    },
-    {
-      "kind": "elision",
-      "subject": "ויתנו",
-      "rationale": "Hebrew 'and they gave' rendered 'u tqiegħdu' (placed); the heroes buried with their own swords"
-    }
-  ],
-  "translation": "U ma jorqdux ma' qawwija mieżgħin, minn dawk mhux iċċirkonċiżi, li niżlu għand Xeol bl-armi tal-ġlied tagħhom, u tqiegħdu s-siefiet tagħhom taħt irjus tagħhom, u kienet l-inġustizzja tagħhom fuq l-għadam tagħhom, għax biża' ta' qawwija kienet fl-art tal-ħajjin.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "82a00bd8dc6e7436d702f41df01bc06e25de963cad477db0beef8808b10cf47f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/32\/25-28.1792614985493.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mhux ma' jaqbdu jorqdu mal-ġellieda mqabżin, il-ġejjin mis-ċirkonċiżjoni, li niżlu f'Xeol bil-ħwejjeġ ta' ġwerra tagħhom, u poġġew ⟨את⟩ xwabbarek taħt rjusHom, u ġie l-ħtat tagħhom fuq għadamHom, għax il-biża' tal-ġellieda kien fl-art tal-ħajjin.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u mhux"
     },
     {
       "surface": "ישכבו",
-      "gloss": "jorqdux"
+      "gloss": "jaqbdu jorqdu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qawwija mieżgħin"
+      "marks": "il-ġellieda"
     },
     {
       "surface": "גבורים",
-      "gloss": "qawwija"
+      "gloss": "ġellieda"
     },
     {
       "surface": "נפלים",
-      "gloss": "mieżgħin"
+      "gloss": "mqabżin"
     },
     {
       "surface": "מערלים",
-      "gloss": "minn dawk mhux iċċirkonċiżi"
+      "gloss": "mis-ċirkonċiżjoni"
     },
     {
       "surface": "אשר",
@@ -72,24 +46,24 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "bl-armi"
+      "gloss": "bil-ħwejjeġ"
     },
     {
       "surface": "מלחמתם",
-      "gloss": "tal-ġlied tagħhom"
+      "gloss": "ta' ġwerra tagħhom"
     },
     {
       "surface": "ויתנו",
-      "gloss": "u tqiegħdu"
+      "gloss": "u poġġew"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-siefiet tagħhom"
+      "marks": "xwabbarek"
     },
     {
       "surface": "חרבותם",
-      "gloss": "is-siefiet tagħhom"
+      "gloss": "xwabbarek"
     },
     {
       "surface": "תחת",
@@ -97,15 +71,15 @@
     },
     {
       "surface": "ראשיהם",
-      "gloss": "irjus tagħhom"
+      "gloss": "rjusHom"
     },
     {
       "surface": "ותהי",
-      "gloss": "u kienet"
+      "gloss": "u ġie"
     },
     {
       "surface": "עונתם",
-      "gloss": "l-inġustizzja tagħhom"
+      "gloss": "iċ-ċaħta tagħhom"
     },
     {
       "surface": "על",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "עצמותם",
-      "gloss": "l-għadam tagħhom"
+      "gloss": "għadamHom"
     },
     {
       "surface": "כי",
@@ -121,11 +95,11 @@
     },
     {
       "surface": "חתית",
-      "gloss": "biża'"
+      "gloss": "il-biża'"
     },
     {
       "surface": "גבורים",
-      "gloss": "ta' qawwija"
+      "gloss": "tal-ġellieda"
     },
     {
       "surface": "בארץ",
@@ -136,6 +110,6 @@
       "gloss": "tal-ħajjin"
     }
   ],
-  "timestamp": "2026-10-21T20:36:25.494387177Z",
+  "timestamp": "2026-10-22T00:18:36.547457788Z",
   "model": "glm-5.3"
 }

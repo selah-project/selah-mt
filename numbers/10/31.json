@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לעינים",
-      "rationale": "'Għal għajnejna' — idjomm Ebrajk: Ħobav jigġief għalihom bħala għajnejhom, mhux gbala traduzzjoni specifika"
-    },
-    {
-      "kind": "elision",
-      "subject": "על כן",
-      "rationale": "'Għalhekk' ma tantx jiffunzjona bil-Malti hawn; ingħata parzjalment"
-    },
-    {
-      "kind": "you",
-      "subject": "lejn Ħobav",
-      "rationale": "Appell dirett ta' Moxe lil Ħobav ma' negattiv deprekattiv אל נא"
-    }
-  ],
-  "translation": "U hu qal: Jekk jogħġbok la tabandawnax, għax inti taf kif ikkampjajna fid-deżert, u inti ssirilna għal għajnejna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/10\/29-32.1792602702816.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal: Jekk jogħġbok, tħallix lil ⟨את⟩ aħna, għax int taf il-kampjar tagħna fid-deżert, u int tkun għalina għal għajnejn.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "Jekk jogħġbok la"
+      "gloss": "tħallix (ma…-x)"
     },
     {
       "surface": "נא",
-      "gloss": "tbiddilx"
+      "gloss": "jekk jogħġbok"
     },
     {
       "surface": "תעזב",
-      "gloss": "tabandawnax"
+      "gloss": "tħalli"
     },
     {
       "surface": "אתנו",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "על",
-      "gloss": "għalhekk"
+      "gloss": "għal"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "hekk"
     },
     {
       "surface": "ידעת",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "חנתנו",
-      "gloss": "kif ikkampjajna"
+      "gloss": "il-kampjar tagħna"
     },
     {
       "surface": "במדבר",
@@ -80,17 +54,17 @@
     },
     {
       "surface": "והיית",
-      "gloss": "u ssir"
+      "gloss": "u tkun"
     },
     {
       "surface": "לנו",
-      "gloss": "lilna"
+      "gloss": "għalina"
     },
     {
       "surface": "לעינים",
-      "gloss": "għal għajnejna"
+      "gloss": "għal għajnejn"
     }
   ],
-  "timestamp": "2026-10-21T17:11:42.823906927Z",
+  "timestamp": "2026-10-22T00:44:10.474211056Z",
   "model": "glm-5.3"
 }

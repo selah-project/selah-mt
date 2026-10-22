@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨kien⟩",
-      "rationale": "il-Malti jeħtieġ kopula għall-partiċipju מורה; il-Lhudi m'għandux."
-    },
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "gloss": "il-qedem 'u kien' jitħalla bħala konnettiv sempliċi"
-    }
-  ],
-  "translation": "U ġie wieħed mill-qassisin li kienu eżiljaw minn Somron, u socjer f'Bet-El, u ⟨kien⟩ jgħallem ⟨את⟩hom kif għandhom jibżgħu minn ⟨את⟩ Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d51b58fdc7b9ac26e707ab9c755f7613ad643c8c1f315d5bc327fdbd4d369f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/25-28.1792610653056.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġie wieħed mill-qassisin li tkeċċew minn Shomeron, u ġiegħel jgħix f'Bet-El, u kien jgħallimhom ⟨את⟩hom kif għandhom jibżgħu minn ⟨את⟩ Jaħwe.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "U ġie"
+      "gloss": "u ġie"
     },
     {
       "surface": "אחד",
@@ -46,36 +25,36 @@
     },
     {
       "surface": "הגלו",
-      "gloss": "kienu eżiljaw"
+      "gloss": "tkeċċew"
     },
     {
       "surface": "משמרון",
-      "gloss": "minn Somron"
+      "gloss": "minn Shomeron"
     },
     {
       "surface": "וישב",
-      "gloss": "u socjer"
+      "gloss": "u ġiegħel jgħix"
     },
     {
       "surface": "בבית",
-      "gloss": "f'Bet"
+      "gloss": "f'Bet-"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "El"
     },
     {
       "surface": "ויהי",
-      "gloss": "u"
+      "gloss": "u kien"
     },
     {
       "surface": "מורה",
-      "gloss": "jgħallem"
+      "gloss": "jgħallim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "il-ġnus"
+      "gloss": "⟨את⟩hom",
+      "marks": "lilhom (il-ġnus li ġew mibgħuta hemm)"
     },
     {
       "surface": "איך",
@@ -95,6 +74,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T19:24:13.059297826Z",
+  "timestamp": "2026-10-22T00:04:06.399612448Z",
   "model": "glm-5.3"
 }

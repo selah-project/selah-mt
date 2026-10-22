@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מפניך",
-      "rationale": "litteralment 'mill-wiċċ tiegħek', idjom ta' preżenza quddiem"
-    }
-  ],
-  "translation": "Meta Jaħwe Elohim tiegħek jaqta' għalik ⟨את⟩ l-ġnus li inti sejjer hemm biex tieħu fi sidithom ⟨את⟩ minn quddiem wiċċek, u tużhom u toqgħod fl-art tagħhom,",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/12\/29-31.1792605610276.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Meta Jaħwe, Elohim tiegħek, iqatta' ⟨את⟩ in-nazzjonijiet li int sejjer hemm biex twirtuhom, minn quddiemek, u twirtuhom, u toqgħod fl-art tagħhom —",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "יכרית",
-      "gloss": "jaqta'"
+      "gloss": "iqatta'"
     },
     {
       "surface": "יהוה",
@@ -42,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġnus"
+      "marks": "in-nazzjonijiet"
     },
     {
       "surface": "הגוים",
-      "gloss": "l-ġnus"
+      "gloss": "in-nazzjonijiet"
     },
     {
       "surface": "אשר",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "inti"
+      "gloss": "int"
     },
     {
       "surface": "בא",
@@ -66,24 +50,25 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "biex tieħu fi sidithom"
+      "gloss": "biex twirtuhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ minn quddiem"
+      "gloss": "⟨את⟩",
+      "marks": "in-nazzjonijiet"
     },
     {
       "surface": "מפניך",
-      "gloss": "wiċċek"
+      "gloss": "minn quddiemek"
     },
     {
       "surface": "וירשת",
-      "gloss": "u tużhom"
+      "gloss": "u twirtuhom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "l-ġnus"
+      "marks": "in-nazzjonijiet"
     },
     {
       "surface": "וישבת",
@@ -94,6 +79,6 @@
       "gloss": "fl-art tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T18:00:10.277405940Z",
+  "timestamp": "2026-10-22T00:09:09.737015482Z",
   "model": "glm-5.3"
 }

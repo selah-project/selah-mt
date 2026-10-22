@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "u",
-      "rationale": "il-konġunzjoni Maltija meħtieġa għall-preċedenza ta' ו"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ibċċem",
-      "rationale": "זבח huwa tibħir ta' annimal għal sagrifiċċju; 'ibċċem' iżomm it-tibħir, mhux biss 'offri'"
-    }
-  ],
-  "translation": "U ibċċem Pesach lil Jaħwe Elohim tiegħek, nagħaġ u mogħoż u baqar, fil-post li jagħżel Jaħwe biex joqgħod ismu hemm.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2ee06e1038388c3a78020e6e1ea0cd31a342e445f8726e29d84a168555d196b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/16\/1-4.1792605729440.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U toqtol ⟨את⟩ il-Pesaħ lil Jaħwe Elohim ⟨tiegħek⟩, mill-merħla u mill-baqar, fil-post li jagħzel Jaħwe biex joqgħod ismu hemm.",
   "tokens": [
     {
       "surface": "וזבחת",
-      "gloss": "U ibċċem"
+      "gloss": "u toqtol"
     },
     {
       "surface": "פסח",
-      "gloss": "Pesach"
+      "gloss": "il-Pesaħ"
     },
     {
       "surface": "ליהוה",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim tiegħek"
+      "gloss": "Elohim ⟨tiegħek⟩"
     },
     {
       "surface": "צאן",
-      "gloss": "nagħaġ u mogħoż"
+      "gloss": "mill-merħla"
     },
     {
       "surface": "ובקר",
-      "gloss": "u baqar"
+      "gloss": "u mill-baqar"
     },
     {
       "surface": "במקום",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "יבחר",
-      "gloss": "jagħżel"
+      "gloss": "jagħzel"
     },
     {
       "surface": "יהוה",
@@ -81,6 +60,6 @@
       "gloss": "hemm"
     }
   ],
-  "timestamp": "2026-10-21T18:02:09.441385084Z",
+  "timestamp": "2026-10-22T00:09:39.220412143Z",
   "model": "glm-5.3"
 }

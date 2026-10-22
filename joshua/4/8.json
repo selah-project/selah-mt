@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עשרה",
-      "rationale": "il-Malti jgħaqqad 'tnax' f'kelma waħda; il-parti 'ten' ma tiżżidx separat"
-    },
-    {
-      "kind": "measurement",
-      "subject": "tnax-il ħaġra",
-      "rationale": "għadd sħiħ tal-ħaġar skond it-tnax-il tribù"
-    }
-  ],
-  "translation": "U wlied Jisrael għamlu hekk kif ordna Joxwa, u ġarrbu tnax-il ħaġra minn nofs il-Ġordan, kif kelma Jaħwe lil Joxwa, skond in-numru ta' tribijiet il-wlied ta' Jisrael, u għaddewhom magħhom sal-merħla u poġġewhom hemm.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "473862c6670429e30330a4fc36247e2b467a0d15e48910621c866c3b70799cb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/4\/5-8.1792606309721.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għamlu hekk ulied Jisrael, kif ordna Joxua; u ħadu tnax-il ġebla minn nofs il-Ġordan, kif kellem Jaħwe lil Joxua, skond in-numru tas-slaleb ta' ulied Jisrael; u għaddewhom magħhom sal-ewd, u poġġewhom hemm.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "U għamlu"
+      "gloss": "u għamlu"
     },
     {
       "surface": "כן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "ulied"
     },
     {
       "surface": "ישראל",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Joxwa"
+      "gloss": "Joxua"
     },
     {
       "surface": "וישאו",
-      "gloss": "u ġarrbu"
+      "gloss": "u ħadu"
     },
     {
       "surface": "שתי",
-      "gloss": "tnax-il"
+      "gloss": "tnax"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "-il"
     },
     {
       "surface": "אבנים",
-      "gloss": "ħaġar"
+      "gloss": "ġebla"
     },
     {
       "surface": "מתוך",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kelma"
+      "gloss": "kellem"
     },
     {
       "surface": "יהוה",
@@ -98,7 +77,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Joxwa"
+      "gloss": "Joxua"
     },
     {
       "surface": "למספר",
@@ -106,15 +85,15 @@
     },
     {
       "surface": "שבטי",
-      "gloss": "ta' tribijiet"
+      "gloss": "tas-slaleb"
     },
     {
       "surface": "בני",
-      "gloss": "il-wlied"
+      "gloss": "ta' ulied"
     },
     {
       "surface": "ישראל",
-      "gloss": "ta' Jisrael"
+      "gloss": "Jisrael"
     },
     {
       "surface": "ויעברום",
@@ -126,11 +105,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "sal"
+      "gloss": "sa"
     },
     {
       "surface": "המלון",
-      "gloss": "l-merħla"
+      "gloss": "l-ewd"
     },
     {
       "surface": "וינחום",
@@ -141,6 +120,6 @@
       "gloss": "hemm"
     }
   ],
-  "timestamp": "2026-10-21T18:11:49.722233366Z",
+  "timestamp": "2026-10-22T00:36:16.394695575Z",
   "model": "glm-5.3"
 }

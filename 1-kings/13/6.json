@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "talab il-wiċċ",
-      "rationale": "חל את פני: litteralment 'issaffaġ\/ilwiġ il-wiċċ', idjom ta' interċessjoni"
-    },
-    {
-      "kind": "you",
-      "subject": "ir-re Jarobeam",
-      "rationale": "r-re jindirizza lil raġel Elohim b'talba direta"
-    },
-    {
-      "kind": "addition",
-      "subject": "biex",
-      "rationale": "ותשב hija kostruzzjoni li tixbah li biex; 'biex' jiċċara l-iskop"
-    }
-  ],
-  "translation": "U r-re wieġeb u qal lil raġel ⟨l-⟩Elohim: Talab il-wiċċ ta' Jaħwe, Alla ⟨tiegħek⟩, jekk jogħġbok, u itlob għalija, biex idi terġa' tiġi għandi. U raġel ⟨l-⟩Elohim talab ⟨את⟩ wiċċ Jaħwe, u idejn ir-re reġgħet ġiet għandu, u saret bħal fil-bidu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/13\/5-8.1792609729711.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U r-re wieġeb u qal lill-raġel ta' Elohim: Ttallab jekk jogħġbok ⟨את⟩ il-wiċċ ta' Jaħwe, Elohim tiegħek, u talab għalija, biex tirtorna idi għandi. U r-raġel ta' Elohim ttallab ⟨את⟩ il-wiçċ ta' Jaħwe, u id ir-re rtornat lejh, u saret bħal fl-ewwel.",
   "tokens": [
     {
       "surface": "ויען",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "lil"
+      "gloss": "lill-"
     },
     {
       "surface": "איש",
-      "gloss": "raġel"
+      "gloss": "ir-raġel"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "ta' Elohim"
     },
     {
       "surface": "חל",
-      "gloss": "talab"
+      "gloss": "Ttallab"
     },
     {
       "surface": "נא",
@@ -68,23 +42,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wiċċ Jaħwe"
+      "marks": "il-wiċċ ta' Jaħwe"
     },
     {
       "surface": "פני",
-      "gloss": "il-wiċċ"
+      "gloss": "il-wiċċ ta'"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Alla tiegħek"
+      "gloss": "Elohim tiegħek"
     },
     {
       "surface": "והתפלל",
-      "gloss": "u itlob"
+      "gloss": "u talab"
     },
     {
       "surface": "בעדי",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "biex terġa' tiġi"
+      "gloss": "biex tirtorna"
     },
     {
       "surface": "ידי",
@@ -104,36 +78,36 @@
     },
     {
       "surface": "ויחל",
-      "gloss": "u talab"
+      "gloss": "u ttallab"
     },
     {
       "surface": "איש",
-      "gloss": "raġel"
+      "gloss": "ir-raġel"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "ta' Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wiċċ Jaħwe"
+      "marks": "il-wiċċ ta' Jaħwe"
     },
     {
       "surface": "פני",
-      "gloss": "il-wiċċ"
+      "gloss": "il-wiċċ ta'"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "ותשב",
-      "gloss": "u reġgħet ġiet"
+      "gloss": "u rtornat"
     },
     {
       "surface": "יד",
-      "gloss": "idejn"
+      "gloss": "id"
     },
     {
       "surface": "המלך",
@@ -141,7 +115,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "għandu"
+      "gloss": "leh"
     },
     {
       "surface": "ותהי",
@@ -149,9 +123,9 @@
     },
     {
       "surface": "כבראשנה",
-      "gloss": "bħal fil-bidu"
+      "gloss": "bħal fl-ewwel"
     }
   ],
-  "timestamp": "2026-10-21T19:08:49.712424714Z",
+  "timestamp": "2026-10-21T23:56:42.479494777Z",
   "model": "glm-5.3"
 }

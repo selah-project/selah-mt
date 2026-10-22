@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קינה · קוננוה · תקוננה",
-      "rationale": "għerq qnn jirkupra erba' darbiet fil-vers, rit tal-għanja funebri; il-Malti għen l-istess għerq 'għann\/għanja'"
-    },
-    {
-      "kind": "addition",
-      "subject": "hija",
-      "rationale": "il-Lhudi m'għandux verbi; il-kopula Maltija miżjuda u mmarkata"
-    }
-  ],
-  "translation": "Din hija l-għanja tad-dieqa, u għannuha bniet il-ġnus; għad jgħannuha fuq Mitsrajim u fuq il-merħla tagħha kollha għad jgħannuha, jgħid Adonaj Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ea43647c18cfa8272363a7be921856d06ffb4585a8ec045dde12c071902d76fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/32\/13-16.1792614809754.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Klamma hi, u jilmentaw lilha; bniet in-nazzjonijiet jilmentaw lilha ⟨את⟩: fuq Mitsrajim u fuq kollha l-ħama tagħha jilmentaw lilha ⟨את⟩, jgħid Adonaj Jaħwe.",
   "tokens": [
     {
       "surface": "קינה",
-      "gloss": "l-għanja tad-dieqa"
+      "gloss": "Klamma"
     },
     {
       "surface": "היא",
-      "gloss": "Din hija"
+      "gloss": "hi"
     },
     {
       "surface": "וקוננוה",
-      "gloss": "u għannuha"
+      "gloss": "u jilmentaw lilha"
     },
     {
       "surface": "בנות",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "il-ġnus"
+      "gloss": "in-nazzjonijiet"
     },
     {
       "surface": "תקוננה",
-      "gloss": "għad jgħannuha"
+      "gloss": "jilmentaw"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "fuq Mitsrajim"
+      "marks": "lilha (lil Mitsrajim)"
     },
     {
       "surface": "על",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "המונה",
-      "gloss": "il-merħla tagħha"
+      "gloss": "l-ħama tagħha"
     },
     {
       "surface": "תקוננה",
-      "gloss": "għad jgħannuha"
+      "gloss": "jilmentaw"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "fuq Mitsrajim u fuq il-merħla tagħha"
+      "marks": "lilha (lil Mitsrajim u lil ħamaha)"
     },
     {
       "surface": "נאם",
@@ -99,6 +78,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:33:29.755077315Z",
+  "timestamp": "2026-10-22T00:18:13.871886025Z",
   "model": "glm-5.3"
 }

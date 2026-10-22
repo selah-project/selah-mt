@@ -5,44 +5,23 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "għadab",
-      "rationale": "אף litteralment huwa imnieħer; il-Ħhudi jużah għall-għadab — 'għadab tiegħi' miżmum qrib iż-żewġt iffissati"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חמתי\/אפי",
-      "rationale": "żewġ kliem għall-għadab (ħesti u immnieħer) fl-istess frażi, repetizzjoni retorika"
-    }
-  ],
-  "translation": "Iżda l-wildened għammu bi: f'ħuqquqi ma mxew, u ⟨את⟩ il-ġudizzji tiegħi ma żammux biex jagħmluhom, li l-bniedem li jagħmilhom jgħix bihom; ⟨את⟩ ix-Xabbat tiegħi xarrbu. U għidt li nixxer rabja tiegħi fuqhom, bi ntfu għadab tiegħi fihom fid-deżert.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/21-24.1792614492295.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-ulied rebbħu kontri; fi statuti tiegħi ma mxew, u ⟨את⟩ l-ġudizzji tiegħi ma żammu biex jagħmluhom — li jekk jagħmelhom il-bniedem, jgħix bihom — ⟨את⟩ l-Xabbatot tiegħi xemmu; u għidt li nferra' r-rabja tiegħi fuqhom, biex iniedi l-għadab tiegħi kontrihom fid-deżert.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "għammu"
+      "gloss": "rebbħu"
     },
     {
       "surface": "בי",
-      "gloss": "bi"
+      "gloss": "kontri"
     },
     {
       "surface": "הבנים",
-      "gloss": "il-wildened"
+      "gloss": "l-ulied"
     },
     {
       "surface": "בחקותי",
-      "gloss": "f'ħuqquqi"
+      "gloss": "fi statuti tiegħi"
     },
     {
       "surface": "לא",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "il-ġudizzji tiegħi"
+      "gloss": "⟨את⟩",
+      "marks": "l-ġudizzji tiegħi"
     },
     {
       "surface": "משפטי",
-      "gloss": "il-ġudizzji tiegħi"
+      "gloss": "l-ġudizzji tiegħi"
     },
     {
       "surface": "לא",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "żammux"
+      "gloss": "żammu"
     },
     {
       "surface": "לעשות",
@@ -104,15 +83,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ix-Xabbat tiegħi"
+      "marks": "l-Xabbatot tiegħi"
     },
     {
       "surface": "שבתותי",
-      "gloss": "ix-Xabbat tiegħi"
+      "gloss": "l-Xabbatot tiegħi"
     },
     {
       "surface": "חללו",
-      "gloss": "xarrbu"
+      "gloss": "xemmu"
     },
     {
       "surface": "ואמר",
@@ -120,11 +99,11 @@
     },
     {
       "surface": "לשפך",
-      "gloss": "li nixxer"
+      "gloss": "li nferra'"
     },
     {
       "surface": "חמתי",
-      "gloss": "rabja tiegħi"
+      "gloss": "ir-rabja tiegħi"
     },
     {
       "surface": "עליהם",
@@ -132,21 +111,21 @@
     },
     {
       "surface": "לכלות",
-      "gloss": "bi ntfu"
+      "gloss": "biex iniedi"
     },
     {
       "surface": "אפי",
-      "gloss": "għadab tiegħi"
+      "gloss": "l-għadab tiegħi"
     },
     {
       "surface": "בם",
-      "gloss": "fihom"
+      "gloss": "kontrihom"
     },
     {
       "surface": "במדבר",
       "gloss": "fid-deżert"
     }
   ],
-  "timestamp": "2026-10-21T20:28:12.296179795Z",
+  "timestamp": "2026-10-22T00:16:45.946375886Z",
   "model": "glm-5.3"
 }

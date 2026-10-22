@@ -5,57 +5,36 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Moxe",
-      "rationale": "Imperattiv imsemmi directly lil Moxe dwar il-kaz tal-misettaħ."
-    },
-    {
-      "kind": "substitution",
-      "subject": "settaħ",
-      "rationale": "קלל litteralment 'tagħlief' — li jsir ħafif fid-demm ta' ħaddieħor; il-Malti 'settaħ' jaqbad it-tifsira rakża."
-    }
-  ],
-  "translation": "Ħroġ lil ⟨את⟩ dak li settaħ barra mill-kamp, u dawk kollha li semgħuh jpoġġu idejhom fuq rasu, u l-ġemgħa kollha taġbes biż-żrar lilu ⟨אתו⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/24\/13-16.1792601199403.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iħroġ ⟨את⟩ lil dak li sabbtu lil barra mill-kamp, u dawk kollha li semgħuh jpoġġew ⟨את⟩ idejhom fuq rasu, u r-ġemgħa kollha tġebbuh b'ħaġar ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "הוצא",
-      "gloss": "Ħroġ"
+      "gloss": "Iħroġ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li settaħ"
+      "marks": "lil dak li sabbtu"
     },
     {
       "surface": "המקלל",
-      "gloss": "dak li settaħ"
+      "gloss": "dak li sabbtu"
     },
     {
       "surface": "אל",
-      "gloss": "barra"
+      "gloss": "lil"
     },
     {
       "surface": "מחוץ",
-      "gloss": "mill-"
+      "gloss": "barra"
     },
     {
       "surface": "למחנה",
-      "gloss": "kamp"
+      "gloss": "mill-kamp"
     },
     {
       "surface": "וסמכו",
-      "gloss": "jpoġġu"
+      "gloss": "u jpoġġew"
     },
     {
       "surface": "כל",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "השמעים",
-      "gloss": "dakk li semgħuh"
+      "gloss": "dawk li semgħuh"
     },
     {
       "surface": "את",
@@ -84,12 +63,12 @@
     },
     {
       "surface": "ורגמו",
-      "gloss": "taġbes biż-żrar"
+      "gloss": "u tġebbuh b'ħaġar"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "lilu (l-ġemgħa kollha taġbes)"
+      "marks": "il-ġemgħa kollha"
     },
     {
       "surface": "כל",
@@ -97,9 +76,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "il-ġemgħa"
+      "gloss": "ir-ġemgħa"
     }
   ],
-  "timestamp": "2026-10-21T16:46:39.404837293Z",
+  "timestamp": "2026-10-22T00:53:52.402180156Z",
   "model": "glm-5.3"
 }

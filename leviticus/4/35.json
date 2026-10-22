@@ -5,38 +5,12 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חטאת\/חטא",
-      "rationale": "għerq ħ-t-j wieħed għal darbtejn: il-ħtija li dnbieth — l-istess ħoss tar-ripetizzjoni tal-Lhudi"
-    },
-    {
-      "kind": "crux",
-      "subject": "המזבחה",
-      "rationale": "il-qeddis imle bi ħej direzzjonali: 'lejn l-artal' jew fuqu; l-istejjer iqisuh bħala sempliment 'l-artal'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מזבח שלמים",
-      "rationale": "hawn 'מזבח' bil-miktub qrib 'מזבח' (biċċa \/ sagrifiċċju) mhux 'artal' — kliem differenti bl-istess konsonanti"
-    }
-  ],
-  "translation": "U ⟨את⟩ xaħamha kollu jneħħi, kif jingħata xaħam il-ħaruf mis-sagrifiċċju tas-sliem; u l-qassis jura lilu fuq l-artal, fuq is-sagrifiċċji tan-nar ta' Jaħwe; u l-qassis jagħmel kifra għaliħ dwar il-ħtija li dnbieth, u jingħataf lilu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e5894b14c7d6382cc5275267c68ff62cb35f49e17ce429b889e941e7cc89a2fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/33-35.1792600491945.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ ix-xaħam kollu tiegħu jneħħi, kif jitneħħa x-xaħam ta' ħaruf mit-taqsim ta' l-istenmar, u l-qassis iwaħħħanhom fuq l-artal, fuq in-nar tan-negħaġja ta' Jaħwe; u l-qassis jagħmel l-ispokjar fuqu għal ħtija li ħata, u jkun maħlulu.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "u⟨את⟩",
-      "marks": "xaħamha kollu"
+      "gloss": "⟨את⟩",
+      "marks": "ix-xaħam kollu"
     },
     {
       "surface": "כל",
@@ -44,7 +18,7 @@
     },
     {
       "surface": "חלבה",
-      "gloss": "xaħamha"
+      "gloss": "ix-xaħam"
     },
     {
       "surface": "יסיר",
@@ -56,40 +30,40 @@
     },
     {
       "surface": "יוסר",
-      "gloss": "jingħata"
+      "gloss": "jitneħħa"
     },
     {
       "surface": "חלב",
-      "gloss": "xaħam"
+      "gloss": "ix-xaħam"
     },
     {
       "surface": "הכשב",
-      "gloss": "tal-ħaruf"
+      "gloss": "ta' ħaruf"
     },
     {
       "surface": "מזבח",
-      "gloss": "mis-sagrifiċċju"
+      "gloss": "mit-taqsim"
     },
     {
       "surface": "השלמים",
-      "gloss": "tas-sliem"
+      "gloss": "ta' l-istenmar"
     },
     {
       "surface": "והקטיר",
-      "gloss": "ujura"
+      "gloss": "u iwaħħħanhom"
     },
     {
       "surface": "הכהן",
-      "gloss": "il-qassis"
+      "gloss": "l-qassis"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lilu (il-partijiet tax-xaħam)"
+      "marks": "fuq l-artal"
     },
     {
       "surface": "המזבחה",
-      "gloss": "fuq l-artal"
+      "gloss": "l-artal"
     },
     {
       "surface": "על",
@@ -97,31 +71,31 @@
     },
     {
       "surface": "אשי",
-      "gloss": "is-sagrifiċċji tan-nar"
+      "gloss": "in-nar tan-negħaġja"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "וכפר",
-      "gloss": "ujagħmel kifra"
+      "gloss": "u jagħmel l-ispokjar"
     },
     {
       "surface": "עליו",
-      "gloss": "għaliħ"
+      "gloss": "fuqu"
     },
     {
       "surface": "הכהן",
-      "gloss": "il-qassis"
+      "gloss": "l-qassis"
     },
     {
       "surface": "על",
-      "gloss": "dwar"
+      "gloss": "għal"
     },
     {
       "surface": "חטאתו",
-      "gloss": "il-ħtija"
+      "gloss": "ħtija"
     },
     {
       "surface": "אשר",
@@ -129,17 +103,17 @@
     },
     {
       "surface": "חטא",
-      "gloss": "dnbieth"
+      "gloss": "ħata"
     },
     {
       "surface": "ונסלח",
-      "gloss": "ujingħataf"
+      "gloss": "u jkun maħlulu"
     },
     {
       "surface": "לו",
-      "gloss": "lilu"
+      "gloss": "lu"
     }
   ],
-  "timestamp": "2026-10-21T16:34:51.946792824Z",
+  "timestamp": "2026-10-22T00:42:19.436918436Z",
   "model": "glm-5.3"
 }

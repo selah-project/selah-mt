@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Konġunzjon tal-miktub mill-ġdid; ma għandux kelma separata bil-Malti"
-    }
-  ],
-  "translation": "U David qallu: X'kien il-kliem? Għidli, jekk jogħġbok. U hu qal: In-nies ħarbu mill-battalja, u ħafna min-nies waqgħu u mietu, u anke Xa'ul u Jonatan ibnu mietu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/1\/1-4.1792608512314.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David qallu: X'kien il-ġrajja? Għidilha lili, jekk jogħġbok. U hu qal: Illi n-nies ħarbet mill-ġlied, u wkoll ħafna min-nies waqgħu u mietu; u wkoll Xa'ul u Jehonatan ibnu mietu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "x'"
+      "gloss": "X'"
     },
     {
       "surface": "היה",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "il-kliem"
+      "gloss": "il-ġrajja"
     },
     {
       "surface": "הגד",
-      "gloss": "għid"
+      "gloss": "Għidilha"
     },
     {
       "surface": "נא",
@@ -57,19 +41,19 @@
     },
     {
       "surface": "לי",
-      "gloss": "li"
+      "gloss": "lili"
     },
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U hu qal"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "Illi"
     },
     {
       "surface": "נס",
-      "gloss": "ħarbu"
+      "gloss": "ħarbet"
     },
     {
       "surface": "העם",
@@ -77,15 +61,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "min"
     },
     {
       "surface": "המלחמה",
-      "gloss": "il-battalja"
+      "gloss": "il-ġlied"
     },
     {
       "surface": "וגם",
-      "gloss": "u"
+      "gloss": "u wkoll"
     },
     {
       "surface": "הרבה",
@@ -97,7 +81,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "min"
     },
     {
       "surface": "העם",
@@ -109,7 +93,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "u anke"
+      "gloss": "u wkoll"
     },
     {
       "surface": "שאול",
@@ -117,7 +101,7 @@
     },
     {
       "surface": "ויהונתן",
-      "gloss": "u Jonatan"
+      "gloss": "u Jehonatan"
     },
     {
       "surface": "בנו",
@@ -128,6 +112,6 @@
       "gloss": "mietu"
     }
   ],
-  "timestamp": "2026-10-21T18:48:32.315782119Z",
+  "timestamp": "2026-10-22T00:05:52.352547759Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "min ħadu l-ibliet",
-      "rationale": "il-veru huwa bla suġġett ċar: xi traduzzjonijiet jqisu lil Għeshur u Aram bħala dawk li ħadu, oħrajn jirrakontaw li ħaddieħor ħadhom mingħandhom"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאתם",
-      "rationale": "hawnha H854 hu prepożizzjoni 'minnhom', mhux l-oġġett dirett; il-⟨את⟩ miżjuda għal raġuni ta' lealtà għat-token"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sittin belt",
-      "rationale": "l-għadd tal-ibliet mitlufa, għadd ewlieni tal-vers"
-    }
-  ],
-  "translation": "U Għeshur u Aram ħadu mingħandhom ⟨את⟩ Ħavvot Jajir, ⟨את⟩ Kenat u ⟨את⟩ bniettha, sittin belt; dawn kollha kienu wlied Makir, missier Gilgħad.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/2\/21-24.1792621705963.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Gešur u Aram ħadu ⟨את⟩ Ħawwot-Jajir ⟨את⟩ minnhom, ⟨את⟩ Kenat u ⟨את⟩ bnethha, sittin belt; dawn kollha kienu wlied Makir, missier Gilgħad.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ħadu"
+      "gloss": "u ħadu"
     },
     {
       "surface": "גשור",
-      "gloss": "Għeshur"
+      "gloss": "Gešur"
     },
     {
       "surface": "וארם",
@@ -48,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ħavvot Jajir"
+      "marks": "Ħawwot-Jajir"
     },
     {
       "surface": "חות",
-      "gloss": "Ħavvot"
+      "gloss": "Ħawwot"
     },
     {
       "surface": "יאיר",
-      "gloss": "ta' Jajir"
+      "gloss": "Jajir"
     },
     {
       "surface": "מאתם",
-      "gloss": "mingħandhom ⟨את⟩"
+      "gloss": "minnhom ⟨את⟩"
     },
     {
       "surface": "את",
@@ -73,12 +47,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "bniettha"
+      "gloss": "u ⟨את⟩"
     },
     {
       "surface": "בנתיה",
-      "gloss": "bniettha"
+      "gloss": "bnethha",
+      "marks": "bnethha"
     },
     {
       "surface": "ששים",
@@ -113,6 +87,6 @@
       "gloss": "Gilgħad"
     }
   ],
-  "timestamp": "2026-10-21T22:28:25.977945125Z",
+  "timestamp": "2026-10-21T23:55:26.130410041Z",
   "model": "glm-5.3"
 }

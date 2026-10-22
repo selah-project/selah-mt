@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "il-prepożizzjoni Lhudija tingħata b'\"lil\" fis-sejħa Maltija"
-    }
-  ],
-  "translation": "U sejħu lil Jaħwe fit-trestricta tagħhom, u mill-għejjien tagħhom joħroġhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/107\/25-28.1792617876465.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U sejħu lejn Jaħwe fil-ħtieġa tagħhom, u mill-mitsaq tagħhom joħroġhom.",
   "tokens": [
     {
       "surface": "ויצעקו",
-      "gloss": "u sejħu lil"
+      "gloss": "u sejħu"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "lejn"
     },
     {
       "surface": "יהוה",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "בצר",
-      "gloss": "fit-trestricta"
+      "gloss": "fil-ħtieġa"
     },
     {
       "surface": "להם",
@@ -45,13 +29,13 @@
     },
     {
       "surface": "וממצוקתיהם",
-      "gloss": "mill-għejjien tagħhom"
+      "gloss": "u mill-mitsaq tagħhom"
     },
     {
       "surface": "יוציאם",
       "gloss": "joħroġhom"
     }
   ],
-  "timestamp": "2026-10-21T21:24:36.465974402Z",
+  "timestamp": "2026-10-22T00:48:42.572602285Z",
   "model": "glm-5.3"
 }

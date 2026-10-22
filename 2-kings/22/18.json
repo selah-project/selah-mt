@@ -5,52 +5,32 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil-persuni tal-king",
-      "rationale": "Ħulda tikkmanda lill-mibgħutin tal-re x'jieħduh"
-    },
-    {
-      "kind": "addition",
-      "subject": "Riguard",
-      "rationale": "il-prepożizzjoni Maħtal 'al' ma tinstabx; il-Malti jirrikjedi ntrużżar tal-ġrajja b'rigward"
-    }
-  ],
-  "translation": "Imma lir-re ta' Jehuda, li bagħatkom biex tfittxu lil ⟨את⟩ Jaħwe, hekk tgħidulu: Hekk jgħid Jaħwe, Elohim ta' Jisrael: Rigward il-kliem li smajt —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca5f028645c9c6ffd15751090d2719cc9c6f1b2ae52bafec4a1b908ceb659e6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/22\/17-20.1792610804319.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil sultan Jħuda, li bagħat ⟨את⟩ lilkom biex tiftħu ⟨את⟩ Jaħwe, hekk tgħidu lilu: Hekk jgħid Jaħwe, Elohim ta' Jisrael: dwar il-kliem li smajt —",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Imma lil"
+      "gloss": "U lil"
     },
     {
       "surface": "מלך",
-      "gloss": "ir-re"
+      "gloss": "sultan"
     },
     {
       "surface": "יהודה",
-      "gloss": "ta' Jehuda"
+      "gloss": "Jħuda"
     },
     {
       "surface": "השלח",
-      "gloss": "li bagħatkom"
+      "gloss": "li bagħat"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "biex tiftħu"
     },
     {
       "surface": "לדרש",
-      "gloss": "biex tfittxu"
+      "gloss": "biex tiftħu"
     },
     {
       "surface": "את",
@@ -67,11 +47,11 @@
     },
     {
       "surface": "תאמרו",
-      "gloss": "tgħidulu"
+      "gloss": "tgħidu"
     },
     {
       "surface": "אליו",
-      "gloss": ""
+      "gloss": "lilu"
     },
     {
       "surface": "כה",
@@ -106,6 +86,6 @@
       "gloss": "smajt"
     }
   ],
-  "timestamp": "2026-10-21T19:26:44.320977332Z",
+  "timestamp": "2026-10-22T00:52:22.370926072Z",
   "model": "glm-5.3"
 }

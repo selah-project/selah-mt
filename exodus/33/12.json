@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Jaħwe",
-      "rationale": "Moxe jindres lems lil Jaħwe direttament, tipprotesta quddiem Alla"
-    },
-    {
-      "kind": "elision",
-      "subject": "אלי",
-      "gloss": "il-pronom suffiss fl-ewwel persuna dħal fil-verb 'tgħidli'"
-    },
-    {
-      "kind": "crux",
-      "subject": "מצאת חן בעיני",
-      "rationale": "'sibt grazzja f'għajnejja': idjom Lhudi; xi tradutturi jqisu bħala kelma ta' Jaħwe lill-Moxe (bħalma fil-KJV), oħrajn ta' Moxe lil Jaħwe"
-    }
-  ],
-  "translation": "U qal Moxe lil Jaħwe: Ara, inti qed tgħidli: Għolli lil ⟨את⟩ dan il-poplu; u inti ma gjarrabtnix min tah sbigħ miegħi; u inti għidt: Jgħarrek b'isem, u sabt graċja f'għajnejja.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "85cbddf449aa78c5af5482a86b2200eec2a0c4010073ca9bf21eef93c97f075c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/33\/9-12.1792600194915.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe qal lil Jaħwe: Ara, inti tgħidli: Ittella' ⟨את⟩ din il-ġemgħa; u inti ma għarraftnix ⟨את⟩ lil dak li se tintbagħat miegħi. U inti għilt: Għaraftek bi smitek, u sabitha grazzja f'għajnejja.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -55,36 +29,36 @@
     },
     {
       "surface": "אתה",
-      "gloss": "inti"
+      "gloss": "int"
     },
     {
       "surface": "אמר",
-      "gloss": "qed tgħidli"
+      "gloss": "tgħid"
     },
     {
       "surface": "אלי",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "העל",
-      "gloss": "Għolli"
+      "gloss": "Ittella'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dan il-poplu"
+      "marks": "din il-ġemgħa"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "din il-ġemgħa"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "ואתה",
-      "gloss": "u inti"
+      "gloss": "u int"
     },
     {
       "surface": "לא",
@@ -92,20 +66,20 @@
     },
     {
       "surface": "הודעתני",
-      "gloss": "gjarrabtnix"
+      "gloss": "għarraftnix"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min tah sbigħ miegħi"
+      "marks": "dak li se tintbagħat miegħi"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "dak li"
     },
     {
       "surface": "תשלח",
-      "gloss": "tah sbigħ"
+      "gloss": "se tintbagħat"
     },
     {
       "surface": "עמי",
@@ -113,19 +87,19 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "u inti"
+      "gloss": "U int"
     },
     {
       "surface": "אמרת",
-      "gloss": "għidt"
+      "gloss": "għilt"
     },
     {
       "surface": "ידעתיך",
-      "gloss": "Jgħarrek"
+      "gloss": "Għaraftek"
     },
     {
       "surface": "בשם",
-      "gloss": "b'isem"
+      "gloss": "bi smitek"
     },
     {
       "surface": "וגם",
@@ -133,17 +107,17 @@
     },
     {
       "surface": "מצאת",
-      "gloss": "sabt"
+      "gloss": "sabitha grazzja"
     },
     {
       "surface": "חן",
-      "gloss": "graċja"
+      "gloss": "grazzja"
     },
     {
       "surface": "בעיני",
-      "gloss": "f'għajnejja"
+      "gloss": "f'għajnejva"
     }
   ],
-  "timestamp": "2026-10-21T16:29:54.916958408Z",
+  "timestamp": "2026-10-22T00:14:37.281317136Z",
   "model": "glm-5.3"
 }

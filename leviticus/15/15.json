@@ -5,66 +5,40 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-kippur",
-      "rationale": "כפר qrib ta' 'jgħatti'; 'kippur' miżmum bħala kelma qariba tal-Lhudi."
-    },
-    {
-      "kind": "crux",
-      "subject": "חטאת",
-      "rationale": "offerta għad-dnub — kelma waħda għad-dnub u għall-offerta fl-istess ħin."
-    },
-    {
-      "kind": "addition",
-      "subject": "offerta",
-      "rationale": "il-Malti jżid 'offerta' biex jifhem il-ru tal-kelma חטאת bħala sagrifiċċju."
-    }
-  ],
-  "translation": "U l-qassis jagħmel minnhom: l-waħda offerta għad-dnub u l-oħra olosta; u l-qassis jagħmel il-kippur għalih quddiem Jaħwe minħabba żavu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/13-16.1792600938243.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qeddej jagħmel ⟨את⟩ lil dawn: l-istaġun wieħed għall-ħtija u l-ieħor għall-olà; u l-qeddej jikkiper għalih quddiem Jaħwe minħabba ħruġu.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "U jagħmel"
+      "gloss": "jagħmel"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "minnhom"
+      "marks": "dawn (l-erbgħa)"
     },
     {
       "surface": "הכהן",
-      "gloss": "l-qassis"
+      "gloss": "l-qeddej"
     },
     {
       "surface": "אחד",
-      "gloss": "l-waħda"
+      "gloss": "l-istaġun wieħed"
     },
     {
       "surface": "חטאת",
-      "gloss": "offerta għad-dnub"
+      "gloss": "ħtija"
     },
     {
       "surface": "והאחד",
-      "gloss": "u l-oħra"
+      "gloss": "u l-ieħor"
     },
     {
       "surface": "עלה",
-      "gloss": "olosta"
+      "gloss": "olà"
     },
     {
       "surface": "וכפר",
-      "gloss": "u jagħmel il-kippur"
+      "gloss": "jikkiper"
     },
     {
       "surface": "עליו",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "l-qassis"
+      "gloss": "l-qeddej"
     },
     {
       "surface": "לפני",
@@ -84,9 +58,9 @@
     },
     {
       "surface": "מזובו",
-      "gloss": "minħabba żavu"
+      "gloss": "ħruġu"
     }
   ],
-  "timestamp": "2026-10-21T16:42:18.244338829Z",
+  "timestamp": "2026-10-22T00:40:10.412733575Z",
   "model": "glm-5.3"
 }

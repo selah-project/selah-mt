@@ -5,42 +5,15 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "את העיר...את העיר",
-      "rationale": "il-markatur ⟨את⟩ jiġbor il-ħarsa u l-ħruq tal-belt f'par strutturali — laħtinhaw u ħarquwha."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "gloss": "lilkom",
-      "rationale": "il-markatur את quddiem suffiss pronominali jidher ħafif bil-Malti; jinżamm bħala 'lilkom'."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-ambaxxata ta' Jixux",
-      "rationale": "il-vers huwa indirizzat direttament lill-irġiel maħbujin (imbraċċ) — imperattivi u ordni finali."
-    }
-  ],
-  "translation": "U ⟨jkun⟩, meta taħtfu ⟨את⟩ il-belt, tintaw ⟨את⟩ il-belt bin-nar; skond il-kelma ta' Jaħwe tagħmlu. Ara, jien ordnajtkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/5-8.1792606345813.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨ma jkun⟩ meta taqbdu ⟨את⟩ il-belt, tillibdu ⟨את⟩ il-belt bin-nar; skond il-kelma ta' Jaħwe tagħmlu. Ara, jien ħadtirtkom.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "u ⟨jkun⟩"
+      "gloss": "⟨ma jkun⟩"
     },
     {
       "surface": "כתפשכם",
-      "gloss": "meta taħtfu"
+      "gloss": "meta taqbdu"
     },
     {
       "surface": "את",
@@ -53,12 +26,12 @@
     },
     {
       "surface": "תציתו",
-      "gloss": "tintaw"
+      "gloss": "tillibdu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-belt bin-nar"
+      "marks": "il-belt"
     },
     {
       "surface": "העיר",
@@ -82,17 +55,17 @@
     },
     {
       "surface": "ראו",
-      "gloss": "ara"
+      "gloss": "Ara"
     },
     {
       "surface": "צויתי",
-      "gloss": "jien ordnajtkom"
+      "gloss": "jien ħadtirtkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩ ⟨lilkom⟩"
     }
   ],
-  "timestamp": "2026-10-21T18:12:25.814719557Z",
+  "timestamp": "2026-10-22T00:35:53.831411612Z",
   "model": "glm-5.3"
 }

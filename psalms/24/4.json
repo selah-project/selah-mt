@@ -5,44 +5,23 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נפשי",
-      "rationale": "'ruwaħi\/ħajti' Lhudi ma għandux siew fin-nettagg; il-LXX u s-Septwaġinta qarih不同 — il-verżjonijiet jaqsmu bejn 'anima tiegħu' u 'isemija' (JPS)"
-    },
-    {
-      "kind": "elision",
-      "subject": "נפשי",
-      "rationale": "'għal ruwaħu' ma ntradax għax il-Lhudi jħalli oġġett impliċitu biss"
-    }
-  ],
-  "translation": "Dak b'idejn indafi, u safi qalb, li ma tella' xejn għat-tħarfir, ⟨u⟩ li ma ħalef biex iqarraq.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/24\/1-4.1792616751090.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nadif minn idejn u ċar ta' qalb, li ma ġarrebx għal-xejn ⟨את⟩ in-nifs tiegħu, u li laħaq lil-xejn ma ħalef għal-qerq.",
   "tokens": [
     {
       "surface": "נקי",
-      "gloss": "indafi"
+      "gloss": "nadif"
     },
     {
       "surface": "כפים",
-      "gloss": "b'idejn"
+      "gloss": "minn idejn"
     },
     {
       "surface": "ובר",
-      "gloss": "u safi"
+      "gloss": "u ċar"
     },
     {
       "surface": "לבב",
-      "gloss": "qalb"
+      "gloss": "ta' qalb"
     },
     {
       "surface": "אשר",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "נשא",
-      "gloss": "tella' xejn"
+      "gloss": "ġarrebx"
     },
     {
       "surface": "לשוא",
-      "gloss": "għat-tħarfir"
+      "gloss": "ghal-xejn"
     },
     {
       "surface": "נפשי",
-      "gloss": ""
+      "gloss": "in-nifs"
     },
     {
       "surface": "ולא",
-      "gloss": "u li ma"
+      "gloss": "u ... ma"
     },
     {
       "surface": "נשבע",
@@ -74,9 +53,9 @@
     },
     {
       "surface": "למרמה",
-      "gloss": "biex iqarraq"
+      "gloss": "ghal-qerq"
     }
   ],
-  "timestamp": "2026-10-21T21:05:51.091326696Z",
+  "timestamp": "2026-10-22T00:49:19.306491145Z",
   "model": "glm-5.3"
 }

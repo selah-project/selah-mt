@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויך לב דוד",
-      "rationale": "'il-qalb ta' David laqtu' — idjoma għal xnien ta' xiħja"
-    },
-    {
-      "kind": "substitution",
-      "subject": "silt",
-      "rationale": "נסכלתi 'sirt minn moħħi' mhux 'għamilt ignoranza' sempliċi"
-    }
-  ],
-  "translation": "U qalb David ħabbethom wara li għadda l-poplu; u David qal le Jaħwe: Ĥtajt ħafna f'dak li għamilt; u issa, Jaħwe, għaddi jekk jogħġbok ⟨את⟩ in-niżża tal-qaddej tiegħek, għax silt ħafna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/24\/9-12.1792609191213.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qalb ta' David ħabbith wara li għadd ⟨את⟩ in-nies. U David qal lil Jaħwe: Ħtiet ħafna f'dak li għamilt; u issa, Jaħwe, ħassar jekk jogħġbok ⟨את⟩ il-ħtija ta' qadwejkekk, għax imnajna ħafna.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "ħabbethom — liħbat"
+      "gloss": "ħabbith"
     },
     {
       "surface": "לב",
-      "gloss": "qalb"
+      "gloss": "il-qalb"
     },
     {
       "surface": "דוד",
@@ -43,7 +22,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "David — lil"
+      "marks": "lilu"
     },
     {
       "surface": "אחרי",
@@ -51,20 +30,20 @@
     },
     {
       "surface": "כן",
-      "gloss": "li"
+      "gloss": "dak"
     },
     {
       "surface": "ספר",
-      "gloss": "għadda"
+      "gloss": "għadd"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-poplu"
+      "marks": "in-nies"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "ויאמר",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "le — lil"
+      "gloss": "lil"
     },
     {
       "surface": "יהוה",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "Ħtajt"
+      "gloss": "Ħtiet"
     },
     {
       "surface": "מאד",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "העבר",
-      "gloss": "għaddi"
+      "gloss": "ħassar"
     },
     {
       "surface": "נא",
@@ -117,15 +96,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "in-niżża"
+      "marks": "il-ħtija"
     },
     {
       "surface": "עון",
-      "gloss": "in-niżża"
+      "gloss": "il-ħtija"
     },
     {
       "surface": "עבדך",
-      "gloss": "tal-qaddej tiegħek"
+      "gloss": "ta' qadwejkekk"
     },
     {
       "surface": "כי",
@@ -133,13 +112,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "silt"
+      "gloss": "imnajna"
     },
     {
       "surface": "מאד",
       "gloss": "ħafna"
     }
   ],
-  "timestamp": "2026-10-21T18:59:51.214719929Z",
+  "timestamp": "2026-10-22T00:07:15.359077227Z",
   "model": "glm-5.3"
 }

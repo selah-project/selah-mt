@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "riglin",
-      "rationale": "שלש רגלים literally 'three feet\/legs', idiom for 'three times'; the Maltese keeps the body-part shape."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אולי",
-      "rationale": "'forsi\/forse' used here as the Hebrew idiom 'unless' (כי omitted asyndetically)."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-messaġġier li jkellem lil Balagħam",
-      "rationale": "the angel addresses Balaam directly in the second person."
-    }
-  ],
-  "translation": "U l-ħmara rajjieni u ċediet quddieni — dan, tliet riglin; kieku ma ċedietx minn quddiemni, bħalissa kont il-qtilt ⟨את⟩ lilek ukoll, u lilha ħlajtha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "15965948fcfaa2efa1f43ee695c0edecc771c1ebe5ef4019b6f991216b771c12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/22\/33-36.1792603119417.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-ħmara ratni u niżlet minn quddemi dan tliet drabi; jekk ma kinitx telgħet minn quddemi, bħalissa kont ukoll qtiltek ⟨את⟩ lilhek u ⟨את⟩ lilha ħlajtha ħajja.",
   "tokens": [
     {
       "surface": "ותראני",
-      "gloss": "rajjieni"
+      "gloss": "u ratni"
     },
     {
       "surface": "האתון",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "ותט",
-      "gloss": "u ċediet"
+      "gloss": "u niżlet"
     },
     {
       "surface": "לפני",
-      "gloss": "quddieni"
+      "gloss": "minn quddemi"
     },
     {
       "surface": "זה",
@@ -59,23 +33,23 @@
     },
     {
       "surface": "רגלים",
-      "gloss": "riglin"
+      "gloss": "drabi"
     },
     {
       "surface": "אולי",
-      "gloss": "kieku"
+      "gloss": "jekk le"
     },
     {
       "surface": "נטתה",
-      "gloss": "ma ċedietx"
+      "gloss": "kinitx telgħet"
     },
     {
       "surface": "מפני",
-      "gloss": "minn quddiemni"
+      "gloss": "minn quddemi"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ħażin"
     },
     {
       "surface": "עתה",
@@ -88,22 +62,22 @@
     {
       "surface": "אתכה",
       "gloss": "⟨את⟩",
-      "marks": "lilek"
+      "marks": "lilek (il-mira ta' 'qtiltek')"
     },
     {
       "surface": "הרגתי",
-      "gloss": "kont il-qtilt"
+      "gloss": "qtiltek"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩",
-      "marks": "ilha"
+      "gloss": "u ⟨את⟩",
+      "marks": "ilha (il-mira ta' 'ħlajtha')"
     },
     {
       "surface": "החייתי",
-      "gloss": "ħlajtha"
+      "gloss": "ħlajtha ħajja"
     }
   ],
-  "timestamp": "2026-10-21T17:18:39.419394822Z",
+  "timestamp": "2026-10-22T00:45:40.627929973Z",
   "model": "glm-5.3"
 }

@@ -5,61 +5,35 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨hu⟩",
-      "rationale": "il-Lhudi ma għandux kopula; il-grammatika Maltija teħtieġha"
-    },
-    {
-      "kind": "crux",
-      "subject": "וחטאת עמך",
-      "rationale": "'u niesek dniet' (lettarali, bħal YLT) kontra 'imma t-tnaħħir hu fin-nies tiegħek' (KJV\/JPS) — l-iskrivani jointu l-ħtija fuq in-nagħsa ta' Paraħ"
-    },
-    {
-      "kind": "elision",
-      "subject": "לנו",
-      "rationale": "il-klaws 'lil min qal (לנו) ma għandux bżonn bħala token separat; maħduma ma' qalulna"
-    }
-  ],
-  "translation": "Tiben ma jingħatax lill-ilsiera tiegħek, u tal-brikks qalulna: Agħmlu; u ara, ilsiera tiegħek mħabbta; u d-dnub ⟨hu⟩ tan-nies tiegħek.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/5\/13-16.1792599287495.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Teven mhuwiex mogħti l-ilsiera tiegħek, u għall-briks qegħdin jgħidulna: Agħmlu! U ara, l-ilsiera tiegħek miksuba, u ⟨hu⟩ poplu tiegħek li ħata.",
   "tokens": [
     {
       "surface": "תבן",
-      "gloss": "tiben"
+      "gloss": "teven"
     },
     {
       "surface": "אין",
-      "gloss": "ma... x"
+      "gloss": "mhuwiex"
     },
     {
       "surface": "נתן",
-      "gloss": "jingħatax"
+      "gloss": "mogħti"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "lill-ilsiera tiegħek"
+      "gloss": "l-ilsiera tiegħek"
     },
     {
       "surface": "ולבנים",
-      "gloss": "u tal-brikks"
+      "gloss": "u għall-briks"
     },
     {
       "surface": "אמרים",
-      "gloss": "qalulna"
+      "gloss": "qegħdin jgħidulna"
     },
     {
       "surface": "לנו",
-      "gloss": ""
+      "gloss": "ulna"
     },
     {
       "surface": "עשו",
@@ -67,25 +41,25 @@
     },
     {
       "surface": "והנה",
-      "gloss": "u ara"
+      "gloss": "U ara"
     },
     {
       "surface": "עבדיך",
-      "gloss": "ilsiera tiegħek"
+      "gloss": "l-ilsiera tiegħek"
     },
     {
       "surface": "מכים",
-      "gloss": "mħabbta"
+      "gloss": "miksuba"
     },
     {
       "surface": "וחטאת",
-      "gloss": "u d-dnub"
+      "gloss": "u li ħata"
     },
     {
       "surface": "עמך",
-      "gloss": "tan-nies tiegħek"
+      "gloss": "poplu tiegħek"
     }
   ],
-  "timestamp": "2026-10-21T16:14:47.496205850Z",
+  "timestamp": "2026-10-22T00:15:08.074148855Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,24 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 58,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יום יום",
-      "rationale": "id-doppju 'jum jum' sar 'kuljum' bil-Malti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tsedaqa \/ tsedeq",
-      "rationale": "מedrad skont D2: tsedeq ma jinbidilx għal 'ġustizzja' waħedha"
-    }
-  ],
-  "translation": "U ⟨את⟩ jittlubuni kuljum, u l-għarfien tat-toroq tiegħi jixtiequh, bħal nazzjon li għamel tsedaqa u l-ġudizzju ta' Elohim tiegħu ma abbandunax; jistaqsuni dwar il-ġudizzji tas-tsedeq, li jqorbu lejn Elohim jixtiequh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/58\/1-4.1792612103090.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ lili jum wara jum jiftxuni, u l-għarfien tat-toroq tiegħi jixtiquh; bħal ġens li għamel tsedaqah u li ma abbandunax id-dritt ta' Elohim tiegħu — jistaqsuni ġudizzji ta' tsedeq, in-qerb ta' Elohim jixtiquh.",
   "tokens": [
     {
       "surface": "ואותי",
-      "gloss": "u ⟨את⟩",
-      "marks": "lili (jittlubuni)"
+      "gloss": "⟨את⟩ lili",
+      "marks": "jum wara jum — l-objett huma \"jiena\" (suffiss ta' l-ewwel persuna fuq l-aleph-tav)"
     },
     {
       "surface": "יום",
-      "gloss": "kuljum"
+      "gloss": "jum"
     },
     {
       "surface": "יום",
-      "gloss": ""
+      "gloss": "jum"
     },
     {
       "surface": "ידרשון",
-      "gloss": "jittlubuni"
+      "gloss": "jiftxuni"
     },
     {
       "surface": "ודעת",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "יחפצון",
-      "gloss": "jixtiequh"
+      "gloss": "jixtiquh"
     },
     {
       "surface": "כגוי",
-      "gloss": "bħal nazzjon"
+      "gloss": "bħal ġens"
     },
     {
       "surface": "אשר",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "צדקה",
-      "gloss": "tsedaqa"
+      "gloss": "tsedaqah"
     },
     {
       "surface": "עשה",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ומשפט",
-      "gloss": "u l-ġudizzju"
+      "gloss": "u d-dritt"
     },
     {
       "surface": "אלהיו",
@@ -95,25 +74,25 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "dwar il-ġudizzji"
+      "gloss": "ġudizzji"
     },
     {
       "surface": "צדק",
-      "gloss": "tas-tsedeq"
+      "gloss": "ta' tsedeq"
     },
     {
       "surface": "קרבת",
-      "gloss": "li jqorbu"
+      "gloss": "in-qerb"
     },
     {
       "surface": "אלהים",
-      "gloss": "lejn Elohim"
+      "gloss": "ta' Elohim"
     },
     {
       "surface": "יחפצון",
-      "gloss": "jixtiequh"
+      "gloss": "jixtiquh"
     }
   ],
-  "timestamp": "2026-10-21T19:48:23.090807343Z",
+  "timestamp": "2026-10-22T00:27:00.943946395Z",
   "model": "glm-5.3"
 }

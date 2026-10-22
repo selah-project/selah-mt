@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "għax",
-      "rationale": "il-waw ġej mill-verb qal; il-Malti jeħtieġ konjuzzjoni."
-    }
-  ],
-  "translation": "U Sawl ram ⟨את⟩ il-lanca, għax qal: Se nilħaq lil David mal-ħajt; u David ż Armed wiċċu minn quddiemu, darbtejn.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9cbcbd1c84569f80b6e0663f5ac2250682273701ea7a4fdef6542f485ccafa35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/18\/9-12.1792608072701.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Sawl tella' ⟨את⟩ il-lanza u qal: Nħabb lil David u fit-ħajt. U David dawwar wiċċu minn quddiemu darbtejn.",
   "tokens": [
     {
       "surface": "ויטל",
-      "gloss": "u ram"
+      "gloss": "tella'"
     },
     {
       "surface": "שאול",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-lanca"
+      "marks": "il-lanza"
     },
     {
       "surface": "החנית",
-      "gloss": "il-lanca"
+      "gloss": "il-lanza"
     },
     {
       "surface": "ויאמר",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "אכה",
-      "gloss": "se nilħaq"
+      "gloss": "nħabb"
     },
     {
       "surface": "בדוד",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "ובקיר",
-      "gloss": "mal-ħajt"
+      "gloss": "u fit-ħajt"
     },
     {
       "surface": "ויסב",
-      "gloss": "u dawwar"
+      "gloss": "dawwar wiċċu"
     },
     {
       "surface": "דוד",
@@ -66,13 +50,13 @@
     },
     {
       "surface": "מפניו",
-      "gloss": "wiċċu minn quddiemu"
+      "gloss": "minn quddiemu"
     },
     {
       "surface": "פעמים",
       "gloss": "darbtejn"
     }
   ],
-  "timestamp": "2026-10-21T18:41:12.702512938Z",
+  "timestamp": "2026-10-21T23:59:21.598220575Z",
   "model": "glm-5.3"
 }

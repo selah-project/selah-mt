@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צרעת",
-      "rationale": "Hawn saraʿat tistrieħ fuq libas, mhux bniedem — ħafna jtraduċu 'moffa' jew 'faqqiegħ'; żomm il-kelma waħda għax l-istess kelma tgħaddi mill-ġilda, id-dar u l-libas."
-    },
-    {
-      "kind": "elision",
-      "subject": "כל",
-      "rationale": "Il-Lhudi m'għandux 'xi' — 'jekk ikun fih nega' huwa l-ewwel każ ta' sens."
-    }
-  ],
-  "translation": "U l-libas, jekk ikun fih nega ta' saraʿat, f'libas ta' suf jew f'libas ta' ktan,",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/13\/45-48.1792600830103.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-lbies meta jkun fih negħ ta' tsaraat, f'lbies ta' suf jew f'lbies ta' ktan,",
   "tokens": [
     {
       "surface": "והבגד",
-      "gloss": "U l-libas"
+      "gloss": "U l-lbies"
     },
     {
       "surface": "כי",
-      "gloss": "jekk"
+      "gloss": "meta"
     },
     {
       "surface": "יהיה",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "נגע",
-      "gloss": "nega"
+      "gloss": "negħ"
     },
     {
       "surface": "צרעת",
-      "gloss": "saraʿat"
+      "gloss": "tsaraat"
     },
     {
       "surface": "בבגד",
-      "gloss": "f'libas"
+      "gloss": "f'lbies"
     },
     {
       "surface": "צמר",
-      "gloss": "suf"
+      "gloss": "ta' suf"
     },
     {
       "surface": "או",
@@ -66,13 +45,13 @@
     },
     {
       "surface": "בבגד",
-      "gloss": "f'libas"
+      "gloss": "f'lbies"
     },
     {
       "surface": "פשתים",
-      "gloss": "ktan"
+      "gloss": "ta' ktan"
     }
   ],
-  "timestamp": "2026-10-21T16:40:30.103935829Z",
+  "timestamp": "2026-10-22T00:39:39.533458013Z",
   "model": "glm-5.3"
 }

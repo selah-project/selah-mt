@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בתר\/בתרו\/בתוך",
-      "rationale": "għerq בתר jiddendlu tlett darbiet — qattagħ, biċċa, fin-nofs — il-ħoss tar-rimanenza tal-annimal maqtugħ."
-    },
-    {
-      "kind": "crux",
-      "subject": "הצפר",
-      "rationale": "singular 'l-għasafar' kontra l-plural tal-verżjonijiet — iż-żewġ għasafar (v. 9) imma l-Lhudi jgħid singular."
-    }
-  ],
-  "translation": "U ħa lilu ⟨את⟩ dawn kollha, u qattagħhom fin-nofs, u poġġa kull biċċa quddiem sieħtha; iżda ⟨l-⟩għasafar ma qattagħhomx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/15\/9-12.1792602177253.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħa għalih ⟨את⟩ dawn kollha, u qatagħhom min-nofs, u poġġa kull biċċa quddiem sħabha; iżda ⟨את⟩ l-għasafar ma qatagħhomx.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "U ħa"
+      "gloss": "u ħa"
     },
     {
       "surface": "לו",
-      "gloss": "lilu"
+      "gloss": "għalih"
     },
     {
       "surface": "את",
@@ -51,15 +30,16 @@
     },
     {
       "surface": "ויבתר",
-      "gloss": "u qattagħ"
+      "gloss": "u qatagħhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨אתם⟩",
+      "marks": "min-nofs"
     },
     {
       "surface": "בתוך",
-      "gloss": "fin-nofs"
+      "gloss": "min-nofs"
     },
     {
       "surface": "ויתן",
@@ -79,7 +59,7 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "sieħtha"
+      "gloss": "sħabha"
     },
     {
       "surface": "ואת",
@@ -92,13 +72,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma... x"
+      "gloss": "ma"
     },
     {
       "surface": "בתר",
-      "gloss": "qattagħ"
+      "gloss": "qatagħhomx"
     }
   ],
-  "timestamp": "2026-10-21T17:02:57.255665385Z",
+  "timestamp": "2026-10-22T00:20:38.819317503Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מר ... מר",
-      "rationale": "Għasdiet fuq mar\/marar — l-imrar (sostantiv) u 'kien imrar' (verb) — ttardjat bil-Malti b'rakont doppju tal-istess għerq."
-    },
-    {
-      "kind": "crux",
-      "subject": "לשלום",
-      "rationale": "'Għall-paċi' (KJV\/JPS) kontra 'hu biddel għalija l-imrar għal paċi' (YLT); jien għażilt l-ewwel."
-    },
-    {
-      "kind": "substitution",
-      "subject": "משחת בלי",
-      "rationale": "Foss ta' qerda\/beltà — il-foss ta' qerda, bil-ħoss ta' balit (ħażin) mill-għerq ta' בלי."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אחרי גוך",
-      "rationale": "'Wara dahr tiegħek' — idjomm Lhudi għal tħassir sħiħ, miżmum bil-Malti."
-    }
-  ],
-  "translation": "Ara, għall-paċi l-imrar kien imrar għalija; u inti ħlejt lill-ruwaħ tiegħi milli tinqered, għax inti remmejt wara dahrek il-ħtietija kollha tiegħi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/38\/17-20.1792611680178.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ara, għas-sliem kien għalija imrar ta' imrar; u int ħlejt b'imħabbtek ⟨lil⟩ ruħi mill-fossa tal-qerda, għax inti rmiet wara dahrek il-ħtijiet kollha tiegħi.",
   "tokens": [
     {
       "surface": "הנה",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "לשלום",
-      "gloss": "għall-paċi"
+      "gloss": "għas-sliem"
     },
     {
       "surface": "מר",
-      "gloss": "l-imrar"
+      "gloss": "imrar"
     },
     {
       "surface": "לי",
@@ -60,23 +29,23 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "u inti"
+      "gloss": "u int"
     },
     {
       "surface": "חשקת",
-      "gloss": "ħlejt"
+      "gloss": "ħlejt b'imħabbtek"
     },
     {
       "surface": "נפשי",
-      "gloss": "lill-ruwaħ tiegħi"
+      "gloss": "ruħi"
     },
     {
       "surface": "משחת",
-      "gloss": "milli tinqered"
+      "gloss": "mill-fossa"
     },
     {
       "surface": "בלי",
-      "gloss": ""
+      "gloss": "tal-qerda"
     },
     {
       "surface": "כי",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "השלכת",
-      "gloss": "remmejt"
+      "gloss": "rmiet"
     },
     {
       "surface": "אחרי",
@@ -96,13 +65,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "il-... kollha"
+      "gloss": "il-kollha"
     },
     {
       "surface": "חטאי",
-      "gloss": "ħtietija tiegħi"
+      "gloss": "ħtijiet tiegħi"
     }
   ],
-  "timestamp": "2026-10-21T19:41:20.178742246Z",
+  "timestamp": "2026-10-22T00:25:52.237701754Z",
   "model": "glm-5.3"
 }

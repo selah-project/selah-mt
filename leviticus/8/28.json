@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "olà",
-      "rationale": "העלה 'dak li jitla'', l-offerita maħruqa kollha — l-olà"
-    },
-    {
-      "kind": "substitution",
-      "subject": "milwim",
-      "rationale": "מלאים l-plural ta' milu 'l-impliment, l-ordenazzjoni' — l-offeriti tal-ordenazzjoni"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jagħtif in-nar",
-      "rationale": "אשה litteralment 'il-frott tan-nar', offerta maħruqa bin-nar"
-    }
-  ],
-  "translation": "U Moxe ħahom minn fuq idejthom, u kebbenhom fuq l-artal fuq l-olà — milwim huma, għal riħa niefa, jagħtif in-nar huwa lil Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6ff5f65ea8bb5795826c1a2c9c0de16af3260f245ba03e6813645c7fe72ed9cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/25-28.1792600708996.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe ħadhom ⟨את⟩ minn fuq il-palmej tagħhom, u ħarqhom fuq l-artal fuq l-olja: kienu milwim għal riħ ta' mtiem pjacent, ikkunsumat bin-nar ⟨hu⟩ għal Jaħwe.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -43,7 +17,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "minn fuq il-palmej tagħhom"
     },
     {
       "surface": "מעל",
@@ -51,15 +26,15 @@
     },
     {
       "surface": "כפיהם",
-      "gloss": "idejthom"
+      "gloss": "il-palmej tagħhom"
     },
     {
       "surface": "ויקטר",
-      "gloss": "u kebbenhom"
+      "gloss": "u ħarqhom"
     },
     {
       "surface": "המזבחה",
-      "gloss": "l-artal"
+      "gloss": "fuq l-artal"
     },
     {
       "surface": "על",
@@ -67,37 +42,37 @@
     },
     {
       "surface": "העלה",
-      "gloss": "l-olà"
+      "gloss": "l-olja"
     },
     {
       "surface": "מלאים",
-      "gloss": "milwim"
+      "gloss": "kienu milwim"
     },
     {
       "surface": "הם",
-      "gloss": "huma"
+      "gloss": "kienu"
     },
     {
       "surface": "לריח",
-      "gloss": "għal riħa"
+      "gloss": "għal riħ"
     },
     {
       "surface": "ניחח",
-      "gloss": "niefa"
+      "gloss": "ta' mtiem pjacent"
     },
     {
       "surface": "אשה",
-      "gloss": "jagħtif in-nar"
+      "gloss": "ikkunsumat bin-nar"
     },
     {
       "surface": "הוא",
-      "gloss": "huwa"
+      "gloss": "hu"
     },
     {
       "surface": "ליהוה",
-      "gloss": "lil Jaħwe"
+      "gloss": "għal Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T16:38:28.999434548Z",
+  "timestamp": "2026-10-22T00:42:52.041878344Z",
   "model": "glm-5.3"
 }

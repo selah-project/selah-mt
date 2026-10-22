@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mhux qaddis",
-      "rationale": "טמא mhuwiex 'nidifikat' biss — hu d-Djalettn Oppost ta' qaddis; 'mhux qaddis' jżomm il-par tal-qedusija."
-    },
-    {
-      "kind": "substitution",
-      "subject": "rġiem ta' Żerʿ",
-      "rationale": "שכבת זרע 'il-mixja taż-żerż' — Kelma Semitika qrib ta' 'żerż\/ilma raġel'."
-    }
-  ],
-  "translation": "U raġel jekk toħroġ minnu rġiem ta' Żerʿ, jaħsel fl-ilma ⟨את⟩ ġismu kollu u jkunni mhux qaddis sal-milja.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/13-16.1792600938243.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U raġel meta joħroġ minnu żerriegħa ta' għerq, jaħsel fl-ilma ⟨את⟩ laħmu kollu, u jkun maħruq sal filgħaxija.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "jekk"
+      "gloss": "meta"
     },
     {
       "surface": "תצא",
-      "gloss": "toħroġ"
+      "gloss": "joħroġ"
     },
     {
       "surface": "ממנו",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "שכבת",
-      "gloss": "rġiem ta'"
+      "gloss": "ta' għerq"
     },
     {
       "surface": "זרע",
-      "gloss": "Żerʿ"
+      "gloss": "żerriegħa"
     },
     {
       "surface": "ורחץ",
@@ -63,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ġismu kollu"
+      "marks": "laħmu kollu"
     },
     {
       "surface": "כל",
@@ -71,21 +50,21 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "ġismu"
+      "gloss": "laħmu"
     },
     {
       "surface": "וטמא",
-      "gloss": "jkunni mhux qaddis"
+      "gloss": "jkun maħruq"
     },
     {
       "surface": "עד",
-      "gloss": "sal-"
+      "gloss": "sal"
     },
     {
       "surface": "הערב",
-      "gloss": "milja"
+      "gloss": "filgħaxija"
     }
   ],
-  "timestamp": "2026-10-21T16:42:18.244489699Z",
+  "timestamp": "2026-10-22T00:40:01.156691665Z",
   "model": "glm-5.3"
 }

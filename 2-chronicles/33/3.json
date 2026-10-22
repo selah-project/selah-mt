@@ -5,33 +5,11 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "gloss-nope": "",
-      "rationale": "L-alef-tav ta' wara ויעבד inżejel bħala suffiss pronunja — għalhekk il-glossa ġiet miċċifra ⟨lilha⟩ skont il-kontext."
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-ħażna tas-sema",
-      "rationale": "צבא השמים: il-ħażna (l-armata) tas-sema, mhux 'l-angli' jew 'il-plejades'."
-    }
-  ],
-  "translation": "U raġa' lura u bena ⟨את⟩ l-għoljiet li kisru Ħizqijahū missieru, u waqqaf altarji lill-Baʿalim, u għamel xerti ta' Ashera, u nxteħet quddiem il-ħażna sħaħ tas-sema, u qeddis lilha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f4a55bf8309dca614ef373190eb333db3b48c0a55ae2b93d0d1f6876fe7337e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/33\/1-4.1792622964493.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U huwa reġa' għadda u bena ⟨את⟩ l-imbmegħla li kien waqqa' Ħizqijahu missieru, u qawwa altars lil Baal-im, u għamel oħra tal-Axera, u xtered ix-xatt għal kollha kemm hi s-seba' tas-sema, u qabilhom jitqiegħed quddiemom.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "u raġa' lura"
+      "gloss": "reġa' għadda"
     },
     {
       "surface": "ויבן",
@@ -40,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-għoljiet"
+      "marks": "l-imbmegħla"
     },
     {
       "surface": "הבמות",
-      "gloss": "l-għoljiet"
+      "gloss": "l-imbmegħla"
     },
     {
       "surface": "אשר",
@@ -52,27 +30,27 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "kisru"
+      "gloss": "kien waqqa'"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Ħizqijahū"
+      "gloss": "Ħizqijahu"
     },
     {
       "surface": "אביו",
-      "gloss": "missiru"
+      "gloss": "missieru"
     },
     {
       "surface": "ויקם",
-      "gloss": "u waqqaf"
+      "gloss": "u qawwa"
     },
     {
       "surface": "מזבחות",
-      "gloss": "altarji"
+      "gloss": "altars"
     },
     {
       "surface": "לבעלים",
-      "gloss": "lill-Baʿalim"
+      "gloss": "lil Baal-im"
     },
     {
       "surface": "ויעש",
@@ -80,19 +58,19 @@
     },
     {
       "surface": "אשרות",
-      "gloss": "xerti ta' Ashera"
+      "gloss": "oħra tal-Axera"
     },
     {
       "surface": "וישתחו",
-      "gloss": "u nxteħet"
+      "gloss": "u xtered ix-xatt"
     },
     {
       "surface": "לכל",
-      "gloss": "quddiem il-ħażna sħaħ ta'"
+      "gloss": "għal kollha kemm hi"
     },
     {
       "surface": "צבא",
-      "gloss": "ħażna"
+      "gloss": "s-seba'"
     },
     {
       "surface": "השמים",
@@ -100,13 +78,14 @@
     },
     {
       "surface": "ויעבד",
-      "gloss": "u qaddej lilha"
+      "gloss": "u qabilhom jitqiegħed quddiemom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨lilha⟩"
+      "gloss": "⟨את⟩",
+      "marks": "quddiemom (il-Baal-im u s-seba' tas-sema)"
     }
   ],
-  "timestamp": "2026-10-21T22:49:24.494444895Z",
+  "timestamp": "2026-10-22T00:02:20.066438823Z",
   "model": "glm-5.3"
 }

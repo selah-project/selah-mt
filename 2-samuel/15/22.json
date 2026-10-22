@@ -5,27 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tfal żgħar",
-      "rationale": "הטף 'it-tfal żgħar \/ id-dipendenti tal-familja', kelma kollettiva; xi traduzzjonijiet 'l-iżviluppati' jew 'il-mara u t-tfal'."
-    }
-  ],
-  "translation": "U David qal lil Intaj: Mur u aqbeż. U Intaj il-Gittit aqbeż, u kulma kien hemm minn irġielu, u t-tfal żgħar kollha li kienu ⟨miegħu⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/15\/21-24.1792608863745.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David qal lil Ittaj: Emmorra u aqbeż. U Ittaj il-Gittit qabeż, u l-irġiel kollha tiegħu, u t-tfal żgħar kollha li kienu miegħu ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "דוד",
@@ -37,23 +21,23 @@
     },
     {
       "surface": "אתי",
-      "gloss": "Intaj"
+      "gloss": "Ittaj"
     },
     {
       "surface": "לך",
-      "gloss": "Mur"
+      "gloss": "emmorra"
     },
     {
-      "surface": "ועבור",
+      "surface": "ועבר",
       "gloss": "u aqbeż"
     },
     {
       "surface": "ויעבר",
-      "gloss": "aqbeż"
+      "gloss": "u qabeż"
     },
     {
       "surface": "אתי",
-      "gloss": "Intaj"
+      "gloss": "Ittaj"
     },
     {
       "surface": "הגתי",
@@ -61,11 +45,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u kulma kien hemm minn"
+      "gloss": "u kollha"
     },
     {
       "surface": "אנשיו",
-      "gloss": "irġielu"
+      "gloss": "l-irġiel tiegħu"
     },
     {
       "surface": "וכל",
@@ -81,9 +65,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩ miegħu",
+      "marks": "Ittaj u d-dar tiegħu"
     }
   ],
-  "timestamp": "2026-10-21T18:54:23.747008754Z",
+  "timestamp": "2026-10-22T00:05:58.219938938Z",
   "model": "glm-5.3"
 }

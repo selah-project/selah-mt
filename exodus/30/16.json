@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הכפרים \/ לכפר",
-      "rationale": "Għerq wieħed כפר jidher darbtejn: il-flus tal-kixif u l-qtugħ għalihom — l-istess kelma tixhed rabta sħiħa bejn il-ħlas u l-għan tiegħu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħajjietkom",
-      "rationale": "נפש hija n-nifs-ħajja, mhux ruħ astratta."
-    },
-    {
-      "kind": "substitution",
-      "subject": "מאת",
-      "rationale": "Hawnhekk מאת hija prepożizzjoni (minn għand), mhux il-marka את tal-oġġett — iżda żżomm il-⟨את⟩ skont ir-regola."
-    }
-  ],
-  "translation": "U tieħu ⟨את⟩ il-flus tal-fidwa minn għand wlied Jisrael, u tagħtih għall-ħidma tat-Tenda tal-Laqgħa; u jkun għal wlied Jisrael tfakkira quddiem Jaħwe, biex ifeddu għal ħajjietkom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/30\/13-16.1792600078233.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tieħu ⟨את⟩ il-flus tal-kipurim minn għand ⟨את⟩ wlied Jisrael, u tagħti ⟨את⟩lu għall-ħidma tat-tinda tal-laqgħa; u jkun għal wlied Jisrael għal rimembranza quddiem Jaħwe, biex jagħmel kippur fuq l-infus tagħkom.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -40,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-flus tal-fidwa"
+      "marks": "il-flus tal-kipurim"
     },
     {
       "surface": "כסף",
@@ -48,11 +22,11 @@
     },
     {
       "surface": "הכפרים",
-      "gloss": "tal-fidwa"
+      "gloss": "tal-kipurim"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ minn għand",
+      "gloss": "minn għand ⟨את⟩",
       "marks": "wlied Jisrael"
     },
     {
@@ -65,11 +39,12 @@
     },
     {
       "surface": "ונתת",
-      "gloss": "u tagħtih"
+      "gloss": "u tagħti"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lit"
+      "gloss": "⟨את⟩lu",
+      "marks": "il-flus tal-kipurim (il- suffiss -lu)"
     },
     {
       "surface": "על",
@@ -81,11 +56,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "tat-Tenda"
+      "gloss": "tat-tinda"
     },
     {
       "surface": "מועד",
-      "gloss": "tal-Laqgħa"
+      "gloss": "tal-laqgħa"
     },
     {
       "surface": "והיה",
@@ -101,7 +76,7 @@
     },
     {
       "surface": "לזכרון",
-      "gloss": "tfakkira"
+      "gloss": "għal rimembranza"
     },
     {
       "surface": "לפני",
@@ -113,17 +88,17 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "biex ifeddu"
+      "gloss": "biex jagħmel kippur"
     },
     {
       "surface": "על",
-      "gloss": "għal"
+      "gloss": "fuq"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "ħajjietkom"
+      "gloss": "l-infus tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T16:27:58.234557817Z",
+  "timestamp": "2026-10-22T00:14:00.463025274Z",
   "model": "glm-5.3"
 }

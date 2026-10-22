@@ -5,37 +5,15 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "tella' idu",
-      "rationale": "נשא יד = to lift the hand, oath gesture; LXX\/ASV read 'he swore'",
-      "subject_detail": ""
-    },
-    {
-      "kind": "crux",
-      "subject": "להם",
-      "rationale": "literally 'to them'; rendered 'kontrihom' (against them) from context"
-    }
-  ],
-  "translation": "Għalhekk tella' ⟨idu⟩ kontrihom, biex jaqqgħuhom fid-deżert.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/106\/25-28.1792617903555.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għalhekk tella' ⟨lil⟩ idejh kontrihom, biex iġġidhom fid-deżert.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "tella'"
+      "gloss": "tella' idejh"
     },
     {
       "surface": "ידו",
-      "gloss": "idu"
+      "gloss": "idejh"
     },
     {
       "surface": "להם",
@@ -43,18 +21,17 @@
     },
     {
       "surface": "להפיל",
-      "gloss": "biex jaqqgħuhom"
+      "gloss": "biex iġġidhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "fid-deżert"
+      "gloss": "⟨את⟩ lilhom"
     },
     {
       "surface": "במדבר",
       "gloss": "fid-deżert"
     }
   ],
-  "timestamp": "2026-10-21T21:25:03.556591576Z",
+  "timestamp": "2026-10-22T00:48:40.713617100Z",
   "model": "glm-5.3"
 }

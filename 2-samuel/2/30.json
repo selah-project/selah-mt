@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ועשה אל",
-      "rationale": "Lhudi għandu 'u Asaħel' biss, bla 'barra minn' — in-numru 19 ma jinkludix lil Asaħel skond l-istruttura."
-    },
-    {
-      "kind": "measurement",
-      "subject": "counting",
-      "rationale": "L-għadd tal-mejtin — dsatax raġel u Asaħel — verż li jgħodd."
-    },
-    {
-      "kind": "crux",
-      "subject": "dsatax raġel u Asaħel",
-      "rationale": "Jekk Asaħel żejjed fuq id-dsatax jew inkluż fihom — VER private verses jaqblu li Asaħel għad fuq il-għadd."
-    }
-  ],
-  "translation": "U Joab reġa' lura minn wara Avner, u ġabar ⟨את⟩ kul in-nies, u kienu nieqsa minn fost il-ħaddiema ta' David dsatax-il raġel, u Asaħel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/2\/29-32.1792608571011.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joab reġa' lura minn wara Abner, u ġabar ⟨את⟩ in-nies kollha; u meta għaddew, minn jaqdu lil David kien hemm nieqes dsatax raġel, u Asaħel.",
   "tokens": [
     {
       "surface": "ויואב",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Avner"
+      "gloss": "Abner"
     },
     {
       "surface": "ויקבץ",
@@ -56,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kul in-nies"
+      "marks": "in-nies kollha"
     },
     {
       "surface": "כל",
-      "gloss": "kul"
+      "gloss": "kollha"
     },
     {
       "surface": "העם",
@@ -68,23 +42,23 @@
     },
     {
       "surface": "ויפקדו",
-      "gloss": "u ġew magħdudin"
+      "gloss": "u meta għaddew"
     },
     {
       "surface": "מעבדי",
-      "gloss": "minn fost il-ħaddiema"
+      "gloss": "minn jaqdu"
     },
     {
       "surface": "דוד",
-      "gloss": "ta' David"
+      "gloss": "lil David"
     },
     {
       "surface": "תשעה",
-      "gloss": "dsatax"
+      "gloss": "disa'"
     },
     {
       "surface": "עשר",
-      "gloss": "-il"
+      "gloss": "bi tnax"
     },
     {
       "surface": "איש",
@@ -96,9 +70,9 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "El"
     }
   ],
-  "timestamp": "2026-10-21T18:49:31.012134708Z",
+  "timestamp": "2026-10-22T00:06:40.989689771Z",
   "model": "glm-5.3"
 }

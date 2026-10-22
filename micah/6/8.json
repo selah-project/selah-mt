@@ -5,50 +5,19 @@
   "book": "micah",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħtajjir",
-      "rationale": "והצנע huwa verbu, 'tagħmel ruħek żgħir'; rendut bħala mod bil-Malti għax m'hemmx verbu wieħed"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "żewġ partikli flimkien; 'im' tħalliet barra għax 'ħlief li' juża biss wiehed"
-    },
-    {
-      "kind": "you",
-      "subject": "ajk ħolqien",
-      "rationale": "appell dirett lil ħolqien il-bniedem bħala wieħed"
-    },
-    {
-      "kind": "crux",
-      "subject": "ajk ħolqien",
-      "rationale": "אדם: 'bniedem' vs 'adam' (isem); hawn appell ġeneriku"
-    }
-  ],
-  "translation": "Ħabbarlek, ajk ħolqien, x'inhu t-tajjeb; u x'Jaħwe ifittex mingħandek: ħlief li tagħmel ġudizzju, u tħobb ħesed, u timxi bil-ħtajjir ⟨ma'⟩ Elohim tiegħek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f8d15d2ba440ec69335b826d15119e17dc13d37a4e9e8851d1251dc8e7816d04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/micah\/6\/8-8.1792623728091.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ġarrbu, ja bniedem, x'inhu t-tajjeb, u x'Jaħwe jitlob mingħandek: ħa tagħmel ġudizzju, u tħobb ħesed, u timxi bil-ħlies mal-Elohim tiegħek.",
   "tokens": [
     {
       "surface": "הגיד",
-      "gloss": "ħabbarlek"
+      "gloss": "Ġarrbu"
     },
     {
       "surface": "לך",
-      "gloss": "lek"
+      "gloss": "ja"
     },
     {
       "surface": "אדם",
-      "gloss": "ajk ħolqien"
+      "gloss": "bniedem"
     },
     {
       "surface": "מה",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "דורש",
-      "gloss": "ifittex"
+      "gloss": "jitlob"
     },
     {
       "surface": "ממך",
@@ -76,11 +45,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ħlief li"
+      "gloss": ""
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ħa"
     },
     {
       "surface": "עשות",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "והצנע",
-      "gloss": "bil-ħtajjir"
+      "gloss": "bil-ħlies"
     },
     {
       "surface": "לכת",
@@ -108,13 +77,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "⟨ma'⟩"
+      "gloss": "mal-"
     },
     {
       "surface": "אלהיך",
       "gloss": "Elohim tiegħek"
     }
   ],
-  "timestamp": "2026-10-21T23:02:08.092341778Z",
+  "timestamp": "2026-10-22T00:43:23.097619446Z",
   "model": "glm-5.3"
 }

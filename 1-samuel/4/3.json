@@ -5,57 +5,31 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וישענו",
-      "rationale": "min ifissles — it-tabut (huwa) jew Ġaħwe (Hu)? l-għanja f'semmiethom"
-    },
-    {
-      "kind": "substitution",
-      "subject": "pala",
-      "rationale": "כף hija l-idejn b'kunċav — 'il-pala tal-idejn' miżjuda fis-semantika"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נגפנו",
-      "rationale": "l-istess għerq ta' וינגף fil-vers 2 — Ġaħwe li 'jħabat' huwa għerq l-istess verb tar-rebħa"
-    }
-  ],
-  "translation": "U l-poplu daħal fil-kamp, u xjuħ Jisrael qalu: Għaliex Ġaħwe ħbatna llum quddiem il-Pelixtin? Ħu għandna minn Silo ⟨את⟩ it-tabut tal-patt ta' Ġaħwe, u ġi fin-nofs tagħna, u jaħlisna mill-pala tal-għedewwa tagħna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/4\/1-4.1792607727235.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġie in-nies għall-immerċ, u qalu x-xiħa ta' Jisrael: Għaliex ħażinna lil Jaħwe llum quddiem il-Plixtin? Ħa lil ⟨את⟩ it-tebut tal-patt ta' Jaħwe minn Silo għandna, u ġejja fostna, u jsalvanna minn id l-għedewwa tagħna.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "u daħal"
+      "gloss": "ġie"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "אל",
-      "gloss": "f'"
+      "gloss": "għall-"
     },
     {
       "surface": "המחנה",
-      "gloss": "il-kamp"
+      "gloss": "immerċ"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "u qalu"
+      "gloss": "qalu"
     },
     {
       "surface": "זקני",
-      "gloss": "xjuħ"
+      "gloss": "xiħa"
     },
     {
       "surface": "ישראל",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "נגפנו",
-      "gloss": "ħbatna"
+      "gloss": "ħażinna"
     },
     {
       "surface": "יהוה",
-      "gloss": "Ġaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "היום",
-      "gloss": "illum"
+      "gloss": "llum"
     },
     {
       "surface": "לפני",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "il-Pelixtin"
+      "gloss": "il-Plixtin"
     },
     {
       "surface": "נקחה",
-      "gloss": "Ħu"
+      "gloss": "Ħa"
     },
     {
       "surface": "אלינו",
@@ -100,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tabut"
+      "marks": "it-tebut"
     },
     {
       "surface": "ארון",
-      "gloss": "it-tabut"
+      "gloss": "it-tebut"
     },
     {
       "surface": "ברית",
@@ -112,29 +86,29 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Ġaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "ויבא",
-      "gloss": "u ġi"
+      "gloss": "ġejja"
     },
     {
       "surface": "בקרבנו",
-      "gloss": "fin-nofs tagħna"
+      "gloss": "fostna"
     },
     {
       "surface": "וישענו",
-      "gloss": "u jaħlisna"
+      "gloss": "jsalvanna"
     },
     {
       "surface": "מכף",
-      "gloss": "mill-pala"
+      "gloss": "minn id"
     },
     {
       "surface": "איבינו",
-      "gloss": "tal-għedewwa tagħna"
+      "gloss": "l-għedewwa tagħna"
     }
   ],
-  "timestamp": "2026-10-21T18:35:27.236477361Z",
+  "timestamp": "2026-10-22T00:00:19.853269833Z",
   "model": "glm-5.3"
 }

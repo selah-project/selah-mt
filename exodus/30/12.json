@@ -5,56 +5,20 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "tqum ras",
-      "rationale": "נשא את ראש litteralment 'tgħolli ras' — idjoma għaċ-ċensiment"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kopra",
-      "rationale": "כפר 'għattija, rkupru' — minn żewġiet waħda"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruħu",
-      "rationale": "נפש 'nifs, ħajja' — mhux ruħ imma l-ħajja tan-nifs"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ċensiment",
-      "rationale": "il-vers jordna l-għadd tal-Ġnien ta' Jisrael b'rkupru għal kull ras"
-    },
-    {
-      "kind": "elision",
-      "subject": "נגף",
-      "gloss": "litteralment 'xabla tal-qadames', figurattivament sarra; il-Malti jżomm iż-żewġ kellma"
-    }
-  ],
-  "translation": "Meta tqum ⟨את⟩ ras il-ġnien ta' Jisrael għal ċensimenthom, u jagħtu kull raġel kopra għal ruħu lil Jaħwe meta tiġborhom; u ma jkunx fihom uċuħ ta' nmumenti meta tiġborhom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/30\/9-12.1792599995987.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Meta titla' ⟨את⟩ ras wlied Jisrael biex jingħaddu, u jagħti kull raġel koper għal ruħu lil Jaħwe meta jingħaddu ⟨את⟩ lilhom, u ma jkunx hemm nagħfa fosthom meta jingħaddu ⟨את⟩ lilhom.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "meta"
+      "gloss": "Meta"
     },
     {
       "surface": "תשא",
-      "gloss": "tqum"
+      "gloss": "titla'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ras il-ġnien ta' Jisrael"
+      "marks": "ras wlied Jisrael"
     },
     {
       "surface": "ראש",
@@ -62,7 +26,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "il-ġnien"
+      "gloss": "wlied"
     },
     {
       "surface": "ישראל",
@@ -70,11 +34,11 @@
     },
     {
       "surface": "לפקדיהם",
-      "gloss": "għal ċensimenthom"
+      "gloss": "biex jingħaddu"
     },
     {
       "surface": "ונתנו",
-      "gloss": "u jagħtu"
+      "gloss": "u jagħti"
     },
     {
       "surface": "איש",
@@ -82,7 +46,7 @@
     },
     {
       "surface": "כפר",
-      "gloss": "kopra"
+      "gloss": "koper"
     },
     {
       "surface": "נפשו",
@@ -94,11 +58,12 @@
     },
     {
       "surface": "בפקד",
-      "gloss": "meta tiġbor"
+      "gloss": "meta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
     },
     {
       "surface": "ולא",
@@ -110,21 +75,22 @@
     },
     {
       "surface": "בהם",
-      "gloss": "fihom"
+      "gloss": "fosthom"
     },
     {
       "surface": "נגף",
-      "gloss": "uċuħ ta' nmumenti"
+      "gloss": "nagħfa"
     },
     {
       "surface": "בפקד",
-      "gloss": "meta tiġbor"
+      "gloss": "meta jingħaddu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
     }
   ],
-  "timestamp": "2026-10-21T16:26:35.989455552Z",
+  "timestamp": "2026-10-22T00:13:38.192400490Z",
   "model": "glm-5.3"
 }

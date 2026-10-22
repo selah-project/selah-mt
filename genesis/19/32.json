@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נשקה",
-      "rationale": "għerq שקה tfisser 'tixrob\/saqqa'; 'nagħtux nixorbu' żżomm il-każattiv tal-Lhudi"
-    },
-    {
-      "kind": "invitation",
-      "subject": "לכה",
-      "rationale": "l-ewwel kelma hija sejħa diretta mill-kbira għas-sabiħa, 'Ejja'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "זרע",
-      "rationale": "'żerriegħa' tfisser żerriegħa\/nisel — il-kelma Lhudija tinżomm metafora agrikola"
-    }
-  ],
-  "translation": "Ejja, nagħtux lill-missieriena nixorbu inbid, u норкорму ma' hu, u nżommu minn missieriena żerriegħa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "46306f44a8d964623e7f3b74df33bdabfb6b301eed76f3cbce3a46bade02338c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/19\/30-32.1792602114009.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ejja, nasqu lil missirina nbid, u nrabtu miegħu, u nħajjru minn missirina ⟨nisel⟩.",
   "tokens": [
     {
       "surface": "לכה",
@@ -39,42 +13,42 @@
     },
     {
       "surface": "נשקה",
-      "gloss": "nagħtux nixorbu"
+      "gloss": "nasqu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lill-missieriena"
+      "marks": "lil missirina nbid"
     },
     {
       "surface": "אבינו",
-      "gloss": "missieriena"
+      "gloss": "missirina"
     },
     {
       "surface": "יין",
-      "gloss": "inbid"
+      "gloss": "nbid"
     },
     {
       "surface": "ונשכבה",
-      "gloss": "norqdu"
+      "gloss": "u nrabtu miegħu"
     },
     {
       "surface": "עמו",
-      "gloss": "ma' hu"
+      "gloss": "miegħu"
     },
     {
       "surface": "ונחיה",
-      "gloss": "nżommu ħaj"
+      "gloss": "u nħajjru"
     },
     {
       "surface": "מאבינו",
-      "gloss": "minn missieriena"
+      "gloss": "minn missirina"
     },
     {
       "surface": "זרע",
-      "gloss": "żerriegħa"
+      "gloss": "nisel"
     }
   ],
-  "timestamp": "2026-10-21T17:01:54.012560654Z",
+  "timestamp": "2026-10-22T00:20:54.279920256Z",
   "model": "glm-5.3"
 }

@@ -5,54 +5,24 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "independent pronoun 'them', not the DOM marker; rendered as suffix -thom without ⟨את⟩"
-    },
-    {
-      "kind": "addition",
-      "subject": "tinsab",
-      "rationale": "Maltese relative clauses require a verb; Hebrew has only prepositions 'near' and 'above'"
-    },
-    {
-      "kind": "crux",
-      "subject": "הסף",
-      "rationale": "'threshold' vs 'door' vs 'vestibule'; rendered l-bieb (door) though Hebrew literally says the sill\/threshold"
-    },
-    {
-      "kind": "measurement",
-      "subject": "temple chambers",
-      "rationale": "verse fixes the exact spatial location of the chamber by three relational bearings"
-    }
-  ],
-  "translation": "U ġibthom fid-dar ta' Jaħwe, għand laska ta' wlied Ħanan bin Jigdaljahu, raġel ta' Elohim, li tinsab ħdejha laska tas-slaten, li tinsab fuqha laska ta' Ma'asejahu bin Shallum, l-għassies tal-bieb.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/35\/1-4.1792613377290.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġibthom fi-bejt Jaħwe, għand il-lexer tas-semin ta' Ħanan bin Jigdaljahu, raġel ta' Elohim, li kien ħdejn il-lexer tal-ħakkiema, li kien fuq il-lexer ta' Ma'asejahu bin Shallum, li kien jħares is-sibta.",
   "tokens": [
     {
       "surface": "ואבא",
-      "gloss": "U ġibthom"
+      "gloss": "u ġibthom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "il-familja tar-Reħabiti"
     },
     {
       "surface": "בית",
-      "gloss": "fid-dar"
+      "gloss": "fi-bejt"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "אל",
@@ -60,15 +30,15 @@
     },
     {
       "surface": "לשכת",
-      "gloss": "laska"
+      "gloss": "il-lexer"
     },
     {
       "surface": "בני",
-      "gloss": "ta' wlied"
+      "gloss": "tas-semin"
     },
     {
       "surface": "חנן",
-      "gloss": "Ħanan"
+      "gloss": "ta' Ħanan"
     },
     {
       "surface": "בן",
@@ -92,15 +62,15 @@
     },
     {
       "surface": "אצל",
-      "gloss": "ħdejha"
+      "gloss": "ħdejn"
     },
     {
       "surface": "לשכת",
-      "gloss": "laska"
+      "gloss": "il-lexer"
     },
     {
       "surface": "השרים",
-      "gloss": "tas-slaten"
+      "gloss": "tal-ħakkiema"
     },
     {
       "surface": "אשר",
@@ -108,11 +78,11 @@
     },
     {
       "surface": "ממעל",
-      "gloss": "fuqha"
+      "gloss": "fuq"
     },
     {
       "surface": "ללשכת",
-      "gloss": "laska"
+      "gloss": "il-lexer"
     },
     {
       "surface": "מעשיהו",
@@ -128,13 +98,13 @@
     },
     {
       "surface": "שמר",
-      "gloss": "l-għassies"
+      "gloss": "jħares"
     },
     {
       "surface": "הסף",
-      "gloss": "tal-bieb"
+      "gloss": "is-sibta"
     }
   ],
-  "timestamp": "2026-10-21T20:09:37.292626017Z",
+  "timestamp": "2026-10-22T00:53:15.150175048Z",
   "model": "glm-5.3"
 }

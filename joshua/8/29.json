@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Joxwa ordna",
-      "rationale": "Il-Lhudi jgħid biss 'ordna' mingħajr semmien; lil Joxwa miżjud biex jifhem min ordna."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ġisem mitlu",
-      "rationale": "נבלתו tfisser litteralment 'il-ġisem mejjet tiegħu', kelma waħda."
-    },
-    {
-      "kind": "elision",
-      "subject": "אותה",
-      "rationale": "L-aleph-tav ta' wara jirreferi għall-ġisem (maskil) iżda jieħu suffiss femminil — qrajt għal נבלה."
-    }
-  ],
-  "translation": "U ⟨את⟩ sultan ta' l-Għaj ġabħu mas-siġra sa ħin in-naħas; u meta d-dħul tax-xemx, Jaħwe ordna lil Joxwa, u niżżlu ⟨את⟩ ġisem mitlu mis-siġra, u ħawwhu ⟨lil⟩ quddiem il-bieb tal-belt, u qajmu fuqu ġebla ta' ħaġar kbira sa din il-ġurnata.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/29-32.1792606483360.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ sultan ta' l-Għaj tqiegħed imdendel fuq is-siġra sal-ħin tax-xemx nieżla, u malli nxteħet ix-xemx Jehoxwa ordna, u niżżlu ⟨את⟩ ġismitu mis-siġra, u tellgħuh ⟨את⟩ ħdejn il-bieb tal-belt, u bnew fuqu għolja ta' ġebel kbira sa din il-ġurnata.",
   "tokens": [
     {
       "surface": "ואת",
@@ -48,35 +22,35 @@
     },
     {
       "surface": "תלה",
-      "gloss": "ġabħu"
+      "gloss": "tqiegħed imdendel"
     },
     {
       "surface": "על",
-      "gloss": "mas-"
+      "gloss": "fuq"
     },
     {
       "surface": "העץ",
-      "gloss": "siġra"
+      "gloss": "is-siġra"
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "sal"
     },
     {
       "surface": "עת",
-      "gloss": "ħin"
+      "gloss": "il-ħin"
     },
     {
       "surface": "הערב",
-      "gloss": "in-naħas"
+      "gloss": "tax-xemx nieżla"
     },
     {
       "surface": "וכבוא",
-      "gloss": "meta d-dħul"
+      "gloss": "u malli nxteħet"
     },
     {
       "surface": "השמש",
-      "gloss": "tax-xemx"
+      "gloss": "ix-xemx"
     },
     {
       "surface": "צוה",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jaħwe ordna lil Joxwa"
+      "gloss": "Jehoxwa"
     },
     {
       "surface": "וירידו",
@@ -93,40 +67,40 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ġisem mitlu"
+      "marks": "ġismitu"
     },
     {
       "surface": "נבלתו",
-      "gloss": "ġisem mitlu"
+      "gloss": "ġismitu"
     },
     {
       "surface": "מן",
-      "gloss": "mis-"
+      "gloss": "mis"
     },
     {
       "surface": "העץ",
-      "gloss": "siġra"
+      "gloss": "is-siġra"
     },
     {
       "surface": "וישליכו",
-      "gloss": "u ħawwhu"
+      "gloss": "u tellgħuh"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "ġisem mitlu"
+      "marks": "ħdejn il-bieb tal-belt"
     },
     {
       "surface": "אל",
-      "gloss": "quddiem"
+      "gloss": "ħdejn"
     },
     {
       "surface": "פתח",
-      "gloss": "bieb"
+      "gloss": "il-bieb"
     },
     {
       "surface": "שער",
-      "gloss": "ta' l-entrata"
+      "gloss": "tas-sieq"
     },
     {
       "surface": "העיר",
@@ -134,7 +108,7 @@
     },
     {
       "surface": "ויקימו",
-      "gloss": "u qajmu"
+      "gloss": "u bnew"
     },
     {
       "surface": "עליו",
@@ -142,11 +116,11 @@
     },
     {
       "surface": "גל",
-      "gloss": "ġebla"
+      "gloss": "għolja"
     },
     {
       "surface": "אבנים",
-      "gloss": "ta' ħaġar"
+      "gloss": "ta' ġebel"
     },
     {
       "surface": "גדול",
@@ -165,6 +139,6 @@
       "gloss": "din"
     }
   ],
-  "timestamp": "2026-10-21T18:14:43.361042277Z",
+  "timestamp": "2026-10-22T00:54:08.492839480Z",
   "model": "glm-5.3"
 }

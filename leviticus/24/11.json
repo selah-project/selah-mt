@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויקב",
-      "rationale": "נקב 'pierced\/pronounced' the Name — traditions divide between 'blasphemed' and 'pronounced'; kept literal 'bieret' (pierced)"
-    },
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "Maltese requires copula 'kien' for the mother's name clause, absent in Hebrew"
-    },
-    {
-      "kind": "hapax",
-      "subject": "שלמית",
-      "rationale": "the only named woman in a legal narrative in Leviticus"
-    }
-  ],
-  "translation": "U bieret iben il-mara l-Israelita ⟨את⟩ l-Isem, u sabbet; u ġabuh għand Moxe. U isem ommu kien Xelomit, bint Dibri, għat-tribù ta' Dan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/24\/9-12.1792601164819.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U iben il-mara Jisraelita xeqq ⟨את⟩ l-isem u sabb; u ġabuh ⟨את⟩ quddiem Moxe; u l-isem ta' ommu ⟨kien⟩ Xelomitt, bint Dibri, mit-tribù ta' Din.",
   "tokens": [
     {
       "surface": "ויקב",
-      "gloss": "U bieret"
+      "gloss": "xeqq"
     },
     {
       "surface": "בן",
@@ -47,20 +21,20 @@
     },
     {
       "surface": "הישראלית",
-      "gloss": "l-Israelita"
+      "gloss": "Jisraelita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-Isem"
+      "marks": "l-isem"
     },
     {
       "surface": "השם",
-      "gloss": "l-Isem"
+      "gloss": "l-isem"
     },
     {
       "surface": "ויקלל",
-      "gloss": "u sabbet"
+      "gloss": "u sabb"
     },
     {
       "surface": "ויביאו",
@@ -68,12 +42,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "għand Moxe"
+      "gloss": "⟨את⟩",
+      "marks": "quddiem Moxe"
     },
     {
       "surface": "אל",
-      "gloss": "għand"
+      "gloss": "quddiem"
     },
     {
       "surface": "משה",
@@ -81,15 +55,15 @@
     },
     {
       "surface": "ושם",
-      "gloss": "U isem"
+      "gloss": "u l-isem"
     },
     {
       "surface": "אמו",
-      "gloss": "ommu"
+      "gloss": "ta' ommu"
     },
     {
       "surface": "שלמית",
-      "gloss": "Xelomit"
+      "gloss": "Xelomitt"
     },
     {
       "surface": "בת",
@@ -101,13 +75,13 @@
     },
     {
       "surface": "למטה",
-      "gloss": "għat-tribù"
+      "gloss": "mit-tribù"
     },
     {
       "surface": "דן",
-      "gloss": "ta' Dan"
+      "gloss": "Din"
     }
   ],
-  "timestamp": "2026-10-21T16:46:04.820144593Z",
+  "timestamp": "2026-10-22T00:41:30.079188379Z",
   "model": "glm-5.3"
 }

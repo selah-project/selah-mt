@@ -5,61 +5,40 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "l-allat",
-      "rationale": "אלהי hawn huma l-idoli ta' Seir, allura bl-ittra żgħira 'allat' mhux Elohim."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלהי\/לאלהים",
-      "rationale": "Ir-repetizzjoni ta' Elohim\/allat fl-istess vers — l-idoli mqiegħda fis-sedja tal-Veru — tinżamm bid-doppju Malti."
-    }
-  ],
-  "translation": "U ġara, wara li Amacjaħu ġie mill-għaks tal-Edomin, li ġibed ⟨את⟩ l-allat ta' wlied Seir, u qagħdhom għalih għall-allat, u quddiemhom inxteħet u lilhom jaħaraq inċens.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e21a8519484c2d80627950f837f744d4e04a57e9419c85af194d495dac4e1f87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/25\/13-16.1792622777129.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara li wara li Amacjawu ġie minn għat-xelter ta' ⟨את⟩ l-Edomin, ġibed ⟨את⟩ l-allat ta' wlied Seir, u waqqafhom lilu għal allat, u quddiemhom ixħet ruħu, u lilhom offra inċens.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U ġara"
+      "gloss": "u ġara"
     },
     {
       "surface": "אחרי",
-      "gloss": "wara"
+      "gloss": "wara li"
     },
     {
       "surface": "בוא",
-      "gloss": "li ġie"
+      "gloss": "ġie"
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amacjaħu"
+      "gloss": "Amacjawu"
     },
     {
       "surface": "מהכות",
-      "gloss": "mill-għaks"
+      "gloss": "minn għat-xelter ta'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil-Edomin"
+      "marks": "l-Edomin"
     },
     {
       "surface": "אדומים",
-      "gloss": "lil-Edomin"
+      "gloss": "l-Edomin"
     },
     {
       "surface": "ויבא",
-      "gloss": "li ġibed"
+      "gloss": "ġibed"
     },
     {
       "surface": "את",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "ta' wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "שעיר",
@@ -80,15 +59,15 @@
     },
     {
       "surface": "ויעמידם",
-      "gloss": "u qagħdhom"
+      "gloss": "u waqqafhom"
     },
     {
       "surface": "לו",
-      "gloss": "għalih"
+      "gloss": "lilu"
     },
     {
       "surface": "לאלהים",
-      "gloss": "għall-allat"
+      "gloss": "għal allat"
     },
     {
       "surface": "ולפניהם",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "ישתחוה",
-      "gloss": "inxteħet"
+      "gloss": "ixħet ruħu"
     },
     {
       "surface": "ולהם",
@@ -104,9 +83,9 @@
     },
     {
       "surface": "יקטר",
-      "gloss": "jaħaraq inċens"
+      "gloss": "offra inċens"
     }
   ],
-  "timestamp": "2026-10-21T22:46:17.131007023Z",
+  "timestamp": "2026-10-22T00:01:24.593851102Z",
   "model": "glm-5.3"
 }

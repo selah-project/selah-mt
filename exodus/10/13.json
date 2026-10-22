@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruwaħ",
-      "rationale": "רוח hija kelma waħda — ruwaħ — għal riħ, nifs u Spirtu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קדים",
-      "rationale": "il-ktib tal-lvant jissejjaħ 'il-quddiem', ġeografija morali mitluba"
-    }
-  ],
-  "translation": "U Moxe milħaq ⟨את⟩ l-vecċa tiegħu fuq art Mitsrajim, u Jaħwe mexxa ruwaħ tal-lvant fuq l-art il-ġurnata kollha dawk u lejl kollu; fil-ghodu ⟨kien hekk⟩, u r-ruwaħ tal-lvanttellgħet ⟨את⟩ l-istanza.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "47566f15c7f90355fe94e5101cacfceb4db6b43ec8f1c5f2fe6e9d5cb34cb414",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/10\/13-16.1792599420540.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe ħatar ⟨את⟩ mazzu fuq l-art ta' Mitsrajim, u Jaħwe saħħan ruwaħ ta' l-lvant fl-art dakinhar kollu u l-lejl kollu; meta s-sebħ wasal, ir-ruwaħ tal-lvant ħadet ⟨את⟩ l-ġarrad.",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "milħaq"
+      "gloss": "ħatar"
     },
     {
       "surface": "משה",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-vecċa tiegħu"
+      "marks": "mazzu"
     },
     {
       "surface": "מטהו",
-      "gloss": "l-vecċa tiegħu"
+      "gloss": "mazzu"
     },
     {
       "surface": "על",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "art"
+      "gloss": "l-art"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrajim"
+      "gloss": "ta' Mitsrajim"
     },
     {
       "surface": "ויהוה",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "נהג",
-      "gloss": "mexxa"
+      "gloss": "saħħan"
     },
     {
       "surface": "רוח",
@@ -75,35 +54,35 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "fuq l-art"
+      "gloss": "fl-art"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
-    },
-    {
-      "surface": "היום",
-      "gloss": "il-ġurnata"
-    },
-    {
-      "surface": "ההוא",
-      "gloss": "dawk"
-    },
-    {
-      "surface": "וכל",
-      "gloss": "u lejl"
-    },
-    {
-      "surface": "הלילה",
       "gloss": "kollu"
     },
     {
+      "surface": "היום",
+      "gloss": "dakinhar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dakinhar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "u l-lejl kollu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "l-lejl"
+    },
+    {
       "surface": "הבקר",
-      "gloss": "fil-ghodu"
+      "gloss": "is-sebħ"
     },
     {
       "surface": "היה",
-      "gloss": "kien"
+      "gloss": "wasal"
     },
     {
       "surface": "ורוח",
@@ -115,18 +94,18 @@
     },
     {
       "surface": "נשא",
-      "gloss": "tellgħet"
+      "gloss": "ħadet"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-istanza"
+      "marks": "il-ġarrad"
     },
     {
       "surface": "הארבה",
-      "gloss": "l-istanza"
+      "gloss": "il-ġarrad"
     }
   ],
-  "timestamp": "2026-10-21T16:17:00.541303427Z",
+  "timestamp": "2026-10-22T00:12:34.188217978Z",
   "model": "glm-5.3"
 }

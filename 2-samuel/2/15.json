@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tnax u tnax",
-      "rationale": "il-vers jgħodd bil-qies: tnaxil-misel għal kull naħa, għadd tassew imkejjel"
-    },
-    {
-      "kind": "elision",
-      "subject": "בשת",
-      "rationale": "l-isem איש בשת maqsum fuq żewġ tokens; il-glossa tmur kollha fuq ולאיש"
-    }
-  ],
-  "translation": "U qumu u għaddew bin-numru tnax minn Binjamin u minn ta' Ix-Boshet iben Saul, u tnax minn ħaddiema David.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6c4ce391b96eae1ddd097e6d694ce540c563fad2f563e4eb1faf42e9fad40ac6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/2\/13-16.1792608565330.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qamu u għaddew bin-numru: tnax minn Binjamin, ta' Ix-Boset iben Xaul, u tnax mid-dieħla ta' David.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "u qumu"
+      "gloss": "u qamu"
     },
     {
       "surface": "ויעברו",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "שנים",
-      "gloss": "tnejn"
+      "gloss": "tnax"
     },
     {
       "surface": "עשר",
-      "gloss": "għaxra"
+      "gloss": "tnax"
     },
     {
       "surface": "לבנימן",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "ולאיש",
-      "gloss": "u minn ta' Ix-Boshet"
+      "gloss": "ta' Ix-Boset"
     },
     {
       "surface": "בשת",
-      "gloss": ""
+      "gloss": "Ix-Boset"
     },
     {
       "surface": "בן",
@@ -66,25 +45,25 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Saul"
+      "gloss": "Xaul"
     },
     {
       "surface": "ושנים",
-      "gloss": "u tnejn"
+      "gloss": "u tnax"
     },
     {
       "surface": "עשר",
-      "gloss": "għaxra"
+      "gloss": "tnax"
     },
     {
       "surface": "מעבדי",
-      "gloss": "minn ħaddiema"
+      "gloss": "mid-dieħla"
     },
     {
       "surface": "דוד",
       "gloss": "David"
     }
   ],
-  "timestamp": "2026-10-21T18:49:25.331786112Z",
+  "timestamp": "2026-10-22T00:06:59.209915Z",
   "model": "glm-5.3"
 }

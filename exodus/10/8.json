@@ -5,42 +5,16 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "min u min",
-      "rationale": "מי ומי: idjoma ebrajka mtennija għal 'li eżattament' — il-Malti żamm it-tħabbir tal-mistoqsija doppja"
-    },
-    {
-      "kind": "elision",
-      "subject": "אלהם",
-      "gloss": "thejjen f' 'qalilhom' — l-ebrajk għandu żewġ sinjali ta' indirizz"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Moxe u Aharon",
-      "rationale": "imperattivi ta' Paro: 'Imxu, aqdu'"
-    }
-  ],
-  "translation": "U ġie mressaq lil ⟨את⟩ Moxe u lil ⟨את⟩ Aharon għand Paro, u qalilhom: Imxu, aqdu lil ⟨את⟩ Jaħwe, il-Elohim tagħkom — min u min dawk li se jimxu?",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "0aafd8b0a088a4caccfe9fd46fedbdcbe70f92ecb1744fef52422b51d821dba4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/10\/5-8.1792599458643.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġew mressqa lil ⟨את⟩ Moxe u lil ⟨את⟩ Aharon għand Paraħ, u qalilhom: Iddu, qimu lil ⟨את⟩ Jaħwe, lil Elohim tagħkom. Min u min huma dawk li se jimxu?",
   "tokens": [
     {
       "surface": "ויושב",
-      "gloss": "U ġie mressaq"
+      "gloss": "ġew mressqa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moxe"
+      "marks": "lil Moxe"
     },
     {
       "surface": "משה",
@@ -48,8 +22,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "Aharon"
+      "gloss": "⟨את⟩",
+      "marks": "lil Aharon"
     },
     {
       "surface": "אהרן",
@@ -61,23 +35,23 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Paraħ"
     },
     {
       "surface": "ויאמר",
-      "gloss": "u qalilhom"
+      "gloss": "u qal"
     },
     {
       "surface": "אלהם",
-      "gloss": ""
+      "gloss": "lilhom"
     },
     {
       "surface": "לכו",
-      "gloss": "Imxu"
+      "gloss": "Iddu"
     },
     {
       "surface": "עבדו",
-      "gloss": "aqdu"
+      "gloss": "qimu lil"
     },
     {
       "surface": "את",
@@ -90,11 +64,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "il-Elohim tagħkom"
+      "gloss": "Elohim tagħkom"
     },
     {
       "surface": "מי",
-      "gloss": "min"
+      "gloss": "Min"
     },
     {
       "surface": "ומי",
@@ -105,6 +79,6 @@
       "gloss": "dawk li se jimxu"
     }
   ],
-  "timestamp": "2026-10-21T16:17:38.644868832Z",
+  "timestamp": "2026-10-22T00:12:39.043150346Z",
   "model": "glm-5.3"
 }

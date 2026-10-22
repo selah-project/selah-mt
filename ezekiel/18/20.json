@@ -5,49 +5,23 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefes",
-      "rationale": "נפש mhux 'ruħ' fl-għerq tagħha: hija l-ħaġa li tieħu n-nifs, il-ħajja — 'nefes' miżmuma skond il-ħoss"
-    },
-    {
-      "kind": "addition",
-      "subject": "hiya",
-      "rationale": "il-pronom Lhudi היא eżatt qabel il-verb jużat b'mod enfatiku; miżmum fit-traduzzjoni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "tsedoq tat-tajjeb \/ ħażen tal-ħażin",
-      "rationale": "chiżmu: צדקת הצדיק \/\/ רשעת רשע — l-istess struttura tar-ringiela"
-    }
-  ],
-  "translation": "In-nefes li tidnbi, hiya tamiet; iben ma jġorrwx fl-injustizzja tal-missier, u missier ma jġorrwx fl-injustizzja tal-iben; it-tsedoq tat-tajjeb fuqu jkun, u l-ħażen tal-ħażin fuqu jkun.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "232cbe3ceef49ca29e8b504d890b04cfa52afe3e4c527724e67900d6ca7ab412",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/18\/17-20.1792614449793.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir-ruħ li tiddgħajfet, hija tmut; iben ma jġorrx il-ħtija tal-missier, u missier ma jġorrx il-ħtija tal-iben; it-tsedeq tal-ġust fuqu jkun ⟨hu⟩, u l-ħażen tal-ħażin fuqu jkun ⟨hu⟩.",
   "tokens": [
     {
       "surface": "הנפש",
-      "gloss": "In-nefes"
+      "gloss": "ir-ruħ"
     },
     {
       "surface": "החטאת",
-      "gloss": "li tidnbi"
+      "gloss": "li tiddgħajfet"
     },
     {
       "surface": "היא",
-      "gloss": "hiya"
+      "gloss": "hija"
     },
     {
       "surface": "תמות",
-      "gloss": "tamiet"
+      "gloss": "tmut"
     },
     {
       "surface": "בן",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "ישא",
-      "gloss": "jġorrwx"
+      "gloss": "jġorrx"
     },
     {
       "surface": "בעון",
-      "gloss": "fl-injustizzja"
+      "gloss": "il-ħtija"
     },
     {
       "surface": "האב",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ישא",
-      "gloss": "jġorrwx"
+      "gloss": "jġorrx"
     },
     {
       "surface": "בעון",
-      "gloss": "fl-injustizzja"
+      "gloss": "il-ħtija"
     },
     {
       "surface": "הבן",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "צדקת",
-      "gloss": "it-tsedoq"
+      "gloss": "it-tsedeq"
     },
     {
       "surface": "הצדיק",
-      "gloss": "tat-tajjeb"
+      "gloss": "tal-ġust"
     },
     {
       "surface": "עליו",
@@ -122,6 +96,6 @@
       "gloss": "jkun"
     }
   ],
-  "timestamp": "2026-10-21T20:27:29.795163905Z",
+  "timestamp": "2026-10-22T00:17:04.397116589Z",
   "model": "glm-5.3"
 }

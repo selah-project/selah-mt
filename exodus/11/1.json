@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "גרש יגרש",
-      "rationale": "Infinitiv absolut mal-verb: 'jagħrfilkom joħroġkom' — the doubling intensifies, 'he will surely drive you out'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כשלחו כלה",
-      "rationale": "Sibilant echo in Hebrew (shalach\/kalah\/garash) — the expulsion chain of sounds is lost in Maltese."
-    }
-  ],
-  "translation": "U Jaħwe qal lil Moxe: Għadu nagħ daqqa waħda fuq Faragħon u fuq Mitsrajim; wara dan jaħarġilkom minn hawn; meta jaħarġilkom, għal kollox jagħrfilkom joħroġkom minn hawn.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/11\/1-4.1792599456006.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe qal lil Moxe: għadu ġrieħi waħda ġib fuq Faragħon u fuq Mitsrajim; wara dan hu jibgħat lilkom ⟨את⟩ minn hawn; meta jibgħatkom, għal kollox jagħti bil-ħarba jkeċċikom ⟨את⟩ minn hawn.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "יהוה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "עוד",
-      "gloss": "Għadu"
+      "gloss": "għadu"
     },
     {
       "surface": "נגע",
-      "gloss": "daqqa"
+      "gloss": "ġrieħi"
     },
     {
       "surface": "אחד",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אביא",
-      "gloss": "nagħ"
+      "gloss": "ġib"
     },
     {
       "surface": "על",
@@ -86,12 +65,12 @@
     },
     {
       "surface": "ישלח",
-      "gloss": "jaħarġilkom"
+      "gloss": "jibgħat"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "minn hawn"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom (kom object ta' jibgħat)"
     },
     {
       "surface": "מזה",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "כשלחו",
-      "gloss": "meta jaħarġilkom"
+      "gloss": "meta jibgħatkom"
     },
     {
       "surface": "כלה",
@@ -107,22 +86,22 @@
     },
     {
       "surface": "גרש",
-      "gloss": "jagħrfilkom"
+      "gloss": "jagħti bil-ħarba"
     },
     {
       "surface": "יגרש",
-      "gloss": "joħroġkom"
+      "gloss": "jkeċċi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "minn hawn"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom (kom object ta' jkeċċi)"
     },
     {
       "surface": "מזה",
       "gloss": "minn hawn"
     }
   ],
-  "timestamp": "2026-10-21T16:17:36.007206372Z",
+  "timestamp": "2026-10-22T00:12:46.751403013Z",
   "model": "glm-5.3"
 }

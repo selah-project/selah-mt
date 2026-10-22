@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ħallilha",
-      "rationale": "חלילה — kliem Lhudi li jfisser 'profanazzjoni', użat bħala interjuzzjoni: 'ħallilha' \/ 'ħalles"
-    }
-  ],
-  "translation": "U ⟨qal⟩ lilu: Ħallilha! M'intix se mut. Ara, missieri ma jagħmel ħaġa kbira jew ħaġa żgħira bla ma jikxif ⟨את⟩ widnejja — u għaliex missieri jaħbi minni ⟨את⟩ din il-ħaġa? Mhux hekk.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/20\/1-4.1792608206691.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal lilu: Ħaliel, m'int sejjer tmout. Ara, missieri ma jagħmel ⟨xejn⟩, ħaġa kbira jew ħaġa żgħira, mingħajr ma jiftaħ ⟨את⟩ widnejja; u għaliex jaħbi missieri minni ⟨את⟩ il-ħaġa din? Mhux hekk.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "ħallilha"
+      "gloss": "Ħaliel"
     },
     {
       "surface": "לא",
-      "gloss": "m'intix"
+      "gloss": "m'int"
     },
     {
       "surface": "תמות",
-      "gloss": "se mut"
+      "gloss": "tmout"
     },
     {
       "surface": "הנה",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨li⟩"
+      "gloss": "⟨xejn⟩"
     },
     {
       "surface": "עשה",
@@ -80,8 +64,12 @@
       "gloss": "żgħira"
     },
     {
-      "surface": "ויגלה",
-      "gloss": "bla ma jikxif"
+      "surface": "ולא",
+      "gloss": "mingħajr ma"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "jiftaħ"
     },
     {
       "surface": "את",
@@ -90,7 +78,7 @@
     },
     {
       "surface": "אזני",
-      "gloss": "⟨את⟩ widnejja"
+      "gloss": "widnejja"
     },
     {
       "surface": "ומדוע",
@@ -111,11 +99,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "din il-ħaġa"
+      "marks": "il-ħaġa din"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨את⟩ din il-ħaġa"
+      "gloss": "il-ħaġa"
     },
     {
       "surface": "הזה",
@@ -130,6 +118,6 @@
       "gloss": "hekk"
     }
   ],
-  "timestamp": "2026-10-21T18:43:26.691990435Z",
+  "timestamp": "2026-10-22T00:52:36.839382006Z",
   "model": "glm-5.3"
 }

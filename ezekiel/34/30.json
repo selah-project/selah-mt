@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "miegħihom",
-      "rationale": "אִתָּם hawn hija prepożizzjoni ('tagħhom-miegħihom'), mhux il-markatur tal-oġġett את; wgħidha bħala 'with them'."
-    }
-  ],
-  "translation": "U jkunu jafu li jien Jaħwe, Elohim tagħhom, miegħihom, u huma l-poplu tiegħi, dar Jisrael, jgħid Adonaj Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "90c6e1b91d0bdf78768a7abc01dced1d94d35a526e78298aa63217f9291f427a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/34\/29-31.1792614909975.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jkunu jafu li jien Jaħwe, l-Elohim tagħhom, ⟨אתם⟩ magħhom; u huma, in-nies tiegħi, dar Jisrael, jgħid Adonaj Jaħwe.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -41,12 +25,12 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "Elohim tagħhom"
+      "gloss": "l-Elohim tagħhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "miegħihom"
+      "gloss": "⟨אתם⟩",
+      "marks": "magħhom"
     },
     {
       "surface": "והמה",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "il-poplu tiegħi"
+      "gloss": "in-nies tiegħi"
     },
     {
       "surface": "בית",
@@ -77,6 +61,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:35:09.976530171Z",
+  "timestamp": "2026-10-22T00:18:17.430494839Z",
   "model": "glm-5.3"
 }

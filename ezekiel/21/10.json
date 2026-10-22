@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עוד",
-      "rationale": "'Iktar' tqiegħed f'waħda mal-verb Malti; il-Hhudi għandu 'la terġa' tiddaħħal'. Gliem it-tnejn ma jinbidlux: 'mhux se terġa' terġa' lura' tfisser 'mhux se terġa' tiddaħħal'. Skond il-verita' tal-ktib, לא תשוב עוד tfisser 'mhux se terġa' lura għal ħadd'. Għalhekk it-traduzzjoni tista' tkun 'mhux se terġa' terġa' lura'"
-    }
-  ],
-  "translation": "U jaf il-laħam kollu li jien Jaħwe ħriġt ix-xabla tiegħi mill-imsar tagħha; mhux se terġa' terġa' lura.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a10d42eeb63e6229eba5cbd5ce9b5ddf8664549a8e04c0dfc3bc1b9974d810a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/21\/9-12.1792614504569.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jaf kollha l-ġisem li jien Jaħwe għarriġt ⟨את⟩ x-xabla tagħha minn ħedduda; mhux terġa' tersaq' għal qatt.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "בשר",
-      "gloss": "il-laħam"
+      "gloss": "il-ġisem"
     },
     {
       "surface": "כי",
@@ -49,15 +33,15 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ħriġt"
+      "gloss": "għarriġt"
     },
     {
       "surface": "חרבי",
-      "gloss": "ix-xabla tiegħi"
+      "gloss": "l-xabla tiegħi"
     },
     {
       "surface": "מתערה",
-      "gloss": "mill-imsar tagħha"
+      "gloss": "minn ħedduda"
     },
     {
       "surface": "לא",
@@ -65,13 +49,13 @@
     },
     {
       "surface": "תשוב",
-      "gloss": "se terġa' terġa' lura"
+      "gloss": "terġa' tersaq"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "għal qatt"
     }
   ],
-  "timestamp": "2026-10-21T20:28:24.569768505Z",
+  "timestamp": "2026-10-22T00:16:35.540653268Z",
   "model": "glm-5.3"
 }

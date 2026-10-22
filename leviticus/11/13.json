@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "haperes",
-      "rationale": "il-peres: 'il-vultur tal-agħdar' (JPS) jew l-avultun; ġeneru inċert"
-    },
-    {
-      "kind": "substitution",
-      "subject": "העזניה",
-      "rationale": "l-aznija: probabbilment l-osprej; rqosna b''ajkla tal-baħar' għax l-isem eżatt m'għandux kelma Maltija fissa"
-    }
-  ],
-  "translation": "U ⟨את⟩ dawn tgħidulhom ma jistax jittieklu mill-għasafar: jagħmlu l-iskomiżż: l-ajkla, u l-avultun, u l-ajkla tal-baħar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/11\/13-16.1792600616667.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ dawn tgħidilhom għeżież mill-għasafar; ma jittieklu, għeżież huma: ⟨את⟩ l-ajkla, u ⟨את⟩ il-Peres, u ⟨את⟩ l-Għaznija.",
   "tokens": [
     {
       "surface": "ואת",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "תשקצו",
-      "gloss": "tgħidulhom ma jistax jittieklu"
+      "gloss": "tgħidilhom għeżież"
     },
     {
       "surface": "מן",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "skomiżż"
+      "gloss": "għeżież"
     },
     {
       "surface": "הם",
@@ -77,22 +56,22 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "l-avultun"
+      "marks": "il-Peres"
     },
     {
       "surface": "הפרס",
-      "gloss": "l-avultun"
+      "gloss": "il-Peres"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "l-ajkla tal-baħar"
+      "marks": "l-Għaznija"
     },
     {
       "surface": "העזניה",
-      "gloss": "l-ajkla tal-baħar"
+      "gloss": "l-Għaznija"
     }
   ],
-  "timestamp": "2026-10-21T16:36:56.667637380Z",
+  "timestamp": "2026-10-22T00:39:14.799633234Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,20 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "Il-koppja כי אם ('għax għajr') tittraduċi b'iżda waħda; il-parti tan-negazzjoni diġà tinsab f'm'humiex"
-    },
-    {
-      "kind": "substitution",
-      "subject": "l-allat",
-      "rationale": "אלהיהם hawn għall-idoli tal-ġnus: it-tabella tippermetti 'allat' b'ittra żgħira għall-allat tal-ġnus"
-    }
-  ],
-  "translation": "u tellgħu ⟨את⟩ l-allat tagħhom fin-nar, għax m'humiex alla, iżda xogħol idejn il-bniedem, injam u ġebel; u qerduhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/37\/17-20.1792611708369.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u taw ⟨את⟩ lil-allat tagħhom fin-nar, għax mhux allat huma, għax għemil id il-bniedem biss, injam u ġebel, u qerduhom.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "u tellgħu"
+      "gloss": "u taw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-allat tagħhom"
+      "marks": "lil-allat tagħhom"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "l-allat tagħhom"
+      "gloss": "lil-allat tagħhom"
     },
     {
       "surface": "באש",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "m'humiex"
+      "gloss": "mhux"
     },
     {
       "surface": "אלהים",
-      "gloss": "alla"
+      "gloss": "allat"
     },
     {
       "surface": "המה",
@@ -63,19 +42,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "iżda"
+      "gloss": "għax"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "biss"
     },
     {
       "surface": "מעשה",
-      "gloss": "xogħol"
+      "gloss": "għemil"
     },
     {
       "surface": "ידי",
-      "gloss": "idejn"
+      "gloss": "id il-bniedem"
     },
     {
       "surface": "אדם",
@@ -94,6 +73,6 @@
       "gloss": "u qerduhom"
     }
   ],
-  "timestamp": "2026-10-21T19:41:48.370660567Z",
+  "timestamp": "2026-10-22T00:25:40.743406758Z",
   "model": "glm-5.3"
 }

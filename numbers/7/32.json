@@ -5,36 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "hapax-guess",
-      "subject": "כף",
-      "rationale": "literali: 'il-wiċċ tal-id'; dixx żgħir b'għamla ta' palma"
-    },
-    {
-      "kind": "measurement",
-      "subject": "għaxra xeqel",
-      "rationale": "il-piż tal-kif ta' l-ismell tal-inċens mhux espress hawn imma mit-tradizzjoni tal-versi l-oħra"
-    }
-  ],
-  "translation": "u kif waħda ta' għaxra deheb, mimlija inċens.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ac7dece286d1d88ce78e8e99ad7953941de6778744787fe13133774503074d19",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/7\/29-32.1792602559050.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "kappa waħda ta' għaxra ⟨xeqel⟩ deheb, mimlija inċens(",
   "tokens": [
     {
       "surface": "כף",
-      "gloss": "kif"
-    },
-    {
-      "surface": "ħażin",
-      "gloss": ""
+      "gloss": "kappa"
     },
     {
       "surface": "אחת",
@@ -42,7 +17,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "għaxra"
+      "gloss": "ta' għaxra"
     },
     {
       "surface": "זהב",
@@ -54,9 +29,9 @@
     },
     {
       "surface": "קטרת",
-      "gloss": "inċens"
+      "gloss": "inċens("
     }
   ],
-  "timestamp": "2026-10-21T17:09:19.052691515Z",
+  "timestamp": "2026-10-22T00:46:53.983290098Z",
   "model": "glm-5.3"
 }

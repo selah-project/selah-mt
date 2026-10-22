@@ -5,69 +5,48 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-qaddis tal-qdusija",
-      "rationale": "קדש הקדשים: superlattiv Ebrajk — 'il-qdusija tal-qdusija' — magħruf bħala l-Iktar Qaddis."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קדש \/ הקדשים",
-      "rationale": "għerq wieħed קדש mtenni — id-doppju tal-istess kelma għall-estrem; jinżamm il-qraba Maltija qaddis\/qdusija."
-    }
-  ],
-  "translation": "Imma dan agħmlulhom, u jgħixu, u m'għadhom imutu meta joqorbdu lejn ⟨את⟩ il-qaddis tal-qdusija: Aharon u wliedu jidħlu, u jqegħduhom, kull wieħed ⟨waħdu⟩ fuq xogħolu u fuq it-tagħbija tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "45d4616ce6586472e8b54cd37ee325fdc1a155ac0b1a1f15e09e6b296929fb44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/17-20.1792602458109.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U dan agħmlulhom, ħajjin, u ma jmorrux, meta jersqu lejn ⟨את⟩ qaddis il-qdusija: Aharon u wliedu jidħlu, u jqegħlduhom, kull wieħed wieħed fuq ħidmtu u fuq piżu.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "dan"
+      "gloss": "U dan"
     },
     {
       "surface": "עשו",
-      "gloss": "agħmlu"
+      "gloss": "agħmlulhom"
     },
     {
       "surface": "להם",
-      "gloss": "lhom"
+      "gloss": "lilhom"
     },
     {
       "surface": "וחיו",
-      "gloss": "u jgħixu"
+      "gloss": "ħajjin"
     },
     {
       "surface": "ולא",
-      "gloss": "u m'għadhom"
+      "gloss": "u ma"
     },
     {
       "surface": "ימתו",
-      "gloss": "imutu"
+      "gloss": "jmorrux"
     },
     {
       "surface": "בגשתם",
-      "gloss": "meta joqorbdu"
+      "gloss": "meta jersqu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-qaddis tal-qdusija"
+      "marks": "qaddis il-qdusija"
     },
     {
       "surface": "קדש",
-      "gloss": "il-qaddis"
+      "gloss": "qaddis"
     },
     {
       "surface": "הקדשים",
-      "gloss": "tal-qdusija"
+      "gloss": "il-qdusija"
     },
     {
       "surface": "אהרן",
@@ -83,11 +62,12 @@
     },
     {
       "surface": "ושמו",
-      "gloss": "u jqegħdu"
+      "gloss": "u jqegħlduhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom"
+      "gloss": "⟨את⟩",
+      "marks": "kull wieħed wieħed"
     },
     {
       "surface": "איש",
@@ -95,7 +75,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "(waħdu)"
+      "gloss": "wieħed"
     },
     {
       "surface": "על",
@@ -103,7 +83,7 @@
     },
     {
       "surface": "עבדתו",
-      "gloss": "xogħolu"
+      "gloss": "ħidmtu"
     },
     {
       "surface": "ואל",
@@ -111,9 +91,9 @@
     },
     {
       "surface": "משאו",
-      "gloss": "it-tagħbija tiegħu"
+      "gloss": "piżu"
     }
   ],
-  "timestamp": "2026-10-21T17:07:38.111498930Z",
+  "timestamp": "2026-10-22T00:47:27.954287153Z",
   "model": "glm-5.3"
 }

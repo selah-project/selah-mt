@@ -5,53 +5,32 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מספחת",
-      "rationale": "kelma rari għal skalja li tfrexix; miżbaħa biex tinsema' qrib ta' מספחת"
-    },
-    {
-      "kind": "addition",
-      "subject": "lir-raġel bil-negga",
-      "rationale": "l-objett ta' ⟨אתו mhux esprit fit-test; miżjud għaċ-ċarezza"
-    }
-  ],
-  "translation": "U l-qassis jarah ⟨għalih⟨את⟩⟩ fis-seba' jum tieni darba, u ara, in-negga gaħbet, u in-negga ma fistxet fil-ġilda, u l-qassis itfiħu: hi miżpaħat; u jaħsel il-ħwejjeġ tiegħu u jkun tfajjef.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "77861d22868ec5da3324352095fe73a6e74a3f905b99c4292c2e35fe58af3d12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/13\/5-8.1792600777981.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qnied jara ⟨את⟩ lilu fis-seba' jum għat-tieni darba, u ara, in-naga tkienet u n-naga ma faxxetx fil-ġilda, u l-qnied jiddikjara ⟨⟨nadif⟩: hija ħarfa li tonfoħ, u jaħsel il-ħwejjeġ tiegħu u jkun nadif.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "jarah"
+      "gloss": "u jara"
     },
     {
       "surface": "הכהן",
-      "gloss": "l-qassis"
+      "gloss": "l-qnied"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lir-raġel bil-negga"
+      "marks": "lilu fis-seba' jum"
     },
     {
       "surface": "ביום",
-      "gloss": "fis-seba'"
+      "gloss": "fis-seba' jum"
     },
     {
       "surface": "השביעי",
-      "gloss": "jum"
+      "gloss": "is-seba'"
     },
     {
       "surface": "שנית",
-      "gloss": "tiegni darba"
+      "gloss": "għat-tieni darba"
     },
     {
       "surface": "והנה",
@@ -59,23 +38,23 @@
     },
     {
       "surface": "כהה",
-      "gloss": "gaħbet"
+      "gloss": "tkienet"
     },
     {
       "surface": "הנגע",
-      "gloss": "in-negga"
+      "gloss": "in-naga"
     },
     {
       "surface": "ולא",
-      "gloss": "ma"
+      "gloss": "u ma ... x"
     },
     {
       "surface": "פשה",
-      "gloss": "fistxet"
+      "gloss": "faxxet"
     },
     {
       "surface": "הנגע",
-      "gloss": "in-negga"
+      "gloss": "in-naga"
     },
     {
       "surface": "בעור",
@@ -83,23 +62,23 @@
     },
     {
       "surface": "וטהרו",
-      "gloss": "itfiħu"
+      "gloss": "u jiddikjara nadif"
     },
     {
       "surface": "הכהן",
-      "gloss": "l-qassis"
+      "gloss": "il-qnied"
     },
     {
       "surface": "מספחת",
-      "gloss": "miżpaħat"
+      "gloss": "ħarfa li tonfoħ"
     },
     {
       "surface": "היא",
-      "gloss": "hi"
+      "gloss": "hija"
     },
     {
       "surface": "וכבס",
-      "gloss": "jaħsel"
+      "gloss": "u jaħsel"
     },
     {
       "surface": "בגדיו",
@@ -107,9 +86,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "jkun tfajjef"
+      "gloss": "u jkun nadif"
     }
   ],
-  "timestamp": "2026-10-21T16:39:37.982819578Z",
+  "timestamp": "2026-10-22T00:39:55.993969489Z",
   "model": "glm-5.3"
 }

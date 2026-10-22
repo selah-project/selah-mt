@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nisa",
-      "rationale": "נשי hija l-plural ta' אשה — 'in-nisa tiegħi', mhux 'l-iriġiel'"
-    }
-  ],
-  "translation": "Agħtini lil-nisa tiegħi u ⟨את⟩ wliedi, li servajtek bihom, u nimxi; għax int taf ⟨את⟩ il-ħidma tiegħi li servajtek.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "fdeae71563bb4d03226ec2c41e6f593a56256a7d4d751b462b9828892a026c63",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/30\/25-28.1792598485738.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Agħtini lili l-nisawjieri tiegħi u ⟨את⟩ wliedi, li sirtek ⟨את>> għalihom, u mmur; għax int taf ⟨את⟩ il-ħidma tiegħi li sirtek.",
   "tokens": [
     {
       "surface": "תנה",
@@ -30,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil-nisa tiegħi"
+      "marks": "in-nisawjieri"
     },
     {
       "surface": "נשי",
-      "gloss": "lil-nisa tiegħi"
+      "gloss": "in-nisawjieri"
     },
     {
       "surface": "ואת",
@@ -51,20 +35,20 @@
     },
     {
       "surface": "עבדתי",
-      "gloss": "servajtek"
+      "gloss": "sirtek"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "bihom"
+      "marks": "għalihom"
     },
     {
       "surface": "בהן",
-      "gloss": "bihom"
+      "gloss": "għalihom"
     },
     {
       "surface": "ואלכה",
-      "gloss": "u nimxi"
+      "gloss": "u mmur"
     },
     {
       "surface": "כי",
@@ -81,11 +65,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ħidma tiegħi"
+      "marks": "il-ħidma"
     },
     {
       "surface": "עבדתי",
-      "gloss": "il-ħidma tiegħi"
+      "gloss": "il-ħidma"
     },
     {
       "surface": "אשר",
@@ -93,9 +77,9 @@
     },
     {
       "surface": "עבדתיך",
-      "gloss": "servajtek"
+      "gloss": "sirtek"
     }
   ],
-  "timestamp": "2026-10-21T16:01:25.739158183Z",
+  "timestamp": "2026-10-22T00:22:01.212834985Z",
   "model": "glm-5.3"
 }

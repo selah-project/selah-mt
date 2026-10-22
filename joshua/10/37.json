@@ -5,45 +5,19 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "'il-ħalq tax-xabla' (xoffet ix-xabla) — l-ewwel kelma tfisser 'ħalq', mhux 'xifer'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nefes",
-      "rationale": "נפש hija l-ħaġa li tneffaħ, ħajja — mhux 'ruħ' biss"
-    },
-    {
-      "kind": "addition",
-      "subject": "lil",
-      "rationale": "prepożizzjoni Maltija meħtieġa mal-oġġett dirett"
-    }
-  ],
-  "translation": "U qaħduha u laqtuha b'xoffet ix-xabla, lil ⟨את⟩ sultanha u lil ⟨את⟩ bliet tagħha kollha u lil ⟨את⟩ kull nefes li fiha; ma ħallax żerżiq, kollox kif għamel lil Eglon; u ta l-ħrem lilha u lil ⟨את⟩ kull nefes li fiha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6bb539f0ac75b7c10ed5cb62aef239b0c024aa8b09a9dd20b08f7fafacd18206",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/10\/37-40.1792606534648.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qabduha, u laqtuha b'ħalq ix-xabla, lil ⟨את⟩ is-sultan tagħha, u lil ⟨את⟩ l-ibliet tagħha kollha, u lil ⟨את⟩ kull ruwaħ li kienet fiha; ma ħallax ħaj ma baqa', bħal kull ma għamel lil Eglon, u ħarrimha ⟨את⟩ lilha għal kollox, u lil ⟨את⟩ kull ruwaħ li kienet fiha.",
   "tokens": [
     {
       "surface": "וילכדוה",
-      "gloss": "qaħduha"
+      "gloss": "u qabduha"
     },
     {
       "surface": "ויכוה",
-      "gloss": "laqtuha"
+      "gloss": "u laqtuha"
     },
     {
       "surface": "לפי",
-      "gloss": "xoffet"
+      "gloss": "b'ħalq"
     },
     {
       "surface": "חרב",
@@ -51,17 +25,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sultanha"
+      "gloss": "lil ⟨את⟩",
+      "marks": "is-sultan tagħha"
     },
     {
       "surface": "מלכה",
-      "gloss": "sultanha"
+      "gloss": "is-sultan tagħha"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "bliet tagħha kollha"
+      "gloss": "u lil ⟨את⟩",
+      "marks": "l-ibliet tagħha kollha"
     },
     {
       "surface": "כל",
@@ -69,12 +43,12 @@
     },
     {
       "surface": "עריה",
-      "gloss": "bliet tagħha"
+      "gloss": "l-ibliet tagħha"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kull nefes li fiha"
+      "gloss": "u lil ⟨את⟩",
+      "marks": "kull ruwaħ li kienet fiha"
     },
     {
       "surface": "כל",
@@ -82,7 +56,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "nefes"
+      "gloss": "ruwaħ"
     },
     {
       "surface": "אשר",
@@ -90,7 +64,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "fiha"
+      "gloss": "kienet fiha"
     },
     {
       "surface": "לא",
@@ -102,15 +76,15 @@
     },
     {
       "surface": "שריד",
-      "gloss": "żerżiq"
+      "gloss": "ħaj ma baqa'"
     },
     {
       "surface": "ככל",
-      "gloss": "kollox kif"
+      "gloss": "bħal kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "ma"
     },
     {
       "surface": "עשה",
@@ -122,17 +96,17 @@
     },
     {
       "surface": "ויחרם",
-      "gloss": "ta l-ħrem"
+      "gloss": "u ħarrimha għal kollox"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "lilha"
+      "marks": "ilha (Ħevron)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kull nefes li fiha"
+      "gloss": "u lil ⟨את⟩",
+      "marks": "kull ruwaħ li kienet fiha"
     },
     {
       "surface": "כל",
@@ -140,7 +114,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "nefes"
+      "gloss": "ruwaħ"
     },
     {
       "surface": "אשר",
@@ -148,9 +122,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "fiha"
+      "gloss": "kienet fiha"
     }
   ],
-  "timestamp": "2026-10-21T18:15:34.648852136Z",
+  "timestamp": "2026-10-22T00:34:47.315637640Z",
   "model": "glm-5.3"
 }

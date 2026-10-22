@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צנצנת",
-      "rationale": "ballotte: kelma li tidher darba biss mill-ġdid aktar tard; kelma qadima għal vażż tat-tajjeb"
-    },
-    {
-      "kind": "measurement",
-      "subject": "gomer",
-      "rationale": "miżura tal-ikel għal ġurnata, miżjuma hawn għall-ġenerazzjonijiet"
-    }
-  ],
-  "translation": "U Moxe qal lil Aharon: Ħu ballotte waħda u poġġi fiha gomer mimli man, u aħlitu quddiem Jaħwe biex jinżamm għal ġenerazzjonijietkom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "8968a404f1361520bccaabbf8e4847241a63238e2b268f7ce172189f22d006be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/33-36.1792599613686.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe qal lil Aharon: Ħu vażar wieħed u poġġi fih gomer mijjar tal-man, u deħqu ⟨את⟩ quddiem Jaħwe, għall-għassa għal ġenerazzjonijietkom.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "qal"
+      "gloss": "u qal"
     },
     {
       "surface": "משה",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "צנצנת",
-      "gloss": "ballotte"
+      "gloss": "vażar"
     },
     {
       "surface": "אחת",
-      "gloss": "waħda"
+      "gloss": "wieħed"
     },
     {
       "surface": "ותן",
-      "gloss": "poġġi"
+      "gloss": "u poġġi"
     },
     {
       "surface": "שמה",
-      "gloss": "fiha"
+      "gloss": "fih"
     },
     {
       "surface": "מלא",
-      "gloss": "mimli"
+      "gloss": "mijjar"
     },
     {
       "surface": "העמר",
@@ -74,16 +53,16 @@
     },
     {
       "surface": "מן",
-      "gloss": "man"
+      "gloss": "tal-man"
     },
     {
       "surface": "והנח",
-      "gloss": "aħli"
+      "gloss": "u deħqu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ tu",
-      "marks": "il-ballotte"
+      "gloss": "⟨את⟩",
+      "marks": "deħqu — quddiem Jaħwe"
     },
     {
       "surface": "לפני",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "biex jinżamm"
+      "gloss": "għall-għassa"
     },
     {
       "surface": "לדרתיכם",
       "gloss": "għal ġenerazzjonijietkom"
     }
   ],
-  "timestamp": "2026-10-21T16:20:13.687059740Z",
+  "timestamp": "2026-10-22T00:12:27.291139374Z",
   "model": "glm-5.3"
 }

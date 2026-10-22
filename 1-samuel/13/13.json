@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Xaul",
-      "rationale": "Samuel addresses Saul directly in second person throughout."
-    },
-    {
-      "kind": "crux",
-      "subject": "כי עתה הכין",
-      "rationale": "'for now would YHWH have established' — a counterfactual without the verb 'if you had'; the perfect הכין read as 'would have established'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "is-saltna",
-      "rationale": "ממלכת is 'kingdom\/dominion' — abstract estate of rule, rendered with the Maltese word for kingdom."
-    }
-  ],
-  "translation": "U Xemuwel qal lil Xaul: inti ħmaqt, u ma żammejtx ⟨את⟩ il-precett ta' Jaħwe Elohim tiegħek, li ordnalek, għalissa Jaħwe kien jesaħħaħ ⟨את⟩ is-saltna tiegħek fuq Jisrael għal dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/13\/13-16.1792607915321.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Xemwel qal lil Xaul: Int ħlit; ma żammejtx ⟨את⟩ il-plinga ta' Jaħwe Elohim tiegħek, li jalledlek, għax ⟨issa⟩ Jaħwe kien jistabbilixxa ⟨את⟩ is-saltna tiegħek fuq Jisrael għal dejjem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "שמואל",
-      "gloss": "Xemuwel"
+      "gloss": "Xemwel"
     },
     {
       "surface": "אל",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "נסכלת",
-      "gloss": "ħmaqt"
+      "gloss": "ħlit"
     },
     {
       "surface": "לא",
@@ -64,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-precett"
+      "marks": "il-plinga"
     },
     {
       "surface": "מצות",
-      "gloss": "il-precett"
+      "gloss": "il-plinga"
     },
     {
       "surface": "יהוה",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "צוך",
-      "gloss": "ordnalek"
+      "gloss": "jalledlek"
     },
     {
       "surface": "כי",
-      "gloss": "għalissa"
+      "gloss": "għax"
     },
     {
       "surface": "עתה",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "הכין",
-      "gloss": "kien jesaħħaħ"
+      "gloss": "kien jistabbilixxa"
     },
     {
       "surface": "יהוה",
@@ -128,6 +102,6 @@
       "gloss": "dejjem"
     }
   ],
-  "timestamp": "2026-10-21T18:38:35.321747664Z",
+  "timestamp": "2026-10-21T23:58:50.675682466Z",
   "model": "glm-5.3"
 }

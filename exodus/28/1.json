@@ -5,45 +5,24 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moxe",
-      "rationale": "Kmand dirett lil Moxe biex iqarreb lil ħuh u lil uliedu għas-servizz qassisili"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jaqdi qassis",
-      "rationale": "לכהנו hu infinitiv b'-ל: 'biex iqassis' (jew biex jaqdi qassis) għalija"
-    }
-  ],
-  "translation": "U int qarreb lejk ⟨את⟩ lil Aharon, ħuk, u ⟨את⟩ lil wliedu miegħu, minn fost ulied Jisrael, biex jaqdi qassis għalija: Aharon, Nadav u Avihua, Elazar u Itamar, ulied Aharon.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "9cd069d94489ba78ba472b2c60ea5cab77c301ec5dbe39cec55dac5827546e8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/28\/1-4.1792599968034.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int, ħareġ lejk lil ⟨את⟩ Aharon ħuk, u ⟨את⟩ uliedu ⟨את⟩ miegħu, minn nofs wlied Jisrael, biex iqerredu għalija: Aharon, Nadab u Avihù, Elazar u Itamar, ulied Aharon.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "u int"
+      "gloss": "U int"
     },
     {
       "surface": "הקרב",
-      "gloss": "qarreb"
+      "gloss": "ħareġ lejk"
     },
     {
       "surface": "אליך",
-      "gloss": "lejk"
+      "gloss": "lek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Aharon"
+      "marks": "Aharon ħuk"
     },
     {
       "surface": "אהרן",
@@ -56,23 +35,23 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "lil wliedu"
+      "marks": "uliedu"
     },
     {
       "surface": "בניו",
-      "gloss": "wliedu"
+      "gloss": "uliedu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "miegħu ⟨את⟩"
     },
     {
       "surface": "מתוך",
-      "gloss": "minn fost"
+      "gloss": "minn nofs"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "ישראל",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "לכהנו",
-      "gloss": "biex jaqdi qassis"
+      "gloss": "biex iqerredu"
     },
     {
       "surface": "לי",
@@ -92,18 +71,18 @@
     },
     {
       "surface": "נדב",
-      "gloss": "Nadav"
+      "gloss": "Nadab"
     },
     {
       "surface": "ואביהוא",
-      "gloss": "u Avihua"
+      "gloss": "u Avihù"
     },
     {
       "surface": "אלעזר",
       "gloss": "Elazar"
     },
     {
-      "surface": "ויתמר",
+      "surface": "ואיתמר",
       "gloss": "u Itamar"
     },
     {
@@ -115,6 +94,6 @@
       "gloss": "Aharon"
     }
   ],
-  "timestamp": "2026-10-21T16:26:08.035027295Z",
+  "timestamp": "2026-10-22T00:13:53.693885773Z",
   "model": "glm-5.3"
 }

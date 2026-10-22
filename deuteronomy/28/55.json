@@ -5,31 +5,15 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מצור\/מצוק\/יציק",
-      "rationale": "Għerq צוק jidher tliet darbiet bħal f'v. 53 — l-isterzor tal-assedju mill-istess għerq tal-għadu li jissikka."
-    }
-  ],
-  "translation": "Sabiex ma jagħtix lill-waħda minnhom mill-laħam ta' wliedu li huwa jiekol, għaliex ma jibqa' għalih xejn, fl-assedju u fin-nikka li għadek jikkastigak f'kull wieħed minn bibienek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6a8f570ccf4f105af9ef5f71268a8659a6678ac49f797c601e71ed5bbd67ebe2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/28\/53-56.1792606097346.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "biex ma jagħti lil wieħed minnhom mis-laħam ta' uliedu li jiekol, għax ma jibqa' ⟨lu⟩ xejn, fl-assedju u fin-niketa li jiskanza lilek għadu k f'biebek kollha.",
   "tokens": [
     {
       "surface": "מתת",
-      "gloss": "sabiex ma jagħtix"
+      "gloss": "ma jagħti"
     },
     {
       "surface": "לאחד",
-      "gloss": "lill-waħda"
+      "gloss": "lil wieħed"
     },
     {
       "surface": "מהם",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "מבשר",
-      "gloss": "mill-laħam"
+      "gloss": "mis-laħam"
     },
     {
       "surface": "בניו",
-      "gloss": "ta' wliedu"
+      "gloss": "ta' uliedu"
     },
     {
       "surface": "אשר",
@@ -53,15 +37,15 @@
     },
     {
       "surface": "מבלי",
-      "gloss": "għaliex ma"
+      "gloss": "għax ma jibqa'"
     },
     {
       "surface": "השאיר",
-      "gloss": "jibqa' għalih"
+      "gloss": "jibqa'"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "⟨lu⟩"
     },
     {
       "surface": "כל",
@@ -73,7 +57,7 @@
     },
     {
       "surface": "ובמצוק",
-      "gloss": "u fin-nikka"
+      "gloss": "u fin-niketa"
     },
     {
       "surface": "אשר",
@@ -81,25 +65,25 @@
     },
     {
       "surface": "יציק",
-      "gloss": "jikkastigak"
+      "gloss": "jiskanza"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "lilek"
     },
     {
       "surface": "איבך",
-      "gloss": "għadek"
+      "gloss": "għadu k"
     },
     {
       "surface": "בכל",
-      "gloss": "f'kull wieħed minn"
+      "gloss": "f'"
     },
     {
       "surface": "שעריך",
-      "gloss": "bibienek"
+      "gloss": "biebek kollha"
     }
   ],
-  "timestamp": "2026-10-21T18:08:17.347669074Z",
+  "timestamp": "2026-10-22T00:10:32.457621542Z",
   "model": "glm-5.3"
 }

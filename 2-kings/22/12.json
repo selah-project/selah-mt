@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "l-infinitiv 'għal qawl' jibqa' ma tradott biss b'jgħid; il-kliem ta' ġewwa (v.13) ġej wara"
-    }
-  ],
-  "translation": "U s-sultan amar lil ⟨את⟩ Ħilqijah s-sacerdot u lil ⟨את⟩ Aħiqam iben Xafan u lil ⟨את⟩ Akbor iben Mikajah u lil ⟨את⟩ Xafan l-iskrivana u lil ⟨את⟩ Asajah qaddej is-sultan, jgħid:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "082bf40211ddafb5ac2df370970d3739275cadb31a81d019ad4eed5815e1f8ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/22\/9-12.1792610709412.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U s-sultan amar lil Ħilqijaħ il-qassis, u ⟨את⟩ lil Aħiqam iben Xafan, u ⟨את⟩ lil Għakbor iben Mixaja, u ⟨את⟩ lil Xafan l-iskrivent, u ⟨את⟩ lil Asaja qaddej is-sultan, jgħidu:",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "U amar lil"
+      "gloss": "amar"
     },
     {
       "surface": "המלך",
@@ -34,20 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ħilqijah"
+      "marks": "Ħilqijaħ il-qassis"
     },
     {
       "surface": "חלקיה",
-      "gloss": "Ħilqijah"
+      "gloss": "Ħilqijaħ"
     },
     {
       "surface": "הכהן",
-      "gloss": "s-sacerdot"
+      "gloss": "il-qassis"
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "Aħiqam"
+      "gloss": "u ⟨את⟩",
+      "marks": "Aħiqam iben Xafan"
     },
     {
       "surface": "אחיקם",
@@ -63,12 +47,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "Akbor"
+      "gloss": "u ⟨את⟩",
+      "marks": "Għakbor iben Mixaja"
     },
     {
       "surface": "עכבור",
-      "gloss": "Akbor"
+      "gloss": "Għakbor"
     },
     {
       "surface": "בן",
@@ -76,12 +60,12 @@
     },
     {
       "surface": "מיכיה",
-      "gloss": "Mikajah"
+      "gloss": "Mixaja"
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "Xafan"
+      "gloss": "u ⟨את⟩",
+      "marks": "Xafan l-iskrivent"
     },
     {
       "surface": "שפן",
@@ -89,16 +73,16 @@
     },
     {
       "surface": "הספר",
-      "gloss": "l-iskrivana"
+      "gloss": "l-iskrivent"
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "Asajah"
+      "gloss": "u ⟨את⟩",
+      "marks": "Asaja qaddej is-sultan"
     },
     {
       "surface": "עשיה",
-      "gloss": "Asajah"
+      "gloss": "Asaja"
     },
     {
       "surface": "עבד",
@@ -110,9 +94,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jgħid"
+      "gloss": "jgħidu"
     }
   ],
-  "timestamp": "2026-10-21T19:25:09.413530739Z",
+  "timestamp": "2026-10-22T00:04:24.107516083Z",
   "model": "glm-5.3"
 }

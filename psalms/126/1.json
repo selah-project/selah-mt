@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 126,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ir-ritorn ta' Zion",
-      "rationale": "שיבת: 'return\/captivity-restore' — 'ir-ritorn' vs 'il-ħelsien mill-eżilju'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שיבת\/בשוב",
-      "rationale": "Għerq wieħed שׁוב imtedded darbtejn fil-vers, mitluf fit-traduzzjoni."
-    },
-    {
-      "kind": "substitution",
-      "subject": "konna bħal dawk li jorqdu bil-ħolm",
-      "rationale": "כחלמים — 'bħal ħolmien'; il-plural Malti jeħtieġ parafrażi."
-    }
-  ],
-  "translation": "Għanja tas-snin tagħna 'l fuq (Song of the degrees). Meta Jaħwe rritorna ⟨את⟩ ir-ritorn ta' Zion, konna bħal dawk li jorqdu bil-ħolm.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/126\/1-4.1792618111754.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għanja tal-ixxirkumenti. Meta Jaħwe ġie lura ⟨את⟩ il-ħelsien ta' Sajon, aħna konna bħal dawk li joħolmu.",
   "tokens": [
     {
       "surface": "שיר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "המעלות",
-      "gloss": "tas-snin tagħna 'l fuq (Song of the degrees)"
+      "gloss": "tal-ixxirkumenti"
     },
     {
       "surface": "בשוב",
-      "gloss": "meta rritorna"
+      "gloss": "Meta ġie lura"
     },
     {
       "surface": "יהוה",
@@ -52,25 +26,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ir-riturn ta' Zion"
+      "marks": "il-ħelsien ta' Sajon"
     },
     {
       "surface": "שיבת",
-      "gloss": "ir-ritorn"
+      "gloss": "il-ħelsien"
     },
     {
       "surface": "ציון",
-      "gloss": "ta' Zion"
+      "gloss": "Sajon"
     },
     {
       "surface": "היינו",
-      "gloss": "konna"
+      "gloss": "aħna konna"
     },
     {
       "surface": "כחלמים",
-      "gloss": "bħal dawk li jorqdu bil-ħolm"
+      "gloss": "bħal dawk li joħolmu"
     }
   ],
-  "timestamp": "2026-10-21T21:28:31.755202212Z",
+  "timestamp": "2026-10-22T00:49:08.293159400Z",
   "model": "glm-5.3"
 }

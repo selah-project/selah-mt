@@ -5,48 +5,27 @@
   "book": "zephaniah",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "fihom",
-      "rationale": "il-Malti jeħtieġ 'fihom' għal ישבו, żvilupp minn 'joqogħdu'"
-    },
-    {
-      "kind": "elision",
-      "subject": "והיה",
-      "rationale": "'u se jkun' — formula tat-tpattija, ma għandhiex kopja eżatta"
-    }
-  ],
-  "translation": "U ⟨se jkun⟩ li ġidhom ikun għal seraq, u djarhom għal felonya; u jibnu djar u ma joqogħdux fihom, u jitħawwlew ibla u ma jixorbu ⟨את⟩ inbidhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zephaniah\/1\/13-16.1792616046224.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨se jsir⟩ il-ġid tagħhom għal serq, u d-djar tagħhom għal mċaħħba; u jibnu djar u ma joqogħdux fihom, u jitħawwlu rrebtiet u ma jorbtux ⟨את⟩ inbidhom.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "u ⟨se jkun⟩"
+      "gloss": "u se jsir"
     },
     {
       "surface": "חילם",
-      "gloss": "ġidhom"
+      "gloss": "il-ġid tagħhom"
     },
     {
       "surface": "למשסה",
-      "gloss": "għal seraq"
+      "gloss": "għal serq"
     },
     {
       "surface": "ובתיהם",
-      "gloss": "u djarhom"
+      "gloss": "u d-djar tagħhom"
     },
     {
       "surface": "לשממה",
-      "gloss": "għal felonya"
+      "gloss": "għal mċaħħba"
     },
     {
       "surface": "ובנו",
@@ -58,27 +37,27 @@
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "ma"
     },
     {
       "surface": "ישבו",
-      "gloss": "joqogħdux"
+      "gloss": "joqogħdu"
     },
     {
       "surface": "ונטעו",
-      "gloss": "u jitħawwlew"
+      "gloss": "u jitħawwlu"
     },
     {
       "surface": "כרמים",
-      "gloss": "ibla"
+      "gloss": "rrebtiet"
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "ma"
     },
     {
       "surface": "ישתו",
-      "gloss": "jixorbu"
+      "gloss": "jorbtu"
     },
     {
       "surface": "את",
@@ -90,6 +69,6 @@
       "gloss": "inbidhom"
     }
   ],
-  "timestamp": "2026-10-21T20:54:06.225368266Z",
+  "timestamp": "2026-10-22T00:51:21.835929255Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רעה\/ירעה\/לרעה",
-      "rationale": "l-għerq רעה jidher erbt darbiet fil-vers — ragħaj\/jirgħahom — il-ħila ta' kelma waħda"
-    },
-    {
-      "kind": "mystery",
-      "subject": "ragħaj wieħed",
-      "rationale": "David ilirġa' bħala ragħaj wieħed — tas-sitwazzjoni ta' eżilju, mhux spjegat kif"
-    }
-  ],
-  "translation": "U nqajjem fuqhom ragħaj wieħed, u jirgħahom — ⟨את⟩ lil qaddejja David; hu jirgħahom, u hu jkun għalihom ragħaj.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/34\/21-24.1792614927018.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nqajjem fuqhom ragħaj wieħed, u hu jaħdemhom — ⟨את⟩ ragħaj wieħed, ⟨את⟩ David il-qaddej tiegħi; hu jirgħahom, u hu jkunilhom ⟨għal⟩ ragħaj.",
   "tokens": [
     {
       "surface": "והקמתי",
@@ -46,21 +25,21 @@
     },
     {
       "surface": "ורעה",
-      "gloss": "u jirgħahom"
+      "gloss": "u jaħdem"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "l-merħla"
+      "marks": "dawn (il-merħla, femminil)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qaddejja David"
+      "marks": "David il-qaddej"
     },
     {
       "surface": "עבדי",
-      "gloss": "qaddejja"
+      "gloss": "il-qaddej tiegħi"
     },
     {
       "surface": "דויד",
@@ -72,12 +51,12 @@
     },
     {
       "surface": "ירעה",
-      "gloss": "jirgħahom"
+      "gloss": "jirgħa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "l-merħla"
+      "marks": "lilhom (il-merħla)"
     },
     {
       "surface": "והוא",
@@ -89,13 +68,13 @@
     },
     {
       "surface": "להן",
-      "gloss": "għalihom"
+      "gloss": "lilhom"
     },
     {
       "surface": "לרעה",
       "gloss": "ragħaj"
     }
   ],
-  "timestamp": "2026-10-21T20:35:27.019398036Z",
+  "timestamp": "2026-10-22T00:18:12.626708383Z",
   "model": "glm-5.3"
 }

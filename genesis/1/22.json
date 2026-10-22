@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "għandhom jikbru",
-      "rationale": "ירב jissogra (kalma waħda) — 'ħalltru' b'imperattiv jaffaċċa l-għasafar"
-    },
-    {
-      "kind": "you",
-      "subject": "il-ħlejjaq tal-baħar u l-għasafar",
-      "rationale": "il-barka diretta lill-ħlejjaq bl-imperattiv"
-    }
-  ],
-  "translation": "U berikkhom Elohim billi qal: Agħtu frott u ħalltru, u imlew ⟨את⟩ l-ilmijiet fil-baħar; u l-għasafar għandhom jikbru fl-art.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "27cee0be9fa308979bc21a1a5fee43f06903801d28a065447bb7f92d0bc241ed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/1\/21-24.1792597671190.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Elohim berikkhom ⟨את⟩ lilhom, jgħid: Sirew u żidu u imlew ⟨את⟩ l-ilmijiet fil-ibħra, u l-għasafar jiżdiedu fl-art.",
   "tokens": [
     {
       "surface": "ויברך",
@@ -34,7 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "lilhom — l-ibħra u l-għasafar maħluqin"
     },
     {
       "surface": "אלהים",
@@ -42,15 +22,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "billi qal"
+      "gloss": "jgħid"
     },
     {
       "surface": "פרו",
-      "gloss": "agħtu frott"
+      "gloss": "Sirew"
     },
     {
       "surface": "ורבו",
-      "gloss": "u ħalltru"
+      "gloss": "u żidu"
     },
     {
       "surface": "ומלאו",
@@ -67,7 +47,7 @@
     },
     {
       "surface": "בימים",
-      "gloss": "fil-baħar"
+      "gloss": "fil-ibħra"
     },
     {
       "surface": "והעוף",
@@ -75,13 +55,13 @@
     },
     {
       "surface": "ירב",
-      "gloss": "għandhom jikbru"
+      "gloss": "jiżdiedu"
     },
     {
       "surface": "בארץ",
       "gloss": "fl-art"
     }
   ],
-  "timestamp": "2026-10-21T15:47:51.191839304Z",
+  "timestamp": "2026-10-22T00:20:24.461052632Z",
   "model": "glm-5.3"
 }

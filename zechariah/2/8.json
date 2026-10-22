@@ -5,54 +5,23 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אלו",
-      "gloss": "il-prepozizzjoni 'għandu' tidhol fil-verb Malti 'qalilu'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פרזות",
-      "rationale": "plural ta' 'art miftuħa bla swar' — tradott 'bħal bliet bla swar' biex il-figura tal-kobor tinżamm"
-    },
-    {
-      "kind": "you",
-      "subject": "dak iż-żagħżugħ",
-      "rationale": "imperattiv doppju addrezzat lill-żagħżugħ — Ċaqlaq, kellem"
-    },
-    {
-      "kind": "measurement",
-      "subject": "bhejjem",
-      "rationale": "il-ħela ta' nies u bhejjem hija l-għan tal-kejl tal-ħabel"
-    }
-  ],
-  "translation": "U qalilu: Ċaqlaq, kellem lil dak iż-żagħżugħ, għidlu: Bħal bliet bla swar se toqgħod Jeruxalajim, minħabba l-ħela ta' nies u ta' bhejjem fi ħdanha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/2\/5-8.1792616170382.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal lilu: Ġirgħal, għid lil dak iż-żagħżugħ hekk: Mingħajr ħitan se tgħix Jeruxalajim, minħabba l-għadd kbir tan-nies u l-bhejjem fi ġo witcha.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qalilu"
+      "gloss": "u qal"
     },
     {
       "surface": "אלו",
-      "gloss": ""
+      "gloss": "lilu"
     },
     {
       "surface": "רץ",
-      "gloss": "Ċaqlaq"
+      "gloss": "ġirgħal"
     },
     {
       "surface": "דבר",
-      "gloss": "kellem"
+      "gloss": "għid"
     },
     {
       "surface": "אל",
@@ -64,19 +33,19 @@
     },
     {
       "surface": "הלז",
-      "gloss": "dan"
+      "gloss": "hekk"
     },
     {
       "surface": "לאמר",
-      "gloss": "għidlu"
+      "gloss": "billu tgħid"
     },
     {
       "surface": "פרזות",
-      "gloss": "bħal bliet bla swar"
+      "gloss": "mingħajr ħitan"
     },
     {
       "surface": "תשב",
-      "gloss": "se toqgħod"
+      "gloss": "se tgħix"
     },
     {
       "surface": "ירושלם",
@@ -84,21 +53,21 @@
     },
     {
       "surface": "מרב",
-      "gloss": "minħabba l-ħela ta'"
+      "gloss": "minħabba l-għadd kbir"
     },
     {
       "surface": "אדם",
-      "gloss": "nies"
+      "gloss": "tan-nies"
     },
     {
       "surface": "ובהמה",
-      "gloss": "u bhejjem"
+      "gloss": "u l-bhejjem"
     },
     {
       "surface": "בתוכה",
-      "gloss": "fi ħdanha"
+      "gloss": "fi ġo witcha"
     }
   ],
-  "timestamp": "2026-10-21T20:56:10.383441499Z",
+  "timestamp": "2026-10-22T00:51:22.861565849Z",
   "model": "glm-5.3"
 }

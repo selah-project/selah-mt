@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גאל יגאל",
-      "rationale": "infinitiv absolut qabel il-verb: 'jifdi tabilħaqq jifdi', enfasi li ma tidhirx bħala repetizzjoni sempliċi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ħames parti",
-      "rationale": "għadd ta' ħlas: ħamsa minn ħamsa mit-total biex jerġa' jikseb il-għalqa"
-    }
-  ],
-  "translation": "U jekk jifdi b'ħila jifdi ⟨את⟩ l-għalqa dak li jqaddisha, jżid il-ħames parti ta' flus l-istima tiegħek fuqha, u tibqa' ⟨għalih⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/27\/17-20.1792602221250.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk jirfid tassew ⟨את⟩ il-għalqa dak li qaddisha, iżżid il-ħames ta' l-istejma ta' flusek fuqha, u ⟨tiġi⟩ mwiegħda lilu.",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,45 +13,44 @@
     },
     {
       "surface": "גאל",
-      "gloss": "jifdi"
+      "gloss": "jirfid"
     },
     {
       "surface": "יגאל",
-      "gloss": "jifdi"
+      "gloss": "tassew"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-għalqa"
+      "marks": "il-għalqa"
     },
     {
       "surface": "השדה",
-      "gloss": "l-għalqa"
+      "gloss": "il-għalqa"
     },
     {
       "surface": "המקדיש",
-      "gloss": "dak li jqaddisha"
+      "gloss": "dak li qaddisha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "dak li jqaddisha"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "ויסף",
-      "gloss": "jżid"
+      "gloss": "iżżid"
     },
     {
       "surface": "חמשית",
-      "gloss": "il-ħames parti"
+      "gloss": "il-ħames"
     },
     {
       "surface": "כסף",
-      "gloss": "ta' flus"
+      "gloss": "ta' flusek"
     },
     {
       "surface": "ערכך",
-      "gloss": "l-istima tiegħek"
+      "gloss": "l-istejma"
     },
     {
       "surface": "עליו",
@@ -80,13 +58,13 @@
     },
     {
       "surface": "וקם",
-      "gloss": "u tibqa'"
+      "gloss": "mwiegħda"
     },
     {
       "surface": "לו",
-      "gloss": "għalih"
+      "gloss": "lilu"
     }
   ],
-  "timestamp": "2026-10-21T17:03:41.252540270Z",
+  "timestamp": "2026-10-22T00:41:26.526997816Z",
   "model": "glm-5.3"
 }

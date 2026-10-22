@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תשא את שם",
-      "rationale": "Lit. 'iġorr\/isemma' l-isem; il-Malti 'jorbu isem' għandu l-istess stampa ta' ġirja ta' lsien."
-    },
-    {
-      "kind": "addition",
-      "subject": "dak li",
-      "rationale": "Sostantiv relattiv miżjud bil-Malti għall-kostruzzjoni ta' אשר."
-    }
-  ],
-  "translation": "Ma torbtux ⟨את⟩ isem Jaħwe Elohim tiegħek għal bażil; għaliex Jaħwe ma jaħfrax lil ⟨dak li⟩ jorbu ⟨את⟩ ismu għal bażil.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/5\/9-12.1792605436071.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ma tgħaddix ⟨את⟩ isem Jaħwe Elohim tiegħek għall-battal, għax Jaħwe mhux se jaħfrilix lil dak ⟨את⟩ li jgħaddi ⟨את⟩ ismu għall-battal.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Ma"
+      "gloss": "ma"
     },
     {
       "surface": "תשא",
-      "gloss": "torbtux"
+      "gloss": "tgħaddix"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isem Jaħwe"
+      "marks": "isem"
     },
     {
       "surface": "שם",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "לשוא",
-      "gloss": "għal bażil"
+      "gloss": "għall-battal"
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "ינקה",
-      "gloss": "jaħfrax"
+      "gloss": "jaħfrilix"
     },
     {
       "surface": "יהוה",
@@ -76,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li jorbu ismu"
+      "marks": "dak li"
     },
     {
       "surface": "אשר",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ישא",
-      "gloss": "jorbu"
+      "gloss": "jgħaddi"
     },
     {
       "surface": "את",
@@ -97,9 +76,9 @@
     },
     {
       "surface": "לשוא",
-      "gloss": "għal bażil"
+      "gloss": "għall-battal"
     }
   ],
-  "timestamp": "2026-10-21T17:57:16.072674626Z",
+  "timestamp": "2026-10-22T00:10:59.649764665Z",
   "model": "glm-5.3"
 }

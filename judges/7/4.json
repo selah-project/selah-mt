@@ -5,34 +5,7 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואצרפנו",
-      "rationale": "minn għerq tar-raffinar tal-metall: 'insegħluhom \/ nirraffinhom' — il-metifora tat-tindif bil-ibba",
-      "rationale2": ""
-    },
-    {
-      "kind": "you",
-      "subject": "lil Gidgħon",
-      "rationale": "indirizz dirett ta' Jaħwe lil Gidgħon bi tliet imperattivi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זה ילך \/ לא ילך",
-      "rationale": "repetizzjoni parallela 'hu jimxi \/ hu ma jimxix' — struttura retorika ta' azzjoni u negazzjoni mitluba minn Jaħwe"
-    }
-  ],
-  "translation": "U Jaħwe qal lil Gidgħon: Għadu l-poplu wisq; niżżel lilhom ⟨את⟩ għall-ilma, u nirraffinhomlok hemm; u jsir li min ngħidlek, Dan jimxi miegħek, hu jimxi miegħek; u kulmin ngħidlek, Dan ma jimxix miegħek, hu ma jimxix.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bac4f7d8a929995e390d1bb600574bcefaa15bd0778d0bc58bb3c6b14e1dab01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/7\/1-4.1792607139047.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe qal lil Gidgħon: Għadu hemm wisq nies; inżel ⟨את⟩ il-poplu għand l-ilma, u jien nsawwabhom hemm għalik; u jkun li dak li ngħidilek: Dan jimxi miegħek, huwa jimxi miegħek; u kulmin ngħidilek: Dan ma jimxix miegħek, huwa ma jimxix.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "Għadu"
+      "gloss": "għadu"
     },
     {
       "surface": "העם",
@@ -60,32 +33,32 @@
     },
     {
       "surface": "רב",
-      "gloss": "wisq"
+      "gloss": "hemm wisq"
     },
     {
       "surface": "הורד",
-      "gloss": "niżżel"
+      "gloss": "inżel"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "marks": "il-poplu"
     },
     {
       "surface": "אל",
-      "gloss": "għall-"
+      "gloss": "għand"
     },
     {
       "surface": "המים",
-      "gloss": "ilma"
+      "gloss": "l-ilma"
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "u nirraffinhomlok"
+      "gloss": "u nsawwabhom"
     },
     {
       "surface": "לך",
-      "gloss": "lok"
+      "gloss": "għalik"
     },
     {
       "surface": "שם",
@@ -93,15 +66,15 @@
     },
     {
       "surface": "והיה",
-      "gloss": "u jsir"
+      "gloss": "u jkun"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "li"
     },
     {
       "surface": "אמר",
-      "gloss": "ngħidlek"
+      "gloss": "ngħid"
     },
     {
       "surface": "אליך",
@@ -109,7 +82,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "Dan"
+      "gloss": "dan"
     },
     {
       "surface": "ילך",
@@ -121,7 +94,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "hu"
+      "gloss": "huwa"
     },
     {
       "surface": "ילך",
@@ -137,11 +110,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "li"
     },
     {
       "surface": "אמר",
-      "gloss": "ngħidlek"
+      "gloss": "ngħid"
     },
     {
       "surface": "אליך",
@@ -149,7 +122,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "Dan"
+      "gloss": "dan"
     },
     {
       "surface": "לא",
@@ -165,7 +138,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "hu"
+      "gloss": "huwa"
     },
     {
       "surface": "לא",
@@ -176,6 +149,6 @@
       "gloss": "jimxix"
     }
   ],
-  "timestamp": "2026-10-21T18:25:39.049810139Z",
+  "timestamp": "2026-10-22T00:39:00.284712675Z",
   "model": "glm-5.3"
 }

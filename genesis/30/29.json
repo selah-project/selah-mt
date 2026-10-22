@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is-sors",
-      "rationale": "מקנה huwa l-ħlejjaq ta' sors — bhejjem ħajjin bħala ġid; 'sors' jiffranka l-ħlejjaq mejta"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "prepożizzjoni 'miegħi' imżjuda fil-ħajt tar-rendizzjoni għax l-istruttura tal-Malti titlobha"
-    }
-  ],
-  "translation": "U qal lilu: Inti taf ⟨את⟩ dak li ksirtlek b'ħidmti, u ⟨את⟩ dak li kienet is-sors tiegħek miegħi.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "fa57f945753fbbb915c8e78712f474a8732ee2b237c69626914d1d3cf9d0e5e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/30\/29-32.1792598516163.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qalilu: Inti taf ⟨את⟩ kif jiena ħdimtek, u ⟨את⟩ dak li saru l-bhejjem tiegħek ⟨את⟩ miegħi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "lilu"
+      "gloss": "lu"
     },
     {
       "surface": "אתה",
@@ -47,20 +26,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li ksirtlek b'ħidmti"
+      "marks": "kif jiena ħdimtek"
     },
     {
       "surface": "אשר",
-      "gloss": "dak li"
+      "gloss": "kif"
     },
     {
       "surface": "עבדתיך",
-      "gloss": "ksirtlek b'ħidmti"
+      "gloss": "ħdimtek"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dak li kienet is-sors tiegħek"
+      "gloss": "u ⟨את⟩",
+      "marks": "dak li saru l-bhejjem tiegħek miegħi"
     },
     {
       "surface": "אשר",
@@ -68,18 +47,17 @@
     },
     {
       "surface": "היה",
-      "gloss": "kienet"
+      "gloss": "sar"
     },
     {
       "surface": "מקנך",
-      "gloss": "is-sors tiegħek"
+      "gloss": "il-bhejjem tiegħek"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "is-sors tiegħek — miegħi"
+      "gloss": "miegħi ⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-21T16:01:56.164297304Z",
+  "timestamp": "2026-10-22T00:22:10.557926923Z",
   "model": "glm-5.3"
 }

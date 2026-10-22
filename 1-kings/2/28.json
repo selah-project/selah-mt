@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "il-Malti jeħtieġ l-għajnuna 'kien' għall-passat imqabbad, li mhux hemm fil-Lhudi"
-    },
-    {
-      "kind": "elision",
-      "subject": "אחרי",
-      "rationale": "l-ewwel אחרי tidduplikat fil-verb Malti 'inżamm ma'', għalhekk għaddiet bħala xfira"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נטה...נטה",
-      "rationale": "ripetizzjoni ta' נטה (sar\/dawl ma') tagħti l-echo retoriku: żewġ darbiet bl-istess kelma, waħda pożittiva u waħda miċħuda"
-    }
-  ],
-  "translation": "U l-aħbar waslet sa ħadd Jowab, għax Jowab kien inżamm ma' Adonija, iżda ma' Avxalom ma inżammx; u Jowab ħarab lejn it-tinda ta' Jaħwe u qabad b'saħħtu fil-qrun tal-artal.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e08ae372d611aab9b603339ad523c6fc6a10749ea9dcf80a18f347db70a7ba42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/2\/28-28.1792623282060.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-aħbar waslet għand Joab, għax Joab kien inqaleb wara Adonija, iżda wara Avxalum ma kienx inqaleb; u Joab ħarab lejn il-‏jedd ta' Jaħwe, u ħakem biċ-‏qrun tal-artal.",
   "tokens": [
     {
       "surface": "והשמעה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "sa ħadd"
+      "gloss": "għand"
     },
     {
       "surface": "יואב",
-      "gloss": "Jowab"
+      "gloss": "Joab"
     },
     {
       "surface": "כי",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Jowab"
+      "gloss": "Joab"
     },
     {
       "surface": "נטה",
-      "gloss": "inżamm ma'"
+      "gloss": "kien inqaleb"
     },
     {
       "surface": "אחרי",
-      "gloss": ""
+      "gloss": "wara"
     },
     {
       "surface": "אדניה",
@@ -71,19 +45,19 @@
     },
     {
       "surface": "ואחרי",
-      "gloss": "iżda ma'"
+      "gloss": "iżda wara"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avxalom"
+      "gloss": "Avxalum"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "ma kienx"
     },
     {
       "surface": "נטה",
-      "gloss": "inżammx"
+      "gloss": "inqaleb"
     },
     {
       "surface": "וינס",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Jowab"
+      "gloss": "Joab"
     },
     {
       "surface": "אל",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "it-tinda"
+      "gloss": "il-‏jedd"
     },
     {
       "surface": "יהוה",
@@ -107,17 +81,17 @@
     },
     {
       "surface": "ויחזק",
-      "gloss": "u qabad b'saħħtu"
+      "gloss": "u ħakem"
     },
     {
       "surface": "בקרנות",
-      "gloss": "fil-qrun"
+      "gloss": "biċ-‏qrun"
     },
     {
       "surface": "המזבח",
       "gloss": "tal-artal"
     }
   ],
-  "timestamp": "2026-10-21T22:54:42.062341091Z",
+  "timestamp": "2026-10-21T23:56:54.527993455Z",
   "model": "glm-5.3"
 }

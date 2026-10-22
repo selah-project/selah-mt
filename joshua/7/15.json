@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħmerija",
-      "rationale": "נבלה: 'folly\/ħmerija' mhux sempliċiment 'dnub' — kliem għal att ta' stupidità morali"
-    },
-    {
-      "kind": "substitution",
-      "subject": "qabeż",
-      "rationale": "עבר: 'qabeż' — iffirma l-patt billi għadda bejn il-qtajat, għalhekk 'qabeż il-patt'"
-    }
-  ],
-  "translation": "U jkun li dak li jittieħed fil-ħerem jinħaraq bin-nar, hu u ⟨את⟩ kull ma għandu, għax qabeż ⟨את⟩ il-patt ta' Jaħwe, u għax għamel ħmerija f'Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "381ba58528775682fcc339618a9f35a388b6a4c48508671cf9ad1ba49e7df5e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/7\/13-16.1792606394473.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għand ikun li dak li jittieħed bil-ħerem jinħaraq bin-nar, lilu ⟨את⟩ u ⟨את⟩ lil kollox li għandu, għax qabeż ⟨את⟩ il-patt ta' Jaħwe, u għax għamel ħmerija f'Jisrael.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "u jkun"
+      "gloss": "U għand ikun"
     },
     {
       "surface": "הנלכד",
-      "gloss": "li jittieħed"
+      "gloss": "dak li jittieħed"
     },
     {
       "surface": "בחרם",
-      "gloss": "fil-ħerem"
+      "gloss": "bil-ħerem"
     },
     {
       "surface": "ישרף",
@@ -50,21 +29,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "lilu ⟨את⟩",
       "marks": "lilu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kull ma għandu"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil kollox li għandu"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollox"
     },
     {
       "surface": "אשר",
-      "gloss": "ma"
+      "gloss": "li"
     },
     {
       "surface": "לו",
@@ -108,6 +87,6 @@
       "gloss": "f'Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T18:13:14.474579900Z",
+  "timestamp": "2026-10-22T00:36:05.911901929Z",
   "model": "glm-5.3"
 }

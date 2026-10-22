@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "'għal ħalq ix-xabla' — idjom Lhudi għall-qtil bis-saħħa; il-Malti żamm il-ħalq"
-    },
-    {
-      "kind": "substitution",
-      "subject": "li għandu fidi",
-      "rationale": "בטח litteralment 'jista' jithares' — fiduċja, mhux sempliċiment mimli fidi"
-    }
-  ],
-  "translation": "U huma ħadu ⟨את⟩ dak li kien għamel Mika u ⟨את⟩ il-qassis li kien għandu, u ġew fuq Lajix, fuq poplu kwiet u li għandu fidi, u tilfhom bil-ħalq tax-xabla, u lil ⟨את⟩ il-belt ħarquha bin-nar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "375d030b5b5ce13662c644ca16c0779cc1122b8b81d28ab47812d690f7b62c13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/18\/25-28.1792607582359.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U hum ħadu ⟨את⟩ dak li kien għamel Mixa, u ⟨את⟩ il-qassis li kien għandu, u daħlu kontra Lajix, kontra poplu bil-kwiet u mingħajr biża', u ħarbtuhom bi ħalq ix-xabla, u ⟨את⟩ l-belt ħarquha bin-nar.",
   "tokens": [
     {
       "surface": "והמה",
-      "gloss": "u huma"
+      "gloss": "u hum"
     },
     {
       "surface": "לקחו",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li kien għamel Mika"
+      "marks": "dak li kien għamel Mixa"
     },
     {
       "surface": "אשר",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "kien għamel"
+      "gloss": "għamel"
     },
     {
       "surface": "מיכה",
-      "gloss": "Mika"
+      "gloss": "Mixa"
     },
     {
       "surface": "ואת",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "u ġew"
+      "gloss": "u daħlu"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "kontra"
     },
     {
       "surface": "ליש",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "kontra"
     },
     {
       "surface": "עם",
@@ -96,36 +75,37 @@
     },
     {
       "surface": "שקט",
-      "gloss": "kwiet"
+      "gloss": "bil-kwiet"
     },
     {
       "surface": "ובטח",
-      "gloss": "u li għandu fidi"
+      "gloss": "u mingħajr biża'"
     },
     {
       "surface": "ויכו",
-      "gloss": "u tilfhom"
+      "gloss": "u ħarbtu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩lhom",
+      "marks": "il-poplu ta' Lajix"
     },
     {
       "surface": "לפי",
-      "gloss": "bil-ħalq"
+      "gloss": "ħalq"
     },
     {
       "surface": "חרב",
-      "gloss": "tax-xabla"
+      "gloss": "ix-xabla"
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "il-belt"
+      "gloss": "u ⟨את⟩",
+      "marks": "l-belt"
     },
     {
       "surface": "העיר",
-      "gloss": "il-belt"
+      "gloss": "l-belt"
     },
     {
       "surface": "שרפו",
@@ -136,6 +116,6 @@
       "gloss": "bin-nar"
     }
   ],
-  "timestamp": "2026-10-21T18:33:02.360578445Z",
+  "timestamp": "2026-10-22T00:38:08.899901447Z",
   "model": "glm-5.3"
 }

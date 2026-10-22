@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hi",
-      "rationale": "Il-Malti jeħtieġ il-verb 'kien' \/ il-pronun pronominale fejn l-Ebrajk għandu biss הוא"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מעבר\/יעבר\/עבר",
-      "rationale": "Għerq għadu 'qbiz' — 'lil hinn \/ jaqbeż \/ naħa' — ir-repetizzjoni tal-għerq tinbet ftit bil-Malti"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "Markatur tal-oġġett direttyettiv, ma jiġix tradott imma jinżamm bħala ⟨את⟩"
-    }
-  ],
-  "translation": "U lanqas hi lil hinn mill-baħar, biex tgħid: Min jaqbeż għalina lil hinn il-baħar, u jieħuħa għalina, u jħallashna nismagħuha, u nagħmluha?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/13-16.1792606010740.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mhux ma' banda oħra tal-baħar hi, biex tgħid: Min jaqbeż għalina sal-banda l-oħra tal-baħar, u ġġibha għalina, u jismagħna ⟨את⟩ha, u nagħmluha?",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "u lanqas"
+      "gloss": "u mhux"
     },
     {
       "surface": "מעבר",
-      "gloss": "lil hinn"
+      "gloss": "ma' banda oħra"
     },
     {
       "surface": "לים",
-      "gloss": "mill-baħar"
+      "gloss": "tal-baħar"
     },
     {
       "surface": "הוא",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "lil hinn"
+      "gloss": "sa"
     },
     {
       "surface": "עבר",
-      "gloss": "minn naħa"
+      "gloss": "il-banda l-oħra"
     },
     {
       "surface": "הים",
-      "gloss": "il-baħar"
+      "gloss": "tal-baħar"
     },
     {
       "surface": "ויקחה",
-      "gloss": "u jieħuħa"
+      "gloss": "u ġġibha"
     },
     {
       "surface": "לנו",
@@ -87,18 +61,18 @@
     },
     {
       "surface": "וישמענו",
-      "gloss": "u jħallashna nismagħuha"
+      "gloss": "u jismagħna"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "hi (il-kelma, oġġett ta' וישמענו)"
+      "marks": "ha (il-kelma li għandha tissaħħaħ)"
     },
     {
       "surface": "ונעשנה",
       "gloss": "u nagħmluha"
     }
   ],
-  "timestamp": "2026-10-21T18:06:50.741321342Z",
+  "timestamp": "2026-10-22T00:10:47.737414156Z",
   "model": "glm-5.3"
 }

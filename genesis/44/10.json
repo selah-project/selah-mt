@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "il-kliem tagħhom imnaqqas",
-      "rationale": "Il-ħuti offrew il-mewt għall-ħati; l-istenner jaċċetta biss is-servitù — ir-regola tinbidel bil-ħlewwieħ."
-    }
-  ],
-  "translation": "U qal: Anke issa, skont kliemkom hekk huwa: dak li jinstab miegħu ⟨את⟩ ikun qaddej tiegħi, u intom tkunu innocenti.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/44\/9-12.1792598937500.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal: Anki issa, skont kliemkom, hekk ikun; min jinstab ⟨את⟩ miegħu jkun ħadim għalija, u intom tkunu ħielsa mill-ħtija.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "Anke"
+      "gloss": "Anki"
     },
     {
       "surface": "עתה",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "huwa"
+      "gloss": "ikun"
     },
     {
       "surface": "אשר",
-      "gloss": "dak li"
+      "gloss": "min"
     },
     {
       "surface": "ימצא",
@@ -57,19 +41,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "miegħu ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "miegħu"
     },
     {
       "surface": "יהיה",
-      "gloss": "ikun"
+      "gloss": "jkun"
     },
     {
       "surface": "לי",
-      "gloss": "tiegħi"
+      "gloss": "għalija"
     },
     {
       "surface": "עבד",
-      "gloss": "qadjej"
+      "gloss": "ħadim"
     },
     {
       "surface": "ואתם",
@@ -81,9 +66,9 @@
     },
     {
       "surface": "נקים",
-      "gloss": "innocenti"
+      "gloss": "ħielsa mill-ħtija"
     }
   ],
-  "timestamp": "2026-10-21T16:08:57.500996725Z",
+  "timestamp": "2026-10-22T00:23:29.091892572Z",
   "model": "glm-5.3"
 }

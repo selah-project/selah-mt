@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי יהוה",
-      "rationale": "litteralment 'fuq il-ħalq Jaħwe'; rendut bħala 'skont il-ħsieb' skont l-użu tan-narrazzjoni"
-    },
-    {
-      "kind": "alternative",
-      "subject": "כן",
-      "rationale": "'hekk' tista' tfisser ukoll 'b'mod ġust' — 'it-tribù ta' wlied Jixuf jitkellm bil-ħaqq'"
-    }
-  ],
-  "translation": "U Moxe amar lil wlied Jisrael skont il-ħsieb ta' Jaħwe, biex jgħidu: Hekk qiegħed jgħid it-tribù ta' wlied Jixuf.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b392abec9c56b4245a43ee27de5454315d17497a853cf0efcc809f7181533683",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/36\/5-8.1792605242426.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe ta l-amar lil wlied Jisrael skont il-ħsieb ⟨il-kelma⟩ ta' Jaħwe, jgħid: Hekk qed jitkellmu t-tribù ta' wlied Jusef — żżejjed {qiegħed} jgħidu d-dritt.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "u amar"
+      "gloss": "ta l-amar lil"
     },
     {
       "surface": "משה",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wlied"
+      "marks": "wlied Jisrael"
     },
     {
       "surface": "בני",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "il-ħsieb"
+      "gloss": "il-ħsieb ⟨il-kelma⟩"
     },
     {
       "surface": "יהוה",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "biex jgħidu"
+      "gloss": "jgħid"
     },
     {
       "surface": "כן",
-      "gloss": "hekk"
+      "gloss": "hekk — dritt"
     },
     {
       "surface": "מטה",
-      "gloss": "it-tribù"
+      "gloss": "tribù"
     },
     {
       "surface": "בני",
@@ -79,13 +58,13 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Jixuf"
+      "gloss": "Jusef"
     },
     {
       "surface": "דברים",
-      "gloss": "qiegħed jgħid"
+      "gloss": "qed jitkellmu"
     }
   ],
-  "timestamp": "2026-10-21T17:54:02.426910103Z",
+  "timestamp": "2026-10-22T00:47:07.060829091Z",
   "model": "glm-5.3"
 }

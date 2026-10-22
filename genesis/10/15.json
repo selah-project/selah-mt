@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "il-kbir",
-      "rationale": "בכרו means 'his first-born'; rendered as 'il-kbir tiegħu' with the article supplied."
-    }
-  ],
-  "translation": "U Kenaan jalad lil- Sidon, il-kbir tiegħu, u ⟨את⟩ lil- Ħet.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/10\/13-16.1792597881099.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Kenaan islaq ⟨את⟩ lil Sidon, kbiru, u ⟨את⟩ lil Ħet,",
   "tokens": [
     {
       "surface": "וכנען",
@@ -29,12 +13,12 @@
     },
     {
       "surface": "ילד",
-      "gloss": "jalad"
+      "gloss": "islaq"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil- Sidon"
+      "marks": "Sidon"
     },
     {
       "surface": "צידן",
@@ -42,18 +26,18 @@
     },
     {
       "surface": "בכרו",
-      "gloss": "il-kbir tiegħu"
+      "gloss": "kbiru"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "lil- Ħet"
+      "marks": "Ħet"
     },
     {
       "surface": "חת",
       "gloss": "Ħet"
     }
   ],
-  "timestamp": "2026-10-21T15:51:21.099979132Z",
+  "timestamp": "2026-10-22T00:20:16.744946781Z",
   "model": "glm-5.3"
 }

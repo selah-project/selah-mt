@@ -5,55 +5,24 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-biża li tqanqal",
-      "rationale": "תפלצתך huwa t-terribilità tiegħek — dak li jġib il-biża f'qalb il-ħtad; ma ntużax 'terribbiltà' Sementi"
-    },
-    {
-      "kind": "crux",
-      "subject": "השיא",
-      "rationale": "jew 'iqarrbek' (ħarsa ta' nšʾ I) jew 'tellgħek' (nšʾ II bħal fil-LXX u Obadja 3) — il-kelliema qadima ma jaqblux"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Edom",
-      "rationale": "appell dirett lil-Edom, li jokkor fil-ħofor tal-blat bħall-ajkla"
-    },
-    {
-      "kind": "elision",
-      "subject": "għax jekk",
-      "rationale": "l-ebda 'jekk' fl-Ebrajk: il-ħarsa minn qabel tagħmel sentenza kondizzjonali faħħarja"
-    }
-  ],
-  "translation": "Il-biża li tqanqal iqarrbek — iz-zmien ta' qalbek, int li toqgħod fil-ħofor tal-blat, li taqbad l-għoli tal-għolja; għax jekk tila' bħal ajkla bejken · bejken, minn hemm in-nizzel bil-qawwa · bil-mod? — le, in-nizzelk bil-mod? —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e1b53cbca9e5e043eea21ac79940ccc47a62491d03d4e7c49e96489bcd084ee0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/49\/13-16.1792613731332.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "It-terribiltà tiegħek qerret ⟨את⟩ lilek, il-kburija ta' qalbek, int li toqgħod fil-ħoforiet tal-blat, li taqbad l-għoli tal-għolja; għaliex tkabbar bħall-ajkla l-bejken tiegħek, minn hemm inniżżlek, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "תפלצתך",
-      "gloss": "il-biża li tqanqal"
+      "gloss": "it-terribiltà tiegħek"
     },
     {
       "surface": "השיא",
-      "gloss": "iqarrbek"
+      "gloss": "qerret"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "int"
+      "marks": "lilek — il-kburija ta' qalbek"
     },
     {
       "surface": "זדון",
-      "gloss": "iz-zmien"
+      "gloss": "il-kburija"
     },
     {
       "surface": "לבך",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "בחגוי",
-      "gloss": "fil-ħofor"
+      "gloss": "fil-ħoforiet"
     },
     {
       "surface": "הסלע",
@@ -85,19 +54,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "תגביה",
-      "gloss": "tilla'"
+      "gloss": "tkabbar"
     },
     {
       "surface": "כנשר",
-      "gloss": "bħal ajkla"
+      "gloss": "bħall-ajkla"
     },
     {
       "surface": "קנך",
-      "gloss": "bejken"
+      "gloss": "l-bejken tiegħek"
     },
     {
       "surface": "משם",
@@ -105,7 +74,7 @@
     },
     {
       "surface": "אורידך",
-      "gloss": "in-nizzelk"
+      "gloss": "inniżżlek"
     },
     {
       "surface": "נאם",
@@ -116,6 +85,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:15:31.334570288Z",
+  "timestamp": "2026-10-22T00:32:41.475151824Z",
   "model": "glm-5.3"
 }

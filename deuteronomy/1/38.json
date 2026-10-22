@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "b'wirt",
-      "rationale": "ינחלנה fi verżjoni waħda 'jagħti b'wirt' il-morfoloġija kollha tagħha tinħareġ b'żewġ kelmiet bil-Malti."
-    },
-    {
-      "kind": "you",
-      "subject": "sħidh",
-      "rationale": "Imperattiv indirizzat direttament lill-poplu dwar Jiħoxwe."
-    }
-  ],
-  "translation": "Jiħoxwe bin Nun, li jqiegħed quddiemek, huwa jidħol hemm; lilu sħidh, għax huwa jagħtiha b'wirt lil ⟨את⟩ Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/37-40.1792605311548.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Joxwa bin Nun, li qiegħed quddiemek, huwa jidħal hemm; ⟨את⟩ lilu aqgħħu, għax huwa se jagħmel lil ⟨את⟩ Jisrael jirtuha.",
   "tokens": [
     {
       "surface": "יהושע",
-      "gloss": "Jiħoxwe"
+      "gloss": "Joxwa"
     },
     {
       "surface": "בן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "העמד",
-      "gloss": "li jqiegħed"
+      "gloss": "qiegħed"
     },
     {
       "surface": "לפניך",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "jidħol"
+      "gloss": "jidħal"
     },
     {
       "surface": "שמה",
@@ -62,12 +41,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "lilu"
+      "gloss": "lilu ⟨את⟩",
+      "marks": "aqgħħu ( lil Joxwa )"
     },
     {
       "surface": "חזק",
-      "gloss": "sħidh"
+      "gloss": "aqgħħu"
     },
     {
       "surface": "כי",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ינחלנה",
-      "gloss": "jagħtiha b'wirt"
+      "gloss": "se jagħmel ... jirtuha"
     },
     {
       "surface": "את",
@@ -91,6 +70,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T17:55:11.549731458Z",
+  "timestamp": "2026-10-22T00:08:53.095908320Z",
   "model": "glm-5.3"
 }

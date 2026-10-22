@@ -5,29 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "preposition before התפלה absorbed into 't-talba' in Maltese"
-    },
-    {
-      "kind": "elision",
-      "subject": "הזה",
-      "gloss": "",
-      "rationale": "demonstrative folded into 'din id-dar' and 'dan il-post'"
-    }
-  ],
-  "translation": "biex għajnejk jkunu miftuħa lejn din id-dar kuljum u bil-lejl, lejn il-post li għidt li tpogeġ ismek hemm, biex tisma' t-talba li jitlob qaddejok lejn dan il-post.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/17-20.1792622383986.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biex għajnejk jkunu miftuħa lejn din id-dar bil-ġurnata u bil-lejl, lejn il-post li għidt li tpoġġi ismek hemm, biex tisma' t-talb li jitlob qaddejk lejn dan il-post.",
   "tokens": [
     {
       "surface": "להיות",
@@ -39,7 +17,7 @@
     },
     {
       "surface": "פתחות",
-      "gloss": "jkunu miftuħa"
+      "gloss": "miftuħa"
     },
     {
       "surface": "אל",
@@ -47,15 +25,15 @@
     },
     {
       "surface": "הבית",
-      "gloss": "din id-dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "din"
     },
     {
       "surface": "יומם",
-      "gloss": "kuljum"
+      "gloss": "bil-ġurnata"
     },
     {
       "surface": "ולילה",
@@ -79,7 +57,7 @@
     },
     {
       "surface": "לשום",
-      "gloss": "li tpogeġ"
+      "gloss": "tpoġġi"
     },
     {
       "surface": "שמך",
@@ -95,11 +73,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "lejn"
     },
     {
       "surface": "התפלה",
-      "gloss": "it-talba"
+      "gloss": "t-talb"
     },
     {
       "surface": "אשר",
@@ -111,7 +89,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "qadjejok"
+      "gloss": "qaddejk"
     },
     {
       "surface": "אל",
@@ -119,13 +97,13 @@
     },
     {
       "surface": "המקום",
-      "gloss": "dan il-post"
+      "gloss": "il-post"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "dan"
     }
   ],
-  "timestamp": "2026-10-21T22:39:43.988545127Z",
+  "timestamp": "2026-10-22T00:02:54.219742578Z",
   "model": "glm-5.3"
 }

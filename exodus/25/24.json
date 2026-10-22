@@ -5,45 +5,24 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kuruna",
-      "rationale": "זֵר hija xhragħun\/bordura ma' dawwal il-mejda, mhux kuruna ta' sultan"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Moxe",
-      "rationale": "imperattiv tal-kostruzzjoni"
-    }
-  ],
-  "translation": "U tgħattih b'deheb nadif, u tagħmel lu kuruna tad-deheb madwarha.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/25\/21-24.1792599894038.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tgħatti ⟨את⟩ bit-tajn deheb fin, u tagħmellu ċirku tad-deheb madwaru kollu.",
   "tokens": [
     {
       "surface": "וצפית",
-      "gloss": "U tgħattih"
+      "gloss": "u tgħatti"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lu (il-mejda)"
+      "marks": "bit-tajn deheb fin"
     },
     {
       "surface": "זהב",
-      "gloss": "b'deheb"
+      "gloss": "deheb"
     },
     {
       "surface": "טהור",
-      "gloss": "nadif"
+      "gloss": "fin"
     },
     {
       "surface": "ועשית",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "lu"
+      "gloss": "-lu"
     },
     {
       "surface": "זר",
-      "gloss": "kuruna"
+      "gloss": "ċirku"
     },
     {
       "surface": "זהב",
@@ -63,9 +42,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "madwarha"
+      "gloss": "madwaru kollu"
     }
   ],
-  "timestamp": "2026-10-21T16:24:54.039384066Z",
+  "timestamp": "2026-10-22T00:12:54.410554499Z",
   "model": "glm-5.3"
 }

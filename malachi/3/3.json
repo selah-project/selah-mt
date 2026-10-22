@@ -5,41 +5,15 @@
   "book": "malachi",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מצרף \/ זקק",
-      "rationale": "Żewġ verbi tas-saffar tal-metall f'vers waħd — saffi u żżomm imqaddsa — rifużjoni doppja ta' deheb u fidda."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וזקק",
-      "rationale": "'jżomm imqaddsa' (distilla\/iffiltra sa ma jkun safi) — verbi ta' distillazzjoni, mhux sempliċiment 'jissaffa'."
-    },
-    {
-      "kind": "addition",
-      "subject": "dawk li",
-      "rationale": "מגישי participju: 'li joffru' jeħtieġ 'dawk' bil-Malti biex jifhem."
-    }
-  ],
-  "translation": "U joqogħd isaffi u jnaddaf il-fidda, u jnaddaf ⟨את⟩ ulied Levi, u jżommhom imqaddsa bħad-deheb u bħall-fidda; u jkunu għal Jaħwe dawk li joffru minħa bit-tsedeq.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a287daf95bf2dfa4ffa3fbf265441b30dd418011c4bce72cf8009c1815a0367f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/3\/1-4.1792616463751.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U joqgħod jaġġebra u jnaddaf il-fidda, u jnaddaf ⟨את⟩ lil wlied Levi, u jfassarhom bħad-deheb u bħall-fidda, u jkunu għal Jaħwe dawk li jqerrbu minħa bit-tsedeq.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "U joqogħd"
+      "gloss": "u joqgħod"
     },
     {
       "surface": "מצרף",
-      "gloss": "isaffi"
+      "gloss": "jaġġebra"
     },
     {
       "surface": "ומטהר",
@@ -56,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulied Levi"
+      "marks": "wlied Levi"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "לוי",
@@ -68,11 +42,12 @@
     },
     {
       "surface": "וזקק",
-      "gloss": "u jżommhom imqaddsa"
+      "gloss": "u jfassarhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨אתם⟩",
+      "marks": "hom — wlied Levi"
     },
     {
       "surface": "כזהב",
@@ -92,7 +67,7 @@
     },
     {
       "surface": "מגישי",
-      "gloss": "dawk li joffru"
+      "gloss": "dawk li jqerrbu"
     },
     {
       "surface": "מנחה",
@@ -103,6 +78,6 @@
       "gloss": "bit-tsedeq"
     }
   ],
-  "timestamp": "2026-10-21T21:01:03.752157920Z",
+  "timestamp": "2026-10-22T00:42:51.665439094Z",
   "model": "glm-5.3"
 }

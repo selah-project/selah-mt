@@ -5,66 +5,40 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Nabal",
-      "rationale": "David's messengers address Nabal directly with imperatives — a request for provisions."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dak li jsib idejk",
-      "rationale": "'Whatever your hand finds' is Hebrew idiom for 'whatever you can spare'."
-    },
-    {
-      "kind": "crux",
-      "subject": "il-ġovan",
-      "rationale": "נעריך means Nabal's shepherds\/young men; rendered 'ġovan' keeping the literal sense, not 'qaddejja'."
-    }
-  ],
-  "translation": "Staqsu l-ġovan tiegħek u jgħidulek, u jkunu l-ġovan grazja f'għajnejk, għax fi jum tajjeb ġejna; agħti, jekk jogħġbok, ⟨את⟩ dak li jsib idejk lill-qaddejja tiegħek u lil ibnek, lil David.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c1e883bc85560bbfe75c8c6a3e90e0437aa455e3c7d55495c0ca344df456eafd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/8-8.1792623272665.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Staqsi ⟨את⟩ iż-żgħażagħ tiegħek, u jagħrfulek, u jsibu ż-żgħażagħ grazzja f'għajnejk, għal li ġejna f'jum tajjeb; agħti, jekk jogħġbok, ⟨את⟩ dak kollu li ssib idejk, lill-qriewwa tiegħek u lil ibnek, lil David.",
   "tokens": [
     {
       "surface": "שאל",
-      "gloss": "Staqsu"
+      "gloss": "Staqsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ġovan tiegħek"
+      "marks": "iż-żgħażagħ tiegħek"
     },
     {
       "surface": "נעריך",
-      "gloss": "il-ġovan tiegħek"
+      "gloss": "iż-żgħażagħ tiegħek"
     },
     {
       "surface": "ויגידו",
-      "gloss": "u jgħidulek"
+      "gloss": "u jagħrfulek"
     },
     {
       "surface": "לך",
-      "gloss": "lilek"
+      "gloss": "lek"
     },
     {
       "surface": "וימצאו",
-      "gloss": "u jkunu"
+      "gloss": "u jsibu"
     },
     {
       "surface": "הנערים",
-      "gloss": "l-ġovan"
+      "gloss": "ż-żgħażagħ"
     },
     {
       "surface": "חן",
-      "gloss": "grazja"
+      "gloss": "grazzja"
     },
     {
       "surface": "בעיניך",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għal li"
     },
     {
       "surface": "על",
-      "gloss": "fi"
+      "gloss": "f'"
     },
     {
       "surface": "יום",
@@ -101,15 +75,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li jsib idejk"
+      "marks": "dak kollu li ssib idejk"
     },
     {
       "surface": "אשר",
-      "gloss": "dak li"
+      "gloss": "li"
     },
     {
       "surface": "תמצא",
-      "gloss": "jsib"
+      "gloss": "tissib"
     },
     {
       "surface": "ידך",
@@ -117,10 +91,10 @@
     },
     {
       "surface": "לעבדיך",
-      "gloss": "lill-qaddejja tiegħek"
+      "gloss": "lill-qriewwa tiegħek"
     },
     {
-      "surface": "וילבנך",
+      "surface": "ולבנך",
       "gloss": "u lil ibnek"
     },
     {
@@ -128,6 +102,6 @@
       "gloss": "lil David"
     }
   ],
-  "timestamp": "2026-10-21T22:54:32.665833928Z",
+  "timestamp": "2026-10-22T01:21:13.321387408Z",
   "model": "glm-5.3"
 }

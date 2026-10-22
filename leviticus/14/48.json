@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בא יבא",
-      "rationale": "infinitiv assolut + finit: 'jekk jiġi jiġi' — enfasi, mgħarbd 'jekk ċert jiġi'"
-    },
-    {
-      "kind": "crux",
-      "subject": "הטח",
-      "rationale": "litteralment 'tgħatta bil-ġir'; verżjonijiet jaqtghu 'plaistered \/ replastered'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "טהר",
-      "rationale": "'jikkwotta \/ jiddikjara safi' — att deċiżiv tal-qassis, mhux sabar 'jnaddaf'"
-    }
-  ],
-  "translation": "U jekk il-qassis jiġi u jara, u arah ix-xebba ma faxxetx fid-dar wara li tkellbet id-dar, il-qassist imiss id-dar: għax il-ħsara fieq.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/45-48.1792600869655.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk tiġi ż-żmien li jidħol il-qassis u jara, u ara, il-ħabta ma fkierx fid-dar wara li tellgħet id-dar bil-ġibs, il-qassis jiddikjara d-dar nadifa, għax infeħet il-ħabta.",
   "tokens": [
     {
       "surface": "ואם",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "jiġi"
+      "gloss": "tiġi"
     },
     {
       "surface": "יבא",
-      "gloss": "jiġi"
+      "gloss": "jidħol"
     },
     {
       "surface": "הכהן",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "u arah"
+      "gloss": "u ara"
     },
     {
       "surface": "לא",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "faxxetx"
+      "gloss": "fkierx"
     },
     {
       "surface": "הנגע",
-      "gloss": "ix-xebba"
+      "gloss": "il-ħabta"
     },
     {
       "surface": "בבית",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "הטח",
-      "gloss": "tkellbet"
+      "gloss": "tellgħet bil-ġibs"
     },
     {
       "surface": "את",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "imwiss"
+      "gloss": "jiddikjara nadifa"
     },
     {
       "surface": "הכהן",
@@ -113,13 +87,13 @@
     },
     {
       "surface": "נרפא",
-      "gloss": "fieq"
+      "gloss": "infeħet"
     },
     {
       "surface": "הנגע",
-      "gloss": "il-ħsara"
+      "gloss": "il-ħabta"
     }
   ],
-  "timestamp": "2026-10-21T16:41:09.657020030Z",
+  "timestamp": "2026-10-22T00:39:18.625351678Z",
   "model": "glm-5.3"
 }

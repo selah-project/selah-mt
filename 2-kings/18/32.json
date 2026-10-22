@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "art... art... art... art",
-      "rationale": "erba' darbiet 'art' fis-silta — ritmu ta' reklami Assirju bir-repetizzjoni"
-    },
-    {
-      "kind": "you",
-      "subject": "lil-poplu ta' Ġerusalemm",
-      "rationale": "l-argument jilħaq il-qalba taghhom bil-weghda tal-ħajja u t-theddida tal-mewt"
-    },
-    {
-      "kind": "substitution",
-      "subject": "דגן",
-      "rationale": "'qamħ' ghal 'grain' — l-ebraiku jghid 'żieda, prodotti ta' l-art', mhux specifiku ghal qamħ biss"
-    }
-  ],
-  "translation": "saj niġi u nieħu ⟨את⟩ lilkom lejn art bħal artkom, art qamħ u inbid ġdid, art ħobż u vinji, art żebbuġ, żejt u għasel — u ħyux, u mutux. U la tismgħux lil Ħizqijahu, għax iqanqal ⟨את⟩ lilkom meta jgħid: Jaħwe jħellisna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/18\/29-32.1792610687892.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Saqas inħu u nieħu ⟨את⟩ lilkom għal art bħal artkom: art qamħ u must, art ħobż u\tfdal, art żebbuġ, żejt u għasel; ħu l-ħajja u la tmutu; u la tisimgħux lejn Ħizqijah, għaliex iqarraq ⟨את⟩ lilkom, bil-kelma: Jaħwe jsalvna.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "saj"
+      "gloss": "saqas"
     },
     {
       "surface": "באי",
-      "gloss": "niġi"
+      "gloss": "inħu"
     },
     {
       "surface": "ולקחתי",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "lilkom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom — lilkom għal art"
     },
     {
       "surface": "אל",
-      "gloss": "lejn"
+      "gloss": "għal"
     },
     {
       "surface": "ארץ",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "ותירוש",
-      "gloss": "u inbid ġdid"
+      "gloss": "u must"
     },
     {
       "surface": "ארץ",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "וכרמים",
-      "gloss": "u vinji"
+      "gloss": "u\tfdal"
     },
     {
       "surface": "ארץ",
@@ -104,15 +78,15 @@
     },
     {
       "surface": "וחיו",
-      "gloss": "u ħyux"
+      "gloss": "ħu l-ħajja"
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u la"
     },
     {
       "surface": "תמתו",
-      "gloss": "mutux"
+      "gloss": "tmutu"
     },
     {
       "surface": "ואל",
@@ -120,32 +94,32 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "tismgħux"
+      "gloss": "tisimgħux"
     },
     {
       "surface": "אל",
-      "gloss": "lil"
+      "gloss": "lejn"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Ħizqijahu"
+      "gloss": "Ħizqijah"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "יסית",
-      "gloss": "iqanqal"
+      "gloss": "iqarraq"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "lilkom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom — bil-kelma"
     },
     {
       "surface": "לאמר",
-      "gloss": "meta jgħid"
+      "gloss": "bil-kelma"
     },
     {
       "surface": "יהוה",
@@ -153,9 +127,9 @@
     },
     {
       "surface": "יצילנו",
-      "gloss": "jħellisna"
+      "gloss": "jsalvna"
     }
   ],
-  "timestamp": "2026-10-21T19:24:47.893967617Z",
+  "timestamp": "2026-10-22T00:04:47.757307331Z",
   "model": "glm-5.3"
 }

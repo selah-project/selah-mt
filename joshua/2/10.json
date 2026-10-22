@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הוביש",
-      "rationale": "root יבש: 'dried up' here, but same root means 'put to shame' — some read a double sense."
-    },
-    {
-      "kind": "crux",
-      "subject": "החרמתם",
-      "rationale": "ħerem: devoted to destruction, not simply 'killed'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "suffixed aleph-tav rendered as marker ⟨את⟩hom pointing back to Sihon and Og."
-    }
-  ],
-  "translation": "Għax smajna kif Jaħwe xott ⟨את⟩ l-ilma tal-baħar tas-Suf quddiemkom meta ħriġtu minn Mitsrajim, u dak li għedtuż-żewġ rejiet tal-Emorit, li kienu ta' barra ta' Ġordan, lil Sihon u lil Og, li għaddrejtuhom taħt il-ħerem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/2\/9-12.1792606203287.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax smajna ⟨את⟩ dak li Jaħwe xotta: ⟨את⟩ l-ilma tal-Baħar tal-Qasab minn quddiemkom meta ħriġtu minn Mitsrajim, u dak li għamlitu lill-żewġ slaten tal-Emorjin li kienu ta' eneax ix-xmara Ġordan, lil Siħon u lil Għog, li ddedikajtuhom għall-qerda.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "Għax"
     },
     {
       "surface": "שמענו",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak"
+      "marks": "dak li xotta Jaħwe"
     },
     {
       "surface": "אשר",
-      "gloss": "kif"
+      "gloss": "dak li"
     },
     {
       "surface": "הוביש",
-      "gloss": "xott"
+      "gloss": "xotta"
     },
     {
       "surface": "יהוה",
@@ -61,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ilma"
+      "marks": "l-ilma tal-Baħar tal-Qasab"
     },
     {
       "surface": "מי",
@@ -69,15 +43,15 @@
     },
     {
       "surface": "ים",
-      "gloss": "tal-baħar"
+      "gloss": "tal-Baħar"
     },
     {
       "surface": "סוף",
-      "gloss": "tas-Suf"
+      "gloss": "tal-Qasab"
     },
     {
       "surface": "מפניכם",
-      "gloss": "quddiemkom"
+      "gloss": "minn quddiemkom"
     },
     {
       "surface": "בצאתכם",
@@ -93,39 +67,39 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "għedtu"
+      "gloss": "għamlitu"
     },
     {
       "surface": "לשני",
-      "gloss": "ż-żewġ"
+      "gloss": "lill-żewġ"
     },
     {
       "surface": "מלכי",
-      "gloss": "rejiet"
+      "gloss": "slaten"
     },
     {
       "surface": "האמרי",
-      "gloss": "tal-Emorit"
+      "gloss": "tal-Emorjin"
     },
     {
       "surface": "אשר",
-      "gloss": "li kienu"
+      "gloss": "li"
     },
     {
       "surface": "בעבר",
-      "gloss": "ta' barra"
+      "gloss": "ta' eneax"
     },
     {
       "surface": "הירדן",
-      "gloss": "ta' Ġordan"
+      "gloss": "ix-xmara Ġordan"
     },
     {
       "surface": "לסיחן",
-      "gloss": "lil Sihon"
+      "gloss": "lil Siħon"
     },
     {
       "surface": "ולעוג",
-      "gloss": "u lil Og"
+      "gloss": "u lil Għog"
     },
     {
       "surface": "אשר",
@@ -133,13 +107,14 @@
     },
     {
       "surface": "החרמתם",
-      "gloss": "għaddrejtu taħt il-ħerem"
+      "gloss": "ddedikajtuhom għall-qerda"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom"
+      "gloss": "⟨את⟩hom",
+      "marks": "lil Siħon u lil Għog"
     }
   ],
-  "timestamp": "2026-10-21T18:10:03.288191822Z",
+  "timestamp": "2026-10-22T00:35:36.023047322Z",
   "model": "glm-5.3"
 }

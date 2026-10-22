@@ -5,41 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "iddeċieditha",
-      "rationale": "הוכחת: 'iddeċieditha\/int ipprovajtha' kontra 'ordnajtha'; KJV 'appointed', YLT 'decided'."
-    },
-    {
-      "kind": "you",
-      "subject": "talb lill-Imgħallem",
-      "rationale": "il-vers jifforma talb dirett lil Jaħwe (minn v. 12), bil-qadim jindirizza lil Alla b'seconda persuna."
-    },
-    {
-      "kind": "secret",
-      "subject": "sinjal tal-għażla",
-      "rationale": "il-qadim jitlob sinjal moħbi biex jaf lil-magħżula; 'u biha nkun naf' — għarfien ma jinstax qabel."
-    }
-  ],
-  "translation": "U jsir liż-żagħżugħa li ngħidilha: Tniżżel jekk jogħġbok il-ġarra tiegħek biex nixrob, u tgħid: Ixrob, u l-ġemliet tiegħek ukoll insaqihom — lilha int iddeċieditha għall-qadim tiegħek, għal Jitsħaq; u biha nkun naf li għamilt ħesed ma' sidi.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "290b2a92db44849ecd8a74dd9d0c5af6a529ba66ed07efe5cea3413ca22c568b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/13-16.1792598240855.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jkun li s-subja li ngħidilha: Tniżżel jekk jogħġbok il-ġarriet tiegħek biex nixrob, u tgħid: Ixrob, u se nserrilhom ukoll il-ġemliet tiegħek — hija ⟨את⟩ inti stajt lill-qadim tiegħek, għal Jitsħaq; u biha inkun naf li għamt ħesed ma' sidni.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "U jsir"
+      "gloss": "U jkun li"
     },
     {
       "surface": "הנער",
-      "gloss": "iż-żagħżugħa"
+      "gloss": "is-subja"
     },
     {
       "surface": "אשר",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "כדך",
-      "gloss": "il-ġarra tiegħek"
+      "gloss": "il-ġarriet tiegħek"
     },
     {
       "surface": "ואשתה",
@@ -87,20 +61,20 @@
     },
     {
       "surface": "אשקה",
-      "gloss": "insaqihom"
+      "gloss": "nserrilhom"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "liha (iddeċieditha lilha)"
+      "marks": "is-subja li inti stajt"
     },
     {
       "surface": "הכחת",
-      "gloss": "iddeċieditha"
+      "gloss": "inti stajt"
     },
     {
       "surface": "לעבדך",
-      "gloss": "għall-qadim tiegħek"
+      "gloss": "lill-qadim tiegħek"
     },
     {
       "surface": "ליצחק",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "אדע",
-      "gloss": "nkun naf"
+      "gloss": "inkun naf"
     },
     {
       "surface": "כי",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "עשית",
-      "gloss": "għamilt"
+      "gloss": "għamt"
     },
     {
       "surface": "חסד",
@@ -132,9 +106,9 @@
     },
     {
       "surface": "אדני",
-      "gloss": "sidi"
+      "gloss": "sidni"
     }
   ],
-  "timestamp": "2026-10-21T15:57:20.856786333Z",
+  "timestamp": "2026-10-22T00:21:18.764919676Z",
   "model": "glm-5.3"
 }

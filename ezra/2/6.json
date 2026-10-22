@@ -5,36 +5,15 @@
   "book": "ezra",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "census",
-      "rationale": "G Census list: returns counted by family—two thousand eight hundred twelve."
-    },
-    {
-      "kind": "elision",
-      "subject": "u tnax",
-      "rationale": "L-Malti jingħaqad in-numru f'kelma waħda — tnax — għal שנים עשר (żewġ u għaxar)."
-    }
-  ],
-  "translation": "Wli Pachat-Moab, minn wli Jexua u Joab, elf mija tmien mija u tnax.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c1beff3c43cd5922d565d165249b7c1aa15cb19b69156f8b3a4932dbef27bfcb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/2\/6-6.1792623940313.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Wlied Paxat Moab, mil-wlied ta' Jexua' u Joab, elfejn u tmien mija u tnax-il ⟨ruħ⟩.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "Wli"
+      "gloss": "wlied"
     },
     {
       "surface": "פחת",
-      "gloss": "Pachat"
+      "gloss": "Paxat"
     },
     {
       "surface": "מואב",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "minn wli"
+      "gloss": "mil-wlied"
     },
     {
       "surface": "ישוע",
-      "gloss": "Jexua"
+      "gloss": "ta' Jexua'"
     },
     {
       "surface": "יואב",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "elf"
+      "gloss": "elfejn"
     },
     {
       "surface": "שמנה",
@@ -66,13 +45,13 @@
     },
     {
       "surface": "ושנים",
-      "gloss": "u tnax"
+      "gloss": "u tnax-il"
     },
     {
       "surface": "עשר",
       "gloss": ""
     }
   ],
-  "timestamp": "2026-10-21T23:05:40.314277031Z",
+  "timestamp": "2026-10-22T00:19:51.585667035Z",
   "model": "glm-5.3"
 }

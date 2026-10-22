@@ -5,35 +5,19 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בבקר בבקר \/ בערב בערב",
-      "rationale": "ripetizzjoni formali ta' 'filgħodu filgħodu, filgħaxija filgħaxija' tinżamm bil-Malti biex iżżomm ir-ritmu ritwali"
-    }
-  ],
-  "translation": "U jaqdmu lil Jaħwe olosta' filgħodu filgħodu u filgħaxija filgħaxija, u ktur ta' ħwawar, u l-qiegħda ta' ħobż fuq il-meża ta' qaddis, u l-menora tad-deheb u l-qlam tagħha biex tixgħul il-lejl il-lejl, għax aħna nżommu ⟨את⟩ l-għassa ta' Jaħwe Elohim tagħna, waqt li intom tħlijtuh lilu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7f4b460f1329040de942a09b076c82bfda58190f921506296435cf4a6c790d55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/13\/9-12.1792622527388.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u joqtlu għal Jaħwe l-olojus filgħodu filgħodu u filgħaxija filgħaxija, u l-inċens tal-ħwawar, u l-irħama tal-ħobż fuq il-mejda l-imsaffa, u l-menora tad-deheb u landarha biex dawlhom jinħarek filgħaxija filgħaxija; għax aħna ngħassu ⟨את⟩ l-għassa ta' Jaħwe Elohim tagħna, u intom tlifmtu ⟨את⟩ lilu.",
   "tokens": [
     {
       "surface": "ומקטרים",
-      "gloss": "U jaqdmu"
+      "gloss": "u joqtlu għal"
     },
     {
       "surface": "ליהוה",
-      "gloss": "lil Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "עלות",
-      "gloss": "olosta'"
+      "gloss": "l-olojus"
     },
     {
       "surface": "בבקר",
@@ -53,19 +37,19 @@
     },
     {
       "surface": "וקטרת",
-      "gloss": "u ktur"
+      "gloss": "u l-inċens"
     },
     {
       "surface": "סמים",
-      "gloss": "ta' ħwawar"
+      "gloss": "tal-ħwawar"
     },
     {
       "surface": "ומערכת",
-      "gloss": "u l-qiegħda"
+      "gloss": "u l-irħama"
     },
     {
       "surface": "לחם",
-      "gloss": "ta' ħobż"
+      "gloss": "tal-ħobż"
     },
     {
       "surface": "על",
@@ -73,11 +57,11 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "il-meża"
+      "gloss": "il-mejda"
     },
     {
       "surface": "הטהור",
-      "gloss": "ta' qaddis"
+      "gloss": "l-imsaffa"
     },
     {
       "surface": "ומנורת",
@@ -89,19 +73,19 @@
     },
     {
       "surface": "ונרתיה",
-      "gloss": "u l-qlam tagħha"
+      "gloss": "u landarha"
     },
     {
       "surface": "לבער",
-      "gloss": "biex tixgħul"
+      "gloss": "biex dawlhom jinħarek"
     },
     {
       "surface": "בערב",
-      "gloss": "il-lejl"
+      "gloss": "filgħaxija"
     },
     {
       "surface": "בערב",
-      "gloss": "il-lejl"
+      "gloss": "filgħaxija"
     },
     {
       "surface": "כי",
@@ -109,7 +93,7 @@
     },
     {
       "surface": "שמרים",
-      "gloss": "nżommu"
+      "gloss": "ngħassu"
     },
     {
       "surface": "אנחנו",
@@ -118,7 +102,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-għassa ta' Jaħwe"
+      "marks": "l-għassa ta' Jaħwe Elohim tagħna"
     },
     {
       "surface": "משמרת",
@@ -134,13 +118,18 @@
     },
     {
       "surface": "ואתם",
-      "gloss": "waqt li intom"
+      "gloss": "u intom"
     },
     {
       "surface": "עזבתם",
-      "gloss": "tħlijtuh lilu"
+      "gloss": "tlifmtu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lilu",
+      "marks": "suffiss -u: lil Jaħwe Elohim tagħna"
     }
   ],
-  "timestamp": "2026-10-21T22:42:07.390246520Z",
+  "timestamp": "2026-10-22T00:01:20.519790223Z",
   "model": "glm-5.3"
 }

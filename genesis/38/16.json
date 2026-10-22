@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי (l-ewwel)",
-      "rationale": "il-ħolqien Lhudi 'għax ma kienx jaf' juża l-כי li ġej biss"
-    },
-    {
-      "kind": "euphemism-mapping",
-      "subject": "nidħol għandek",
-      "rationale": "בּוֹא אֵל iqarreb f'eufemiżmu Lhudi — il-Malti iżomm l-istess eufemiżmu"
-    },
-    {
-      "kind": "you",
-      "subject": "lejha (Tamar)",
-      "rationale": "Ġuda jindirizza lil Tamar moħbija bħala prostituta: 'ejja... ħallini nidħol għandek'"
-    }
-  ],
-  "translation": "U dam lejha lejn it-triq, u qal: Ejja, jekk jogħġbok, ħallini nidħol għandek — għax ma kienx jaf li hija kienet mart ibnu. U hija qalit: X' se tagħti li biex tidħol għandi?",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "39f3f4d102a9eefca9b32bc00c98176d4cde190203eed19d45444ac5ca17b3d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/38\/13-16.1792598829349.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ċaqlaq lejha lejn it-triq, u qal: Ħaġa, jekk jogħġbok, ejja nidħol għandek — għax ma kienx jaf li hi ⟨kienet⟩ l-isnar tiegħu. U hi qalitlu: X'tagħtini, biex tidħol għandi?",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "u dam lejha"
+      "gloss": "u ċaqlaq"
     },
     {
       "surface": "אליה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "הבה",
-      "gloss": "ejja"
+      "gloss": "Ħaġa"
     },
     {
       "surface": "נא",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "għax"
     },
     {
       "surface": "לא",
@@ -79,31 +53,31 @@
     },
     {
       "surface": "ידע",
-      "gloss": "kienx jaf"
+      "gloss": "kien jaf"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "li"
     },
     {
       "surface": "כלתו",
-      "gloss": "mart ibnu"
+      "gloss": "l-isnar tiegħu"
     },
     {
       "surface": "הוא",
-      "gloss": "hija"
+      "gloss": "hi"
     },
     {
       "surface": "ותאמר",
-      "gloss": "u qalit"
+      "gloss": "u hi qalitlu"
     },
     {
       "surface": "מה",
-      "gloss": "x'"
+      "gloss": "X'"
     },
     {
       "surface": "תתן",
-      "gloss": "se tagħti"
+      "gloss": "tagħtini"
     },
     {
       "surface": "לי",
@@ -122,6 +96,6 @@
       "gloss": "għandi"
     }
   ],
-  "timestamp": "2026-10-21T16:07:09.350588637Z",
+  "timestamp": "2026-10-22T00:22:59.034067042Z",
   "model": "glm-5.3"
 }

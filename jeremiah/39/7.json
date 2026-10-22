@@ -5,28 +5,12 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בנחשתים",
-      "rationale": "'katini tar-ram' għal נְחֻשְׁתַּיִם dual ta' נחושת; lit. 'żewġ (katini) ta' ram', id-dual ma jinżammux bil-Malti."
-    }
-  ],
-  "translation": "U ⟨את⟩ għajnejn Sidqijahu għammieha, u rabtu bil-katini tar-ram biex jġibuh Babilonja.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/39\/5-8.1792613453868.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ għajnejn Sidkijahu għama, u rabbu bil-katina(n) tar-ram biex jieħduh <> Babilonja.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "għajnejn Sidqijahu"
+      "gloss": "U ⟨את⟩",
+      "marks": "għajnejn Sidkijahu"
     },
     {
       "surface": "עיני",
@@ -34,15 +18,15 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Sidqijahu"
+      "gloss": "Sidkijahu"
     },
     {
       "surface": "עור",
-      "gloss": "għammieha"
+      "gloss": "għama"
     },
     {
       "surface": "ויאסרהו",
-      "gloss": "u rabtu"
+      "gloss": "u rabbu"
     },
     {
       "surface": "בנחשתים",
@@ -50,18 +34,17 @@
     },
     {
       "surface": "לביא",
-      "gloss": "biex jġibuh"
+      "gloss": "biex jieħduh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "Babilonja"
+      "gloss": "⟨את⟩ lilu"
     },
     {
       "surface": "בבלה",
       "gloss": "Babilonja"
     }
   ],
-  "timestamp": "2026-10-21T20:10:53.869444270Z",
+  "timestamp": "2026-10-22T00:30:50.167392271Z",
   "model": "glm-5.3"
 }

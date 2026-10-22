@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עוד מי לך פה",
-      "rationale": "Literali 'Min għandek għadek hawn?'; KJV 'Hast thou here any besides' — l-istruttura hija mistoqsija kwietta"
-    },
-    {
-      "kind": "addition",
-      "subject": "iġegħlu",
-      "rationale": "Il-imperattiv יצא huwa singular diriġut lil Lot, iżda l-oġġetti huma plurali; il-Malti jirrikjedi l-plurali"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פתח\/הפתח",
-      "rationale": "Il-kelma 'daħla' terġa' tidher mil-lum tal-vers 11 għal mistoqsija dwar min hu ġewwa; mhux permezz ta' kelma waħda Maltija"
-    }
-  ],
-  "translation": "U l-irġiel qalu lil Lot: Għadek hawn xi ħadd? ħatni, u ulidek, u bnietek, u kulma għandek fil-belt — iġegħlu joħorġu minn dan il-post.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "118d36f856af5fab831fd975c1c32c6016440131a6567458eb9f66de54726f78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/19\/10-12.1792602110544.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-irġiel qalu lil Lot: Min għadu jkollok hawn? Ħatni, subienek u bnietek, u kulma għandek fil-belt—ħarġihom minn dan il-post.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "qalu"
+      "gloss": "U qalu"
     },
     {
       "surface": "האנשים",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "għadek"
+      "gloss": "għadu"
     },
     {
       "surface": "מי",
-      "gloss": "xi ħadd"
+      "gloss": "min"
     },
     {
       "surface": "לך",
-      "gloss": "għandek"
+      "gloss": "jkollok"
     },
     {
       "surface": "פה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "u ulidek"
+      "gloss": "u subienek"
     },
     {
       "surface": "ובנתיך",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "לך",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "הוצא",
-      "gloss": "iġegħlu joħorġu"
+      "gloss": "ħarġihom"
     },
     {
       "surface": "מן",
@@ -106,6 +80,6 @@
       "gloss": "dan il-post"
     }
   ],
-  "timestamp": "2026-10-21T17:01:50.548522950Z",
+  "timestamp": "2026-10-22T00:20:56.342686842Z",
   "model": "glm-5.3"
 }

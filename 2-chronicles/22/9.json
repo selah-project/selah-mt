@@ -5,42 +5,16 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויבקש",
-      "rationale": "Is-suġġett (Jehu) mhux miktub fil-Lhudi f'dan il-vers; żżedt (Jehu) fil-parentesi"
-    },
-    {
-      "kind": "addition",
-      "subject": "ebda",
-      "rationale": "ואין ma jġorrx lill-verb 'kien hemm' bil-Malti; 'ebda' miżjuda"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruħu",
-      "rationale": "מתחבא litteralment 'jaħbi lilu nnifsu' — bil-Malti 'jaħbi ruħu'"
-    }
-  ],
-  "translation": "U (Jehu) fittex lil Aħazjahu, u qabduh — u hu kien jaħbi ruħu f'Shomron — u ġabuh għand Jehu, u qatluh, u difnuh, għaliex qalu: Huwa iben Jihoshafat, li fittex ⟨את⟩ Jaħwe b'qalbu kollha; u ma kien hemm għal dar Aħazjahu ebda saħħa biex iżżomm is-saltna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c09938c0c2352b3e1eb16fa77ca221ecea3486b7c8c4b20815322acb56e2e0d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/22\/9-12.1792622738577.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U fittex ⟨את⟩ lil Aħazjahu, u qabduh waqt li kien jaħbi ruħu f'Shomron, u ġabuh għand Jehu, u qatluh, u difnuh, għax qalu: Huwa iben Jihojaxafat, li fittex ⟨את⟩ lil Jaħwe b'qalbu kollha. U ma kienx hemm għal dar Aħazjahu biex iżżomm qawwa għas-saltna.",
   "tokens": [
     {
       "surface": "ויבקש",
-      "gloss": "fittex"
+      "gloss": "u fittex"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aħazjahu"
+      "marks": "lil Aħazjahu"
     },
     {
       "surface": "אחזיהו",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "u hu"
+      "gloss": "waqt li kien"
     },
     {
       "surface": "מתחבא",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "אמרו",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jihoshafat"
+      "gloss": "Jihojaxafat"
     },
     {
       "surface": "הוא",
@@ -113,7 +87,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe"
+      "marks": "lil Jaħwe"
     },
     {
       "surface": "יהוה",
@@ -121,15 +95,15 @@
     },
     {
       "surface": "בכל",
-      "gloss": "kollha"
+      "gloss": "b'"
     },
     {
       "surface": "לבבו",
-      "gloss": "b'qalbu"
+      "gloss": "qalbu kollha"
     },
     {
       "surface": "ואין",
-      "gloss": "u ma kien hemm"
+      "gloss": "u ma kienx hemm"
     },
     {
       "surface": "לבית",
@@ -145,13 +119,13 @@
     },
     {
       "surface": "כח",
-      "gloss": "saħħa"
+      "gloss": "qawwa"
     },
     {
       "surface": "לממלכה",
-      "gloss": "is-saltna"
+      "gloss": "għas-saltna"
     }
   ],
-  "timestamp": "2026-10-21T22:45:38.578494716Z",
+  "timestamp": "2026-10-22T00:01:53.408663500Z",
   "model": "glm-5.3"
 }

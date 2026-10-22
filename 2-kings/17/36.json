@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "l-espressjoni Lhudija כי אם tfisser 'imma\/mela biss' — ma tittraduċix kelma b'kelma"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "tibżgħu · txommdu · toqtlu",
-      "rationale": "l-iterazzjoni tripla lilu...lilu...lilu tirrifletti l-ikel mill-ġdid ta' ולו f'sibbu ta'ForEach"
-    },
-    {
-      "kind": "you",
-      "subject": "lil-Iżrael",
-      "rationale": "indirizz dirett fil-plural lil ulied Jagħaqov b' imperattivi"
-    }
-  ],
-  "translation": "Mela ⟨את⟩ lil Jaħwe, li tella'kom mill-art ta' Mitsrajim b'ħila kbira u b'driegħ miftuħ, lilu tibżgħu, u lilu txommdu, u lilu toqtlu għalih sagrifiċċju.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/33-36.1792610606443.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex ⟨hu⟩ Jaħwe, li ħareġilkom ⟨את⟩ minn art Mitsrajim b'ħila kbira u b'id miġjuda, lilu tieħdbuħ, u lilu tinxteħu, u lilu tistħuqu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Mela"
+      "gloss": "għaliex"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "imma"
     },
     {
       "surface": "את",
@@ -56,16 +30,15 @@
     },
     {
       "surface": "העלה",
-      "gloss": "tella'"
+      "gloss": "ħareġilkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
-      "marks": "lilkom"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "מארץ",
-      "gloss": "mill-art"
+      "gloss": "minn art"
     },
     {
       "surface": "מצרים",
@@ -81,20 +54,20 @@
     },
     {
       "surface": "ובזרוע",
-      "gloss": "u b'driegħ"
+      "gloss": "u b'id"
     },
     {
       "surface": "נטויה",
-      "gloss": "miftuħ"
+      "gloss": "miġjuda"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "tibżgħu"
+      "gloss": "⟨את⟩",
+      "marks": "lilu (Jaħwe)"
     },
     {
       "surface": "תיראו",
-      "gloss": "tibżgħu"
+      "gloss": "tieħdbuħ"
     },
     {
       "surface": "ולו",
@@ -102,7 +75,7 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "txommdu"
+      "gloss": "tinxteħu"
     },
     {
       "surface": "ולו",
@@ -110,9 +83,9 @@
     },
     {
       "surface": "תזבחו",
-      "gloss": "toqtlu sagrifiċċju"
+      "gloss": "tistħuqu"
     }
   ],
-  "timestamp": "2026-10-21T19:23:26.445088171Z",
+  "timestamp": "2026-10-22T00:04:02.860761772Z",
   "model": "glm-5.3"
 }

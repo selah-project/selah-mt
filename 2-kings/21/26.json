@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "ויקבר huwa singular (qieđdu\/Resp. sħubija), il-Malti juża plural 'difnuh' għal traduzzjoni passiva"
-    },
-    {
-      "kind": "elision",
-      "subject": "l-artiklu",
-      "rationale": "'Fi ġnien Uzza' mhux 'l-ġnien' — l-ebda artiklu Lhudi fuq גן"
-    }
-  ],
-  "translation": "U difnuh fi qabar tiegħu fi ġnien Uzza, u Jojaxja bħu ħakem minfloku.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/21\/25-26.1792610699539.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U difnuh ⟨את⟩ fil-qabar tiegħu f'ġnien GħUzza, u Joŝjahu binu sar sultan minfloku.",
   "tokens": [
     {
       "surface": "ויקבר",
@@ -35,37 +14,37 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lil Amon"
+      "marks": "fil-qabar tiegħu"
     },
     {
       "surface": "בקברתו",
-      "gloss": "fi qabar tiegħu"
+      "gloss": "fil-qabar tiegħu"
     },
     {
       "surface": "בגן",
-      "gloss": "fi ġnien"
+      "gloss": "f'ġnien"
     },
     {
       "surface": "עזא",
-      "gloss": "Uzza"
+      "gloss": "GħUzza"
     },
     {
       "surface": "וימלך",
-      "gloss": "u ħakem"
+      "gloss": "u sar sultan"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Jojaxja"
+      "gloss": "Joŝjahu"
     },
     {
       "surface": "בנו",
-      "gloss": "bħu"
+      "gloss": "binu"
     },
     {
       "surface": "תחתיו",
       "gloss": "minfloku"
     }
   ],
-  "timestamp": "2026-10-21T19:24:59.540641350Z",
+  "timestamp": "2026-10-22T00:04:28.107560525Z",
   "model": "glm-5.3"
 }

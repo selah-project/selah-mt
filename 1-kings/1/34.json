@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "יחי המלך",
-      "rationale": "Acclamazzjoni kurjali — 'ħajja s-sultan!' — kliem wieħed li jirriflessi l-ħajja tassew mogħtija lit-tron."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-qassis u l-profeta",
-      "rationale": "Kmand dirett ta' David lil Tsadok u Natan għat-tinqix ta' Xelomo."
-    }
-  ],
-  "translation": "U jimsaħhuh hemm Tsadok il-qassis u Natan il-profeta għal sultan fuq Jisrael, u daħqu fix-xufar u għidu: Jaħja s-sultan Xelomo!",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/33-36.1792609255285.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U msawħ ⟨את⟩ hemm Sadok il-qassis u Natan il-profeta għal sultan fuq Jisrael; u duħħu l-qarn u għidu: Ħaj jgħix is-sultan Salimoni!",
   "tokens": [
     {
       "surface": "ומשח",
-      "gloss": "u jimsaħhuh"
+      "gloss": "u msawħ"
     },
     {
       "surface": "אתו",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "צדוק",
-      "gloss": "Tsadok"
+      "gloss": "Sadok"
     },
     {
       "surface": "הכהן",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "ותקעתם",
-      "gloss": "u daħqu"
+      "gloss": "u duħħu"
     },
     {
       "surface": "בשופר",
-      "gloss": "fix-xufar"
+      "gloss": "l-qarn"
     },
     {
       "surface": "ואמרתם",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "יחי",
-      "gloss": "jaħja"
+      "gloss": "jgħix"
     },
     {
       "surface": "המלך",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Xelomo"
+      "gloss": "Salimoni"
     }
   ],
-  "timestamp": "2026-10-21T19:00:55.286527503Z",
+  "timestamp": "2026-10-21T23:56:32.332751608Z",
   "model": "glm-5.3"
 }

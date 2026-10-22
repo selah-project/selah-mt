@@ -5,54 +5,28 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויגנב",
-      "rationale": "hawn 'ħlist\/ħbiet' mhux 'seraq' — l-istess verb bħal v.26 b'akċent differenti"
-    },
-    {
-      "kind": "you",
-      "subject": "Lavan lil Jagħaqov",
-      "rationale": "mistoqsija retorika oħra b'indirizz dirett"
-    },
-    {
-      "kind": "addition",
-      "subject": "Kont insibthek",
-      "rationale": "l-imperfett Lhudi jġorr il-mod 'kont (nibgħattek)'; bil-Malti jinbena għalih kontinwu"
-    }
-  ],
-  "translation": "Għala ħbejtek biex titlaq bil-ħarba, u ħlistni mingħajr ma għarraftni? Kont insibthek titlaq bi ferħ u bi kant, bit-tanbur u biċ-ċetra.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/25-28.1792598522515.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex taħbajt rasek biex tinżel ħarba, u qarraqt ⟨את⟩ lilija mingħajr ma għedtli, u ⟨kelli⟩ nibgħattek bil-ferħ u bil-għanjiet, bit-tumburin u biċ-ċitara?",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "Għala"
+      "gloss": "Għaliex"
     },
     {
       "surface": "נחבאת",
-      "gloss": "ħbejtek"
+      "gloss": "taħbajt rasek"
     },
     {
       "surface": "לברח",
-      "gloss": "biex titlaq bil-ħarba"
+      "gloss": "biex tinżel ħarba"
     },
     {
-      "surface": "ויגנב",
-      "gloss": "u ħlistni"
+      "surface": "ותגנב",
+      "gloss": "u qarraqt"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ oħti",
-      "marks": "lili"
+      "gloss": "⟨את⟩",
+      "marks": "lilija"
     },
     {
       "surface": "ולא",
@@ -60,33 +34,33 @@
     },
     {
       "surface": "הגדת",
-      "gloss": "għarraftni"
+      "gloss": "għedt"
     },
     {
       "surface": "לי",
-      "gloss": "lili"
+      "gloss": "li"
     },
     {
       "surface": "ואשלחך",
-      "gloss": "insibthek titlaq"
+      "gloss": "u nibgħattek"
     },
     {
       "surface": "בשמחה",
-      "gloss": "bi ferħ"
+      "gloss": "bil-ferħ"
     },
     {
       "surface": "ובשרים",
-      "gloss": "u bi kant"
+      "gloss": "u bil-għanjiet"
     },
     {
       "surface": "בתף",
-      "gloss": "bit-tanbur"
+      "gloss": "bit-tumburin"
     },
     {
       "surface": "ובכנור",
-      "gloss": "u biċ-ċetra"
+      "gloss": "u biċ-ċitara"
     }
   ],
-  "timestamp": "2026-10-21T16:02:02.516154827Z",
+  "timestamp": "2026-10-22T00:22:31.769959034Z",
   "model": "glm-5.3"
 }

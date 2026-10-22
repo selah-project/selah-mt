@@ -5,42 +5,16 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ta' l-irħula",
-      "rationale": "עזים elliptical: 'goats' with שעירי he-goats; supplied the noun literally"
-    },
-    {
-      "kind": "substitution",
-      "subject": "offerta maqtula bin-nar",
-      "rationale": "עלה is 'that which ascends' — a whole burnt offering; no single Maltese word keeps the going-up picture"
-    },
-    {
-      "kind": "crux",
-      "subject": "mogħoż għoljin",
-      "rationale": "שעיר shaggy he-goat; later tradition hears 'demons' (fauns) in the same word — here literal goats"
-    }
-  ],
-  "translation": "U mill-kongregazzjoni ta' wlied Jisrael jieħu żewġ mogħoż għoljin ta' l-irħula għall-offerta tal-ħatta, u muntun wieħed għall-offerta maqtula bin-nar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/5-8.1792600913019.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U minn ⟨את⟩ il-knisja ta' wlied Jisrael jieħu żewġ ibżir tal-mogħoż għall-offerenza tad-dnub, u muntun wieħed għall-offerenda maħruqa.",
   "tokens": [
     {
       "surface": "ומאת",
       "gloss": "minn ⟨את⟩",
-      "marks": "il-kongregazzjoni"
+      "marks": "il-knisja"
     },
     {
       "surface": "עדת",
-      "gloss": "il-kongregazzjoni"
+      "gloss": "il-knisja"
     },
     {
       "surface": "בני",
@@ -60,15 +34,15 @@
     },
     {
       "surface": "שעירי",
-      "gloss": "mogħoż għoljin"
+      "gloss": "ibżir"
     },
     {
       "surface": "עזים",
-      "gloss": "ta' l-irħula"
+      "gloss": "tal-mogħoż"
     },
     {
       "surface": "לחטאת",
-      "gloss": "għall-offerta tal-ħatta"
+      "gloss": "għall-offerenza tad-dnub"
     },
     {
       "surface": "ואיל",
@@ -80,9 +54,9 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "għall-offerta maqtula bin-nar"
+      "gloss": "għall-offerenda maħruqa"
     }
   ],
-  "timestamp": "2026-10-21T16:41:53.020131779Z",
+  "timestamp": "2026-10-22T00:40:01.308458843Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,32 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tal-ħtija",
-      "rationale": "החטאת: l-offruta għall-ħtija — l-istess kelma Lhudija tfisser id-dnub u l-offrutu tiegħu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "jipponta",
-      "rationale": "ירים minn רום (tgħolli): il-verb hu 'jitla' — il-picture ta' xaħam mgħolli 'l fuq ma tgħaddix bil-Malti"
-    }
-  ],
-  "translation": "U ⟨את⟩ ix-xaħam kollu tal-għoֹּגול tal-ħtija jipponta minnu: ⟨את⟩ ix-xaħam li jgħatti l-imsaren, u ⟨את⟩ ix-xaħam kollu li hemm fuq l-imsaren.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/5-8.1792600586720.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ kollha tax-xaħam tal-għoġol tal-offerta għad-dnub iħoll minnu: ⟨את⟩ ix-xaħam li jgħatti l-kliewi, u ⟨את⟩ kollu tax-xaħam li qiegħed fuq il-kliewi.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ix-xaħam kollu"
+      "marks": "kollha tax-xaħam"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "חלב",
-      "gloss": "ix-xaħam"
+      "gloss": "xaħam"
     },
     {
       "surface": "פר",
-      "gloss": "tal-għoֹּגול"
+      "gloss": "għoġol"
     },
     {
       "surface": "החטאת",
-      "gloss": "tal-ħtija"
+      "gloss": "tal-offerta għad-dnub"
     },
     {
       "surface": "ירים",
-      "gloss": "jipponta"
+      "gloss": "iħoll"
     },
     {
       "surface": "ממנו",
@@ -60,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ix-xaħam"
+      "marks": "ix-xaħam li jgħatti l-kliewi"
     },
     {
       "surface": "החלב",
@@ -76,12 +55,12 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "l-imsaren"
+      "gloss": "il-kliewi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ix-xaħam kollu"
+      "marks": "kollu tax-xaħam"
     },
     {
       "surface": "כל",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "החלב",
-      "gloss": "ix-xaħam"
+      "gloss": "tax-xaħam"
     },
     {
       "surface": "אשר",
@@ -101,9 +80,9 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "l-imsaren"
+      "gloss": "il-kliewi"
     }
   ],
-  "timestamp": "2026-10-21T16:36:26.721678802Z",
+  "timestamp": "2026-10-22T00:41:58.883561289Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,15 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חסו בצלי",
-      "rationale": "ironija jaqta': l-«atad» għandu l-iżgħar dell fost is-siġar, imma jisteden lil ħaddieħor jaħbat taħtu"
-    },
-    {
-      "kind": "crux",
-      "subject": "מושחים",
-      "gloss": "",
-      "rationale": "l-verb משח — l-ewwel darba fil-Kotba; jista' jkun 'tiġġieldu kontrija' kif ukoll 'timsħuni'"
-    }
-  ],
-  "translation": "U qal il-ħaxix xewkieri lis-siġar: Jekk tassew qegħdin timsħuni bħala sultan fuqkom, ejjiew, ħarbu taħt dell-i; u jekk le, toħroġ nar mill-ħaxix xewkieri, u taħenq lil ċedru ta' Labnun.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d79c3c82a0cc6f13db09dbebcf6fc49eae5c4a7eec27932e351d79a3c878bde8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/13-16.1792607207786.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-għadam qal lis-siġar: Jekk tassew qegħdin tiġgħallmu ⟨את⟩ni biex nagħmel il-sultan fuqkom, ejjew, ħarbu fid-dell tiegħi; u jekk le, toħroġ nar mill-għadam u titlef ⟨את⟩ il-ċedri tal-Libanu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "qal"
     },
     {
       "surface": "האטד",
-      "gloss": "il-ħaxix xewkieri"
+      "gloss": "l-għadam"
     },
     {
       "surface": "אל",
@@ -55,20 +33,20 @@
     },
     {
       "surface": "אתם",
-      "gloss": "qegħdin"
+      "gloss": "intom"
     },
     {
       "surface": "משחים",
-      "gloss": "timsħuni"
+      "gloss": "tiġgħallmu"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "lini (lil jien)"
+      "gloss": "⟨את⟩ni",
+      "marks": "biex inkun sultan fuqkom"
     },
     {
       "surface": "למלך",
-      "gloss": "bħala sultan"
+      "gloss": "sultan"
     },
     {
       "surface": "עליכם",
@@ -76,7 +54,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "ejjiew"
+      "gloss": "ejjew"
     },
     {
       "surface": "חסו",
@@ -84,7 +62,7 @@
     },
     {
       "surface": "בצלי",
-      "gloss": "taħt dell-i"
+      "gloss": "fid-dell tiegħi"
     },
     {
       "surface": "ואם",
@@ -108,26 +86,26 @@
     },
     {
       "surface": "האטד",
-      "gloss": "il-ħaxix xewkieri"
+      "gloss": "l-għadam"
     },
     {
       "surface": "ותאכל",
-      "gloss": "u taħenq"
+      "gloss": "u titlef"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iċ-ċedru"
+      "marks": "il-ċedri tal-Libanu"
     },
     {
       "surface": "ארזי",
-      "gloss": "iċ-ċedru"
+      "gloss": "iċ-ċedri"
     },
     {
       "surface": "הלבנון",
-      "gloss": "ta' Labnun"
+      "gloss": "tal-Libanu"
     }
   ],
-  "timestamp": "2026-10-21T18:26:47.787490206Z",
+  "timestamp": "2026-10-22T00:38:36.710512323Z",
   "model": "glm-5.3"
 }

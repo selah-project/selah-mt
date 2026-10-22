@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jiddikjarah",
-      "rationale": "וטמא literally 'it-tniġġis', imma hija att verbali tal-qassis — pronunzja ma' nadif\/mniġġes"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "il-pronum suffiss huwa maħluq fil-verb Malti jarah, immarkat b'⟨את⟩ biss"
-    }
-  ],
-  "translation": "U jara l-qassis ⟨את⟩ l-għdara fil-ġilda tal-ġisem, u xagħar fl-għdara jkun sar abjad, u d-dehra tal-għdara tkun aktar fond mill-ġilda ta' ġismu — għdara ta' żara'at hija — u jarah il-qassis u jiddikjarah mniġġes.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d6f8d4b0bce279f8b64953c5dcea75810fde501d35b9c37de9757e9003c2c7da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/13\/1-4.1792600867715.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis jara ⟨את⟩ il-paga fil-ġilda tal-laħam; u x-xagħar fil-paga tqaleb abjad, u d-dehra tal-paga taħraq aktar fil-fond mill-ġilda ta' laħmu — paga ta' tsaraat hija; u l-qassis jarah u jiddikjarah mniġġes.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "U jara"
+      "gloss": "u l-qassis jara"
     },
     {
       "surface": "הכהן",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-għdara"
+      "marks": "il-paga"
     },
     {
       "surface": "הנגע",
-      "gloss": "l-għdara"
+      "gloss": "il-paga"
     },
     {
       "surface": "בעור",
@@ -51,19 +30,19 @@
     },
     {
       "surface": "הבשר",
-      "gloss": "tal-ġisem"
+      "gloss": "tal-laħam"
     },
     {
       "surface": "ושער",
-      "gloss": "u xagħar"
+      "gloss": "u x-xagħar"
     },
     {
       "surface": "בנגע",
-      "gloss": "fl-għdara"
+      "gloss": "fil-paga"
     },
     {
       "surface": "הפך",
-      "gloss": "jkun sar"
+      "gloss": "tqaleb"
     },
     {
       "surface": "לבן",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "tal-għdara"
+      "gloss": "tal-paga"
     },
     {
       "surface": "עמק",
-      "gloss": "aktar fond"
+      "gloss": "taħraq aktar fil-fond"
     },
     {
       "surface": "מעור",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "ta' ġismu"
+      "gloss": "ta' laħmu"
     },
     {
       "surface": "נגע",
-      "gloss": "għdara"
+      "gloss": "paga"
     },
     {
       "surface": "צרעת",
-      "gloss": "żara'at"
+      "gloss": "tsaraat"
     },
     {
       "surface": "הוא",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "il-qassis"
+      "gloss": "l-qassis"
     },
     {
       "surface": "וטמא",
@@ -115,9 +94,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "hija (l-persuna bil-paga)"
     }
   ],
-  "timestamp": "2026-10-21T16:41:07.716256960Z",
+  "timestamp": "2026-10-22T00:39:32.363370700Z",
   "model": "glm-5.3"
 }

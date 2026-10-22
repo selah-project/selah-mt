@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "lill-mexxej",
-      "rationale": "למנצח: 'lill-mexxej tal-kor' jew 'għall-viċtarju' — maħsuba għal superindentent tal-mużika tat-tempju"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Xaul",
-      "rationale": "שאול hawnhekk huwa isem ir-re Xaul, mhux Xeol (שְׁאוֹל) — ittri almost identiċi, kliem differenti"
-    },
-    {
-      "kind": "addition",
-      "subject": "il-",
-      "rationale": "l-artiklu Malti miżjud, l-artiklu Lhudi fuq השירה ma jinmarkax"
-    }
-  ],
-  "translation": "Lill-mexxej, lill-qaddej ta' Jaħwe, għal David, li tkellem ma' Jaħwe ⟨את⟩ ⟨il⟩-kliem tal-għanja din, fl-ġurnata li ħeles Jaħwe lilu mill-id tal-għedewwa kollha tiegħu u mill-id ta' Xaul.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/18\/1-4.1792616653841.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għall-mexxej tal-kant; għall-qaddej ta' Jaħwe, għal David, li tkellem lil Jaħwe ⟨את⟩ il-kliem ta' din il-għanja, fil-jum li ħelless Jaħwe ⟨את⟩ lilu minn raħt id kull wieħed minn għedewwaħ, u minn id Sawl.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "lill-mexxej"
+      "gloss": "Għall-mexxej tal-kant"
     },
     {
       "surface": "לעבד",
-      "gloss": "lill-qaddej"
+      "gloss": "għall-qaddej"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "לדוד",
@@ -59,20 +33,20 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "ma' Jaħwe"
+      "gloss": "lil Jaħwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-kliem"
+      "marks": "il-kliem ta' din il-għanja"
     },
     {
       "surface": "דברי",
-      "gloss": "kliem"
+      "gloss": "il-kliem"
     },
     {
       "surface": "השירה",
-      "gloss": "tal-għanja"
+      "gloss": "ta' din il-għanja"
     },
     {
       "surface": "הזאת",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "fl-ġurnata"
+      "gloss": "fil-jum"
     },
     {
       "surface": "הציל",
-      "gloss": "ħeles"
+      "gloss": "ħelless"
     },
     {
       "surface": "יהוה",
@@ -92,30 +66,30 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩",
-      "marks": "lilu (David)"
+      "gloss": "⟨את⟩ lilu",
+      "marks": "minn raħt id kull wieħed minn għedewwaħ"
     },
     {
       "surface": "מכף",
-      "gloss": "mill-palma tal-id"
+      "gloss": "minn raħt id"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "איביו",
-      "gloss": "tal-għedewwa tiegħu"
+      "gloss": "wieħed minn għedewwaħ"
     },
     {
       "surface": "ומיד",
-      "gloss": "u mill-id"
+      "gloss": "u minn id"
     },
     {
       "surface": "שאול",
-      "gloss": "ta' Xaul"
+      "gloss": "Sawl"
     }
   ],
-  "timestamp": "2026-10-21T21:04:13.842330088Z",
+  "timestamp": "2026-10-22T00:49:37.313613517Z",
   "model": "glm-5.3"
 }

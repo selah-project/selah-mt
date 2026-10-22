@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "conjunction with no independent Maltese rendering after 'Għaliex'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "alla",
-      "rationale": "אלהים here denotes pagan deities, so the lowercase Maltese 'alla' is used, not Elohim"
-    }
-  ],
-  "translation": "Għaliex abbandunawni, u xteħtu quddiem Axtoret l-alla ta' Sidon, quddiem Kemox l-alla ta' Moab, u quddiem Milkom l-alla ta' wlied Ammon, u ma mxewx fit-toroq tiegħi, biex jagħmlu d-dritt f'għajnejja, u l-istatuti tiegħi u l-ġudizzji tiegħi, bħal David missieru.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "498edd3b75fac95cde9b52ebe642ecb4039649acd7e4cbef99ff110ce4fa100b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/33-36.1792609611643.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex abbandunawni u tilqu quddiem Axteret, alla tal-Isidonjin, quddiem Kemosx, alla ta' Moab, u quddiem Milkomm, alla ta' wlied Għammon, u ma mxewx fit-toroq tiegħi, biex jagħmlu d-dritt f'għajnejja, u l-istatuti tiegħi u l-ġudizzji tiegħi, bħal David missieru.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "Għaliex"
+      "gloss": "għaliex"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨li⟩"
     },
     {
       "surface": "עזבוני",
@@ -42,27 +21,27 @@
     },
     {
       "surface": "וישתחוו",
-      "gloss": "u xteħtu"
+      "gloss": "u tilqu quddiem"
     },
     {
       "surface": "לעשתרת",
-      "gloss": "quddiem Axtoret"
+      "gloss": "quddiem Axteret"
     },
     {
       "surface": "אלהי",
-      "gloss": "l-alla"
+      "gloss": "alla"
     },
     {
       "surface": "צדנין",
-      "gloss": "ta' Sidon"
+      "gloss": "tal-Isidonjin"
     },
     {
       "surface": "לכמוש",
-      "gloss": "quddiem Kemox"
+      "gloss": "quddiem Kemosx"
     },
     {
       "surface": "אלהי",
-      "gloss": "l-alla"
+      "gloss": "alla"
     },
     {
       "surface": "מואב",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "ולמלכם",
-      "gloss": "u quddiem Milkom"
+      "gloss": "u quddiem Milkomm"
     },
     {
       "surface": "אלהי",
-      "gloss": "l-alla"
+      "gloss": "alla"
     },
     {
       "surface": "בני",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Ammon"
+      "gloss": "Għammon"
     },
     {
       "surface": "ולא",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "הישר",
-      "gloss": "d-dritt"
+      "gloss": "id-dritt"
     },
     {
       "surface": "בעיני",
@@ -125,6 +104,6 @@
       "gloss": "missieru"
     }
   ],
-  "timestamp": "2026-10-21T19:06:51.643920221Z",
+  "timestamp": "2026-10-21T23:56:25.777260537Z",
   "model": "glm-5.3"
 }

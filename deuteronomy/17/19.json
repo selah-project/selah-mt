@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בו",
-      "rationale": "il-prepożizzjoni ב fit-traduzzjoni ssir 'fiha' għar-riferiment għall-ktieb, sivi femminili bil-Malti."
-    }
-  ],
-  "translation": "U tkun miegħu, u jaqra fiha jlum kollha ta' ħajtu, biex jitgħallem ibati lil Jaħwe, lil Elohim tiegħu, biex jżomm ⟨את⟩ kull kliem din it-Tora u ⟨את⟩ dawn l-istatuti, biex jagħmelhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "35dc072d2d079730c7735dd49d575a21294a94605877250856203b16e8196da9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/17\/17-20.1792605728331.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨hi⟩ tkun miegħu, u jaqra fiha kuljum tal-ħajja tiegħu, biex jitgħallem jibża' minn Jaħwe Elohim tiegħu, biex jżomm ⟨את⟩ kulma hemm miktub f'din it-Tora u ⟨את⟩ dawn l-istatuti, biex jagħmilhom.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "U tkun"
+      "gloss": "u tkun"
     },
     {
       "surface": "עמו",
@@ -41,15 +25,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kuljum"
     },
     {
       "surface": "ימי",
-      "gloss": "jlum"
+      "gloss": "tal-"
     },
     {
       "surface": "חייו",
-      "gloss": "ta' ħajtu"
+      "gloss": "ħajja tiegħu"
     },
     {
       "surface": "למען",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "ibati"
+      "gloss": "jibża' minn"
     },
     {
       "surface": "את",
@@ -83,28 +67,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kull"
+      "marks": "kulma hemm miktub f'din it-Tora"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kulma"
     },
     {
       "surface": "דברי",
-      "gloss": "kliem"
+      "gloss": "hemm miktub"
     },
     {
       "surface": "התורה",
-      "gloss": "tat-Tora"
+      "gloss": "f'din it-Tora"
     },
     {
       "surface": "הזאת",
-      "gloss": "din"
+      "gloss": "dinja"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-istatuti"
+      "marks": "dawn l-istatuti"
     },
     {
       "surface": "החקים",
@@ -116,9 +100,9 @@
     },
     {
       "surface": "לעשתם",
-      "gloss": "biex jagħmelhom"
+      "gloss": "biex jagħmilhom"
     }
   ],
-  "timestamp": "2026-10-21T18:02:08.332595485Z",
+  "timestamp": "2026-10-22T00:09:53.884243355Z",
   "model": "glm-5.3"
 }

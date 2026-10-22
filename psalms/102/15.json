@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 102,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אבניה \/ עפרה",
-      "rationale": "Ġebel u trab: il-kbir u l-ċkejken tas-sitthea, l-istess suffiss tagħha — żewġ ħaġiet waħda."
-    }
-  ],
-  "translation": "Għax il-qaddejja tiegħek jittgħaxxqu bil-ġebel tagħha, u jittħennu għat-trab tagħha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/102\/13-16.1792617780349.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax il-qaddejja tiegħek joħobbu ⟨את⟩ l-ġebel tagħha, u ⟨את⟩ trabha jħennu għalih.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "רצו",
-      "gloss": "jittgħaxxqu"
+      "gloss": "joħobbu"
     },
     {
       "surface": "עבדיך",
@@ -38,26 +22,26 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġebel tagħha"
+      "marks": "l-ġebel tagħha"
     },
     {
       "surface": "אבניה",
-      "gloss": "il-ġebel tagħha"
+      "gloss": "l-ġebel tagħha"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "it-trab tagħha"
+      "gloss": "u ⟨את⟩",
+      "marks": "trabha"
     },
     {
       "surface": "עפרה",
-      "gloss": "it-trab tagħha"
+      "gloss": "trabha"
     },
     {
       "surface": "יחננו",
-      "gloss": "jittħennu għal"
+      "gloss": "jħennu għalih"
     }
   ],
-  "timestamp": "2026-10-21T21:23:00.349886066Z",
+  "timestamp": "2026-10-22T00:48:31.604817484Z",
   "model": "glm-5.3"
 }

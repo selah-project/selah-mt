@@ -5,70 +5,44 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "באבן המלך",
-      "rationale": "'bil-ġebla tas-sultan' — l-ebnien tal-piż; xi tradutturi jaħsbuha standard uffiċjali, oħrajn ġebla ta' piż speċifika"
-    },
-    {
-      "kind": "measurement",
-      "subject": "mitejn xeqel",
-      "rationale": "piżtax-xagħar bl-istandard rjali — nota ta' ġid u vanità"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מקץ ימים לימים",
-      "rationale": "'mill-aħħar tal-jiem għal jiem' — idjom għal kull sena mbagħad sena; rundler b''mill-aħħar tal-jiem għal jiem'"
-    }
-  ],
-  "translation": "U meta jaħlaq raseu — u kien mill-aħħar tal-jiem għal jiem meta jaħlaq, għaliex kien tqil fuqu, u jaħlaq — u jewiel ix-xagħar ta' raseu mitejn xeqel bil-ġebla tas-sultan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8c70be904243816a037ccda0a92822eda93e94f0e0a72f4067e8e1028a6ae3f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/14\/25-28.1792608766213.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U meta ħellessa rasu — kien fl-aħħar ta' kuljum ta' jiem, kien iqattgħu għaliex kienet tqil fuqu, u kien iħellisha — jiżen ⟨את⟩ xagħar rasu, mitejn xeqel skont il-ġebla tal-miltus.",
   "tokens": [
     {
       "surface": "ובגלחו",
-      "gloss": "u meta jaħlaq"
+      "gloss": "u meta ħellessa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raseu"
+      "marks": "rasu"
     },
     {
       "surface": "ראשו",
-      "gloss": "raseu"
+      "gloss": "rasu"
     },
     {
       "surface": "והיה",
-      "gloss": "u kien"
+      "gloss": "kien"
     },
     {
       "surface": "מקץ",
-      "gloss": "mill-aħħar"
+      "gloss": "fl-aħħar"
     },
     {
       "surface": "ימים",
-      "gloss": "tal-jiem"
+      "gloss": "ta' kuljum"
     },
     {
       "surface": "לימים",
-      "gloss": "għal jiem"
+      "gloss": "ta' jiem"
     },
     {
       "surface": "אשר",
-      "gloss": "meta"
+      "gloss": "kien"
     },
     {
       "surface": "יגלח",
-      "gloss": "jaħlaq"
+      "gloss": "iqattgħu"
     },
     {
       "surface": "כי",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "כבד",
-      "gloss": "kien tqil"
+      "gloss": "kienet tqil"
     },
     {
       "surface": "עליו",
@@ -84,24 +58,24 @@
     },
     {
       "surface": "וגלחו",
-      "gloss": "u jaħlaq"
+      "gloss": "u iħellisha"
     },
     {
       "surface": "ושקל",
-      "gloss": "u jewiel"
+      "gloss": "jiżen"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ix-xagħar ta' raseu"
+      "marks": "xagħar rasu"
     },
     {
       "surface": "שער",
-      "gloss": "ix-xagħar"
+      "gloss": "xagħar"
     },
     {
       "surface": "ראשו",
-      "gloss": "ta' raseu"
+      "gloss": "rasu"
     },
     {
       "surface": "מאתים",
@@ -113,13 +87,13 @@
     },
     {
       "surface": "באבן",
-      "gloss": "bil-ġebla"
+      "gloss": "skont il-ġebla"
     },
     {
       "surface": "המלך",
-      "gloss": "tas-sultan"
+      "gloss": "tal-miltus"
     }
   ],
-  "timestamp": "2026-10-21T18:52:46.214591070Z",
+  "timestamp": "2026-10-22T00:05:39.964203433Z",
   "model": "glm-5.3"
 }

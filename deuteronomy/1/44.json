@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "u tellfu",
-      "rationale": "נכה huwa 'bir\/biċċa b'saħħa'; 'tellfu' jaqbad ir-rebħa militari, il-figura fiżika ntilfet."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרמה",
-      "rationale": "Ħorma (miktub Ħ-R-M) jissemmew bħala tarf il-ħerba — l-isem jixbah il-ħerba (ħerba\/ħerma) tal-ġlieda; jinstema' bil-Malti."
-    }
-  ],
-  "translation": "U l-Emorit, li kien joqgħod f'dik il-muntagna, ħareġ biex jilħaqkom, u jaħrbukom bħalma jagħmlu n-naħal, u tellfu ⟨את⟩ lilkom f'Seir sa Ħorma.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "44f53345cdaabfbc8209d279cd2e4fb1382db032652a05e1db828a68791e358e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/41-44.1792605324947.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-Emorit li joqgħod f'dak il-munt tella' biex jilqagħkom, u taħrabhom ⟨את⟩kom bħalma jagħmlu n-naħal, u ħarbistkom ⟨את⟩kom f'Sejir sa Ħorma.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "u ħareġ"
+      "gloss": "tella'"
     },
     {
       "surface": "האמרי",
@@ -38,28 +17,28 @@
     },
     {
       "surface": "הישב",
-      "gloss": "li kien joqgħod"
+      "gloss": "li joqgħod"
     },
     {
       "surface": "בהר",
-      "gloss": "fil-muntanja"
+      "gloss": "fil-munt"
     },
     {
       "surface": "ההוא",
-      "gloss": "dik"
+      "gloss": "dak"
     },
     {
       "surface": "לקראתכם",
-      "gloss": "biex jilħaqkom"
+      "gloss": "biex jilqagħkom"
     },
     {
       "surface": "וירדפו",
-      "gloss": "u jaħrbukom"
+      "gloss": "u taħrabhom"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "lilkom"
+      "marks": "kom"
     },
     {
       "surface": "כאשר",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "ויכתו",
-      "gloss": "u tellfu"
+      "gloss": "u ħarbistkom"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "lilkom"
+      "marks": "kom"
     },
     {
       "surface": "בשעיר",
-      "gloss": "f'Seir"
+      "gloss": "f'Sejir"
     },
     {
       "surface": "עד",
@@ -95,6 +74,6 @@
       "gloss": "Ħorma"
     }
   ],
-  "timestamp": "2026-10-21T17:55:24.949235416Z",
+  "timestamp": "2026-10-22T00:08:49.302035989Z",
   "model": "glm-5.3"
 }

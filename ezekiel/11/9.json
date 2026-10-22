@@ -5,31 +5,16 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתכם",
-      "rationale": "Mhux is-sinjal זר עצżר (את) iżda l-pronoma ta' oġġett 'lilkom' — the same letters, another word."
-    }
-  ],
-  "translation": "U nieħorġokom minn ġo nofsha, u nagħti ⟨את⟩ lilkom f'idejn barranin, u nagħmel fikom ġudizzji.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/11\/9-12.1792614267293.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U joħroġ lilkom ⟨את⟩ minn ġo nofsha, u npoġġi lilkom ⟨את⟩ f'idejn il-barranin, u nagħmel fi ħdankom ġudizzji.",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "u nieħorġokom"
+      "gloss": "u joħroġ"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "lilkom ⟨את⟩",
+      "marks": "minn ġo nofsha"
     },
     {
       "surface": "מתוכה",
@@ -37,15 +22,16 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "u nagħti"
+      "gloss": "u npoġġi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "lilkom ⟨את⟩",
+      "marks": "f'idejn il-barranin"
     },
     {
       "surface": "ביד",
-      "gloss": "f'idejn"
+      "gloss": "f'id"
     },
     {
       "surface": "זרים",
@@ -57,13 +43,13 @@
     },
     {
       "surface": "בכם",
-      "gloss": "fikom"
+      "gloss": "fi ħdankom"
     },
     {
       "surface": "שפטים",
       "gloss": "ġudizzji"
     }
   ],
-  "timestamp": "2026-10-21T20:24:27.294350281Z",
+  "timestamp": "2026-10-22T00:16:00.972075032Z",
   "model": "glm-5.3"
 }

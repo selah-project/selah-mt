@@ -5,43 +5,27 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אפי וחמתי",
-      "rationale": "'imnieħri u rmiedi' — l-ebraiku: riħ tan-naħar (אף) u s-sħana (חמה) għall-għadab; il-litterali żżomm il-fiżiċija."
-    }
-  ],
-  "translation": "Għax kontra l-imnieħri u kontra r-rmiedi kienet għalija din il-belt, mill-ġurnata li bnewha sa din il-ġurnata, biex inneħħiha minn quddiem wiċċi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9c79303358388be4b6d6ff6706b66754d989ca81e7dbc2ce3a53787f4ce81d8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/32\/29-32.1792613286117.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax fuq imni u fuq il-ħamiexa tiegħi din il-belt kienet għalija mill-jum li bnew ⟨את⟩ha u sa dan il-jum, biex inneħħiha minn fuq wiċċi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għax"
     },
     {
       "surface": "על",
-      "gloss": "kontra"
+      "gloss": "fuq"
     },
     {
       "surface": "אפי",
-      "gloss": "l-imnieħri"
+      "gloss": "imni"
     },
     {
       "surface": "ועל",
-      "gloss": "u kontra"
+      "gloss": "u fuq"
     },
     {
       "surface": "חמתי",
-      "gloss": "r-rmiedi"
+      "gloss": "il-ħamiexa tiegħi"
     },
     {
       "surface": "היתה",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "il-belt"
+      "gloss": "din il-belt"
     },
     {
       "surface": "הזאת",
@@ -61,11 +45,11 @@
     },
     {
       "surface": "למן",
-      "gloss": "mill-"
+      "gloss": "min"
     },
     {
       "surface": "היום",
-      "gloss": "ġurnata"
+      "gloss": "il-jum"
     },
     {
       "surface": "אשר",
@@ -77,20 +61,20 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ha",
-      "marks": "din il-belt"
+      "gloss": "⟨את⟩",
+      "marks": "ha (l-għan: din il-belt)"
     },
     {
       "surface": "ועד",
-      "gloss": "sa"
+      "gloss": "u sa"
     },
     {
       "surface": "היום",
-      "gloss": "il-ġurnata"
+      "gloss": "il-jum"
     },
     {
       "surface": "הזה",
-      "gloss": "din"
+      "gloss": "dan"
     },
     {
       "surface": "להסירה",
@@ -98,13 +82,13 @@
     },
     {
       "surface": "מעל",
-      "gloss": "minn quddiem"
+      "gloss": "minn fuq"
     },
     {
       "surface": "פני",
       "gloss": "wiċċi"
     }
   ],
-  "timestamp": "2026-10-21T20:08:06.119455182Z",
+  "timestamp": "2026-10-22T00:29:38.523720256Z",
   "model": "glm-5.3"
 }

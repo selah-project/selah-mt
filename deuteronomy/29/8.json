@@ -5,46 +5,20 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tirnexxu",
-      "rationale": "שכל tfisser 'tkun għaref, ħaref, irnexxi' — il-Malti juża 'tirnexxu' għall-prosperità"
-    },
-    {
-      "kind": "invitation",
-      "subject": "lill-Iżrael",
-      "rationale": "imperattiv plurali 'żommu... u agħmlu' jsejjaħ lill-poplu biex jżomm il-patt"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ועשיתם \/ תעשון",
-      "gloss": "għerq עשה jingħata darbtejn — 'agħmlu' u 'tagħmlu' — biex il-kliem jagħmlu ċirku"
-    }
-  ],
-  "translation": "U żommu ⟨את⟩ kliem dan il-patt, u agħmluhom, biex tirnexxu fi ⟨dak⟩ kollu li tagħmlu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3ff286b507b05a5626bad7cbdae800b9101d58252de0e53c40754f216738c457",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/29\/5-8.1792606016865.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħarstu ⟨את⟩ il-kliem ta' dan il-patt, u wettagħthom ⟨אתם⟩, biex tirnexxu ⟨את⟩ f'kulma tagħmlu.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "u żommu"
+      "gloss": "u ħarstu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kliem dan il-patt"
+      "marks": "il-kliem ta' dan il-patt"
     },
     {
       "surface": "דברי",
-      "gloss": "kliem"
+      "gloss": "il-kliem ta'"
     },
     {
       "surface": "הברית",
@@ -56,11 +30,12 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "u agħmlu"
+      "gloss": "u wettagħthom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨אתם⟩",
+      "marks": "il-kliem ta' dan il-patt"
     },
     {
       "surface": "למען",
@@ -73,11 +48,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kollu li tagħmlu"
+      "marks": "kulma tagħmlu"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kulma"
     },
     {
       "surface": "אשר",
@@ -88,6 +63,6 @@
       "gloss": "tagħmlu"
     }
   ],
-  "timestamp": "2026-10-21T18:06:56.866461359Z",
+  "timestamp": "2026-10-22T00:53:04.741804664Z",
   "model": "glm-5.3"
 }

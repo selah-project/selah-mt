@@ -5,46 +5,15 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "bejn l-għasriex",
-      "rationale": "בין הערבים litteralment 'bejn l-għasriex', żmien inżul ix-xemx; verżjonijiet: 'filgħaxija', 'bejn l-għasriex'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ċirkostanzi",
-      "rationale": "חקתיו 'stati stipulati' mċaqalba ma' kelma li tidher maqtugħa għal dwal litterali."
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Data preċiża: jum erbatax tax-xahar l-ewwel."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "tagħmlu ... tagħmlu",
-      "rationale": "Ripetizzjoni ta' תעשו ... אתו f'chiasm mal-istess kliem, miżjoma bħala struttura."
-    }
-  ],
-  "translation": "Fjum erbatax-il jum ta' dan ix-xahar, bejn l-għasriex, tagħmluh fi żmienuh stipulat; skont iċ-ċirkostanzi kollha tiegħu u skont id-drittijiet kollha tiegħu tagħmluh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/9\/1-4.1792602625953.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nhar erbataxar-il jum ta' dan ix-xahar, bejn l-għaxxiet, tagħmlu ⟨את⟩ lilu fi żmien muħtag; skond id-drawwiet kollha tiegħu u skond il-ġudizzji kollha tiegħu tagħmlu ⟨את⟩ lilu.",
   "tokens": [
     {
       "surface": "בארבעה",
-      "gloss": "erbatax-il (erbgħa)"
+      "gloss": "erbataxar"
     },
     {
       "surface": "עשר",
-      "gloss": "erbatax-il (għaxra)"
+      "gloss": "-taxar"
     },
     {
       "surface": "יום",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "הערבים",
-      "gloss": "l-għasriex"
+      "gloss": "l-għaxxiet"
     },
     {
       "surface": "תעשו",
@@ -72,28 +41,28 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ h",
-      "marks": "il-Pesaħ"
+      "gloss": "⟨את⟩",
+      "marks": "lilu — fil-Ħagga (il-Pesaħ), fi żmien muħtag"
     },
     {
       "surface": "במועדו",
-      "gloss": "fi żmienuh stipulat"
+      "gloss": "fi żmien muħtag"
     },
     {
       "surface": "ככל",
-      "gloss": "skont iċ-ċirkostanzi kollha"
+      "gloss": "skond il-koll"
     },
     {
       "surface": "חקתיו",
-      "gloss": "ċirkostanzi tiegħu"
+      "gloss": "drawwiet tiegħu"
     },
     {
       "surface": "וככל",
-      "gloss": "u skont id-drittijiet kollha"
+      "gloss": "u skond il-koll"
     },
     {
       "surface": "משפטיו",
-      "gloss": "drittijiet tiegħu"
+      "gloss": "ġudizzji tiegħu"
     },
     {
       "surface": "תעשו",
@@ -101,10 +70,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ h",
-      "marks": "il-Pesaħ"
+      "gloss": "⟨את⟩",
+      "marks": "lilu — il-Pesaħ, skond id-drawwiet u l-ġudizzji"
     }
   ],
-  "timestamp": "2026-10-21T17:10:25.956859008Z",
+  "timestamp": "2026-10-22T00:47:58.192083069Z",
   "model": "glm-5.3"
 }

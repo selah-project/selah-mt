@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-porzjon",
-      "rationale": "חלק hawn jirreferi għal Jaħwe nnifsu bħala l-lot ta' Jagħaqov, mhux għal sehem ta' ħaġa"
-    },
-    {
-      "kind": "crux",
-      "subject": "שבט",
-      "rationale": "lasta\/bastun (ASV 'tribe', KJV 'rod') — il-kelma tfisser il-ħatar tar-razzett u wkoll it-tribù"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jsawwal",
-      "rationale": "יוצר huwa għerq ta' 'potier' — lil min isaqqal bħall-fuħħar, mhux biss 'ħalaq'"
-    }
-  ],
-  "translation": "Mhux bħal dawn il-porzjon ta' Jagħaqov, għaliex hu li jsawwal ⟨את⟩ kollox, u Jisrael it-tribù ta' wirtu; Jaħwe Tsebawot ismu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/10\/13-16.1792612725360.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mhux bħal dawn il-porzjon ta' Jagħaqov, għax hu li sawwar il-koll, u Jisrael hija s-siġġra ta' wirtu; Jaħwe Tsebawot ismu.",
   "tokens": [
     {
       "surface": "לא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "חלק",
-      "gloss": "il-porzjon"
+      "gloss": "l-porzjon"
     },
     {
       "surface": "יעקב",
@@ -51,16 +25,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "יוצר",
-      "gloss": "li jsawwal"
+      "gloss": "li sawwar"
     },
     {
       "surface": "הכל",
-      "gloss": "⟨את⟩ kollox",
-      "marks": "kollox"
+      "gloss": "il-koll"
     },
     {
       "surface": "הוא",
@@ -72,7 +45,7 @@
     },
     {
       "surface": "שבט",
-      "gloss": "it-tribù"
+      "gloss": "is-siġġra"
     },
     {
       "surface": "נחלתו",
@@ -91,6 +64,6 @@
       "gloss": "ismu"
     }
   ],
-  "timestamp": "2026-10-21T19:58:45.362255426Z",
+  "timestamp": "2026-10-22T00:28:14.152396186Z",
   "model": "glm-5.3"
 }

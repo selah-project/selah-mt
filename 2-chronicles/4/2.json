@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "il-Baħar",
-      "rationale": "Diċembru? Le: għaxar kubiți d-dijametru, ħamsa l-għoli, tletin iċ-ċirkonferenza."
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-Baħar",
-      "rationale": "הים hawnhekk mhux baħar ta' l-ilma iżda l-vasun enormi tal-ġebħ; l-istess kelma Baħar tibqa' għax hekk issejjaħ it-test."
-    },
-    {
-      "kind": "crux",
-      "subject": "tletin kubitu",
-      "rationale": "Ċirkonferenza ta' tletin ma' dijametru ta' għaxar tagħti π=3 eżatt; kittieba qadanim u moderni jiddiskutu l-għawġ (xifer wiesa', approssimazzjoni, jew forma)."
-    }
-  ],
-  "translation": "U għamel ⟨את⟩ il-Baħar imfundaq: għaxar kubiți mix-xifer tiegħu għax-xifer tiegħu, tond madwar, u ħamsa kubiți l-għoli tiegħu, u ħabel ta' tletin kubitu dawwarh kollu madwaru.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/1-4.1792622342275.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għamel ⟨את⟩ il-Baħar imdewweb: għaxar ammi minn xoffu għal xoffu, tond madwar; u ħames ammi għoli; u ħabel ta' kejl ta' tletin amma jdur maġenbu madwar.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -40,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-Baħar"
+      "marks": "il-Baħar imdewweb"
     },
     {
       "surface": "הים",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "מוצק",
-      "gloss": "imfundaq"
+      "gloss": "imdewweb"
     },
     {
       "surface": "עשר",
@@ -56,19 +30,19 @@
     },
     {
       "surface": "באמה",
-      "gloss": "kubiți"
+      "gloss": "ammi"
     },
     {
       "surface": "משפתו",
-      "gloss": "mix-xifer tiegħu"
+      "gloss": "minn xoffu"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "għal"
     },
     {
       "surface": "שפתו",
-      "gloss": "għax-xifer tiegħu"
+      "gloss": "xoffu"
     },
     {
       "surface": "עגול",
@@ -80,41 +54,42 @@
     },
     {
       "surface": "וחמש",
-      "gloss": "u ħamsa"
+      "gloss": "u ħames"
     },
     {
       "surface": "באמה",
-      "gloss": "kubiți"
+      "gloss": "ammi"
     },
     {
       "surface": "קומתו",
-      "gloss": "l-għoli tiegħu"
+      "gloss": "għoli"
     },
     {
       "surface": "וקו",
-      "gloss": "u ħabel"
+      "gloss": "u ħabel ta' kejl"
     },
     {
       "surface": "שלשים",
-      "gloss": "ta' tletin"
+      "gloss": "tletin"
     },
     {
       "surface": "באמה",
-      "gloss": "kubitu"
+      "gloss": "amma"
     },
     {
       "surface": "יסב",
-      "gloss": "dawwarh"
+      "gloss": "jdur maġenbu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu"
+      "gloss": "⟨את⟩",
+      "marks": "maġenbu (il-Baħar)"
     },
     {
       "surface": "סביב",
       "gloss": "madwar"
     }
   ],
-  "timestamp": "2026-10-21T22:39:02.276040496Z",
+  "timestamp": "2026-10-22T00:02:22.317145250Z",
   "model": "glm-5.3"
 }

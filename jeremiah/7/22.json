@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ma tkellimtx dwar l-imsaħħaħ",
-      "rationale": "Ki Jaħwe ma jqabilx li jkun ta l-kmand tal-imsaħħaħ meta l-eżodu — il-maġġoranza jirrenduh hekk; oħrajn jisimgħu 'ma tkellimtx (biss) dwar'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "olola",
-      "rationale": "עולה tfisser 'dak li jitla'', ma saritx 'olokawst'"
-    }
-  ],
-  "translation": "Għax ma tkellimtx ⟨את⟩ missirijietkom, u lanqas ħlifthom, fin-nhar li ħriġthom minn art Mitsrajim, dwar id-dwar tal-olola u tal-imsaħħaħ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "747df39d5846d4e24092717d7e4ade1c5d65661ac13b3a34c4dd94ec011d5e0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/7\/22-23.1792623578263.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax jien ma dbrtx ma' missirietkom u lanqas ħlifthom, fil-ġurnata li ħriġt ⟨את⟩ minn art Mitsrajim, dwar il-kwistjonijiet tal-olokawsto u s-sagrifiċċju.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għax"
     },
     {
       "surface": "לא",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "tkellimtx"
+      "gloss": "dbrtx"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "missirijietkom"
+      "marks": "ma' missirietkom"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "missirijietkom"
+      "gloss": "missirietkom"
     },
     {
       "surface": "ולא",
-      "gloss": "lanqas"
+      "gloss": "u lanqas"
     },
     {
       "surface": "צויתים",
@@ -59,16 +38,16 @@
     },
     {
       "surface": "ביום",
-      "gloss": "fin-nhar"
+      "gloss": "fil-ġurnata"
     },
     {
       "surface": "הוציא",
-      "gloss": "ħriġthom"
+      "gloss": "ħriġt"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ħriġthom"
+      "marks": "minn art Mitsrajim"
     },
     {
       "surface": "מארץ",
@@ -84,17 +63,17 @@
     },
     {
       "surface": "דברי",
-      "gloss": "id-dwar"
+      "gloss": "il-kwistjonijiet"
     },
     {
       "surface": "עולה",
-      "gloss": "tal-olola"
+      "gloss": "tal-olokawsto"
     },
     {
       "surface": "וזבח",
-      "gloss": "tal-imsaħħaħ"
+      "gloss": "u s-sagrifiċċju"
     }
   ],
-  "timestamp": "2026-10-21T22:59:38.264316449Z",
+  "timestamp": "2026-10-22T00:33:02.292716751Z",
   "model": "glm-5.3"
 }

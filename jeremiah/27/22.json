@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nżurhom",
-      "rationale": "פקדי: 'inżurhom' jew 'inftedhom\/niftakar fihom' — JPS jqiegħed 'I remember them', KJV 'I visit them'"
-    },
-    {
-      "kind": "elision",
-      "subject": "נאם",
-      "rationale": "oraklu — 'jgħid Jaħwe' skont ir-regola fissa għal נאם יהוה"
-    }
-  ],
-  "translation": "Għal Babilonja jittieħdu, u hemm jibqgħu sa ġurnata li nżurhom, jgħid Jaħwe; u nieħodhom 'il fuq u nirritornahom għal dan il-post.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/27\/21-22.1792613049628.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għal Babilonja jittieħdu, u hemm jibqgħu sal-ġurnata li nżurhom ⟨את⟩, jgħid Jaħwe, u ngħollihom u nirritornahom għal dan il-post.",
   "tokens": [
     {
       "surface": "בבלה",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "יום",
-      "gloss": "ġurnata"
+      "gloss": "sal-ġurnata"
     },
     {
       "surface": "פקדי",
-      "gloss": "li nżurhom"
+      "gloss": "li nżur"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "hom"
+      "marks": "il-vaski (mill-vers ta' qabel)"
     },
     {
       "surface": "נאם",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "והעליתים",
-      "gloss": "u nieħodhom 'il fuq"
+      "gloss": "u ngħollihom"
     },
     {
       "surface": "והשיבתים",
@@ -87,9 +66,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "dan il-post"
     }
   ],
-  "timestamp": "2026-10-21T20:04:09.629383161Z",
+  "timestamp": "2026-10-22T00:30:08.041632336Z",
   "model": "glm-5.3"
 }

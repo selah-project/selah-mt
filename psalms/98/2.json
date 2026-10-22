@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 98,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "għarraf",
-      "rationale": "הודיע huwwa 'għamel jkun magħruf', mhux sempliċiment 'għarraf'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħarġet fid-dieher",
-      "rationale": "גלה litteralment 'żarmat\/neħħa l-ħ Cover', il-Malti jrid żewġ kelmiet"
-    },
-    {
-      "kind": "elision",
-      "subject": "גלה",
-      "rationale": "l-iskrutinju ta' 'għamel jidher fil-beraħ' tqassar għal metafora waħda"
-    }
-  ],
-  "translation": "Jaħwe għarraf ⟨את⟩ fejqiena tiegħu; quddiem għajnejn il-ġnus ħarġet fid-dieher tsedeq tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "21c2e07fbebf2ce78d3f7a11c17cfcc58427b0aa6074eaee8447cf6d1822cbde",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/98\/2-3.1792623816745.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jaħwe għarraf ⟨il⟩-fesla` tiegħu; quddiem għajnejn il-ġnus ħarġet fid-dieher tsedeqtu.",
   "tokens": [
     {
       "surface": "הודיע",
@@ -43,8 +17,7 @@
     },
     {
       "surface": "ישועתו",
-      "gloss": "⟨את⟩ fejqiena tiegħu",
-      "marks": "fejqiena tiegħu"
+      "gloss": "il-fesla` tiegħu"
     },
     {
       "surface": "לעיני",
@@ -60,9 +33,9 @@
     },
     {
       "surface": "צדקתו",
-      "gloss": "tsedeq tiegħu"
+      "gloss": "tsedeqtu"
     }
   ],
-  "timestamp": "2026-10-21T23:03:36.746014469Z",
+  "timestamp": "2026-10-22T00:54:19.449771940Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-pala ta' idek",
-      "rationale": "הכף hija l-ide mwarrba bħala palma (qwara); tradott 'il-pala ta' idek' biex jinżamm il-panorama litterali."
-    },
-    {
-      "kind": "you",
-      "subject": "nies Sukkot",
-      "rationale": "Indirizz dirett: Gideon jitkellem man-nies ta' Sukkot bi stupur retoriku."
-    }
-  ],
-  "translation": "U daħal għand nies Sukkot u qal: Ara Zevaħ u Tsalmonna, li intom fajbtuni bihom, billi għidtu: Jaħseb li Zevaħ u Tsalmonna ġew f'idejk issa, biex nagħtu ħobż lill-irġiel tiegħek il-għejja?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/8\/13-16.1792607091336.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġie għand ir-rgħajja ta' Sukkot u qal: Ara Żevaħ u Tsalmuna, li intom għajbru lili ⟨את⟩ bil-qawl: Jaħseb il-pala ta' Żevaħ u Tsalmuna sirt qiegħed f'idejk issa, biex nagħtu ħobż lill-irġiel tiegħek il-għejja?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "u daħal"
+      "gloss": "u ġie"
     },
     {
       "surface": "אל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "nies"
+      "gloss": "ir-rgħajja"
     },
     {
       "surface": "סכות",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "הנה",
-      "gloss": "ara"
+      "gloss": "Ara"
     },
     {
       "surface": "זבח",
-      "gloss": "Zevaħ"
+      "gloss": "Żevaħ"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "u Tsalmonna"
+      "gloss": "u Tsalmuna"
     },
     {
       "surface": "אשר",
@@ -66,27 +45,28 @@
     },
     {
       "surface": "חרפתם",
-      "gloss": "fajbtuni"
+      "gloss": "għajbru"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ lili"
+      "gloss": "⟨את⟩",
+      "marks": "lili — l-Insultat huwa Gideon"
     },
     {
       "surface": "לאמר",
-      "gloss": "billi għidtu"
+      "gloss": "bil-qawl"
     },
     {
       "surface": "הכף",
-      "gloss": "il-pala ta' idek"
+      "gloss": "il-pala"
     },
     {
       "surface": "זבח",
-      "gloss": "Zevaħ"
+      "gloss": "Żevaħ"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "u Tsalmonna"
+      "gloss": "u Tsalmuna"
     },
     {
       "surface": "עתה",
@@ -94,7 +74,7 @@
     },
     {
       "surface": "בידך",
-      "gloss": "f'idek"
+      "gloss": "f'idejk"
     },
     {
       "surface": "כי",
@@ -117,6 +97,6 @@
       "gloss": "ħobż"
     }
   ],
-  "timestamp": "2026-10-21T18:24:51.337640865Z",
+  "timestamp": "2026-10-22T00:38:38.566496256Z",
   "model": "glm-5.3"
 }

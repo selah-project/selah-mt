@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Partiċella ta' l-istedina ma għandha ekwivalenti Malti net; tħalliet barra."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bajda",
-      "rationale": "עקרה: 'sterili' — il-kelma Maltija għal mara li ma tistax twelled."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-mara",
-      "rationale": "Diskors diretta tal-mibgħut lill-mara ta' Manoaħ."
-    }
-  ],
-  "translation": "U mibgħut Jaħwe deher lill-mara u qalilha: Ara, inti bajda u ma weldajtx, iżda se tqilgħu u se twelled tarfel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/13\/1-4.1792607401478.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U deher mibgħut Jaħwe lill-mara, u qalilha: Ara, inti ⟨את⟩ nikta u ma tlidtx; imma se tqilha u se twelled iben.",
   "tokens": [
     {
       "surface": "וירא",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אליה",
-      "gloss": ""
+      "gloss": "lilha"
     },
     {
       "surface": "הנה",
@@ -67,28 +41,28 @@
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "issa"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "inti bajda"
+      "gloss": "int",
+      "marks": "nikta"
     },
     {
       "surface": "עקרה",
-      "gloss": "bajda"
+      "gloss": "nikta"
     },
     {
-      "surface": "וילא",
+      "surface": "ולא",
       "gloss": "u ma"
     },
     {
       "surface": "ילדת",
-      "gloss": "weldajtx"
+      "gloss": "tlidtx"
     },
     {
       "surface": "והרית",
-      "gloss": "se tqilgħu"
+      "gloss": "se tqilha"
     },
     {
       "surface": "וילדת",
@@ -96,9 +70,9 @@
     },
     {
       "surface": "בן",
-      "gloss": "tarfel"
+      "gloss": "iben"
     }
   ],
-  "timestamp": "2026-10-21T18:30:01.479216213Z",
+  "timestamp": "2026-10-22T00:37:26.364015861Z",
   "model": "glm-5.3"
 }

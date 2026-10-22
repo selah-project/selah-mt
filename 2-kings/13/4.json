@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jittallab",
-      "rationale": "ויחל huwa 'sar dgħjuf\/batut' — l-umiltà tal-ġisem; il-Malti jagħti l-att tal-iltijjar tal-wiċċ biss"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לחץ\/לחץ",
-      "rationale": "l-istess għerq darbtejn: 'ra l-għafġ... għax għaffeġhom' — l-echo tal-għerq miżmum bil-għerq Malti għafġ\/għaffeġ"
-    }
-  ],
-  "translation": "U Joaħaz safa jittallab quddiem il-wiċċ ta' Jaħwe, u Jaħwe smagħu, għax ra ⟨את⟩ il-għafġ ta' Jisrael, għax kien għaffeġhom is-sultan ta' Aram.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/13\/1-4.1792610444601.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jehoaħaz ċara ⟨את⟩ il-wiċċ ta' Jaħwe, u Jaħwe smiegħu, għax ra ⟨את⟩ id-deni ta' Jisrael, għax kien jgħaffeġ ⟨את⟩ lilhom is-sultan ta' Aram.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "safa jittallab"
+      "gloss": "ċara"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Joaħaz"
+      "gloss": "Jehoaħaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-wiċċ"
+      "marks": "il-wiċċ ta' Jaħwe"
     },
     {
       "surface": "פני",
@@ -47,16 +26,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "וישמע",
-      "gloss": "u sma'"
+      "gloss": "u smiegħu"
     },
     {
-      "surface": "אליw",
-      "gloss": "għalih",
-      "note": ""
+      "surface": "אליו",
+      "gloss": "għalih"
     },
     {
       "surface": "יהוה",
@@ -73,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-għafġ ta' Jisrael"
+      "marks": "id-deni ta' Jisrael"
     },
     {
       "surface": "לחץ",
-      "gloss": "il-għafġ"
+      "gloss": "id-deni"
     },
     {
       "surface": "ישראל",
@@ -89,12 +67,12 @@
     },
     {
       "surface": "לחץ",
-      "gloss": "għaffeġ"
+      "gloss": "jgħaffeġ"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩hom",
-      "marks": "Jisrael"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "is-sultan ta' Aram"
     },
     {
       "surface": "מלך",
@@ -105,6 +83,6 @@
       "gloss": "ta' Aram"
     }
   ],
-  "timestamp": "2026-10-21T19:20:44.602275802Z",
+  "timestamp": "2026-10-22T00:03:42.914208895Z",
   "model": "glm-5.3"
 }

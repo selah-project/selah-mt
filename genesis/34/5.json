@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Seħem",
-      "rationale": "Il-verb טמא m'għandux suġġett fil-vers; Seħem miżjud biex il-Malti jifhem."
-    },
-    {
-      "kind": "elision",
-      "subject": "skiet",
-      "rationale": "והחרש letteralment 'u huwa skiet' — il-Malti jeħtieġ verb 'żamm skiet'."
-    },
-    {
-      "kind": "elision",
-      "subject": "ma'",
-      "rationale": "את it-tieni darba hawnha preposizzjoni ('ma''), mhux l-aleph-tav tal-oġġett."
-    }
-  ],
-  "translation": "U Jagħaqov sema' li ⟨Seħem\ntniġġis 0 lil Dina bintu, u uliedu kienu mal-merħla tiegħu fil-għalqa, u Jagħaqov żamm skiet sa morthom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/34\/5-8.1792598710293.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jagħaqov sema' li <Ḧamor> kiteb... sema' li ttmejlet ⟨את⟩ Dina bintu, u uliedu kienu ⟨את⟩ ma' merħlietu fil-għalqa; u Jagħaqov baqa' jassakta sa ma ġew.",
   "tokens": [
     {
       "surface": "ויעקב",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "טמא",
-      "gloss": "tniġġis"
+      "gloss": "ttmejlet"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Dina"
+      "marks": "Dina"
     },
     {
       "surface": "דינה",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "מקנהו",
-      "gloss": "mal-merħla tiegħu"
+      "gloss": "merħlietu"
     },
     {
       "surface": "בשדה",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "והחרש",
-      "gloss": "u żamm"
+      "gloss": "u baqa' jassakta"
     },
     {
       "surface": "יעקב",
@@ -92,13 +66,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "sa ma"
     },
     {
       "surface": "באם",
-      "gloss": "morthom"
+      "gloss": "ġew"
     }
   ],
-  "timestamp": "2026-10-21T16:05:10.294380566Z",
+  "timestamp": "2026-10-22T00:22:33.195564865Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "allat oħra",
-      "rationale": "אלהים אחרים: 'allat' b'ittra żgħira skont ir-regola għall-idoli, mhux Elohim."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עזבו x2",
-      "rationale": "Abbandun ta' Alla irrepetut żewġ darbiet — l-istedina retorika tal-vers."
-    }
-  ],
-  "translation": "U tgħidilhom: Għax missirijietkom abbandunawni, jgħid Jaħwe, u mxew wara allat oħra, u qadmulhom, uinxtered quddiemhom; u ⟨את⟩ lili abbandunaw, u ⟨את⟩ Tora tiegħi ma żammux.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c027ec1b02b6fd75110537842e89146a64ee7b956f6cfff536b3c61cb2284e51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/16\/9-12.1792612853061.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tgħidilhom: Għax missirietkom abbandunaw ⟨את⟩ lilni, jgħid Jaħwe, u mexxew wara allat oħra, u qegħdu jqisuhom u lexxru quddiemhom, u lilni ⟨את⟩ abbandunaw, u ⟨את⟩ it-Tora tiegħi ma żammuhiex.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "U tgħidilhom"
+      "gloss": "u tgħidilhom"
     },
     {
       "surface": "אליהם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "Għax"
+      "gloss": "għax"
     },
     {
       "surface": "אשר",
-      "gloss": "Għax"
+      "gloss": "li"
     },
     {
       "surface": "עזבו",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "אבותיכם",
-      "gloss": "missirijietkom"
+      "gloss": "missirietkom"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ lili"
+      "gloss": "⟨את⟩",
+      "marks": "lilni (Jaħwe)"
     },
     {
       "surface": "נאם",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "u mxew"
+      "gloss": "u mexxew"
     },
     {
       "surface": "אחרי",
@@ -82,11 +62,11 @@
     },
     {
       "surface": "ויעבדום",
-      "gloss": "u qadmulhom"
+      "gloss": "u qegħdu jqisuhom"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "u inxtered"
+      "gloss": "u lexxru"
     },
     {
       "surface": "להם",
@@ -94,7 +74,7 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ u lili"
+      "gloss": "⟨את⟩ lilni"
     },
     {
       "surface": "עזבו",
@@ -103,11 +83,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Tora tiegħi"
+      "marks": "it-Tora tiegħi"
     },
     {
       "surface": "תורתי",
-      "gloss": "Tora tiegħi"
+      "gloss": "it-Tora tiegħi"
     },
     {
       "surface": "לא",
@@ -115,9 +95,9 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "żammux"
+      "gloss": "żammuhiex"
     }
   ],
-  "timestamp": "2026-10-21T20:00:53.063123707Z",
+  "timestamp": "2026-10-22T00:27:58.009703150Z",
   "model": "glm-5.3"
 }

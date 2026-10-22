@@ -5,42 +5,11 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 108,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "int",
-      "rationale": "il-Malti jrid isem meta l-veru 2MS jiġi mmarkat bil-verb biss"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Elohim",
-      "rationale": "indirizz dirett lil Elohim, ilbaħ dirett"
-    },
-    {
-      "kind": "substitution",
-      "subject": "żerġ",
-      "rationale": "צבאותינו = 'milizji tagħna' — hemm kelma waħda, 'żerġ' tant qrib"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Elohim",
-      "rationale": "isem Elohim jidher darbtejn fil-vers, żewġ sejħiet identiku — iterazzjoni retorika"
-    }
-  ],
-  "translation": "Mhux int, Elohim, liċċattajtna? U int, Elohim, ma toħroġx ma' żerġħ tagħna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/108\/9-12.1792617860962.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mhux talli Elohim ċaħadna, u ma-toħroġx, Elohim, ma' tsebawotna?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "mhux"
+      "gloss": "mhux talli"
     },
     {
       "surface": "אלהים",
@@ -48,19 +17,15 @@
     },
     {
       "surface": "זנחתנו",
-      "gloss": "liċċattajtna"
+      "gloss": "ċaħadna"
     },
     {
-      "surface": "ו",
-      "gloss": "u"
-    },
-    {
-      "surface": "לא",
-      "gloss": "ma ... x"
+      "surface": "ולא",
+      "gloss": "u ma"
     },
     {
       "surface": "תצא",
-      "gloss": "toħroġ"
+      "gloss": "toħroġx"
     },
     {
       "surface": "אלהים",
@@ -68,9 +33,9 @@
     },
     {
       "surface": "בצבאתינו",
-      "gloss": "ma' żerġħ tagħna"
+      "gloss": "ma' tsebawotna"
     }
   ],
-  "timestamp": "2026-10-21T21:24:20.963031895Z",
+  "timestamp": "2026-10-22T00:48:25.009164283Z",
   "model": "glm-5.3"
 }

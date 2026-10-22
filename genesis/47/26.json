@@ -5,62 +5,36 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨liġi⟩ bħala",
-      "rationale": "l-artiklu Malti għal לחק b'costruttiv mal-verb וישם"
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-ħames",
-      "rationale": "לחמש: taxxa tal-ħames parti, maż-żerriegħa nżammet id-dritt ta' Farħun"
-    },
-    {
-      "kind": "measurement",
-      "subject": "il-ħames",
-      "rationale": "taxxa ta' ħameswaħħ ifissra s-sistema ta' Ġoxef"
-    }
-  ],
-  "translation": "U Jossesagarha bħala liġi saż-żern ta' llum fuq l-art ta' Mitsrajim għal Farħun: il-ħames; biss l-art tal-korħin waħedhom ma kinetx ta' Farħun.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "8a105ef231b8cc42e82e93ca1ae92db0a559e4a66631789706c9794909777894",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/47\/25-28.1792599013549.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jusef għamilha statut sal-ġurnata ta' llum fuq l-art ta' Mitsrajim, li Paroh jieħu l-ħamsa; biss l-art tal-qassisin waħidhom ma kinetx ta' Paroh.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "U Jossesagarha"
+      "gloss": "u għamilha"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "liġi"
+      "marks": "ha (ir-regola — l-objett ta' וישם)"
     },
     {
       "surface": "יוסף",
-      "gloss": "Josses"
+      "gloss": "Jusef"
     },
     {
       "surface": "לחק",
-      "gloss": "bħala liġi"
+      "gloss": "statut"
     },
     {
       "surface": "עד",
-      "gloss": "saż-żern"
+      "gloss": "sa"
     },
     {
       "surface": "היום",
-      "gloss": "ta' llum"
+      "gloss": "il-ġurnata"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "ta' llum"
     },
     {
       "surface": "על",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "għal Farħun"
+      "gloss": "li Paroh"
     },
     {
       "surface": "לחמש",
-      "gloss": "il-ħames"
+      "gloss": "jieħu l-ħamsa"
     },
     {
       "surface": "רק",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "tal-korħin"
+      "gloss": "tal-qassisin"
     },
     {
       "surface": "לבדם",
-      "gloss": "waħedhom"
+      "gloss": "waħidhom"
     },
     {
       "surface": "לא",
@@ -108,9 +82,9 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "ta' Farħun"
+      "gloss": "ta' Paroh"
     }
   ],
-  "timestamp": "2026-10-21T16:10:13.550457326Z",
+  "timestamp": "2026-10-22T00:23:55.318642042Z",
   "model": "glm-5.3"
 }

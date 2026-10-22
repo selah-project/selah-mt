@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Xafan",
-      "rationale": "שפן hawn huwa isem il-kittieb, missier Aħikam; b'dan l-istess konsonanti jifisser ukoll fenek tal-blat"
-    },
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "il-Malti jeħtieġ l-għajnuna ta' 'kien' għal הפקיד fil-passat"
-    }
-  ],
-  "translation": "U qam Jixmael bin Netanja u l-għaxra rġiel li kienu miegħu, u laqtu ⟨את⟩ lil Gdaljahu bin Aħikam bin Xafan bil-qarsa, u qatlu ⟨את⟩ lilu, li r-re ta' Babilonja kien hatar fl-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/41\/1-4.1792613554725.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qam Jixmael bin Netanja u għaxra rġiel li kienu ⟨את⟩ miegħu, u laqtu lil ⟨את⟩ Gdalja bin Aħikam bin Xafan bil-xabla, u qatlu ⟨את⟩ lilu, li r-re ta' Babilonja kien ħatru fuq l-art.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "qam"
+      "gloss": "u qam"
     },
     {
       "surface": "ישמעאל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ועשרת",
-      "gloss": "u l-għaxra"
+      "gloss": "u għaxra"
     },
     {
       "surface": "האנשים",
@@ -62,8 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu",
-      "marks": "miegħu"
+      "gloss": "⟨את⟩ miegħu"
     },
     {
       "surface": "ויכו",
@@ -72,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Gdaljahu"
+      "marks": "lil Gdalja bin Aħikam bin Xafan"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gdaljahu"
+      "gloss": "Gdalja"
     },
     {
       "surface": "בן",
@@ -96,7 +74,7 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "bil-qarsa"
+      "gloss": "bil-xabla"
     },
     {
       "surface": "וימת",
@@ -104,8 +82,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "lilu"
+      "gloss": "⟨את⟩",
+      "marks": "lilu (Gdalja)"
     },
     {
       "surface": "אשר",
@@ -113,7 +91,7 @@
     },
     {
       "surface": "הפקיד",
-      "gloss": "kien hatar"
+      "gloss": "ħatru"
     },
     {
       "surface": "מלך",
@@ -125,9 +103,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "fl-art"
+      "gloss": "fuq l-art"
     }
   ],
-  "timestamp": "2026-10-21T20:12:34.727214562Z",
+  "timestamp": "2026-10-22T00:30:48.089410628Z",
   "model": "glm-5.3"
 }

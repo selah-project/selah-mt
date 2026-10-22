@@ -5,45 +5,19 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "verbum dicendi rendered as 'jgħidu' introducing the message"
-    },
-    {
-      "kind": "invitation",
-      "subject": "inżlu, ġibdu",
-      "rationale": "imperatives addressed to the inhabitants of Kirjat Jearim"
-    },
-    {
-      "kind": "you",
-      "subject": "elikem",
-      "rationale": "direct address: 'għandkom' — to the inhabitants of Kirjat Jearim"
-    }
-  ],
-  "translation": "U bagħtu mibgħut lejn dawk li jgħixu f'Kirjat Jearim, jgħidu: L-illinji lanqas biss Plixtim rawwdu ⟨את⟩ it-tebut ta' Jaħwe; inżlu, ġibdu lilu ⟨għandkom⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "08dba26a50f67057be7dcaadc19933c8ae9ecda71018204eae345de4b0f1186b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/6\/21-21.1792607713341.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U bgħattu mibgħuta lil dawk li jgħixu f'Kirjat Jearim, jgħidu: Il-Pelixtin reġġgħu lura ⟨את⟩ senduq Jaħwe; inżlu, ħuduh ⟨għalihkom⟩ sa ġewwa Kom.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "U bagħtu"
+      "gloss": "U bgħattu"
     },
     {
       "surface": "מלאכים",
-      "gloss": "mibgħut"
+      "gloss": "mibgħuta"
     },
     {
       "surface": "אל",
-      "gloss": "lejn"
+      "gloss": "lil"
     },
     {
       "surface": "יושבי",
@@ -63,24 +37,24 @@
     },
     {
       "surface": "השבו",
-      "gloss": "rawwdu"
+      "gloss": "reġġgħu lura"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Plixtim"
+      "gloss": "Il-Pelixtin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tebut"
+      "marks": "senduq Jaħwe"
     },
     {
       "surface": "ארון",
-      "gloss": "it-tebut"
+      "gloss": "senduq"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "רדו",
@@ -88,18 +62,18 @@
     },
     {
       "surface": "העלו",
-      "gloss": "ġibdu"
+      "gloss": "ħuduh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "lilu"
+      "marks": "sa ġewwa Kom"
     },
     {
       "surface": "אליכם",
-      "gloss": "għandkom"
+      "gloss": "sa ġewwa Kom"
     }
   ],
-  "timestamp": "2026-10-21T18:35:13.342246706Z",
+  "timestamp": "2026-10-21T23:59:57.087649482Z",
   "model": "glm-5.3"
 }

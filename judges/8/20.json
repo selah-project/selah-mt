@@ -5,29 +5,7 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Iżda",
-      "gloss": "l-ebda 'iżda' fil-Lhudi; żdied biex ix-xifer tal-istorja jidher ċar",
-      "rationale": ""
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נער ... נער",
-      "rationale": "il-kelma tinħass darbtejn — 'x-xagħagħ ... għax għadu żagħżugħ' — il-ħbiel tal-kliem jinżamm"
-    }
-  ],
-  "translation": "U qal lil Jeter, il-kbir tiegħu: Qum, oqtolhom. Iżda x-xagħagħ ma ħrieġx ix-xabla tiegħu, għax beża', għax kien għadu żagħżugħ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/8\/17-20.1792607112953.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal lil Jeter, il-kbir tiegħu: Qum, oqtol lilhom ⟨את⟩. Iżda ż-żagħżugħ ma ħriġx xiferitu, għax beża', għax għadu żagħżugħ.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,7 +29,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
     },
     {
       "surface": "ולא",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "שלף",
-      "gloss": "ħrieġ"
+      "gloss": "ħriġx"
     },
     {
       "surface": "הנער",
-      "gloss": "ix-xagħagħ"
+      "gloss": "ż-żagħżugħ"
     },
     {
       "surface": "חרבו",
-      "gloss": "ix-xabla tiegħu"
+      "gloss": "xiferitu"
     },
     {
       "surface": "כי",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "עודנו",
-      "gloss": "kien għadu"
+      "gloss": "għadu"
     },
     {
       "surface": "נער",
       "gloss": "żagħżugħ"
     }
   ],
-  "timestamp": "2026-10-21T18:25:12.955257289Z",
+  "timestamp": "2026-10-22T00:38:16.512447880Z",
   "model": "glm-5.3"
 }

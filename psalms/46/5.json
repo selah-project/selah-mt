@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 46,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "il-Għoli 'l fuq, Elyon",
-      "rationale": "עליון hawn huwa titlu divin (El Elyon); ħlit il-qrib semantiku mat-titlu tal-Lhudi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נהר\/פלגיו",
-      "rationale": "il-fluss u l-kanali żgħar tiegħu — kontrast ma' Ġordan u l-kanali tal-għadu; fis-Salm il-belt għandha ilma sigur mingħajr xmara"
-    }
-  ],
-  "translation": "Nahar — nixxiegħu jifirħu l-belt ta' Elohim, l-abitazzjonijiet il-qaddisa tal-Għoli 'l fuq, Elyon.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/46\/5-8.1792617047785.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nahar — il-fergħat tiegħu jifirħu l-belt ta' Elohim, il-post il-qaddis tal-Mixkan ta' Elijon.",
   "tokens": [
     {
       "surface": "נהר",
-      "gloss": "Nahar"
+      "gloss": "nahar (xmara)"
     },
     {
       "surface": "פלגיו",
-      "gloss": "nixxiegħu"
+      "gloss": "il-fergħat tiegħu"
     },
     {
       "surface": "ישמחו",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "קדש",
-      "gloss": "il-qaddisa"
+      "gloss": "il-post il-qaddis"
     },
     {
       "surface": "משכני",
-      "gloss": "l-abitazzjonijiet"
+      "gloss": "tal-Mixkan"
     },
     {
       "surface": "עליון",
-      "gloss": "Elyon"
+      "gloss": "ta' Elijon"
     }
   ],
-  "timestamp": "2026-10-21T21:10:47.786329030Z",
+  "timestamp": "2026-10-22T00:49:55.191408804Z",
   "model": "glm-5.3"
 }

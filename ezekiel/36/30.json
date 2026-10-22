@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Relative particle absorbed into 'sabiex ma tieħdux'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "twelid",
-      "rationale": "תנובת is the field's yield\/produce, one word."
-    }
-  ],
-  "translation": "U nzid ⟨את⟩ il-frott tas-siġra u t-twelid tar-razzett, sabiex ma tieħdux iktar il-għajb tal-ġuħ fost in-nazzjonijiet.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/36\/29-32.1792614980582.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nnissi ⟨את⟩ il-frott tas-siġra u l-għelejjel tar-raqajgħ, sabiex ma tidħlux iktar taħt il-ħtija tal-ġuħ fost in-nazzjonijiet.",
   "tokens": [
     {
       "surface": "והרביתי",
-      "gloss": "u nzid"
+      "gloss": "u nnissi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-frott"
+      "marks": "il-frott tas-siġra"
     },
     {
       "surface": "פרי",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "ותנובת",
-      "gloss": "u t-twelid"
+      "gloss": "u l-għelejjel"
     },
     {
       "surface": "השדה",
-      "gloss": "tar-razzett"
+      "gloss": "tar-raqajgħ"
     },
     {
       "surface": "למען",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "tieħdux"
+      "gloss": "tidħlux iktor taħt"
     },
     {
       "surface": "עוד",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "חרפת",
-      "gloss": "il-għajb"
+      "gloss": "il-ħtija"
     },
     {
       "surface": "רעב",
@@ -86,6 +65,6 @@
       "gloss": "fost in-nazzjonijiet"
     }
   ],
-  "timestamp": "2026-10-21T20:36:20.583022355Z",
+  "timestamp": "2026-10-22T00:17:59.373259753Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,20 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יקרא בשמי",
-      "rationale": "Singular 'hu jsejjaħ' vs plural 'jsejħu' (KJV\/BSB 'they shall call') — il-Lhudi għandu singular, iżda l-qarrej jaqbeż lejn il-plural."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צרף\/בחן",
-      "rationale": "Żewġ parijiet ta' verbi tal-estrazzjoni tal-metalli, is-silta żżomm ir-ripetizzjoni parallela."
-    },
-    {
-      "kind": "substitution",
-      "subject": "issaffar\/iħaddab",
-      "rationale": "Ma hemmx żewġ kliem Maltin differenti għal צרף u בחן; it-tifsira hija li tinrafinaw bħall-metalli."
-    }
-  ],
-  "translation": "U jien niddaħħal it-tielet parti fin-nar, u nissaffihom bħall-issaffar tal-fidda, u nħarrabhom bħall-iħaddab tad-deheb; huwa jsejjaħ bl-Isem tiegħi, u jien inwieġbu ⟨את⟩; jiena ngħid: Huwa poplu tiegħi, u hu jgħid: Jaħwe huwa l-Elohim tiegħi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/13\/9-9.1792616377611.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jiena ndaħħal in-nettat uċuħ ta' ġewwa fil-ġewwa, u ndaħħal it-tielet ⟨את⟩ fin-nar, u nissaffarhom kif jissaffar ⟨את⟩ il-fidda, u nġarrabhom kif jiġi mġarrab ⟨את⟩ id-deheb; hu jsejjaħ b'Ismi, u jiena nwiegibu ⟨את⟩; jiena ngħid: Huwa poplu tiegħi, u hu jgħid: Jaħwe huwa Elohim tiegħi.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "u jien niddaħħal"
+      "gloss": "u ndaħħal"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tielet parti"
+      "marks": "it-tielet"
     },
     {
       "surface": "השלשית",
-      "gloss": "it-tielet parti"
+      "gloss": "it-tielet"
     },
     {
       "surface": "באש",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "וצרפתים",
-      "gloss": "u nissaffihom"
+      "gloss": "u nissaffarhom"
     },
     {
       "surface": "כצרף",
-      "gloss": "bħall-issaffar"
+      "gloss": "kif jissaffar"
     },
     {
       "surface": "את",
@@ -69,11 +43,11 @@
     },
     {
       "surface": "ובחנתים",
-      "gloss": "u nħarrabhom"
+      "gloss": "u nġarrabhom"
     },
     {
       "surface": "כבחן",
-      "gloss": "bħall-iħaddab"
+      "gloss": "kif jiġi mġarrab"
     },
     {
       "surface": "את",
@@ -82,11 +56,11 @@
     },
     {
       "surface": "הזהב",
-      "gloss": "tad-deheb"
+      "gloss": "id-deheb"
     },
     {
       "surface": "הוא",
-      "gloss": "huwa"
+      "gloss": "hu"
     },
     {
       "surface": "יקרא",
@@ -94,20 +68,20 @@
     },
     {
       "surface": "בשמי",
-      "gloss": "bl-Isem tiegħi"
+      "gloss": "b'Ismi"
     },
     {
       "surface": "ואני",
-      "gloss": "u jien"
+      "gloss": "u jiena"
     },
     {
       "surface": "אענה",
-      "gloss": "inwieġbu"
+      "gloss": "nwiegibu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lilu"
+      "marks": "lil hu (il-poplu li jsejjaħ)"
     },
     {
       "surface": "אמרתי",
@@ -135,9 +109,9 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "l-Elohim tiegħi"
+      "gloss": "Elohim tiegħi"
     }
   ],
-  "timestamp": "2026-10-21T20:59:37.612086784Z",
+  "timestamp": "2026-10-22T00:51:43.712486665Z",
   "model": "glm-5.3"
 }

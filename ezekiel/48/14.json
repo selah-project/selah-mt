@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ימר",
-      "rationale": "מוּר, 'jibdel\/jibgħat': versjoniet jaqsmu bejn 'jibdel' u 'jiġi mibdul (il-pussess)'; il-forma huwa passiv."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ימכרו \/ ימר",
-      "rationale": "Alliterazzjoni bejn il-verbi 'jinbiegħu' u 'jiġi mibdul', parti mill-qofol tan-negazzjoni triplta."
-    }
-  ],
-  "translation": "U ma jinbiegħu minnu xejn, u lanqas jiġi mibdul, u lanqas tgħaddi l-ewwel τal-art; għax qdusija hija lil Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "50ab0ce3e44692fbb883a81808004f033f33e684399275df9ca34d212703607e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/48\/13-16.1792615293852.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U m'għandhomx jbigħu minnu, lanqas jibdluħ, u lanqas jagħmlu ġbid ta' reshit l-art, għaliex hi qaddisa lil Jaħwe.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u lanqas"
     },
     {
       "surface": "ימכרו",
-      "gloss": "jinbiegħu"
+      "gloss": "jbigħu"
     },
     {
       "surface": "ממנו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ימר",
-      "gloss": "jiġi mibdul"
+      "gloss": "jibdluħ"
     },
     {
       "surface": "ולא",
@@ -54,29 +33,29 @@
     },
     {
       "surface": "יעבור",
-      "gloss": "tgħaddi"
+      "gloss": "jagħmlu ġbid ta'"
     },
     {
       "surface": "ראשית",
-      "gloss": "l-ewwel"
+      "gloss": "reshit"
     },
     {
       "surface": "הארץ",
-      "gloss": "tal-art"
+      "gloss": "l-art"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "קדש",
-      "gloss": "qdusija"
+      "gloss": "qaddisa"
     },
     {
       "surface": "ליהוה",
       "gloss": "lil Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:41:33.853549508Z",
+  "timestamp": "2026-10-22T00:19:45.606291994Z",
   "model": "glm-5.3"
 }

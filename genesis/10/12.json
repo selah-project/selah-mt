@@ -5,38 +5,12 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hi",
-      "rationale": "kopula miżjuda bil-Malti; il-Lhudi juża biss הוא għall-enfasi"
-    },
-    {
-      "kind": "crux",
-      "subject": "l-belt il-kbira",
-      "rationale": "hi hi ġieħ lil Resen, lil Ninwe, jew lill-agglomerat ta' bliet kollha? BSB jagħtiha lil Kalach"
-    },
-    {
-      "kind": "alternative",
-      "subject": "dak",
-      "rationale": "הוא jista' jkun 'dik' (il-belt) jew saħansitura jirreferi għal Nimrod b'enfasi — 'hu stess'"
-    }
-  ],
-  "translation": "u ⟨את⟩ lil Resen, bejn Ninwe u bejn Kalach; din ⟨hi⟩ l-belt il-kbira.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/10\/9-12.1792597896742.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ Resen, bejn Ninwe u bejn Kelaj: din hi l-belt il-kbira.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "lil Resen"
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
     },
     {
       "surface": "רסן",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "כלח",
-      "gloss": "Kalach"
+      "gloss": "Kelaj"
     },
     {
       "surface": "הוא",
-      "gloss": "din"
+      "gloss": "hi"
     },
     {
       "surface": "העיר",
@@ -71,6 +45,6 @@
       "gloss": "il-kbira"
     }
   ],
-  "timestamp": "2026-10-21T15:51:36.743681717Z",
+  "timestamp": "2026-10-22T00:20:18.179053691Z",
   "model": "glm-5.3"
 }

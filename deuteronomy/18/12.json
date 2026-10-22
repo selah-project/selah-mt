@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "huwa",
-      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תועבת\/התועבת",
-      "rationale": "l-istess kelma tidher darbtejn fil-vers — l-għerq tar-rabta ma' vers 9 (תועבת) u ma' vers 13"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jkeċċi",
-      "rationale": "מוריש = 'jġib biex jirtu' — joħroġ lil min hemm biex ieħor jirt; 'jkeċċi' jaqbad il-ħsibja prinċipali"
-    }
-  ],
-  "translation": "Għaliex toeva għal Jaħwe ⟨huwa⟩ kull min jagħmel dawn, u minħabba dawn it-toevot Jaħwe Elohim tiegħek jkeċċihom minn quddiemek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/18\/9-12.1792605689445.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax to'eva għand Jaħwe kull min jagħmel dawn il-ħaġiet, u minħabba d-dnubiet-to'evot dawn, Jaħwe Elohim tiegħek qed ikeċċihom ⟨את⟩ minn quddiemek.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "תועבת",
-      "gloss": "toeva"
+      "gloss": "to'eva"
     },
     {
       "surface": "יהוה",
-      "gloss": "għal Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "כל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "dawn"
+      "gloss": "dawn il-ħaġiet"
     },
     {
       "surface": "ובגלל",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "התועבת",
-      "gloss": "it-toevot"
+      "gloss": "d-dnubiet-to'evot"
     },
     {
       "surface": "האלה",
@@ -79,18 +53,18 @@
     },
     {
       "surface": "מוריש",
-      "gloss": "jkeċċi"
+      "gloss": "qed ikeċċihom"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "jkeċċihom (ihom)"
+      "marks": "minn quddiemek"
     },
     {
       "surface": "מפניך",
       "gloss": "minn quddiemek"
     }
   ],
-  "timestamp": "2026-10-21T18:01:29.446863311Z",
+  "timestamp": "2026-10-22T00:09:40.386260168Z",
   "model": "glm-5.3"
 }

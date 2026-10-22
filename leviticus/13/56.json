@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כהה",
-      "rationale": "'għamja\/skura': jekk in-naga saret aktar skura wara l-ħasil — jew dgħejfa skont YLT; id-direzzjoni tal-bidla hija l-kruċċ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jaqtgħu",
-      "rationale": "קרע huwa jixxaqqaq\/jaqta' b'qawwa; 'jaqtgħu' joħroġ il-biċċa mill-bqija"
-    }
-  ],
-  "translation": "U jekk il-qassis jara, u arah in-naga għamja wara li tħaset lilu, u jaqtgħu lilu minn ġol-libsa jew minn ġol-ġilda, jew minn ġol-ordit, jew minn ġot-trama.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "883507b5a91641848ebc7269dd3e8779f2a02f9c557d936a871d3211b19cd6e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/13\/53-56.1792600880139.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk il-qassis jara, u ara, in-niġla saret skura wara li tbexxiet ⟨את⟩, u jaqta' ⟨את⟩ mill-ħwejjeġ jew mill-ġilda jew mit-tkettir jew mit-tlajja'.",
   "tokens": [
     {
       "surface": "ואם",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "u arah"
+      "gloss": "u ara"
     },
     {
       "surface": "כהה",
-      "gloss": "għamja"
+      "gloss": "saret skura"
     },
     {
       "surface": "הנגע",
-      "gloss": "in-naga"
+      "gloss": "in-niġla"
     },
     {
       "surface": "אחרי",
@@ -58,21 +37,21 @@
     },
     {
       "surface": "הכבס",
-      "gloss": "tħaset"
+      "gloss": "tbexxiet"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "in-naga"
+      "gloss": "⟨את⟩",
+      "marks": "in-niġla (li tbexxiet)"
     },
     {
       "surface": "וקרע",
-      "gloss": "u jaqtgħu"
+      "gloss": "u jaqta'"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "minn ġol-libsa"
+      "gloss": "⟨את⟩",
+      "marks": "il-parti mmardma (li jaqta')"
     },
     {
       "surface": "מן",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "הבגד",
-      "gloss": "ġol-libsa"
+      "gloss": "il-ħwejjeġ"
     },
     {
       "surface": "או",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "העור",
-      "gloss": "ġol-ġilda"
+      "gloss": "il-ġilda"
     },
     {
       "surface": "או",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "השתי",
-      "gloss": "ġol-ordit"
+      "gloss": "it-tkettir"
     },
     {
       "surface": "או",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "ġot-trama"
+      "gloss": "it-tlajja'"
     }
   ],
-  "timestamp": "2026-10-21T16:41:20.140276411Z",
+  "timestamp": "2026-10-22T00:39:33.215576723Z",
   "model": "glm-5.3"
 }

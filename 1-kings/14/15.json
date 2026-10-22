@@ -5,43 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "לנהר",
-      "rationale": "'in-nahar' bil-Lhudi tfisser l-Ewfrate; bla għarfien minn qabel żammejtha ġenerali 'il-ġnub tar-roħs'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אשריהם",
-      "rationale": "l-Asriminator: l-istatwi tal-alla Ašera, mhux sempliċement 'siġar' jew 'boskijiet'"
-    },
-    {
-      "kind": "addition",
-      "subject": "lil",
-      "gloss": "il-prepożizzjoni Maltija meħtieġa għall-oġġett dirett ta' persuna",
-      "rationale": ""
-    },
-    {
-      "kind": "idiom",
-      "subject": "כאשר ינוד הקנה במים",
-      "rationale": "ixbih: 'bħalma titħarrek il-qasba fl-ilma' — stampa ta' instabbiltà totali"
-    }
-  ],
-  "translation": "Jaħwe jidrwom ⟨את⟩ lil Jisrael bħalma jitħarrek il-qasba fl-ilma, u jwaqqa' ⟨את⟩ lil Jisrael minn fuq l-art it-tajba din li ta lil missirijiethom, u jxerridhom mill-inħawi ta' bejn il-ġnub tar-roħs — għaliex għamlu ⟨את⟩ l-Asriminator tagħhom, li jagħdmu lil Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "dfad93c667581a304214314f84e81fc387453a9f9cd0b0be736e10acb94a119a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/14\/14-15.1792623373432.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jaħwe jidrib lil Jisrael bħall-qaħba li ttremex fl-ilma, u jneħħi lil Jisrael minn fuq l-art it-tajba din li ta lil missirihom, u jxerrithom lil hinn mix-xmara, għaliex għamlu ⟨את⟩ l-Asħerim tagħhom, jagħdmu lil Jaħwe bil-ħrira.",
   "tokens": [
     {
       "surface": "והכה",
-      "gloss": "jidrwom"
+      "gloss": "jidrib"
     },
     {
       "surface": "יהוה",
@@ -58,15 +26,15 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "bħalma"
+      "gloss": "bħall"
     },
     {
       "surface": "ינוד",
-      "gloss": "jitħarrek"
+      "gloss": "ttremex"
     },
     {
       "surface": "הקנה",
-      "gloss": "il-qasba"
+      "gloss": "il-qaħba"
     },
     {
       "surface": "במים",
@@ -74,7 +42,7 @@
     },
     {
       "surface": "ונתש",
-      "gloss": "jwaqqa'"
+      "gloss": "jneħħi"
     },
     {
       "surface": "את",
@@ -111,19 +79,19 @@
     },
     {
       "surface": "לאבותיהם",
-      "gloss": "lil missirijiethom"
+      "gloss": "lil missirihom"
     },
     {
       "surface": "וזרם",
-      "gloss": "jxerridhom"
+      "gloss": "jxerrithom"
     },
     {
       "surface": "מעבר",
-      "gloss": "mill-inħawi ta' bejn"
+      "gloss": "lil hinn minn"
     },
     {
       "surface": "לנהר",
-      "gloss": "il-ġnub tar-roħs"
+      "gloss": "ix-xmara"
     },
     {
       "surface": "יען",
@@ -131,7 +99,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "għaliex"
     },
     {
       "surface": "עשו",
@@ -140,15 +108,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-Asriminator tagħhom"
+      "marks": "l-Asħerim tagħhom"
     },
     {
       "surface": "אשריהם",
-      "gloss": "l-Asriminator tagħhom"
+      "gloss": "l-Asħerim tagħhom"
     },
     {
       "surface": "מכעיסים",
-      "gloss": "li jagħdmu"
+      "gloss": "jagħdmu bil-ħrira"
     },
     {
       "surface": "את",
@@ -160,6 +128,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T22:56:13.434185249Z",
+  "timestamp": "2026-10-21T23:57:06.339711690Z",
   "model": "glm-5.3"
 }

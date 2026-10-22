@@ -5,50 +5,24 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "qbil",
-      "rationale": "הואל juri qbil volontier; 'qbil li' bħala petizzjoni, mhux bħala ħeġġa 'ibda'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ברך\/מברכתך\/יברך",
-      "rationale": "għerq barka mtenni tliet darbiet fil-vers, għaddu bil-kelma Maltija 'barka'"
-    },
-    {
-      "kind": "you",
-      "subject": "ta' David",
-      "rationale": "talba diretta lil Jaħwe mit-tmiem tal-istejsar ta' David"
-    }
-  ],
-  "translation": "U issa, qbil li tbierkek ⟨את⟩ id-dar ta' qaddejkek, biex tibqa' għal dejjem quddiemiek; għax int, Adonaj Jaħwe, ktibtha, u bil-barka tiegħek id-dar ta' qaddejekk tinbierkek għal dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "97119d2391b0dad6afbda6b3b02d8aa819fe893a976548fb6f6e0b7d4bb222bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/7\/29-29.1792608641954.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa, inti bdeł u berket ⟨את⟩ id-dar ta' qaddejtek, biex tibqa' għal dejjem quddiemek; għaliex inti, Adonaj Jaħwe, ktibt ⟨haqq⟩, u mbierka permezz ta' barktek jibni d-dar ta' qaddejtek għal dejjem.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "U issa"
+      "gloss": "u issa"
     },
     {
-      "surface": "הואel",
-      "gloss": "qbil"
+      "surface": "הואל",
+      "gloss": "qed trid"
     },
     {
       "surface": "וברך",
-      "gloss": "li tbierkek"
+      "gloss": "berket"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-dar ta' qaddejkek"
+      "marks": "id-dar ta' qaddejtek"
     },
     {
       "surface": "בית",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "ta' qaddejkek"
+      "gloss": "ta' qaddejtek"
     },
     {
       "surface": "להיות",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "quddiemiek"
+      "gloss": "quddiemek"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "אתה",
-      "gloss": "int"
+      "gloss": "inti"
     },
     {
       "surface": "אדני",
@@ -88,15 +62,15 @@
     },
     {
       "surface": "דברת",
-      "gloss": "ktibtha"
+      "gloss": "ktibt"
     },
     {
       "surface": "ומברכתך",
-      "gloss": "u bil-barka tiegħek"
+      "gloss": "permezz ta' barktek"
     },
     {
       "surface": "יברך",
-      "gloss": "tinbierkek"
+      "gloss": "jibni"
     },
     {
       "surface": "בית",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "ta' qaddejekk"
+      "gloss": "ta' qaddejtek"
     },
     {
       "surface": "לעולם",
       "gloss": "għal dejjem"
     }
   ],
-  "timestamp": "2026-10-21T18:50:41.955414627Z",
+  "timestamp": "2026-10-22T00:07:34.056010186Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minn wicchom",
-      "rationale": "מפניהם litteralment 'mill-wiċċ tagħhom', idjom Lhudi għal 'minn quddiemhom'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וישמידם...וירשם",
-      "rationale": "iterazzjoni ta' qerid\/keċċa fi Ġen u Deut 2, xejra retorika tal-ħakma ta' ġens fuq ieħor"
-    }
-  ],
-  "translation": "Poplu kbir u ħafna u għoli, bħall-Anaqim; u Jaħwe qeridhom minn wicchom, u keċċiehom u joqgħodu flokhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "46328a2d34770af900396ff48af963ebc9cc0f729f73c6a42044d0a7bf657e8e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/2\/21-24.1792605390621.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Poplu kbir u numeruż u għoli bħall-Anaqim, u Jaħwe qeridhom minn quddiemhom, u keċċiehom u joqogħdu flokhom.",
   "tokens": [
     {
       "surface": "עם",
-      "gloss": "Poplu"
+      "gloss": "poplu"
     },
     {
       "surface": "גדול",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ורב",
-      "gloss": "u ħafna"
+      "gloss": "u numeruż"
     },
     {
       "surface": "ורם",
@@ -58,21 +37,21 @@
     },
     {
       "surface": "מפניהם",
-      "gloss": "minn wicchom"
+      "gloss": "minn quddiemhom"
     },
     {
-      "surface": "וירשם",
+      "surface": "ויירשם",
       "gloss": "u keċċiehom"
     },
     {
       "surface": "וישבו",
-      "gloss": "u joqgħodu"
+      "gloss": "u joqogħdu"
     },
     {
       "surface": "תחתם",
       "gloss": "flokhom"
     }
   ],
-  "timestamp": "2026-10-21T17:56:30.622349579Z",
+  "timestamp": "2026-10-22T00:09:30.191655141Z",
   "model": "glm-5.3"
 }

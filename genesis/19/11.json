@@ -5,37 +5,16 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sinvorim",
-      "rationale": "סנורים: għama, forsi marblem tal-għajnejn; il-kelma hija rari u t-traduzzjonijiet jaqblu fuq 'għama'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "l-miniġġ \/ id-daħla",
-      "rationale": "פתח tfisser id-daħla nfisha; 'miniġġ' iżomm id-differenza mal-bieb (דלת) tal-vers 10"
-    }
-  ],
-  "translation": "U ⟨את⟩ l-irġiel li kienu fiċ-catt tal-bieni darhom tilfu bis-sinvorim, mis-sagħir sal-kbir, u sfaw jgħejju biex isibu l-miniġġ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "118d36f856af5fab831fd975c1c32c6016440131a6567458eb9f66de54726f78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/19\/10-12.1792602110544.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil-irġiel ⟨את⟩ li kienu ħdejn bieb id-dar immissu bil-għama, miż-żgħir sal-kbir, u għejju biex isibu l-bieb.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "l-irġiel li kienu fiċ-catt tal-bieni"
+      "gloss": "⟨את⟩",
+      "marks": "lil-irġiel"
     },
     {
       "surface": "האנשים",
-      "gloss": "l-irġiel"
+      "gloss": "lil-irĝiel"
     },
     {
       "surface": "אשר",
@@ -43,35 +22,35 @@
     },
     {
       "surface": "פתח",
-      "gloss": "fiċ-catt"
+      "gloss": "bieb"
     },
     {
       "surface": "הבית",
-      "gloss": "tal-bieni darhom"
+      "gloss": "id-dar"
     },
     {
       "surface": "הכו",
-      "gloss": "tilfu"
+      "gloss": "immissu"
     },
     {
       "surface": "בסנורים",
-      "gloss": "bis-sinvorim"
+      "gloss": "bil-għama"
     },
     {
       "surface": "מקטן",
-      "gloss": "mis-sagħir"
+      "gloss": "miż-żgħir"
     },
     {
       "surface": "ועד",
-      "gloss": "sa"
+      "gloss": "sal-"
     },
     {
       "surface": "גדול",
-      "gloss": "l-kbir"
+      "gloss": "kbir"
     },
     {
       "surface": "וילאו",
-      "gloss": "u sfaw jgħejju"
+      "gloss": "u għejju"
     },
     {
       "surface": "למצא",
@@ -79,9 +58,9 @@
     },
     {
       "surface": "הפתח",
-      "gloss": "l-miniġġ"
+      "gloss": "il-bieb"
     }
   ],
-  "timestamp": "2026-10-21T17:01:50.547735773Z",
+  "timestamp": "2026-10-22T00:20:35.117030776Z",
   "model": "glm-5.3"
 }

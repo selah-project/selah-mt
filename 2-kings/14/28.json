@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "lil-Juda f'Jisrael",
-      "rationale": "ליהודה בישראל: KJV 'li kienet ta' Juda, għal Jisrael'; jps 'għal Juda f'Jisrael'; bsb għal Jisrael minn Juda — il-ġibda tal-possess mhux ċara."
-    },
-    {
-      "kind": "elision",
-      "subject": "הם",
-      "rationale": "il-pronun ŻMWQ ma għandux bżonn bil-Malti għax 'M'humux' iġorrha."
-    }
-  ],
-  "translation": "U l-bqija tal-kliem ta' Jarobgħam, u kull ma għamel, u l-qlubija tiegħu li biha ġieġled, u kif reġġa' ħa ⟨את⟩ Damasku u ⟨את⟩ Ħomat lil-Juda f'Jisrael — m'humux miktuba fuq il-ktieb tal-kliem tal-ġranet tas-slaten ta' Jisrael?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/25-28.1792610532998.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-bqija tal-kliem ta' Jarobgħam, u dak kollu li għamel, u ġburdu li biha ġieled, u kif reġġa' ⟨את⟩ Damasku u ⟨את⟩ Ħamat lil-Ġuda fi Jisrael — m'humiex miktuba fuq ktieb kliem il-jiem għal slaten Jisrael?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "U l-bqija"
+      "gloss": "u l-bqija"
     },
     {
       "surface": "דברי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u kull"
+      "gloss": "u dak kollu"
     },
     {
       "surface": "אשר",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "וגבורתו",
-      "gloss": "u l-qlubija tiegħu"
+      "gloss": "u ġburdu"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "li biha"
     },
     {
       "surface": "נלחם",
-      "gloss": "ġieġled"
+      "gloss": "ġieled"
     },
     {
       "surface": "ואשר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "reġġa' ħa"
+      "gloss": "reġġa' lura"
     },
     {
       "surface": "את",
@@ -84,27 +63,27 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "Ħomat"
+      "marks": "Ħamat"
     },
     {
       "surface": "חמת",
-      "gloss": "Ħomat"
+      "gloss": "Ħamat"
     },
     {
       "surface": "ליהודה",
-      "gloss": "lil-Juda"
+      "gloss": "lil-Ġuda"
     },
     {
       "surface": "בישראל",
-      "gloss": "f'Jisrael"
+      "gloss": "fi Jisrael"
     },
     {
       "surface": "הלא",
-      "gloss": "M'humux"
+      "gloss": "m'humiex"
     },
     {
       "surface": "הם",
-      "gloss": ""
+      "gloss": "huma"
     },
     {
       "surface": "כתובים",
@@ -116,25 +95,25 @@
     },
     {
       "surface": "ספר",
-      "gloss": "il-ktieb"
+      "gloss": "ktieb"
     },
     {
       "surface": "דברי",
-      "gloss": "tal-kliem"
+      "gloss": "kliem"
     },
     {
       "surface": "הימים",
-      "gloss": "tal-ġranet"
+      "gloss": "il-jiem"
     },
     {
       "surface": "למלכי",
-      "gloss": "tas-slaten"
+      "gloss": "għal slaten"
     },
     {
       "surface": "ישראל",
-      "gloss": "ta' Jisrael"
+      "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T19:22:13.000181633Z",
+  "timestamp": "2026-10-22T00:03:59.999794134Z",
   "model": "glm-5.3"
 }

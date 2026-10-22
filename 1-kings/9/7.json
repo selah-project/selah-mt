@@ -5,42 +5,16 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nibgħatha",
-      "rationale": "il-pronum 'ha' miżjud bil-Malti għall-ogġett ta' אשלח"
-    },
-    {
-      "kind": "substitution",
-      "subject": "għajd u mgergra",
-      "rationale": "משל proverbju\/byword u שנינה ħaġa li taqtgħaħ — 'għajd' (maqtugħa bil-lesin) u 'mgergra' iżommux il-preċiżjoni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הכרתי",
-      "rationale": "l-istess verb כרת ta' 9:5 — hemm 'ma jitqatta'' għal David, hawn Jaħwe jaqta' lil Jisrael"
-    }
-  ],
-  "translation": "U naqta' ⟨את⟩ lil Jisrael minn fuq wiċċ l-art li tajthom, u ⟨את⟩ d-dar li qaddist għal-isemi nibgħatha minn quddiem wiċċi; u Jisrael ikun għal għajd u għal mgergra fost il-ġnus kollha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/9\/5-8.1792609638143.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u Jqatgħ lil ⟨את⟩ Jisrael minn fuq wiċċ l-art li tajthom, u ⟨את⟩ id-dar li qaddist għal-ismi, inbagħat minn quddiem wiċċi; u Jisrael ikun għal pereżempju u għal taħdira fost il-ġnus kollha",
   "tokens": [
     {
       "surface": "והכרתי",
-      "gloss": "naqta'"
+      "gloss": "u Jqatgħ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Jisrael"
+      "marks": "Jisrael"
     },
     {
       "surface": "ישראל",
@@ -51,7 +25,7 @@
       "gloss": "minn fuq"
     },
     {
-      "surface": "pני",
+      "surface": "פני",
       "gloss": "wiċċ"
     },
     {
@@ -64,20 +38,20 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "tajthom"
+      "gloss": "tajt"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "lilhom"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "d-dar"
+      "marks": "id-dar"
     },
     {
       "surface": "הבית",
-      "gloss": "d-dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "אשר",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "לשמי",
-      "gloss": "għal-isemi"
+      "gloss": "għal-ismi"
     },
     {
       "surface": "אשלח",
-      "gloss": "nibgħatha"
+      "gloss": "inbagħat"
     },
     {
       "surface": "מעל",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ikun"
+      "gloss": "u ikun"
     },
     {
       "surface": "ישראל",
@@ -113,21 +87,21 @@
     },
     {
       "surface": "למשל",
-      "gloss": "għal għajd"
+      "gloss": "għal pereżempju"
     },
     {
       "surface": "ולשנינה",
-      "gloss": "u għal mgergra"
+      "gloss": "u għal taħdira"
     },
     {
       "surface": "בכל",
-      "gloss": "fost il-"
+      "gloss": "fost il-ġnus kollha"
     },
     {
       "surface": "העמים",
-      "gloss": "ġnus kollha"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-21T19:07:18.144464587Z",
+  "timestamp": "2026-10-21T23:58:33.138874660Z",
   "model": "glm-5.3"
 }

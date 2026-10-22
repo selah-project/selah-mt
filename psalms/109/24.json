@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 109,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כחש",
-      "rationale": "il-verb ifisser 'gidem\/ikrah' — hawn 'naqas minn xaħam'; l-għerq jista' jfisser 'gideb' f'postijiet oħra"
-    },
-    {
-      "kind": "elision",
-      "subject": "משמן",
-      "rationale": "'xaħam\/imsaħħan' — l-ideja li s-sawm ħassar ix-xaħam tal-ġisem"
-    }
-  ],
-  "translation": "irkoppi tħassru bis-sawm, u ġismi naqas mis-saħħa mill-imsaħħan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/109\/21-24.1792617939554.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "irkbti telħu mit-tum, u ġismi tilef il-mixmien.",
   "tokens": [
     {
       "surface": "ברכי",
-      "gloss": "irkoppi"
+      "gloss": "irkbti"
     },
     {
-      "surface": "כשלu",
-      "gloss": "tħassru"
+      "surface": "כשלו",
+      "gloss": "telħu"
     },
     {
       "surface": "מצום",
-      "gloss": "bis-sawm"
+      "gloss": "mit-tum"
     },
     {
       "surface": "ובשרי",
@@ -46,13 +25,13 @@
     },
     {
       "surface": "כחש",
-      "gloss": "naqas mis-saħħa"
+      "gloss": "tilef"
     },
     {
       "surface": "משמן",
-      "gloss": "mill-imsaħħan"
+      "gloss": "il-mixmien"
     }
   ],
-  "timestamp": "2026-10-21T21:25:39.555766422Z",
+  "timestamp": "2026-10-22T00:48:31.084332711Z",
   "model": "glm-5.3"
 }

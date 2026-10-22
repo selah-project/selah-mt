@@ -5,50 +5,24 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "titqiegħed",
-      "rationale": "ואכלת litteralment 'tiekol' — il-figura tal-ħelikkonsum ġiet mgħoddija b'kelma ta' qerda"
-    },
-    {
-      "kind": "substitution",
-      "subject": "l-allat tagħhom",
-      "rationale": "אלהיהם hawn allat tal-ġnus, mhux Elohim — b'ittra żgħira skond D1"
-    },
-    {
-      "kind": "idiom",
-      "subject": "għajnek ma jħennish fuqhom",
-      "rationale": "'l-għajn ma togħġobx' — idjom Lhudi għall-ħniena, miżjomon litteralment"
-    }
-  ],
-  "translation": "U titqiegħed ⟨את⟩ kulma ġentil-ġnus li Jaħwe, l-Elohim tiegħek, jagħtik; għajnek ma jħennish fuqhom, u lanqas toqgħod tqiegħed ⟨את⟩ l-allat tagħhom, għax hija moqdifa għalik.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f8e414dfeaee46ffa3f79771272ee2a7977728669a3b74dfd614352e1a916860",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/7\/16-16.1792623106906.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tiekol ⟨את⟩ il-poppli kollha li Jaħwe, Elohim tiegħek, jagħtik; għajnek ma jħobshom ⟨ħabel⟩, u toqogħdxx lill-allat tagħhom, għaliex huwa mkaxkar għalik.",
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "U titqiegħed"
+      "gloss": "U tiekol"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kulma ġentil-ġnus"
+      "marks": "il-poppli kollha"
     },
     {
       "surface": "כל",
-      "gloss": "kulma"
+      "gloss": "kollha"
     },
     {
       "surface": "העמים",
-      "gloss": "ġentil-ġnus"
+      "gloss": "il-poppli"
     },
     {
       "surface": "אשר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "l-Elohim tiegħek"
+      "gloss": "Elohim tiegħek"
     },
     {
       "surface": "נתן",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "תחס",
-      "gloss": "jħennish"
+      "gloss": "jħobshom"
     },
     {
       "surface": "עינך",
@@ -88,38 +62,38 @@
     },
     {
       "surface": "ולא",
-      "gloss": "u lanqas"
+      "gloss": "u toqogħdx"
     },
     {
       "surface": "תעבד",
-      "gloss": "toqgħod tqiegħed"
+      "gloss": "toqgħod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-allat tagħhom"
+      "marks": "lill-allat tagħhom"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "l-allat tagħhom"
+      "gloss": "lill-allat tagħhom"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "מוקש",
-      "gloss": "moqdifa"
+      "gloss": "mkaxkar"
     },
     {
       "surface": "הוא",
-      "gloss": "hiya"
+      "gloss": "huwa"
     },
     {
       "surface": "לך",
       "gloss": "għalik"
     }
   ],
-  "timestamp": "2026-10-21T22:51:46.907544438Z",
+  "timestamp": "2026-10-22T00:11:11.110981540Z",
   "model": "glm-5.3"
 }

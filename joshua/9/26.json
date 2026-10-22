@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "il-marka ta' oġġett diretta ma tittraduċix; il-pronom suffiss huwa miġbur fil-verb Malti 'ħelishom'"
-    }
-  ],
-  "translation": "U hu għamilhom hekk, u ħelishom ⟨minn id⟩ ulied Jisrael, u ma qatilhomx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9d75c48aae9406c04fdb675dbc35723b881cb17e74182f4f3056c772fcb9dad4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/9\/25-27.1792606422146.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għamel lilhom hekk, u ħelis ⟨את⟩ lilhom minn id ulied Jisrael, u ma qatluhomx.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "U għamel"
+      "gloss": "u għamel"
     },
     {
       "surface": "להם",
@@ -37,12 +21,12 @@
     },
     {
       "surface": "ויצל",
-      "gloss": "u ħelishom"
+      "gloss": "u ħelis"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "marks": "lilhom (il-Gibeoniti)"
     },
     {
       "surface": "מיד",
@@ -62,9 +46,9 @@
     },
     {
       "surface": "הרגום",
-      "gloss": "qatilhomx"
+      "gloss": "qatluhom"
     }
   ],
-  "timestamp": "2026-10-21T18:13:42.147027014Z",
+  "timestamp": "2026-10-22T00:36:44.835638703Z",
   "model": "glm-5.3"
 }

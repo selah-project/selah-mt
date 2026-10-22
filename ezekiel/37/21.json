@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minn kull naħa",
-      "rationale": "מסביב hija ċirku\/mbirkissa — 'minn kull naħa' tfisser il-ħajra tad-dawra"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sa ma jwaslu għal",
-      "rationale": "אל sempliċement 'għal\/lejn'; il-Malti jissuġġerixxi l-wasla"
-    }
-  ],
-  "translation": "U għid ⟨את⟩ lilhom: Hekk jgħid Adonaj Jaħwe: Ara, jien qiegħed nieħu ⟨את⟩ lil wlied Jisrael minn bejn il-ġnus fejn marru hemm, u nġibhom flimkien minn kull naħa, u ndaħħalhom sa ma jwaslu għall-art tagħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/37\/21-24.1792615090975.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għid lilhom: Hekk jgħid Adonaj Jaħwe: Ara, jiena nieħu ⟨את⟩ wlied Jisrael minn fost il-ġnus fejn imarru, u nġabbarhom minn kull naħa, u nġibhom ⟨את⟩ lejn l-art tagħhom.",
   "tokens": [
     {
       "surface": "ודבר",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "אני",
-      "gloss": "jien"
+      "gloss": "jiena"
     },
     {
       "surface": "לקח",
-      "gloss": "qiegħed nieħu"
+      "gloss": "nieħe"
     },
     {
       "surface": "את",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "מבין",
-      "gloss": "minn bejn"
+      "gloss": "minn fost"
     },
     {
       "surface": "הגוים",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "marru"
+      "gloss": "imarru"
     },
     {
       "surface": "שם",
@@ -99,11 +78,12 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "u nġibhom flimkien"
+      "gloss": "u nġabbarhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "minn kull naħa"
     },
     {
       "surface": "מסביב",
@@ -111,21 +91,22 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "u ndaħħalhom"
+      "gloss": "u nġibhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "l-art tagħhom"
     },
     {
       "surface": "אל",
-      "gloss": "sa ma jwaslu għal"
+      "gloss": "lejn"
     },
     {
       "surface": "אדמתם",
       "gloss": "l-art tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T20:38:10.984003047Z",
+  "timestamp": "2026-10-22T00:18:55.415625463Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "fomm Jaħwe",
-      "rationale": "Il-KJV u oħrajn jagħmlu 'commandment'; il-Lhudi jgħid litteralment 'fomm' (פי) ta' Jaħwe"
-    },
-    {
-      "kind": "addition",
-      "subject": "minn",
-      "rationale": "'tibżgħu minn Jaħwe' — il-prepożizzjoni Miżriża fuq l-oġġitt tat-tbiżgħir hija inkorporata fil-veru Malti"
-    }
-  ],
-  "translation": "Jekk tibżgħu minn Jaħwe, u taqduh, u tisimgħu l-leħen tiegħu, u ma tirribellawx kontra ⟨את⟩ fomm Jaħwe, u tkunu kemm intomkom u kemm is-sultan li jirrenja fuqkom, wara Jaħwe Elohim tagħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/12\/13-16.1792607949519.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jekk tobogħdu lil Jaħwe u tqdmlu lilu, u tisimgħu leħnu, u ma trotux kontra ⟨את⟩ kliem Jaħwe, intom ukoll u s-sultan li jirkeb fuqkom tkunu wara Jaħwe Elohim tagħkom,",
   "tokens": [
     {
       "surface": "אם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "tibżgħu"
+      "gloss": "tobogħdu"
     },
     {
       "surface": "את",
@@ -47,20 +26,20 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "u taqduh"
+      "gloss": "u tqdmlu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Jaħwe"
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu (lil Jaħwe)"
     },
     {
       "surface": "ושמעתם",
       "gloss": "u tisimgħu"
     },
     {
-      "surface": "בקולו",
-      "gloss": "l-leħen tiegħu"
+      "surface": "בקלו",
+      "gloss": "leħnu"
     },
     {
       "surface": "ולא",
@@ -68,16 +47,16 @@
     },
     {
       "surface": "תמרו",
-      "gloss": "tirribellawx"
+      "gloss": "trotux kontra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-fomm ta' Jaħwe"
+      "marks": "kliem (il-פי ta' Jaħwe)"
     },
     {
       "surface": "פי",
-      "gloss": "il-fomm ta'"
+      "gloss": "kliem"
     },
     {
       "surface": "יהוה",
@@ -85,19 +64,19 @@
     },
     {
       "surface": "והיתם",
-      "gloss": "u tkunu"
+      "gloss": "tkunu"
     },
     {
       "surface": "גם",
-      "gloss": "kemm"
+      "gloss": "ukoll"
     },
     {
       "surface": "אתם",
-      "gloss": "intomkom"
+      "gloss": "intom"
     },
     {
       "surface": "וגם",
-      "gloss": "u kemm"
+      "gloss": "u"
     },
     {
       "surface": "המלך",
@@ -109,7 +88,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "jirrenja"
+      "gloss": "jirkeb"
     },
     {
       "surface": "עליכם",
@@ -128,6 +107,6 @@
       "gloss": "Elohim tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T18:39:09.519830938Z",
+  "timestamp": "2026-10-21T23:58:47.457275380Z",
   "model": "glm-5.3"
 }

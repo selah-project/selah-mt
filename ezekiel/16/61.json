@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ולא מבריתך",
-      "rationale": "'u mhux skont il-patt tiegħek' — KJV 'by thy covenant' kontra JPS 'because of thy covenant'; ħadna l-qari ta' JPS."
-    },
-    {
-      "kind": "you",
-      "subject": "to Jerusalem",
-      "rationale": "All of Ezekiel 16 addresses Jerusalem as an unfaithful wife; the verse is direct speech to her."
-    }
-  ],
-  "translation": "U se tiftakar ⟨את⟩ it-toroq tiegħek u tistħi, meta tieħu ⟨את⟩ lil oħtajtek, il-kbar minnek flimkien ma' dawk iż-żgħar minnek; u jiena nagħtihom lilek għal bnejt, u mhux skont il-patt tiegħek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2060adbec9291fb9ef3c8b60eef53e2ffd9974608992951854dd0e54dd9517e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/16\/61-63.1792614400594.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tiftakar ⟨את⟩ it-toroq tiegħek, u tkun mistħija, meta tieħu ⟨את⟩ lill-aħwa tiegħek, il-kbar minnek flimkien maż-żgħar minnek, u jien nagħti ⟨אתhom⟩ lilek għal bniet, mhux skond il-patt tiegħek.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "u se tiftakar"
+      "gloss": "u tiftakar"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ונכלמת",
-      "gloss": "u tistħi"
+      "gloss": "u tkun mistħija"
     },
     {
       "surface": "בקחתך",
@@ -52,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oħtajtek"
+      "marks": "lill-aħwa tiegħek"
     },
     {
       "surface": "אחותיך",
-      "gloss": "oħtajtek"
+      "gloss": "lill-aħwa tiegħek"
     },
     {
       "surface": "הגדלות",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "הקטנות",
-      "gloss": "dawk iż-żgħar"
+      "gloss": "aż-żgħar"
     },
     {
       "surface": "ממך",
@@ -80,12 +59,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "u jiena nagħti"
+      "gloss": "u jien nagħti"
     },
     {
       "surface": "אתהן",
-      "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "gloss": "⟨אתhom⟩",
+      "marks": "lilek"
     },
     {
       "surface": "לך",
@@ -93,17 +72,17 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "għal bnejt"
+      "gloss": "għal bniet"
     },
     {
       "surface": "ולא",
-      "gloss": "u mhux"
+      "gloss": "mhux"
     },
     {
       "surface": "מבריתך",
-      "gloss": "skont il-patt tiegħek"
+      "gloss": "skond il-patt tiegħek"
     }
   ],
-  "timestamp": "2026-10-21T20:26:40.595315491Z",
+  "timestamp": "2026-10-22T00:15:30.536315424Z",
   "model": "glm-5.3"
 }

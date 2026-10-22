@@ -5,97 +5,71 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "xebba",
-      "rationale": "מוקש hu nassa\/xebba għall-annimali — ziffa konkreta mħabbta"
-    },
-    {
-      "kind": "elision",
-      "subject": "פן",
-      "rationale": "'biex ma... x' inqassam fu żewġt postijiet bil-Malti"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨li⟩",
-      "rationale": "il-prepożizzjoni Maltija meħtieġa għal 'kontri li jien'"
-    }
-  ],
-  "translation": "Mhux se joqogħdu fl-art tiegħek, biex ma jagħmlukx tiddnib kontri ⟨li⟩ jien; għax tkun tqeddi ⟨את⟩ l-allat tagħhom, għaliex jkunu lilek għal xebba.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/23\/33-33.1792599716432.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mhux se joqogħdu fl-art tiegħek, ħalli ma jġiegħluki tmiss in-nuqqas kontrija, għaliex inti taqdu lil allat tagħhom, għaliex ikunu għalik għal xedaq.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Mhux"
+      "gloss": "mhux"
     },
     {
-      "surface": "יֵשְׁבוּ",
-      "gloss": "se joqogħdu"
+      "surface": "ישבו",
+      "gloss": "joqogħdu"
     },
     {
-      "surface": "בְּאַרְצְךָ",
+      "surface": "בארצך",
       "gloss": "fl-art tiegħek"
     },
     {
-      "surface": "פֶּן",
-      "gloss": "biex ma"
+      "surface": "פן",
+      "gloss": "ħalli ma"
     },
     {
-      "surface": "יַחֲטִיאוּ",
-      "gloss": "jagħmlukx tiddnib"
+      "surface": "יחטיאו",
+      "gloss": "jġiegħluki tmiss in-nuqqas"
     },
     {
-      "surface": "אֹתְךָ",
+      "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "ik (lil inte)"
+      "marks": "lilek"
     },
     {
-      "surface": "לִּי",
-      "gloss": "kontri jien"
+      "surface": "לי",
+      "gloss": "kontrija"
     },
     {
-      "surface": "כִּי",
-      "gloss": "għax"
-    },
-    {
-      "surface": "תַּעֲבֹד",
-      "gloss": "tkun tqeddi"
-    },
-    {
-      "surface": "אֵת",
-      "gloss": "⟨את⟩",
-      "marks": "l-allat tagħhom"
-    },
-    {
-      "surface": "אֱלֹהֵיהֶם",
-      "gloss": "l-allat tagħhom"
-    },
-    {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "għaliex"
     },
     {
-      "surface": "יִהְיֶה",
-      "gloss": "jkunu"
+      "surface": "תעבד",
+      "gloss": "taqdu"
     },
     {
-      "surface": "לְּךָ",
-      "gloss": "lilek"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lil allat tagħhom"
     },
     {
-      "surface": "לְמוֹקֵשׁ",
-      "gloss": "għal xebba"
+      "surface": "אלהיהם",
+      "gloss": "allat tagħhom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "għaliess"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ikunu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "għalik"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "għal xedaq"
     }
   ],
-  "timestamp": "2026-10-21T16:21:56.432924619Z",
+  "timestamp": "2026-10-22T00:13:02.551615874Z",
   "model": "glm-5.3"
 }

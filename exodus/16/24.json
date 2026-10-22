@@ -5,32 +5,16 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "היתה",
-      "rationale": "Il-verbu 'kien' ma jinzammux bħala kopula sħiħa — 'dudu ma kien fih' iżomm il-poter ta' היתה bla żieda."
-    }
-  ],
-  "translation": "U ħalluh sal-għodu kif ordna Moxe; u ma faxax, u dudu ma kien fih.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/16\/21-24.1792599634707.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħallewh ⟨את⟩ sal-ghoduwa, kif ħear Moxe, u ma ħatx, u dud ma kienx fih.",
   "tokens": [
     {
       "surface": "ויניחו",
-      "gloss": "u ħalluh"
+      "gloss": "ħallewh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "il-ħobż li ħallu"
+      "marks": "sal-ghoduwa"
     },
     {
       "surface": "עד",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "l-għodu"
+      "gloss": "l-ghoduwa"
     },
     {
       "surface": "כאשר",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ordna"
+      "gloss": "ħear"
     },
     {
       "surface": "משה",
@@ -58,11 +42,11 @@
     },
     {
       "surface": "הבאיש",
-      "gloss": "faxax"
+      "gloss": "ħatx"
     },
     {
       "surface": "ורמה",
-      "gloss": "u dudu"
+      "gloss": "u dud"
     },
     {
       "surface": "לא",
@@ -70,13 +54,13 @@
     },
     {
       "surface": "היתה",
-      "gloss": "kien"
+      "gloss": "kienx"
     },
     {
       "surface": "בו",
       "gloss": "fih"
     }
   ],
-  "timestamp": "2026-10-21T16:20:34.709042425Z",
+  "timestamp": "2026-10-22T00:12:21.895713856Z",
   "model": "glm-5.3"
 }

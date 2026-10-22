@@ -5,36 +5,15 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Laħmi aħu Goljat",
-      "rationale": "2 Sam 21:19 jgħid li Elħanan qatel lil Goljat innifsu; l-Kronaki jżid 'Laħmi' — jew isem għad-diffenza testwali jew qari tal-ktib."
-    },
-    {
-      "kind": "substitution",
-      "subject": "travu tal-ħajjuta",
-      "rationale": "כמנור ארגים litteralment 'bħall-irkibtatur ta' dawk li jħaddu' — l-arblu tat-tajjara; miġbur f'kelma waħda."
-    }
-  ],
-  "translation": "U kienet tfaċċa għadu gwerra ⟨את⟩ ma' l-Filistini, u Elħanan bin Ja'ir laqtet lil Laħmi, ħu Goljat il-Gittit; u zokk l-izarbuna tiegħu bħal travu tal-ħajjuta.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/20\/5-8.1792622071595.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U saret għal darb'oħra gwerra ma' ⟨את⟩ il-Filisti, u Elħanan iben Ja'ir laqat ⟨את⟩ lil Laħmi, ħu Goljat il-Gittit, u l-injam tal-lanza tagħha bħal sati ta' nies jinsġu.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "u kienet tfaċċa"
+      "gloss": "U saret"
     },
     {
       "surface": "עוד",
-      "gloss": "għadu"
+      "gloss": "għal darb'oħra"
     },
     {
       "surface": "מלחמה",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'",
-      "marks": "l-Filistini"
+      "gloss": "⟨את⟩",
+      "marks": "il-Filisti"
     },
     {
       "surface": "פלשתים",
-      "gloss": "l-Filistini"
+      "gloss": "il-Filisti"
     },
     {
       "surface": "ויך",
-      "gloss": "u laqtet"
+      "gloss": "laqat"
     },
     {
       "surface": "אלחנן",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "iben"
     },
     {
       "surface": "יעור",
@@ -68,7 +47,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Laħmi"
+      "marks": "Laħmi"
     },
     {
       "surface": "לחמי",
@@ -88,21 +67,21 @@
     },
     {
       "surface": "ועץ",
-      "gloss": "u zokk"
+      "gloss": "u l-injam"
     },
     {
       "surface": "חניתו",
-      "gloss": "l-izarbuna tiegħu"
+      "gloss": "tal-lanza tagħha"
     },
     {
       "surface": "כמנור",
-      "gloss": "bħal travu"
+      "gloss": "bħal sati"
     },
     {
       "surface": "ארגים",
-      "gloss": "tal-ħajjuta"
+      "gloss": "ta' nies jinsġu"
     }
   ],
-  "timestamp": "2026-10-21T22:34:31.596592702Z",
+  "timestamp": "2026-10-21T23:55:24.246961173Z",
   "model": "glm-5.3"
 }

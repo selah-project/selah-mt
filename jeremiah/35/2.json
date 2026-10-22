@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "אותם here is the independent pronoun 'them', not the DOM marker; rendered as pronoun lilhom without ⟨את⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "to Jeremiah",
-      "rationale": "imperatives of YHWH's command addressed to the prophet"
-    }
-  ],
-  "translation": "Mur għand id-dar tar-Reħabiti, u kellem ⟨את⟩ lilhom, u ġibhom fid-dar ta' Jaħwe, għand waħda mil-laskot, u saqhom inbid.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/35\/1-4.1792613377290.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mur għand dar ir-Rekabiti, u kellem ⟨את⟩ lilhom, u ġibhom fid-dar ta' Jaħwe, f'waħda mil-laskak, u agħtihom jixorbu l-inbid.",
   "tokens": [
     {
       "surface": "הלוך",
-      "gloss": "Mur"
+      "gloss": "mur"
     },
     {
       "surface": "אל",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "id-dar"
+      "gloss": "dar"
     },
     {
       "surface": "הרכבים",
-      "gloss": "tar-Reħabiti"
+      "gloss": "ir-Rekabiti"
     },
     {
       "surface": "ודברת",
@@ -50,7 +29,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "il-Kelma teżempju: אותם jippreċiża lilhom"
     },
     {
       "surface": "והבאותם",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "għand"
+      "gloss": "f'"
     },
     {
       "surface": "אחת",
@@ -74,21 +54,22 @@
     },
     {
       "surface": "הלשכות",
-      "gloss": "mil-laskot"
+      "gloss": "mil-laskak"
     },
     {
       "surface": "והשקית",
-      "gloss": "u saqhom"
+      "gloss": "u agħtihom jixorbu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "l-inbid li jixorbu"
     },
     {
       "surface": "יין",
-      "gloss": "inbad"
+      "gloss": "l-inbid"
     }
   ],
-  "timestamp": "2026-10-21T20:09:37.291091342Z",
+  "timestamp": "2026-10-22T00:31:14.859896653Z",
   "model": "glm-5.3"
 }

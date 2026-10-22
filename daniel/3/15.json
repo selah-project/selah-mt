@@ -5,38 +5,7 @@
   "book": "daniel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "l-istrumenti",
-      "rationale": "sitt ismijiet ta' strumenti mhux ċerti fil-Aramajk; kull verżjoni taħrab b'termini mużikali differenti"
-    },
-    {
-      "kind": "hapax",
-      "subject": "סומפניה",
-      "rationale": "kelma ta' self Grieg li tidher f'qiegħ il-kliem mużikali ta' Danjel"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-erba': Sadraj, Mejaj, Abed-Nego",
-      "rationale": "indirizz dirett u pretensjuż mis-sultan: 'min hu alla li jsalvawkom?'"
-    },
-    {
-      "kind": "addition",
-      "subject": "tajjeb",
-      "rationale": "il-Lhudi jilqa' l-embed bir-ħelsien b'kelma waħda li tpoġġi f'nofs il-ġrajja"
-    }
-  ],
-  "translation": "Issa, jekk intom lesti, fis-sigra li tismgħu l-ħoss tal-qarn, tal-fergħa, tal-kitarra, tas-sabkej, tal-psalterju, tas-sumponja u ta' kull għasel ta' mużika, jaqgħu u tinxteħu lill-istatwa li għamilt — tajjeb; imma jekk ma tinxteħux, f'dak il-ħin intom se tittiefu f'nofs il-furna tan-nar iħeġġeġ; u min hu alla li jsalvawkom minn idejja?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "26727df9c02b408a8c562992b9027dc8f78413a7dffad5f46f9e777eaed371df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/3\/13-16.1792620676584.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Issa, jekk intom lesti li, fil-ħin li tismgħu l-ħoss tal-qarn, tal-panpjpi, ta' kitara, ta' sabka, ta' psanterin, tas-sumponja, u ta' kull ġeneru ta' mużika, tinxteħtu u tixhtqu lill-istatwa li għamilt, ⟨tajjeb⟩; imma jekk ma tixhtqux, f'dak il-mument tittremmu f'nofs in-nar iħeġġeġ; u min hu l-illa li jista' jeħliskom minn idija?",
   "tokens": [
     {
       "surface": "כען",
@@ -56,11 +25,11 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "בעדנא",
-      "gloss": "fis-sigra"
+      "gloss": "fil-ħin"
     },
     {
       "surface": "די",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "קל",
-      "gloss": "il-ħoss"
+      "gloss": "l-ħoss"
     },
     {
       "surface": "קרנא",
@@ -80,23 +49,23 @@
     },
     {
       "surface": "משרוקיתא",
-      "gloss": "tal-fergħa"
+      "gloss": "tal-panpjpi"
     },
     {
       "surface": "קיתרס",
-      "gloss": "tal-kitarra"
+      "gloss": "ta' kitara"
     },
     {
       "surface": "שבכא",
-      "gloss": "tas-sabkej"
+      "gloss": "ta' sabka"
     },
     {
       "surface": "פסנתרין",
-      "gloss": "tal-psalterju"
+      "gloss": "ta' psanterin"
     },
     {
       "surface": "וסומפניה",
-      "gloss": "u tas-sumponja"
+      "gloss": "tas-sumponja"
     },
     {
       "surface": "וכל",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "זני",
-      "gloss": "għasel"
+      "gloss": "ġeneru"
     },
     {
       "surface": "זמרא",
@@ -112,11 +81,11 @@
     },
     {
       "surface": "תפלון",
-      "gloss": "jaqgħu"
+      "gloss": "tinxteħtu"
     },
     {
       "surface": "ותסגדון",
-      "gloss": "u tinxteħu"
+      "gloss": "u tixhtqu"
     },
     {
       "surface": "לצלמא",
@@ -140,19 +109,19 @@
     },
     {
       "surface": "תסגדון",
-      "gloss": "tinxteħux"
+      "gloss": "tixhtqux"
     },
     {
       "surface": "בה",
-      "gloss": "f'"
+      "gloss": "f'dak"
     },
     {
       "surface": "שעתה",
-      "gloss": "dak il-ħin"
+      "gloss": "il-mument"
     },
     {
       "surface": "תתרמון",
-      "gloss": "tittiefu"
+      "gloss": "tittremmu"
     },
     {
       "surface": "לגוא",
@@ -160,15 +129,15 @@
     },
     {
       "surface": "אתון",
-      "gloss": "il-furna"
+      "gloss": "in-nar"
     },
     {
       "surface": "נורא",
-      "gloss": "tan-nar"
+      "gloss": "iħeġġeġ"
     },
     {
       "surface": "יקדתא",
-      "gloss": "iħeġġeġ"
+      "gloss": ""
     },
     {
       "surface": "ומן",
@@ -180,7 +149,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "alla"
+      "gloss": "l-illa"
     },
     {
       "surface": "די",
@@ -188,7 +157,7 @@
     },
     {
       "surface": "ישיזבנכון",
-      "gloss": "jsalvawkom"
+      "gloss": "jeħliskom"
     },
     {
       "surface": "מן",
@@ -196,9 +165,9 @@
     },
     {
       "surface": "ידי",
-      "gloss": "idejja"
+      "gloss": "idija"
     }
   ],
-  "timestamp": "2026-10-21T22:11:16.585064113Z",
+  "timestamp": "2026-10-22T00:08:33.847554296Z",
   "model": "glm-5.3"
 }

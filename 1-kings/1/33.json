@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lill-ilsiera ta' David",
-      "rationale": "David jikkmanda lill-qassis u lill-profeta biex jaġġixxu immedjatament."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mula",
-      "rationale": "הפרדה hija mula nisa; fil-qorti rjali tifiċċa l-irkib privat tar-re."
-    }
-  ],
-  "translation": "U r-re qalilhom: Ħudu magħkom ⟨את⟩ l-ilsiera ta' sidkom, u erfgħu rkeb lil ⟨את⟩ Xelomo ibni fuq il-mula li tiegħi, u niżżluh sa Ġiħon.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/1\/33-36.1792609255285.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U r-re qalilhom: Ħudu magħkom ⟨את⟩ l-ilsir ta' sidkom, u ilħtfu lil Slomo ibni jaqbes fuq il-bagħla tiegħi, u niżluh ⟨את⟩ sa Ġiħon.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "ilhom"
+      "gloss": "lilhom"
     },
     {
       "surface": "קחו",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ilsiera ta' sidkom"
+      "marks": "l-ilsir ta' sidkom"
     },
     {
       "surface": "עבדי",
-      "gloss": "l-ilsiera"
+      "gloss": "l-ilsir"
     },
     {
       "surface": "אדניכם",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "והרכבתם",
-      "gloss": "u erfgħu rkeb"
+      "gloss": "u ilħtfu...jaqbes"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Xelomo"
+      "marks": "lil Slomo ibni"
     },
     {
       "surface": "שלמה",
-      "gloss": "Xelomo"
+      "gloss": "Slomo"
     },
     {
       "surface": "בני",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "il-mula"
+      "gloss": "il-bagħla"
     },
     {
       "surface": "אשר",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "והורדתם",
-      "gloss": "u niżżluh"
+      "gloss": "u niżluh"
     },
     {
       "surface": "אתו",
@@ -112,6 +91,6 @@
       "gloss": "Ġiħon"
     }
   ],
-  "timestamp": "2026-10-21T19:00:55.286304621Z",
+  "timestamp": "2026-10-21T23:56:33.570784077Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Moxe",
-      "rationale": "titwiegħa diretta lil Moxe bil-kelma 'nagħtik'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אליך",
-      "rationale": "il-ġerundiv Malti 'nagħtik' diġà jinkludi 'lek', għalhekk ma nbidx separatament"
-    }
-  ],
-  "translation": "U poġġi fl-arken ⟨את⟩ ix-xhieda li jien nagħtik.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "36f3a6f19dbb4f1cf5cf098f719e7612f82e54f2d4759005fde5a36f8a23ea87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/25\/13-16.1792599884610.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tpoġġi fl-aron ⟨את⟩ ix-xhieda li jien nagħtik.",
   "tokens": [
     {
       "surface": "ונתת",
-      "gloss": "u poġġi"
+      "gloss": "u tpoġġi"
     },
     {
       "surface": "אל",
-      "gloss": "f'"
+      "gloss": "fl-"
     },
     {
       "surface": "הארן",
-      "gloss": "l-arken"
+      "gloss": "aron"
     },
     {
       "surface": "את",
@@ -55,13 +34,13 @@
     },
     {
       "surface": "אתן",
-      "gloss": "jien nagħtik"
+      "gloss": "nagħtik"
     },
     {
       "surface": "אליך",
-      "gloss": ""
+      "gloss": "<<ellejk>>"
     }
   ],
-  "timestamp": "2026-10-21T16:24:44.611003010Z",
+  "timestamp": "2026-10-22T00:13:07.371439927Z",
   "model": "glm-5.3"
 }

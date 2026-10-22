@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "l-għolija",
-      "rationale": "במה = għolija (post mgħolli għall-qima); 'għolija' miżmuma madwar kull vers"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jiddnib",
-      "rationale": "החטיא hifil — 'ghammel (lil xi ħadd) jaqbzu\/id-dnub'; verżjonijiet antiki jitħabtu fuq 'li bbiegħed'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "l-għerq אל huwa parti mill-isem בית אל (Bet-El), mhux kelma għalih"
-    }
-  ],
-  "translation": "U wkoll ⟨את⟩ l-artal li f'Betel, l-għolija li ghammel Jarobeam iben Nevat, li biha ghammel lil Jisrael jiddnib — anki ⟨את⟩ dak l-artal u ⟨את⟩ l-għolija ċarr' isfel; u ħaraq ⟨את⟩ l-għolija, serraħha trab, u ħaraq l-axera.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c7181d931840394dcd83a87bd06ca5d981d933ea47b0b9bb94f7c1ccd29bf53f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/13-16.1792610849341.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U anki ⟨את⟩ l-artal li f'Bet-El, il-bama li għamel Jarobeam bin Nevat, li wassal ⟨את⟩ lil Jisrael għall-ħtija, ⟨את⟩ dak l-artal u ⟨את⟩ il-bama waqqa'; u ħaraq ⟨את⟩ il-bama, sfridha għal trab, u ħaraq lil-Axera.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "U wkoll"
+      "gloss": "u anki"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "El"
     },
     {
       "surface": "הבמה",
-      "gloss": "l-għolija"
+      "gloss": "il-bama"
     },
     {
       "surface": "אשר",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "ghammel"
+      "gloss": "għamel"
     },
     {
       "surface": "ירבעם",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "iben"
+      "gloss": "bin"
     },
     {
       "surface": "נבט",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "ghammel... jiddnib"
+      "gloss": "wassal għall-ħtija"
     },
     {
       "surface": "את",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "lil Jisrael"
     },
     {
       "surface": "גם",
-      "gloss": "anki"
+      "gloss": "dak"
     },
     {
       "surface": "את",
@@ -118,16 +92,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "l-għolija"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-bama"
     },
     {
       "surface": "הבמה",
-      "gloss": "l-għolija"
+      "gloss": "il-bama"
     },
     {
       "surface": "נתץ",
-      "gloss": "ċarr' isfel"
+      "gloss": "waqqa'"
     },
     {
       "surface": "וישרף",
@@ -136,19 +110,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-għolija"
+      "marks": "il-bama"
     },
     {
       "surface": "הבמה",
-      "gloss": "l-għolija"
+      "gloss": "il-bama"
     },
     {
       "surface": "הדק",
-      "gloss": "serraħha"
+      "gloss": "sfridha"
     },
     {
       "surface": "לעפר",
-      "gloss": "trab"
+      "gloss": "għal trab"
     },
     {
       "surface": "ושרף",
@@ -156,9 +130,9 @@
     },
     {
       "surface": "אשרה",
-      "gloss": "l-axera"
+      "gloss": "lil-Axera"
     }
   ],
-  "timestamp": "2026-10-21T19:27:29.345340867Z",
+  "timestamp": "2026-10-22T00:04:51.014251612Z",
   "model": "glm-5.3"
 }

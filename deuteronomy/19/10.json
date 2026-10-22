@@ -5,31 +5,15 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "id-demm fuqek",
-      "rationale": "דמים plurali ta' דם; l-ewwel 'l-iktar: id-demm jisfa fuqek, jiġifieri t-tort tal-kesja jitpoġġa fuqek."
-    }
-  ],
-  "translation": "Biex ma jitfa mxarrab demm innocenti fiċ-ċentru tal-art tiegħek, li Jaħwe Elohim tiegħek qed jagħtik bħala wirt, u jkun fuqek id-demm.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/19\/9-12.1792605796703.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u ma jinfirex demm innuċċenti fin-nofs ta' l-art tiegħek, li Jaħwe Elohim tiegħek qed jagħtilek bħala wirt, u jkun fuqek ⟨iktar⟩ demm",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Biex ma"
+      "gloss": "u ma"
     },
     {
       "surface": "ישפך",
-      "gloss": "jitfa mxarrab"
+      "gloss": "jinfirex"
     },
     {
       "surface": "דם",
@@ -37,15 +21,15 @@
     },
     {
       "surface": "נקי",
-      "gloss": "innocenti"
+      "gloss": "innuċċenti"
     },
     {
       "surface": "בקרב",
-      "gloss": "fiċ-ċentru"
+      "gloss": "fin-nofs ta'"
     },
     {
       "surface": "ארצך",
-      "gloss": "tal-art tiegħek"
+      "gloss": "l-art tiegħek"
     },
     {
       "surface": "אשר",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "qed jagħtik"
+      "gloss": "qed jagħtilek"
     },
     {
       "surface": "לך",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "bħala wirt"
+      "gloss": "wirt"
     },
     {
       "surface": "והיה",
@@ -81,9 +65,9 @@
     },
     {
       "surface": "דמים",
-      "gloss": "id-demm"
+      "gloss": "demm"
     }
   ],
-  "timestamp": "2026-10-21T18:03:16.704443318Z",
+  "timestamp": "2026-10-22T00:09:35.703366645Z",
   "model": "glm-5.3"
 }

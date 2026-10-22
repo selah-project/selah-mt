@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "il-waħda ma' Moxe",
-      "rationale": "אתכם hawn mhuwiex is-sinjal את iżda pronom tal-oġġett (-kom), imdawwar mal-verb מביא"
-    },
-    {
-      "kind": "you",
-      "subject": "lil wlied Jisrael",
-      "rationale": "imperattiv דבר jindirizza lil-Israel permezz ta' Moxe"
-    }
-  ],
-  "translation": "Kkellem lil wlied Jisrael, u għidilhom: Meta tidħlu fl-art li jiena neddħlulkom fiha,",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/15\/17-20.1792602818451.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kellim lil wlied Jisrael u għidilhom: Meta tidħlu fl-art li jiena nwassal ⟨את⟩kom hemm,",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Kkellem"
+      "gloss": "Kellim"
     },
     {
       "surface": "אל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "בבאכם",
-      "gloss": "meta tidħlu"
+      "gloss": "Meta tidħlu"
     },
     {
       "surface": "אל",
-      "gloss": "f'"
+      "gloss": "fi"
     },
     {
       "surface": "הארץ",
@@ -74,17 +53,18 @@
     },
     {
       "surface": "מביא",
-      "gloss": "neddħlulkom"
+      "gloss": "nwassal"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ -kom"
+      "gloss": "⟨את⟩kom",
+      "marks": "kom — hemm"
     },
     {
       "surface": "שמה",
-      "gloss": "fiha"
+      "gloss": "hemm"
     }
   ],
-  "timestamp": "2026-10-21T17:13:38.453142380Z",
+  "timestamp": "2026-10-22T00:44:43.430842739Z",
   "model": "glm-5.3"
 }

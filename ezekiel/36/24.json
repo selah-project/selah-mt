@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אדמתכם",
-      "rationale": "'il-ħamrija tagħkom' — אדמה hija l-ħamrija l-ħamra, mhux l-istess kelma bħal ארץ 'art'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ולקחתי \/ וקבצתי \/ והבאתי",
-      "rationale": "tliet verbi fil-kontinwu persunali 'jien' — qbil ta' ħruġ, ġbir, dħul"
-    }
-  ],
-  "translation": "U nieħu lilkom minn fost in-nazzjonijiet, u niġbor lilkom minn l-artijiet kollha, u ndaħħal lilkom fl-art tagħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "63323bee1a74de818bce36ee44e2b09a0b41ef378aa7f4ca249b5f9521734c48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/36\/21-24.1792614960838.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nieħu ⟨את⟩ lilkom mill-ġnus, u niġbor ⟨את⟩ lilkom minn kwalunkwe art, u nidħal ⟨את⟩ lilkom fl-art tagħkom.",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "gloss": "U nieħu"
+      "gloss": "u nieħu"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ lilkom",
-      "marks": "lilkom"
+      "marks": "mill-ġnus"
     },
     {
       "surface": "מן",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "fost in-nazzjonijiet"
+      "gloss": "il-ġnus"
     },
     {
       "surface": "וקבצתי",
@@ -52,34 +31,34 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ lilkom",
-      "marks": "lilkom"
+      "marks": "minn kwalunkwe art"
     },
     {
       "surface": "מכל",
-      "gloss": "minn kollha"
+      "gloss": "minn kwalunkwe"
     },
     {
       "surface": "הארצות",
-      "gloss": "l-artijiet"
+      "gloss": "art"
     },
     {
       "surface": "והבאתי",
-      "gloss": "u ndaħħal"
+      "gloss": "u nidħal"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ lilkom",
-      "marks": "lilkom"
+      "marks": "fl-art tagħkom"
     },
     {
       "surface": "אל",
-      "gloss": "f'"
+      "gloss": "fi"
     },
     {
       "surface": "אדמתכם",
       "gloss": "l-art tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T20:36:00.839414442Z",
+  "timestamp": "2026-10-22T00:52:56.468603553Z",
   "model": "glm-5.3"
 }

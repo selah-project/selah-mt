@@ -5,42 +5,16 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "taħt raġlek",
-      "rationale": "תחת אישך: 'taħt' (taħt l-awtorità\/taħt raġlek fis-sod) kontra qari li jifhem 'minbarra raġlek' — l-ewwel qarrej jaqra t-tifsira spazjali\/ġerarkika"
-    },
-    {
-      "kind": "substitution",
-      "subject": "miegħek",
-      "rationale": "אֹתָךְ hawn (dwar שכב) hija עִמָּךְ 'miegħek', mhux is-marker ta' את; għalhekk ma nxterdetx bħala ⟨את⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-mara",
-      "rationale": "diskors dirett tal-qassis lill-mara mxandra bil-ħalf"
-    }
-  ],
-  "translation": "U l-qassis jaħlfha u jgħid lill-mara: Jekk ebda raġel ma ltqajt ⟨את⟩ miegħek, u jekk ma devjajtx u tniġġset taħt raġlek, tkun ħielsa minn dawn l-ilma tal-morr, l-ilma tas-saħta.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "005556ea9a99564df05e19861dc81b09e09b0043e3d73bbc773cd4f1460d9ebe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/5\/17-20.1792602549931.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis iġegħilha tilqam u jgħid lill-mara: Jekk ebda raġel ma rqad miegħ ⟨את⟩-ek, u jekk ma tgħawweġtx għal tn-tniġġis taħt raġelek, tkun ħielsa minn dawn l-ilmiet l-imorrin li jtellgħu s-saħta.",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "u jaħlfha"
+      "gloss": "iġegħilha-tilqam"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "lill-mara (l-għarfa tagħha)"
+      "marks": "ilha"
     },
     {
       "surface": "הכהן",
@@ -48,15 +22,15 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "u jgħid"
+      "gloss": "u-jgħid"
     },
     {
       "surface": "אל",
-      "gloss": "lill-"
+      "gloss": "lil"
     },
     {
       "surface": "האשה",
-      "gloss": "mara"
+      "gloss": "il-mara"
     },
     {
       "surface": "אם",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "שכב",
-      "gloss": "ltqajt bil-raqad"
+      "gloss": "rqad"
     },
     {
       "surface": "איש",
@@ -76,11 +50,12 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩",
+      "marks": "miegħek"
     },
     {
       "surface": "ואם",
-      "gloss": "u jekk"
+      "gloss": "u-jekk"
     },
     {
       "surface": "לא",
@@ -88,11 +63,11 @@
     },
     {
       "surface": "שטית",
-      "gloss": "devjajtx"
+      "gloss": "tgħawweġtx"
     },
     {
       "surface": "טמאה",
-      "gloss": "tniġġset"
+      "gloss": "tniġġis"
     },
     {
       "surface": "תחת",
@@ -100,29 +75,29 @@
     },
     {
       "surface": "אישך",
-      "gloss": "raġlek"
+      "gloss": "raġelek"
     },
     {
       "surface": "הנקי",
-      "gloss": "tkun ħielsa"
+      "gloss": "tkun-ħielsa"
     },
     {
       "surface": "ממי",
-      "gloss": "minn"
+      "gloss": "minn-dawn-l-ilmiet"
     },
     {
       "surface": "המרים",
-      "gloss": "tal-morr"
+      "gloss": "l-imorrin"
     },
     {
       "surface": "המאררים",
-      "gloss": "tas-saħta"
+      "gloss": "li-jtellgħu-s-saħta"
     },
     {
       "surface": "האלה",
       "gloss": "dawn"
     }
   ],
-  "timestamp": "2026-10-21T17:09:09.974259582Z",
+  "timestamp": "2026-10-22T00:47:37.599554491Z",
   "model": "glm-5.3"
 }

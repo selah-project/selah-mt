@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ענות עני",
-      "rationale": "Għerq għejjed mill-ġdid: il-fqajja' tal-fqir, drawwa li titlef it-taħbit tal-ħoss."
-    },
-    {
-      "kind": "substitution",
-      "subject": "wicċu",
-      "rationale": "פניו huwa 'wiċċu' literalment; 'aħba wicċu' tfisser rifjutar li tara lil ħadd."
-    }
-  ],
-  "translation": "Għax ma disprezzax u lanqas ma għogbu l-fqajja' tal-fqir, u ma aħbix wicċu minnu, u meta sejjaħ lejh, jisma'.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/22\/25-28.1792616740894.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax ma bażax u lanqas għoġbu l-miżerja tal-miskin, u ma ħebix wiċċu minnu, u meta sejjaħ lejh, sema'.",
   "tokens": [
     {
       "surface": "כי",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "בזה",
-      "gloss": "disprezzax"
+      "gloss": "bażax"
     },
     {
       "surface": "ולא",
-      "gloss": "u lanqas ma"
+      "gloss": "u lanqas"
     },
     {
       "surface": "שקץ",
-      "gloss": "għogbu"
+      "gloss": "għoġbu"
     },
     {
       "surface": "ענות",
-      "gloss": "l-fqajja'"
+      "gloss": "l-miżerja"
     },
     {
       "surface": "עני",
-      "gloss": "tal-fqir"
+      "gloss": "tal-miskin"
     },
     {
       "surface": "ולא",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "הסתיר",
-      "gloss": "aħbix"
+      "gloss": "ħebix"
     },
     {
       "surface": "פניו",
-      "gloss": "wicċu"
+      "gloss": "wiċċu"
     },
     {
       "surface": "ממנו",
@@ -82,9 +61,9 @@
     },
     {
       "surface": "שמע",
-      "gloss": "jisma'"
+      "gloss": "sema'"
     }
   ],
-  "timestamp": "2026-10-21T21:05:40.894739529Z",
+  "timestamp": "2026-10-22T00:49:22.124067005Z",
   "model": "glm-5.3"
 }

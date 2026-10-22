@@ -5,38 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ונכחת",
-      "rationale": "KJV 'thus she was reproved' (ribukta) kontra ASV\/JPS 'thou art righted' (ġġustifikat) — verb femminili singular; min hu l-suġġett, Sara jew Avimelek?"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כסות עינים",
-      "rationale": "'velu għall-għajnejn' — idjomm Lhudi għal għajbija\/maħfra, mhux velu fiżiku"
-    },
-    {
-      "kind": "crux",
-      "subject": "ואת כל",
-      "rationale": "את hawn mhux il-markatur tal-oġġett imma l-prepożizzjoni עם ('miegħ'); 'u ma' kulħadd' — sekwenza elliptika diffiċli"
-    },
-    {
-      "kind": "substitution",
-      "subject": "elf fidda",
-      "rationale": "il-Lhudi jgħid biss 'elf fidda', 'biċċiet' miżjuda mit-tradizzjonijiet"
-    }
-  ],
-  "translation": "U lil Sara qal: Ara, tajt lil ħuk elf [[ piece ]] fidda; ara, hi għalik velu ta' l-għajnejn, għal kulħadd li hemm ⟨את⟩ miegħek; u ⟨את⟩ kulħadd — u inti ġġustifikat.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "d2bfbef305f24d5223c52fe1962bfd7d96fc636e402fd9f37690f3df2276bd86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/20\/13-16.1792598206827.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil Sara qal: Ara, tajt lil ħutek elf biċċa fidda; ara, huwa għalik veli għall-għajnejn għal dawk kollha li ⟨את⟩ huma ⟨miegħek⟩; u lil ⟨את⟩ kollha inti ġġustifikat.",
   "tokens": [
     {
       "surface": "ולשרה",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "fidda"
+      "gloss": "biċċa fidda"
     },
     {
       "surface": "לאחיך",
-      "gloss": "lil ħuk"
+      "gloss": "lil ħutek"
     },
     {
       "surface": "הנה",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "hi"
+      "gloss": "huwa"
     },
     {
       "surface": "לך",
@@ -80,15 +49,15 @@
     },
     {
       "surface": "כסות",
-      "gloss": "velu ta'"
+      "gloss": "veli"
     },
     {
       "surface": "עינים",
-      "gloss": "l-għajnejn"
+      "gloss": "għall-għajnejn"
     },
     {
       "surface": "לכל",
-      "gloss": "għal kulħadd"
+      "gloss": "għal dawk kollha"
     },
     {
       "surface": "אשר",
@@ -96,22 +65,22 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩ ⟨מiegħek⟩ huma"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kulħadd"
+      "marks": "kollha (lil kull ma hemm magħha \/ quddiem kulħadd)"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollha"
     },
     {
       "surface": "ונכחת",
       "gloss": "u inti ġġustifikat"
     }
   ],
-  "timestamp": "2026-10-21T15:56:46.828635229Z",
+  "timestamp": "2026-10-22T00:21:51.017296399Z",
   "model": "glm-5.3"
 }

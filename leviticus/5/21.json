@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nifs",
-      "rationale": "נפש hawn tfisser persuna li tieħu nifs, mhux 'ruħ'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מעלה מעל",
-      "rationale": "verb u nom mill-istess għerq מעל — tradott b'verb u nom (jaħtab maħtab) biex il-qruba tibqa'"
-    }
-  ],
-  "translation": "Nifs meta jiddinib u jaħtab maħtab kontra Jaħwe, u jigdeb lil sħibu f'dipozitu, jew f'xi ħaġa mqiegħda f'idejh, jew rigal misruq, jew jifidd lil sħibu",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/5\/21-24.1792600565349.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nefex meta tidnobb u taħdem ħainija kontra Jaħwe, u tgiddib lil ħaddiemu f'depożitu jew f'għotja ta' idejn jew bi serqa, jew jiddevja lil ħaddiemu",
   "tokens": [
     {
       "surface": "נפש",
-      "gloss": "nifs"
+      "gloss": "Nefex"
     },
     {
       "surface": "כי",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "תחטא",
-      "gloss": "jiddinib"
+      "gloss": "tidnobb"
     },
     {
       "surface": "ומעלה",
-      "gloss": "jaħtab"
+      "gloss": "u taħdem ħainija"
     },
     {
       "surface": "מעל",
-      "gloss": "maħtab"
+      "gloss": "ħainija"
     },
     {
       "surface": "ביהוה",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "וכחש",
-      "gloss": "jigdeb"
+      "gloss": "u tgiddib"
     },
     {
       "surface": "בעמיתו",
-      "gloss": "lil sħibu"
+      "gloss": "lil ħaddiemu"
     },
     {
       "surface": "בפקדון",
-      "gloss": "f'dipozitu"
+      "gloss": "f'depożitu"
     },
     {
       "surface": "או",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "בתשומת",
-      "gloss": "f'xi ħaġa mqiegħda"
+      "gloss": "f'għotja"
     },
     {
       "surface": "יד",
-      "gloss": "f'idejh"
+      "gloss": "ta' idejn"
     },
     {
       "surface": "או",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "בגזל",
-      "gloss": "rigal misruq"
+      "gloss": "bi serqa"
     },
     {
       "surface": "או",
@@ -90,18 +69,18 @@
     },
     {
       "surface": "עשק",
-      "gloss": "jifidd"
+      "gloss": "jiddevja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil sħibu"
+      "marks": "ħaddiemu"
     },
     {
       "surface": "עמיתו",
-      "gloss": "lil sħibu"
+      "gloss": "ħaddiemu"
     }
   ],
-  "timestamp": "2026-10-21T16:36:05.349802783Z",
+  "timestamp": "2026-10-22T00:41:46.447469757Z",
   "model": "glm-5.3"
 }

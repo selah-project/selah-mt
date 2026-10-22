@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הכלמנום",
-      "rationale": "verbu: 'wġġanhom bil-kliem \/ ḍlimhom' — mhux sempliċiment 'ħsara'"
-    },
-    {
-      "kind": "crux",
-      "subject": "נפקד",
-      "rationale": "'ma ntilefx xejn' (KJV) jew 'ma laqgħux għajn' — passiv ta' פקד, min jmiss lil min jitħares"
-    },
-    {
-      "kind": "you",
-      "subject": "to Nabal",
-      "rationale": "kompartiment tal-messaġġ dirett ta' David lil Naval"
-    }
-  ],
-  "translation": "U issa smajt li hemm min iqassar ⟨il-merħla⟩ għandek; issa r-rgħajja li għandek kienu magħna, ma ħsirniehomx, u ma ntilefthomx ⟨xejn⟩, il-ġranet kollha li kienu fil-Karmel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3db554666094087f3d31c88d9be81a0047bef9223a279c3aac99cf0c06130220",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/6-7.1792623291775.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa smajt li għandek min qed iġegħel ⟨il-merħla⟩; issa l-rgħajja li għandek kienu magħna, ma ḥajrnhomx u lanqas ntilef xejn minn tagħhom, il-ġranet kollha li kienu fil-Karmel.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "u issa"
+      "gloss": "U issa"
     },
     {
       "surface": "שמעתי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "גזזים",
-      "gloss": "min iqassar"
+      "gloss": "min qed iġegħel"
     },
     {
       "surface": "לך",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הרעים",
-      "gloss": "r-rgħajja"
+      "gloss": "l-rgħajja"
     },
     {
       "surface": "אשר",
@@ -83,19 +57,19 @@
     },
     {
       "surface": "הכלמנום",
-      "gloss": "ħsirniehomx"
+      "gloss": "ḥajrnhomx"
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u lanqas"
     },
     {
       "surface": "נפקד",
-      "gloss": "ntilefthomx"
+      "gloss": "ntilef"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "minn tagħhom"
     },
     {
       "surface": "מאומה",
@@ -118,6 +92,6 @@
       "gloss": "fil-Karmel"
     }
   ],
-  "timestamp": "2026-10-21T22:54:51.776041069Z",
+  "timestamp": "2026-10-21T23:59:59.790482258Z",
   "model": "glm-5.3"
 }

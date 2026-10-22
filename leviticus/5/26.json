@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "l-iskadd",
-      "rationale": "כפר letteralment 'jikkopra' — l-iskadd jew il-kopertura tal-ħtija"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "il-lingwaġġ reliġjuż 'minn kollu kemm jagħmel' jassorbi l-可持续 relattiv"
-    }
-  ],
-  "translation": "U l-qassis jagħmel l-iskadd għalih quddiem Jaħwe, u jkun maħfur lilu, dwar waħda minn kollu kemm jagħmel biex jiġi ħati biha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/5\/25-26.1792600467559.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis jagħmel l-ispjazzjoni għalih quddiem Jaħwe, u jingħafarlu, għal waħda minn kollox kemm hu li jagħmel bħala ħtija fiha.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "jagħmel l-iskadd"
+      "gloss": "jagħmel l-ispjazzjoni"
     },
     {
       "surface": "עליו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "il-qassis"
+      "gloss": "l-qassis"
     },
     {
       "surface": "לפני",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "ונסלח",
-      "gloss": "u jkun maħfur"
+      "gloss": "u jingħafarlu"
     },
     {
       "surface": "לו",
-      "gloss": "lilu"
+      "gloss": "lu"
     },
     {
       "surface": "על",
-      "gloss": "dwar"
+      "gloss": "għal"
     },
     {
       "surface": "אחת",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "minn kollu kemm"
+      "gloss": "minn kollox"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "יעשה",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "לאשמה",
-      "gloss": "biex jiġi ħati"
+      "gloss": "bħala ħtija"
     },
     {
       "surface": "בה",
-      "gloss": "biha"
+      "gloss": "fiha"
     }
   ],
-  "timestamp": "2026-10-21T16:34:27.559757956Z",
+  "timestamp": "2026-10-22T00:42:09.382266689Z",
   "model": "glm-5.3"
 }

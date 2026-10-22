@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "השיב על כני",
-      "rationale": "litteralment 'ġie mġedded fuq l-istativ tiegħu', jiġifieri mbagħad f'postu ta' qabel"
-    },
-    {
-      "kind": "substitution",
-      "subject": "תלה",
-      "gloss": "impenda: possibilities: impenġjar ta' hanġir (ġustizzja) vs sempliċiment imdalla"
-    }
-  ],
-  "translation": "U seħħ kif ftirilna, hekk kien: lili ġegħlu jirġa' fuq postu, u lilu impendewh.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/41\/13-16.1792598876589.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U seħħ kif interpretralna, hekk kien: lil ⟨את⟩ jiena ħarislek għal posti, u lil ⟨את⟩ lilu dabbru msallab.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "פתר",
-      "gloss": "ftirilna"
+      "gloss": "interpretra"
     },
     {
       "surface": "לנו",
@@ -54,31 +33,31 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ lili",
-      "marks": "lili"
+      "gloss": "⟨את⟩",
+      "marks": "jiena"
     },
     {
       "surface": "השיב",
-      "gloss": "ġegħlu jirġa'"
+      "gloss": "ħarislek"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "għal"
     },
     {
       "surface": "כני",
-      "gloss": "postu"
+      "gloss": "posti"
     },
     {
       "surface": "ואתו",
-      "gloss": "u ⟨את⟩ lilu",
+      "gloss": "u ⟨את⟩",
       "marks": "lilu"
     },
     {
       "surface": "תלה",
-      "gloss": "impendewh"
+      "gloss": "dabbru msallab"
     }
   ],
-  "timestamp": "2026-10-21T16:07:56.589677834Z",
+  "timestamp": "2026-10-22T00:23:37.509261798Z",
   "model": "glm-5.3"
 }

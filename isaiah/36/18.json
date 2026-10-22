@@ -5,49 +5,27 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "l-allat",
-      "rationale": "l-allat tal-ġnus bil-ħoss baxx skond ir-regola għall-idoli barranin; mhux Elohim"
-    },
-    {
-      "kind": "addition",
-      "subject": "Oqogħdu",
-      "rationale": "il-verb fil-imperattiv miżjud biex il-פן jiftehem sewwa"
-    }
-  ],
-  "translation": "Oqogħdu Ħizqijahu jaqbżilkom billi jgħid: Jaħwe jħellisna. Ħellisu l-allat tal-ġnus, kull waħda ⟨את⟩ l-art tagħha, minn id ir-re ta' Assur?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "306e6b667236bd1e416c591f1a4f0b4fa7428bf7e8c1e79d686385dea5e398bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/36\/17-18.1792623495862.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biex Ħizqijah ma jaqraqkomx, jgħid: Jaħwe ⟨se⟩ jilliberana. Jaqaw l-allat tal-ġnus ħelsu lil kull wieħed ⟨את⟩ l-art tiegħu minn idejn ir-re ta' Assur?",
   "tokens": [
     {
       "surface": "פן",
-      "gloss": "oqogħdu li ma"
+      "gloss": "Biex"
     },
     {
       "surface": "יסית",
-      "gloss": "jaqbżilkom"
+      "gloss": "jaqraq"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
-      "marks": "lilkom"
+      "gloss": "⟨את⟩ kom"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Ħizqijahu"
+      "gloss": "Ħizqijah"
     },
     {
       "surface": "לאמר",
-      "gloss": "billi jgħid"
+      "gloss": "jgħid"
     },
     {
       "surface": "יהוה",
@@ -55,36 +33,36 @@
     },
     {
       "surface": "יצילנו",
-      "gloss": "jħellisna"
+      "gloss": "jilliberana"
     },
     {
       "surface": "ההצילו",
-      "gloss": "ħellsu"
+      "gloss": "ħelsu"
     },
     {
       "surface": "אלהי",
-      "gloss": "l-allat"
+      "gloss": "allat"
     },
     {
       "surface": "הגוים",
-      "gloss": "tal-ġnus"
+      "gloss": "il-ġnus"
     },
     {
       "surface": "איש",
-      "gloss": "kull waħda"
+      "gloss": "kull wieħed"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-art tagħha"
+      "marks": "l-art tiegħu"
     },
     {
       "surface": "ארצו",
-      "gloss": "l-art tagħha"
+      "gloss": "l-art tiegħu"
     },
     {
       "surface": "מיד",
-      "gloss": "minn id"
+      "gloss": "minn idejn"
     },
     {
       "surface": "מלך",
@@ -92,9 +70,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "ta' Assur"
+      "gloss": "Assur"
     }
   ],
-  "timestamp": "2026-10-21T22:58:15.862984056Z",
+  "timestamp": "2026-10-22T00:26:33.351889210Z",
   "model": "glm-5.3"
 }

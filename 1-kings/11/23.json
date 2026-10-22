@@ -5,53 +5,32 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "għadu",
-      "rationale": "שטן hawn nom komuni 'avversarju\/opponenti', mhux isem — lanqas 'Satana' bħala figura"
-    },
-    {
-      "kind": "crux",
-      "subject": "sultan",
-      "rationale": "מלך msemmi wara isem ta' bniedem (Ħadadezer) għalheqq 'sultan' mhux isem ta' Alla — צבאות ma jidhirx mal-Isem hawn"
-    }
-  ],
-  "translation": "U Elohim qajmu għalih għad(иль) — għadu — ⟨את⟩ Rezon iben Eliada, li ħarab minn ⟨את⟩ Ħadadezer sultan ta' Tsuba, sidu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/21-24.1792609604514.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Eloheim qajmetlu adversarju, ⟨את⟩ Rezón iben Eljada, li ħarab mingħand ⟨את⟩ Hadadeżer sultan ta' Żoba, sidu.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "U qajmu"
+      "gloss": "qajmetlu"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Eloheim"
     },
     {
       "surface": "לו",
-      "gloss": "għalih"
+      "gloss": "lu"
     },
     {
       "surface": "שטן",
-      "gloss": "għadu"
+      "gloss": "adversarju"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rezon"
+      "marks": "Rezón"
     },
     {
       "surface": "רזון",
-      "gloss": "Rezon"
+      "gloss": "Rezón"
     },
     {
       "surface": "בן",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אלידע",
-      "gloss": "Eliada"
+      "gloss": "Eljada"
     },
     {
       "surface": "אשר",
@@ -71,12 +50,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "minn ⟨את⟩",
-      "marks": "Ħadadezer sultan ta' Tsuba"
+      "gloss": "mingħand ⟨את⟩"
     },
     {
       "surface": "הדדעזר",
-      "gloss": "Ħadadezer"
+      "gloss": "Hadadeżer"
     },
     {
       "surface": "מלך",
@@ -84,13 +62,13 @@
     },
     {
       "surface": "צובה",
-      "gloss": "ta' Tsuba"
+      "gloss": "Żoba"
     },
     {
       "surface": "אדניו",
       "gloss": "sidu"
     }
   ],
-  "timestamp": "2026-10-21T19:06:44.515569316Z",
+  "timestamp": "2026-10-21T23:56:14.862273824Z",
   "model": "glm-5.3"
 }

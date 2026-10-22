@@ -5,39 +5,23 @@
   "book": "proverbs",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "תחת כי",
-      "rationale": "תחת כי idiom 'instead of \/ because that' collapsed into Maltese 'Għaliex'"
-    }
-  ],
-  "translation": "Għaliex huma jobgħodu l-għarfien, u l-biża' ta' Jaħwe ma għażlux.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0c41701db9ab5611cab02817bd9fb2e782a9bd95944f7b90919316a05d450ebc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/1\/29-32.1792618357635.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex jobgħodu lid-daʿa, u l-biża' ta' Jaħwe ma għażlux.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": ""
-    },
-    {
-      "surface": "כי",
       "gloss": "għaliex"
     },
     {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
       "surface": "שנאו",
-      "gloss": "huma jobgħodu"
+      "gloss": "jobgħodu"
     },
     {
       "surface": "דעת",
-      "gloss": "l-għarfien"
+      "gloss": "id-daʿa"
     },
     {
       "surface": "ויראת",
@@ -56,6 +40,6 @@
       "gloss": "għażlux"
     }
   ],
-  "timestamp": "2026-10-21T21:32:37.635599787Z",
+  "timestamp": "2026-10-22T00:48:04.667406525Z",
   "model": "glm-5.3"
 }

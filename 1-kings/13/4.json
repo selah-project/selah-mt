@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nixfet",
-      "rationale": "ויבש għandha żewġ wċuħ — 'tnixfet' u 'tkun timid'; hawn tifsira litterali: id li nixfet."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלח…שלח",
-      "rationale": "il-verbu 'bagħat' jirrepeti għall-id imtedda — l-istorja tiegħu id f'id, tingħata l-attenzzjoni għall-istess kelma."
-    }
-  ],
-  "translation": "U ⟨kien⟩ meta r-re sema' ⟨את⟩ il-kelma ta' raġel l-Elohim li sejħet kontra l-artal f'Bet-El, Jerobeam neħħa idu minn fuq l-artal, jgħid: Ħuduħ! U idu nixfet, dak li bagħat kontrih, u ma setax jerga' jibniha lejh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5f428fb1ed3e1df7d0dbd9e25b4f2a755d8e3b907635dbf3e65fd1287894b197",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/13\/4-4.1792623341029.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨kien⟩ meta r-re sema' ⟨את⟩ kelmet raġel Elohim li sejjaħ kontra l-mizbeaħ f'Bet El, Jarobeam mied ⟨את⟩ idu minn fuq il-mizbeaħ jgħid: Ħuduh! U inxefet idu li mied kontrih, u ma setax jirġġagħha lejh.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-kelma"
+      "marks": "kelmet"
     },
     {
       "surface": "דבר",
-      "gloss": "il-kelma"
+      "gloss": "kelmet"
     },
     {
       "surface": "איש",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "l-Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אשר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "sejħet"
+      "gloss": "sejjaħ"
     },
     {
       "surface": "על",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "l-artal"
+      "gloss": "il-mizbeaħ"
     },
     {
       "surface": "בבית",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "El"
     },
     {
       "surface": "וישלח",
-      "gloss": "neħħa \/ bagħat"
+      "gloss": "u mied"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jerobeam"
+      "gloss": "Jarobeam"
     },
     {
       "surface": "את",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "l-artal"
+      "gloss": "il-mizbeaħ"
     },
     {
       "surface": "לאמר",
@@ -112,11 +91,11 @@
     },
     {
       "surface": "תפשהו",
-      "gloss": "Ħuduħ!"
+      "gloss": "Ħuduh"
     },
     {
-      "surface": "ויבש",
-      "gloss": "u nixfet"
+      "surface": "ותיבש",
+      "gloss": "u inxefet"
     },
     {
       "surface": "ידו",
@@ -124,11 +103,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "dak li"
+      "gloss": "li"
     },
     {
       "surface": "שלח",
-      "gloss": "bagħat"
+      "gloss": "mied"
     },
     {
       "surface": "עליו",
@@ -144,13 +123,13 @@
     },
     {
       "surface": "להשיבה",
-      "gloss": "jerga' jibniha"
+      "gloss": "jirġġagħha"
     },
     {
       "surface": "אליו",
-      "gloss": "leh"
+      "gloss": "lejh"
     }
   ],
-  "timestamp": "2026-10-21T22:55:41.029848539Z",
+  "timestamp": "2026-10-21T23:56:47.039849614Z",
   "model": "glm-5.3"
 }

@@ -5,67 +5,46 @@
   "book": "ezra",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-Pesach",
-      "rationale": "הפסח isem tekniku Lhudi, ma jittraduċix 'passa' biss"
-    },
-    {
-      "kind": "measurement",
-      "subject": "fl-erbatax",
-      "rationale": "data tat-tax-xahar, l-erbatax jum tax-xahar l-ewwel"
-    }
-  ],
-  "translation": "U wrew bidu għal ⟨את⟩ il-Pesach fl-erbatax ta' l-ewwel xahar — ulied l-eżilju.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/6\/17-20.1792621102693.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wlied il-golja għamlu ⟨את⟩ il-Pesaħ fl-erbgħa għoxrin ⟨jum⟩ tax-xahar l-ewwel.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "għamlu"
+      "gloss": "u għamlu"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "הגולה",
-      "gloss": "l-eżilju"
+      "gloss": "il-golja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-Pesach"
+      "marks": "il-Pesaħ"
     },
     {
       "surface": "הפסח",
-      "gloss": "il-Pesach"
+      "gloss": "il-Pesaħ"
     },
     {
       "surface": "בארבעה",
-      "gloss": "fl-erbatax"
+      "gloss": "fl-erbgħa"
     },
     {
       "surface": "עשר",
-      "gloss": "ta'"
+      "gloss": "għoxrin"
     },
     {
       "surface": "לחדש",
-      "gloss": "xahar"
+      "gloss": "tax-xahar"
     },
     {
       "surface": "הראשון",
       "gloss": "l-ewwel"
     }
   ],
-  "timestamp": "2026-10-21T22:18:22.695434011Z",
+  "timestamp": "2026-10-22T00:19:49.435881293Z",
   "model": "glm-5.3"
 }

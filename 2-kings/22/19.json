@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rqieqa",
-      "rationale": "רך 'towwal\/moll' għal qalb — 'rqieqa' żżomm it-tifsira fiżika tat-towwil"
-    },
-    {
-      "kind": "addition",
-      "subject": "kienet",
-      "rationale": "il-kopula mqiedda b'⟨kienet⟩ mhux ippreżenti fil-Lhudi; in-nota għaliex il-Malti jirrikjediha hawnhekk"
-    }
-  ],
-  "translation": "għaliex qalbek kienet rqieqa u ttinjiet quddiem Jaħwe meta smajt dak li jgħidt fuq dan il-post u fuq għassieħa tiegħu, li jkun għal qerda u għal silla, u ċċarrt ⟨את⟩ il-ħwejjeġ tiegħek u bkejt quddiemi, u jien ukoll smajt, jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca5f028645c9c6ffd15751090d2719cc9c6f1b2ae52bafec4a1b908ceb659e6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/22\/17-20.1792610804319.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex qalbek kienet irħija u ttnejjebt quddiem Jaħwe, meta smajt dak li tkellimt fuq dan il-post u fuq dawk li jgħixu fih, li jsiru għal qerda u għal misħta, u ħriqt ⟨את⟩ il-ħwejjeġ tiegħek u bkejt quddiemija, u jien ukoll smajt, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "għaliex"
+      "gloss": "Għaliex"
     },
     {
       "surface": "רך",
-      "gloss": "rqieqa"
+      "gloss": "irħija"
     },
     {
       "surface": "לבבך",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ותכנע",
-      "gloss": "u ttinjiet"
+      "gloss": "uttnejjebt"
     },
     {
       "surface": "מפני",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "jgħidt"
+      "gloss": "tkellimt"
     },
     {
       "surface": "על",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "המקום",
-      "gloss": "dan il-post"
+      "gloss": "il-post"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "dan"
     },
     {
       "surface": "ועל",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ישביו",
-      "gloss": "għassieħa tiegħu"
+      "gloss": "dawk li jgħixu fih"
     },
     {
       "surface": "להיות",
-      "gloss": "li jkun"
+      "gloss": "li jsiru"
     },
     {
       "surface": "לשמה",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "ולקללה",
-      "gloss": "u għal silla"
+      "gloss": "u għal misħta"
     },
     {
       "surface": "ותקרע",
-      "gloss": "u ċċarrt"
+      "gloss": "u ħriqt"
     },
     {
       "surface": "את",
@@ -115,15 +94,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "quddiemi"
+      "gloss": "quddiemija"
     },
     {
       "surface": "וגם",
-      "gloss": "u jien ukoll"
+      "gloss": "u ... ukoll"
     },
     {
       "surface": "אנכי",
-      "gloss": ""
+      "gloss": "jien"
     },
     {
       "surface": "שמעתי",
@@ -138,6 +117,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T19:26:44.321258746Z",
+  "timestamp": "2026-10-22T01:49:25.848868414Z",
   "model": "glm-5.3"
 }

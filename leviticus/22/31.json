@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lill-qassisin u lil Jisrael",
-      "rationale": "Imperattiv plurali dirett — kelma ta' autorità lis-smigħ."
-    },
-    {
-      "kind": "addition",
-      "subject": "-hom",
-      "rationale": "Il-pronum suffiss fuq ”agħmluhom” jagħti l-oġġett li ⟨את⟩ jimmarka bil-מצות."
-    }
-  ],
-  "translation": "U żommu l-kmandamenti tiegħi u agħmluhom: jien Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c51213c2d7568d84fef881947c4c0434cfe86726c1b9a578496989e3e1d3482a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/29-32.1792601089180.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tobgħodu lil mixvotija, u tagħmlu ⟨את⟩ lilhom; jien Jaħwe.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "u żommu"
+      "gloss": "U tobgħodu"
     },
     {
       "surface": "מצותי",
-      "gloss": "l-kmandamenti tiegħi"
+      "gloss": "lil mixvotija"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "u agħmlu"
+      "gloss": "u tagħmlu"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "l-kmandamenti tiegħi"
+      "marks": "lilhom (mixvotija)"
     },
     {
       "surface": "אני",
@@ -54,6 +33,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T16:44:49.180986437Z",
+  "timestamp": "2026-10-22T00:41:15.040983728Z",
   "model": "glm-5.3"
 }

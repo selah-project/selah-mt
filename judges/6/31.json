@@ -5,45 +5,19 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עד הבקר",
-      "rationale": "'sa fil-ghoduwa' jew 'qabel it-tajjeb jgħajja' — doppju tifsira: joqtlu qabel iseħħ ħaġa, jew Baal jaġixxi sa dakinhar."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יריב",
-      "rationale": "Għerq ריב jittella' tlett darbiet fil-vers; f'6:32 isir isem Ġerubbaal minn din il-kelma — il-logħba tal-kliem titilef parzjalment bil-Malti."
-    },
-    {
-      "kind": "addition",
-      "subject": "ħu",
-      "rationale": "' Alla ħu' għal אלהים biex jidher li Joax jikkastiga lil Baal b'dehher, mhux dwar Elohim ta' Israel."
-    }
-  ],
-  "translation": "U Joax qal lil kulma kienu weqfu fuqu: Intom tqattgħu ħadirhom għal Baal? Intom tidfaghulu? Min iħaqqa ma' għalih, jitqatel qabel it-tajjeb jgħajja, jekk Alla ħu, iħaqqa l-ħaqq għalih għaliex tegħġel ⟨את⟩ l-artal tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "adcdb99a29301863dd246f8b21ad8d21f424836042bef1efc68af1c2555b2e78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/6\/30-31.1792623203341.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joxe qal lil dawk kollha li kienu weqfu kontrih: Intom, intom tiġġieldu għal Baal? Jekk intom se s ħelsuh, min jiġġieled għalih jitqatel sal-għodu; jekk hu Elohim, ħalli hu jiġġieled għalih, għax għanneq ⟨את⟩ l-artal tiegħu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "יואש",
-      "gloss": "Joax"
+      "gloss": "Joxe"
     },
     {
       "surface": "לכל",
-      "gloss": "lil kulma"
+      "gloss": "lil dawk kollha"
     },
     {
       "surface": "אשר",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "עליו",
-      "gloss": "fuqu"
+      "gloss": "kontrih"
     },
     {
       "surface": "האתם",
-      "gloss": "Intom"
+      "gloss": "intom"
     },
     {
       "surface": "תריבון",
-      "gloss": "tqattgħu ħadirhom"
+      "gloss": "tiġġieldu"
     },
     {
       "surface": "לבעל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "Jew"
+      "gloss": "jekk"
     },
     {
       "surface": "אתם",
@@ -79,12 +53,12 @@
     },
     {
       "surface": "תושיעון",
-      "gloss": "tidfaghulu"
+      "gloss": "tħelsuh"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "lil Baal"
+      "marks": "lilu (min jiġġieled għal Baal)"
     },
     {
       "surface": "אשר",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "יריב",
-      "gloss": "iħaqqa ma'"
+      "gloss": "jiġġieled"
     },
     {
       "surface": "לו",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "qabel"
+      "gloss": "sal-"
     },
     {
       "surface": "הבקר",
-      "gloss": "it-tajjeb jgħajja"
+      "gloss": "għodu"
     },
     {
       "surface": "אם",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Alla ħu"
+      "gloss": "Elohim"
     },
     {
       "surface": "הוא",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "ירב",
-      "gloss": "iħaqqa l-ħaqq"
+      "gloss": "jiġġieled"
     },
     {
       "surface": "לו",
@@ -132,11 +106,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "נתץ",
-      "gloss": "tegneġġel"
+      "gloss": "għanneq"
     },
     {
       "surface": "את",
@@ -148,6 +122,6 @@
       "gloss": "l-artal tiegħu"
     }
   ],
-  "timestamp": "2026-10-21T22:53:23.342990988Z",
+  "timestamp": "2026-10-22T00:38:00.267706329Z",
   "model": "glm-5.3"
 }

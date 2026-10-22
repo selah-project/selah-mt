@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כמחריש",
-      "rationale": "'bħal min jogħġob xejn jgħid' (Sawl jibqa' sieket) kontra YLT 'bħal wieħed trux' kontra qari ta' Samuel 'bħal wieħed ma jisma'x'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "מנחה",
-      "rationale": "Hawn rigal\/taxxa ta' ġieħ lir-re, mhux offerta ta' qorban — għalhekk 'rigal' mhux 'minħa' skont ir-regola D2."
-    }
-  ],
-  "translation": "U ulied bla valur qalu: Kif dan jġeddidna? U għajnuh, u ħallewh bla mingħajr rigal; u ⟨kien⟩ bħal min jogħġob xejn jgħid.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/10\/25-27.1792607862408.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U s-subien ta' Belijal qalu: Kif dan ipprowdana għalina? U għajrunh, u ġġiebwulu l-ebda minħa; u ⟨ħu⟩ ⟨kien⟩ bħal min ma jismax.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "u ulied"
+      "gloss": "U s-subjen ta'"
     },
     {
       "surface": "בליעל",
-      "gloss": "bla valur"
+      "gloss": "Belijal"
     },
     {
       "surface": "אמרו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ישענו",
-      "gloss": "jġeddidna"
+      "gloss": "ipprowdana għalina"
     },
     {
       "surface": "זה",
@@ -54,11 +33,7 @@
     },
     {
       "surface": "ויבזהו",
-      "gloss": "u għajnuh"
-    },
-    {
-      "surface": "ויבזהו",
-      "gloss": "u għajnuh"
+      "gloss": "u għajrunh"
     },
     {
       "surface": "ולא",
@@ -66,25 +41,25 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "ħallewh bla"
+      "gloss": "ġġiebwu"
     },
     {
       "surface": "לו",
-      "gloss": "mingħajr"
+      "gloss": "lu"
     },
     {
       "surface": "מנחה",
-      "gloss": "rigal"
+      "gloss": "minħa"
     },
     {
       "surface": "ויהי",
-      "gloss": "u ⟨kien⟩"
+      "gloss": "u kien"
     },
     {
       "surface": "כמחריש",
-      "gloss": "bħal min jogħġob xejn jgħid"
+      "gloss": "bħal min ma jismax"
     }
   ],
-  "timestamp": "2026-10-21T18:37:42.409366515Z",
+  "timestamp": "2026-10-21T23:58:41.162291191Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אבד תאבדון",
-      "rationale": "infinitiv assolut + verb finit: 'titlef titlef tassew' — ridott għal 'titlef bil-kbir'"
-    },
-    {
-      "kind": "elision",
-      "subject": "לכם",
-      "gloss": "il-pronom 'lilkom' ma jidhirx fil-Malti għax 'infakkrek' ġa jikkonjuga l-persuna"
-    }
-  ],
-  "translation": "nilħaq infakkrek illum li titlef bil-kbir, ma ttawwallewx jiem fuq l-art li qiegħed taqbes ⟨את⟩ l-Ġordan biex tidħol hemm biex tieħuha",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/17-20.1792606067544.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għedtilkom illum li terbgħu tmerbgħu, lanqas tagħtux twil għajżhom jum fuq l-art li int qiegħed taqsam ⟨את⟩ il-Ġordan biex tidħol hemm biex tieħdu f'idejkom.",
   "tokens": [
     {
       "surface": "הגדתי",
-      "gloss": "nilħaq infakkrek"
+      "gloss": "għedtilkom"
     },
     {
       "surface": "לכם",
-      "gloss": ""
+      "gloss": "lilkom"
     },
     {
       "surface": "היום",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "אבד",
-      "gloss": "titlef"
+      "gloss": "tmerbgħu"
     },
     {
       "surface": "תאבדון",
-      "gloss": "bil-kbir"
+      "gloss": "terbgħu tmerbgħu"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "lanqas"
     },
     {
       "surface": "תאריכן",
-      "gloss": "ttawwallewx"
+      "gloss": "tagħtux twil"
     },
     {
       "surface": "ימים",
-      "gloss": "jiem"
+      "gloss": "għajżhom jum"
     },
     {
       "surface": "על",
@@ -78,20 +57,20 @@
     },
     {
       "surface": "אתה",
-      "gloss": "qiegħed"
+      "gloss": "int"
     },
     {
       "surface": "עבר",
-      "gloss": "taqbes"
+      "gloss": "qiegħed taqsam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-Ġordan"
+      "marks": "il-Ġordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "l-Ġordan"
+      "gloss": "il-Ġordan"
     },
     {
       "surface": "לבא",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "biex tieħuha"
+      "gloss": "biex tieħdu f'idejkom"
     }
   ],
-  "timestamp": "2026-10-21T18:07:47.545520740Z",
+  "timestamp": "2026-10-22T00:10:31.803472316Z",
   "model": "glm-5.3"
 }

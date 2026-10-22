@@ -5,33 +5,7 @@
   "book": "song-of-songs",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גלילי",
-      "rationale": "'lasti\/ċrieki' (għerq גלל, jiċċaqlaq) — RRV 'ċrieket', oħrajn 'lasti': ringjew tant bħal rulli."
-    },
-    {
-      "kind": "substitution",
-      "subject": "avorju",
-      "rationale": "שן tfisser 'driqt' (senna); 'avorju' hu l-materjal, mhux is-sura ta' kelma."
-    },
-    {
-      "kind": "hapax",
-      "subject": "עשת",
-      "rationale": "kelma rari — 'ħida\/ħasla', tessut; l-ebda kelma Maltija waħda ma żżomm il-ħsieb tat-tessuti."
-    }
-  ],
-  "translation": "Idejh lasti tad-deheb mimlijin bit-tarxiż; ġeddu ħida ta' avorju mgħotti bis-saffiri.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/5\/13-16.1792619944073.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Idejh ċircoli tad-deheb, mimlijin bit-Tarsix; ġufu tqigħed tax-xagħra tal-eben, mgħotti bis-saffiri.",
   "tokens": [
     {
       "surface": "ידיו",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "גלילי",
-      "gloss": "lasti"
+      "gloss": "ċircoli"
     },
     {
       "surface": "זהב",
@@ -50,23 +24,23 @@
       "gloss": "mimlijin"
     },
     {
-      "surface": "בתרshיש",
-      "gloss": "bit-tarxiż"
+      "surface": "בתרשיש",
+      "gloss": "bit-Tarsix"
     },
     {
       "surface": "מעיו",
-      "gloss": "ġeddu"
+      "gloss": "ġufu"
     },
     {
       "surface": "עשת",
-      "gloss": "ħida"
+      "gloss": "tqigħed"
     },
     {
       "surface": "שן",
-      "gloss": "ta' avorju"
+      "gloss": "tal-eben"
     },
     {
-      "surface": "מעולפת",
+      "surface": "מעלפת",
       "gloss": "mgħotti"
     },
     {
@@ -74,6 +48,6 @@
       "gloss": "bis-saffiri"
     }
   ],
-  "timestamp": "2026-10-21T21:59:04.074202123Z",
+  "timestamp": "2026-10-22T00:50:34.110345370Z",
   "model": "glm-5.3"
 }

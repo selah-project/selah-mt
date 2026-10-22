@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ħamsin u mitejn raġel",
-      "rationale": "250 raġel maqtula bin-nar; l-għadd miz-zomm b'ordni Hebrew"
-    },
-    {
-      "kind": "crux",
-      "subject": "במות העדה",
-      "rationale": "'fid-dfin tal-assemblea' kontra 'meta mietet dak l-għaqda'; verb miet bil-kostruzzjoni b- jifhem 'meta messu l-mewt'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "fetħet...blaqet",
-      "rationale": "il-ħolqien tal-art bħal ħalq ħutuwa; l-antropomorfizmu jibqa' sħiħ"
-    }
-  ],
-  "translation": "U l-art fetħet lil ⟨את⟩ ħalqha u blaqet lilhom ⟨את⟩ u lil ⟨את⟩ Korach fit-tnejjn li mietu flimkien mal-assemblea, meta l-nar kien jiekol ⟨את⟩ ħamsin u mitejn raġel; u saru sinjal.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f4014d859195ba089fabdc755c74143dfa4eeed6145f053d79143dd2a56b9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/26\/9-12.1792604918048.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-art fetħet ⟨את⟩ fommha u bilgħet lilhom u ⟨את⟩ lil Korħ fil-mewt tal-ebra, meta n-nar kien jiekol ⟨את⟩ ħamsin u mitejn ragħel; u saru għal sinjal.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "U fetħet"
+      "gloss": "fetħet"
     },
     {
       "surface": "הארץ",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ħalqha"
+      "marks": "fommha"
     },
     {
       "surface": "פיה",
-      "gloss": "ħalqha"
+      "gloss": "fommha"
     },
     {
       "surface": "ותבלע",
-      "gloss": "ublaqet"
+      "gloss": "bilgħet"
     },
     {
       "surface": "אתם",
@@ -61,19 +35,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lil Korħ"
     },
     {
       "surface": "קרח",
-      "gloss": "Korach"
+      "gloss": "Korħ"
     },
     {
       "surface": "במות",
-      "gloss": "fit-tnejjn li mietu"
+      "gloss": "fil-mewt"
     },
     {
       "surface": "העדה",
-      "gloss": "flimkien mal-assemblea"
+      "gloss": "tal-ebra"
     },
     {
       "surface": "באכל",
@@ -86,7 +61,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ħamsin u mitejn raġel"
+      "marks": "ħamsin u mitejn ragħel"
     },
     {
       "surface": "חמשים",
@@ -98,7 +73,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "raġel"
+      "gloss": "ragħel"
     },
     {
       "surface": "ויהיו",
@@ -106,9 +81,9 @@
     },
     {
       "surface": "לנס",
-      "gloss": "sinjal"
+      "gloss": "għal sinjal"
     }
   ],
-  "timestamp": "2026-10-21T17:48:38.050418282Z",
+  "timestamp": "2026-10-22T00:45:53.605871906Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "il-marka tal-obiettiv b'suffiss -hom, ma tgħaddix b'kelma separata fil-Malti"
-    }
-  ],
-  "translation": "U Moxe u Elazar il-qassis tkellmu magħhom f'pjanuri Moab, viċin il-Ġordan f'Ġeriko, billi jgħidu:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/26\/1-4.1792604943095.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe u Elazar is-saċerdot tkellmu ⟨את⟩ magħhom fil-pjanuri ta' Moab, fuq il-Ġordan quddiem Ġeriko, billi jgħidu:",
   "tokens": [
     {
       "surface": "וידבר",
@@ -37,24 +21,24 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "il-qassis"
+      "gloss": "is-saċerdot"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "magħhom"
+      "gloss": "⟨את⟩ magħhom",
+      "marks": "il-pjanuri ta' Moab"
     },
     {
       "surface": "בערבת",
-      "gloss": "f'pjanuri"
+      "gloss": "fil-pjanuri"
     },
     {
       "surface": "מואב",
-      "gloss": "Moab"
+      "gloss": "ta' Moab"
     },
     {
       "surface": "על",
-      "gloss": "viċin"
+      "gloss": "fuq"
     },
     {
       "surface": "ירדן",
@@ -62,13 +46,13 @@
     },
     {
       "surface": "ירחו",
-      "gloss": "Ġeriko"
+      "gloss": "quddiem Ġeriko"
     },
     {
       "surface": "לאמר",
       "gloss": "billi jgħidu"
     }
   ],
-  "timestamp": "2026-10-21T17:49:03.096450322Z",
+  "timestamp": "2026-10-22T00:46:05.732412174Z",
   "model": "glm-5.3"
 }

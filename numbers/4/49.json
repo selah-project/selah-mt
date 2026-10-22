@@ -5,58 +5,32 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Census conclusion: the Levites were counted man by man, each to his service and burden, at Jaħwe's command."
-    },
-    {
-      "kind": "idiom",
-      "subject": "skont il-fom ta' Jaħwe",
-      "rationale": "על פי יהוה literally 'on the mouth of Jaħwe', Hebrew idiom for 'at the word\/command of'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ופקדיו",
-      "rationale": "KJV 'thus were they numbered of him' vs YLT 'with his numbered ones'; the clause resumes the census tally of vv. 46–48."
-    }
-  ],
-  "translation": "Skont il-fom ta' Jaħwe ġie għaddithom bil-id ta' Moxe, raġel raġel skont ix-xogħol tiegħu u skont it-tagħbija tiegħu, u dawk li ġew magħduda, kif ammara Jaħwe ⟨את⟩ lil Moxe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ad0be53cd011fd1b25b3646785532cc2247fa5f3978d21de7e063553b9c1a3e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/49-49.1792602431552.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Skond il-ħsieb ta' Jaħwe ġew maħsubin ⟨את⟩ lilhom, bil-idejn ta' Moxe, kull raġel għal xogħolu u għal piżu; u l-għadd tagħhom, kif amar Jaħwe ⟨את⟩ lil Moxe.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "skont"
+      "gloss": "Skond"
     },
     {
       "surface": "פי",
-      "gloss": "il-fom ta'"
+      "gloss": "il-ħsieb"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "פקד",
-      "gloss": "ġie għadd"
+      "gloss": "ġew maħsubin"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom",
+      "gloss": "⟨את⟩",
       "marks": "lilhom"
     },
     {
       "surface": "ביד",
-      "gloss": "bil-id"
+      "gloss": "bil-idejn"
     },
     {
       "surface": "משה",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "raġel"
+      "gloss": "kull raġel"
     },
     {
       "surface": "איש",
@@ -72,23 +46,23 @@
     },
     {
       "surface": "על",
-      "gloss": "skont"
+      "gloss": "għal"
     },
     {
       "surface": "עבדתו",
-      "gloss": "ix-xogħol tiegħu"
+      "gloss": "xogħolu"
     },
     {
       "surface": "ועל",
-      "gloss": "u skont"
+      "gloss": "u għal"
     },
     {
       "surface": "משאו",
-      "gloss": "it-tagħbija tiegħu"
+      "gloss": "piżu"
     },
     {
       "surface": "ופקדיו",
-      "gloss": "u dawk li ġew magħduda"
+      "gloss": "u l-għadd tagħhom"
     },
     {
       "surface": "אשר",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ammara"
+      "gloss": "amar"
     },
     {
       "surface": "יהוה",
@@ -112,6 +86,6 @@
       "gloss": "Moxe"
     }
   ],
-  "timestamp": "2026-10-21T17:07:11.553933480Z",
+  "timestamp": "2026-10-22T00:47:02.190863957Z",
   "model": "glm-5.3"
 }

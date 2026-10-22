@@ -5,46 +5,15 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בעל דברים",
-      "rationale": "bil-miktub 'sid ta' kliem\/kwistjonijiet', d.w. 'min jkollu ħlasieġ'"
-    },
-    {
-      "kind": "addition",
-      "subject": "il-post",
-      "rationale": "בזה huwa biss 'f'dan'; il-kelma 'il-post' miżjuda bil-Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "lis-sid il-kbar",
-      "rationale": "imperattivi diretti ta' Moxe lill-anzjani"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "il-partiċella relativa m'għandha ekwivalenti Malti infushha"
-    }
-  ],
-  "translation": "U lis-sid il-kbar qal: Intomru għalina f'dan ⟨il-post⟩ sa ma nerġgħu lura għandkom; u araw, Aharon u Ħur huma magħkom; min ikun sid ta' kwistjoni, jersaq lejhom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "5f381e26bb1c9d04fafad064ced6a1aa24948575f4acbddf184a103ce0376527",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/24\/13-16.1792599760403.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lill-Anzjani qal: Intom ejjew poġġew hawn għalina, sakemm nerġgħu nergħu lejkom; u ara, Aharon u Ħur huma magħkom — min għandu xi ħaġa, jaqreb lejhom.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "u lis"
+      "gloss": "U lill-"
     },
     {
       "surface": "הזקנים",
-      "gloss": "sid il-kbar"
+      "gloss": "Anzjani"
     },
     {
       "surface": "אמר",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "שבו",
-      "gloss": "Intomru"
+      "gloss": "poġġew"
     },
     {
       "surface": "לנו",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "בזה",
-      "gloss": "f'dan"
+      "gloss": "hawn"
     },
     {
       "surface": "עד",
-      "gloss": "sa ma"
+      "gloss": "sakemm"
     },
     {
       "surface": "אשר",
@@ -72,15 +41,15 @@
     },
     {
       "surface": "נשוב",
-      "gloss": "nerġgħu lura"
+      "gloss": "nerġgħu nergħu"
     },
     {
       "surface": "אליכם",
-      "gloss": "għandkom"
+      "gloss": "lejkom"
     },
     {
       "surface": "והנה",
-      "gloss": "u araw"
+      "gloss": "u ara"
     },
     {
       "surface": "אהרן",
@@ -100,21 +69,21 @@
     },
     {
       "surface": "בעל",
-      "gloss": "sid ta'"
+      "gloss": "għandu"
     },
     {
       "surface": "דברים",
-      "gloss": "kwistjoni"
+      "gloss": "xi ħaġa"
     },
     {
       "surface": "יגש",
-      "gloss": "jersaq"
+      "gloss": "jaqreb"
     },
     {
       "surface": "אלהם",
       "gloss": "lejhom"
     }
   ],
-  "timestamp": "2026-10-21T16:22:40.404375168Z",
+  "timestamp": "2026-10-22T00:13:10.804579186Z",
   "model": "glm-5.3"
 }

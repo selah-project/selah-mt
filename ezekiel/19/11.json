@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לה",
-      "rationale": "Il-prepożizzjoni Lhudi ġiet mgħoddija fi 'kellha' fit-traduzzjoni."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מטות\/שבטי",
-      "rationale": "Il-ġemgħa ta' friegħi (מטה) u xettri (שבט) hija l-istess firxa semantika: il-friegħa qawwija tas-sija huma l-ħakkiema ta' Ġuda."
-    }
-  ],
-  "translation": "U kellha friegħi ta' qawwa għal xettri ta' dawk li jħakmu, u tqilgħet il-qama tagħha bejn il-friegħi spessi, u dehret fil-għoli tagħha fir-rabta ta' friegħiha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/19\/9-12.1792614394983.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U kienetilha friegħi qawwija għal xċetri ta' dawk li jħakmu, u tela' t-tul tagħha bejn id-densji ta' friegħi, u dehret fil-għoli tagħha bin-numru kbir ta' friegħiha.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "U kellha"
+      "gloss": "u kienetilha"
     },
     {
       "surface": "לה",
-      "gloss": ""
+      "gloss": "tagħha"
     },
     {
       "surface": "מטות",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עז",
-      "gloss": "ta' qawwa"
+      "gloss": "qawwija"
     },
     {
       "surface": "אל",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "שבטי",
-      "gloss": "xettri ta'"
+      "gloss": "xċetri"
     },
     {
       "surface": "משלים",
-      "gloss": "dawk li jħakmu"
+      "gloss": "ta' dawk li jħakmu"
     },
     {
       "surface": "ותגבה",
-      "gloss": "u tqilgħet"
+      "gloss": "u tela'"
     },
     {
       "surface": "קומתו",
-      "gloss": "il-qama tagħha"
+      "gloss": "t-tul tagħha"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "bejn"
     },
     {
       "surface": "בין",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "עבתים",
-      "gloss": "il-friegħi spessi"
+      "gloss": "densji ta' friegħi"
     },
     {
       "surface": "וירא",
@@ -86,13 +65,13 @@
     },
     {
       "surface": "ברב",
-      "gloss": "fir-rabta"
+      "gloss": "bin-numru kbir"
     },
     {
       "surface": "דליתיו",
       "gloss": "ta' friegħiha"
     }
   ],
-  "timestamp": "2026-10-21T20:26:34.984723253Z",
+  "timestamp": "2026-10-22T00:16:49.938573396Z",
   "model": "glm-5.3"
 }

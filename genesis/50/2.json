@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הרפאים",
-      "rationale": "The root רפא means 'to heal'; the healers (physicians) are the ones who embalm — the same word kept both times, as in Hebrew."
-    }
-  ],
-  "translation": "U Jossif amar lil qaddejja tiegħu, lit-tobba, biex jimbalmaw lil missieru, u t-tobba jimbalmaw lil Jisrael.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "6de483df7cd332d2c50869e4162bdf6560f779e247c4efab0d2b67198531b620",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/50\/1-4.1792599191528.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jossif ordna lil ⟨את⟩ qaddejja tiegħu, ⟨את⟩ l-fejqan, biex iħantru lil ⟨את⟩ missieru; u l-fejqan ħantru lil ⟨את⟩ Jisrael.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "u amar"
+      "gloss": "ordna"
     },
     {
       "surface": "יוסף",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil qaddejja tiegħu"
+      "marks": "qaddejja tiegħu"
     },
     {
       "surface": "עבדיו",
@@ -43,20 +27,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lit-tobba"
+      "marks": "l-fejqan"
     },
     {
       "surface": "הרפאים",
-      "gloss": "it-tobba"
+      "gloss": "l-fejqan"
     },
     {
       "surface": "לחנט",
-      "gloss": "biex jimbalmaw"
+      "gloss": "biex iħantru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil missieru"
+      "marks": "missieru"
     },
     {
       "surface": "אביו",
@@ -64,22 +48,22 @@
     },
     {
       "surface": "ויחנטו",
-      "gloss": "u jimbalmaw"
+      "gloss": "ħantru"
     },
     {
       "surface": "הרפאים",
-      "gloss": "it-tobba"
+      "gloss": "l-fejqan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Jisrael"
+      "marks": "Jisrael"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T16:13:11.529485953Z",
+  "timestamp": "2026-10-22T00:24:21.408209917Z",
   "model": "glm-5.3"
 }

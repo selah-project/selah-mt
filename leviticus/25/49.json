@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "השיגה ידו",
-      "rationale": "litteralment 'idu waslet' — idiom għal 'sabit il-ħila'; il-forma litterali miżmuma"
-    }
-  ],
-  "translation": "jew zijuh jew iben zijuh jifdinh, jew minn baqja ta' laħmu, mill-familja tiegħu jifdinh; jew, jekk idu waslet, u jinfed.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "125238ef727bdb1afe699b3eac5f861741687a04759881d9709f19a8507537f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/25\/49-52.1792601235196.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jew zijuh, jew iben zijuh, jifdih; jew xi ħadd min-nies ta' ġisimtu, minn familja tiegħu, jifdih; jew jekk idu tilħaq ⟨biżżejjed⟩, u jifdi lilu nnifsu.",
   "tokens": [
     {
       "surface": "או",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "יגאלנו",
-      "gloss": "jifdinh"
+      "gloss": "jifdih"
     },
     {
       "surface": "או",
@@ -53,19 +37,19 @@
     },
     {
       "surface": "משאר",
-      "gloss": "minn baqja"
+      "gloss": "min-nies qrib"
     },
     {
       "surface": "בשרו",
-      "gloss": "ta' laħmu"
+      "gloss": "ta' ġisimtu"
     },
     {
       "surface": "ממשפחתו",
-      "gloss": "mill-familja tiegħu"
+      "gloss": "minn familja tiegħu"
     },
     {
       "surface": "יגאלנו",
-      "gloss": "jifdinh"
+      "gloss": "jifdih"
     },
     {
       "surface": "או",
@@ -73,21 +57,17 @@
     },
     {
       "surface": "השיגה",
-      "gloss": "waslet"
+      "gloss": "tilħaq"
     },
     {
       "surface": "ידו",
       "gloss": "idu"
     },
     {
-      "surface": "ידו",
-      "gloss": ""
-    },
-    {
       "surface": "ונגאל",
-      "gloss": "u jinfed"
+      "gloss": "u jifdi lilu nnifsu"
     }
   ],
-  "timestamp": "2026-10-21T16:47:15.197030101Z",
+  "timestamp": "2026-10-22T00:41:18.461900919Z",
   "model": "glm-5.3"
 }

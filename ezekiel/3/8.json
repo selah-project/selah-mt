@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חזק",
-      "rationale": "l-għerq חזק jidher tliet darbiet (ħażżin ta' quddiem v.7, wiċċ Eżekjel hawn) — Alla jaqbel lill-ilsien ma' ħażżin b'Ħażżin"
-    },
-    {
-      "kind": "addition",
-      "subject": "jien",
-      "rationale": "suffiss f'נתתי (l-ewwel persuna) spieġat b'jien għall-ċarezza"
-    }
-  ],
-  "translation": "Ara, jien għamilt wiċċċok iebsa kontra wċcuhom, u frontik iebsa kontra frontihom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "128f526aee59ddf03590506a540fcea19e4a163f08a702048ca8921af5e2c34a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/3\/5-8.1792614029621.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ara, jien għamilt ⟨את⟩ wiċċak b'saħħtu quddiem wċuħhom, u ⟨את⟩ ħaddejk b'saħħtu quddiem ħaddejhomm.",
   "tokens": [
     {
       "surface": "הנה",
@@ -34,51 +13,51 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "għamilt"
+      "gloss": "jien għamilt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wiċċok"
+      "marks": "wiċċak"
     },
     {
       "surface": "פניך",
-      "gloss": "wiċċok"
+      "gloss": "wiċċak"
     },
     {
       "surface": "חזקים",
-      "gloss": "iebsa"
+      "gloss": "b'saħħtu"
     },
     {
       "surface": "לעמת",
-      "gloss": "kontra"
+      "gloss": "quddiem"
     },
     {
       "surface": "פניהם",
-      "gloss": "wċcuhom"
+      "gloss": "wċuħhom"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "frontik"
+      "marks": "ħaddejk"
     },
     {
       "surface": "מצחך",
-      "gloss": "frontik"
+      "gloss": "ħaddejk"
     },
     {
       "surface": "חזק",
-      "gloss": "iebsa"
+      "gloss": "b'saħħtu"
     },
     {
       "surface": "לעמת",
-      "gloss": "kontra"
+      "gloss": "quddiem"
     },
     {
       "surface": "מצחם",
-      "gloss": "frontihom"
+      "gloss": "ħaddejhomm"
     }
   ],
-  "timestamp": "2026-10-21T20:20:29.622832439Z",
+  "timestamp": "2026-10-22T00:17:12.117203808Z",
   "model": "glm-5.3"
 }

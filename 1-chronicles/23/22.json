@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "rġiel",
-      "rationale": "L-Lhudi jgħid biss 'ulied'; il-Malti jrid jispeċifika."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "L-ewwelazzjoni Lhudija 'ki im' = 'għax ... biss'."
-    },
-    {
-      "kind": "addition",
-      "subject": "marti",
-      "rationale": "נשא m'għidx biss 'ħa' — hawn tfisser 'ħa martu'; miżjud biex ikun ċar."
-    }
-  ],
-  "translation": "U Elazar miet, u ma kellux ulied ⟨rġiel⟩ għax bint biss; u ulied Qix, aħwa tagħhom, ħaduħom ⟨marti⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1fcc946415d705cc304b9cdd78c87216a0535095103030dd6d1e514e57ac6bf2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/23\/21-24.1792622043633.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Elazar miet, u ma kellux ulied subien, għax bintiethom biss, u wlied Qiix, il-aħwa tagħhom, ħaduhom maħruba ⟨jiżżewġuhom⟩.",
   "tokens": [
     {
       "surface": "וימת",
-      "gloss": "U miet"
+      "gloss": "u miet"
     },
     {
       "surface": "אלעזר",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "היו",
-      "gloss": "kellux"
+      "gloss": "kellu"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "lu"
     },
     {
       "surface": "בנים",
-      "gloss": "uled"
+      "gloss": "ulied subien"
     },
     {
       "surface": "כי",
@@ -67,25 +41,25 @@
     },
     {
       "surface": "בנות",
-      "gloss": "bint"
+      "gloss": "bintiethom"
     },
     {
       "surface": "וישאום",
-      "gloss": "ħaduħom"
+      "gloss": "u ħaduhom"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "קיש",
-      "gloss": "Qix"
+      "gloss": "Qiix"
     },
     {
       "surface": "אחיהם",
-      "gloss": "aħwa tagħhom"
+      "gloss": "il-aħwa tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T22:34:03.634280885Z",
+  "timestamp": "2026-10-22T00:51:56.340488521Z",
   "model": "glm-5.3"
 }

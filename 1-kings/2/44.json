@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בראשך",
-      "rationale": "fuq rashok — idjomm Lhudi għal rikorso fuq wieħed nnifsu, maġbura litteralment"
-    },
-    {
-      "kind": "you",
-      "subject": "Ximxi",
-      "rationale": "sentenza tar-re maħsuba direttament lil Ximxi"
-    }
-  ],
-  "translation": "U r-re qal lil Ximxi: Inti taf ⟨את⟩ il-ħażin kollu li taf qalbek, li għamilt lil David missieri; u Jaħwe se jerġa' jqiegħed il-ħażin tiegħek fuq rashok.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/2\/41-44.1792609365402.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-melik qal lil Shimxi: Int taf ⟨את⟩ il-ħażara kollha li taf qalbek li għamilt lil David missieri; u Jaħwe jirritorna ⟨את⟩ il-ħażara tiegħek fuq rasek.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "il-melik"
     },
     {
       "surface": "אל",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "שמעי",
-      "gloss": "Ximxi"
+      "gloss": "Shimxi"
     },
     {
       "surface": "אתה",
-      "gloss": "Inti"
+      "gloss": "int"
     },
     {
       "surface": "ידעת",
@@ -55,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ħażin kollu"
+      "marks": "il-ħażara kollha"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "הרעה",
-      "gloss": "il-ħażin"
+      "gloss": "il-ħażara"
     },
     {
       "surface": "אשר",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "והשיב",
-      "gloss": "u jerġa' jqiegħed"
+      "gloss": "jirritorna"
     },
     {
       "surface": "יהוה",
@@ -104,17 +83,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ħażin tiegħek"
+      "marks": "il-ħażara tiegħek"
     },
     {
       "surface": "רעתך",
-      "gloss": "il-ħażin tiegħek"
+      "gloss": "il-ħażara tiegħek"
     },
     {
       "surface": "בראשך",
-      "gloss": "fuq rashok"
+      "gloss": "fuq rasek"
     }
   ],
-  "timestamp": "2026-10-21T19:02:45.403750330Z",
+  "timestamp": "2026-10-21T23:57:13.020716024Z",
   "model": "glm-5.3"
 }

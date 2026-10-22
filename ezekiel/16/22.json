@@ -5,91 +5,71 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ערם ועריה",
-      "rationale": "żewġ kelmiet għal wiċċ wieħed — 'mikxufa u għarwien' iżżomm iż-żewġ forom tal-Lhudi."
-    },
-    {
-      "kind": "elision",
-      "subject": "ואת כל תועבתיך",
-      "rationale": "l-għanja waħda 'lil ⟨את⟩ \/ f'kollu' tiżmell id-dawl ta' ואת bħala prepożizzjoni, mhux bħala marka tal-oġġett biss."
-    }
-  ],
-  "translation": "U ma ftakartx, f'kull moħżok u s-sħaqarek, lil ⟨את⟩ jiem żgħożagħek, meta konti mikxufa u għarwien, u mittkiekda fid-demm tiegħek konti int.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "04c8bb08b3ec3732714ea3ff85375fe999c2582d6214ae6e4ee4348f629d39ed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/16\/21-24.1792614363461.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ma' ⟨את⟩ l-għidbiriet kollha tiegħek u ma' ż-żiena tiegħek, ma ftakartx f'jumijiet iż-żgħożirk, meta kont mikxuf u għarwiena, mixħuta f'demmok kont.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "lil ⟨את⟩"
+      "gloss": "ma' ⟨את⟩",
+      "marks": "l-għidbiriet kollha tiegħek"
     },
     {
       "surface": "כל",
-      "gloss": "f'kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "תועבתיך",
-      "gloss": "moħżok"
+      "gloss": "l-għidbiriet tiegħek"
     },
     {
       "surface": "ותזנתיך",
-      "gloss": "u s-sħaqarek"
+      "gloss": "u ż-żiena tiegħek"
     },
     {
       "surface": "לא",
-      "gloss": "ma... x"
+      "gloss": "ma ... x"
     },
     {
       "surface": "זכרתי",
-      "gloss": "ftakartx"
+      "gloss": "ftakart"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jiem żgħożagħek"
+      "marks": "jumijiet iż-żgħożirk"
     },
     {
       "surface": "ימי",
-      "gloss": "jiem"
+      "gloss": "jumijiet"
     },
     {
       "surface": "נעוריך",
-      "gloss": "żgħożagħek"
+      "gloss": "ta' żgħożirk"
     },
     {
       "surface": "בהיותך",
-      "gloss": "meta konti"
+      "gloss": "meta kont"
     },
     {
       "surface": "ערם",
-      "gloss": "mikxufa"
+      "gloss": "mikxuf"
     },
     {
       "surface": "ועריה",
-      "gloss": "u għarwien"
+      "gloss": "u għarwiena"
     },
     {
       "surface": "מתבוססת",
-      "gloss": "mittkiekda"
+      "gloss": "mixħuta"
     },
     {
       "surface": "בדמך",
-      "gloss": "fid-demm tiegħek"
+      "gloss": "f'demmok"
     },
     {
       "surface": "היית",
-      "gloss": "konti"
+      "gloss": "kont"
     }
   ],
-  "timestamp": "2026-10-21T20:26:03.462324545Z",
+  "timestamp": "2026-10-22T00:15:49.918912477Z",
   "model": "glm-5.3"
 }

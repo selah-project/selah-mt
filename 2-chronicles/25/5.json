@@ -5,42 +5,20 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ċens",
-      "rationale": "għadd ta' żerriegħa minn għoxrin sena 'l fuq: tlett mija elf raġel — l-istruttura kollha tal-vers hija għadd u organizzazzjoni"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בחור",
-      "gloss-note": "",
-      "rationale": "בחור huwa 'magħżul', għelejja ta' בחר (jagħżel); mhux sempliċiment 'żagħżugħ'"
-    }
-  ],
-  "translation": "U Amascjahu ġabar ⟨את⟩ lil-Jehuda u irranġahom skont djar ta' missirijiet, għall-kmandanti tal-eluf u għall-kmandanti tal-mijiet, għal Jehuda u Binjamin kollha; u għaddarhom minn ibn għoxrin sena 'l fuq, u sabhom tlett mija elf magħżul joħroġ għall-gwerra, li jżomm r-romħ u t-tarka.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/25\/5-8.1792622714604.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Amatsjahu ġabar lil ⟨את⟩ Jehuda u feġġahom skont id-djar ta' missirijietihom, taħtetakners tal-eluf u takners tal-mijiet, għal Jehuda u Binjamin kollha; u għaddihom minn iben għoxrin sena 'l fuq, u sabhom tlett mija elf magħżula, joħorġu għall-ġlied, jżomm rummien u tarka.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "U ġabar"
+      "gloss": "u ġabar"
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amascjahu"
+      "gloss": "Amatsjahu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil-Jehuda"
+      "marks": "Jehuda"
     },
     {
       "surface": "יהודה",
@@ -48,19 +26,19 @@
     },
     {
       "surface": "ויעמידם",
-      "gloss": "u irranġahom"
+      "gloss": "u feġġahom"
     },
     {
       "surface": "לבית",
-      "gloss": "skont djar"
+      "gloss": "skont id-djar"
     },
     {
       "surface": "אבות",
-      "gloss": "ta' missirijiet"
+      "gloss": "ta' missirijietihom"
     },
     {
       "surface": "לשרי",
-      "gloss": "għall-kmandanti"
+      "gloss": "taħt takners"
     },
     {
       "surface": "האלפים",
@@ -68,7 +46,7 @@
     },
     {
       "surface": "ולשרי",
-      "gloss": "u għall-kmandanti"
+      "gloss": "u taħt takners"
     },
     {
       "surface": "המאות",
@@ -88,11 +66,11 @@
     },
     {
       "surface": "ויפקדם",
-      "gloss": "u għaddarhom"
+      "gloss": "u għaddihom"
     },
     {
       "surface": "למבן",
-      "gloss": "minn ibn"
+      "gloss": "minn iben"
     },
     {
       "surface": "עשרים",
@@ -124,29 +102,29 @@
     },
     {
       "surface": "בחור",
-      "gloss": "magħżul"
+      "gloss": "magħżula"
     },
     {
       "surface": "יוצא",
-      "gloss": "joħroġ"
+      "gloss": "joħorġu"
     },
     {
       "surface": "צבא",
-      "gloss": "għall-gwerra"
+      "gloss": "għall-ġlied"
     },
     {
       "surface": "אחז",
-      "gloss": "li jżomm"
+      "gloss": "jżomm"
     },
     {
       "surface": "רמח",
-      "gloss": "r-romħ"
+      "gloss": "rummien"
     },
     {
       "surface": "וצנה",
-      "gloss": "u t-tarka"
+      "gloss": "u tarka"
     }
   ],
-  "timestamp": "2026-10-21T22:45:14.605483641Z",
+  "timestamp": "2026-10-22T00:01:57.071735351Z",
   "model": "glm-5.3"
 }

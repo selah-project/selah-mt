@@ -5,50 +5,24 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lill-poplu ta' Israel",
-      "rationale": "Kelma diretta ta' Jehu lill-poplu miġbur."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מעט\/הרבה",
-      "rationale": "Antitesi ftit\/ħafna fl-istess struttura verbali עבד\/יעבדנו — żvilupp retoriku ta' qlub."
-    },
-    {
-      "kind": "crux",
-      "subject": "Baʿal",
-      "rationale": "Il-għajn f'בעל ma tgħaddix fl-alfabett Malti; 'Bagħal' jkolliilha kelma oħra (il-ħmar), għalhekk Baʿal bil-vuċi ta' quddiem."
-    }
-  ],
-  "translation": "U Jehu ġabar ⟨את⟩ in-nies kollha u qalilhom: Aħav serva ⟨את⟩ lil-Baʿal ftit; Jehu jaqdiħ ħafna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/10\/17-20.1792610373517.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jeħu ġabar lil ⟨את⟩ kulless nies u qalilhom: Aħab qasir lil ⟨את⟩ Baal ftit, u Jeħu jħarristu ħafna.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "U ġabar"
+      "gloss": "ġabar"
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehu"
+      "gloss": "Jeħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "in-nies kollha"
+      "marks": "kulless nies"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "העם",
@@ -56,28 +30,28 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "u qalilhom"
+      "gloss": "qal"
     },
     {
       "surface": "אלהם",
-      "gloss": "lilhom"
+      "gloss": "lhom"
     },
     {
       "surface": "אחאב",
-      "gloss": "Aħav"
+      "gloss": "Aħab"
     },
     {
       "surface": "עבד",
-      "gloss": "serva"
+      "gloss": "qasir \/ serva"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil-Baʿal"
+      "marks": "Baal"
     },
     {
       "surface": "הבעל",
-      "gloss": "Baʿal"
+      "gloss": "lill-Baal"
     },
     {
       "surface": "מעט",
@@ -85,17 +59,17 @@
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehu"
+      "gloss": "Jeħu"
     },
     {
       "surface": "יעבדנו",
-      "gloss": "jaqdiħ"
+      "gloss": "iservuh"
     },
     {
       "surface": "הרבה",
       "gloss": "ħafna"
     }
   ],
-  "timestamp": "2026-10-21T19:19:33.518739899Z",
+  "timestamp": "2026-10-22T00:02:56.790851486Z",
   "model": "glm-5.3"
 }

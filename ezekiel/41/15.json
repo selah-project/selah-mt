@@ -5,38 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל · על",
-      "gloss": "",
-      "rationale": "L-ebda slaġ mil-Malti”: ”Prepożizzjonijiet Lhud mgħoddija għal-Malti mingħajr laqam分离at."
-    },
-    {
-      "kind": "measurement",
-      "subject": "mija amma",
-      "rationale": "Il-bini quddiem il-għażla, b'galleriji fuq iż-żewġ naħat: mija amma."
-    },
-    {
-      "kind": "alternative",
-      "subject": "מפו ומפו",
-      "rationale": "Sir 'minn hawn u minn hemm'; jista' jkun ukoll 'fuq din in-naħa u fuq dik in-naħa'."
-    }
-  ],
-  "translation": "U kejjel it-tul tal-bini quddiem il-post separat li kien warajh, u l-galleriji tagħha minn hawn u minn hemm, mija amma; u l-ħajkal ta' ġewwa, u l-portiċi tal-bitħa,",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e20a09c63aa45f132c38cd9c079756d4d65c4cf64208f626f96d1a0750ba6def",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/41\/13-16.1792615178754.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U kejjel it-tul tal-bini quddiem il-post imqassam li kien warajh, fl-istejġer tiegħu minn din in-naħa u minn din in-naħa, mija eme, u t-tempju ta' ġewwa u l-portiċi tal-bitħa.",
   "tokens": [
     {
       "surface": "ומדד",
-      "gloss": "u kejjel"
+      "gloss": "U kejjel"
     },
     {
       "surface": "ארך",
@@ -48,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "פני",
       "gloss": "quddiem"
     },
     {
+      "surface": "פני",
+      "gloss": "il-wiċċ ta'"
+    },
+    {
       "surface": "הגזרה",
-      "gloss": "il-post separat"
+      "gloss": "il-post imqassam"
     },
     {
       "surface": "אשר",
@@ -64,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "fuq"
     },
     {
       "surface": "אחריה",
@@ -72,15 +45,15 @@
     },
     {
       "surface": "ואתוקיהא",
-      "gloss": "u l-galleriji tagħha"
+      "gloss": "fl-istejġer tiegħu"
     },
     {
       "surface": "מפו",
-      "gloss": "minn hawn"
+      "gloss": "minn din in-naħa"
     },
     {
       "surface": "ומפו",
-      "gloss": "u minn hemm"
+      "gloss": "u minn din in-naħa"
     },
     {
       "surface": "מאה",
@@ -88,11 +61,11 @@
     },
     {
       "surface": "אמה",
-      "gloss": "amma"
+      "gloss": "eme"
     },
     {
       "surface": "וההיכל",
-      "gloss": "u l-ħajkal"
+      "gloss": "u t-tempju"
     },
     {
       "surface": "הפנימי",
@@ -107,6 +80,6 @@
       "gloss": "tal-bitħa"
     }
   ],
-  "timestamp": "2026-10-21T20:39:38.754886968Z",
+  "timestamp": "2026-10-22T00:18:58.279403933Z",
   "model": "glm-5.3"
 }

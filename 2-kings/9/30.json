@@ -5,45 +5,23 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-koħl",
-      "rationale": "בפוך huwa stibju (antimonju) — żebgħa suwed għall-għejun; 'pukk' huwa l-ħoss Lhudi iżda 'koħl' huwa l-kelma għalih."
-    },
-    {
-      "kind": "crux",
-      "subject": "u żżejjet rasha",
-      "rationale": "ותיטב: 'żejnet\/rriżenjat rash' (minn טוב, sabiħ) kontra 'fissret\/fissret rash' — KJV 'tired her head' vs JPS 'attired her head'; it-tifsira litreriċi hija 'għamlet sabiħ rasatha'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ħrġet tagħti ħarsa",
-      "rationale": "ותשקף litteralment 'xettet ġisimha 'l barra mill-fniek' — taħt l-att dovut: Iżżevel toħroġ bil-wiċċ tagħha, mhux biss biex tara."
-    }
-  ],
-  "translation": "U Jehu daħal ġo Jizreel, u Iżżevel semgħet, u poġġiet il-koħl fuq għajnejha u żżejjet ⟨את⟩ rasha, u ħarġet tagħti ħarsa minn ġo t-tieqa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "803b31d98c1257602375e485f8f5dec46096754562584dfce6c656b1e44f6a9f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/9\/29-30.1792623413897.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jeħu daħal f'Jizreʾel, u Iżżebel semgħet, u messit l-għajnejnha bil-pukk, u ddekkret ⟨את⟩ rashom — raġġsetha — u ġarrset 'il barra mill-finestra.",
   "tokens": [
     {
-      "surface": "ובוא יהוא",
-      "gloss": "U daħal Jehu"
+      "surface": "ויבוא",
+      "gloss": "daħal"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jeħu"
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "ġo Jizreel"
+      "gloss": "f'Jizreʾel"
     },
     {
       "surface": "ואיזבל",
-      "gloss": "u Iżżevel"
+      "gloss": "u Iżżebel"
     },
     {
       "surface": "שמעה",
@@ -51,42 +29,42 @@
     },
     {
       "surface": "ותשם",
-      "gloss": "u poġġiet"
+      "gloss": "messit"
     },
     {
       "surface": "בפוך",
-      "gloss": "il-koħl"
+      "gloss": "bil-pukk"
     },
     {
       "surface": "עיניה",
-      "gloss": "fuq għajnejha"
+      "gloss": "l-għajnejnha"
     },
     {
       "surface": "ותיטב",
-      "gloss": "u żżejjet"
+      "gloss": "ddekkret"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rasha"
+      "marks": "raġġsetha"
     },
     {
       "surface": "ראשה",
-      "gloss": "⟨את⟩ rasha"
+      "gloss": "raġġsetha"
     },
     {
       "surface": "ותשקף",
-      "gloss": "u ħarġet tagħti ħarsa"
+      "gloss": "ġarrset 'il barra"
     },
     {
       "surface": "בעד",
-      "gloss": "minn ġo"
+      "gloss": "minn"
     },
     {
       "surface": "החלון",
-      "gloss": "it-tieqa"
+      "gloss": "il-finestra"
     }
   ],
-  "timestamp": "2026-10-21T22:56:53.898067001Z",
+  "timestamp": "2026-10-22T00:05:39.719839671Z",
   "model": "glm-5.3"
 }

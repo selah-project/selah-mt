@@ -5,28 +5,7 @@
   "book": "daniel",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "l-ġarriba",
-      "rationale": "גזר 'iddeċiedi\/jagħżel' — il-Kaldejani li jiddeterminaw; 'ġarriba' miħdut mill-għerq biex izomm il-forma"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אמר אנה",
-      "rationale": "l-azzjoni fil-passat hi 'għidt' (Maltesi) iżda l-Aramajk juża l-partiċipju 'qiegħed ngħid' — l-istess forma ta' quddiem"
-    }
-  ],
-  "translation": "Imbagħad daħlu s-saħħara, l-astoloġi, il-Kasdim u l-ġarriba; u l-ħolma għidt jiena quddiemhom, u l-pishra tagħha ma jagħrfunix lija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fe8fc4401b7d4a5bffad58074d4f8642da3aef33444e0dc32066e41928565eaf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/4\/3-4.1792623989634.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imbagħad daħlu s-saħrar, l-għorrief tal-istjuni, il-Kasdaj u dawk li jiddeċiedu; u l-ħolma għidt jien quddiemhom, iżda t-tifsira tagħha ma għarrfunihiex.",
   "tokens": [
     {
       "surface": "באדין",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "חרטמיא",
-      "gloss": "is-saħħara"
+      "gloss": "is-saħrar"
     },
     {
       "surface": "אשפיא",
-      "gloss": "l-astoloġi"
+      "gloss": "l-għorrief tal-istjuni"
     },
     {
       "surface": "כשדיא",
-      "gloss": "il-Kasdim"
+      "gloss": "il-Kasdaj"
     },
     {
       "surface": "וגזריא",
-      "gloss": "u l-ġarriba"
+      "gloss": "ud-dawk li jiddeċiedu"
     },
     {
       "surface": "וחלמא",
-      "gloss": "u l-ħolma"
+      "gloss": "l-ħolma"
     },
     {
       "surface": "אמר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אנה",
-      "gloss": "jiena"
+      "gloss": "jien"
     },
     {
       "surface": "קדמיהון",
@@ -70,21 +49,21 @@
     },
     {
       "surface": "ופשרה",
-      "gloss": "u l-pishra tagħha"
+      "gloss": "it-tifsira tagħha"
     },
     {
       "surface": "לא",
-      "gloss": "ma ... x"
+      "gloss": "ma"
     },
     {
       "surface": "מהודעין",
-      "gloss": "jagħrfu"
+      "gloss": "għarrfunihiex"
     },
     {
-      "surface": "lija",
-      "gloss": "lija"
+      "surface": "לי",
+      "gloss": "li"
     }
   ],
-  "timestamp": "2026-10-21T23:06:29.635697915Z",
+  "timestamp": "2026-10-22T00:08:19.693930043Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "אותו",
-      "rationale": "hawn אִתּוֹ tfisser 'miegħu' (ma' + suffiss), mhux l-illumin את bħala marka tal-obiċċett"
-    }
-  ],
-  "translation": "U mellied Jaħwe kellem lil Elijaħ: Inżel miegħu, la tibżax minnu; u qagħad u niżel miegħu għand is-sultan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/1\/13-16.1792610164111.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mibgħut Jaħwe qal lil Elijaħ: Inżel ⟨את⟩ miegħu, la tibżax minnu. U qam u niżel ⟨את⟩ miegħu għand is-sultan.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "kellem"
+      "gloss": "u qal"
     },
     {
       "surface": "מלאך",
-      "gloss": "mellied"
+      "gloss": "mibgħut"
     },
     {
       "surface": "יהוה",
@@ -45,11 +29,12 @@
     },
     {
       "surface": "רד",
-      "gloss": "Inżel"
+      "gloss": "inżel"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩",
+      "marks": "miegħu"
     },
     {
       "surface": "אל",
@@ -65,15 +50,16 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "qagħad"
+      "gloss": "u qam"
     },
     {
       "surface": "וירד",
-      "gloss": "niżel"
+      "gloss": "u niżel"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩",
+      "marks": "miegħu"
     },
     {
       "surface": "אל",
@@ -84,6 +70,6 @@
       "gloss": "is-sultan"
     }
   ],
-  "timestamp": "2026-10-21T19:16:04.113120572Z",
+  "timestamp": "2026-10-22T00:03:12.998529901Z",
   "model": "glm-5.3"
 }

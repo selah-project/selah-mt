@@ -5,37 +5,16 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tenufa",
-      "rationale": "תנופה hija l-ġest ta' ġejjer l-offerta 'l fuq u 'l isfel; il-kelma titla' lil hinn minn 'wave offering' standard"
-    },
-    {
-      "kind": "alternative",
-      "subject": "inbid",
-      "rationale": "il-vers jisgħu lill-Nażir li jixrob inbid għal darba oħra — in-nizr tiegħu spiċċa"
-    }
-  ],
-  "translation": "U l-qassis jagħmilhom tenufa quddiem Jaħwe; huwa qaddis għall-qassis, mas-sider tat-tenufa u mar-riġel tat-truma; u wara dan in-Nażir jixrob inbid.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5c0c6a99105a177a605235c94bf6c3b575be447c9ed9022b1c168e65fb1e3968",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/6\/17-20.1792602502413.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis iġorrhom b'offerta tal-milja ⟨את⟩ quddiem Jaħwe; qaddis hi għall-qassis, flimkien ma' sider l-offerta tal-milja u ma' sider it-tilda; u wara dan in-Nażir jista' jixrob inbid.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "u jagħmilhom tenufa"
+      "gloss": "u iġorr b'milja"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom",
-      "marks": "l-offerti (l-id, il-ħobża, ir-rqiq)"
+      "gloss": "⟨את⟩",
+      "marks": "il-qtar (l-ikel u l-ider imsemma fl-aħħar)"
     },
     {
       "surface": "הכהן",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "tenufa"
+      "gloss": "offerta tal-milja"
     },
     {
       "surface": "לפני",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "huwa"
+      "gloss": "hi"
     },
     {
       "surface": "לכהן",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "על",
-      "gloss": "ma'"
+      "gloss": "flimkien ma'"
     },
     {
       "surface": "חזה",
-      "gloss": "is-sider"
+      "gloss": "sider"
     },
     {
       "surface": "התנופה",
-      "gloss": "tat-tenufa"
+      "gloss": "l-offerta tal-milja"
     },
     {
       "surface": "ועל",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "שוק",
-      "gloss": "ir-riġel"
+      "gloss": "sider"
     },
     {
       "surface": "התרומה",
-      "gloss": "tat-truma"
+      "gloss": "it-tilda"
     },
     {
       "surface": "ואחר",
-      "gloss": "u wara"
+      "gloss": "u wara dan"
     },
     {
       "surface": "ישתה",
@@ -106,6 +85,6 @@
       "gloss": "inbid"
     }
   ],
-  "timestamp": "2026-10-21T17:08:22.417438593Z",
+  "timestamp": "2026-10-22T00:47:24.359090822Z",
   "model": "glm-5.3"
 }

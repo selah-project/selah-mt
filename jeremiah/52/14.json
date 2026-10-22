@@ -5,33 +5,12 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "את רב טבחים",
-      "rationale": "here את is the preposition 'with', not the direct-object marker; rendered 'ma''."
-    },
-    {
-      "kind": "crux",
-      "subject": "רב טבחים",
-      "rationale": "literally 'chief of the butchers\/executioners'; versions give 'captain of the guard' — Maltese keeps the literal 'kap tat-tabbaħ'."
-    }
-  ],
-  "translation": "U ⟨את⟩ l-ħitan kollha ta' Jeruxalajim minn kulamma twaqqgħuhom il-ġemgħa kollha tal-Kasdaj li ⟨kienet⟩ ma' Nevużaradan, kap tat-tabbaħ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/52\/13-16.1792613999273.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ il-ħitan kollha ta' Jeruxalajim madwarha kienu migħrġin minn kollha s-saħħa tal-Kasdej li kienet ⟨את⟩ ma' l-imgħallem tal-ħassaba.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "l-ħitan kollha"
+      "gloss": "⟨את⟩",
+      "marks": "il-ħitan kollha"
     },
     {
       "surface": "כל",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "חמות",
-      "gloss": "l-ħitan"
+      "gloss": "il-ħitan"
     },
     {
       "surface": "ירושלם",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "סביב",
-      "gloss": "minn kulamma"
+      "gloss": "madwarha"
     },
     {
       "surface": "נתצו",
-      "gloss": "twaqqgħuhom"
+      "gloss": "migħrġin"
     },
     {
       "surface": "כל",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "il-ġemgħa"
+      "gloss": "is-saħħa"
     },
     {
       "surface": "כשדים",
-      "gloss": "tal-Kasdaj"
+      "gloss": "tal-Kasdej"
     },
     {
       "surface": "אשר",
@@ -71,18 +50,18 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨ma'⟩",
-      "marks": "Nevużaradan, kap tat-tabbaħ"
+      "gloss": "⟨את⟩ ma'",
+      "marks": "l-imgħallem tal-ħassaba"
     },
     {
       "surface": "רב",
-      "gloss": "kap"
+      "gloss": "l-imgħallem"
     },
     {
       "surface": "טבחים",
-      "gloss": "tat-tabbaħ"
+      "gloss": "tal-ħassaba"
     }
   ],
-  "timestamp": "2026-10-21T20:19:59.274674740Z",
+  "timestamp": "2026-10-22T00:32:45.315216642Z",
   "model": "glm-5.3"
 }

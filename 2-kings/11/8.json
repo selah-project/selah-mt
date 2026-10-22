@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "את",
-      "rationale": "hawnhawn את (854) hija prepożizzjoni 'ma'', mhux il-markatur ta' oġġett dirett"
-    },
-    {
-      "kind": "crux",
-      "subject": "השדרות",
-      "rationale": "'saffi\/rigali' (ranks); traduzzjonijiet antiki qrawh bħala 'bit-tempju' jew 'l-bit Ⅰ— mifruxa"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-kaptini",
-      "rationale": "imperattivi plurali kontinwi tal-ordni ta' Jehojada"
-    }
-  ],
-  "translation": "u tdorru madwar ir-re, kull raġel bl-armi tiegħu f'idu; u min iddaħħal fis-saffi jinħatel; u tkunu mal-ir-re fit-tluq tiegħu u fid-dħul tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/11\/5-8.1792610371197.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tidduro bħal ċirku madwar is-sultan, kull raġel bl-armi tiegħu f'idu; u min jidħol fis-saffi jiġi mneħħi ħajju; u tkunu ma' ⟨את⟩ is-sultan meta joħroġ u meta jidħol.",
   "tokens": [
     {
       "surface": "והקפתם",
-      "gloss": "u tdorru"
+      "gloss": "U tidduro bħal ċirku"
     },
     {
       "surface": "על",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "סביב",
-      "gloss": "sħaħħaru"
+      "gloss": "bħal ċirku"
     },
     {
       "surface": "איש",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "והבא",
-      "gloss": "u min iddaħħal"
+      "gloss": "u min jidħol"
     },
     {
       "surface": "אל",
-      "gloss": "fis-"
+      "gloss": "fi"
     },
     {
       "surface": "השדרות",
-      "gloss": "saffi"
+      "gloss": "is-saffi"
     },
     {
       "surface": "יומת",
-      "gloss": "jinħatel"
+      "gloss": "jiġi mneħħi ħajju"
     },
     {
       "surface": "והיו",
@@ -83,21 +57,22 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ mal-"
+      "gloss": "⟨את⟩",
+      "marks": "is-sultan"
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "בצאתו",
-      "gloss": "fit-tluq tiegħu"
+      "gloss": "meta joħroġ"
     },
     {
       "surface": "ובבאו",
-      "gloss": "u fid-dħul tiegħu"
+      "gloss": "u meta jidħol"
     }
   ],
-  "timestamp": "2026-10-21T19:19:31.198489727Z",
+  "timestamp": "2026-10-22T00:03:32.878808293Z",
   "model": "glm-5.3"
 }

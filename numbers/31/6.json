@@ -5,16 +5,7 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 31,
-  "translation": "U Moxe bagħathom — elf għal kull tribù — għall-gwerra: ⟨את⟩ lilhom u ⟨את⟩ lil Pinħas iben Elazar il-qassis għall-gwerra, u l-istrimenti tal-qdusija u t-trombi tat-tgħajxa f'idejh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/31\/5-8.1792605078351.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe bagħat lilhom — elf għal kull tribù — għall-gwerra: lilhom u ⟨את⟩ lil Pinħas iben Elazar, il-qassis, għall-gwerra, flimkien ma' l-istrumenti tal-qdusija u t-trombi tal-għajta, f'idejh.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -22,7 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "lilhom (l-elf elf raġel)"
     },
     {
       "surface": "משה",
@@ -42,21 +34,55 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "lilhom"
     },
     {
-      "surface": "וישלח",
-      "gloss": "⟨את⟩ u bagħat"
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "lil Pinħas"
     },
     {
-      "surface": "אתם",
-      "gloss": "lilhom"
+      "surface": "פינחס",
+      "gloss": "Pinħas"
     },
     {
-      "surface": "משה",
-      "gloss": "Moxe"
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il-qassis"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "għall-gwerra"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "u l-istrumenti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tal-qdusija"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "u t-trombi"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "tal-għajta"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "f'idejh"
     }
   ],
-  "timestamp": "2026-10-21T17:51:18.352520947Z",
+  "timestamp": "2026-10-22T00:46:38.888261091Z",
   "model": "glm-5.3"
 }

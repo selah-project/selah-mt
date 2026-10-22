@@ -5,41 +5,15 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ta' xamm irfuf",
-      "rationale": "לשד השמן litteralment 'xaħma l-żejt' — ħlewwa sħiħa żejt; l-Ingliż juża 'fresh oil'"
-    },
-    {
-      "kind": "crux",
-      "subject": "xamm irfuf",
-      "rationale": "לשד: 'torta xamja' (JPS) jew 'maktuka bil-żejt' — ħlewwa mgħollija bil-żejt"
-    },
-    {
-      "kind": "substitution",
-      "subject": "l-għaġin",
-      "rationale": "עגות litteralment 'ħobż maħruq fin-nar' — ħobż tond maħmul fuq il-ħaġar sħun"
-    }
-  ],
-  "translation": "Il-poplu mxiet madwar u ġabruh, u tahnuh fir-riħen jew ħassruh fil-mħassra, u sajruh fil-kwadru, u għamlu minnu ⟨את⟩ l-għaġin; u t-togħma tiegħu kienet bħat-togħma ta' xamm irfuf bl-żejt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/11\/5-8.1792602674042.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In-nies baqgħu jduru u ġabruh, u tahnuh f'mitħna jew għat tfuh f'murtar, u sajruh f'qaspi, u għamlu minnu ⟨את⟩ il-fogazza; u kienet it-togħma tiegħu bħat-togħma tal-ħelwa taż-żejt isfar.",
   "tokens": [
     {
       "surface": "שטו",
-      "gloss": "mxiet madwar"
+      "gloss": "baqgħu jduru"
     },
     {
       "surface": "העם",
-      "gloss": "Il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "ולקטו",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ברחים",
-      "gloss": "fir-riħen"
+      "gloss": "f'mitħna"
     },
     {
       "surface": "או",
@@ -59,33 +33,32 @@
     },
     {
       "surface": "דכו",
-      "gloss": "ħassruh"
+      "gloss": "għat tfuh"
     },
     {
       "surface": "במדכה",
-      "gloss": "fil-mħassra"
+      "gloss": "f'murtar"
     },
     {
-      "surface": "ובשלuvo",
-      "gloss": "u sajruh",
-      "comment": ""
+      "surface": "ובשלו",
+      "gloss": "u sajruh"
     },
     {
       "surface": "בפרור",
-      "gloss": "fil-kwadru"
+      "gloss": "f'qaspi"
     },
     {
       "surface": "ועשו",
-      "gloss": "u għamlu"
+      "gloss": "u għamlu minnu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "l-għaġin"
+      "marks": "il-fogazza"
     },
     {
       "surface": "עגות",
-      "gloss": "l-għaġin"
+      "gloss": "il-fogazza"
     },
     {
       "surface": "והיה",
@@ -93,7 +66,7 @@
     },
     {
       "surface": "טעמו",
-      "gloss": "t-togħma tiegħu"
+      "gloss": "it-togħma tiegħu"
     },
     {
       "surface": "כטעם",
@@ -101,13 +74,13 @@
     },
     {
       "surface": "לשד",
-      "gloss": "ta' xamm irfuf"
+      "gloss": "tal-ħelwa"
     },
     {
       "surface": "השמן",
-      "gloss": "bl-żejt"
+      "gloss": "taż-żejt isfar"
     }
   ],
-  "timestamp": "2026-10-21T17:11:14.046089478Z",
+  "timestamp": "2026-10-22T00:44:53.351703544Z",
   "model": "glm-5.3"
 }

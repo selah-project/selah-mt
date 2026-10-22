@@ -5,70 +5,44 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "ir-relattiv it-tieni darba jimxa mal-partiċipju 'imxemmem' u jgħib fit-traduzzjoni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חלל \/ קדש",
-      "rationale": "il-pożizzjoni kontra pożizzjoni: xemmem (חלל) tliet darbiet, qaddis (קדש) tliet darbiet — kwart-conċentriku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לעיניהם",
-      "rationale": "'għajnejhom' — idjoma Lhudija għal 'fil-preżenza tagħhom', miżjoma litterali apposta"
-    }
-  ],
-  "translation": "U nqaddes ⟨את⟩ isemi l-kbir, imxemmem fost in-nazzjonijiet, li xemmejtu f'nofshom; u jkunu jafu n-nazzjonijiet li jien Jaħwe, jgħid Adonaj Jaħwe, meta nqaddes fikom għajnejhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "63323bee1a74de818bce36ee44e2b09a0b41ef378aa7f4ca249b5f9521734c48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/36\/21-24.1792614960838.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nsantifika ⟨את⟩ l-isem il-kbir tiegħi, il-profanat fost il-ġnus, li intomProfanajtuh fosthom; u jkunu jafu l-ġnus li jien Jaħwe, jgħid Adonaj Jaħwe, meta nkun mqaddes fikom għal għajnejhom.",
   "tokens": [
     {
       "surface": "וקדשתי",
-      "gloss": "U nqaddes"
+      "gloss": "u nsantifika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isemi l-kbir"
+      "marks": "l-isem il-kbir tiegħi"
     },
     {
       "surface": "שמי",
-      "gloss": "isemi"
+      "gloss": "l-isem tiegħi"
     },
     {
       "surface": "הגדול",
-      "gloss": "l-kbir"
+      "gloss": "il-kbir"
     },
     {
       "surface": "המחלל",
-      "gloss": "imxemmem"
+      "gloss": "il-profanat"
     },
     {
       "surface": "בגוים",
-      "gloss": "fost in-nazzjonijiet"
+      "gloss": "fost il-ġnus"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "חללתם",
-      "gloss": "xemmejtu"
+      "gloss": "intomProfanajtuh"
     },
     {
       "surface": "בתוכם",
-      "gloss": "f'nofshom"
+      "gloss": "fosthom"
     },
     {
       "surface": "וידעו",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "in-nazzjonijiet"
+      "gloss": "il-ġnus"
     },
     {
       "surface": "כי",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "בהקדשי",
-      "gloss": "meta nqaddes"
+      "gloss": "meta nkun mqaddes"
     },
     {
       "surface": "בכם",
@@ -112,9 +86,9 @@
     },
     {
       "surface": "לעיניהם",
-      "gloss": "għajnejhom"
+      "gloss": "għal għajnejhom"
     }
   ],
-  "timestamp": "2026-10-21T20:36:00.839219079Z",
+  "timestamp": "2026-10-22T00:18:00.651624914Z",
   "model": "glm-5.3"
 }

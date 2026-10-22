@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruwaħ",
-      "rationale": "נפש א hija nifs\/ħajja, mhux ruħ biss; il-glossa tuża ruwaħ skont ir-regola D2"
-    },
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "rationale": "'hemmek' ma ġietx irrepetuta bil-Malti għax tkun żejda"
-    }
-  ],
-  "translation": "u jerġgħu lura lejk b'qalbhom kollha u b'ruwaħ tagħhom fl-art ta' eżilju tagħhom, fejn ġarrbuhom hemmek, u jitolbu fit-triq tal-art tagħhom li tajt lil missirihom, u lejn il-belt li ħlit, u lejn id-dar li bnejt għal Isemek:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "79ff30be0e9d6623cac9edfca01bcbe0c283b7b26afcbf326f8567b1765fc923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/37-40.1792622368541.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jirġgħu lejk b'qalbithom kollha u bin-nifs tagħhom kollu fl-art ta' sbigħithom, fejn ħadu lilhom ⟨את⟩, u jitħabtu lejn l-art tagħhom li tajt lil missirijiethom, u lejn il-belt li għażilt, u lejn id-dar li bnejt għal-isemek.",
   "tokens": [
     {
       "surface": "ושבו",
-      "gloss": "u jerġgħu lura"
+      "gloss": "U jirġgħu"
     },
     {
       "surface": "אליך",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "בכל",
-      "gloss": "b'"
+      "gloss": "b'... kollha"
     },
     {
       "surface": "לבם",
-      "gloss": "qalbhom kollha"
+      "gloss": "qalbithom"
     },
     {
       "surface": "ובכל",
-      "gloss": "u b'"
+      "gloss": "u b'... kollu"
     },
     {
       "surface": "נפשם",
-      "gloss": "ruwaħ tagħhom kollha"
+      "gloss": "nifs tagħhom"
     },
     {
       "surface": "בארץ",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "שבים",
-      "gloss": "ta' eżilju tagħhom"
+      "gloss": "ta' sbigħithom"
     },
     {
       "surface": "אשר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "שבו",
-      "gloss": "ġarrbuhom"
+      "gloss": "ħadu"
     },
     {
       "surface": "אתם",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "והתפללו",
-      "gloss": "u jitolbu"
+      "gloss": "u jitħabtu"
     },
     {
       "surface": "דרך",
-      "gloss": "fit-triq"
+      "gloss": "lejn"
     },
     {
       "surface": "ארצם",
-      "gloss": "tal-art tagħhom"
+      "gloss": "l-art tagħhom"
     },
     {
       "surface": "אשר",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "לאבותם",
-      "gloss": "lil missirihom"
+      "gloss": "lil missirijiethom"
     },
     {
       "surface": "והעיר",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "בחרת",
-      "gloss": "ħlit"
+      "gloss": "għażilt"
     },
     {
       "surface": "ולבית",
@@ -123,9 +102,9 @@
     },
     {
       "surface": "לשמך",
-      "gloss": "għal Isemek"
+      "gloss": "għal-isemek"
     }
   ],
-  "timestamp": "2026-10-21T22:39:28.542917155Z",
+  "timestamp": "2026-10-22T00:02:54.291687428Z",
   "model": "glm-5.3"
 }

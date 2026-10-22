@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאתי את ידי",
-      "rationale": "tlugħ idejn = ħalf b'ġest, mhux sempliċiment tilqift"
-    },
-    {
-      "kind": "elision",
-      "subject": "לא",
-      "rationale": "parti mill-formula tal-ħalf אם לא"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-iġbla ta' Jisrael",
-      "rationale": "lilkom = lill-art mħabbta, fil-ħin ta' fuq il-v 6"
-    }
-  ],
-  "translation": "Għalhekk hekk jgħid Adonaj Jaħwe: Jien rfa'gt ⟨את⟩ idejja— żgur in-nazzjonijiet li għandkom madwarkom, huma se ġarrbu l-għajb tagħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "06b2597d2e50b0dda299f8134be9cb17747ec2e167e093faa17bcbd8b17b2add",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/36\/5-8.1792614945817.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għalhekk hekk jgħid Adonaj Jaħwe: Jien rfaħt ⟨את⟩ idni — jassegħaw li l-ġnus li huma madwarkom huma li jġorru l-għajb tagħhom.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Għalhekk"
+      "gloss": "għalhekk"
     },
     {
       "surface": "כה",
@@ -55,24 +29,24 @@
     },
     {
       "surface": "אני",
-      "gloss": "Jien"
+      "gloss": "jien"
     },
     {
       "surface": "נשאתי",
-      "gloss": "rfa'gt"
+      "gloss": "rfaħt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "idejja"
+      "marks": "idni"
     },
     {
       "surface": "ידי",
-      "gloss": "idejja"
+      "gloss": "idni"
     },
     {
       "surface": "אם",
-      "gloss": "żgur"
+      "gloss": "jassegħaw li"
     },
     {
       "surface": "לא",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "in-nazzjonijiet"
+      "gloss": "il-ġnus"
     },
     {
       "surface": "אשר",
@@ -88,15 +62,15 @@
     },
     {
       "surface": "לכם",
-      "gloss": "għandkom"
-    },
-    {
-      "surface": "מסביב",
       "gloss": "madwarkom"
     },
     {
+      "surface": "מסביב",
+      "gloss": "madwar"
+    },
+    {
       "surface": "המה",
-      "gloss": "huma"
+      "gloss": "huma li"
     },
     {
       "surface": "כלמתם",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "ישאו",
-      "gloss": "se ġarrbu"
+      "gloss": "jġorru"
     }
   ],
-  "timestamp": "2026-10-21T20:35:45.818919928Z",
+  "timestamp": "2026-10-22T00:18:54.429228278Z",
   "model": "glm-5.3"
 }

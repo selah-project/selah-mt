@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מות יומת",
-      "rationale": "infinitiv assolut idoppja l-verb: 'bil-mewt għandu jmut'; it-tgħakkis ta' מות\/יומת jibqa' fil-Malti b'doppja"
-    }
-  ],
-  "translation": "U Jaħwe qal lil Moxe: Il-bniedem bil-mewt għandu jmut; itremħu bl-ħaġar il-ġemgħa kollha, barra mill-kamp.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b9eaf215c8ee028124bc5cdd3bc5b328e97261029c8d5e5f4afa57c6038d9aa0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/15\/33-36.1792602784657.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe qal lil Moxe: Mewt jmut il-bniedem; jagħmlu ħaġa waħda minnu — jirgmuh bil-ġebel, il-knisja kollha, barra mill-ikkampjar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "מות",
-      "gloss": "bil-mewt"
+      "gloss": "Mewt"
     },
     {
       "surface": "יומת",
-      "gloss": "għandu jmut"
+      "gloss": "jmut"
     },
     {
       "surface": "האיש",
@@ -53,16 +37,16 @@
     },
     {
       "surface": "רגום",
-      "gloss": "itremħu"
+      "gloss": "jirgmu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "bl-ħaġar"
+      "gloss": "⟨את⟩",
+      "marks": "jhux (il-bniedem)"
     },
     {
       "surface": "באבנים",
-      "gloss": "bl-ħaġar"
+      "gloss": "bil-ġebel"
     },
     {
       "surface": "כל",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "il-ġemgħa"
+      "gloss": "il-knisja"
     },
     {
       "surface": "מחוץ",
@@ -78,9 +62,9 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "mill-kamp"
+      "gloss": "mill-ikkampjar"
     }
   ],
-  "timestamp": "2026-10-21T17:13:04.660131732Z",
+  "timestamp": "2026-10-22T00:44:40.738777104Z",
   "model": "glm-5.3"
 }

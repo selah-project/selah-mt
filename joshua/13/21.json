@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מישר",
-      "rationale": "HaMišor huwa isem propju tal-pjanura\/pjattezza tal-Moab; 'pjanura' iżżomm il-ħsieb ta' livell"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הכה",
-      "rationale": "נכה 'laħaq' (strike) għal laqgħa militari, mhux qtil dirett — f'dan il-kuntest tfisser għeleb bil-qlief"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Lista ta' bliet, territorju u plejdies — inventarju tal-fruntieri"
-    }
-  ],
-  "translation": "u l-ibliet kollha tal-pjanura, u l-mamluċ kollu ta' Siħon, sultan tal-Emoriti, li ħakem f'Ħeżbon, li Moxe laħaq ⟨את⟩ lilu u lil-nobbli ta' Midjan: ⟨את⟩ lil Evi u ⟨את⟩ lil Rekem u ⟨את⟩ lil Tsur u ⟨את⟩ lil Ħur u ⟨את⟩ lil Reva, prinċpijiet ta' Siħon, li kienu joqogħdu fl-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1e40b2b2ecabc68850feffe9029de7d0556398db8a4973938d2d009a0f203185",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/13\/21-24.1792606557047.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-ibliet kollha tal-Mixor, u r-renju kollu ta' Siħon, sultan tal-Emoriti, li ħakem f'Ħexbon — li Moxe daħbaħ lilu ⟨את⟩ u lil il-kburin ta' Midjan: ⟨את⟩ lil Evi, u ⟨את⟩ lil Rekem, u ⟨את⟩ lil Tsur, u ⟨את⟩ lil Ħur, u ⟨את⟩ lil Reva, in-nobbli ta' Siħon, dawk li kienu joqogħdu fl-art.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "u l-kollha"
+      "gloss": "u l-ibliet kollha"
     },
     {
       "surface": "ערי",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "המישר",
-      "gloss": "tal-pjanura"
+      "gloss": "tal-Mixor"
     },
     {
       "surface": "וכל",
-      "gloss": "u l-mamluċ kollu"
+      "gloss": "u r-renju kollu"
     },
     {
       "surface": "ממלכות",
-      "gloss": "mamluċ"
+      "gloss": "r-renju"
     },
     {
       "surface": "סיחון",
-      "gloss": "Siħon"
+      "gloss": "ta' Siħon"
     },
     {
       "surface": "מלך",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "בחשבון",
-      "gloss": "f'Ħeżbon"
+      "gloss": "f'Ħexbon"
     },
     {
       "surface": "אשר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "laħaq"
+      "gloss": "daħbaħ"
     },
     {
       "surface": "משה",
@@ -92,16 +66,16 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lilu"
+      "marks": "lilu (Siħon)"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "lil-nobbli ta' Midjan"
+      "gloss": "⟨את⟩",
+      "marks": "lil il-kburin ta' Midjan"
     },
     {
       "surface": "נשיאי",
-      "gloss": "nobbli"
+      "gloss": "il-kburin"
     },
     {
       "surface": "מדין",
@@ -118,7 +92,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lil Rekem"
     },
     {
@@ -127,7 +101,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lil Tsur"
     },
     {
@@ -136,7 +110,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lil Ħur"
     },
     {
@@ -145,7 +119,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lil Reva"
     },
     {
@@ -154,7 +128,7 @@
     },
     {
       "surface": "נסיכי",
-      "gloss": "prinċpijiet"
+      "gloss": "in-nobbli"
     },
     {
       "surface": "סיחון",
@@ -162,13 +136,13 @@
     },
     {
       "surface": "ישבי",
-      "gloss": "li kienu joqogħdu"
+      "gloss": "dawk li kienu joqogħdu"
     },
     {
       "surface": "הארץ",
       "gloss": "fl-art"
     }
   ],
-  "timestamp": "2026-10-21T18:15:57.048489035Z",
+  "timestamp": "2026-10-22T00:34:35.874347251Z",
   "model": "glm-5.3"
 }

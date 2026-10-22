@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "il-כי hawn jaqbel għal-null; il-konnessjoni diġà miżjuda mal-verb 'għedt'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħadbu",
-      "rationale": "אף verament 'mnieħer\/nostrils' — id-dawl ta' rabja; bil-Malti 'ħadbu' (ġbid għajnejh) jerfgħu il-marka."
-    }
-  ],
-  "translation": "U għedt: Jien ħieles; żgur ir-riħa ta' ħadbu tirpilja minni. Ara, jien għadni nġġudikawk minħabba kliemek: Ma dnobtx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "281c7d884e89a2049df56feed76be65f1193cc8e9225dcd7ef3019887ee0a67f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/2\/33-36.1792612357589.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U inti qilt: Jien innoċenti; żgur rabbiżżu tiegħu jerġa' jeħles minn fuqi. Ara jien nagħmel ġudizzju ma' ⟨את⟩ fik, fuq kliemek li għilt: Ma dnobtx.",
   "tokens": [
     {
       "surface": "ותאמרי",
-      "gloss": "U għedt"
+      "gloss": "u qilt"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "għax"
     },
     {
       "surface": "נקיתי",
-      "gloss": "Jien ħieles"
+      "gloss": "jien innoċenti"
     },
     {
       "surface": "אך",
@@ -46,32 +25,32 @@
     },
     {
       "surface": "שב",
-      "gloss": "tirpilja"
+      "gloss": "jerġa' jeħles"
     },
     {
       "surface": "אפו",
-      "gloss": "ir-riħa ta' ħadbu"
+      "gloss": "rabbiżżu"
     },
     {
       "surface": "ממני",
-      "gloss": "minni"
+      "gloss": "minn fuqi"
     },
     {
       "surface": "הנני",
-      "gloss": "Ara, jien għadni"
+      "gloss": "ara jien"
     },
     {
       "surface": "נשפט",
-      "gloss": "nġġudikawk"
+      "gloss": "nagħmel ġudizzju"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "ik"
+      "marks": "fik"
     },
     {
       "surface": "על",
-      "gloss": "minħabba"
+      "gloss": "fuq"
     },
     {
       "surface": "אמרך",
@@ -79,13 +58,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "Ma"
+      "gloss": "ma"
     },
     {
       "surface": "חטאתי",
       "gloss": "dnobtx"
     }
   ],
-  "timestamp": "2026-10-21T19:52:37.590626472Z",
+  "timestamp": "2026-10-22T00:28:20.106254338Z",
   "model": "glm-5.3"
 }

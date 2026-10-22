@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨hu⟩",
-      "rationale": "il-Malti jeħtieġ il-pronom kopulativ fil-klawżola"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jmis lil",
-      "rationale": "ימצא litteralment 'jinstab\/sib' — 'il-ħażen li jsib lil missieri'"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Ġużepċi",
-      "rationale": "Ġuda jindires b'mod dirett lill-gvernatur (Ġużepċi) bl-appell sidi"
-    }
-  ],
-  "translation": "Għaliex kif nitla' għand missieri, u l-kbir mhux ⟨hu⟩ ⟨את⟩ miegħi, biex ma narax il-ħażen li jmis lil missieri?",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "fa0c8d704f43963a6f42c30c7e381c6df34af9b7bd3ad0c7ec31ebd6138f9f2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/44\/33-34.1792599001146.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax kif se nitla' għand missieri, u t-tifel mhux ⟨את⟩ miegħi? Jekk le, forsi naraw x'ħażen joħroġ fuq ⟨את⟩ missieri.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "איך",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "nitla'"
+      "gloss": "se nitla'"
     },
     {
       "surface": "אל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "והנער",
-      "gloss": "u l-kbir"
+      "gloss": "u t-tifel"
     },
     {
       "surface": "איננו",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "פן",
-      "gloss": "biex ma... x"
+      "gloss": "jekk le, forsi"
     },
     {
       "surface": "אראה",
-      "gloss": "narax"
+      "gloss": "naraw"
     },
     {
       "surface": "ברע",
-      "gloss": "il-ħażen"
+      "gloss": "x'ħażen"
     },
     {
       "surface": "אשר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "jmis lil"
+      "gloss": "joħroġ fuq"
     },
     {
       "surface": "את",
@@ -95,6 +69,6 @@
       "gloss": "missieri"
     }
   ],
-  "timestamp": "2026-10-21T16:10:01.147090977Z",
+  "timestamp": "2026-10-22T00:23:41.803863659Z",
   "model": "glm-5.3"
 }

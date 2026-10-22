@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "יקים...לעשות",
-      "rationale": "'jirristix il-kliem biex jagħmilhom' — il-verb קום brev jobgħod 'traskinaġġ' mhux biss 'nuqqas ta' għemil'"
-    }
-  ],
-  "translation": "Misħut min ma jirristix il-kliem ta' din it-Tora biex jagħmilhom, u jgħid il-poplu kollu: Amen.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "934e94863c83170cb5bb09cce08271b94a11b654ef63f2e58eb52067d35675d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/27\/25-26.1792605879726.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Misħut min ma jistabbilx ⟨את⟩ il-kliem ta' din it-Tora biex jagħmelhom, u jgħid il-poplu kollu: Amen.",
   "tokens": [
     {
       "surface": "ארור",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "יקים",
-      "gloss": "jirristix"
+      "gloss": "jistabbilx"
     },
     {
       "surface": "את",
@@ -54,15 +38,16 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "dawn"
+      "gloss": "din"
     },
     {
       "surface": "לעשות",
-      "gloss": "biex jagħmilhom"
+      "gloss": "biex jagħmel"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ dawn"
+      "gloss": "⟨את⟩hom",
+      "marks": "il-kliem ta' din it-Tora (biex jagħmelhom)"
     },
     {
       "surface": "ואמר",
@@ -81,6 +66,6 @@
       "gloss": "Amen"
     }
   ],
-  "timestamp": "2026-10-21T18:04:39.727364222Z",
+  "timestamp": "2026-10-22T00:10:50.151411823Z",
   "model": "glm-5.3"
 }

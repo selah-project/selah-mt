@@ -5,46 +5,20 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħatab",
-      "rationale": "על — ħatab (już), eżattament il-kelma Maltija għall-injam tqil tal-bhejjem."
-    },
-    {
-      "kind": "substitution",
-      "subject": "għedewwejk",
-      "gloss": "איביך — 'dawk li jjobgħduk', l-għerq שנא\/איב mibni fuq l-ostilità, mhux sempliċement 'avversarju'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבדת\/ועבדת",
-      "rationale": "Ripetizzjoni ta' עבד bejn v.47 u v.48: 'ma tqimdtx lil Jaħwe... tqimd lil għedewwejk' — is-servitù tinqaleb."
-    }
-  ],
-  "translation": "u tqimd lil ⟨את⟩ għedewwejk, li Jaħwe jibgħathom kontrik, bil-ġuħ u bit-xemmegħ u bil-ħmura u fin-nuqqas ta' kollox; u jpoġġi ħatab ta' ħadid fuq għonqok, sa ma jqerdek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/28\/45-48.1792606050113.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U sservi lil ⟨את⟩ għedewwek li Jaħwe jibgħah kontriek, bil-ġuħ u bl-għatx u bl-istonar u fin-nuqqas ta' kollox; u jqiegħed qafas ta' ħadid fuq għonqok, sa ma jeqred ⟨את⟩ ⟨lilek⟩.",
   "tokens": [
     {
       "surface": "ועבדת",
-      "gloss": "u tqimd"
+      "gloss": "U sservi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "għedewwejk"
+      "marks": "għedewwek"
     },
     {
       "surface": "איביך",
-      "gloss": "lil għedewwejk"
+      "gloss": "għedewwek"
     },
     {
       "surface": "אשר",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "ישלחנו",
-      "gloss": "jibgħathom"
+      "gloss": "jibgħah"
     },
     {
       "surface": "יהוה",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "בך",
-      "gloss": "kontrik"
+      "gloss": "kontriek"
     },
     {
       "surface": "ברעב",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "ובצמא",
-      "gloss": "u bit-xemmegħ"
+      "gloss": "u bl-għatx"
     },
     {
       "surface": "ובעירם",
-      "gloss": "u bil-ħmura"
+      "gloss": "u bl-istonar"
     },
     {
       "surface": "ובחסר",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "u jpoġġi"
+      "gloss": "u jqiegħed"
     },
     {
       "surface": "על",
-      "gloss": "ħatab"
+      "gloss": "qafas"
     },
     {
       "surface": "ברזל",
@@ -108,14 +82,14 @@
     },
     {
       "surface": "השמידו",
-      "gloss": "jqerdek"
+      "gloss": "jeqred"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "int (l-oġġett ta' 'jqerdek')"
+      "marks": "lilek"
     }
   ],
-  "timestamp": "2026-10-21T18:07:30.114525691Z",
+  "timestamp": "2026-10-22T00:10:23.348349903Z",
   "model": "glm-5.3"
 }

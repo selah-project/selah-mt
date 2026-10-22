@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Ħawot Jajir",
-      "rationale": "חות יאיר litteralment 'ir-raħat ta' Jajir' — isem il-post miżmum bil-ħoss"
-    },
-    {
-      "kind": "measurement",
-      "subject": "fruntieri",
-      "rationale": "deskrizzjoni ta' fruntieri ġeografiċi"
-    }
-  ],
-  "translation": "Jajir, iben Menaxxe, ħa ⟨את⟩ il-ħabel kollu ta' Argob sa l-fruntiera tal-Ġexuri u tal-Maakati; u sejjaħlhom fuq ismu ⟨את⟩ Baxan, Ħawot Jajir, sa dan il-jum.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c36051e3bc6d73039da18a663527e9820265d30406423c3d1cd34ce4cc5296e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/3\/13-16.1792605346975.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jajir, iben Menasxe, ħa ⟨את⟩ iż-żona kollha ta' Argob, sa ma tal-Ġexurit u tal-Maakatit; u sejħilhom bl-isem tiegħu ⟨את⟩ il-Baxan, Ħawot Jajir, sa ż-żminijiet tagħna.",
   "tokens": [
     {
       "surface": "יאיר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaxxe"
+      "gloss": "Menasxe"
     },
     {
       "surface": "לקח",
@@ -47,60 +26,61 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ħabel kollu ta' Argob"
+      "marks": "iż-żona kollha"
     },
     {
       "surface": "כל",
-      "gloss": "il-ħabel kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "חבל",
-      "gloss": "ta' Argob"
+      "gloss": "iż-żona"
     },
     {
       "surface": "ארגב",
-      "gloss": "Argob"
+      "gloss": "ta' Argob"
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "sa ma"
     },
     {
       "surface": "גבול",
-      "gloss": "l-fruntiera"
+      "gloss": "tal-fruntiera ta'"
     },
     {
       "surface": "הגשורי",
-      "gloss": "tal-Ġexuri"
+      "gloss": "tal-Ġexurit"
     },
     {
       "surface": "והמעכתי",
-      "gloss": "u tal-Maakati"
+      "gloss": "u tal-Maakatit"
     },
     {
       "surface": "ויקרא",
-      "gloss": "u sejjaħlhom"
+      "gloss": "u sejħilhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lhom"
+      "gloss": "⟨את⟩",
+      "marks": "il-Baxan"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "bl-isem ta'"
     },
     {
       "surface": "שמו",
-      "gloss": "ismu"
+      "gloss": "tiegħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Baxan"
+      "marks": "il-Baxan"
     },
     {
       "surface": "הבשן",
-      "gloss": "Baxan"
+      "gloss": "il-Baxan"
     },
     {
       "surface": "חות",
@@ -116,13 +96,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "dan il-jum"
+      "gloss": " iż-żminijiet tagħna"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-21T17:55:46.976794637Z",
+  "timestamp": "2026-10-22T00:10:48.209792169Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħajja",
-      "rationale": "נפש hija nifs \/ ħajja-vitalità, mhux 'ruħ' fil-mod ta' wara"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "il-konġunzjoni לא għandha ħafna użijiet; hawn ma tassew teħtieġx kelma separata fil-Malti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאל x4 u ושאלת",
-      "rationale": "repetizzjoni ta' 'tlabt \/ ma tlitbx' — l-istruttura retorika ta' lista meħlusa tibqa' viżibbli"
-    }
-  ],
-  "translation": "U Elohim qalulu: Għax talabt ⟨את⟩ dan id-diskors, u ma tlitbx għalik ġranet twal, u ma tlitbx għalik ġid, u ma tlitbx ħajja tal-għedewwa tiegħek, u tlabt għalik fehim biex tisma' ġudizzju —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/9-12.1792609356814.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Elohim qallu: Għaliex int talabt ⟨את⟩ id-dinja din, u ma tlittx għalik jiem twal, u ma tlittx għalik ġid, u ma tlittx il-ħajja (nefex) tal-għedewwa tiegħek, imma tlitt għalik fehim biex tisma' ġudizzju —",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qallu"
     },
     {
       "surface": "אלהים",
@@ -43,32 +17,32 @@
     },
     {
       "surface": "אליו",
-      "gloss": "ulu"
+      "gloss": "lui"
     },
     {
       "surface": "יען",
-      "gloss": "għax"
+      "gloss": "Għaliex"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "שאלת",
-      "gloss": "talabt"
+      "gloss": "int talabt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-diskors"
+      "marks": "id-dinja din"
     },
     {
       "surface": "הדבר",
-      "gloss": "id-diskors"
+      "gloss": "id-dinja"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "ולא",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "שאלת",
-      "gloss": "tlitbx"
+      "gloss": "tlitt"
     },
     {
       "surface": "לך",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "ġranet"
+      "gloss": "jiem"
     },
     {
       "surface": "רבים",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "שאלת",
-      "gloss": "tlitbx"
+      "gloss": "tlitt"
     },
     {
       "surface": "לך",
@@ -112,11 +86,11 @@
     },
     {
       "surface": "שאלת",
-      "gloss": "tlitbx"
+      "gloss": "tlitt"
     },
     {
       "surface": "נפש",
-      "gloss": "ħajja"
+      "gloss": "il-ħajja (nefex)"
     },
     {
       "surface": "איביך",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "ושאלת",
-      "gloss": "u tlabt"
+      "gloss": "imma tlitt"
     },
     {
       "surface": "לך",
@@ -143,6 +117,6 @@
       "gloss": "ġudizzju"
     }
   ],
-  "timestamp": "2026-10-21T19:02:36.814995713Z",
+  "timestamp": "2026-10-21T23:57:55.575680923Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,19 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨u qablu ta'⟩",
-      "rationale": "l-għadd ta' bliet huwa eżempju ta' dawk li qerdu l-missirieti; it-tifsira impliċita bil-Lhudi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ħames postijiet",
-      "rationale": "lista ta' postijiet megħlubin: Guzzan, Ħaran, Recetef, wlied Eden, Telassar"
-    }
-  ],
-  "translation": "Jħelsuhom l-Elohim tal-ġnus li qerdu missirieti? ⟨את⟩ Guzzan u ⟨את⟩ Ħaran, u Recetef, u wlied Eden, li jinsabu f'Telassar?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/37\/9-12.1792611665851.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jaqaw l-ellijiet tal-ġnus salvawhom — dawk li qerdu l-etnijiet ta' ommijieti — ⟨את⟩ Gozan u ⟨את⟩ Ħaran, u Retsef, u wlied Eden, li jinsabu f'Telassar?",
   "tokens": [
     {
       "surface": "ההצילו",
-      "gloss": "Jħelsuhom"
+      "gloss": "salvaw"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "l-Elohim tal-ġnus"
+      "gloss": "⟨את⟩hom"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "l-ellijiet"
     },
     {
       "surface": "הגוים",
@@ -55,16 +33,16 @@
     },
     {
       "surface": "אבותי",
-      "gloss": "missirieti"
+      "gloss": "missierijieti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Guzzan"
+      "marks": "Gozan"
     },
     {
       "surface": "גוזן",
-      "gloss": "Guzzan"
+      "gloss": "Gozan"
     },
     {
       "surface": "ואת",
@@ -77,7 +55,7 @@
     },
     {
       "surface": "ורצף",
-      "gloss": "u Recetef"
+      "gloss": "u Retsef"
     },
     {
       "surface": "ובני",
@@ -96,6 +74,6 @@
       "gloss": "f'Telassar"
     }
   ],
-  "timestamp": "2026-10-21T19:41:05.853172189Z",
+  "timestamp": "2026-10-22T00:25:40.585770128Z",
   "model": "glm-5.3"
 }

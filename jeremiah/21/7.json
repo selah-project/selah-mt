@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "Lit. 'mouth of the sword' = edge of the sword; Maltese keeps the literal 'ħalq tax-xabla'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפשם",
-      "rationale": "נפש is throat\/life-force, not 'soul'; rendered 'l-ħajja tagħhom' (their life)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יחוס\/יחמל\/ירחם",
-      "rationale": "Triple negation of near-synonymous verbs of pity, an intensifying rhetorical pile-up."
-    }
-  ],
-  "translation": "Wara hekk — jgħid Jaħwe — nagħti lil Sidkija, sultan ta' Jehuda, u lill-ilsiera tiegħu, u lill-poplu, u lil dawk li jifdallu f'din il-belt — mill-pesta, mix-xabla u mill-ġuħ — f'id Nebukadnessar, sultan ta' Babilonja, u f'id għedewwaħom, u f'id dawk li jfittxu l-ħajja tagħhom; u huwa jidrobhom bil-ħalq tax-xabla: ma jħenniex għalihom, u lanqas jaħfir, u lanqas jħenn.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/21\/5-8.1792613031034.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wara dan, jgħid Jaħwe, inħallas ⟨את⟩ lil Sidqijahu sultan ta' Judaħ, u ⟨את⟩ lil qaddejja, u ⟨את⟩ lil-poplu, u ⟨את⟩ lil dawk li jifdal f'din il-belt mill-pesta, mix-xabla u miċ-ċuċ, f'idejn Nevukadretsar sultan ta' Babil, u f'idejn għedewwaħom, u f'idejn dawk li jfittxu ħajjiethom; u jagħtihom ta' ħalq ix-xabla: ma jonqosx fuqhom, u ma jaħfrilhomx, u ma jħennilhomx.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "Wara"
+      "gloss": "u wara"
     },
     {
       "surface": "כן",
-      "gloss": "hekk"
+      "gloss": "dan"
     },
     {
       "surface": "נאם",
@@ -51,16 +25,16 @@
     },
     {
       "surface": "אתן",
-      "gloss": "nagħti"
+      "gloss": "inħallas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Sidkija"
+      "marks": "lil Sidqijahu sultan ta' Judaħ"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "lil-Sidkija"
+      "gloss": "Sidqijahu"
     },
     {
       "surface": "מלך",
@@ -68,38 +42,38 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "ta' Jehuda"
+      "gloss": "Judaħ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lill-ilsiera tiegħu"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil qaddejja"
     },
     {
       "surface": "עבדיו",
-      "gloss": "lill-ilsiera tiegħu"
+      "gloss": "qaddejja"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lill-poplu"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil-poplu"
     },
     {
       "surface": "העם",
-      "gloss": "lill-poplu"
+      "gloss": "il-poplu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dawk li jifdallu"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil dawk li jifdal f'din il-belt"
     },
     {
       "surface": "הנשארים",
-      "gloss": "dawk li jifdallo"
+      "gloss": "dawk li jifdal"
     },
     {
       "surface": "בעיר",
-      "gloss": "fil-belt"
+      "gloss": "f'belt"
     },
     {
       "surface": "הזאת",
@@ -107,35 +81,35 @@
     },
     {
       "surface": "מן",
-      "gloss": "min"
+      "gloss": "mill-"
     },
     {
       "surface": "הדבר",
-      "gloss": "il-pesta"
+      "gloss": "pesta"
     },
     {
       "surface": "מן",
-      "gloss": "min"
+      "gloss": "mix-"
     },
     {
       "surface": "החרב",
-      "gloss": "ix-xabla"
+      "gloss": "xabla"
     },
     {
       "surface": "ומן",
-      "gloss": "u min"
+      "gloss": "u miċ-"
     },
     {
       "surface": "הרעב",
-      "gloss": "il-ġuħ"
+      "gloss": "ċuċ"
     },
     {
       "surface": "ביד",
-      "gloss": "f'id"
+      "gloss": "f'idejn"
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nebukadnessar"
+      "gloss": "Nevukadretsar"
     },
     {
       "surface": "מלך",
@@ -143,11 +117,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "ta' Babilonja"
+      "gloss": "Babil"
     },
     {
       "surface": "וביד",
-      "gloss": "u f'id"
+      "gloss": "u f'idejn"
     },
     {
       "surface": "איביהם",
@@ -155,7 +129,7 @@
     },
     {
       "surface": "וביד",
-      "gloss": "u f'id"
+      "gloss": "u f'idejn"
     },
     {
       "surface": "מבקשי",
@@ -163,49 +137,49 @@
     },
     {
       "surface": "נפשם",
-      "gloss": "l-ħajja tagħhom"
+      "gloss": "ħajjiethom"
     },
     {
       "surface": "והכם",
-      "gloss": "u jidrobhom"
+      "gloss": "u jagħtihom"
     },
     {
       "surface": "לפי",
-      "gloss": "bil-ħalq"
+      "gloss": "ta' ħalq"
     },
     {
       "surface": "חרב",
-      "gloss": "tax-xabla"
+      "gloss": "ix-xabla"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "ma ... x"
     },
     {
       "surface": "יחוס",
-      "gloss": "jħenniex"
+      "gloss": "jonqos"
     },
     {
       "surface": "עליהם",
-      "gloss": "għalihom"
+      "gloss": "fuqhom"
     },
     {
       "surface": "ולא",
-      "gloss": "u lanqas"
+      "gloss": "u ma ... x"
     },
     {
       "surface": "יחמל",
-      "gloss": "jaħfir"
+      "gloss": "jaħfrilhom"
     },
     {
       "surface": "ולא",
-      "gloss": "u lanqas"
+      "gloss": "u ma ... x"
     },
     {
       "surface": "ירחם",
-      "gloss": "jħenn"
+      "gloss": "jħennilhom"
     }
   ],
-  "timestamp": "2026-10-21T20:03:51.035333325Z",
+  "timestamp": "2026-10-22T00:29:24.549810678Z",
   "model": "glm-5.3"
 }

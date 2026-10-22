@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħajātikom",
-      "rationale": "נפש = nifs\/ħaja, mhux 'ruħ' b'moħħ duali"
-    },
-    {
-      "kind": "crux",
-      "subject": "לטוטפת",
-      "rationale": "kelma rari, probabbilment faxex tal-forehead; LXX 'immobilizzat', Talmud 'tfilin'"
-    }
-  ],
-  "translation": "U tqiegħdu ⟨את⟩ dawn il-kelmi tiegħi fuq qlubkom u fuq ħajātikom, u torbtuhom bħala sinjal fuq idejkom, u jkunu bħala faxex bejn għajnejkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/11\/17-20.1792605600266.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tpoġġew lil dawn il-kliem tiegħi ⟨את⟩ fuq qalbkom u fuq ħajitkom (nefexkom), u torbtuhom ⟨את⟩ għal sinjal fuq idejkom, u jkunu għal faxxja bejn għajnejkom.",
   "tokens": [
     {
       "surface": "ושמתם",
-      "gloss": "tqiegħdu"
+      "gloss": "U tpoġġew"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawn il-kelmi"
+      "marks": "dawn il-kliem"
     },
     {
       "surface": "דברי",
-      "gloss": "il-kelmi"
+      "gloss": "il-kliem tiegħi"
     },
     {
       "surface": "אלה",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "qlubkom"
+      "gloss": "qalbkom"
     },
     {
       "surface": "ועל",
@@ -59,19 +38,20 @@
     },
     {
       "surface": "נפשכם",
-      "gloss": "ħajātikom"
+      "gloss": "nefexkom"
     },
     {
       "surface": "וקשרתם",
-      "gloss": "torbtuhom"
+      "gloss": "u torbtuhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "għal sinjal"
     },
     {
       "surface": "לאות",
-      "gloss": "sinjal"
+      "gloss": "għal sinjal"
     },
     {
       "surface": "על",
@@ -83,11 +63,11 @@
     },
     {
       "surface": "והיו",
-      "gloss": "jkunu"
+      "gloss": "u jkunu"
     },
     {
       "surface": "לטוטפת",
-      "gloss": "faxex"
+      "gloss": "għal faxxja"
     },
     {
       "surface": "בין",
@@ -98,6 +78,6 @@
       "gloss": "għajnejkom"
     }
   ],
-  "timestamp": "2026-10-21T18:00:00.267772111Z",
+  "timestamp": "2026-10-22T00:09:19.690067681Z",
   "model": "glm-5.3"
 }

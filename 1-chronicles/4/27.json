@@ -5,53 +5,27 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kien hemm",
-      "rationale": "Il-Malti jeħtieġ verbi liċ-ċifri; il-Lhudi juża biss kunstruzzjoni prepożizzjonali."
-    },
-    {
-      "kind": "crux",
-      "subject": "עד בני יהודה",
-      "rationale": "'sa\/daqs wlied Jehuda' — KJV\/Vulgata jaqraw 'ma mllux qabel (fl-għadd ta') wlied Jehuda'; l-ilsien jippermetti t-tnejn."
-    },
-    {
-      "kind": "measurement",
-      "subject": "għadd ta' wlied",
-      "rationale": "Sbatax-il ibn u sitt ibniet — statistika ċara."
-    }
-  ],
-  "translation": "U lil Ximʿi kien hemm sbatax-il ibn u sitt ibniet; u lil ħutu ma kienx hemm ħafna wlied; u l-familja tagħhom kollha ma irduppawx daqs wlied Jehuda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a531f04bcba08ecae7fa274290c57b28c13506c04e4f3e41cb0e25c33a75000f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/4\/25-28.1792621746040.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil-Ximi kien hemm sittax-il iben u sitt ibniet; u lil-ħutu ma kienx hemm ħafna wlied, u l-familja tagħhom kollha maż-żieda ma laħqetx dawk tal-wlied ta' Ġuda.",
   "tokens": [
     {
       "surface": "ולשמעי",
-      "gloss": "U lil Ximʿi"
+      "gloss": "lil-Ximi"
     },
     {
       "surface": "בנים",
-      "gloss": "ibn"
+      "gloss": "iben"
     },
     {
       "surface": "ששה",
-      "gloss": "sbatax-il"
+      "gloss": "sittax-il"
     },
     {
       "surface": "עשר",
-      "gloss": "sbatax-il"
+      "gloss": "sittax-il"
     },
     {
       "surface": "ובנות",
-      "gloss": "u ibniet"
+      "gloss": "ibniet"
     },
     {
       "surface": "שש",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ולאחיו",
-      "gloss": "u lil ħutu"
+      "gloss": "lil-ħutu"
     },
     {
       "surface": "אין",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u l-familja tagħhom kollha"
+      "gloss": "kollha"
     },
     {
       "surface": "משפחתם",
-      "gloss": "u l-familja tagħhom kollha"
+      "gloss": "il-familja tagħhom"
     },
     {
       "surface": "לא",
@@ -87,21 +61,21 @@
     },
     {
       "surface": "הרבו",
-      "gloss": "irduppawx"
+      "gloss": "laħqetx fil-għadd"
     },
     {
       "surface": "עד",
-      "gloss": "daqs"
+      "gloss": "maz-żieda ma"
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "il-wlied ta'"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "Ġuda"
     }
   ],
-  "timestamp": "2026-10-21T22:29:06.041594488Z",
+  "timestamp": "2026-10-21T23:55:53.070382591Z",
   "model": "glm-5.3"
 }

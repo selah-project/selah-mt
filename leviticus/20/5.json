@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-Molok",
-      "rationale": "המולך bil-artiklu huwa isem id-divinità Molok, mhux sempliċement 'ir-re'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "inpoġġi wiċċi kontra",
-      "rationale": "שים פנים: idjom Lhudi għall-opposizzjoni personali, miżmum letterali"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jisrael",
-      "rationale": "kelma ta' Jaħwe lill-poplu permezz ta' Mose, dwar min jagħti lil uliedu lill-Molok"
-    }
-  ],
-  "translation": "U jien inpoġġi ⟨את⟩ wiċċi kontra dak il-bniedem u kontra l-familja tiegħu, u naqtagħ lilu u lil kollha kemm huma dawk li jiżżenu warajh, biex jiżżenu wara l-Molok, minn fost nieshom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/5-8.1792601089961.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jien innifsi npoġġi ⟨את⟩ wiċċi kontra dak ir-raġel u kontra familja qbiltu, u naqtagħhom ⟨את⟩ lilu u ⟨את⟩ lil kulmin jitmeġġel warajh biex jitmeġġel wara l-Molek, minn nofs nieshom.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "inpoġġi"
+      "gloss": "npoġġi"
     },
     {
       "surface": "אני",
-      "gloss": "jien"
+      "gloss": "Jien innifsi"
     },
     {
       "surface": "את",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "באיש",
-      "gloss": "kontra dak il-bniedem"
+      "gloss": "kontra dak ir-raġel"
     },
     {
       "surface": "ההוא",
@@ -60,29 +34,28 @@
     },
     {
       "surface": "ובמשפחתו",
-      "gloss": "u kontra l-familja tiegħu"
+      "gloss": "u kontra familja qbiltu"
     },
     {
       "surface": "והכרתי",
-      "gloss": "u naqtagħ"
+      "gloss": "u naqtagħhom"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "lilu"
+      "gloss": "⟨את⟩ lilu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "dawk li jiżżenu"
+      "gloss": "⟨את⟩",
+      "marks": "lil kulmin jitmeġġel"
     },
     {
       "surface": "כל",
-      "gloss": "kollha kemm huma"
+      "gloss": "kulmin"
     },
     {
       "surface": "הזנים",
-      "gloss": "dawk li jiżżenu"
+      "gloss": "jitmeġġel"
     },
     {
       "surface": "אחריו",
@@ -90,7 +63,7 @@
     },
     {
       "surface": "לזנות",
-      "gloss": "biex jiżżenu"
+      "gloss": "biex jitmeġġel"
     },
     {
       "surface": "אחרי",
@@ -98,17 +71,17 @@
     },
     {
       "surface": "המלך",
-      "gloss": "l-Molok"
+      "gloss": "l-Molek"
     },
     {
       "surface": "מקרב",
-      "gloss": "minn fost"
+      "gloss": "minn nofs"
     },
     {
       "surface": "עמם",
       "gloss": "nieshom"
     }
   ],
-  "timestamp": "2026-10-21T16:44:49.962974602Z",
+  "timestamp": "2026-10-22T00:53:40.199418039Z",
   "model": "glm-5.3"
 }

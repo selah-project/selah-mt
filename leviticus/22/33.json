@@ -5,37 +5,16 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ta' Mitsrajim",
-      "rationale": "il-Malti jeħtieġ 'ta'' bejn l-art u l-isem tal-pajjiż"
-    },
-    {
-      "kind": "elision",
-      "subject": "להיות",
-      "rationale": "l-infinitiv Lhudi 'li jkun' sar 'biex inkun' bil-verbi konjugat"
-    }
-  ],
-  "translation": "li ħarġekom mill-art ta' Mitsrajim biex inkun għalikom Elohim; jien Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a61ecc0ef134683dbc68551a4b08fec134a12d24fa4a0ed82445bed2a0e6712f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/22\/33-33.1792601008695.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Li ħareġ ⟨את⟩ lilkom mill-art ta' Mitsrajim, biex inkun għalikom għal Elohim; jien Jaħwe.",
   "tokens": [
     {
       "surface": "המוציא",
-      "gloss": "li ħarġekom"
+      "gloss": "Li ħareġ"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom mill-art ta' Mitsrajim"
     },
     {
       "surface": "מארץ",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "Elohim"
+      "gloss": "għal Elohim"
     },
     {
       "surface": "אני",
@@ -66,6 +45,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T16:43:28.695961700Z",
+  "timestamp": "2026-10-22T00:41:02.573481372Z",
   "model": "glm-5.3"
 }

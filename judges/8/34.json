@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ftakru",
-      "rationale": "זכרו huwa 'iftakru\/żammew fil-memorja', mhux sempliċiment 'emmmaw ma'"
-    },
-    {
-      "kind": "elision",
-      "subject": "minn madwarhom",
-      "rationale": "מסביב qarieq ta' 'madwar', ġie mqiegħed bħala avverbju fil-Malti bi post differenti"
-    }
-  ],
-  "translation": "U m'emmnux iktar ma jiftakru wlied Jisrael f'Jaħwe, Elohim tagħhom, li kien jeħleshom miċ-ċid ta' kulħadd mill-idejn ta' l-għedewwa tagħhom minn kullimkien.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b44eae6c3e58cb8bcd942238638a86cbbc60023cd4ba6bd6415bd2a0e4ebbbc4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/8\/34-35.1792623254837.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil ulied Jisrael ma ftakruhx f' ⟨את⟩ Jaħwe, Elohim tagħhom, li salvahom minn id kulma għedewwa tagħhom minn kull naħa.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "u le"
+      "gloss": "u ma... x"
     },
     {
       "surface": "זכרו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "ulied"
     },
     {
       "surface": "ישראל",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe"
+      "marks": "Jaħwe, Elohim tagħhom"
     },
     {
       "surface": "יהוה",
@@ -59,29 +38,30 @@
     },
     {
       "surface": "המציל",
-      "gloss": "li jeħles"
+      "gloss": "li salvahom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩hom",
+      "marks": "minn id kulma għedewwa tagħhom"
     },
     {
       "surface": "מיד",
-      "gloss": "mill-idejn"
+      "gloss": "minn id"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kulma"
     },
     {
       "surface": "איביהם",
-      "gloss": "l-għedewwa tagħhom"
+      "gloss": "għedewwa tagħhom"
     },
     {
       "surface": "מסביב",
-      "gloss": "minn madwarhom"
+      "gloss": "minn kull naħa"
     }
   ],
-  "timestamp": "2026-10-21T22:54:14.838484333Z",
+  "timestamp": "2026-10-22T00:38:15.997386236Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħtija",
-      "rationale": "עון huwa inikmità\/kuruzzja; 'iġor il-ħtija' tfisser iġor il-konsegwenzi tagħha"
-    },
-    {
-      "kind": "you",
-      "subject": "to Aharon",
-      "rationale": "Jaħwe jkellem lil Aharon direttament, mhux permezz ta' Moxe"
-    }
-  ],
-  "translation": "U Jaħwe qal lil Aharon: Int, u wliedek, u dar missierek miegħek, intom iġoru ⟨את⟩ ħtija tas-santwarju; u int u wliedek miegħek iġoru ⟨את⟩ ħtija tas-saċerdozju tagħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6d40404a03b0ceb6b3bc595288120140be4821ad367889c711f289d435f16f75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/18\/1-4.1792603007633.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe qal lil Aharon: Int, u uliedek, u dar missierek miegħek, iġġorru ⟨את⟩ il-ħtija tal-maqdes; u int u uliedek miegħek iġġorru ⟨את⟩ il-ħtija tas-saċerdozju tagħkom.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "יהוה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Int"
+      "gloss": "int"
     },
     {
       "surface": "ובניך",
-      "gloss": "u wliedek"
+      "gloss": "u uliedek"
     },
     {
       "surface": "ובית",
@@ -62,24 +41,24 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "תשאו",
-      "gloss": "intom iġoru"
+      "gloss": "iġġorru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ħtija"
+      "marks": "il-ħtija"
     },
     {
       "surface": "עון",
-      "gloss": "ħtija"
+      "gloss": "il-ħtija"
     },
     {
       "surface": "המקדש",
-      "gloss": "tas-santwarju"
+      "gloss": "tal-maqdes"
     },
     {
       "surface": "ואתה",
@@ -87,30 +66,30 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "u wliedek"
+      "gloss": "u uliedek"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "תשאו",
-      "gloss": "iġoru"
+      "gloss": "iġġorru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ħtija"
+      "marks": "il-ħtija"
     },
     {
       "surface": "עון",
-      "gloss": "ħtija"
+      "gloss": "il-ħtija"
     },
     {
       "surface": "כהנתכם",
       "gloss": "tas-saċerdozju tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T17:16:47.634381134Z",
+  "timestamp": "2026-10-22T00:45:19.483000661Z",
   "model": "glm-5.3"
 }

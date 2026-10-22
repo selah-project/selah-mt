@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "l-wied",
-      "rationale": "הנחל: 'ix-xatt\/wied' (KJV river) kontra 'il-wied' (JPS valley); it-tnejn possibbli."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ħbula",
-      "rationale": "Il-parir ta' Ħuxaj huiperboliku: iġorru ħbula u saħħbu l-belt kollu sas-suq — hyperboles retorika, mhux pjan litterali."
-    },
-    {
-      "kind": "elision",
-      "subject": "jiġbor ruħu",
-      "rationale": "יאסף letteralment 'jiġġabar'; idjom Ebrajk għal 'jirtira f''."
-    }
-  ],
-  "translation": "U jekk f'xi belt jiġbor ruħu, u Jisrael kollu jġorru ħbula lejn dik il-belt, u nsaħħbuha sa l-wied, sa ma jinstab hemm lanqas żrar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/17\/13-16.1792609019005.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk jitlaqqa' f'belt, jilgħtu ħbula lejn dik il-belt lil Jisrael kollu, u nsieħbu ⟨את⟩ sa l-wied, sa ma jinstab hemm lanqas żrar.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "U jekk"
+      "gloss": "u jekk"
     },
     {
       "surface": "אל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "יאסף",
-      "gloss": "jiġbor ruħu"
+      "gloss": "jitlaqqa'"
     },
     {
       "surface": "והשיאו",
-      "gloss": "u jġorru"
+      "gloss": "jilgħtu"
     },
     {
       "surface": "כל",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "dik il-belt"
+      "gloss": "il-belt"
     },
     {
       "surface": "ההיא",
@@ -79,12 +53,12 @@
     },
     {
       "surface": "וסחבנו",
-      "gloss": "u nsaħħbuha"
+      "gloss": "u nsieħbu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "il-belt"
+      "marks": "sa l-wied"
     },
     {
       "surface": "עד",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "ma"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "le"
     },
     {
       "surface": "נמצא",
@@ -123,6 +97,6 @@
       "gloss": "żrar"
     }
   ],
-  "timestamp": "2026-10-21T18:56:59.006145911Z",
+  "timestamp": "2026-10-22T00:05:57.171447890Z",
   "model": "glm-5.3"
 }

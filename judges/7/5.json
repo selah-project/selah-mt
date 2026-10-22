@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ילק \/ ילק",
-      "rationale": "il-lekkes (lakking b'lsien) tirrepeti żewġ darbi fi ftit kliem — l-echo tal-kelb ma jintilifx"
-    },
-    {
-      "kind": "you",
-      "subject": "Gideon",
-      "rationale": "Jaħwe jkellem lil Gideon direttament bil-kmand dwar kif jaqsam in-nies"
-    }
-  ],
-  "translation": "U niżżel ⟨את⟩ il-poplu sal-ilma, u qal Jaħwe lil Gideon: Kull min ilekkes bl-ilsien tiegħu mill-ilma, kif ilekkes il-kelb, dak twarrbu waħdu; u kull min jorħob fuq irkoptih biex jixrob.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/7\/5-8.1792607131954.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U niżżel ⟨את⟩ in-nies għand l-ilma, u Jaħwe qal lil Gidgħon: Kull min jilgħaq b'ilsienu mill-ilma, kif jilgħaq il-kelb, lilu tpoġġi ⟨waħdu⟩; u kull min jirkagħ fuq irkoptejh biex jixrob.",
   "tokens": [
     {
       "surface": "ויורד",
@@ -35,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-poplu"
+      "marks": "in-nies"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "אל",
-      "gloss": "sa'l"
+      "gloss": "għand"
     },
     {
       "surface": "המים",
@@ -63,27 +42,27 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideon"
+      "gloss": "Gidgħon"
     },
     {
       "surface": "כל",
-      "gloss": "kull min"
+      "gloss": "kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "min"
     },
     {
       "surface": "ילק",
-      "gloss": "ilekkes"
+      "gloss": "jilgħaq"
     },
     {
       "surface": "בלשונו",
-      "gloss": "bl-ilsien tiegħu"
+      "gloss": "b'ilsienu"
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "mill-"
     },
     {
       "surface": "המים",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "ילק",
-      "gloss": "ilekkes"
+      "gloss": "jilgħaq"
     },
     {
       "surface": "הכלב",
@@ -103,11 +82,12 @@
     },
     {
       "surface": "תציג",
-      "gloss": "twarrbu"
+      "gloss": "tpoġġi"
     },
     {
       "surface": "אותו",
-      "gloss": "dak lilu ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lilu waħdu"
     },
     {
       "surface": "לבד",
@@ -115,15 +95,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u kull min"
+      "gloss": "u kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "min"
     },
     {
       "surface": "יכרע",
-      "gloss": "jorħob"
+      "gloss": "jirkagħ"
     },
     {
       "surface": "על",
@@ -131,13 +111,13 @@
     },
     {
       "surface": "ברכיו",
-      "gloss": "irkoptih"
+      "gloss": "irkoptejh"
     },
     {
       "surface": "לשתות",
       "gloss": "biex jixrob"
     }
   ],
-  "timestamp": "2026-10-21T18:25:31.954998355Z",
+  "timestamp": "2026-10-22T00:38:30.765741165Z",
   "model": "glm-5.3"
 }

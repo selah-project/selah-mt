@@ -5,41 +5,20 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "niżien",
-      "rationale": "הנזם: tradizzjonijiet qodma jqegħduh 'fuq wiċċha' (KJV); il-Lhudi jgħid 'fuq imnebbiħa' — niżien tan-nażż"
-    },
-    {
-      "kind": "addition",
-      "subject": "wellditu",
-      "rationale": "il-Lhudi jgħid 'li welldit lu Milka' — l-ordni tal-kliem Lhudi miktub bil-Malti b'sekwenza differenti"
-    }
-  ],
-  "translation": "U staqsejtha, u għidt: Bint min int? U qalet: Bint Batwel, iben Naħor, li wellditu Milka; u poġġejt in-niżien fuq imnebbiħa u l-mingħat fuq idejha.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "5dd6995fa0e5a1a7336a1533818fe224003c2e2e80cca0b24ee344674360afee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/45-48.1792598342971.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U staqsejt ⟨את⟩ lilha u għedt: Bint min int? U qalet: Bint Betwel, iben Naħor, li wellditu ⟨lha⟩ Milkha. U poġġejt in-niżma fuq imnifiħha u l-bracclets fuq idejha.",
   "tokens": [
     {
       "surface": "ואשאל",
-      "gloss": "U staqsejtha"
+      "gloss": "staqsejt"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "staqsejtha"
+      "marks": "lilha"
     },
     {
       "surface": "ואמר",
-      "gloss": "u għidt"
+      "gloss": "għedt"
     },
     {
       "surface": "בת",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "U qalet"
+      "gloss": "qalet"
     },
     {
       "surface": "בת",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "בתואל",
-      "gloss": "Batwel"
+      "gloss": "Betwel"
     },
     {
       "surface": "בן",
@@ -83,19 +62,19 @@
     },
     {
       "surface": "לו",
-      "gloss": "lu"
+      "gloss": "⟨lha⟩"
     },
     {
       "surface": "מלכה",
-      "gloss": "Milka"
+      "gloss": "Milkha"
     },
     {
       "surface": "ואשם",
-      "gloss": "u poġġejt"
+      "gloss": "poġġejt"
     },
     {
       "surface": "הנזם",
-      "gloss": "in-niżien"
+      "gloss": "in-niżma"
     },
     {
       "surface": "על",
@@ -103,11 +82,11 @@
     },
     {
       "surface": "אפה",
-      "gloss": "imnebbiħa"
+      "gloss": "imnifiħha"
     },
     {
       "surface": "והצמידים",
-      "gloss": "u l-mingħat"
+      "gloss": "l-bracclets"
     },
     {
       "surface": "על",
@@ -118,6 +97,6 @@
       "gloss": "idejha"
     }
   ],
-  "timestamp": "2026-10-21T15:59:02.972993956Z",
+  "timestamp": "2026-10-22T00:21:18.712708840Z",
   "model": "glm-5.3"
 }

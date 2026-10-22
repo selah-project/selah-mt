@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לך",
-      "rationale": "l-pronoma ‘lilek’ diġà ffissata fil-verb Malti ‘nagħtik’"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "סר וזעף",
-      "rationale": "żewġ kliem qosra għall-imrar — it-tanbur ta' żewġ kliem Lhud ma jintreġax bil-Malti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "wiċċu",
-      "rationale": "ויסב את פניו litteralment 'dawwar wiċċu' — il-Malti jagħti 'ħareġ wiċċu' biex jifhem"
-    }
-  ],
-  "translation": "U ħab il-Mulej — mhux: U Aħab daħal fid-dar tiegħu, imqalleb u mbiegħed minħabba l-kelma li kellem lilu Navot iz-Zerħeli, meta qal: M'in nagħtikx ⟨את⟩ wirt il-missirijiet tiegħi; u mtiegħex fuq sodda u ħareġ ⟨את⟩ wiċċu u ma kielx ħobż.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a54a425ec5df1df7d278b52168736eb6f1f20dc3c48ae039129bd4114bfe0b11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/21\/4-4.1792623333093.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Aħab daħal ⟨fi⟩ daru, imrar u mxemmż minħabba l-kelma li Nabot l-Iżreelit kien qallu: Ma nagħtikx ⟨את⟩ il-wirt ta' missirieti. U jitqiegħed fuq saqqu, u dewwem ⟨את⟩ wiċċu, u ma kielx ħobż.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "f"
+      "gloss": "⟨fi⟩"
     },
     {
       "surface": "ביתו",
-      "gloss": "id-dar tiegħu"
+      "gloss": "daru"
     },
     {
       "surface": "סר",
-      "gloss": "imqalleb"
+      "gloss": "imrar"
     },
     {
       "surface": "וזעף",
-      "gloss": "imbiegħed"
+      "gloss": "mxemmż"
     },
     {
       "surface": "על",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "il-kelma"
+      "gloss": "l-kelma"
     },
     {
       "surface": "אשר",
@@ -71,52 +45,52 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kellem"
+      "gloss": "qallu"
     },
     {
       "surface": "אליו",
-      "gloss": "lilu"
+      "gloss": "lu"
     },
     {
       "surface": "נבות",
-      "gloss": "Navot"
+      "gloss": "Nabot"
     },
     {
       "surface": "היזרעאלי",
-      "gloss": "iz-Zerħeli"
+      "gloss": "l-Iżreelit"
     },
     {
       "surface": "ויאמר",
-      "gloss": "meta qal"
+      "gloss": "kien qal"
     },
     {
       "surface": "לא",
-      "gloss": "m'in"
+      "gloss": "ma"
     },
     {
       "surface": "אתן",
-      "gloss": "nagħtik"
+      "gloss": "nagħtikx"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "tik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wirt il-missirijiet"
+      "marks": "il-wirt ta' missirieti"
     },
     {
       "surface": "נחלת",
-      "gloss": "wirt"
+      "gloss": "il-wirt"
     },
     {
       "surface": "אבותי",
-      "gloss": "il-missirijiet tiegħi"
+      "gloss": "ta' missirieti"
     },
     {
       "surface": "וישכב",
-      "gloss": "mtiegħex"
+      "gloss": "jitqiegħed"
     },
     {
       "surface": "על",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "מטתו",
-      "gloss": "sodda"
+      "gloss": "saqqu"
     },
     {
       "surface": "ויסב",
-      "gloss": "ħareġ"
+      "gloss": "dewwem"
     },
     {
       "surface": "את",
@@ -152,6 +126,6 @@
       "gloss": "ħobż"
     }
   ],
-  "timestamp": "2026-10-21T22:55:33.094358236Z",
+  "timestamp": "2026-10-21T23:57:43.702467460Z",
   "model": "glm-5.3"
 }

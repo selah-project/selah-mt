@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sena tmintax ta' mhakku",
-      "rationale": "id-data tar-renju ta' Josija: is-sena tmintax"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dak li jiftakar",
-      "rationale": "המזזיר huwa titularju tal-qraten irjali, 'dak li jiftakar\/il-kronista'"
-    }
-  ],
-  "translation": "U fis-sena tmintax ta' mhakku, bi jitnaddaf l-art u d-dar, bagħat lil ⟨את⟩ Xafan bin Ataljahu, u lil ⟨את⟩ Maasejahu, sar il-belt, u lil ⟨את⟩ Joaħ bin Joaħaz, dak li jiftakar, bi isaħħaħ ⟨את⟩ id-dar ta' Jaħwe, Elohim tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "261d8261f136a4af713a37ab7c9e3b06b2f33404cf8f0dfb9dc10eed59bd6fcd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/34\/5-8.1792622977350.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U fis-sittax-xahar — fl-att: fis-sena tmintax-il sena ta' renju ta' Josija, biex jittella l-art u d-dar, bagħat lil Xafan bin Acaljahu, u lil Maasejahu, il-kap tal-belt, u lil Joaħ bin Joaħaz, il-memorer, biex jiffissa dar Jaħwe Elohim tiegħu.",
   "tokens": [
     {
       "surface": "ובשנת",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "-il"
     },
     {
       "surface": "למלכו",
-      "gloss": "ta' mhakku"
+      "gloss": "ta' renju ta'"
     },
     {
       "surface": "לטהר",
-      "gloss": "bi jitnaddaf"
+      "gloss": "biex jittella"
     },
     {
       "surface": "הארץ",
@@ -63,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Xafan"
+      "marks": "Xafan"
     },
     {
       "surface": "שפן",
@@ -75,12 +54,12 @@
     },
     {
       "surface": "אצליהו",
-      "gloss": "Ataljahu"
+      "gloss": "Acaljahu"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "lil Maasejahu"
+      "marks": "Maasejahu"
     },
     {
       "surface": "מעשיהו",
@@ -88,16 +67,16 @@
     },
     {
       "surface": "שר",
-      "gloss": "sar"
+      "gloss": "il-kap"
     },
     {
       "surface": "העיר",
-      "gloss": "il-belt"
+      "gloss": "tal-belt"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "lil Joaħ"
+      "marks": "Joaħ"
     },
     {
       "surface": "יואח",
@@ -113,20 +92,20 @@
     },
     {
       "surface": "המזכיר",
-      "gloss": "dak li jiftakar"
+      "gloss": "il-memorer"
     },
     {
       "surface": "לחזק",
-      "gloss": "bi isaħħaħ"
+      "gloss": "biex jiffissa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-dar"
+      "marks": "dar"
     },
     {
       "surface": "בית",
-      "gloss": "id-dar"
+      "gloss": "dar"
     },
     {
       "surface": "יהוה",
@@ -137,6 +116,6 @@
       "gloss": "Elohim tiegħu"
     }
   ],
-  "timestamp": "2026-10-21T22:49:37.351481952Z",
+  "timestamp": "2026-10-22T00:02:33.579380663Z",
   "model": "glm-5.3"
 }

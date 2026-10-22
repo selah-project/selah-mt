@@ -5,35 +5,19 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ולך",
-      "rationale": "il-ך f'ונתן לך ġie miġbud f' 'jagħtik', il-prepożizzjoni waħedha ma għadha tagħti xejn"
-    }
-  ],
-  "translation": "U jaħwe Elohim tiegħek jewwes id-fruntieri tiegħek, kif ħalef lil missirijietek, u jagħtik ⟨את⟩ l-art kollha li tkellem li jagħti lil missirijietek —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "af648f85f7503a185dc4d6de2d818085a391e30d70cc50edf2e10e22967e8205",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/19\/5-8.1792605827404.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk Jaħwe Elohim ⟨tiegħek⟩ jerrħaħ ⟨את⟩ il-fruntiera tiegħek, kif ħalef lil missirijietek, u jagħtik ⟨את⟩ l-art kollha li qal li jagħti lil missirijietek —",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "u"
+      "gloss": "u jekk"
     },
     {
       "surface": "ירחיב",
-      "gloss": "jewwes"
+      "gloss": "jerrħaħ"
     },
     {
       "surface": "יהוה",
-      "gloss": "jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "אלהיך",
@@ -42,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-fruntieri tiegħek"
+      "marks": "il-fruntiera tiegħek"
     },
     {
       "surface": "גבלך",
-      "gloss": "id-fruntieri tiegħek"
+      "gloss": "il-fruntiera tiegħek"
     },
     {
       "surface": "כאשר",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "—"
+      "gloss": "lilek"
     },
     {
       "surface": "את",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "tkellem"
+      "gloss": "qal"
     },
     {
       "surface": "לתת",
@@ -98,6 +82,6 @@
       "gloss": "lil missirijietek"
     }
   ],
-  "timestamp": "2026-10-21T18:03:47.406336376Z",
+  "timestamp": "2026-10-22T00:09:21.405215238Z",
   "model": "glm-5.3"
 }

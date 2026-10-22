@@ -5,44 +5,23 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "sa mill-axfa",
-      "rationale": "עד הערב litteralment 'sa l-għabex'; il-Malti jgħid 'sa mill-axfa'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יכבס \/ ורחץ",
-      "rationale": "żewġ verbi differenti għat-tnaddif — kabas (tmaħġan bir-riġlejn) u raḥats (ħasil) — it-tnejn sfawt f''jaħsel'"
-    }
-  ],
-  "translation": "U kull min jmiss b'kull ma jkun taħtu jkun maħmuġ sa mill-axfa; u min iġorrhom jaħsel il-ħwejjeġ tiegħu u jaħsel ruħu fl-ilma, u jkun maħmuġ sa mill-axfa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1b032c8b2665d8b2c803af56ecacea2021f6394ee66d857415edd0d80f8eecfe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/9-12.1792600934275.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U kull min jmiss b'kull ma jkun taħtu jkun maħmuġ sal-għaxija; u min iġorr ⟨את⟩ lil dawk l-affarijiet jaħsel il-ħwejjeġ tiegħu u joħtol fl-ilma, u jkun maħmuġ sal-għaxija.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "u kull min"
+      "gloss": "u kull"
     },
     {
       "surface": "הנגע",
-      "gloss": "jmiss"
+      "gloss": "min jmiss"
     },
     {
       "surface": "בכל",
-      "gloss": "b'kull ma"
+      "gloss": "b'kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "ma"
     },
     {
       "surface": "יהיה",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "sal-"
     },
     {
       "surface": "הערב",
-      "gloss": "mill-axfa"
+      "gloss": "għaxija"
     },
     {
       "surface": "והנושא",
@@ -71,19 +50,19 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "hom (dawk l-affarijiet)"
+      "marks": "lil dawk l-affarijiet"
     },
     {
       "surface": "יכבס",
-      "gloss": "jaħsel"
+      "gloss": "jaħsel il-ħwejjeġ"
     },
     {
       "surface": "בגדיו",
-      "gloss": "il-ħwejjeġ tiegħu"
+      "gloss": "tiegħu"
     },
     {
       "surface": "ורחץ",
-      "gloss": "u jaħsel ruħu"
+      "gloss": "u joħtol"
     },
     {
       "surface": "במים",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "sal-"
     },
     {
       "surface": "הערב",
-      "gloss": "mill-axfa"
+      "gloss": "għaxija"
     }
   ],
-  "timestamp": "2026-10-21T16:42:14.276451467Z",
+  "timestamp": "2026-10-22T00:53:51.653339162Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חי חי",
-      "rationale": "Għasdiet ta' 'ħaj, ħaj' — il-ħajja miżgħuda tfittex lill-Ħaj; miżmum bir-repetizzjoni."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Il-prepożizzjoni אל qabel אמתך ma għandhax ekwivalenti naturali bil-Malti wara 'jagħti jaf'."
-    }
-  ],
-  "translation": "Il-ħaj, il-ħaj, huwa jirringrazżak, bħali llum; missier għal uliedu jagħti jaf ⟨את⟩ l-għarfien sħiħ tiegħek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/38\/17-20.1792611680178.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Il-ħaj, il-ħaj, hu jirringrazzjawk, bħali llum; missier jgħarraf lil ulidu s-suċċess tiegħek.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Il-ħaj"
+      "gloss": "il-ħaj"
     },
     {
       "surface": "חי",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "huwa"
+      "gloss": "hu"
     },
     {
       "surface": "יודך",
-      "gloss": "jirringrazżak"
+      "gloss": "jirringrazzjawk"
     },
     {
       "surface": "כמוני",
@@ -58,21 +37,21 @@
     },
     {
       "surface": "לבנים",
-      "gloss": "għal uliedu"
+      "gloss": "lil ulidu"
     },
     {
       "surface": "יודיע",
-      "gloss": "jagħti jaf"
+      "gloss": "jgħarraf"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨għal⟩"
     },
     {
-      "surface": "אמתם",
-      "gloss": ""
+      "surface": "אמתך",
+      "gloss": "is-suċċess tiegħek"
     }
   ],
-  "timestamp": "2026-10-21T19:41:20.179191502Z",
+  "timestamp": "2026-10-22T00:25:37.211984644Z",
   "model": "glm-5.3"
 }

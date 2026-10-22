@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "hawnhekk dan mhux l-aleph-tav tar-rappurtar imma pronom personal ('hom') — l-għan ta' עשׂו."
-    },
-    {
-      "kind": "crux",
-      "subject": "חֻקּוֹת",
-      "rationale": "'ċirkostanzi' kontra 'liġijiet' kontra 'drawwiet' — id-dokument jegħleb għal 'ċirkostanzi' bħala aktar qrib il-Ħebrajk."
-    },
-    {
-      "kind": "you",
-      "subject": "lil ulied il-ġenerazzjoni tal-niżla",
-      "rationale": "ordni dirett f'personali plurali f'dan il-passaġġ."
-    }
-  ],
-  "translation": "Jien Jaħwe Elohim tagħkom; fiċ-ċirkostanzi tiegħi imxu, u ⟨את⟩ ġudizzji tiegħi żommu, u agħmluhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/17-20.1792614514731.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jien Jaħwe, Elohim tagħkom: imxu fi ħuqqieti, u ⟨את⟩ ġudizzji tiegħi oqogħdu, u għamluhom.",
   "tokens": [
     {
       "surface": "אני",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "בחקותי",
-      "gloss": "fiċ-ċirkostanzi tiegħi"
+      "gloss": "fi ħuqqieti"
     },
     {
       "surface": "לכו",
-      "gloss": "imu"
+      "gloss": "imxu"
     },
     {
       "surface": "ואת",
@@ -64,17 +38,18 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "żommu"
+      "gloss": "oqogħdu"
     },
     {
       "surface": "ועשו",
-      "gloss": "u agħmlu"
+      "gloss": "u għamluhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩hom",
+      "marks": "għamluhom"
     }
   ],
-  "timestamp": "2026-10-21T20:28:34.732747852Z",
+  "timestamp": "2026-10-22T00:16:18.097558178Z",
   "model": "glm-5.3"
 }

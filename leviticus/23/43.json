@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "סכות",
-      "rationale": "the root סכה repeats across vv. 42–43 binding command to memory"
-    }
-  ],
-  "translation": "Biex jkunu jafu ġenerazzjonijietkom li fil-paviljuni ġew trijħit lil wlied Jisrael, meta ħriġithom mill-art ta' Mitsrajim; jien Jaħwe, Elohim tagħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/23\/41-44.1792601159223.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biex jiżfru d-dnubiet tagħkom li fi-sukkot ⟨ħlit⟩ lit-tfal ta' Jisrael, meta ħriġthom mill-art ta' Mitsrajim; jien Jaħwe, Elohim tagħkom.",
   "tokens": [
     {
       "surface": "למען",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "jkunu jafu"
+      "gloss": "jiżfru"
     },
     {
       "surface": "דרתיכם",
-      "gloss": "ġenerazzjonijietkom"
+      "gloss": "d-dnubiet tagħkom"
     },
     {
       "surface": "כי",
@@ -41,32 +25,33 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "fil-paviljuni"
+      "gloss": "fi-sukkot"
     },
     {
       "surface": "הושבתי",
-      "gloss": "ġew trijħit"
+      "gloss": "ħlit"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wlied Jisrael"
+      "marks": "lit-tfal"
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "lit-tfal"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "ta' Jisrael"
     },
     {
       "surface": "בהוציאי",
-      "gloss": "meta ħriġithom"
+      "gloss": "meta ħriġthom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "mill-art"
     },
     {
       "surface": "מארץ",
@@ -89,6 +74,6 @@
       "gloss": "Elohim tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T16:45:59.225299377Z",
+  "timestamp": "2026-10-22T00:41:05.428973257Z",
   "model": "glm-5.3"
 }

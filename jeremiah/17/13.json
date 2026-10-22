@@ -5,38 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מקוה\/מקור",
-      "rationale": "sounding pair: the 'hope' (miqweh) of Israel and the 'fountain' (maqor) of living waters — the echo is lost in Maltese"
-    },
-    {
-      "kind": "crux",
-      "subject": "מקוה",
-      "rationale": "'hope\/expectation' vs 'gathering (of waters)' — some read a deliberate double sense with the fountain at verse end"
-    },
-    {
-      "kind": "substitution",
-      "subject": "יסורי",
-      "rationale": "lit. 'my departers\/turning-away ones'; rendered as a descriptive phrase since the singular collective is awkward in Maltese"
-    },
-    {
-      "kind": "mystery",
-      "subject": "jinkitbu fl-art",
-      "rationale": "being 'written in the earth' is an opaque image: names written in dust to be blotted out, contrasted with heaven's writing"
-    }
-  ],
-  "translation": "It-tama ta' Jisrael, Jaħwe: kollha li jitlefuk jistħu, u dawk li jilħqu bogħod jinkitbu fl-art, għax abbandunaw ⟨את⟩ lil Jaħwe, għajn ta' ilma ħaj.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/17\/13-16.1792612809253.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "It-tama ta' Jisrael, Jaħwe — dawk kollha li jħalluk jitħassru, u dawk li jitilqu jinkitbu fl-art, għax ħallu lil ⟨את⟩ Jaħwe, għajn ta' ilma ħaj.",
   "tokens": [
     {
       "surface": "מקוה",
@@ -52,19 +21,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "dakk kollha"
     },
     {
       "surface": "עזביך",
-      "gloss": "li jitlefuk"
+      "gloss": "li jħalluk"
     },
     {
-      "surface": "יבשu",
-      "gloss": "jistħu"
+      "surface": "יבשו",
+      "gloss": "jitħassru"
     },
     {
       "surface": "יסורי",
-      "gloss": "dawk li jilħqu bogħod"
+      "gloss": "dawk li jitilqu"
     },
     {
       "surface": "בארץ",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "עזבו",
-      "gloss": "abbandunaw"
+      "gloss": "ħallu"
     },
     {
       "surface": "מקור",
@@ -97,13 +66,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Jaħwe"
+      "marks": "Jaħwe"
     },
     {
       "surface": "יהוה",
-      "gloss": "lil Jaħwe"
+      "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:00:09.254148731Z",
+  "timestamp": "2026-10-22T00:27:50.040775162Z",
   "model": "glm-5.3"
 }

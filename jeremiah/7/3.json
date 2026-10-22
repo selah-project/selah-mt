@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jien",
-      "rationale": "il-pronunja miżjeda bil-Malti għal ואשכנה b'waw konversiva"
-    }
-  ],
-  "translation": "Hekk jgħid Jaħwe Tsebawot, Elohim ta' Jisrael: Ittajbu triqtkom u għemilkom, u jien nixtikom f'dan il-post.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/7\/1-4.1792612482830.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hekk jgħid Jaħwe Tsebawot, Elohim ta' Jisrael: Ittajjbu triqatkom u għemiltkom, u jiena nossokondkom f'dan il-post.",
   "tokens": [
     {
       "surface": "כה",
@@ -49,23 +33,24 @@
     },
     {
       "surface": "היטיבו",
-      "gloss": "Ittajbu"
+      "gloss": "Ittajjbu"
     },
     {
       "surface": "דרכיכם",
-      "gloss": "triqtkom"
+      "gloss": "triqatkom"
     },
     {
       "surface": "ומעלליכם",
-      "gloss": "u għemilkom"
+      "gloss": "u għemiltkom"
     },
     {
       "surface": "ואשכנה",
-      "gloss": "u nixtikom"
+      "gloss": "u nossokondkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩",
+      "marks": "komni (il-pronom suffiss: lilkom)"
     },
     {
       "surface": "במקום",
@@ -73,9 +58,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "f'dan il-post"
     }
   ],
-  "timestamp": "2026-10-21T19:54:42.831838227Z",
+  "timestamp": "2026-10-22T00:32:56.074904252Z",
   "model": "glm-5.3"
 }

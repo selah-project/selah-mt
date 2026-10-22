@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dgħajjef",
-      "rationale": "חקים — 'dgħajjef' għal deċreti\/enazzjonijiet; dgħajfa semantika."
-    },
-    {
-      "kind": "substitution",
-      "subject": "qaqsmu",
-      "gloss": "gloss: qegħdin taqsmu",
-      "rationale": "עברים — 'dqieqi taqsmu' biss; 'qegħdin' miżjud għall-grammatika"
-    }
-  ],
-  "translation": "U lilija ħabbar Jaħwe f'dak iż-żmien biex ngħallimkom dgħajjef u ġudizzji, biex tagħmluhom ⟨את⟩ fl-art li qegħdin taqsmu għal hemn biex twettuha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3eecf7ee101dc8c26e19ecbf1f6594179a575a56d87ac516868ed04520af422d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/4\/13-16.1792605387451.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lilija ordna Jaħwe f'dak iż-żmien biex ngħallemkom ⟨את⟩ ħokkim u ġudizzji, biex intom tagħmluhom ⟨את⟩ fl-art li qiegħed taqsmu għal hemm, biex tieħduha ⟨b'pussess⟩.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ u lilija"
+      "gloss": "U lilija ⟨את⟩",
+      "marks": "ordna"
     },
     {
       "surface": "צוה",
-      "gloss": "ħabbar"
+      "gloss": "ordna"
     },
     {
       "surface": "יהוה",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "ללמד",
-      "gloss": "biex ngħallimkom"
+      "gloss": "biex ngħallem"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩ kom"
     },
     {
       "surface": "חקים",
-      "gloss": "dgħajjef"
+      "gloss": "ħokkim"
     },
     {
       "surface": "ומשפטים",
@@ -67,12 +46,12 @@
     },
     {
       "surface": "לעשתכם",
-      "gloss": "biex tagħmluhom"
+      "gloss": "biex tagħmlu"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "dgħajjef u ġudizzji"
+      "marks": "fl-art"
     },
     {
       "surface": "בארץ",
@@ -88,17 +67,17 @@
     },
     {
       "surface": "עברים",
-      "gloss": "qaqsmu"
+      "gloss": "qiegħed taqsmu"
     },
     {
       "surface": "שמה",
-      "gloss": "għal hemn"
+      "gloss": "għal hemm"
     },
     {
       "surface": "לרשתה",
-      "gloss": "biex twettuha"
+      "gloss": "biex tieħduha b'pussess"
     }
   ],
-  "timestamp": "2026-10-21T17:56:27.452907090Z",
+  "timestamp": "2026-10-22T00:11:15.969960506Z",
   "model": "glm-5.3"
 }

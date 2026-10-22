@@ -5,59 +5,33 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jikkuffara",
-      "rationale": "kufar tfisser 'jgħatti'; bil-Malti ħdimha b'rerada tal-Lhudi għerq k-p-r"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וכפר…יכפר…יכפר",
-      "rationale": "għerq k-p-r irrepetut tliet darbiet fil-vers, ripetizzjoni retorika li tgħaddi"
-    },
-    {
-      "kind": "elision",
-      "subject": "cohenim",
-      "rationale": "kelma Lhudija miżjuma fil-glossarju minflok 'qassisin'"
-    }
-  ],
-  "translation": "U jikkuffara ⟨את⟩ għall-qaddis tal-qaddis, u ⟨את⟩ għat-tinda tal-laqgħa, u ⟨את⟩ għall-artal jikkuffara; u għall-cohenim u għal kull nies il-knisja jikkuffara.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1d3a8d3ce0f13146418a6c3e69e0f795069a2a6bb31222b9ebc1f74a596db30b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/33-34.1792600884877.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jkiper ⟨את⟩ l-qaddis tal-qdusija, u ⟨את⟩ il-Mixkan tal-laqgħa, u ⟨את⟩ l-artal jkiper; u għall-qassisin u għal kollha kemm hi l-poplu tal-laqqgħa jkiper.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "u jikkuffara"
+      "gloss": "u jkiper"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "għall-qaddis tal-qaddis"
+      "marks": "l-qaddis tal-qdusija"
     },
     {
       "surface": "מקדש",
-      "gloss": "għall-qaddis"
+      "gloss": "l-qaddis"
     },
     {
       "surface": "הקדש",
-      "gloss": "tal-qaddis"
+      "gloss": "tal-qdusija"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "għat-tinda tal-laqgħa"
+      "marks": "il-Mixkan tal-laqgħa"
     },
     {
       "surface": "אהל",
-      "gloss": "għat-tinda"
+      "gloss": "il-Mixkan"
     },
     {
       "surface": "מועד",
@@ -66,23 +40,23 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "għall-artal"
+      "marks": "l-artal"
     },
     {
       "surface": "המזבח",
-      "gloss": "għall-artal"
+      "gloss": "l-artal"
     },
     {
       "surface": "יכפר",
-      "gloss": "jikkuffara"
+      "gloss": "jkiper"
     },
     {
       "surface": "ועל",
-      "gloss": "u għall-"
+      "gloss": "u għal"
     },
     {
       "surface": "הכהנים",
-      "gloss": "cohenim"
+      "gloss": "l-qassisin"
     },
     {
       "surface": "ועל",
@@ -90,21 +64,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollha kemm hi"
     },
     {
       "surface": "עם",
-      "gloss": "nies"
+      "gloss": "l-poplu"
     },
     {
       "surface": "הקהל",
-      "gloss": "il-knisja"
+      "gloss": "tal-laqqgħa"
     },
     {
       "surface": "יכפר",
-      "gloss": "jikkuffara"
+      "gloss": "jkiper"
     }
   ],
-  "timestamp": "2026-10-21T16:41:24.878264454Z",
+  "timestamp": "2026-10-22T00:40:28.525018375Z",
   "model": "glm-5.3"
 }

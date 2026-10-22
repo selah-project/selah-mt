@@ -5,36 +5,16 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tfal żgħar",
-      "rationale": "ha-taf: it-tfal żgħar, trażżan mal-familja"
-    },
-    {
-      "kind": "crux",
-      "subject": "ħerem",
-      "rationale": "ħerem: devot għall-qerda sħiħa; xi tradutturi jirrenduh 'qerda sħiħa' jew 'nizzlu'"
-    }
-  ],
-  "translation": "U niżleshom bil-ħerem, kif għamilna ma' Sihon sultan ta' Ħeżbon: ħerem fuq kull belt, l-irġiel, in-nisa u t-tfal żgħar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/3\/5-8.1792605296391.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għamilna l-ħerem ⟨את⟩ lilhom, kif għamilna ma' Siħon, sultan ta' Ħeżbon: il-ħerem f'kull belt, l-irġiel, in-nisa u ż-żgħar.",
   "tokens": [
     {
       "surface": "ונחרם",
-      "gloss": "U niżleshom bil-ħerem"
+      "gloss": "u għamilna l-ħerem"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
     },
     {
       "surface": "כאשר",
@@ -46,7 +26,7 @@
     },
     {
       "surface": "לסיחן",
-      "gloss": "ma' Sihon"
+      "gloss": "ma' Siħon"
     },
     {
       "surface": "מלך",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "החרם",
-      "gloss": "ħerem"
+      "gloss": "il-ħerem"
     },
     {
       "surface": "כל",
@@ -78,9 +58,9 @@
     },
     {
       "surface": "והטף",
-      "gloss": "u t-tfal żgħar"
+      "gloss": "u ż-żgħar"
     }
   ],
-  "timestamp": "2026-10-21T17:54:56.392675140Z",
+  "timestamp": "2026-10-22T00:10:25.888776497Z",
   "model": "glm-5.3"
 }

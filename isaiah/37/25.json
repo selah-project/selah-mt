@@ -5,40 +5,19 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "mitsor",
-      "rationale": "מצור: 'Eġittu' (KJV marg, ASV, JPS) kontra 'postijiet miżgħuma' (KJV, Geneva); hawn Mitsrajim, bħal ASV\/JPS."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kanali",
-      "rationale": "יארי huwa l-isem tal-Nil u l-kanali tiegħu; 'kanali' żżomm il-qegħda ta' kelma waħda għal kollox."
-    }
-  ],
-  "translation": "Jiena ħritejt u xorbt ilma, u nixxfet bil-wicc ta' riġlejja l-kanali kollha ta' Mitsrajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "80e69516efea07861dd8bca213943a302e462b1a6c3b2fe56cdedc336116a713",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/37\/25-28.1792611646663.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jien ħaffrit u seħet ilma, u bil-pala ta' passi nixxfi d-dellijiet kollha ta' Mitsrajim.",
   "tokens": [
     {
       "surface": "אני",
-      "gloss": "Jiena"
+      "gloss": "Jien"
     },
     {
       "surface": "קרתי",
-      "gloss": "ħritejt"
+      "gloss": "ħaffrit"
     },
     {
       "surface": "ושתיתי",
-      "gloss": "u xorbt"
+      "gloss": "u seħet"
     },
     {
       "surface": "מים",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "ואחרב",
-      "gloss": "u nixxfet"
+      "gloss": "u nixxfi"
     },
     {
       "surface": "בכף",
-      "gloss": "bil-wicc"
+      "gloss": "bil-pala"
     },
     {
       "surface": "פעמי",
-      "gloss": "ta' riġlejja"
+      "gloss": "ta' passi"
     },
     {
       "surface": "כל",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "יארי",
-      "gloss": "l-kanali"
+      "gloss": "d-dellijiet"
     },
     {
       "surface": "מצור",
       "gloss": "ta' Mitsrajim"
     }
   ],
-  "timestamp": "2026-10-21T19:40:46.664548762Z",
+  "timestamp": "2026-10-22T00:25:44.277485783Z",
   "model": "glm-5.3"
 }

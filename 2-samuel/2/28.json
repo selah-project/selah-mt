@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עוד (l-ewwel)",
-      "rationale": "L-ewwel עוד inhaġġa fil-ġraf Maltija 'ma għadux'; it-tieni baqa' bħala 'iktar'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ולא ... עוד ... ולא ... עוד",
-      "rationale": "Ripetizzjoni mbigħla: 'u ma ... iktar ... u ma ... iktar' — ir-ritmu tal-waqfien jiġi mgħejjun bil-ħoss."
-    }
-  ],
-  "translation": "U Joab daqq is-shofar, u l-poplu kollu waqaf joqgħod, u ma għadux segwew lil Jisrael, u ma żiedux jaqbdu iktar ġlied.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7454c715e19dddd9ac74b0906354c40053e7f8a51298c3b388efea4ac476618a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/2\/27-28.1792623320928.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joab daqq il-qarn, u ħrief in-nies kollha, u ma segwewx iktar lil Jisrael, u ma żidux iktar jiġġieldu.",
   "tokens": [
     {
       "surface": "ויתקע",
-      "gloss": "u daqq"
+      "gloss": "daqq"
     },
     {
       "surface": "יואב",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "בשופר",
-      "gloss": "is-shofar"
+      "gloss": "il-qarn"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "u waqfu joqogħdu"
+      "gloss": "u ħrief"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "ולא",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "ירדפו",
-      "gloss": "għadux segwew"
+      "gloss": "segwewx"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "iktar"
     },
     {
       "surface": "אחרי",
-      "gloss": "wara"
+      "gloss": ""
     },
     {
       "surface": "ישראל",
-      "gloss": "lil Jisrael"
+      "gloss": "Jisrael"
     },
     {
       "surface": "ולא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "יספו",
-      "gloss": "żiedux"
+      "gloss": "żidux"
     },
     {
       "surface": "עוד",
@@ -86,9 +65,9 @@
     },
     {
       "surface": "להלחם",
-      "gloss": "jaqbdu ġlied"
+      "gloss": "jiġġieldu"
     }
   ],
-  "timestamp": "2026-10-21T22:55:20.928771193Z",
+  "timestamp": "2026-10-22T00:06:37.465077789Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עפר \/ בעפר",
-      "rationale": "il-verb 'trab' u n-nomen 'trab' mill-istess għerq — 'ħawwad it-trab bit-trab' iżomm id-doppja"
-    },
-    {
-      "kind": "addition",
-      "subject": "it-trab",
-      "rationale": "l-ewwel 'trab' miżjud bil-Malti għax il-verb עפר waħdu m'għandux oġġett"
-    }
-  ],
-  "translation": "U David u rġielu mxew fit-triq, u Ximi kien miexi fuq l-għanquba tal-muntanja qablu, għaddej u jisbecca, u jirmeġ bil-ġebel qablu, u ħawwad it-trab bit-trab.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/16\/13-16.1792608943679.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David u raġlu maru fit-triq, u Ximi kien miexi fil-ġenb tal-muntanja parallel għalih, miexi jisbetta u jixħat il-ġebel parallel għalih u jixħat trab bit-trab.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "u mxew"
+      "gloss": "maru"
     },
     {
       "surface": "דוד",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ואנשיו",
-      "gloss": "u rġielu"
+      "gloss": "u raġlu"
     },
     {
       "surface": "בדרך",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "בצלע",
-      "gloss": "fuq l-għanquba"
+      "gloss": "fil-ġenb"
     },
     {
       "surface": "ההר",
@@ -62,37 +41,37 @@
     },
     {
       "surface": "לעמתו",
-      "gloss": "qablu"
+      "gloss": "parallel għalih"
     },
     {
       "surface": "הלוך",
-      "gloss": "għaddej"
+      "gloss": "miexi"
     },
     {
       "surface": "ויקלל",
-      "gloss": "u jisbecca"
+      "gloss": "jisbetta"
     },
     {
       "surface": "ויסקל",
-      "gloss": "u jirmeġ"
+      "gloss": "jixħat il-ġebel"
     },
     {
       "surface": "באבנים",
-      "gloss": "bil-ġebel"
+      "gloss": "il-ġebel"
     },
     {
       "surface": "לעמתו",
-      "gloss": "qablu"
+      "gloss": "parallel għalih"
     },
     {
       "surface": "ועפר",
-      "gloss": "u ħawwad it-trab"
+      "gloss": "jixħat trab"
     },
     {
       "surface": "בעפר",
       "gloss": "bit-trab"
     }
   ],
-  "timestamp": "2026-10-21T18:55:43.680517171Z",
+  "timestamp": "2026-10-22T00:06:03.944596734Z",
   "model": "glm-5.3"
 }

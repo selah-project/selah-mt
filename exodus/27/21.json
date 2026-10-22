@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "parur",
-      "rationale": "פרכת huwa s-screen separator; 'parur' miżmum bħala kelma semitika qariba mhux 'tendela'"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "m-את 854\/853 fil-finali — 'minn ⟨את⟩ ulied Jisrael', ma jittraduċix b'mod nadif bil-Malti"
-    },
-    {
-      "kind": "measurement",
-      "subject": "minn filgħaxija sa filgħodu",
-      "rationale": "ir-regolazzjoni tal-lampa ddettaljata bid-dawl ta' lejl sħiħ, għal ġenerazzjonijiet"
-    }
-  ],
-  "translation": "Fit-tenda tal-laqgħa, barra mill-parur li qiegħed fuq ix-xhudja, Aharon uliedu jirranġawh minn filgħaxija sa filgħodu, quddiem Jaħwe — statut ta' għal dejjem għal ġenerazzjonijiethom, minn ⟨את⟩ ulied Jisrael.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "f30aaa4d88b14b1e8fc58500f0de710ee7274dcb5ef135ef2b1596f4f231e82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/27\/21-21.1792599843979.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fit-tenda tal-laqgħa, barra mill-paroket li ⟨hu⟩ fuq ix-xhieda, Aharon uliedu jieħdu ħsieb ⟨את⟩ minn filgħaxija sa filgħodu quddiem Jaħwe — statut ta' għal dejjem għal ġenerazzjonijiethom, minn ⟨għand⟩ wladi Jisrael.",
   "tokens": [
     {
       "surface": "באהל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "לפרכת",
-      "gloss": "mill-parur"
+      "gloss": "mill-paroket"
     },
     {
       "surface": "אשר",
@@ -59,16 +33,16 @@
     },
     {
       "surface": "העדת",
-      "gloss": "ix-xhudja"
+      "gloss": "ix-xhieda"
     },
     {
       "surface": "יערך",
-      "gloss": "jirranġawh"
+      "gloss": "jieħdu ħsieb"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jirranġawh — l-arma ta' Aharon"
+      "marks": "dawwa (il-lampa)"
     },
     {
       "surface": "אהרן",
@@ -116,13 +90,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlad"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T16:24:03.979843945Z",
+  "timestamp": "2026-10-22T00:13:11.438466704Z",
   "model": "glm-5.3"
 }

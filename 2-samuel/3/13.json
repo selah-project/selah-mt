@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "the pair כי אם is a single 'except' construction; אם elided into the Maltese 'ħlief'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאל \/ שאול",
-      "rationale": "David 'asks' (שאל) for the daughter of Shaul (שאול) — same consonants, echo lost in Maltese"
-    }
-  ],
-  "translation": "U qal: Tajjeb, jiena naqta' ⟨את⟩ miegħek patt; imma ħaġa waħda jiena nitlob mingħand ⟨את⟩-ek, biex ngħid: Mhux se tara ⟨את⟩ wiċċi, ħlief qabel ma tiġġib ⟨את⟩ lil Mikal bint Xaul, meta tiġi biex tara ⟨את⟩ wiċċi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/3\/13-16.1792608609210.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal: Tajjeb, jien naqta' magħmek ⟨את⟩ patt; imma ħaġa waħda jiena nitlob mingħandek, ngħid: Mhux se tarax ⟨את⟩ wiċċi, jekk mhux qabel ma ġġib lil ⟨את⟩ Miħal bint Xaul, meta tiġi biex tara ⟨את⟩ wiċċi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "טוב",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "jiena"
+      "gloss": "jien"
     },
     {
       "surface": "אכרת",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "magħmek ⟨את⟩"
     },
     {
       "surface": "ברית",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "mingħand ⟨את⟩-ek"
+      "gloss": "mingħandek ⟨את⟩"
     },
     {
       "surface": "לאמר",
-      "gloss": "biex ngħid"
+      "gloss": "ngħid"
     },
     {
       "surface": "לא",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "תראה",
-      "gloss": "tara"
+      "gloss": "tarax"
     },
     {
       "surface": "את",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ħlief"
+      "gloss": "jekk"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "mhux"
     },
     {
       "surface": "לפני",
@@ -111,16 +90,16 @@
     },
     {
       "surface": "הביאך",
-      "gloss": "ma tiġġib"
+      "gloss": "ġġib"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Mikal bint Xaul"
+      "marks": "lil Miħal"
     },
     {
       "surface": "מיכל",
-      "gloss": "Mikal"
+      "gloss": "Miħal"
     },
     {
       "surface": "בת",
@@ -148,6 +127,6 @@
       "gloss": "wiċċi"
     }
   ],
-  "timestamp": "2026-10-21T18:50:09.211511348Z",
+  "timestamp": "2026-10-22T00:07:33.041521778Z",
   "model": "glm-5.3"
 }

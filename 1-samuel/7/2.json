@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "Il-kopula Maltija miżjuda għal ויהי li m'għandux veru kopula hawn."
-    },
-    {
-      "kind": "crux",
-      "subject": "וינהו",
-      "rationale": "'ħarbtu\/nagħġaw' (lamentaw) kontra 'l-eżiljaw' (נהה bħala nofs 1 Sam 10:5) kontra JPS 'yearned' — il-Lhudi għandu t-tnejn."
-    },
-    {
-      "kind": "measurement",
-      "subject": "għoxrin sena",
-      "rationale": "Għadd ta' snin imkejjel — l-arċa bqiet f'Kirjat Jearim għoxrin sena."
-    }
-  ],
-  "translation": "U ⟨kien⟩ mill-jum li l-arċa bqiet fi ġirja f'Kirjat Jearim, u tawlu l-jiem, u kienu għoxrin sena; u dawk kollha tad-dar ta' Jisrael ħarbtu wara Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "82bf4cc362d47d076227c6d60fb60d9f18f9d866641eab4f0559b09e12a3bce9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/7\/1-4.1792607837096.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨kien⟩ mill-jum li l-aron qagħad fi Qirjat-Jaʼarim, u l-jiem ħadmu ħafna, u saru għoxrin sena; u dar Jisrael kollha bdiet tistaħba wara Jaħwe.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -43,23 +17,23 @@
     },
     {
       "surface": "שבת",
-      "gloss": "bqiet"
+      "gloss": "qagħad"
     },
     {
       "surface": "הארון",
-      "gloss": "l-arċa"
+      "gloss": "l-aron"
     },
     {
       "surface": "בקרית",
-      "gloss": "fi"
+      "gloss": "fi Qirjat-"
     },
     {
       "surface": "יערים",
-      "gloss": "Kirjat Jearim"
+      "gloss": "Jaʼarim"
     },
     {
       "surface": "וירבו",
-      "gloss": "u tawlu"
+      "gloss": "u l-jiem ħadmu ħafna"
     },
     {
       "surface": "הימים",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "u kienu"
+      "gloss": "u saru"
     },
     {
       "surface": "עשרים",
@@ -78,16 +52,16 @@
       "gloss": "sena"
     },
     {
-      "surface": "וינהu",
-      "gloss": "ħarbtu"
+      "surface": "וינהו",
+      "gloss": "u bdiet tistaħba"
     },
     {
       "surface": "כל",
-      "gloss": "dawk kollha"
+      "gloss": "kollha"
     },
     {
       "surface": "בית",
-      "gloss": "tad-dar ta'"
+      "gloss": "dar"
     },
     {
       "surface": "ישראל",
@@ -102,6 +76,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T18:37:17.097812677Z",
+  "timestamp": "2026-10-22T00:01:05.570457102Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויצר \/ ולא חזקו",
-      "rationale": "il-vers iqarreb: il-għajnuna mitluba ssir theddida — 'tresser lilu, iżda ma saħħitx lilu'"
-    },
-    {
-      "kind": "crux",
-      "subject": "תלגת פלנאסר",
-      "rationale": "hawnha Tilgat-Pilneser, f'Reġi II 16:7 Tiglat-Pileser — l-ortografija ta' l-isem tal-Assur tvarja"
-    }
-  ],
-  "translation": "U ġie kontrih Tilt-Pilneser, sultan ta' Assur, u tresser ⟨lilu⟩, iżda ma saħħitx lilu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "73d22c05fe5e9f0669888074dafbc64fc05d5c2f9558be243587cbc8fb7d1e2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/28\/17-20.1792622838517.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġie fuqu Tilgat Pilneser, sultan ta' Assur, u ħabsu ⟨( lil Ahaz )⟩, u ma ssahħħux.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "U ġie"
+      "gloss": "u ġie"
     },
     {
-      "surface": "עליw",
-      "gloss": "kontrih"
+      "surface": "עליו",
+      "gloss": "fuqu"
     },
     {
       "surface": "תלגת",
-      "gloss": "Tilt"
+      "gloss": "Tilgat"
     },
     {
       "surface": "פלנאסר",
@@ -54,21 +33,21 @@
     },
     {
       "surface": "ויצר",
-      "gloss": "u tresser"
+      "gloss": "u ħabsu"
     },
     {
       "surface": "לו",
-      "gloss": "lilu"
+      "gloss": "⟨lil Ahaz⟩"
     },
     {
       "surface": "ולא",
-      "gloss": "iżda le"
+      "gloss": "u ma"
     },
     {
       "surface": "חזקו",
-      "gloss": "ma saħħitx"
+      "gloss": "ssahħħux"
     }
   ],
-  "timestamp": "2026-10-21T22:47:18.519156363Z",
+  "timestamp": "2026-10-22T00:01:23.613807992Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "lil",
-      "rationale": "Il-Malti jeħtieġ 'lil' għall-oġġett dirett tan-nomi ta' nies."
-    }
-  ],
-  "translation": "U l-Filisti waħħlu fi Xaul u f'uliedu, u l-Filisti laqtu ⟨את⟩ lil Jehonatan u ⟨את⟩ lil Avinadav u ⟨את⟩ lil Malki-Xua, ulied Xaul.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4d58a11e9585da1d0ab4c9bb6a498cf93acdc7312f7e4d83624cc74d42f561da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/31\/1-4.1792608479816.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-Filixtin għarxu wara Xaul u wara uliedu, u l-Filixtin laqtu lil Jonatan u lil Avinadav u lil Malkixua, ulied Xaul.",
   "tokens": [
     {
       "surface": "וידבקו",
-      "gloss": "u waħħlu"
+      "gloss": "għarxu wara"
     },
     {
       "surface": "פלשתים",
-      "gloss": "l-Filisti"
+      "gloss": "l-Filixtin"
     },
     {
       "surface": "את",
@@ -42,33 +26,33 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u ⟨את⟩",
       "marks": "uliedu"
     },
     {
       "surface": "בניו",
-      "gloss": "f'uliedu"
+      "gloss": "uliedu"
     },
     {
       "surface": "ויכו",
-      "gloss": "u laqtu"
+      "gloss": "laqtu"
     },
     {
       "surface": "פלשתים",
-      "gloss": "l-Filisti"
+      "gloss": "l-Filixtin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehonatan"
+      "marks": "Jonatan"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jehonatan"
+      "gloss": "Jonatan"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u ⟨את⟩",
       "marks": "Avinadav"
     },
     {
@@ -77,8 +61,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Malki-Xua"
+      "gloss": "u ⟨את⟩",
+      "marks": "Malkixua"
     },
     {
       "surface": "מלכי",
@@ -86,7 +70,7 @@
     },
     {
       "surface": "שוע",
-      "gloss": "Xua"
+      "gloss": "xua"
     },
     {
       "surface": "בני",
@@ -97,6 +81,6 @@
       "gloss": "Xaul"
     }
   ],
-  "timestamp": "2026-10-21T18:47:59.817206088Z",
+  "timestamp": "2026-10-22T00:00:15.514716161Z",
   "model": "glm-5.3"
 }

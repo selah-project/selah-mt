@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ħames irġiel, sittin raġel",
-      "rationale": "Għadd ta' dawk li ttieħdu mill-belt, iċċitat b'saħħtu bħal-Lhudi"
-    },
-    {
-      "kind": "crux",
-      "subject": "הספר שר הצבא",
-      "rationale": "'il-kittieb, il-kap tal-eżerċitu' (żewġtitoli għal żewġ persuni jew għal persuna waħda — l-għadd għal ħamsa u sittin jiddependi fuq dan)"
-    },
-    {
-      "kind": "idiom",
-      "subject": "רואי פני המלך",
-      "rationale": "'dawk li jaraw wiċċ ir-re' — idjom għall-kunsallieri tal-qorti; il-livell litterali miżjud apposta"
-    }
-  ],
-  "translation": "U mill-belt ħa eunuku wieħed li kien imqabbad fuq il-ġellieda, u ħames irġiel minn dawk li kienu jaraw wiċċ ir-re, li nstabu fil-belt; u ⟨את⟩ il-kittieb, il-kap tal-eżerċitu, li kien jagħmel il-għadd ta' nies l-art, u sittin raġel minn nies l-art li nstabu fil-belt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/17-20.1792610815601.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mill-belt ħa ċarwin wieħed li ⟨hu⟩ responsabbli fuq irġiel il-ħerb, u ħames irġiel minn dawk li jaraw wiċċ ir-re, li nstabu fil-belt, u ⟨את⟩ l-iskriv, kaptan tal-armata, li jagħmel il-għadd ta' ⟨את⟩ il-poplu tal-art, u sittin raġel mill-poplu tal-art, li nstabu fil-belt.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "u minn"
+      "gloss": "mill-"
     },
     {
       "surface": "העיר",
-      "gloss": "il-belt"
+      "gloss": "belt"
     },
     {
       "surface": "לקח",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "סריס",
-      "gloss": "eunuku"
+      "gloss": "ċarwin"
     },
     {
       "surface": "אחד",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "kien"
+      "gloss": "hu"
     },
     {
       "surface": "פקיד",
-      "gloss": "mqabbad"
+      "gloss": "responsabbli"
     },
     {
       "surface": "על",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "il-ġellieda"
+      "gloss": "irġiel"
     },
     {
       "surface": "המלחמה",
-      "gloss": "tal-ġlied"
+      "gloss": "il-ħerb"
     },
     {
       "surface": "וחמשה",
-      "gloss": "u ħames"
+      "gloss": "ħames"
     },
     {
       "surface": "אנשים",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "מראי",
-      "gloss": "minn dawk li kienu jaraw"
+      "gloss": "minn dawk li jaraw"
     },
     {
       "surface": "פני",
@@ -111,41 +85,41 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "il-kittieb, il-kap tal-eżerċitu"
+      "gloss": "⟨את⟩",
+      "marks": "l-iskriv"
     },
     {
       "surface": "הספר",
-      "gloss": "il-kittieb"
+      "gloss": "l-iskriv"
     },
     {
       "surface": "שר",
-      "gloss": "il-kap"
+      "gloss": "kaptan"
     },
     {
       "surface": "הצבא",
-      "gloss": "tal-eżerċitu"
+      "gloss": "tal-armata"
     },
     {
       "surface": "המצבא",
-      "gloss": "li kien jagħmel il-għadd"
+      "gloss": "li jagħmel il-għadd ta'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nies l-art"
+      "marks": "il-poplu tal-art"
     },
     {
       "surface": "עם",
-      "gloss": "nies"
+      "gloss": "il-poplu"
     },
     {
       "surface": "הארץ",
-      "gloss": "l-art"
+      "gloss": "tal-art"
     },
     {
       "surface": "וששים",
-      "gloss": "u sittin"
+      "gloss": "sittin"
     },
     {
       "surface": "איש",
@@ -153,11 +127,11 @@
     },
     {
       "surface": "מעם",
-      "gloss": "minn nies"
+      "gloss": "mill-poplu"
     },
     {
       "surface": "הארץ",
-      "gloss": "l-art"
+      "gloss": "tal-art"
     },
     {
       "surface": "הנמצאים",
@@ -168,6 +142,6 @@
       "gloss": "fil-belt"
     }
   ],
-  "timestamp": "2026-10-21T19:26:55.606053705Z",
+  "timestamp": "2026-10-22T00:05:28.253453804Z",
   "model": "glm-5.3"
 }

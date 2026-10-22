@@ -5,45 +5,19 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרגע",
-      "rationale": "literalment 'f'għaxja ta' għajn', għajn ma tagħlaq u tiftaħ — żmien qosri ħafna"
-    },
-    {
-      "kind": "you",
-      "subject": "Moshe u Aharon",
-      "rationale": "kelma diretta ta' Jaħwe li tordna lilihom jitilgħu mill-laqgħa"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הרמו\/ויפלו",
-      "rationale": "tlugħ kontra waqgħa: ħaqtubija ta' movimenti fil-vers"
-    }
-  ],
-  "translation": "Itellgħu minn fost din il-laqgħa, u jiena nnieqsi lilhom ⟨את⟩ f'għaxja ta' għajn. U jaqgħu fuq wċcħom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3e9a19d84daa8cae4924321ab4330969c16bebb65023a0a5b1069283c012d677",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/17\/10-12.1792604888979.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "«Qumu minn nofs din il-ġemgħa, u jien nqerdihom bħal f'mument.» U waqgħu fuq wċcuhom.",
   "tokens": [
     {
       "surface": "הרמו",
-      "gloss": "itellgħu"
+      "gloss": "Qumu"
     },
     {
       "surface": "מתוך",
-      "gloss": "minn fost"
+      "gloss": "minn nofs"
     },
     {
       "surface": "העדה",
-      "gloss": "il-laqgħa"
+      "gloss": "il-ġemgħa"
     },
     {
       "surface": "הזאת",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "ואכלה",
-      "gloss": "u jiena nnieqsi"
+      "gloss": "u jien nqerdihom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom",
-      "marks": "din il-laqgħa"
+      "gloss": "⟨את⟩",
+      "marks": "hom (il-ġemgħa)"
     },
     {
       "surface": "כרגע",
-      "gloss": "f'għaxja ta' għajn"
+      "gloss": "bħal f'mument"
     },
     {
       "surface": "ויפלו",
-      "gloss": "u yaqgħu"
+      "gloss": "U waqgħu"
     },
     {
       "surface": "על",
@@ -72,9 +46,9 @@
     },
     {
       "surface": "פניהם",
-      "gloss": "wċcħom"
+      "gloss": "wċcuhom"
     }
   ],
-  "timestamp": "2026-10-21T17:48:08.980361461Z",
+  "timestamp": "2026-10-22T00:44:40.622871886Z",
   "model": "glm-5.3"
 }

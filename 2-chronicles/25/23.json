@@ -5,38 +5,12 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "erbgħa mija amma",
-      "rationale": "Tul tax-xatba mkejjel b' ammot (djar id-dirgħajn), minn daħla għal oħra."
-    },
-    {
-      "kind": "crux",
-      "subject": "הפונה",
-      "rationale": "'Id-daħla tal-Mitluża' — שער הפונה, ' dawk li ddur'; l-aktar traduzzjonijiet jieħdu 'corner gate', iżda l- għerq huwa 'warrab \/ idur'."
-    },
-    {
-      "kind": "elision",
-      "subject": "ויפרץ בחומת",
-      "rationale": "L-Ebrajk jgħid biss ' u fetħa fix-xatba', mingħajr'sieq ta' sieq'; verb qasir u statiku."
-    }
-  ],
-  "translation": "U ⟨את⟩ Amatsjahu sultan Jehuda, iben Joax iben Jexo-aħaz, Jaħwe ma ħadux — Joax sultan Jisrael qaħdu f'Bet-Xemex, u daħħlu Jeruxalajim, u fetħa fix-xatba ta' Jeruxalajim, mid-daħla ta' Efrajim sal-daħla tal-Mitluża, erbgħa mija amma.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "965618fef76daf68c62015673fa782158615ccdc1d1698af532ff535e8dbba2d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/25\/21-24.1792622743055.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil ⟨את⟩ Amatsjahu, sultan ta' Jehuda, iben Joax, iben Jehoaħaz, qabad Joax sultan ta' Jisrael f'Bet-Xemex, u ġabuh Jeruxalajim, u tkisser fil-ħajt ta' Jeruxalajim, minn bieb Efrajim sa bieb il-miżjud, erbgħa miet ema.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Amatsjahu sultan Jehuda"
+      "marks": "lil Amatsjahu sultan ta' Jehuda"
     },
     {
       "surface": "אמציהו",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "יהואחז",
-      "gloss": "Jexo-aħaz"
+      "gloss": "Jehoaħaz"
     },
     {
       "surface": "תפש",
-      "gloss": "qaħdu"
+      "gloss": "qabad"
     },
     {
       "surface": "יואש",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ויביאהו",
-      "gloss": "u daħħlu"
+      "gloss": "u ġabuh"
     },
     {
       "surface": "ירושלם",
@@ -100,19 +74,19 @@
     },
     {
       "surface": "ויפרץ",
-      "gloss": "u fetħa"
+      "gloss": "u tkisser"
     },
     {
       "surface": "בחומת",
-      "gloss": "fix-xatba ta'"
+      "gloss": "fil-ħajt"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Jeruxalajim"
+      "gloss": "ta' Jeruxalajim"
     },
     {
       "surface": "משער",
-      "gloss": "mid-daħla ta'"
+      "gloss": "minn bieb"
     },
     {
       "surface": "אפרים",
@@ -120,15 +94,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "sal-"
+      "gloss": "sa"
     },
     {
       "surface": "שער",
-      "gloss": "daħla"
+      "gloss": "bieb"
     },
     {
       "surface": "הפונה",
-      "gloss": "tal-Mitluża"
+      "gloss": "il-miżjud"
     },
     {
       "surface": "ארבע",
@@ -136,13 +110,13 @@
     },
     {
       "surface": "מאות",
-      "gloss": "mija"
+      "gloss": "miet"
     },
     {
       "surface": "אמה",
-      "gloss": "amma"
+      "gloss": "ema"
     }
   ],
-  "timestamp": "2026-10-21T22:45:43.057215512Z",
+  "timestamp": "2026-10-22T01:48:13.068733762Z",
   "model": "glm-5.3"
 }

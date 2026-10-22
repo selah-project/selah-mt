@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חשמל",
-      "rationale": "Ħaxmal — kelma rarissima (Eżekjel biss, tlett darbiet), probabbilment metall imleħħen; ma ntradnitx."
-    },
-    {
-      "kind": "crux",
-      "subject": "בית לה",
-      "rationale": "'Belt tagħha' (ħāyitāh) — litteralment 'id-dar ta' ġewwa' tagħha: nar ta' ġewwa, jew ċirku jgħatti; tradutturi jaqtgħuha differenti."
-    },
-    {
-      "kind": "substitution",
-      "subject": "qaddu",
-      "rationale": "מתניו huma l-ġwienb\/lomgs; bil-Malti 'qadd' (il-ġurħum tan-nofs) jagħti l-istess pożizzjoni tal-ġisem."
-    }
-  ],
-  "translation": "U rajt bħad-dawl ta' ħaxmal, bħad-dehra ta' nar bil-belt tagħha, madwar; mid-dehra ta' qaddu sa minn fuq, u mid-dehra ta' qaddu sa minn isfel, rajt bħad-dehra ta' nar, u dawl lilu madwar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/1\/25-28.1792614079231.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U rajt bħal għajn ta' ħaxmal, bħad-dehra tan-nar — ġewwa dawk ⟨għaliha⟩ madwar — mid-dehra ta' qaddu sa fuq, u mid-dehra ta' qaddu sa isfel, rajt bħad-dehra tan-nar, u dawl jleqq għalih madwar.",
   "tokens": [
     {
       "surface": "וארא",
@@ -39,27 +13,27 @@
     },
     {
       "surface": "כעין",
-      "gloss": "bħad-dawl"
+      "gloss": "bħal għajn"
     },
     {
       "surface": "חשמל",
       "gloss": "ħaxmal"
     },
     {
-      "surface": "кמראה",
+      "surface": "כמראה",
       "gloss": "bħad-dehra"
     },
     {
       "surface": "אש",
-      "gloss": "ta' nar"
+      "gloss": "tan-nar"
     },
     {
       "surface": "בית",
-      "gloss": "bil-belt"
+      "gloss": "ġewwa dawk"
     },
     {
       "surface": "לה",
-      "gloss": "tagħha"
+      "gloss": "⟨għaliha⟩"
     },
     {
       "surface": "סביב",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ולמעלה",
-      "gloss": "sa minn fuq"
+      "gloss": "sa fuq"
     },
     {
       "surface": "וממראה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ולמטה",
-      "gloss": "sa minn isfel"
+      "gloss": "sa isfel"
     },
     {
       "surface": "ראיתי",
@@ -99,21 +73,21 @@
     },
     {
       "surface": "אש",
-      "gloss": "ta' nar"
+      "gloss": "tan-nar"
     },
     {
       "surface": "ונגה",
-      "gloss": "u dawl"
+      "gloss": "u dawl jleqq"
     },
     {
       "surface": "לו",
-      "gloss": "lilu"
+      "gloss": "għalih"
     },
     {
       "surface": "סביב",
       "gloss": "madwar"
     }
   ],
-  "timestamp": "2026-10-21T20:21:19.232973214Z",
+  "timestamp": "2026-10-22T00:16:11.603016841Z",
   "model": "glm-5.3"
 }

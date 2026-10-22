@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nifsok",
-      "rationale": "נפש הija nifs\/ħajja, mhux 'anima' biss"
-    },
-    {
-      "kind": "crux",
-      "subject": "jaqta' l-ġilda",
-      "rationale": "ומל litteralment 'ċirkonċidi' — qatra fuq il-qalb, metafora miżmuma litterali"
-    }
-  ],
-  "translation": "U Jaħwe Elohim tiegħek jaqta' l-ġilda ta' qalbek u l-ġilda ta' qalb żerriegħaħ, biex taħobb lil Jaħwe Elohim tiegħek b'qalbek kollha u b'nifsok kollu, għall-ġrajja tiegħek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f2f469d4827a15866facddf263dc3d0788e99ec158222deee8159c8c5f9a2ae2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/5-8.1792606006101.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe Elohim jideċċemta ⟨את⟩ qlubkom u ⟨את⟩ il-qalb ta' nistgħuk, biex tħobb ⟨את⟩ lil Jaħwe Elohim b'qalbek kollha u bir-ruwaħ kollha tiegħek, għall-ħajja tiegħek.",
   "tokens": [
     {
       "surface": "ומל",
-      "gloss": "jaqta' l-ġilda"
+      "gloss": "u jideċċemta"
     },
     {
       "surface": "יהוה",
@@ -38,72 +17,72 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim tiegħek"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qalbek"
+      "marks": "qlubkom"
     },
     {
       "surface": "לבבך",
-      "gloss": "qalbek"
+      "gloss": "qlubkom"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "qalb żerriegħaħ"
+      "marks": "il-qalb ta' nistgħuk"
     },
     {
       "surface": "לבב",
-      "gloss": "qalb"
+      "gloss": "il-qalb"
     },
     {
       "surface": "זרעך",
-      "gloss": "żerriegħaħ"
+      "gloss": "ta' nistgħuk"
     },
     {
       "surface": "לאהבה",
-      "gloss": "biex taħobb"
+      "gloss": "biex tħobb"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe Elohim tiegħek"
+      "marks": "Jaħwe Elohim"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "lil Jaħwe"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim tiegħek"
+      "gloss": "Elohim"
     },
     {
       "surface": "בכל",
-      "gloss": "b'... kollha"
+      "gloss": "b'"
     },
     {
       "surface": "לבבך",
-      "gloss": "qalbek"
+      "gloss": "qalbek kollha"
     },
     {
       "surface": "ובכל",
-      "gloss": "u b'... kollu"
+      "gloss": "u bir-"
     },
     {
       "surface": "נפשך",
-      "gloss": "nifsok"
+      "gloss": "ruwaħ kollha tiegħek"
     },
     {
       "surface": "למען",
-      "gloss": "għall-"
+      "gloss": "għal"
     },
     {
       "surface": "חייך",
-      "gloss": "ġrajja tiegħek"
+      "gloss": "ħajja tiegħek"
     }
   ],
-  "timestamp": "2026-10-21T18:06:46.102552613Z",
+  "timestamp": "2026-10-22T00:10:30.834092291Z",
   "model": "glm-5.3"
 }

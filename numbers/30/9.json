@@ -5,71 +5,45 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruħ",
-      "rationale": "נפש הija aktar qrib 'ħajja\/nifs\/appetit' milli 'ruħ' bħala entità separata"
-    },
-    {
-      "kind": "crux",
-      "subject": "מבטא",
-      "rationale": "'għajduta' (kelma maħruga bla ħsieb, KJV rash utterance) kontra JPS 'clear utterance'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אסר\/אסרה",
-      "rationale": "l-istess għerq 'fissret\/obbligu' – il-marba tqiegħed l-oblizzjonijiet tagħha, mhemmx fl-Ewropa perdut bil-Malti għax 'fissret' iżomm il-qaħba"
-    }
-  ],
-  "translation": "U jekk fl-istess jum li sema' biha r-raġel tagħha jzommhiex lilha milli tagħmel, huwa jħassar ⟨את⟩ in-nider tagħha li fuqha, u ⟨את⟩ l-għajduta ta' xofftejhha li fissret fuq ruħa; u Jaħwe jaħfrilha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/30\/9-12.1792605049342.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iżda jekk fil-ġurnata li raġelha jisma', jażenilha, huwa jħassar ⟨את⟩ in-niżra tagħha li għandha fuqha, u ⟨את⟩ il-kelma ta' mgħaġġel ta' xofftejha li ktinħabbret fuq ħajjietha — u Jaħwe jaħfrilha.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "U jekk"
+      "gloss": "iżda jekk"
     },
     {
       "surface": "ביום",
-      "gloss": "fl-istess jum"
+      "gloss": "fil-ġurnata"
     },
     {
       "surface": "שמע",
-      "gloss": "li sema' biha"
+      "gloss": "jisma'"
     },
     {
       "surface": "אישה",
-      "gloss": "r-raġel tagħha"
+      "gloss": "raġelha"
     },
     {
       "surface": "יניא",
-      "gloss": "jzommhiex milli tagħmel"
+      "gloss": "jażenilha"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "jzommhiex lilha"
+      "marks": "lilha"
     },
     {
       "surface": "והפר",
-      "gloss": "u jħassar"
+      "gloss": "jħassar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "in-nider tagħha"
+      "marks": "in-niżra tagħha"
     },
     {
       "surface": "נדרה",
-      "gloss": "in-nider tagħha"
+      "gloss": "in-niżra tagħha"
     },
     {
       "surface": "אשר",
@@ -77,20 +51,20 @@
     },
     {
       "surface": "עליה",
-      "gloss": "fuqha"
+      "gloss": "għandha fuqha"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-għajduta ta' xofftejhha"
+      "marks": "il-kelma ta' mgħaġġel"
     },
     {
       "surface": "מבטא",
-      "gloss": "l-għajduta"
+      "gloss": "il-kelma ta' mgħaġġel"
     },
     {
       "surface": "שפתיה",
-      "gloss": "ta' xofftejhha"
+      "gloss": "ta' xofftejha"
     },
     {
       "surface": "אשר",
@@ -98,7 +72,7 @@
     },
     {
       "surface": "אסרה",
-      "gloss": "fissret"
+      "gloss": "ktinħabbret"
     },
     {
       "surface": "על",
@@ -106,7 +80,7 @@
     },
     {
       "surface": "נפשה",
-      "gloss": "ruħa"
+      "gloss": "ħajjietha"
     },
     {
       "surface": "ויהוה",
@@ -114,13 +88,13 @@
     },
     {
       "surface": "יסלח",
-      "gloss": "jaħfer"
+      "gloss": "jaħfir"
     },
     {
       "surface": "לה",
-      "gloss": "lilha"
+      "gloss": "ilha"
     }
   ],
-  "timestamp": "2026-10-21T17:50:49.342984487Z",
+  "timestamp": "2026-10-22T00:46:38.695891367Z",
   "model": "glm-5.3"
 }

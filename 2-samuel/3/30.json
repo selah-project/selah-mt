@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Il-ħażż 'li\/għaliex' ma jridx kelma separata bil-Malti wara 'għaliex'."
-    }
-  ],
-  "translation": "U Joab u Abixaj, ħuh, qatlu lil Avner, għaliex qatel ⟨את⟩ lil Asaħel, ħuhom, f'Gib'on, fil-ġlieda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/3\/29-32.1792608651955.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joab u Avixaj ħu qatlu lil Avner, għax kien qatil ⟨את⟩ lil Asaħel ħuhom, fil-Gibgħon, fil-ġlied.",
   "tokens": [
     {
       "surface": "ויואב",
@@ -29,23 +13,23 @@
     },
     {
       "surface": "ואבישי",
-      "gloss": "u Abixaj"
+      "gloss": "u Avixaj"
     },
     {
       "surface": "אחיו",
-      "gloss": "ħuh"
+      "gloss": "ħu"
     },
     {
       "surface": "הרגו",
-      "gloss": "qatlu"
+      "gloss": "qatlu lil"
     },
     {
       "surface": "לאבנר",
-      "gloss": "lil Avner"
+      "gloss": "Avner"
     },
     {
       "surface": "על",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "אשר",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "המית",
-      "gloss": "qatel"
+      "gloss": "kien qatil lil"
     },
     {
       "surface": "את",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "עשהאל",
-      "gloss": "Asaħel"
+      "gloss": "lil Asaħel"
     },
     {
       "surface": "אחיהם",
@@ -70,13 +54,13 @@
     },
     {
       "surface": "בגבעון",
-      "gloss": "f'Gib'on"
+      "gloss": "fil-Gibgħon"
     },
     {
       "surface": "במלחמה",
-      "gloss": "fil-ġlieda"
+      "gloss": "fil-ġlied"
     }
   ],
-  "timestamp": "2026-10-21T18:50:51.956815606Z",
+  "timestamp": "2026-10-22T00:07:20.985477740Z",
   "model": "glm-5.3"
 }

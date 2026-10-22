@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אחז אחז",
-      "rationale": "Ir-repetizzjoni ta' אחז ('maħzuma') tonqos parzjalment fit-traduzzjoni"
-    },
-    {
-      "kind": "crux",
-      "subject": "אחז",
-      "rationale": "Jista' jkun 'maħtija bil-lott' jew 'maħzuma għal' — l-istess għerq ta' isem is-sultan Aħaz"
-    },
-    {
-      "kind": "addition",
-      "subject": "wieħed",
-      "rationale": "מן הלוי interpretat bħala 'wieħed mil-Leviti'"
-    }
-  ],
-  "translation": "U kitibhom Xemajah bin Netanel, l-iskrivana, wieħed mil-Leviti, quddiem is-sultan, u l-prinċepi, u Tsadok il-qassis, u Aħimelek bin Avjatar, u l-kapi tad-djar missirijiet tal-qbassisin u tal-Leviti; dar missier waħda maħzuma għal Elazar, u waħda maħzuma għal Itamar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b8711f0e5d66cd8891bd418ee6d28547b4996d40debd5c8047525645c761b4bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/24\/5-8.1792622168981.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ktibhom Xemajah bin Netanel, is-sibt mill-Levin, quddiem is-sultan u l-prinċepi, u Tsadok is-saċerdot, u Aħimelek bin Evjatar, u l-kapi tas-sedaq tal-israfen u tal-Levin: dar missier waħda misjuba għal Elazar, u waħda misjuba għal Itamar.",
   "tokens": [
     {
       "surface": "ויכתבם",
-      "gloss": "U kitibhom"
+      "gloss": "u ktibhom"
     },
     {
       "surface": "שמעיה",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "הסופר",
-      "gloss": "l-iskrivana"
+      "gloss": "is-sibt"
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "mill-"
     },
     {
       "surface": "הלוי",
-      "gloss": "il-Leviti"
+      "gloss": "Levin"
     },
     {
       "surface": "לפני",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "il-qassis"
+      "gloss": "is-saċerdot"
     },
     {
       "surface": "ואחימלך",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "אביתר",
-      "gloss": "Avjatar"
+      "gloss": "Evjatar"
     },
     {
       "surface": "וראשי",
@@ -99,15 +73,15 @@
     },
     {
       "surface": "האבות",
-      "gloss": "tad-djar missirijiet"
+      "gloss": "tas-sedaq"
     },
     {
       "surface": "לכהנים",
-      "gloss": "tal-qbassisin"
+      "gloss": "tal-israfen"
     },
     {
       "surface": "וללוים",
-      "gloss": "u tal-Leviti"
+      "gloss": "u tal-Levin"
     },
     {
       "surface": "בית",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "אחז",
-      "gloss": "maħzuma"
+      "gloss": "misjuba"
     },
     {
       "surface": "לאלעזר",
@@ -131,17 +105,17 @@
     },
     {
       "surface": "ואחז",
-      "gloss": "u waħda maħzuma"
+      "gloss": "u waħda misjuba"
     },
     {
       "surface": "אחז",
-      "gloss": ""
+      "gloss": "misjuba"
     },
     {
       "surface": "לאיתמר",
       "gloss": "għal Itamar"
     }
   ],
-  "timestamp": "2026-10-21T22:36:08.982566432Z",
+  "timestamp": "2026-10-21T23:55:24.794865906Z",
   "model": "glm-5.3"
 }

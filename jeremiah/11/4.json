@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אהיה",
-      "rationale": "l-istess verb bħal Eżodu 3:14 — jassoni ma' Jaħwe bħala 'nkun'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בקולי",
-      "gloss": "'smigħ fil-leħen tiegħi' iġġorr 'obedjenza', mhux sempliċiment smigħ"
-    }
-  ],
-  "translation": "li ordnajt lill-missirijietkom fil-jum li ħriġtihom mill-art ta' Mitsrajim, mill-forn tal-ħadid, billi għidt: Ismagħu leħni, u agħmluhom skont kull ma nordonilkom, u tkunu għali għal poplu, u jien inkun għalikom għal Elohim;",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/11\/1-4.1792612743253.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "li ordnajt ⟨את⟩ lil missirijietkom, fil-jum li ħriġtihom ⟨את⟩ mill-art ta' Mitsrajim, mill-forn tal-ħadid, billi għidt: Ismgħu le leħni u agħmlu ⟨את⟩ dawn, skont kollox li nordinru ⟨את⟩ilkom; u tkunu għalija għal poplu, u jien nkun għalkom għal Elohim.",
   "tokens": [
     {
       "surface": "אשר",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lill-missirijietkom"
+      "marks": "lil missirijietkom"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "lill-missirijietkom"
+      "gloss": "missirijietkom"
     },
     {
       "surface": "ביום",
@@ -55,8 +34,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom",
-      "marks": "mill-art ta' Mitsrajim"
+      "gloss": "⟨את⟩",
+      "marks": "hom (missirijietkom)"
     },
     {
       "surface": "מארץ",
@@ -80,37 +59,37 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "Ismagħu"
+      "gloss": "Ismgħu"
     },
     {
       "surface": "בקולי",
-      "gloss": "leħni"
+      "gloss": "le leħni"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "u agħmluhom"
+      "gloss": "u agħmlu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom",
-      "marks": "skont kull ma nordonilkom"
+      "gloss": "⟨את⟩",
+      "marks": "dawn (il-kmandi)"
     },
     {
       "surface": "ככל",
-      "gloss": "skont koll"
+      "gloss": "skont kollox"
     },
     {
       "surface": "אשר",
-      "gloss": "ma"
+      "gloss": "li"
     },
     {
       "surface": "אצוה",
-      "gloss": "nordonilkom"
+      "gloss": "nordinru"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "u tkunu għali għal poplu"
+      "gloss": "⟨את⟩",
+      "marks": "ilkom"
     },
     {
       "surface": "והייתם",
@@ -118,11 +97,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "għali"
+      "gloss": "għalija"
     },
     {
       "surface": "לעם",
-      "gloss": "għal poplu"
+      "gloss": "ghal poplu"
     },
     {
       "surface": "ואנכי",
@@ -130,17 +109,17 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "inkun"
+      "gloss": "nkun"
     },
     {
       "surface": "לכם",
-      "gloss": "għalikom"
+      "gloss": "għalkom"
     },
     {
       "surface": "לאלהים",
-      "gloss": "għal Elohim"
+      "gloss": "ghal Elohim"
     }
   ],
-  "timestamp": "2026-10-21T19:59:03.254548926Z",
+  "timestamp": "2026-10-22T00:27:59.632436973Z",
   "model": "glm-5.3"
 }

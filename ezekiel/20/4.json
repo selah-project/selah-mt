@@ -5,45 +5,24 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "התשפט ... התשפוט",
-      "rationale": "Ripetizzjoni interrogattiva identika żewġ darbiet — retorika ta' sfida, miżmula kemm f'darba."
-    },
-    {
-      "kind": "alternative",
-      "subject": "Jaħtli tagħhom",
-      "rationale": "Xi qari jieħu l-interrogattiv bħala imperattiv: 'Imħallhom, ibn il-bniedem'."
-    }
-  ],
-  "translation": "Jaħtli tagħhom, ibn il-bniedem? Jaħtli tagħhom? Għarrafhom bl-abbominazzjonijiet ⟨את⟩ ta' missirijiethom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/1-4.1792614468853.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mela int, bin il-bniedem, tmiss ġudizzju fuqhom ⟨את⟩? Tmiss ġudizzju fuqhom? Għarrafhom bit-twikkib ta' missirijiethom ⟨את⟩.",
   "tokens": [
     {
       "surface": "התשפט",
-      "gloss": "Jaħtli tagħhom"
+      "gloss": "tmiss ġudizzju"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tagħhom"
+      "marks": "lilhom (fuqhom)"
     },
     {
       "surface": "התשפוט",
-      "gloss": "Jaħtli tagħhom"
+      "gloss": "tmiss ġudizzju"
     },
     {
       "surface": "בן",
-      "gloss": "ibn"
+      "gloss": "bin"
     },
     {
       "surface": "אדם",
@@ -52,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-abbominazzjonijiet"
+      "marks": "it-twikkib ta' missirijiethom"
     },
     {
       "surface": "תועבת",
-      "gloss": "l-abbominazzjonijiet"
+      "gloss": "it-twikkib"
     },
     {
       "surface": "אבותם",
@@ -64,9 +43,9 @@
     },
     {
       "surface": "הודיעם",
-      "gloss": "Għarrafhom"
+      "gloss": "għarrafhom"
     }
   ],
-  "timestamp": "2026-10-21T20:27:48.854231751Z",
+  "timestamp": "2026-10-22T00:16:21.671456086Z",
   "model": "glm-5.3"
 }

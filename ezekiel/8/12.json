@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "iben il-bniedem",
-      "rationale": "Kellem diretta ta' Jaħwe lil Eżekjel, mitlub biex jara."
-    },
-    {
-      "kind": "crux",
-      "subject": "בחדרי משכיתו",
-      "rationale": "'fiċ-ċmamenti tal-istampi\/immaġni tiegħu' — ħajt imnaqqx jew idolu privat; traduzzjonijiet jaqsmu."
-    },
-    {
-      "kind": "addition",
-      "subject": "Mela",
-      "rationale": "Il-Malti jeħtieġ aperturi tal-mistoqsija li mhux fl-Ebrajk."
-    }
-  ],
-  "translation": "U qal lili: Mela, rajt, iben il-bniedem, x'qegħdin jagħmlu l-kbar tad-dar ta' Jisrael fid-dlam, kull wieħed fiċ-ċmamenti tal-istampi tiegħu? Għaliex jgħidu: M'hemmx Jaħwe jarrena, Jaħwe abbanduna ⟨את⟩ l-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e9fa700c2bc192dca953e77f0df31971148dcd7058638099c5973a98e8af433c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/8\/9-12.1792614191863.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal lili: Rajt, iben il-bniedem, dak li l-kbar ta' dar Jisrael qiegħed jagħmlu fid-dlam, kull wieħed fil-kmamar tal-imagini tiegħu? Għaliex jgħidu: Jaħwe ma jarax lilna ⟨את⟩; Jaħwe ħalla ⟨את⟩ l-art.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "אלי",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "x'"
+      "gloss": "dak li"
     },
     {
       "surface": "זקני",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "tad-dar"
+      "gloss": "dar"
     },
     {
       "surface": "ישראל",
-      "gloss": "ta' Jisrael"
+      "gloss": "Jisrael"
     },
     {
       "surface": "עשים",
-      "gloss": "qegħdin jagħmlu"
+      "gloss": "qiegħed jagħmlu"
     },
     {
       "surface": "בחשך",
@@ -83,15 +57,15 @@
     },
     {
       "surface": "בחדרי",
-      "gloss": "fiċ-ċmamenti"
+      "gloss": "fil-kmamar"
     },
     {
       "surface": "משכיתו",
-      "gloss": "tal-istampi tiegħu"
+      "gloss": "tal-imagini tiegħu"
     },
     {
       "surface": "כי",
-      "gloss": "Għaliex"
+      "gloss": "għaliex"
     },
     {
       "surface": "אמרים",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "M'hemmx"
+      "gloss": "ma"
     },
     {
       "surface": "יהוה",
@@ -107,16 +81,16 @@
     },
     {
       "surface": "ראה",
-      "gloss": "jarrena"
+      "gloss": "jarax"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lilna",
       "marks": "lilna"
     },
     {
       "surface": "עזב",
-      "gloss": "abbanduna"
+      "gloss": "ħalla"
     },
     {
       "surface": "יהוה",
@@ -132,6 +106,6 @@
       "gloss": "l-art"
     }
   ],
-  "timestamp": "2026-10-21T20:23:11.864881919Z",
+  "timestamp": "2026-10-22T00:20:07.170719537Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "ibżgħu... servu... neħħu",
-      "rationale": "imperattivi ta' Ġoxwa jsejħu lill-poplu — appell diret"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-poplu ta' Jisrael",
-      "rationale": "diskors ta' Ġoxwa indirizzat lis-sema' kollu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "allat",
-      "rationale": "אלהים hawn għall-idoli allavolja — allat b'ittra żgħira skont ir-regola, mhux Elohim"
-    }
-  ],
-  "translation": "U issa ibżgħu ⟨את⟩ Jaħwe u servuh b'tumija u b'sejħa, u neħħu lil-allat li servew il-missirijietkom maxx-xatt tan-nahar u f'Mitsrajim, u servu ⟨את⟩ Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/24\/13-16.1792606804501.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa ibżgħu ⟨את⟩ Jaħwe u qisduh b'tamim u b'sejħa, u neħħiw ⟨את⟩ l-allat li qisdhom missirietkom ta' hemm in-naħa l-oħra tax-xmara u f'Mitsrajim, u qisdu ⟨את⟩ Jaħwe.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "u issa"
+      "gloss": "U issa"
     },
     {
       "surface": "יראו",
@@ -52,16 +26,15 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "u servu"
+      "gloss": "u qisdu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-u",
-      "marks": "Jaħwe (suffiss magħqud)"
+      "gloss": "⟨את⟩ h"
     },
     {
       "surface": "בתמים",
-      "gloss": "b'tumija"
+      "gloss": "b'tamim"
     },
     {
       "surface": "ובאמת",
@@ -69,7 +42,7 @@
     },
     {
       "surface": "והסירו",
-      "gloss": "u neħħu"
+      "gloss": "u neħħiw"
     },
     {
       "surface": "את",
@@ -78,7 +51,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "allat"
+      "gloss": "l-allat"
     },
     {
       "surface": "אשר",
@@ -86,19 +59,19 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "servew"
+      "gloss": "qisdhom"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "il-missirijietkom"
+      "gloss": "missirietkom"
     },
     {
       "surface": "בעבר",
-      "gloss": "max-xatt"
+      "gloss": "ta' hemm in-naħa l-oħra"
     },
     {
       "surface": "הנהר",
-      "gloss": "tan-nahar"
+      "gloss": "tax-xmara"
     },
     {
       "surface": "ובמצרים",
@@ -106,7 +79,7 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "u servu"
+      "gloss": "u qisdu"
     },
     {
       "surface": "את",
@@ -118,6 +91,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T18:20:04.502853276Z",
+  "timestamp": "2026-10-22T01:48:24.520901179Z",
   "model": "glm-5.3"
 }

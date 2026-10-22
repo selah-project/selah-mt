@@ -5,46 +5,20 @@
   "book": "song-of-songs",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "ja bniet Jeruxalajim",
-      "rationale": "the speaker adjures the daughters of Jerusalem — direct address drawing the hearer into the search"
-    },
-    {
-      "kind": "you",
-      "subject": "bniet Jeruxalajim",
-      "rationale": "explicit addressee: the women of the city"
-    },
-    {
-      "kind": "crux",
-      "subject": "x'tgħidulu?",
-      "rationale": "interrogative 'what will you tell him?' (jps\/ylt) vs conditional 'that you tell him' (kjv) — the Hebrew im allows both"
-    }
-  ],
-  "translation": "Ġiltkom, ja bniet Jeruxalajim: jekk ssibu ⟨את⟩ lil għażiż tiegħi, x'tgħidulu? li jien mard b'imħabba jien.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/5\/5-8.1792619964459.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iħalliftkom, lil bint Jeruxalajim: jekk issibu ⟨את⟩ li jħobbni, x'tgħidulu? li mardet bl-imħabba jien.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "Ġiltkom"
+      "gloss": "iħalliftkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ intom",
-      "marks": "ja bniet Jeruxalajim"
+      "gloss": "⟨את⟩",
+      "marks": "bint Jeruxalajim"
     },
     {
       "surface": "בנות",
-      "gloss": "ja bniet"
+      "gloss": "bint"
     },
     {
       "surface": "ירושלם",
@@ -56,16 +30,16 @@
     },
     {
       "surface": "תמצאו",
-      "gloss": "ssibu"
+      "gloss": "issibu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil għażiż tiegħi"
+      "marks": "li jħobbni"
     },
     {
       "surface": "דודי",
-      "gloss": "lil għażiż tiegħi"
+      "gloss": "li jħobbni"
     },
     {
       "surface": "מה",
@@ -77,21 +51,21 @@
     },
     {
       "surface": "לו",
-      "gloss": "(-lu)"
+      "gloss": "-lu"
     },
     {
       "surface": "שחולת",
-      "gloss": "mard b'imħabba"
+      "gloss": "mardet"
     },
     {
       "surface": "אהבה",
-      "gloss": "b'imħabba"
+      "gloss": "bl-imħabba"
     },
     {
       "surface": "אני",
       "gloss": "jien"
     }
   ],
-  "timestamp": "2026-10-21T21:59:24.461333643Z",
+  "timestamp": "2026-10-22T00:50:29.112650762Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,19 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "fit-tmien jum",
-      "rationale": "l-għadd tat-tmien jum bħala ħin maħsub għat-tindif."
-    },
-    {
-      "kind": "addition",
-      "subject": "lill-qassis",
-      "gloss": "l-",
-      "rationale": "il-Malti jeħtieġ 'lil' qabel persuna bħala oġġett indiritt."
-    }
-  ],
-  "translation": "U fit-tmien jum jaħud għalih żewġ torijiet jew żewġ iben il-ħamiema, u jiġi quddiem Jaħwe għall-bieb tal-Mixkan il-Moʿad, u jagħtihom lill-qassis.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/13-16.1792600938243.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U fit-tmien jum ieħor huwa jieħu għalih żewġ tutri jew żewġ ħamiem żgħar, u jiġi quddiem Jaħwe, fil-bieb ta' l-Ohel Moed, u jagħtihom lill-qassis.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "U fit-"
+      "gloss": "u fit-tmien jum"
     },
     {
       "surface": "השמיני",
-      "gloss": "tmien jum"
+      "gloss": "tmien"
     },
     {
       "surface": "יקח",
-      "gloss": "jaħud"
+      "gloss": "jieħu"
     },
     {
       "surface": "לו",
@@ -51,7 +29,7 @@
     },
     {
       "surface": "תרים",
-      "gloss": "torijiet"
+      "gloss": "tutri"
     },
     {
       "surface": "או",
@@ -63,11 +41,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "iben"
+      "gloss": "ħamiem żgħar"
     },
     {
       "surface": "יונה",
-      "gloss": "il-ħamiema"
+      "gloss": "ħamiem"
     },
     {
       "surface": "ובא",
@@ -83,19 +61,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "għall-"
+      "gloss": "fil-bieb ta'"
     },
     {
       "surface": "פתח",
-      "gloss": "bieb"
+      "gloss": "bibien"
     },
     {
       "surface": "אהל",
-      "gloss": "tal-Mixkan"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "gloss": "il-Moʿad"
+      "gloss": "Moed"
     },
     {
       "surface": "ונתנם",
@@ -107,9 +85,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "lill-qassis"
+      "gloss": "il-qassis"
     }
   ],
-  "timestamp": "2026-10-21T16:42:18.244158134Z",
+  "timestamp": "2026-10-22T00:53:35.913032284Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "il-konjunkzjoni relativ ma għandha post bil-Malti f'din il-kostruzzjoni"
-    },
-    {
-      "kind": "alternative",
-      "subject": "רבות",
-      "rationale": "'ħafna' mifnija plural (bliet ħafna) jew femminil singular (bliet kbar); il-kontest ma jiddeciedix"
-    }
-  ],
-  "translation": "Hekk jgħid Jaħwe Tsebawot: għad jiġu ġnus, u dawk li jgħixu f'bliet ħafna,",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/8\/17-20.1792616349285.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hekk jgħid Jaħwe Tsebawot: Għadu ⟨se jġri⟩ li jiġu popli, u abitanti ta' bliet ħafna.",
   "tokens": [
     {
       "surface": "כה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "għad"
+      "gloss": "Għadu"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "יבאו",
@@ -58,21 +37,21 @@
     },
     {
       "surface": "עמים",
-      "gloss": "ġnus"
+      "gloss": "popli"
     },
     {
       "surface": "וישבי",
-      "gloss": "u dawk li jgħixu"
+      "gloss": "u abitanti"
     },
     {
       "surface": "ערים",
-      "gloss": "f'bliet"
+      "gloss": "ta' bliet"
     },
     {
       "surface": "רבות",
       "gloss": "ħafna"
     }
   ],
-  "timestamp": "2026-10-21T20:59:09.286855765Z",
+  "timestamp": "2026-10-22T00:51:31.509824566Z",
   "model": "glm-5.3"
 }

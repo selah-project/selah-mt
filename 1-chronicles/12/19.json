@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "sliem sliem",
-      "rationale": "ripetizzjoni ta' שלום darbtejn, kull waħda token separat"
-    },
-    {
-      "kind": "elision",
-      "subject": "David",
-      "rationale": "fid-diskors diret tal-Lhudi, David jissejjaħ biss darba fil-bidu; l-isem ma jiġix ripetut"
-    }
-  ],
-  "translation": "U ruwaħ libsret lil ⟨את⟩ Amasaj, ras it-tletin: Tiegħek int, David, u miegħek int, bin Jixaj; sliem, sliem lekelk, u sliem lil min jgħinek, għax jgħinek Elohim tiegħek. U David ilħaġhom u poġġiħom fost ir-rasijiet tal-ġidi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6a748804b66502780ee5c188850d560e2a8aa08be62916da9799c5c7650a7c26",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/12\/17-20.1792621902875.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ruwaħ libsret ⟨את⟩ lil Amasaj, il-kap tat-tletin: Miegħek aħna, David, u miegħek, iben Jixaj; slama, slama għalik, u slama lil min jgħinek, għax jgħinek Elohim tiegħek. U David ilħaqhom u għaddiehom f'ras il-brigata.",
   "tokens": [
     {
       "surface": "ורוח",
-      "gloss": "u ruwaħ"
+      "gloss": "U ruwaħ"
     },
     {
       "surface": "לבשה",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "ראש",
-      "gloss": "ras"
+      "gloss": "il-kap"
     },
     {
       "surface": "השלושים",
-      "gloss": "it-tletin"
+      "gloss": "tat-tletin"
     },
     {
       "surface": "לך",
-      "gloss": "tiegħek"
+      "gloss": "Miegħek"
     },
     {
       "surface": "דויד",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "iben"
     },
     {
       "surface": "ישי",
@@ -75,19 +54,19 @@
     },
     {
       "surface": "שלום",
-      "gloss": "sliem"
+      "gloss": "slama"
     },
     {
       "surface": "שלום",
-      "gloss": "sliem"
+      "gloss": "slama"
     },
     {
       "surface": "לך",
-      "gloss": "lekelk"
+      "gloss": "għalik"
     },
     {
       "surface": "ושלום",
-      "gloss": "u sliem"
+      "gloss": "u slama"
     },
     {
       "surface": "לעזרך",
@@ -107,21 +86,25 @@
     },
     {
       "surface": "ויקבלם",
-      "gloss": "u David ilħaġhom"
+      "gloss": "U David ilħaqhom"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
     },
     {
       "surface": "ויתנם",
-      "gloss": "u poġġiħom"
+      "gloss": "u għaddiehom"
     },
     {
       "surface": "בראשי",
-      "gloss": "fost ir-rasijiet"
+      "gloss": "f'ras"
     },
     {
       "surface": "הגדוד",
-      "gloss": "tal-ġidi"
+      "gloss": "il-brigata"
     }
   ],
-  "timestamp": "2026-10-21T22:31:42.878653758Z",
+  "timestamp": "2026-10-21T23:54:50.158212307Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "nehemiah",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חצי \/ וחצים",
-      "rationale": "the half\/half repetition splits the workforce in two mirroring the divided hands of v. 11"
-    }
-  ],
-  "translation": "U minn dak il-jum nofs is-subien tiegħi kienu jagħmlu l-ħidma, u nofshom jżommu l-iżbar, it-targi, il-qwies u l-armaturi, u l-kapijiet wara d-dar kollha ta' Jehuda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d13a46365d3cef062fc0eb16fbf866e5cbbd70ac1dfb37cd9db460725515fa9d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/4\/9-12.1792621346384.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U minn dak il-jum nofs żgħażagħi kienu jaħdmu fil-ħidma, u nofshom żammew ⟨l-armi⟩: il-lanez, l-iskudi, il-qwies u d-draħil, u l-ikbar wara d-dar kollha ta' Jehuda.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": ""
+      "gloss": "U kien"
     },
     {
       "surface": "מן",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "il-jum"
+      "gloss": "dak il-jum"
     },
     {
       "surface": "ההוא",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "נערי",
-      "gloss": "is-subien tiegħi"
+      "gloss": "żgħażagħi"
     },
     {
       "surface": "עשים",
-      "gloss": "kienu jagħmlu"
+      "gloss": "jaħdmu"
     },
     {
       "surface": "במלאכה",
@@ -61,15 +45,15 @@
     },
     {
       "surface": "מחזיקים",
-      "gloss": "jżommu"
+      "gloss": "żammew"
     },
     {
       "surface": "והרמחים",
-      "gloss": "l-iżbar"
+      "gloss": "il-lanez"
     },
     {
       "surface": "המגנים",
-      "gloss": "it-targi"
+      "gloss": "l-iskudi"
     },
     {
       "surface": "והקשתות",
@@ -77,11 +61,11 @@
     },
     {
       "surface": "והשרינים",
-      "gloss": "l-armaturi"
+      "gloss": "d-draħil"
     },
     {
       "surface": "והשרים",
-      "gloss": "l-kapijiet"
+      "gloss": "u l-ikbar"
     },
     {
       "surface": "אחרי",
@@ -100,6 +84,6 @@
       "gloss": "ta' Jehuda"
     }
   ],
-  "timestamp": "2026-10-21T22:22:26.384908919Z",
+  "timestamp": "2026-10-22T00:53:42.031454717Z",
   "model": "glm-5.3"
 }

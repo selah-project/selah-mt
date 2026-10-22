@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "משמרת",
-      "rationale": "għassa — iż-żamma attiva, is-sentrija; mhux 'tħarisì biss"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמר\/משמרת",
-      "rationale": "l-istess għerq darbtejn fil-vers: żarb\/għassa, seħħija mqiegħda biss parzjalment"
-    }
-  ],
-  "translation": "ma ħlitux ⟨את⟩ aħwankom dawn il-jiem ħafna sa'l-lum, u żarbtu ⟨את⟩ l-għassa tal-precett ta' Jaħwe Elohim tagħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca54f9ab1978407f5adefa5fe4c96feb1e825526a2f5c1b2fcc8ccef35879936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/22\/1-4.1792606833814.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mela ma ħlitux lil ⟨את⟩ ħutkom dawn il-jiem bosta sa żmien il-lum, u ħarstu ⟨את⟩ l-għassa tal-ktieb ta' Jaħwe Elohim tagħkom.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "ma...x"
     },
     {
       "surface": "עזבתם",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aħwankom"
+      "marks": "lil ħutkom"
     },
     {
       "surface": "אחיכם",
-      "gloss": "aħwankom"
+      "gloss": "ħutkom"
     },
     {
       "surface": "זה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "ħafna"
+      "gloss": "bosta"
     },
     {
       "surface": "עד",
@@ -63,20 +42,20 @@
     },
     {
       "surface": "היום",
-      "gloss": "'l-lum"
+      "gloss": "żmien il-lum"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "il-lum"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "u żarbtu"
+      "gloss": "u ħarstu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-għassa tal-precett"
+      "marks": "l-għassa"
     },
     {
       "surface": "משמרת",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "מצות",
-      "gloss": "tal-precett"
+      "gloss": "tal-ktieb"
     },
     {
       "surface": "יהוה",
@@ -95,6 +74,6 @@
       "gloss": "Elohim tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T18:20:33.815707976Z",
+  "timestamp": "2026-10-22T00:35:10.735650721Z",
   "model": "glm-5.3"
 }

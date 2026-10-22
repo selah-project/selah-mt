@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "relattiv doppju עד אשר; il-Malti jgħid 'sa ma' b'kelma waħda"
-    },
-    {
-      "kind": "crux",
-      "subject": "יספת על השמועה",
-      "rationale": "'żidt fuq l-aħbar' — jew qari iktar komuni: 'għogħobtek lilha' (tal-qedem) kontra litterali 'iżżidt (fuq)'"
-    }
-  ],
-  "translation": "Ma emmintx lil kliemhom sa ma ġejt u għajnejt ra; u arа, m'għarrfux liċ-ċent hemm in-nofs tal-abbundanza ta' ħikmetek — iżżidt fuq l-aħbar li smajt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/9\/5-8.1792622421480.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U maemmintx lil dawk il-kliem tagħhom sa ma ġejt, u għajnej rajjieni, u ara, ma ntqallix linqas in-nofs tal-kobor tal-ġid tiegħek; żdiedt 'il fuq mill-ħlas li smajt.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Ma... x"
+      "gloss": "u ma…x"
     },
     {
       "surface": "האמנתי",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "לדבריהם",
-      "gloss": "lil kliemhom"
+      "gloss": "lil kliemthom"
     },
     {
       "surface": "עד",
-      "gloss": "sa ma"
+      "gloss": "sa"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ma"
     },
     {
       "surface": "באתי",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "ותראינה",
-      "gloss": "u ra"
+      "gloss": "u rajjieni"
     },
     {
       "surface": "עיני",
-      "gloss": "għajnejt"
+      "gloss": "għajnej"
     },
     {
       "surface": "והנה",
@@ -66,39 +45,39 @@
     },
     {
       "surface": "לא",
-      "gloss": "mhux"
+      "gloss": "ma…x"
     },
     {
       "surface": "הגד",
-      "gloss": "għarrfux"
+      "gloss": "ntqal"
     },
     {
       "surface": "לי",
-      "gloss": "liċ-ċent"
+      "gloss": "lili"
     },
     {
       "surface": "חצי",
-      "gloss": "in-nofs"
+      "gloss": "nofs"
     },
     {
       "surface": "מרבית",
-      "gloss": "tal-abbundanza"
+      "gloss": "kobor"
     },
     {
       "surface": "חכמתך",
-      "gloss": "ta' ħikmetek"
+      "gloss": "tal-ġid tiegħek"
     },
     {
       "surface": "יספת",
-      "gloss": "iżżidt"
+      "gloss": "żdiedt"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "'il fuq minn"
     },
     {
       "surface": "השמועה",
-      "gloss": "l-aħbar"
+      "gloss": "il-ħlas"
     },
     {
       "surface": "אשר",
@@ -109,6 +88,6 @@
       "gloss": "smajt"
     }
   ],
-  "timestamp": "2026-10-21T22:40:21.481480026Z",
+  "timestamp": "2026-10-22T00:02:52.248271315Z",
   "model": "glm-5.3"
 }

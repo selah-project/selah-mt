@@ -5,60 +5,40 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתו",
-      "rationale": "hawn אתו huwa bl-ikbar probabbiltà l-awtorament ta' הסגיר (magħluqa), mhux marbut ma' יטמא"
-    },
-    {
-      "kind": "elision",
-      "subject": "soggett singulari",
-      "rationale": "Lhudi għandu 'dak li jidħol'; il-Malti ħadet il-plural ġenerali"
-    }
-  ],
-  "translation": "U dawk li jidħlu fid-dar kuljum waqt li tkun magħluqa, jonqsu sal-filgħaxija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/45-48.1792600869655.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U min joħroġ lejn id-dar, il-ġranet kollha li ⟨hi⟩ magħluqa ⟨את⟩ilha, jiġi maġnun sal-milħ.",
   "tokens": [
     {
       "surface": "והבא",
-      "gloss": "u dawk li jidħlu"
+      "gloss": "u min joħroġ lejn"
     },
     {
       "surface": "אל",
-      "gloss": "fi"
+      "gloss": "lejn"
     },
     {
       "surface": "הבית",
-      "gloss": "d-dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "כל",
-      "gloss": "kuljum"
+      "gloss": "kollha"
     },
     {
       "surface": "ימי",
-      "gloss": "il-ġranet ta'"
+      "gloss": "il-ġranet"
     },
     {
       "surface": "הסגיר",
-      "gloss": "waqt li tkun magħluqa"
+      "gloss": "magħluqa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ilha (id-dar magħluqa)"
     },
     {
       "surface": "יטמא",
-      "gloss": "jonqsu"
+      "gloss": "jiġi maġnun"
     },
     {
       "surface": "עד",
@@ -66,9 +46,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "l-.filgħaxija"
+      "gloss": "l-għabex"
     }
   ],
-  "timestamp": "2026-10-21T16:41:09.656663879Z",
+  "timestamp": "2026-10-22T00:39:16.194703148Z",
   "model": "glm-5.3"
 }

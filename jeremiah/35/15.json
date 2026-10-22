@@ -5,51 +5,20 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "allat oħra",
-      "rationale": "foreign gods — lowercase 'allat' per the Maltese discipline for the gods of the nations, never Elohim"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הטיתם את אזנכם",
-      "rationale": "literally 'you did not incline your ear'; rendered with the Maltese idiom 'ma mxejtux widintkom' (you did not bend your ear)"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ושבו אל האדמה",
-      "rationale": "read as 'dwell in the land' (as most versions); literally it is 'return to the land', and the Maltese could read 'Erggħu lura lejn l-art'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "the call to return",
-      "rationale": "imperatives — 'Erggħu lura... u la tmorux' — summon Judah to turn back"
-    }
-  ],
-  "translation": "U jien bgħatt lejkom ⟨את⟩ il-ħaddiem kollha tiegħi, il-profeti, bil-ħbiberija ta' kmieni u bgħatt, biex ngħid: Erggħu lura, jekk jogħġbok, kull wieħed minn triqtu l-ħażina, u ġibu d-dwejjaq fl-għemejeld tagħkom, u la tmorux wara allat oħra biex taqduhom; u agħtu l-art li jieni ktibtha lilkom u lil-irġiel qaddisin tagħkom; imma intom ma mxejtux widintkom u ma smgħutux qalej.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "dfa75332563091f19dd861edea5130c950c2551cb952779c0374ae55302cb919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/35\/13-16.1792613361031.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U bgħatt għandkom ⟨את⟩ il-profeti kollha, il-ħaddiem tiegħi, li jqumu kmieni u jibgħatu, biex jgħidu: Erġġgħu lura, jekk jogħġbok, kull wieħed mit-triq il-ħażina tiegħu, u itejbu l-għemil tagħkom, u tmorrux wara allat oħra biex taqduhom, u toqogħdu fl-art li tajtkom lilkom u lil missirijietkom; imma ma tilnewx ⟨את⟩ widnejkom u ma smajtux għalija.",
   "tokens": [
     {
       "surface": "ואשלח",
-      "gloss": "U bgħatt"
+      "gloss": "u bgħatt"
     },
     {
       "surface": "אליכם",
-      "gloss": "lejkom"
+      "gloss": "għandkom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ħaddiem kollha"
+      "marks": "il-profeti kollha"
     },
     {
       "surface": "כל",
@@ -57,7 +26,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "l-ħaddiem"
+      "gloss": "il-ħaddiem tiegħi"
     },
     {
       "surface": "הנבאים",
@@ -65,19 +34,19 @@
     },
     {
       "surface": "השכים",
-      "gloss": "bil-ħbiberija ta' kmieni"
+      "gloss": "li jqumu kmieni"
     },
     {
       "surface": "ושלח",
-      "gloss": "u bgħatt"
+      "gloss": "u jibgħatu"
     },
     {
       "surface": "לאמר",
-      "gloss": "biex ngħid"
+      "gloss": "biex jgħidu"
     },
     {
       "surface": "שבו",
-      "gloss": "Erggħu lura"
+      "gloss": "Erġġgħu lura"
     },
     {
       "surface": "נא",
@@ -89,19 +58,19 @@
     },
     {
       "surface": "מדרכו",
-      "gloss": "minn triqtu"
+      "gloss": "mit-triq tiegħu"
     },
     {
       "surface": "הרעה",
-      "gloss": "l-ħażina"
+      "gloss": "il-ħażina"
     },
     {
       "surface": "והיטיבו",
-      "gloss": "u ġibu d-dwejjaq fl-għemejeld"
+      "gloss": "u itejbu"
     },
     {
       "surface": "מעלליכם",
-      "gloss": "tagħkom"
+      "gloss": "l-għemil tagħkom"
     },
     {
       "surface": "ואל",
@@ -109,7 +78,7 @@
     },
     {
       "surface": "תלכו",
-      "gloss": "tmorux"
+      "gloss": "tmorrux"
     },
     {
       "surface": "אחרי",
@@ -129,15 +98,15 @@
     },
     {
       "surface": "ושבו",
-      "gloss": "u agħtu"
+      "gloss": "u toqogħdu"
     },
     {
       "surface": "אל",
-      "gloss": "l-"
+      "gloss": "fi"
     },
     {
       "surface": "האדמה",
-      "gloss": "art"
+      "gloss": "l-art"
     },
     {
       "surface": "אשר",
@@ -145,7 +114,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "ktibtha"
+      "gloss": "tajt"
     },
     {
       "surface": "לכם",
@@ -153,7 +122,7 @@
     },
     {
       "surface": "ולאבתיכם",
-      "gloss": "u lil-irġiel qaddisin tagħkom"
+      "gloss": "u lil missirijietkom"
     },
     {
       "surface": "ולא",
@@ -161,16 +130,16 @@
     },
     {
       "surface": "הטיתם",
-      "gloss": "mxejtux"
+      "gloss": "tilnewx"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "widintkom"
+      "marks": "widnejkom"
     },
     {
       "surface": "אזנכם",
-      "gloss": "widintkom"
+      "gloss": "widnejkom"
     },
     {
       "surface": "ולא",
@@ -178,13 +147,13 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "smgħutux"
+      "gloss": "smajtux"
     },
     {
       "surface": "אלי",
-      "gloss": "qalej"
+      "gloss": "ghalija"
     }
   ],
-  "timestamp": "2026-10-21T20:09:21.032696241Z",
+  "timestamp": "2026-10-22T00:31:32.155169866Z",
   "model": "glm-5.3"
 }

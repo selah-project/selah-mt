@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "il-קlità tal-maħfra diġà fiha 'lu' fi 'mmaħfrilu', il-klitik ma jiġiux duplikat"
-    },
-    {
-      "kind": "substitution",
-      "subject": "koppertura",
-      "rationale": "כפר il-bidu jfisser 'jgħatti'; il-Malti jżomm il-ħoss qarib ta' kafar"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שגגתו\/שגג",
-      "rationale": "il-għerq שגג jinsab kemm fin-nom kif ukoll fil-verb; il-Malti jżommu b' 'iżball\/biżball'"
-    }
-  ],
-  "translation": "U ġib muntun mingħajr difett mill-merħla, skont il-valutazzjoni tiegħek, bħala offerta ta' ħtija, lill-qassis; u l-qassis jagħmel il-koppertura għalih dwar l-iżball tiegħu li biżball għamel u hu ma kienx jaf, u jkunu mmaħfrilu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/5\/17-20.1792600523158.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġab muntun bla difett minn fost il-merħla, skont il-valutazzjoni tiegħek, bħala offerta tal-ħtija, għand il-qassis; u l-qassis jagħmel l-iskar għalih dwar l-iżball tiegħu li żballa, u ⟨hu⟩ ma kienx jaf, u jkun maħfur lilu.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "U ġib"
+      "gloss": "U ġab"
     },
     {
       "surface": "איל",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "תמים",
-      "gloss": "mingħajr difett"
+      "gloss": "bla difett"
     },
     {
       "surface": "מן",
-      "gloss": "mill"
+      "gloss": "minn fost"
     },
     {
       "surface": "הצאן",
-      "gloss": "merħla"
+      "gloss": "il-merħla"
     },
     {
       "surface": "בערכך",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "לאשם",
-      "gloss": "bħala offerta ta' ħtija"
+      "gloss": "bħala offerta tal-ħtija"
     },
     {
       "surface": "אל",
-      "gloss": "lill"
+      "gloss": "għand"
     },
     {
       "surface": "הכהן",
-      "gloss": "qassis"
+      "gloss": "il-qassis"
     },
     {
       "surface": "וכפר",
-      "gloss": "u jagħmel il-koppertura"
+      "gloss": "u jagħmel l-iskar"
     },
     {
       "surface": "עליו",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "l-qassis"
+      "gloss": "il-qassis"
     },
     {
       "surface": "על",
@@ -95,11 +69,11 @@
     },
     {
       "surface": "שגג",
-      "gloss": "biżball għamel"
+      "gloss": "żballa"
     },
     {
       "surface": "והוא",
-      "gloss": "u hu"
+      "gloss": "u ⟨hu⟩"
     },
     {
       "surface": "לא",
@@ -107,17 +81,17 @@
     },
     {
       "surface": "ידע",
-      "gloss": "kienx jaf"
+      "gloss": "kien jaf"
     },
     {
       "surface": "ונסלח",
-      "gloss": "u jkunu mmaħfrilu"
+      "gloss": "u jkun maħfur"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "lilu"
     }
   ],
-  "timestamp": "2026-10-21T16:35:23.159256114Z",
+  "timestamp": "2026-10-22T00:41:55.754298249Z",
   "model": "glm-5.3"
 }

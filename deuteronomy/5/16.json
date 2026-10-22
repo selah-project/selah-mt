@@ -5,51 +5,25 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "iħtara",
-      "rationale": "כבד tfisser litteralment 'tagħmel tqil, poġġi piż fuq' — 'onor' huwa l-qari idjomatiku"
-    },
-    {
-      "kind": "alternative",
-      "subject": "fuq l-art",
-      "rationale": "על ġieli tradott 'f' — 'fuq l-art' iżomm il-prepożizzjoni Lhudija"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Jisrael",
-      "rationale": "Kmand tad-Deċalogu b'wiegħd ta' ħajja twila, indirizzat direttament"
-    }
-  ],
-  "translation": "Iħtara lil ⟨את⟩ missierekk u lil ⟨את⟩ ommok, kif amarlek Jaħwe Elohim tiegħek, sabiex jitawwlu jjiemjek, u sabiex ikollok il-ġid, fuq l-art li Jaħwe Elohim tiegħek qed jagħtik.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5c8c3c0e2f7e937c0c2bcf573ed6107cc32a5c0ed423d8e392a6e21ac8059777",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/5\/13-16.1792605443701.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Wiegħed lil ⟨את⟩ missierek u lil ⟨את⟩ ommok, kif ikkammandlek Jaħwe Elohim tiegħek, sabiex ittawlu jumijtek, u sabiex ikun tajjeb għalik, fuq l-art li Jaħwe Elohim tiegħek qed jagħtik.",
   "tokens": [
     {
       "surface": "כבד",
-      "gloss": "iħtara"
+      "gloss": "Wiegħed"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "missierekk"
+      "marks": "lil missierek"
     },
     {
       "surface": "אביך",
-      "gloss": "missierekk"
+      "gloss": "missierek"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "ommok"
+      "marks": "lil ommok"
     },
     {
       "surface": "אמך",
@@ -61,7 +35,7 @@
     },
     {
       "surface": "צוך",
-      "gloss": "amarlek"
+      "gloss": "ikkammandlek"
     },
     {
       "surface": "יהוה",
@@ -77,11 +51,11 @@
     },
     {
       "surface": "יאריכן",
-      "gloss": "jitawwlu"
+      "gloss": "ittawlu"
     },
     {
       "surface": "ימיך",
-      "gloss": "jjiemjek"
+      "gloss": "jumijtek"
     },
     {
       "surface": "ולמען",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "ikollok il-ġid"
+      "gloss": "ikun tajjeb"
     },
     {
-      "surface": "lך",
-      "gloss": "lilek"
+      "surface": "לך",
+      "gloss": "għalik"
     },
     {
       "surface": "על",
@@ -124,6 +98,6 @@
       "gloss": "lilek"
     }
   ],
-  "timestamp": "2026-10-21T17:57:23.703161959Z",
+  "timestamp": "2026-10-22T00:53:11.028008723Z",
   "model": "glm-5.3"
 }

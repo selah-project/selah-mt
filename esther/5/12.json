@@ -5,40 +5,19 @@
   "book": "esther",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "żewġ kliem Lhud għal 'ħlief' — jiġru flimkien bħala eċċezzjoni wieħeda"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "il-כי ma ġiex megħlub b'kelma waħda Maltija"
-    }
-  ],
-  "translation": "U qal Hegħan: Anqas Ester is-sultana ma ġibdet mal-ilsir ħaddieħor għall-bankett li ħabbret, ħlief jien; u għada wkoll jien intlabt għandha mal-ilsir.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/esther\/5\/9-12.1792620472973.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Aman qal: Anki Ester ir-reġina ma daħħlet ma' r-re għall-bankett li għamlet ħlief jien ⟨את⟩; u anki għada jien imsejjaħ tagħha ma' r-re.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "המן",
-      "gloss": "Hegħan"
+      "gloss": "Aman"
     },
     {
       "surface": "אף",
-      "gloss": "Anqas"
+      "gloss": "Anki"
     },
     {
       "surface": "לא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הביאה",
-      "gloss": "ġibdet"
+      "gloss": "daħħlet"
     },
     {
       "surface": "אסתר",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "המלכה",
-      "gloss": "is-sultana"
+      "gloss": "ir-reġina"
     },
     {
       "surface": "עם",
-      "gloss": "mal-"
+      "gloss": "ma'"
     },
     {
       "surface": "המלך",
-      "gloss": "ilsir"
+      "gloss": "r-re"
     },
     {
       "surface": "אל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "ħabbret"
+      "gloss": "għamlet"
     },
     {
       "surface": "כי",
@@ -90,11 +69,12 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ jien"
+      "gloss": "jien ⟨את⟩",
+      "marks": "jien — Aman nnifsu, l-iskop tal-mistednin"
     },
     {
       "surface": "וגם",
-      "gloss": "ukoll"
+      "gloss": "u anki"
     },
     {
       "surface": "למחר",
@@ -106,21 +86,21 @@
     },
     {
       "surface": "קרוא",
-      "gloss": "intlabt"
+      "gloss": "imsejjaħ"
     },
     {
       "surface": "לה",
-      "gloss": "għandha"
+      "gloss": "tagħha"
     },
     {
       "surface": "עם",
-      "gloss": "mal-"
+      "gloss": "ma'"
     },
     {
       "surface": "המלך",
-      "gloss": "ilsir"
+      "gloss": "r-re"
     }
   ],
-  "timestamp": "2026-10-21T22:07:52.975018256Z",
+  "timestamp": "2026-10-22T00:12:08.161648665Z",
   "model": "glm-5.3"
 }

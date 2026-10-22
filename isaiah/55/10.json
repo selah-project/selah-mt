@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "l-espressjoni Lhudija כי אם tfisser 'ma... iżda' — 'ma terġax... iżda tsaqsi'."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי (it-tieni)",
-      "rationale": "il-כי ta' qwien ma għandux ekwivalent Malti separat fl-istruttura 'ma... iżda'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישוב",
-      "rationale": "l-istess għerq ta' vers 11 — ix-xita 'ma tistax terġa' tirritorna, bħalma kliem Jaħwe 'ma jergax' vojt: l-istess stampa tixhed ruħha darbtejn."
-    }
-  ],
-  "translation": "Għax bħalma nieżel ix-xita u l-borra mis-sema, u ma tistax terġa' titla' hemm, iżda tsaqsi ⟨את⟩ l-art u twelldilha u tnabbitha, u tagħti żerriegħa lill-biered u ħobż lill-ikel;",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/55\/9-12.1792612084412.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax bħalma tinżel ix-xita u l-borra mis-sema, u ma tintux lura hemm, ħlief jekk ma jsaqsha lil ⟨את⟩ l-art u tagħtilha t-tqel u tagħmilha tarmi, u tagħti żerriegħa lil min jżerra' u ħobż lil min jiekol —",
   "tokens": [
     {
       "surface": "כי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ירד",
-      "gloss": "nieżel"
+      "gloss": "tinżel"
     },
     {
       "surface": "הגשם",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "min"
+      "gloss": "minn"
     },
     {
       "surface": "השמים",
@@ -71,19 +45,19 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "tista' terġa' titla'"
+      "gloss": "tintux lura"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ħlief jekk"
     },
     {
       "surface": "אם",
-      "gloss": "iżda"
+      "gloss": "ma"
     },
     {
       "surface": "הרוה",
-      "gloss": "tsaqsi"
+      "gloss": "jsaqsha"
     },
     {
       "surface": "את",
@@ -96,15 +70,15 @@
     },
     {
       "surface": "והולידה",
-      "gloss": "u twelldilha"
+      "gloss": "tagħtilha t-tqel"
     },
     {
       "surface": "והצמיחה",
-      "gloss": "u tnabbitha"
+      "gloss": "tagħmilha tarmi"
     },
     {
       "surface": "ונתן",
-      "gloss": "u tagħti"
+      "gloss": "tagħti"
     },
     {
       "surface": "זרע",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "לזרע",
-      "gloss": "lill-biered"
+      "gloss": "lil min jżerra'"
     },
     {
       "surface": "ולחם",
@@ -120,9 +94,9 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "lill-ikel"
+      "gloss": "lil min jiekol"
     }
   ],
-  "timestamp": "2026-10-21T19:48:04.413931911Z",
+  "timestamp": "2026-10-22T00:26:39.404164027Z",
   "model": "glm-5.3"
 }

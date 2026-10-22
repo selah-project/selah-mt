@@ -5,58 +5,37 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Jisrael",
-      "rationale": "Kmand dirett dwar it-twaqqif tal-ħaġar fuq Ejbal, b'qsim bejn il-plurali 'twaqqfu' u s-singulari 'tillibeshom' bħall-Lhudi."
-    },
-    {
-      "kind": "measurement",
-      "subject": "il-muntanja Ejbal",
-      "rationale": "Post m fissat b'eżattezza għall-kmand — lokalità by-name, mhux deskritt."
-    }
-  ],
-  "translation": "U ikun, meta taqsmu ⟨את⟩ l-Ġordan, twaqqfu ⟨את⟩ dawn il-ħaġar li jien nirikkmanda ⟨את⟩ lilkom illum, fuq il-muntanja Ejbal, u tillibbeshom bil-ġir.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/27\/1-4.1792605929767.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jkun li meta taqbgħu ⟨את⟩ il-Ġordan, toħoru dawn il-ġebel li jien nikkmanda ⟨את⟩ lilkom il-lum, fuq il-muntanja ta' Għeval, u tgħattihom bil-ġir.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "U ikun"
+      "gloss": "U jkun li"
     },
     {
       "surface": "בעברכם",
-      "gloss": "meta taqsmu"
+      "gloss": "meta taqbgħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-Ġordan"
+      "marks": "il-Ġordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "l-Ġordan"
+      "gloss": "il-Ġordan"
     },
     {
       "surface": "תקימו",
-      "gloss": "twaqqfu"
+      "gloss": "toħoru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawn il-ħaġar"
+      "marks": "dawn il-ġebel"
     },
     {
       "surface": "האבנים",
-      "gloss": "il-ħaġar"
+      "gloss": "il-ġebel"
     },
     {
       "surface": "האלה",
@@ -72,15 +51,16 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "nirikkmanda"
+      "gloss": "nikkmanda"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom"
     },
     {
       "surface": "היום",
-      "gloss": "illum"
+      "gloss": "il-lum"
     },
     {
       "surface": "בהר",
@@ -88,22 +68,22 @@
     },
     {
       "surface": "עיבל",
-      "gloss": "Ejbal"
+      "gloss": "Għeval"
     },
     {
       "surface": "ושדת",
-      "gloss": "tillibeshom"
+      "gloss": "u tgħattihom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "bil-ġir"
+      "gloss": "⟨את⟩hom",
+      "marks": "il-ġebel"
     },
     {
       "surface": "בשיד",
       "gloss": "bil-ġir"
     }
   ],
-  "timestamp": "2026-10-21T18:05:29.769140800Z",
+  "timestamp": "2026-10-22T00:10:16.723383494Z",
   "model": "glm-5.3"
 }

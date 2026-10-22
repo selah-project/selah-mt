@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "għall-preżenti",
-      "rationale": "Mistoqsija retorika ta' Jehoxafat dwar in-nuqqas ta' profeta ta' Jaħwe fost l-erba' mija."
-    },
-    {
-      "kind": "elision",
-      "subject": "מאותו",
-      "rationale": "Il-preffiss מִן mal-aleph-tav: 'mingħandu' biss joħroġ bil-Malti; is-suq tal-⟨את⟩ ma jidhirx."
-    }
-  ],
-  "translation": "U Jehoxafat qal: M'hemmx hawn għadu profeta għal Jaħwe, u nimxu nfittxu mingħandu?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/5-8.1792610012982.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħoxafat qal: M'hemmx hawn profeta ta' Jaħwe għal Jaragħni ⟨את⟩ minnu?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jehoxafat"
+      "gloss": "Jaħoxafat"
     },
     {
       "surface": "האין",
-      "gloss": "m'hemmx"
+      "gloss": "M'hemmx"
     },
     {
       "surface": "פה",
@@ -50,22 +29,22 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "għal Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "עוד",
-      "gloss": "għadu"
+      "gloss": "għal Jaragħni"
     },
     {
       "surface": "ונדרשה",
-      "gloss": "u nfittxu"
+      "gloss": "ninħtieġ"
     },
     {
       "surface": "מאותו",
-      "gloss": "mingħand ⟨את⟩",
-      "marks": "hu (il-profeta)"
+      "gloss": "⟨את⟩",
+      "marks": "minnu"
     }
   ],
-  "timestamp": "2026-10-21T19:13:32.983759836Z",
+  "timestamp": "2026-10-21T23:57:42.152511792Z",
   "model": "glm-5.3"
 }

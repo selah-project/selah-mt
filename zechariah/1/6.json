@@ -5,45 +5,19 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "magħna (għal אתנו)",
-      "rationale": "אתנו hawn huwa l-prepożizzjoni עם ('ma'', 'magħna'), mhux l-iskart dirett H853; iżda l-glossa ġġorr ⟨את⟩ skont ir-regola tal-prova"
-    },
-    {
-      "kind": "idiom",
-      "subject": "השיגו",
-      "rationale": "litteralment 'laħqu \/ qaċċtu' — idjoma Lhudija għal kelma li taqbad lil min jisimgħu; 'did they not overtake'"
-    },
-    {
-      "kind": "crux",
-      "subject": "וישובו",
-      "rationale": "'reġġgħu lura' kontra 'iddeċidew jirpentu' — il-verb shuv it-tnejn fiżiku u morali"
-    }
-  ],
-  "translation": "Imma kliemi u l-ordinanzi tiegħi, li ordnajt lil-ilsiera tiegħi l-profeti, ma laħqux lil missirijietkom? U huma reġġgħu lura u qalu: Kif ħaseb Jaħwe Tsebawot jaġġibilha magħna skond it-toroq tagħna u skond l-għemejjel tagħna, hekk għamel magħna ⟨את⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b47d37d8edb5edd02935e6e7236a29661474fd9b8b36d8fa39f3db2a41df2789",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/1\/6-7.1792623777813.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iżda l-kliem tiegħi u l-ordinijiet tiegħi, li ħtart lil ⟨את⟩ qaddejja, il-profeti, ma laħqux lil missirijietkom? U huma daru u qalu: Kif ħaseb Jaħwe Tsebawot li jagħmel lilna, skond it-toroq tagħna u skond l-għemejjel tagħna, hekk għamel ⟨את⟩ magħna.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Imma"
+      "gloss": "iżda"
     },
     {
       "surface": "דברי",
-      "gloss": "kliemi"
+      "gloss": "il-kliem"
     },
     {
       "surface": "וחקי",
-      "gloss": "u l-ordinanzi tiegħi"
+      "gloss": "u l-ordinijiet"
     },
     {
       "surface": "אשר",
@@ -51,24 +25,24 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ordnajt"
+      "gloss": "ħtart"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil-ilsiera tiegħi l-profeti"
+      "marks": "qaddejja"
     },
     {
       "surface": "עבדי",
-      "gloss": "lil-ilsiera tiegħi"
+      "gloss": "qaddejja"
     },
     {
       "surface": "הנביאים",
-      "gloss": "l-profeti"
+      "gloss": "il-profeti"
     },
     {
       "surface": "הלוא",
-      "gloss": "ma"
+      "gloss": "ma…x"
     },
     {
       "surface": "השיגו",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "lil missirijietkom"
+      "gloss": "missirijietkom"
     },
     {
       "surface": "וישובו",
-      "gloss": "U huma reġġgħu lura"
+      "gloss": "u daru"
     },
     {
       "surface": "ויאמרו",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "Kif"
+      "gloss": "kif"
     },
     {
       "surface": "זמם",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "jaġġibilha"
+      "gloss": "li jagħmel"
     },
     {
       "surface": "לנו",
-      "gloss": "magħna"
+      "gloss": "lilna"
     },
     {
       "surface": "כדרכינו",
@@ -128,10 +102,9 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ magħna",
-      "marks": "magħna"
+      "gloss": "⟨את⟩ magħna"
     }
   ],
-  "timestamp": "2026-10-21T23:02:57.814616564Z",
+  "timestamp": "2026-10-22T00:51:14.110285331Z",
   "model": "glm-5.3"
 }

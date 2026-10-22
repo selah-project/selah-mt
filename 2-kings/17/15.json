@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ההבל \/ ויהבלו",
-      "rationale": "il-verb ġej mill-istess għerq ta' 'il-battal': segwew il-battal u saru battal — miġri bħal Ġeremija 2:5, miżmum bil-Malti"
-    },
-    {
-      "kind": "elision",
-      "subject": "לבלתי",
-      "rationale": "partiċella negattiva 'sabiex ma' ma għandha kliem wieħed nodfa bil-Malti; intużat 'li' biss ma' negazzjoni fil-kuntest"
-    }
-  ],
-  "translation": "U rrifjutaw ⟨את⟩ l-istatuti tiegħu u ⟨את⟩ il-patt tiegħu li qata' ⟨את⟩ ma' missirijithom, u ⟨את⟩ ix-xhiedriet tiegħu li xehed kontrihom, u mxew wara dak li hu battal, u tbattlu, u wara l-ġnus ta' madwarhom, li Jaħwe kien amarhom li jagħmlu bħalhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/13-16.1792610567244.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ċaħdu ⟨את⟩ l-istatuti tiegħu u ⟨את⟩ il-patt li qata' ma' ⟨את⟩ missirijiethom, u ⟨את⟩ ix-xhiediet tiegħu li xehed kontrihom; u mxew wara l-vanjità u saru vani, u wara l-ġnus li kienu madwarhom, li kkmandaħom Jaħwe li jagħmlux bħalhom.",
   "tokens": [
     {
       "surface": "וימאסו",
-      "gloss": "u rrifjutaw"
+      "gloss": "U ċaħdu"
     },
     {
       "surface": "את",
@@ -44,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "il-patt tiegħu"
+      "marks": "il-patt"
     },
     {
       "surface": "בריתו",
-      "gloss": "il-patt tiegħu"
+      "gloss": "il-patt"
     },
     {
       "surface": "אשר",
@@ -60,21 +39,21 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'",
-      "marks": "missirijithom"
+      "gloss": "ma' ⟨את⟩",
+      "marks": "missirijiethom"
     },
     {
       "surface": "אבותם",
-      "gloss": "missirijithom"
+      "gloss": "missirijiethom"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "ix-xhiedriet tiegħu"
+      "marks": "ix-xhiediet tiegħu"
     },
     {
       "surface": "עדותיו",
-      "gloss": "ix-xhiedriet tiegħu"
+      "gloss": "ix-xhiediet tiegħu"
     },
     {
       "surface": "אשר",
@@ -98,11 +77,11 @@
     },
     {
       "surface": "ההבל",
-      "gloss": "dak li hu battal"
+      "gloss": "l-vanjità"
     },
     {
       "surface": "ויהבלו",
-      "gloss": "u tbattlu"
+      "gloss": "u saru vani"
     },
     {
       "surface": "ואחרי",
@@ -110,15 +89,15 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "il-ġnus"
+      "gloss": "l-ġnus"
     },
     {
       "surface": "אשר",
-      "gloss": "ta'"
+      "gloss": "li"
     },
     {
       "surface": "סביבתם",
-      "gloss": "madwarhom"
+      "gloss": "kienu madwarhom"
     },
     {
       "surface": "אשר",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "kien amar"
+      "gloss": "kkmandaħom"
     },
     {
       "surface": "יהוה",
@@ -134,12 +113,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom",
-      "marks": "li jagħmlu bħalhom"
+      "gloss": "⟨את⟩hom",
+      "marks": "li jagħmlux bħalhom"
     },
     {
       "surface": "לבלתי",
-      "gloss": "li"
+      "gloss": "li ... jux"
     },
     {
       "surface": "עשות",
@@ -150,6 +129,6 @@
       "gloss": "bħalhom"
     }
   ],
-  "timestamp": "2026-10-21T19:22:47.246672443Z",
+  "timestamp": "2026-10-22T00:04:06.144995843Z",
   "model": "glm-5.3"
 }

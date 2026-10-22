@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "tellgħet idejja",
-      "rationale": "נשא יד hu l-ġest tal-ħalf — 'tellgħet idejja' tixhed il-ġest Ebrajk mhux il-ġurament biss"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשאתי \/ ונשאו",
-      "rationale": "l-istess għerq נשא: Jaħwe tellgħaħ idejh, il-Leviti jġorru l-ħtija — rigal u risposta bil-kelma l-istess"
-    }
-  ],
-  "translation": "Għaliex qadduhom quddiem l-idoli tagħhom, u saru għal dar Jisrael għal waqgħa ta' ħtija; għalhekk tellgħet idejja kontrhom, kelma ta' Adonaj Jaħwe, u huma jġorru l-ħtija tagħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/44\/9-12.1792615234498.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex servew lilhom quddiem l-idoli tagħhom, u saru għal dar Jisrael għal xokk ta' ħażen; għalhekk irfaft ⟨את⟩ l-idi kontrihom, jgħid Adonaj Jaħwe, u iġorru l-ħażen tagħhom.",
   "tokens": [
     {
       "surface": "יען",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨li⟩"
+      "gloss": ""
     },
     {
       "surface": "ישרתו",
-      "gloss": "qadduhom"
+      "gloss": "servew"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "hom (il-poplu)"
+      "marks": "lilhom"
     },
     {
       "surface": "לפני",
@@ -67,35 +46,35 @@
     },
     {
       "surface": "למכשול",
-      "gloss": "għal waqgħa"
+      "gloss": "għal xokk"
     },
     {
       "surface": "עון",
-      "gloss": "ta' ħtija"
+      "gloss": "ta' ħażen"
     },
     {
       "surface": "על",
-      "gloss": "Għalhekk"
-    },
-    {
-      "surface": "כן",
       "gloss": "għalhekk"
     },
     {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
       "surface": "נשאתי",
-      "gloss": "tellgħet"
+      "gloss": "irfaft"
     },
     {
       "surface": "ידי",
-      "gloss": "idejja"
+      "gloss": "l-idi"
     },
     {
       "surface": "עליהם",
-      "gloss": "kontrhom"
+      "gloss": "kontrihom"
     },
     {
       "surface": "נאם",
-      "gloss": "kelma ta'"
+      "gloss": "jgħid"
     },
     {
       "surface": "אדני",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "u huma jġorru"
+      "gloss": "u iġorru"
     },
     {
       "surface": "עונם",
-      "gloss": "l-ħtija tagħhom"
+      "gloss": "l-ħażen tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T20:40:34.499600098Z",
+  "timestamp": "2026-10-22T00:19:30.184025798Z",
   "model": "glm-5.3"
 }

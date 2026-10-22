@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lampiera",
-      "rationale": "ניר, mjara: stampa ta' dawl li jibqa' ħaj mid-dar ta' David, mhux sempliċiment 'wirt'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "biex iqum bil-iben",
-      "rationale": "להקים את בנו jista' jkun 'biex iqum lill-iben tiegħu' bħala oġġett dirett; il-Malti juża 'biex iqum bil-iben' għal ċarja."
-    }
-  ],
-  "translation": "Għax minħabba David, Jaħwe Elohim tiegħu ta lilu lampiera f'Jeruxalajim, biex iqum bil-iben tiegħu warajh u biex iżomm ⟨את⟩ lil Jeruxalajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/15\/1-4.1792609752741.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex għal David ta Jaħwe, Elohim tiegħu, lilu minjiera f'Jeruxalajim, biex iqummez lil ⟨את⟩ binu warajh u biex joqogħd ⟨את⟩ Jeruxalajim.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "למען",
-      "gloss": "minħabba"
+      "gloss": "għal"
     },
     {
       "surface": "דוד",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ניר",
-      "gloss": "lampiera"
+      "gloss": "minjiera"
     },
     {
       "surface": "בירושלם",
@@ -66,16 +45,16 @@
     },
     {
       "surface": "להקים",
-      "gloss": "biex iqum"
+      "gloss": "biex iqummez"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil iben tiegħu"
+      "marks": "binu"
     },
     {
       "surface": "בנו",
-      "gloss": "l-iben tiegħu"
+      "gloss": "binu"
     },
     {
       "surface": "אחריו",
@@ -83,18 +62,18 @@
     },
     {
       "surface": "ולהעמיד",
-      "gloss": "u biex iżomm"
+      "gloss": "u biex joqogħd"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Jeruxalajim"
+      "marks": "Jeruxalajim"
     },
     {
       "surface": "ירושלם",
-      "gloss": "lil Jeruxalajim"
+      "gloss": "Jeruxalajim"
     }
   ],
-  "timestamp": "2026-10-21T19:09:12.742711815Z",
+  "timestamp": "2026-10-21T23:57:01.235795931Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "infushom",
-      "rationale": "אתם hawn ma huwiex 'intom' iżda l-markatur ta' oġġett; il-Malti jeħtieġ 'lilhom infushom' biex jagħmel sens."
-    },
-    {
-      "kind": "measurement",
-      "subject": "דבר יום ביומו",
-      "rationale": "L-għadd tal-jum fil-jum tiegħu — kwota ta' briks imkejla kuljum."
-    }
-  ],
-  "translation": "U l-iskrivan ta' wlied Jisrael raw lilhom infushom f'ħażin, meta tqal: Ma tnaqqsux xejn mill-briks tagħkom, l-għadd ta' kuljum fil-jum tiegħu.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "3c6a45057f83dd7c34a3624cd11832af9973999d48f0997d5421744efea9cdd3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/5\/17-20.1792599292567.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-ispetturi ta' wlied Jisrael raw ruħhom ⟨את⟩ fi stat ħażin, meta ntqal: Tnaqqxu xejn mill-brikks tagħkom, l-għodda ta' kuljum, fil-jum tagħha.",
   "tokens": [
     {
       "surface": "ויראו",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "שטרי",
-      "gloss": "l-iskrivan"
+      "gloss": "l-ispetturi"
     },
     {
       "surface": "בני",
-      "gloss": "ta' wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "ישראל",
@@ -47,31 +26,31 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom infushom"
+      "marks": "fi stat ħażin"
     },
     {
       "surface": "ברע",
-      "gloss": "f'ħażin"
+      "gloss": "fi stat ħażin"
     },
     {
       "surface": "לאמר",
-      "gloss": "meta tqal"
+      "gloss": "meta ntqal"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "Tnaqqxu... xejn"
     },
     {
       "surface": "תגרעו",
-      "gloss": "tnaqqsux"
+      "gloss": "tnaqqxu"
     },
     {
       "surface": "מלבניכם",
-      "gloss": "mill-briks tagħkom"
+      "gloss": "mill-brikks tagħkom"
     },
     {
       "surface": "דבר",
-      "gloss": "l-għadd"
+      "gloss": "l-għodda"
     },
     {
       "surface": "יום",
@@ -79,9 +58,9 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "fil-jum tiegħu"
+      "gloss": "fil-jum tagħha"
     }
   ],
-  "timestamp": "2026-10-21T16:14:52.568107296Z",
+  "timestamp": "2026-10-22T00:15:21.453421783Z",
   "model": "glm-5.3"
 }

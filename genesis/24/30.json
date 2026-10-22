@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-braċlets",
-      "rationale": "צמידים: klassi għall-bracelets tal-id; kelma Maltija misluta għax m'hemmx kelma Semitika Maltija għalihom"
-    },
-    {
-      "kind": "crux",
-      "subject": "il-kelma 'rajt'",
-      "rationale": "l-istess għerq r-ry u l-istess żewġ את wieqfa fil-waħda mill-ohra — vidtur jgħid 'fuq idejn' għal על ידי"
-    }
-  ],
-  "translation": "U ġara li, meta ra ⟨את⟩ in-niżem u ⟨את⟩ il-braċlets fuq idejn oħtu, u meta sema' ⟨את⟩ il-kliem ta' Rivqa oħtu billi tgħid: Hekk kellem lili il-bniedem, ġie għand il-bniedem; u arа, kien wieqaf ħdejn il-ġemliex, ħdejn l-għajn.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "a8750803e87cbde1014221501264eaf8854a7f912168bfd59bd7528bc057f820",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/29-32.1792598349919.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara, meta ra ⟨את⟩ in-niżma u ⟨את⟩ l-bracelets fuq idejn oħtu, u sema ⟨את⟩ il-kliem ta' Rivka oħtu, li tgħid: Hekk kellemni lir-raġel, ġie għand ir-raġel, u arah, qiegħed ma' l-iġmla, ħdejn il-għajn.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U ġara li"
+      "gloss": "U ġara"
     },
     {
       "surface": "כראת",
@@ -39,20 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "in-niżem"
+      "marks": "in-niżma"
     },
     {
       "surface": "הנזם",
-      "gloss": "in-niżem"
+      "gloss": "in-niżma"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "il-braċlets"
+      "gloss": "⟨את⟩",
+      "marks": "l-bracelets"
     },
     {
       "surface": "הצמדים",
-      "gloss": "il-braċlets"
+      "gloss": "l-bracelets"
     },
     {
       "surface": "על",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "וכשמעו",
-      "gloss": "u meta sema'"
+      "gloss": "u sema"
     },
     {
       "surface": "את",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "רבקה",
-      "gloss": "ta' Rivqa"
+      "gloss": "ta' Rivka"
     },
     {
       "surface": "אחתו",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "billi tgħid"
+      "gloss": "li tgħid"
     },
     {
       "surface": "כה",
@@ -97,15 +76,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kellem"
+      "gloss": "kellemni"
     },
     {
       "surface": "אלי",
-      "gloss": "lili"
+      "gloss": "għandi"
     },
     {
       "surface": "האיש",
-      "gloss": "il-bniedem"
+      "gloss": "lir-raġel"
     },
     {
       "surface": "ויבא",
@@ -117,23 +96,23 @@
     },
     {
       "surface": "האיש",
-      "gloss": "il-bniedem"
+      "gloss": "ir-raġel"
     },
     {
       "surface": "והנה",
-      "gloss": "u ara"
+      "gloss": "u arah"
     },
     {
       "surface": "עמד",
-      "gloss": "kien wieqaf"
+      "gloss": "qiegħed"
     },
     {
       "surface": "על",
-      "gloss": "ħdejn"
+      "gloss": "ma'"
     },
     {
       "surface": "הגמלים",
-      "gloss": "il-ġemliex"
+      "gloss": "l-iġmla"
     },
     {
       "surface": "על",
@@ -141,9 +120,9 @@
     },
     {
       "surface": "העין",
-      "gloss": "l-għajn"
+      "gloss": "il-għajn"
     }
   ],
-  "timestamp": "2026-10-21T15:59:09.920706005Z",
+  "timestamp": "2026-10-22T00:21:06.418734900Z",
   "model": "glm-5.3"
 }

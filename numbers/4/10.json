@@ -5,69 +5,49 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "taħax",
-      "rationale": "תחש: animal mhux magħruf — badger (KJV), fokla (ASV\/JPS), antilope, dlifín; il-ħoss Lhudi miżmum"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨lilha⟩",
-      "rationale": "il-Malti jeħtieġ oġġett għat-tieni ונתנו; il-Lhudi jħallih mitluq"
-    }
-  ],
-  "translation": "U jpoġġu lilha u ⟨את⟩ l-oġġetti tagħha kollha ġo għattija ta' ġilda ta' taħax, u jpoġġu ⟨lilha⟩ fuq il-virga.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "212874d77c7a6d31116f6949a5af440f8261cd775a3d6736ce7f1fc26dd5bffd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/9-12.1792602500435.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jpoġġuha, ⟨את⟩ hi u ⟨את⟩ tagħmirha kollu, taħt miksija ta' ġilda ta' taħax, u jpoġġuha fuq il-mazza tat-trasport.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "U jpoġġu"
+      "gloss": "u jpoġġu"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ lilha"
+      "gloss": "⟨את⟩",
+      "marks": "hi — il-menora (l-objett femminili minn vers 9)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "l-oġġetti tagħha kollha"
+      "gloss": "u ⟨את⟩",
+      "marks": "tagħmirha kollu"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kollu"
     },
     {
       "surface": "כליה",
-      "gloss": "l-oġġetti tagħha"
+      "gloss": "tagħmirha"
     },
     {
       "surface": "אל",
-      "gloss": "ġo"
+      "gloss": "taħt"
     },
     {
       "surface": "מכסה",
-      "gloss": "għattija"
+      "gloss": "miksija"
     },
     {
       "surface": "עור",
-      "gloss": "ta' ġilda"
+      "gloss": "ġilda"
     },
     {
       "surface": "תחש",
-      "gloss": "ta' taħax"
+      "gloss": "taħax"
     },
     {
       "surface": "ונתנו",
-      "gloss": "u jpoġġu"
+      "gloss": "u jpoġġuha"
     },
     {
       "surface": "על",
@@ -75,9 +55,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "il-virga"
+      "gloss": "il-mazza tat-trasport"
     }
   ],
-  "timestamp": "2026-10-21T17:08:20.438400288Z",
+  "timestamp": "2026-10-22T00:47:17.280503919Z",
   "model": "glm-5.3"
 }

@@ -5,77 +5,52 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "העד העidתי",
-      "rationale": "infinitive absolute before the verb — 'testifying I testified' — intensification flattened to 'ħadt xhieda'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "שמעו בקולי",
-      "rationale": "literally 'hear in my voice', i.e. obey my voice"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sa din il-ġurnata",
-      "rationale": "the warning spans from the exodus day to this day"
-    }
-  ],
-  "translation": "Għax ħadt xhieda lil missirijietkom, fil-ġurnata li nellgħuhom mill-art ta' Mitsrajim sa din il-ġurnata: qum kmieni u ħu xhieda, billi ngħid: Ismau leħni.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/11\/5-8.1792612762470.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex ħadt xhieda kontra missirijietkom, fil-jum li tellgħajt ⟨את⟩ lilhom minn art Mitsrajim, u sa din il-ġurnata: qum bil-bikrijd u ħu xhieda bil-qawl: Isimgħu l-vuċi tiegħi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "Għaliex"
     },
     {
       "surface": "העד",
-      "gloss": "ħu xhieda"
-    },
-    {
-      "surface": "העדתי",
       "gloss": "ħadt xhieda"
     },
     {
+      "surface": "העדתי",
+      "gloss": "kontra"
+    },
+    {
       "surface": "באבותיכם",
-      "gloss": "lil missirijietkom"
+      "gloss": "missirijietkom"
     },
     {
       "surface": "ביום",
-      "gloss": "fil-ġurnata"
+      "gloss": "fil-jum"
     },
     {
       "surface": "העלותי",
-      "gloss": "li nellgħu"
+      "gloss": "tellgħajt"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lhom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom — missirijietkom li tellgħajt minn art Mitsrajim"
     },
     {
       "surface": "מארץ",
-      "gloss": "mill-art"
+      "gloss": "minn art"
     },
     {
       "surface": "מצרים",
-      "gloss": "ta' Mitsrajim"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "ועד",
-      "gloss": "sa"
+      "gloss": "u sa"
     },
     {
       "surface": "היום",
-      "gloss": "il-ġurnata"
+      "gloss": "din il-ġurnata"
     },
     {
       "surface": "הזה",
@@ -83,7 +58,7 @@
     },
     {
       "surface": "השכם",
-      "gloss": "qum kmieni"
+      "gloss": "qum bil-bikrijd"
     },
     {
       "surface": "והעד",
@@ -91,17 +66,17 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "billi ngħid"
+      "gloss": "bil-qawl"
     },
     {
       "surface": "שמעו",
-      "gloss": "Ismau"
+      "gloss": "Isimgħu"
     },
     {
       "surface": "בקולי",
-      "gloss": "leħni"
+      "gloss": "l-vuċi tiegħi"
     }
   ],
-  "timestamp": "2026-10-21T19:59:22.471444674Z",
+  "timestamp": "2026-10-22T00:27:39.004276325Z",
   "model": "glm-5.3"
 }

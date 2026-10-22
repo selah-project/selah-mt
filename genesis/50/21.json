@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על לבם",
-      "rationale": "'fuq qlubhom' — literally 'on their heart', Hebrew idiom for speaking to the feelings; KJV 'kindly', YLT keeps 'unto their heart'"
-    },
-    {
-      "kind": "you",
-      "subject": "il-ħuta",
-      "rationale": "Joseph addresses his brothers directly with the deprecative negation אל"
-    }
-  ],
-  "translation": "U issa la tibżgħux; jien inżomm lilkom u ⟨את⟩ tfalkom. U ħarshom u tkellem fuq qlubhom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "6343e7145f69ba2644b17f9d786797df1c9e41780e6d7862b6e1abea30edbff8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/50\/21-24.1792599194105.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa la tibżgħux: jien inżomm ⟨את⟩ lilkom u ⟨את⟩ lil-żgħar tagħkom. U huwa featheredhom, u kellmithom fuq qalbhom.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -50,30 +29,30 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
+      "gloss": "⟨את⟩",
       "marks": "lilkom"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "tfalkom"
+      "marks": "lil-żgħar tagħkom"
     },
     {
       "surface": "טפכם",
-      "gloss": "tfalkom"
+      "gloss": "żgħar tagħkom"
     },
     {
       "surface": "וינחם",
-      "gloss": "u ħarshom"
+      "gloss": "u huwa featheredhom"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ħarshom"
+      "marks": "lil-hom"
     },
     {
       "surface": "וידבר",
-      "gloss": "u tkellem"
+      "gloss": "u kellmithom"
     },
     {
       "surface": "על",
@@ -81,9 +60,9 @@
     },
     {
       "surface": "לבם",
-      "gloss": "qlubhom"
+      "gloss": "qalbhom"
     }
   ],
-  "timestamp": "2026-10-21T16:13:14.106201374Z",
+  "timestamp": "2026-10-22T00:24:13.170063048Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מחשים",
-      "rationale": "litteralment 'intom siekta' — mistoqsija rimantiċi li tgħajjirhom li huma bqiewx ma jidiċiedux"
-    },
-    {
-      "kind": "invitation",
-      "subject": "קומה ונעלה",
-      "rationale": "sejħa imperattiva għall-azzjoni: 'Qum u nilħqu 'l fuq'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "konna bil-bocja",
-      "rationale": "מחשים huwa particella attiva: 'li tħallsu ħajt' għall-għażla liberu"
-    }
-  ],
-  "translation": "U qalu: Qum u nilħqu 'l fuq kontrihom, għax rajna ⟨את⟩ l-art u araha tajba ħafna; u intom konna bil-bocja? Tqatgħux qalbkom biex tmorru, tidħlu u tieħdu pussess ⟨את⟩ l-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "60f8cf03329e9e4147f01c00d639b2a2193894546c8e789c481117419dca8e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/18\/9-12.1792607469931.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qalu: Qum, u nilħgħu kontrihom, għax rajna ⟨את⟩ l-art, u arawha, tajba ħafna; u intom bil-ħajt? Tistrixux milli tmorru, tidħlu, twarrbu ⟨את⟩ l-art.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ונעלה",
-      "gloss": "nilħqu 'l fuq"
+      "gloss": "u nilħgħu"
     },
     {
       "surface": "עליהם",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "u araha"
+      "gloss": "u arawha"
     },
     {
       "surface": "טובה",
@@ -84,27 +58,27 @@
     },
     {
       "surface": "מחשים",
-      "gloss": "konna bil-bocja"
+      "gloss": "bil-ħajt"
     },
     {
       "surface": "אל",
-      "gloss": "tqatgħux"
+      "gloss": "tistrixux"
     },
     {
       "surface": "תעצלו",
-      "gloss": "qalbkom"
+      "gloss": "milli tmorru"
     },
     {
       "surface": "ללכת",
-      "gloss": "biex tmorru"
-    },
-    {
-      "surface": "לבא",
       "gloss": "tidħlu"
     },
     {
+      "surface": "לבא",
+      "gloss": "twarrbu"
+    },
+    {
       "surface": "לרשת",
-      "gloss": "u tieħdu pussess"
+      "gloss": "twarrbu"
     },
     {
       "surface": "את",
@@ -116,6 +90,6 @@
       "gloss": "l-art"
     }
   ],
-  "timestamp": "2026-10-21T18:31:09.932568446Z",
+  "timestamp": "2026-10-22T00:37:59.631074109Z",
   "model": "glm-5.3"
 }

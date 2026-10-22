@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Moxe u Aharon",
-      "rationale": "il-murdin jindirizzaw direttament lill-mexxejja b'mistoqsija ta' akkuża"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מקום זרע",
-      "rationale": "'post ta' żerriegħa' — idjom għal art li tinzergħa, mhux sempliċement 'żerriegħa' waħedha"
-    }
-  ],
-  "translation": "U għaliex ġeġħiltna nitilgħu minn Mitsrajim, biex tieħudna għal dan il-post il-ħażin? Mhux post ta' żerriegħa, u ta' fig, u ta' dwieli, u ta' rummien; u m'hemmx ilma biex nixorbu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "94a70a9888109b9de8ef961600711e9237e3d9cfd9df09a09b396562938137bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/20\/5-8.1792602927522.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex ġejjiltuna mill-egħluq minn Mitsrajim biex iġġibuna ⟨את⟩ sa dan il-post il-ħażin? Mhux post ta' żerriegħa, la tin, lanqas ġemma u rummien, u m'hemmx ilma biex nixorbu.",
   "tokens": [
     {
       "surface": "ולמה",
-      "gloss": "u għaliex"
+      "gloss": "Għaliex"
     },
     {
       "surface": "העליתנו",
-      "gloss": "ġeġħiltna nitilgħu"
+      "gloss": "ġejjiltuna"
     },
     {
       "surface": "ממצרים",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "להביא",
-      "gloss": "biex tieħudna"
+      "gloss": "biex iġġibuna"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩na",
-      "marks": "na (ilsien: 'għal dan il-post')"
+      "gloss": "⟨את⟩",
+      "marks": "iġġibuna"
     },
     {
       "surface": "אל",
-      "gloss": "għal"
+      "gloss": "sa"
     },
     {
       "surface": "המקום",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "ותאנה",
-      "gloss": "u fig"
+      "gloss": "la tin"
     },
     {
       "surface": "וגפן",
-      "gloss": "u dwieli"
+      "gloss": "ġemma"
     },
     {
       "surface": "ורמון",
-      "gloss": "u rummien"
+      "gloss": "rummien"
     },
     {
       "surface": "ומים",
@@ -102,6 +81,6 @@
       "gloss": "biex nixorbu"
     }
   ],
-  "timestamp": "2026-10-21T17:15:27.525391721Z",
+  "timestamp": "2026-10-22T00:45:29.266640272Z",
   "model": "glm-5.3"
 }

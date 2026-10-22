@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "hawnhekk אֹתָם hu pronom 'hom' (il-ħrief u l-ħobż), mhux il-markatur tal-oġġett את dirett."
-    },
-    {
-      "kind": "crux",
-      "subject": "על שני כבשים",
-      "rationale": "'al = 'fuq\/flimkien ma'': jaqbad mal-ħrief fit-tennif, jew 'minbarra' żewġ ħrief (ylt); jintgħażel 'flimkien ma'."
-    }
-  ],
-  "translation": "U l-qassis itennifhom mal-ħobż tal-bikurim, tennif quddiem Jaħwe, flimkien maż-żewġ ħrief; qaddis ikunu lil Jaħwe, għall-qassis.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "eadcaa7a5260fb4ee480c067989d23d1f1c7b95ee8a0cfdd05370f2384de9c11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/23\/17-20.1792601182554.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis iħarreġ ⟨את⟩ lilhom ma' ħobż il-bikkurin bħala tnufa quddiem Jaħwe, ma' żewġ ħaruf: ikunu qaddis għal Jaħwe għall-qassis.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "U itennif"
+      "gloss": "u l-qassis iħarreġ"
     },
     {
       "surface": "הכהן",
@@ -38,12 +17,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom",
-      "marks": "l-ħrief u l-ħobż"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "l-ħaruf u l-ħobż tal-bikkurin"
     },
     {
       "surface": "על",
-      "gloss": "mal-"
+      "gloss": "ma'"
     },
     {
       "surface": "לחם",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "הבכורים",
-      "gloss": "tal-bikurim"
+      "gloss": "il-bikkurin"
     },
     {
       "surface": "תנופה",
-      "gloss": "tennif"
+      "gloss": "tnufa"
     },
     {
       "surface": "לפני",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "על",
-      "gloss": "flimkien maż-"
+      "gloss": "ma'"
     },
     {
       "surface": "שני",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "ħrief"
+      "gloss": "ħaruf"
     },
     {
       "surface": "קדש",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "lil Jaħwe"
+      "gloss": "għal Jaħwe"
     },
     {
       "surface": "לכהן",
       "gloss": "għall-qassis"
     }
   ],
-  "timestamp": "2026-10-21T16:46:22.555913835Z",
+  "timestamp": "2026-10-22T00:41:28.240648524Z",
   "model": "glm-5.3"
 }

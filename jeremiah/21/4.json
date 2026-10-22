@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אותם",
-      "rationale": "'nġabarhom': l-antiċedent mhux ċar — l-armi (l-aktar komuni), il-Kasdaj innifsu, jew sid il-Ġudeani; il-kuntest ta' v.5 (Jaħwe nnifsu jiġġieled kontrihom) jagħti milli l-ħtif ikun ta' ħażin"
-    },
-    {
-      "kind": "addition",
-      "subject": "l-",
-      "rationale": "l-artiklu Malti għal כלי המלחמה, l-artiklu Lhudi ma jintrabbtx"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Ġudean ta' Ġerusalemm assedjata",
-      "rationale": "oraklu indirizzat lis-sultan u lin-nies permezz ta' Sidkijaħ"
-    }
-  ],
-  "translation": "Hekk jgħid Jaħwe, Elohim ta' Jisrael: Ara jiena ndur lura ⟨את⟩ l-armi tal-ġlieda li hemm f'idejkom, li bihom intom tiġġieldu ⟨את⟩ lis-sultan ta' Babel u ⟨את⟩ lill-Kasdaj li qxielhom fuqkom barra l-ħajt; u nġabarhom f'nofs din il-belt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f86ecbe3c5b463204cf0420bcb179a9253d05f9738cdd09327278da4b8317342",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/21\/1-4.1792613015174.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hekk jgħid Jaħwe, Elohim ta' Jisrael: Ara, jien nerġa' nkarker lil ⟨את⟩ l-ġodod tal-gwerra li hemm f'idejkom, li bihom intom qegħdin titilqgħu kontra sultan ta' Babel u kontra ⟨את⟩ il-Kasdaj li qegħdin jiddekkrukom minn barra l-ħajt, u nilqa' lil ⟨את⟩hom ġewwa fiċ-ċentru ta' din il-belt.",
   "tokens": [
     {
       "surface": "כה",
@@ -55,24 +29,24 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Ara jiena"
+      "gloss": "Ara, jien"
     },
     {
       "surface": "מסב",
-      "gloss": "ndur lura"
+      "gloss": "nerġa' nkarker"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-armi tal-ġlieda"
+      "marks": "l-ġodod tal-gwerra"
     },
     {
       "surface": "כלי",
-      "gloss": "l-armi"
+      "gloss": "l-ġodod"
     },
     {
       "surface": "המלחמה",
-      "gloss": "tal-ġlieda"
+      "gloss": "tal-gwerra"
     },
     {
       "surface": "אשר",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "f'idejkom"
+      "gloss": "hemm f'idejkom"
     },
     {
       "surface": "אשר",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "נלחמים",
-      "gloss": "tiġġieldu"
+      "gloss": "qegħdin titilqgħu"
     },
     {
       "surface": "בם",
@@ -100,12 +74,11 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "lis-sultan ta' Babel"
+      "gloss": "⟨את⟩ kontra"
     },
     {
       "surface": "מלך",
-      "gloss": "lis-sultan"
+      "gloss": "sultan"
     },
     {
       "surface": "בבל",
@@ -113,24 +86,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "lill-Kasdaj"
+      "gloss": "u kontra ⟨את⟩",
+      "marks": "il-Kasdaj"
     },
     {
       "surface": "הכשדים",
-      "gloss": "lill-Kasdaj"
+      "gloss": "il-Kasdaj"
     },
     {
       "surface": "הצרים",
-      "gloss": "li qxielhom"
+      "gloss": "li qegħdin jiddekkrukom"
     },
     {
       "surface": "עליכם",
-      "gloss": "fuqkom"
+      "gloss": "kontrikom"
     },
     {
       "surface": "מחוץ",
-      "gloss": "barra"
+      "gloss": "minn barra"
     },
     {
       "surface": "לחומה",
@@ -138,30 +111,30 @@
     },
     {
       "surface": "ואספתי",
-      "gloss": "u nġabar"
+      "gloss": "u nilqa'"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom",
-      "marks": "l-armi"
+      "gloss": "lil ⟨את⟩hom",
+      "marks": "ġewwa fiċ-ċentru ta' din il-belt"
     },
     {
       "surface": "אל",
-      "gloss": "f'"
+      "gloss": "ġewwa"
     },
     {
       "surface": "תוך",
-      "gloss": "nofs"
+      "gloss": "fiċ-ċentru"
     },
     {
       "surface": "העיר",
-      "gloss": "din il-belt"
+      "gloss": "ta' din il-belt"
     },
     {
       "surface": "הזאת",
       "gloss": "din"
     }
   ],
-  "timestamp": "2026-10-21T20:03:35.175821077Z",
+  "timestamp": "2026-10-22T00:29:09.485991153Z",
   "model": "glm-5.3"
 }

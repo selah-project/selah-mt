@@ -5,37 +5,11 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קללה\/ברכה",
-      "rationale": "maħra → barka: l-istess kostruzzjoni (kontu X \/ tkunu X), il-kuntrast ta' sarem u barka"
-    },
-    {
-      "kind": "addition",
-      "subject": "se jkun",
-      "rationale": "il-Malti jeħtieġ futur għal והיה"
-    },
-    {
-      "kind": "you",
-      "subject": "dar Jehuda u dar Jisrael",
-      "rationale": "appell dirett lid-dar ta' Jehuda u ta' Jisrael"
-    }
-  ],
-  "translation": "U ⟨se jkun⟩ kif kontu maħra fost il-ġnus, dar Jehuda u dar Jisrael, hekk inħelliskom, u tkunu barka: la tibżgħux, qawwu idejkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "705d74d82d87111793bbf84a739679aff1d169c2c813eaccdcb758ec3f458117",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/8\/13-16.1792616365850.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jsir li kif kontu sibt quddiem il-ġnus — dar Jehuda u dar Jisrael — hekk inħelles lilkom ⟨את⟩, u ssiru barka: tibżgħux, ħolqon jkunu idejkom!",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "u ⟨se jkun⟩"
+      "gloss": "U jsir"
     },
     {
       "surface": "כאשר",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "קללה",
-      "gloss": "maħra"
+      "gloss": "sibt"
     },
     {
       "surface": "בגוים",
-      "gloss": "fost il-ġnus"
+      "gloss": "quddiem il-ġnus"
     },
     {
       "surface": "בית",
@@ -75,16 +49,16 @@
     },
     {
       "surface": "אושיע",
-      "gloss": "inħelliskom"
+      "gloss": "inħeles"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kom (l-objett: inħelliskom)"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom"
     },
     {
       "surface": "והייתם",
-      "gloss": "u tkunu"
+      "gloss": "u ssiru"
     },
     {
       "surface": "ברכה",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "tibżgħux"
     },
     {
       "surface": "תיראו",
@@ -100,13 +74,13 @@
     },
     {
       "surface": "תחזקנה",
-      "gloss": "qawwu"
+      "gloss": "ħolqon"
     },
     {
       "surface": "ידיכם",
-      "gloss": "idejkom"
+      "gloss": "jkunu idejkom"
     }
   ],
-  "timestamp": "2026-10-21T20:59:25.850589952Z",
+  "timestamp": "2026-10-22T00:51:10.412042546Z",
   "model": "glm-5.3"
 }

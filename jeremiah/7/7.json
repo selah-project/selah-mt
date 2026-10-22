@@ -5,31 +5,16 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minn żmien antik sa għal dejjem",
-      "rationale": "l-ogħla עולם\/עולם — l-ewwel 'minn żmien antik', it-tieni 'għal dejjem', għax l-istess kelma tifrar iż-żewġt itrati"
-    }
-  ],
-  "translation": "u nsakknirkom f'dan il-post, fl-art li tajt lil missirijietkom, minn żmien antik sa għal dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/7\/5-8.1792612437833.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un nikkwarta lilkom ⟨את⟩ f'dan il-post, fl-art li tajt lil missirijietkom, minn żmien antik sa għal dejjem.",
   "tokens": [
     {
       "surface": "ושכנתי",
-      "gloss": "u nsakknirkom"
+      "gloss": "u nikkwarta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom — lill-objett: lilkom"
     },
     {
       "surface": "במקום",
@@ -65,13 +50,13 @@
     },
     {
       "surface": "ועד",
-      "gloss": "sa għal"
+      "gloss": "sa"
     },
     {
       "surface": "עולם",
-      "gloss": "dejjem"
+      "gloss": "għal dejjem"
     }
   ],
-  "timestamp": "2026-10-21T19:53:57.834782012Z",
+  "timestamp": "2026-10-22T00:32:59.959581112Z",
   "model": "glm-5.3"
 }

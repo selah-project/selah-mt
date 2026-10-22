@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בארון",
-      "rationale": "l-istess kelma tal-aron tal-ftehim: senduq, mhux mitħna"
-    },
-    {
-      "kind": "measurement",
-      "subject": "בן מאה ועשר שנים",
-      "rationale": "għadd tas-sena ta' wara l-mewt ta' Josef: mija u għaxra sena"
-    }
-  ],
-  "translation": "U Josef miet, bin mija u għoxrin sena ‹għaxra u mija›; u ħannewh, u poġġewh ⟨את⟩ f'senduq fi Mitsrajim.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/50\/25-26.1792599200501.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jusef miet, iben mija u għaxar snin, u ħannew ⟨את⟩ lilu, u ⟨poġġewh⟩ f'senduq f'Mitsrajim.",
   "tokens": [
     {
       "surface": "וימת",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Josef"
+      "gloss": "Jusef"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "iben"
     },
     {
       "surface": "מאה",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "ועשר",
-      "gloss": "u għaxra"
+      "gloss": "u għaxar"
     },
     {
       "surface": "שנים",
-      "gloss": "sena"
+      "gloss": "snin"
     },
     {
       "surface": "ויחנטו",
-      "gloss": "u ħannewh"
+      "gloss": "u ħannew"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "h"
+      "gloss": "⟨את⟩ lilu",
+      "marks": "Jusef"
     },
     {
       "surface": "ויישם",
@@ -71,9 +50,9 @@
     },
     {
       "surface": "במצרים",
-      "gloss": "fi Mitsrajim"
+      "gloss": "f'Mitsrajim"
     }
   ],
-  "timestamp": "2026-10-21T16:13:20.502171791Z",
+  "timestamp": "2026-10-22T00:24:14.567498887Z",
   "model": "glm-5.3"
 }

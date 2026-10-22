@@ -5,93 +5,67 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruħ",
-      "rationale": "נפש hija l-ħaġa li tħares — ħajja, ruħ, ħelu — mhux sempliċiment 'persona'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "Literal 'għal ħalq ix-xabla' — il-ħalq tal-xabla hu l-leħħ tagħha."
-    },
-    {
-      "kind": "crux",
-      "subject": "ואת מקדה לכד",
-      "rationale": "Ħafna jqisu l-את hawnhekk bħala żieda qadima jew qari għal ואתה; ġibdejna bħala l-iskart ta' Maqqeda."
-    }
-  ],
-  "translation": "U ⟨את⟩ Maqqeda Ġożwè ħa dak il-ġurnata, u welbet kontrha bil-ħalq tax-xabla, u ⟨את⟩ is-sultan tagħha għamilha ħrema — lilhom; u lil ⟨את⟩ kull ruħ li kienet fiha: ma ħalla l-ebda wieħed ħaj; u għamel lis-sultan ta' Maqqeda bħalma għamel lis-sultan ta' Ġeriko.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0b2b385a6609ab46ebaa07ede73683bb4312d566f9c6e3034dc47c3734906946",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/10\/25-28.1792606564281.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ Maqedah ħataf Jehoxua f'dak in-nhar, u laqtilha b'fomm ix-xabla, u ⟨את⟩ sultanha għamel biex jitħerrem, ⟨את⟩ lilhom, u ⟨את⟩ kull nefes li kienet fiha — ma ħallix ⟨xejn⟩ ħaj, u għamel lis-sultan ta' Maqedah bħalma għamel lis-sultan ta' Ġeriko.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Maqqeda"
+      "gloss": "u ⟨את⟩",
+      "marks": "Maqedah"
     },
     {
       "surface": "מקדה",
-      "gloss": "Maqqeda"
+      "gloss": "Maqedah"
     },
     {
       "surface": "לכד",
-      "gloss": "ħa"
+      "gloss": "ħataf"
     },
     {
       "surface": "יהושע",
-      "gloss": "Ġożwè"
+      "gloss": "Jehoxua"
     },
     {
       "surface": "ביום",
-      "gloss": "dak il-ġurnata"
+      "gloss": "f'dak in-nhar"
     },
     {
       "surface": "ההוא",
-      "gloss": "dak"
+      "gloss": "(dak)"
     },
     {
       "surface": "ויכה",
-      "gloss": "welbet"
+      "gloss": "u laqtilha"
     },
     {
       "surface": "לפי",
-      "gloss": "bil-ħalq"
+      "gloss": "b'fomm"
     },
     {
       "surface": "חרב",
-      "gloss": "tax-xabla"
+      "gloss": "ix-xabla"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "is-sultan tagħha"
+      "gloss": "u ⟨את⟩",
+      "marks": "sultanha"
     },
     {
       "surface": "מלכה",
-      "gloss": "is-sultan tagħha"
+      "gloss": "sultanha"
     },
     {
       "surface": "החרם",
-      "gloss": "għamilha ħrema"
+      "gloss": "għamel biex jitħerrem"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "sultanha u l-belt"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kull ruħ li kienet fiha"
+      "gloss": "u ⟨את⟩",
+      "marks": "kull nefes"
     },
     {
       "surface": "כל",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "ruħ"
+      "gloss": "nefes"
     },
     {
       "surface": "אשר",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "kienet fiha"
+      "gloss": "fiha"
     },
     {
       "surface": "לא",
@@ -115,11 +89,11 @@
     },
     {
       "surface": "השאיר",
-      "gloss": "ħalla"
+      "gloss": "ħallix"
     },
     {
       "surface": "שריד",
-      "gloss": "ħaj"
+      "gloss": "ħaj (mifugħ)"
     },
     {
       "surface": "ויעש",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "מקדה",
-      "gloss": "ta' Maqqeda"
+      "gloss": "Maqedah"
     },
     {
       "surface": "כאשר",
@@ -147,9 +121,9 @@
     },
     {
       "surface": "יריחו",
-      "gloss": "ta' Ġeriko"
+      "gloss": "Ġeriko"
     }
   ],
-  "timestamp": "2026-10-21T18:16:04.282911109Z",
+  "timestamp": "2026-10-22T00:34:41.927328943Z",
   "model": "glm-5.3"
 }

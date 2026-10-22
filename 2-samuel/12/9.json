@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨lil⟩",
-      "rationale": "il-prepożizzjoni Maltija meħtieġa għall-oġġett dirett ta' ואתו"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרב…חרב",
-      "rationale": "il-Ħudud jirrepeti 'xabra' darbtejn — Dawwe talbet il-xabra u bil-xabra tqatel"
-    }
-  ],
-  "translation": "Għaliex ṭlieqt kelmt Jaħwe, biex tagħmel il-ħażin f'għajnejh? Lil Urija l-Ħittit ilħaqtni bil-xabla, u ⟨את⟩ martu ħditlek għalik għal mara, u ⟨lil⟩ him qtiltx bil-xabla tal-wlied ta' Amon.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/12\/9-12.1792608782167.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex tbazajt ⟨את⟩ kelmet Jaħwe, biex tagħmel il-ħażin f'għajnejh? ⟨את⟩ Urija l-Ħittit ħdittu bil-ħieba, u ⟨את⟩ martu ħadithek għal mara, ⟨את⟩ u lilu qtajtu bil-ħieba ta' wlied Ammon.",
   "tokens": [
     {
       "surface": "מדוע",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "בזית",
-      "gloss": "ṭlieqt"
+      "gloss": "tbazajt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kelmt"
+      "marks": "kelmet"
     },
     {
       "surface": "דבר",
-      "gloss": "kelmt"
+      "gloss": "kelmet"
     },
     {
       "surface": "יהוה",
@@ -76,15 +55,15 @@
     },
     {
       "surface": "הכית",
-      "gloss": "ilħaqtni"
+      "gloss": "ħdittu"
     },
     {
       "surface": "בחרב",
-      "gloss": "bil-xabla"
+      "gloss": "bil-ħieba"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u ⟨את⟩",
       "marks": "martu"
     },
     {
@@ -93,11 +72,11 @@
     },
     {
       "surface": "לקחת",
-      "gloss": "ħditlek"
+      "gloss": "ħadithek"
     },
     {
       "surface": "לך",
-      "gloss": "għalik"
+      "gloss": "lek"
     },
     {
       "surface": "לאשה",
@@ -105,26 +84,25 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩",
-      "marks": "h"
+      "gloss": "⟨את⟩ u lilu"
     },
     {
       "surface": "הרגת",
-      "gloss": "qtiltx"
+      "gloss": "qtajtu"
     },
     {
       "surface": "בחרב",
-      "gloss": "bil-xabla"
+      "gloss": "bil-ħieba"
     },
     {
       "surface": "בני",
-      "gloss": "tal-wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "עמון",
-      "gloss": "ta' Amon"
+      "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-10-21T18:53:02.168184839Z",
+  "timestamp": "2026-10-22T00:06:06.753363987Z",
   "model": "glm-5.3"
 }

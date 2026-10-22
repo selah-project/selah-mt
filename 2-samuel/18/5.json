@@ -5,64 +5,38 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Joav, lil Avixaj, lil Ittaj",
-      "rationale": "David j indirizza lill-erbgħa kmandanti tiegħu direttament biex jisparaw lil Avxalom."
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-kmandanti",
-      "rationale": "השרים huwa 'il-kbar, il-kapijiet' — kelma ġenerali għal min jmexxi, mhux biss militar."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לאט",
-      "rationale": "l-għerq jgħid 'rqiq, artab' — David jistaqsu li jittrattawh bil-ħlewwa, u l-ebda kelma Maltija waħda ma żżomm it-tnejn."
-    }
-  ],
-  "translation": "U r-re amar lil Joav, u lil Avixaj, u lil Ittaj, jgħidu: Imsieħen għalija mal-iżżagħżugħ, ma' Avxalom. U l-poplu kollu sema' meta r-re amar ⟨את⟩ lill-kmandanti kollha dwar il-każ ta' Avxalom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "11c026d7721a5222dec057712e711d6e7a20940320ed280aef7cb3d6d49ebaf4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/18\/5-8.1792608897253.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U s-sultan ordna ⟨את⟩ lil Joab u ⟨את⟩ lil Abixaj u ⟨את⟩ lil Ittaj, biex jgħid: Bil-mod għalija — mal-iżżagħżugħ, ma' Avxalom. U n-nies kollha semgħu meta s-sultan ordna ⟨את⟩ lil kulħadd mill-kapijiet dwar il-ħaġa ta' Avxalom.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "amar"
+      "gloss": "u ordna"
     },
     {
       "surface": "המלך",
-      "gloss": "r-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joav"
+      "marks": "lil Joab"
     },
     {
       "surface": "יואב",
-      "gloss": "Joav"
+      "gloss": "Joab"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "Avixaj"
+      "marks": "lil Abixaj"
     },
     {
       "surface": "אבישי",
-      "gloss": "Avixaj"
+      "gloss": "Abixaj"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "Ittaj"
+      "marks": "lil Ittaj"
     },
     {
       "surface": "אתי",
@@ -70,11 +44,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jgħidu"
+      "gloss": "biex jgħid"
     },
     {
       "surface": "לאט",
-      "gloss": "imsieħen"
+      "gloss": "bil-mod"
     },
     {
       "surface": "לי",
@@ -90,36 +64,36 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u kollu"
+      "gloss": "u kull"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "שמעו",
-      "gloss": "sema'"
+      "gloss": "semgħu"
     },
     {
       "surface": "בצות",
-      "gloss": "meta amar"
+      "gloss": "meta ordna"
     },
     {
       "surface": "המלך",
-      "gloss": "r-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-kmandanti kollha"
+      "marks": "lil kulħadd mill-kapijiet"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "השרים",
-      "gloss": "il-kmandanti"
+      "gloss": "mill-kapijiet"
     },
     {
       "surface": "על",
@@ -127,13 +101,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "il-każ"
+      "gloss": "il-ħaġa"
     },
     {
       "surface": "אבשלום",
       "gloss": "Avxalom"
     }
   ],
-  "timestamp": "2026-10-21T18:54:57.254047603Z",
+  "timestamp": "2026-10-22T00:07:04.516689245Z",
   "model": "glm-5.3"
 }

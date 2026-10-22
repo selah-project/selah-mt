@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "lil dawk",
-      "rationale": "אתם jipponta lejn il-ġnus imgħobbija, il-pronomin miżjud bil-Malti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-pjanti",
-      "rationale": "כפות litteralment il-pala\/il-wiċċ tal-id; hawn l-istmol tar-riġel,_singular רגלו"
-    }
-  ],
-  "translation": "Int taf lil David missieri, li ma setax jibni dar għal isem Jaħwe Elohim tiegħu, minn quddiem il-gwerra li kienet dawrith, sa ma Jaħwe ta lil dawk taħt il-pjanti ta' riġlu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "53339a39b95366c8c6c3a4fef369a44cb23a8e91c19514b203a74a659afcbceb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/5\/17-20.1792609398701.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Inti taf ⟨את⟩ lil David missieri, li ma setax jibni dar għal-isem Jaħwe Elohim tiegħu, minn quddiem il-gwerra li kienet imdawra madwaru, sa ma Jaħwe poġġiehom ⟨את⟩ taħt il-palkieri ta' riġlejh.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "int"
+      "gloss": "Inti"
     },
     {
       "surface": "ידעת",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil David"
+      "marks": "lil David missieri"
     },
     {
       "surface": "דוד",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "לשם",
-      "gloss": "għal isem"
+      "gloss": "għal-isem"
     },
     {
       "surface": "יהוה",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "סבבהו",
-      "gloss": "kienet dawrith"
+      "gloss": "kienet imdawra madwaru"
     },
     {
       "surface": "עד",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "תת",
-      "gloss": "ta"
+      "gloss": "poġġiehom"
     },
     {
       "surface": "יהוה",
@@ -112,7 +91,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lil dawk"
+      "marks": "taħt il-palkieri ta' riġlejh"
     },
     {
       "surface": "תחת",
@@ -120,13 +99,13 @@
     },
     {
       "surface": "כפות",
-      "gloss": "il-pjanti"
+      "gloss": "il-palkieri"
     },
     {
       "surface": "רגלו",
-      "gloss": "ta' riġlu"
+      "gloss": "ta' riġlejh"
     }
   ],
-  "timestamp": "2026-10-21T19:03:18.702452116Z",
+  "timestamp": "2026-10-21T23:57:35.649797400Z",
   "model": "glm-5.3"
 }

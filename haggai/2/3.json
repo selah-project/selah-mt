@@ -5,33 +5,7 @@
   "book": "haggai",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כאין בעיניכם",
-      "rationale": "'bħal xeħta f'għajnejkom' — letteralment 'bħal ma jinsab' f'għajnejkom; xebħ ma' xeħta (ħaġa li ma tidhirx)"
-    },
-    {
-      "kind": "you",
-      "subject": "il-poplu",
-      "rationale": "mistoqsija diretta lil dawk li baqgħu mill-eżilju"
-    },
-    {
-      "kind": "elision",
-      "subject": "כמהו",
-      "rationale": "'daqsha magħha' — it-tqabbil mal-ġġieb l-antik faqa' ma' 'xeħta'"
-    }
-  ],
-  "translation": "Min għandkom fost dawk li baqgħu, li ra ⟨את⟩ id-dar din bi ġġiebha l-ewwel? U intom kif qiegħdin tarawh ⟨issa⟩? Jaħraq mhux bħal xeħta f'għajnejkom meta tqabblu?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "01340037bd01252d22378c24a6a5c1c10ccdb5fe639e0a3182431e0d81b03b9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/haggai\/2\/1-4.1792616218936.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min fostkom baqa' li ra ⟨את⟩ din id-dar fil-glorja tagħha l-ewwel? U x'intom qegħdin jaraw ⟨את⟩ lilu issa? Mhux bħal xejn f'għajnejkom?",
   "tokens": [
     {
       "surface": "מי",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "בכם",
-      "gloss": "għandkom"
+      "gloss": "fostkom"
     },
     {
       "surface": "הנשאר",
-      "gloss": "dawk li baqgħu"
+      "gloss": "baqa'"
     },
     {
       "surface": "אשר",
@@ -56,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-dar"
+      "marks": "din id-dar"
     },
     {
       "surface": "הבית",
-      "gloss": "id-dar"
+      "gloss": "din id-dar"
     },
     {
       "surface": "הזה",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "בכבודו",
-      "gloss": "bi ġġiebha"
+      "gloss": "fil-glorja tagħha"
     },
     {
       "surface": "הראשון",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "ומה",
-      "gloss": "U kif"
+      "gloss": "U x'"
     },
     {
       "surface": "אתם",
@@ -84,12 +58,12 @@
     },
     {
       "surface": "ראים",
-      "gloss": "qiegħdin tarawh"
+      "gloss": "qegħdin jaraw"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "h"
+      "marks": "lilu (id-dar)"
     },
     {
       "surface": "עתה",
@@ -97,21 +71,21 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "Jaħraq mhux"
+      "gloss": "Mhux"
     },
     {
       "surface": "כמהו",
-      "gloss": "bħal"
+      "gloss": "bħalha"
     },
     {
       "surface": "כאין",
-      "gloss": "xeħta"
+      "gloss": "xejn"
     },
     {
       "surface": "בעיניכם",
       "gloss": "f'għajnejkom"
     }
   ],
-  "timestamp": "2026-10-21T20:56:58.937126726Z",
+  "timestamp": "2026-10-22T00:25:07.761305802Z",
   "model": "glm-5.3"
 }

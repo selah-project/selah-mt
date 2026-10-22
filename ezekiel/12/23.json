@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "המשל\/ימשלו",
-      "rationale": "il-verb משל jirrepeti l-isem משל: 'waqqft il-proverbju u mhux se jipproverbjawh' — lost in Maltese, imma l-għerq jibqa' semà."
-    },
-    {
-      "kind": "crux",
-      "subject": "ודבר כל חזון",
-      "rationale": "'kelma ta' kull viżjoni' (JPS\/qlieb litterali) kontra 'il-ħatra\/eżekuzzjoni ta' kull viżjoni' (KJV\/BSB)."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "il-kostruzzjoni 'imma\/ħlief' ma tqabilx kelma għal kelma bil-Malti."
-    }
-  ],
-  "translation": "Għalhekk għidilhom: Hekk jgħid Adonaj Jaħwe: Jiena waqqft ⟨את⟩ dan il-proverbju, u mhux se jagħmluh proverbju ⟪aktar⟫ f'Jisrael; imma għidilhom: Qerbu l-jiem, u kelma ta' kull viżjoni.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/12\/21-24.1792614284708.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għalhekk għidilhom: Hekk qal Adonaj Jaħwe: Jiena waqqaft ⟨את⟩ din il-maħra, u ma jerġgħux jgħiduha ⟨אתו⟩ għal żmien twil f'Jisrael; imma kellem lilhom: Il-jiem qerbu, u tkellem kull viżjoni.",
   "tokens": [
     {
       "surface": "לכן",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "ilhom"
+      "gloss": "lilhom"
     },
     {
       "surface": "כה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "jgħid"
+      "gloss": "qal"
     },
     {
       "surface": "אדני",
@@ -63,37 +37,37 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "Jiena waqqft"
+      "gloss": "waqqaft"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dan il-proverbju"
+      "marks": "din il-maħra"
     },
     {
       "surface": "המשל",
-      "gloss": "il-proverbju"
+      "gloss": "il-maħra"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "ולא",
-      "gloss": "u mhux"
+      "gloss": "u ma"
     },
     {
       "surface": "ימשלו",
-      "gloss": "se jagħmluh proverbju"
+      "gloss": "jerġgħux jgħiduha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "(il-proverbju)"
+      "gloss": "⟨אתו⟩",
+      "marks": "għal żmien twil"
     },
     {
       "surface": "עוד",
-      "gloss": "aktar"
+      "gloss": "għal żmien twil"
     },
     {
       "surface": "בישראל",
@@ -105,19 +79,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "(ħlief)"
+      "gloss": "⟨imma⟩"
     },
     {
       "surface": "דבר",
-      "gloss": "għid"
+      "gloss": "kellem"
     },
     {
       "surface": "אליהם",
-      "gloss": "ilhom"
+      "gloss": "lilhom"
     },
     {
       "surface": "קרבו",
-      "gloss": "Qerbu"
+      "gloss": "qerbu"
     },
     {
       "surface": "הימים",
@@ -125,17 +99,17 @@
     },
     {
       "surface": "ודבר",
-      "gloss": "u kelma"
+      "gloss": "u tkellem"
     },
     {
       "surface": "כל",
-      "gloss": "ta' kull"
+      "gloss": "kull"
     },
     {
       "surface": "חזון",
       "gloss": "viżjoni"
     }
   ],
-  "timestamp": "2026-10-21T20:24:44.709847910Z",
+  "timestamp": "2026-10-22T00:16:07.416266955Z",
   "model": "glm-5.3"
 }

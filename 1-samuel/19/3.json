@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tinsab",
-      "rationale": "שם huwa 'hemm' — il-Malti jirrikjedi verb ta' lokazzjoni"
-    },
-    {
-      "kind": "alternative",
-      "subject": "fil-għalqa fejn inti tinsab",
-      "rationale": "xi qari antiki jifhmu 'fil-għalqa fejn hu (missieru)' — iżda l-MT jgħid אתה שם, 'inti hemm'"
-    }
-  ],
-  "translation": "U jien noħroġ u noqgħod ħdejn missieri fil-għalqa fejn inti tinsab, u jien nitkellem fuqek ma' missieri, u jiena r'a x'iġri u inħabbarlek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/19\/1-4.1792608213673.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jiena noħroġ u nqagħed ħdejn missieri fil-għalq fejn int qiegħed, u jiena nitkellem fuqek ma' missieri, u jiena naraw ⟨x'jiġri⟩ u nħabbarlek.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "u jien"
+      "gloss": "u jiena"
     },
     {
       "surface": "אצא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ועמדתי",
-      "gloss": "noqgħod"
+      "gloss": "u nqagħed"
     },
     {
       "surface": "ליד",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "fil-għalqa"
+      "gloss": "fil-għalq"
     },
     {
       "surface": "אשר",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "אתה",
-      "gloss": "inti"
+      "gloss": "int"
     },
     {
       "surface": "שם",
-      "gloss": "tinsab"
+      "gloss": "qiegħed"
     },
     {
       "surface": "ואני",
-      "gloss": "u jien"
+      "gloss": "u jiena"
     },
     {
       "surface": "אדבר",
@@ -86,21 +65,21 @@
     },
     {
       "surface": "וראיתי",
-      "gloss": "u jiena r'a"
+      "gloss": "naraw"
     },
     {
       "surface": "מה",
-      "gloss": "x'iġri"
+      "gloss": "⟨x'jiġri⟩"
     },
     {
       "surface": "והגדתי",
-      "gloss": "u inħabbarlek"
+      "gloss": "u nħabbarlek"
     },
     {
       "surface": "לך",
       "gloss": ""
     }
   ],
-  "timestamp": "2026-10-21T18:43:33.674814895Z",
+  "timestamp": "2026-10-21T23:59:15.286530899Z",
   "model": "glm-5.3"
 }

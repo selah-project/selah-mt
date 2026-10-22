@@ -5,52 +5,31 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rixtellu",
-      "rationale": "וימרו għandu l-ewwel tifsira 'morr' — ir-ribelljoni hija estensjoni figurattiva"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חללו \/ החל",
-      "rationale": "l-istess għerq חלל 'iddeżonoraw' jidher mill-ġdid fil-vers 14 dwar l-isem — rabta li tingħata b'qsim ta' Maltese differenti"
-    }
-  ],
-  "translation": "U d-dar ta' Jisrail għamletrixtellu fija fid-deżert: fil-ħuqqijiet tiegħi ma mxewx, u ⟨את⟩ i-ġudizzji tiegħi ċaċċattaw, li l-bniedem jagħmelhom u jgħix bihom, u ⟨את⟩ ix-Xabbat tiegħi ddeżonoraw ħafna; u għidt biex inferraħ ir-rabja tiegħi fuqhom fid-deżert biex inqerdu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/13-16.1792614522638.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U dar Jisrael rabellaw kontrija fil-baħja; fl-istatuti tiegħi ma mxewx, u ⟨את⟩ l-ġudizzji tiegħi mċaħħdu, li jagħmelhom il-bniedem u jgħix bihom; u ⟨את⟩ l-Xabbattot tiegħi profanaw immens. U għidt li nfiġġ il-rabbja tiegħi fuqhom fil-baħja, biex inqerdu għal kollox.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "għamlu rixtellu"
+      "gloss": "rabellaw"
     },
     {
       "surface": "בי",
-      "gloss": "fija"
+      "gloss": "kontrija"
     },
     {
       "surface": "בית",
-      "gloss": "d-dar"
+      "gloss": "dar"
     },
     {
       "surface": "ישראל",
-      "gloss": "ta' Jisrail"
+      "gloss": "Jisrael"
     },
     {
       "surface": "במדבר",
-      "gloss": "fid-deżert"
+      "gloss": "fil-baħja"
     },
     {
       "surface": "בחקותי",
-      "gloss": "fil-ħuqqijiet tiegħi"
+      "gloss": "fl-istatuti tiegħi"
     },
     {
       "surface": "לא",
@@ -62,16 +41,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "i-ġudizzji tiegħi"
+      "gloss": "⟨את⟩",
+      "marks": "l-ġudizzji tiegħi"
     },
     {
       "surface": "משפטי",
-      "gloss": "i-ġudizzji tiegħi"
+      "gloss": "l-ġudizzji tiegħi"
     },
     {
       "surface": "מאסו",
-      "gloss": "ċaċċattaw"
+      "gloss": "mċaħħdu"
     },
     {
       "surface": "אשר",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩hom",
+      "gloss": "⟨את⟩",
       "marks": "il-bniedem"
     },
     {
@@ -100,20 +79,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "ix-Xabbat tiegħi"
+      "gloss": "⟨את⟩",
+      "marks": "l-Xabbattot tiegħi"
     },
     {
       "surface": "שבתתי",
-      "gloss": "ix-Xabbat tiegħi"
+      "gloss": "l-Xabbattot tiegħi"
     },
     {
       "surface": "חללו",
-      "gloss": "ddeżonoraw"
+      "gloss": "profanaw"
     },
     {
       "surface": "מאד",
-      "gloss": "ħafna"
+      "gloss": "immens"
     },
     {
       "surface": "ואמר",
@@ -121,11 +100,11 @@
     },
     {
       "surface": "לשפך",
-      "gloss": "biex inferraħ"
+      "gloss": "li nfiġġ"
     },
     {
       "surface": "חמתי",
-      "gloss": "ir-rabja tiegħi"
+      "gloss": "il-rabbja tiegħi"
     },
     {
       "surface": "עליהם",
@@ -133,13 +112,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "fid-deżert"
+      "gloss": "fil-baħja"
     },
     {
       "surface": "לכלותם",
-      "gloss": "biex inqerdu"
+      "gloss": "biex inqerdu għal kollox"
     }
   ],
-  "timestamp": "2026-10-21T20:28:42.639579950Z",
+  "timestamp": "2026-10-22T00:16:58.194000940Z",
   "model": "glm-5.3"
 }

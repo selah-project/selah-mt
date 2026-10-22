@@ -5,45 +5,19 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "diviżjoni tal-vers",
-      "rationale": "Il-KJV\/ASV jibdew kapitlu 9 hawn (Matt 4:15 jiċċita hekk); JPS iżomm f'8:23 u jaqrah bħala miftuħ għat-tama."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הקל\/הכביד",
-      "rationale": "ħfief kontra tqil — l-ewwel ħin ħaffef (afflizzjoni ħafifa), l-aħħar iġbarraf; simmetrija mitlufa parzjalment."
-    },
-    {
-      "kind": "hapax",
-      "subject": "מועף",
-      "rationale": "Għerq rari ta' 'mgħotti, skur'; diftresh bħala dlm\/distress skont is-senteks."
-    }
-  ],
-  "translation": "Għax ma hemmx dlm għal dik li kienet f'distress; bħal-żmien l-ewwel ħaffef fuq l-art ta' Żebulun u l-art ta' Naftali, u l-aħħar iġbarraf triq il-baħar, lil hinn il-Ġordan, fil-Galil tal-ġnus.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/8\/21-23.1792610976646.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax m'hemmx dlam għal dik li kienet fid-distress; bħall-ewwel ħin huwa ġeff ⟨għaliha⟩ l-art ta' Zebulun u l-art ta' Naftali, u l-aħħar tagħha huwa saqilha: triq il-baħar, lil hinn mill-Ġordan, il-Galil tal-ġnus.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għax"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "מועף",
-      "gloss": "dlm"
+      "gloss": "dlam"
     },
     {
       "surface": "לאשר",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "מוצק",
-      "gloss": "kienet f'distress"
+      "gloss": "fid-distress"
     },
     {
       "surface": "לה",
-      "gloss": ""
+      "gloss": "lilha"
     },
     {
       "surface": "כעת",
-      "gloss": "bħal-żmien"
+      "gloss": "bħall-ewwel ħin"
     },
     {
       "surface": "הראשון",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "הקל",
-      "gloss": "ħaffef"
+      "gloss": "ġeff"
     },
     {
       "surface": "ארצה",
-      "gloss": "fuq l-art"
+      "gloss": "l-art"
     },
     {
       "surface": "זבלון",
-      "gloss": "ta' Żebulun"
+      "gloss": "Zebulun"
     },
     {
       "surface": "וארצה",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "נפתלי",
-      "gloss": "ta' Naftali"
+      "gloss": "Naftali"
     },
     {
       "surface": "והאחרון",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "הכביד",
-      "gloss": "iġbarraf"
+      "gloss": "saqilha"
     },
     {
       "surface": "דרך",
@@ -107,17 +81,17 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "il-Ġordan"
+      "gloss": "mill-Ġordan"
     },
     {
       "surface": "גליל",
-      "gloss": "fil-Galil"
+      "gloss": "Galil"
     },
     {
       "surface": "הגוים",
       "gloss": "tal-ġnus"
     }
   ],
-  "timestamp": "2026-10-21T19:29:36.647841251Z",
+  "timestamp": "2026-10-22T00:27:42.207741204Z",
   "model": "glm-5.3"
 }

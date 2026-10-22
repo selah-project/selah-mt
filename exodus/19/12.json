@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מות יומת",
-      "rationale": "infinitiv absolut + verb: 'bil-mewt għandu jmut' — l-istess għerq mrrat, bħall-Lhudi"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Oqogħdu għaraskom",
-      "rationale": "imperattiv b'sejħa diretta lil-Moxe dwar il-poplu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בקצהו",
-      "rationale": "qiegħha\/limitu tagħha: קצה huwa t-tarf jew il-limitu tal-muntanja, mhux il-bażi b'mod ċert"
-    }
-  ],
-  "translation": "U inti tagħmel fruntiera lill-poplu madwar, u tgħid: Oqogħdu għaraskom li titilgħu fuq il-muntanja jew imissu ma' qiegħha; kull min imiss il-muntanja għandu jmut bil-mewt.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "66dda5231d17377caef8e1b3a3c34613f0b1454d322acd057333e77c7a394032",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/19\/9-12.1792599612844.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tagħmel fruntieri maġen ⟨את⟩ il-poplu, biex tgħid: Oqogħdu attenti milli tilgħu fuq il-muntanja jew tmissu l-estremità tagħha; kull min jmiss il-muntanja bil-mewt jittieħed.",
   "tokens": [
     {
       "surface": "והגבלת",
-      "gloss": "U tagħmel fruntiera"
+      "gloss": "u tagħmel fruntieri"
     },
     {
       "surface": "את",
@@ -48,23 +22,23 @@
     },
     {
       "surface": "סביב",
-      "gloss": "madwar"
+      "gloss": "maġen"
     },
     {
       "surface": "לאמר",
-      "gloss": "u tgħid"
+      "gloss": "biex tgħid"
     },
     {
       "surface": "השמרו",
-      "gloss": "Oqogħdu għaraskom"
+      "gloss": "oqogħdu attenti"
     },
     {
       "surface": "לכם",
-      "gloss": "komkom"
+      "gloss": "kom"
     },
     {
       "surface": "עלות",
-      "gloss": "li titilgħu"
+      "gloss": "milli tilgħu"
     },
     {
       "surface": "בהר",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "ונגע",
-      "gloss": "jew imissu"
+      "gloss": "jew tmissu"
     },
     {
       "surface": "בקצהו",
-      "gloss": "ma' qiegħha"
+      "gloss": "l-estremità tagħha"
     },
     {
       "surface": "כל",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "imiss"
+      "gloss": "jmiss"
     },
     {
       "surface": "בהר",
@@ -92,13 +66,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "għandu jmut"
+      "gloss": "bil-mewt"
     },
     {
       "surface": "יומת",
-      "gloss": "bil-mewt"
+      "gloss": "jittieħed"
     }
   ],
-  "timestamp": "2026-10-21T16:20:12.845430424Z",
+  "timestamp": "2026-10-22T00:13:16.962910788Z",
   "model": "glm-5.3"
 }

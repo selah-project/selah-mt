@@ -5,52 +5,31 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tlett xhur",
-      "rationale": "għadd tas-sigħat tat-tluq tat-tebut f'dar Oved-Edom."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וישב",
-      "rationale": "'baqgħet' — il-Lhudi jgħid 'poġġiet\/għexet' (to sit\/dwell), il-figura ta' l-għammara bħal loħom."
-    }
-  ],
-  "translation": "U t-tebut ta' Jaħwe baqgħet fid-dar ta' Oved-Edom il-Gittit tlett xhur, u Jaħwe berik lil Oved-Edom u ⟨את⟩ lil daru kollha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/6\/9-12.1792608579615.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-arka ta' Jaħwe baqgħet f'dar Oved-Edom il-Gittit tliet xjuħ, u Jaħwe berikk lil ⟨את⟩ Oved-Edom u ⟨את⟩ lil ⟨il⟩-dar kollu tiegħu.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "U baqgħet"
+      "gloss": "baqgħet"
     },
     {
       "surface": "ארון",
-      "gloss": "t-tebut"
+      "gloss": "arka"
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "בית",
-      "gloss": "fid-dar"
+      "gloss": "f'dar"
     },
     {
       "surface": "עבד",
-      "gloss": "ta' Oved-"
+      "gloss": "Oved-Edom"
     },
     {
-      "surface": "אדום",
-      "gloss": "Edom"
+      "surface": "אדם",
+      "gloss": "Oved-Edom"
     },
     {
       "surface": "הגתי",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "tlett"
+      "gloss": "tliet"
     },
     {
       "surface": "חדשים",
-      "gloss": "xhur"
+      "gloss": "xjuħ"
     },
     {
       "surface": "ויברך",
-      "gloss": "u berik"
+      "gloss": "u berikk"
     },
     {
       "surface": "יהוה",
@@ -79,26 +58,26 @@
     },
     {
       "surface": "עבד",
-      "gloss": "lil Oved-"
+      "gloss": "Oved-Edom"
     },
     {
       "surface": "אדם",
-      "gloss": "Edom"
+      "gloss": "Oved-Edom"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "daru kollha"
+      "marks": "il-dar kollu tiegħu"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kollu"
     },
     {
       "surface": "ביתו",
-      "gloss": "lil daru"
+      "gloss": "dar"
     }
   ],
-  "timestamp": "2026-10-21T18:49:39.616851771Z",
+  "timestamp": "2026-10-22T00:07:29.842592231Z",
   "model": "glm-5.3"
 }

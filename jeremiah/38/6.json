@@ -5,66 +5,41 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Costruzzjoni li tfisser 'imma biss' — il-כי u l-אם jaħdmu flimkien"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בור",
-      "rationale": "Ħażn (bir imħallas) jew toqob—l-istess kelma għal ħabs u għal bir"
-    },
-    {
-      "kind": "crux",
-      "subject": "בן המלך",
-      "rationale": "'iben is-sultan' jew titolu (prinċep)? Ħafna traduzzjonijiet jaħsbuhom titolu, imma l-Lhudi jgħid 'iben'"
-    }
-  ],
-  "translation": "Ħadu lil ⟨את⟩ Jirmijahu u tellgħuh 'l isfel f'il-ħażn ta' Malkijahu, iben is-sultan, li kien fiċ-ċint tal-ħabs, u niżżlu lil ⟨את⟩ Jirmijahu bi ħbula; u fil-ħażn ma kienx hemm ilma, imma tajn, u Jirmijahu għereq fit-tajn.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/38\/5-8.1792613372994.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħadu ⟨את⟩ lil Jirmejahu u tegħluh ⟨אתו⟩ f'bir Malkijahu, iben ir-re, li kienet fit-tarf tal-ħabs; u nieżżlu ⟨את⟩ lil Jirmejahu bil-ħbula. U fil-bir ma kienx hemm ilma, imma tajn; u Jirmejahu għereq fit-tajn.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "ħadu"
+      "gloss": "u ħadu"
     },
     {
       "surface": "את",
-      "gloss": "lil ⟨את⟩",
-      "marks": "Jirmijahu"
+      "gloss": "⟨את⟩",
+      "marks": "lil Jirmejahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmijahu"
+      "gloss": "lil Jirmejahu"
     },
     {
       "surface": "וישלכו",
-      "gloss": "u tellgħuh 'l isfel"
+      "gloss": "u tegħluh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu"
+      "gloss": "⟨אתו⟩",
+      "marks": "f'bir"
     },
     {
       "surface": "אל",
-      "gloss": "f'il"
+      "gloss": "f'"
     },
     {
       "surface": "הבור",
-      "gloss": "ħażn"
+      "gloss": "bir"
     },
     {
       "surface": "מלכיהו",
-      "gloss": "ta' Malkijahu"
+      "gloss": "Malkijahu"
     },
     {
       "surface": "בן",
@@ -72,15 +47,15 @@
     },
     {
       "surface": "המלך",
-      "gloss": "is-sultan"
+      "gloss": "ir-re"
     },
     {
       "surface": "אשר",
-      "gloss": "li kien"
+      "gloss": "li kienet"
     },
     {
       "surface": "בחצר",
-      "gloss": "fiċ-ċint"
+      "gloss": "fit-tarf"
     },
     {
       "surface": "המטרה",
@@ -88,24 +63,24 @@
     },
     {
       "surface": "וישלחו",
-      "gloss": "u niżżlu"
+      "gloss": "u nieżżlu"
     },
     {
       "surface": "את",
-      "gloss": "lil ⟨את⟩",
-      "marks": "Jirmijahu"
+      "gloss": "⟨את⟩",
+      "marks": "lil Jirmejahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmijahu"
+      "gloss": "lil Jirmejahu"
     },
     {
       "surface": "בחבלים",
-      "gloss": "bi ħbula"
+      "gloss": "bil-ħbula"
     },
     {
       "surface": "ובבור",
-      "gloss": "u fil-ħażn"
+      "gloss": "u fil-bir"
     },
     {
       "surface": "אין",
@@ -133,13 +108,13 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmijahu"
+      "gloss": "Jirmejahu"
     },
     {
       "surface": "בטיט",
       "gloss": "fit-tajn"
     }
   ],
-  "timestamp": "2026-10-21T20:09:32.996250247Z",
+  "timestamp": "2026-10-22T00:30:54.769053970Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dawk li",
-      "rationale": "il-partiċipja bil-artiklu Hebrajk teħtieġ l-esponenti 'dawk li' bil-Malti"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "il-konġunzjoni wara 'sa ma' tiġi assorbata fil-kostruzzjoni Maltija"
-    }
-  ],
-  "translation": "Kif għamlu lilija wlied Esav, dawk li joqogħdu f'Seir, u l-Moabiti, dawk li joqogħdu f'Ar, sa ma naqbez ⟨את⟩ il-Ġordan, sal-art li Jaħwe Elohim tagħna jagħti lilna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e71f91e8c762e5a16aa9c9c262e34a9b075ea96ac8ef84a7b24a17712acbc572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/2\/29-32.1792605323827.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kif għamlu lil<i>ja<\/i> wlied Esav li joqogħdu f'Seir, u l-Moabiti li joqogħdu f'Ar, sa ma naqbeż ⟨את⟩ l-Ġordan, lejn l-art li Jaħwe Elohim tagħna jagħti lilna.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "lilija"
+      "gloss": "lilja"
     },
     {
       "surface": "בני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הישבים",
-      "gloss": "dawk li joqogħdu"
+      "gloss": "li joqogħdu"
     },
     {
       "surface": "בשעיר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הישבים",
-      "gloss": "dawk li joqogħdu"
+      "gloss": "li joqogħdu"
     },
     {
       "surface": "בער",
@@ -74,28 +53,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "אעבר",
-      "gloss": "naqbez"
+      "gloss": "naqbeż"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-Ġordan"
+      "marks": "l-Ġordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "il-Ġordan"
+      "gloss": "l-Ġordan"
     },
     {
       "surface": "אל",
-      "gloss": "sal-"
+      "gloss": "lejn"
     },
     {
       "surface": "הארץ",
-      "gloss": "art"
+      "gloss": "l-art"
     },
     {
       "surface": "אשר",
@@ -118,6 +97,6 @@
       "gloss": "lilna"
     }
   ],
-  "timestamp": "2026-10-21T17:55:23.828565830Z",
+  "timestamp": "2026-10-22T00:09:21.052491341Z",
   "model": "glm-5.3"
 }

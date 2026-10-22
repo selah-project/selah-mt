@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "tidħlu magħhom",
-      "rationale": "ובאתם בהם ellissi ta' 'il-mara' — biż-żwieġ fis-sens Lhudi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שוב תשובו",
-      "rationale": "infinitiv absolut qabel il-verb: tberġigħ lura għal kollox"
-    },
-    {
-      "kind": "elision",
-      "subject": "האלה",
-      "rationale": "it-tieni demonstrattiv m'għandux post separat fil-Malti"
-    }
-  ],
-  "translation": "Imma jekk terġgħu lura u tilqgħu ma' dak li jifdal mill-ġnus dawn, il-mibqjin magħkom, u żżewġu magħhom, u tidħlu magħhom, u huma magħkom:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4628bf1cd59fd95085db3b7694fe203bc8f2ae5d7dd511dffc7cafa158a86e20",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/23\/9-12.1792606754587.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex jekk tabbandunaw u tirgħu lura u tibqgħu ippuntati ma' fadal ta' dawn il-ġnus, dawn li jifdalu ⟨את⟩ miegħkom, u tiżżewġu magħhom, u tidħlu magħhom u huma magħkom,",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "imma"
+      "gloss": "għaliex"
     },
     {
       "surface": "אם",
@@ -43,23 +17,23 @@
     },
     {
       "surface": "שוב",
-      "gloss": "terġgħu"
+      "gloss": "tabbandunaw"
     },
     {
       "surface": "תשובו",
-      "gloss": "lura"
+      "gloss": "tirgħu lura"
     },
     {
       "surface": "ודבקתם",
-      "gloss": "u tilqgħu"
+      "gloss": "u tibqgħu ippuntati ma'"
     },
     {
       "surface": "ביתר",
-      "gloss": "ma' dak li jifdal"
+      "gloss": "fadal ta'"
     },
     {
       "surface": "הגוים",
-      "gloss": "mill-ġnus"
+      "gloss": "dawn il-ġnus"
     },
     {
       "surface": "האלה",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "il-mibqjin"
+      "gloss": "li jifdalu"
     },
     {
       "surface": "האלה",
-      "gloss": ""
+      "gloss": "dawn"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ magħkom"
+      "gloss": "⟨את⟩ miegħkom"
     },
     {
       "surface": "והתחתנתם",
-      "gloss": "u żżewġu"
+      "gloss": "u tiżżewġu"
     },
     {
       "surface": "בהם",
@@ -102,6 +76,6 @@
       "gloss": "magħkom"
     }
   ],
-  "timestamp": "2026-10-21T18:19:14.588533466Z",
+  "timestamp": "2026-10-22T00:35:15.185215901Z",
   "model": "glm-5.3"
 }

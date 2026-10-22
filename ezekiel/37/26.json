@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "naqta' patt",
-      "rationale": "כרת ברית litteralment 'jaqta' patt' — bil-Malti 'naqta' patt” żżomm il-veduta"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sliem",
-      "rationale": "שלום hawn aktar minn 'paċi': sliem, saħħa,完整的 benesseri"
-    }
-  ],
-  "translation": "u naqta' magħhom patt ta' sliem; patt ta' dejjem ikun magħhom, u npoġġihom u nżidhom, u npoġġi ⟨את⟩ mqaddes tiegħi f'nofshom għal dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/37\/25-28.1792615084824.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U naqta' għalihom patt ta' paċi — patt għal dejjem ikun magħhom — u npoġġiehom u nżidilhom, u npoġġi ⟨את⟩ il-Qaddes tiegħi f'nofshom, għal dejjem.",
   "tokens": [
     {
       "surface": "וכרתי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "magħhom"
+      "gloss": "għalihom"
     },
     {
       "surface": "ברית",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "ta' sliem"
+      "gloss": "ta' paċi"
     },
     {
       "surface": "ברית",
@@ -50,28 +29,29 @@
     },
     {
       "surface": "עולם",
-      "gloss": "ta' dejjem"
+      "gloss": "għal dejjem"
     },
     {
       "surface": "יהיה",
-      "gloss": "jkun"
+      "gloss": "ikun"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ magħhom"
+      "gloss": "⟨את⟩magħhom",
+      "marks": "il-patt ta' paċi"
     },
     {
       "surface": "ונתתים",
-      "gloss": "u npoġġihom"
+      "gloss": "u npoġġiehom"
     },
     {
       "surface": "והרביתי",
-      "gloss": "u nżidhom"
+      "gloss": "u nżidilhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ihom"
+      "gloss": "⟨את⟩hom",
+      "marks": "ihom (nżidilhom)"
     },
     {
       "surface": "ונתתי",
@@ -80,11 +60,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-mqaddes tiegħi"
+      "marks": "il-Qaddes tiegħi"
     },
     {
       "surface": "מקדשי",
-      "gloss": "il-mqaddes tiegħi"
+      "gloss": "il-Qaddes tiegħi"
     },
     {
       "surface": "בתוכם",
@@ -95,6 +75,6 @@
       "gloss": "għal dejjem"
     }
   ],
-  "timestamp": "2026-10-21T20:38:04.825139780Z",
+  "timestamp": "2026-10-22T00:19:05.883047890Z",
   "model": "glm-5.3"
 }

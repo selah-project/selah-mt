@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "allat oħra",
-      "rationale": "אלהים אחרים hawn huma allat barranin — allata b'ittra żgħira skont ir-regola, mhux Elohim"
-    },
-    {
-      "kind": "elision",
-      "subject": "תחת אשר",
-      "rationale": "litturali 'taħt dak li' iddi fl-idiom 'għaliex'"
-    }
-  ],
-  "translation": "Għaliex abbandunawni u ħarqu inċens lil allat oħra, biex jagħdmuni b'kulma għamlu idejhom; għalhekk ħami tiegħi tkejjel f'dan il-post u ma tittiffiesx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca5f028645c9c6ffd15751090d2719cc9c6f1b2ae52bafec4a1b908ceb659e6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/22\/17-20.1792610804319.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex abbandunawni u ħarqu inċens lil eloħim oħra, biex jagħħduni b'kull għemil idejhom; u ħames qalbi tixgħel f'dan il-post, u ma tintifix.",
   "tokens": [
     {
       "surface": "תחת",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "lil allat"
+      "gloss": "lil eloħim oħra"
     },
     {
       "surface": "אחרים",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "הכעיסני",
-      "gloss": "jagħdmuni"
+      "gloss": "jagħħduni"
     },
     {
       "surface": "בכל",
-      "gloss": "b'kulma"
+      "gloss": "b'kull"
     },
     {
       "surface": "מעשה",
-      "gloss": "għamlu"
+      "gloss": "għemil"
     },
     {
       "surface": "ידיהם",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "ונצתה",
-      "gloss": "għalhekk tkejjel"
+      "gloss": "u tixgħel"
     },
     {
       "surface": "חמתי",
-      "gloss": "ħami tiegħi"
+      "gloss": "ħames qalbi"
     },
     {
       "surface": "במקום",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "dan"
     },
     {
       "surface": "ולא",
@@ -94,9 +73,9 @@
     },
     {
       "surface": "תכבה",
-      "gloss": "tittiffiesx"
+      "gloss": "tintifix"
     }
   ],
-  "timestamp": "2026-10-21T19:26:44.320695430Z",
+  "timestamp": "2026-10-22T00:04:25.056067332Z",
   "model": "glm-5.3"
 }

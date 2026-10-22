@@ -5,50 +5,28 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשא את ראש",
-      "rationale": "Literalment 'iġbor ir-ras ta'', idjom għall-ċensiment; l-għadd tal-wlied ta' bniedem."
-    },
-    {
-      "kind": "measurement",
-      "subject": "census",
-      "rationacle": "",
-      "rationale": "Kmand ta' għadd ta' wlied Qeħat skont familji u djar."
-    }
-  ],
-  "translation": "Ġib il-għadd ta' wlied Qeħat minn nofs wlied Levi, skont il-familji tagħhom, skont dar ta' missirijiethom:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "57300b1c0432575033b4d353c38165458a8d51ccacfdb52d04a6c05feee2fde0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/1-4.1792602392111.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ġib ⟨את⟩ ras il-ħrejjef ta' Keħat minn nofs wlied Levi, skont il-familji tagħhom, skont id-dar ta' missirijiethom.",
   "tokens": [
     {
       "surface": "נשא",
-      "gloss": "Ġib il-għadd"
+      "gloss": "Ġib ras"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-għadd ta' wlied Qeħat"
+      "marks": "ras il-ħrejjef ta' Keħat"
     },
     {
       "surface": "ראש",
-      "gloss": "r-ras (l-għadd)"
+      "gloss": "ras"
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "il-ħrejjef"
     },
     {
       "surface": "קהת",
-      "gloss": "Qeħat"
+      "gloss": "ta' Keħat"
     },
     {
       "surface": "מתוך",
@@ -68,13 +46,13 @@
     },
     {
       "surface": "לבית",
-      "gloss": "skont dar"
+      "gloss": "skont id-dar"
     },
     {
       "surface": "אבתם",
       "gloss": "ta' missirijiethom"
     }
   ],
-  "timestamp": "2026-10-21T17:06:32.114840394Z",
+  "timestamp": "2026-10-22T00:47:14.048061716Z",
   "model": "glm-5.3"
 }

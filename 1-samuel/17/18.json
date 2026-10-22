@@ -5,44 +5,23 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חריץ",
-      "rationale": "kelma rari; forsi 'biċċiet maqtugħin' ta' ġobon iebes"
-    },
-    {
-      "kind": "crux",
-      "subject": "ערבתם",
-      "rationale": "'il-patt tagħhom' jew 'l-għarufien tagħhom' — sigurtà li jħallsu"
-    }
-  ],
-  "translation": "U dawn l-għaxra ġobon tqil ġibhom lis-sur ta' elf, u lil ħutek staqsi għas-sliem tagħhom, u l-patt tagħhom ħuh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0ae7269ca59e02ce205286d9e0deda27bd71d5724ff930513c96d778131a3a27",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/17\/17-20.1792608068549.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ dawn l-għaxar biċċiet tal-ħalib iġġib lis-sar ta' elf, u ⟨את⟩ lil aħutek issib għas-sliem, u ⟨את⟩ l-arub tagħhom tieħu.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "l-għaxra ġobon"
+      "marks": "dawn l-għaxar biċċiet tal-ħalib"
     },
     {
       "surface": "עשרת",
-      "gloss": "għaxra"
+      "gloss": "l-għaxar"
     },
     {
       "surface": "חרצי",
-      "gloss": "ġobon"
+      "gloss": "biċċiet"
     },
     {
-      "surface": "החalb",
+      "surface": "החלב",
       "gloss": "tal-ħalib"
     },
     {
@@ -51,11 +30,11 @@
     },
     {
       "surface": "תביא",
-      "gloss": "ġibhom"
+      "gloss": "iġġib"
     },
     {
       "surface": "לשר",
-      "gloss": "lis-sur"
+      "gloss": "lis-sar"
     },
     {
       "surface": "האלף",
@@ -64,34 +43,34 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ħutek"
+      "marks": "lil aħutek"
     },
     {
       "surface": "אחיך",
-      "gloss": "ħutek"
+      "gloss": "aħutek"
     },
     {
       "surface": "תפקד",
-      "gloss": "staqsi għal"
+      "gloss": "issib"
     },
     {
       "surface": "לשלום",
-      "gloss": "s-sliem tagħhom"
+      "gloss": "għas-sliem"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "il-patt tagħhom"
+      "marks": "l-arub tagħhom"
     },
     {
       "surface": "ערבתם",
-      "gloss": "il-patt tagħhom"
+      "gloss": "l-arub tagħhom"
     },
     {
       "surface": "תקח",
-      "gloss": "ħuh"
+      "gloss": "tieħu"
     }
   ],
-  "timestamp": "2026-10-21T18:41:08.550655445Z",
+  "timestamp": "2026-10-22T00:52:11.144080035Z",
   "model": "glm-5.3"
 }

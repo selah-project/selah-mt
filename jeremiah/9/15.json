@@ -5,31 +5,15 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אותם \/ כלותי",
-      "rationale": "il-ħoss ta' otam u kallotihom — qerda sħiħa mħejjija bi kliem li jinstemgħu qrib xulxin"
-    }
-  ],
-  "translation": "U nfreżgħilhom fost il-ġnus li ma jafux huma u lanqas missirijiethom, u nibgħat warajhom ⟨את⟩ is-sejf sa ma nispiċċahom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/9\/13-16.1792612720959.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nfixdilhom fost in-nazzjonijiet li la huma u lanqas missirijiethom għarfu, u nibgħat warajhom ⟨את⟩ is-sejf sa ma nilaħħqu ⟨את⟩ lilhom għal kollox.",
   "tokens": [
     {
       "surface": "והפצותים",
-      "gloss": "U nfreżgħilhom"
+      "gloss": "U nfixdilhom"
     },
     {
       "surface": "בגוים",
-      "gloss": "fost il-ġnus"
+      "gloss": "fost in-nazzjonijiet"
     },
     {
       "surface": "אשר",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma ... x"
+      "gloss": "la"
     },
     {
       "surface": "ידעו",
-      "gloss": "jafux"
+      "gloss": "għarfu"
     },
     {
       "surface": "המה",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "ואבותם",
-      "gloss": "u lanqas missirijiethom"
+      "gloss": "lanqas missirijiethom"
     },
     {
       "surface": "ושלחתי",
@@ -74,13 +58,14 @@
     },
     {
       "surface": "כלותי",
-      "gloss": "nispiċċahom"
+      "gloss": "nilaħħqu għal kollox"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "lilhom (il-pronom suffiss: 'lilhom għal kollox')"
     }
   ],
-  "timestamp": "2026-10-21T19:58:40.960606271Z",
+  "timestamp": "2026-10-22T00:32:57.859266455Z",
   "model": "glm-5.3"
 }

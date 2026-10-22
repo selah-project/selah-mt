@@ -5,33 +5,7 @@
   "book": "lamentations",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הבאת יום קראת",
-      "rationale": " passato (ġibt) kontra futur (tiġġib) — KJV\/ASV jieħduh bħala wegħda futira; il-verb huwa perfett"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨dan⟩",
-      "rationale": "l-Ittjat għandu bżonn oġġett għal 'għamilt', il-Lhudi jħallihu maħsub"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jaħwe",
-      "rationale": "l-istorbujiet ta' Saltnet Alla f'Lamentazzjoni 1 jindirizzaw lil Jaħwe b'sewda u kollha"
-    }
-  ],
-  "translation": "Semgħu li nieled jien; ma hemmx min ikkonsolani. L-għedewwa kollha tiegħi semgħu t-taħrif tiegħi, ferħu għax inti għamilt ⟨dan⟩; ġibt il-jum li sejħt, u jsiru bħali.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/1\/21-22.1792619986653.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Semgħu li nieles jien, m'hemmx min inaħħmi; il-ġedewwa kollha tiegħi semgħu t-taqbida tiegħi, ferħu għax inti għamiltu; ġib il-jum li sejħtu, u jkunu bħali.",
   "tokens": [
     {
       "surface": "שמעו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "נאנחה",
-      "gloss": "nieled"
+      "gloss": "nieles"
     },
     {
       "surface": "אני",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "אין",
-      "gloss": "ma hemmx"
+      "gloss": "m'hemmx"
     },
     {
       "surface": "מנחם",
-      "gloss": "min ikkonsolani"
+      "gloss": "min inaħħmi"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "כל",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "איבי",
-      "gloss": "l-għedewwa"
+      "gloss": "il-ġedewwa tiegħi"
     },
     {
       "surface": "שמעו",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "רעתי",
-      "gloss": "t-taħrif"
+      "gloss": "taqbida tiegħi"
     },
     {
       "surface": "ששו",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "עשית",
-      "gloss": "għamilt"
+      "gloss": "għamiltu"
     },
     {
       "surface": "הבאת",
-      "gloss": "ġibt"
+      "gloss": "ġib"
     },
     {
       "surface": "יום",
@@ -103,17 +77,17 @@
     },
     {
       "surface": "קראת",
-      "gloss": "sejħt"
+      "gloss": "sejħtu"
     },
     {
       "surface": "ויהיו",
-      "gloss": "u jsiru"
+      "gloss": "u jkunu"
     },
     {
       "surface": "כמוני",
       "gloss": "bħali"
     }
   ],
-  "timestamp": "2026-10-21T21:59:46.654469Z",
+  "timestamp": "2026-10-22T00:39:00.244431006Z",
   "model": "glm-5.3"
 }

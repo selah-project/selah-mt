@@ -5,34 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לרבעה",
-      "gloss-not": null,
-      "rationale": "verb rari: 'torqod tinżel ma'' — il-letteralità ta' 'tirba'' (lie flat) ma tgħaddix bil-Malti; mogħti bħala 'tinżel ma''"
-    },
-    {
-      "kind": "you",
-      "subject": "toqtlu",
-      "rationale": "imperattiv dirett lill-komunità ta' Jisrael"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מות יומתו",
-      "rationale": "l-istess formula legali tal-versi 13 u 15 — mutar ripetut tal-kapitlu"
-    }
-  ],
-  "translation": "U mara li tqarreb lejn kwalunkwe bhejjem biex tirba' magħhom — toqtol ⟨את⟩ lil dik il-mara u ⟨את⟩ lil dik il-bhejjem: mewt jitqatlu; id-demji tagħhom fuqhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/13-16.1792601132943.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mara li tqarrab lejn kull bhejjem biex torqod ⟨את⟩ miegħu — toqtol ⟨את⟩ lill-mara u ⟨את⟩ il-bhejjem: bil-mewt jmutu, id-demm tagħhom fuqhom.",
   "tokens": [
     {
       "surface": "ואשה",
@@ -44,7 +17,7 @@
     },
     {
       "surface": "תקרב",
-      "gloss": "tqarreb"
+      "gloss": "tqarrab"
     },
     {
       "surface": "אל",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "kwalunkwe"
+      "gloss": "kull"
     },
     {
       "surface": "בהמה",
@@ -60,12 +33,12 @@
     },
     {
       "surface": "לרבעה",
-      "gloss": "biex tirba' magħhom"
+      "gloss": "biex torqod"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "magħhom (il-bhejjem)"
+      "gloss": "⟨את⟩ miegħu",
+      "marks": "il-bhejjem"
     },
     {
       "surface": "והרגת",
@@ -74,38 +47,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dik il-mara"
+      "marks": "lill-mara"
     },
     {
       "surface": "האשה",
-      "gloss": "dik il-mara"
+      "gloss": "lill-mara"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "dik il-bhejjem"
+      "marks": "il-bhejjem"
     },
     {
       "surface": "הבהמה",
-      "gloss": "dik il-bhejjem"
+      "gloss": "il-bhejjem"
     },
     {
       "surface": "מות",
-      "gloss": "mewt"
+      "gloss": "bil-mewt"
     },
     {
       "surface": "יומתו",
-      "gloss": "jitqatlu"
+      "gloss": "jmutu"
     },
     {
       "surface": "דמיהם",
-      "gloss": "id-demji tagħhom"
+      "gloss": "id-demm tagħhom"
     },
     {
       "surface": "בם",
       "gloss": "fuqhom"
     }
   ],
-  "timestamp": "2026-10-21T16:45:32.944826877Z",
+  "timestamp": "2026-10-22T00:40:15.991345281Z",
   "model": "glm-5.3"
 }

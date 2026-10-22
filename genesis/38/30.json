@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ħatut⟩",
-      "rationale": "השני huwa biss l-aġettiv 'l-aħmar (tal-qirmiz)'; in-nom 'ħatut' miżjud bil-Malti għax it-test jassenjiha mal-ħajta tal-qirmiz tal-vers 28."
-    },
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "Il-Lhudi m'għandux kopula; 'kien' miżjud bil-Malti u mmarkat."
-    }
-  ],
-  "translation": "Wara, ħarah ħuh, li fuq idu kien ⟨ħatut⟩ l-aħmar; u sejjaħ ismu Zarach.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "bb2ebc3c959a2611fe1ba35778edbc2d89a6d61356c989cb55ed55ef78baa227",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/38\/29-30.1792598765313.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wara ħareġ ħuh, li ⟨kien⟩ fuq idu t-tieni, u jgħidu ismu Zaraj.",
   "tokens": [
     {
       "surface": "ואחר",
-      "gloss": "Wara"
+      "gloss": "u wara"
     },
     {
       "surface": "יצא",
-      "gloss": "ħarah"
+      "gloss": "ħareġ"
     },
     {
       "surface": "אחיו",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "השני",
-      "gloss": "l-aħmar"
+      "gloss": "it-tieni"
     },
     {
       "surface": "ויקרא",
-      "gloss": "u sejjaħ"
+      "gloss": "u jgħidu"
     },
     {
       "surface": "שמו",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "זרח",
-      "gloss": "Zarach"
+      "gloss": "Zaraj"
     }
   ],
-  "timestamp": "2026-10-21T16:06:05.314177827Z",
+  "timestamp": "2026-10-22T00:22:48.158966533Z",
   "model": "glm-5.3"
 }

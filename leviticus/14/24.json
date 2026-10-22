@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "iġorr tennufa",
-      "rationale": "הניף tfisserliterali 'jibbillaw\/il-għada' — ġest ta' moviment; 'iġorr tennufa' jaqra bħala għażla fil-Malti"
-    },
-    {
-      "kind": "addition",
-      "subject": "lil-ħaruf",
-      "gloss": "l-artiklu miżjud bil-Malti għax il-kostrutt l-ebraiku ma jġorrx artiklu"
-    }
-  ],
-  "translation": "U l-qassis jieħu lil-ħaruf l-ašam u l-log żejt, u l-qassis iġorr tennufa quddiem Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1e90bf40c83c9fd4e6155c77d556358760fb942e6a4678abc6d94b944b303e15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/21-24.1792600809613.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis jieħu ⟨את⟩ il-ħaruf tal-ašam u ⟨את⟩ logħ żejt, u l-qassis itajjarhom tenufa quddiem Jaħwe.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "u jieħu"
+      "gloss": "jieħu"
     },
     {
       "surface": "הכהן",
@@ -39,24 +18,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ħaruf l-ašam"
+      "marks": "il-ħaruf tal-ašam"
     },
     {
       "surface": "כבש",
-      "gloss": "ħaruf"
+      "gloss": "il-ħaruf"
     },
     {
       "surface": "האשם",
-      "gloss": "l-ašam"
+      "gloss": "tal-ašam"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "log żejt"
+      "gloss": "⟨את⟩",
+      "marks": "logħ żejt"
     },
     {
       "surface": "לג",
-      "gloss": "log"
+      "gloss": "logħ"
     },
     {
       "surface": "השמן",
@@ -64,12 +43,12 @@
     },
     {
       "surface": "והניף",
-      "gloss": "u iġorr"
+      "gloss": "itajjarhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ihom"
+      "gloss": "⟨אתם⟩",
+      "marks": "il-ħaruf u logħ żejt"
     },
     {
       "surface": "הכהן",
@@ -77,7 +56,7 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "tennufa"
+      "gloss": "tenufa"
     },
     {
       "surface": "לפני",
@@ -88,6 +67,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T16:40:09.614789451Z",
+  "timestamp": "2026-10-22T00:39:43.032169739Z",
   "model": "glm-5.3"
 }

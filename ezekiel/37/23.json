@@ -5,56 +5,35 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "idoli",
-      "rationale": "גלולים litteralment 'żbal tad-injam' — siġar tondi; 'idoli' jitilfel il-veduta tal-ħatab"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nniġżhom",
-      "rationale": "טהר = jkun safi\/naddif ċerimonjalment; il-Malti jħares lejn 'naddaf'"
-    }
-  ],
-  "translation": "U ma jitnizzlux iżżejjed bl-idoli tagħhom, u bl-oġġetti tal-maħra tagħhom, u b'ribelljonijiet tagħhom kollha; u nsalvahom minn ir-residenzi tagħhom kollha fejn dnibtu fihom, u nniġżhom, u huma jkunu għalija għal poplu, u jien inkun għalihom għal Elohim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/37\/21-24.1792615090975.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ma jibqgħux jimtennu iktar bl-allat tagħhom u bl-iskomi tagħhom u biċ-ċerħiet tagħhom kollha; u nsalvahom ⟨את⟩ minn postijiet fejn joqogħdu kollha tagħhom li dnibu fihom, u nnadhafhom ⟨את⟩, u jkunu lili għal poplu, u jien inkun lilhom għal Elohim.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "U ma"
+      "gloss": "u ma"
     },
     {
       "surface": "יטמאו",
-      "gloss": "jitnizzlux"
+      "gloss": "jibqgħux jimtennu"
     },
     {
       "surface": "עוד",
-      "gloss": "iżżejjed"
+      "gloss": "iktar"
     },
     {
       "surface": "בגלוליהם",
-      "gloss": "bl-idoli tagħhom"
+      "gloss": "bl-allat tagħhom"
     },
     {
       "surface": "ובשקוציהם",
-      "gloss": "u bl-oġġetti tal-maħra tagħhom"
+      "gloss": "u bl-iskomi tagħhom"
     },
     {
       "surface": "ובכל",
-      "gloss": "u b'"
+      "gloss": "u biċ-ċerħiet"
     },
     {
       "surface": "פשעיהם",
-      "gloss": "ribelljonijiet tagħhom kollha"
+      "gloss": "tagħhom kollha"
     },
     {
       "surface": "והושעתי",
@@ -62,23 +41,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "minn postijiet fejn joqogħdu kollha tagħhom"
     },
     {
       "surface": "מכל",
-      "gloss": "minn"
+      "gloss": "minn ... kollha"
     },
     {
       "surface": "מושבתיהם",
-      "gloss": "ir-residenzi tagħhom kollha"
+      "gloss": "postijiet fejn joqogħdu tagħhom"
     },
     {
       "surface": "אשר",
-      "gloss": "fejn"
+      "gloss": "li"
     },
     {
       "surface": "חטאו",
-      "gloss": "dnibtu"
+      "gloss": "dnibu"
     },
     {
       "surface": "בהם",
@@ -86,19 +66,20 @@
     },
     {
       "surface": "וטהרתי",
-      "gloss": "u nniġżhom"
+      "gloss": "u nnadhafhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "ilkoll (lill-poplu, oġġett ta' וטהרתי)"
     },
     {
       "surface": "והיו",
-      "gloss": "u huma jkunu"
+      "gloss": "u jkunu"
     },
     {
       "surface": "לי",
-      "gloss": "għalija"
+      "gloss": "lili"
     },
     {
       "surface": "לעם",
@@ -114,13 +95,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "għalihom"
+      "gloss": "lilhom"
     },
     {
       "surface": "לאלהים",
       "gloss": "għal Elohim"
     }
   ],
-  "timestamp": "2026-10-21T20:38:10.985271542Z",
+  "timestamp": "2026-10-22T00:19:21.508527211Z",
   "model": "glm-5.3"
 }

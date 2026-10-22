@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "sebgħa żmien",
-      "rationale": "עדנין jista' jkun żmien, staġun jew sena; 'sebgħa żmien' kontra 'seba' snin' ta' xi translators"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jixxarrab",
-      "rationale": "יצטבע litteralment 'jitgeżwer\/jitbewgħa' — il-bewgħa tar-ross taħt is-siġra"
-    },
-    {
-      "kind": "you",
-      "subject": "għan-nies li jisimgħu",
-      "rationale": "l-ordnijiet גדו\/שבקו huma plural, indirizzati lill-għassiesa tal-ġenna"
-    }
-  ],
-  "translation": "U li ra s-sultan, għassies u qaddis, nieżel mis-smewwiet u qal: Aqtgħu s-siġra u ħarrfuha; imma zokk l-għeruq tagħha fl-art ħalluh, marbut b'rabta ta' ħadid u naħas, fl-ħaxix tal-għalqa; u bir-ross tas-smewwiet jixxarrab, u ma' bhejjem il-għalqa jkollu parti minn dak kollu, sa ma jgħaddu sebgħa żmien fuqu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "26c0cfcacdf4ed1c59774c93da899ed8797be4b4fcd4749e7da613c25c5701c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/4\/17-20.1792620746416.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U li ra sultan: ħares u wieħed qaddis jinżel mis-sema u jgħid: Aqtgħu s-siġra u qerduha, imma t-tronkbifit-tagħha tal-għeruq ħalluh fl-art, marbut bil-ħżiezet ta' ħadid u ram, fl-erva tal-għalqa; u bit-talb tas-sema jinżel fuqha, u jaqsam ma' bhejjem tal-għalqa, sa ma jgħaddu seba' zmieniet fuqu.",
   "tokens": [
     {
       "surface": "ודי",
-      "gloss": "U li"
+      "gloss": "u li"
     },
     {
       "surface": "חזה",
@@ -43,43 +17,43 @@
     },
     {
       "surface": "מלכא",
-      "gloss": "s-sultan"
+      "gloss": "sultan"
     },
     {
       "surface": "עיר",
-      "gloss": "għassies"
+      "gloss": "ħares"
     },
     {
       "surface": "וקדיש",
-      "gloss": "u qaddis"
+      "gloss": "u wieħed qaddis"
     },
     {
       "surface": "נחת",
-      "gloss": "nieżel"
+      "gloss": "jinżel"
     },
     {
       "surface": "מן",
-      "gloss": "min"
+      "gloss": "minn"
     },
     {
       "surface": "שמיא",
-      "gloss": "smewwiet"
+      "gloss": "is-sema"
     },
     {
       "surface": "ואמר",
-      "gloss": "u qal"
+      "gloss": "u jgħid"
     },
     {
       "surface": "גדו",
-      "gloss": "Aqtgħu"
+      "gloss": "aqtgħu"
     },
     {
       "surface": "אילנא",
-      "gloss": "s-siġra"
+      "gloss": "is-siġra"
     },
     {
       "surface": "וחבלוהי",
-      "gloss": "u ħarrfuha"
+      "gloss": "u qerduha"
     },
     {
       "surface": "ברם",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "עקר",
-      "gloss": "zokk"
+      "gloss": "it-tronkbifit"
     },
     {
       "surface": "שרשוהי",
-      "gloss": "l-għeruq"
+      "gloss": "tal-għeruq tagħha"
     },
     {
       "surface": "בארעא",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "ובאסור",
-      "gloss": "marbut b'rabta"
+      "gloss": "u marbut"
     },
     {
       "surface": "די",
@@ -115,11 +89,11 @@
     },
     {
       "surface": "ונחש",
-      "gloss": "u naħas"
+      "gloss": "u ram"
     },
     {
       "surface": "בדתאא",
-      "gloss": "fl-ħaxix"
+      "gloss": "fl-erva"
     },
     {
       "surface": "די",
@@ -131,15 +105,15 @@
     },
     {
       "surface": "ובטל",
-      "gloss": "u bir-ross"
+      "gloss": "u bit-talb"
     },
     {
       "surface": "שמיא",
-      "gloss": "tas-smewwiet"
+      "gloss": "tas-sema"
     },
     {
       "surface": "יצטבע",
-      "gloss": "jixxarrab"
+      "gloss": "jinżel fuqha"
     },
     {
       "surface": "ועם",
@@ -151,27 +125,27 @@
     },
     {
       "surface": "ברא",
-      "gloss": "il-għalqa"
+      "gloss": "tal-għalqa"
     },
     {
       "surface": "חלקה",
-      "gloss": "parti"
+      "gloss": "jaqsam il-parti tiegħu"
     },
     {
       "surface": "עד",
-      "gloss": "sa ma"
+      "gloss": "sa"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ma"
     },
     {
       "surface": "שבעה",
-      "gloss": "sebgħa"
+      "gloss": "seba'"
     },
     {
       "surface": "עדנין",
-      "gloss": "żmien"
+      "gloss": "zmieniet"
     },
     {
       "surface": "יחלפון",
@@ -182,6 +156,6 @@
       "gloss": "fuqu"
     }
   ],
-  "timestamp": "2026-10-21T22:12:26.417671126Z",
+  "timestamp": "2026-10-22T00:08:39.633437337Z",
   "model": "glm-5.3"
 }

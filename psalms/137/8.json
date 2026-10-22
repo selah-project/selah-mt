@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 137,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גמולך\/גמלת",
-      "rationale": "Għajdula tal-għerq gml: 'il-ħlas tiegħek' \/ 'ħallstilek' — l-istess għerq jinnota l-ħlas talli ħallas."
-    },
-    {
-      "kind": "crux",
-      "subject": "השדודה",
-      "rationale": "Partiċippju passiv ta' שדד: 'imħarrba' (li għandha titħarreb) kontra qari passiv 'mħarrba diġà' — hawn 'il-ħerba', persuna li tmur għall-qerda."
-    },
-    {
-      "kind": "you",
-      "subject": "Babilon",
-      "rationale": "Appell dirett lill-Babilon bħala 'Bint Babilon'."
-    }
-  ],
-  "translation": "Bint Babilon, il-ħerba, għidu xorti ta' min iħallasillek ⟨את⟩ il-ħlas tiegħek, li ħallstilek lilna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4e2b8f578031453a4e11d879f07504e39e23c3f3a4b6014bc30edd948aca1c47",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/137\/8-8.1792623834765.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Inti bint Babilon, il-ħmerija, kif hieni min iħallas lilek ⟨את⟩ ħlas li ħallast lilna.",
   "tokens": [
     {
       "surface": "בת",
-      "gloss": "Bint"
+      "gloss": "bint"
     },
     {
       "surface": "בבל",
@@ -43,38 +17,38 @@
     },
     {
       "surface": "השדודה",
-      "gloss": "il-ħerba"
+      "gloss": "il-ħmerija"
     },
     {
       "surface": "אשרי",
-      "gloss": "għidu xorti ta'"
+      "gloss": "kif hieni"
     },
     {
       "surface": "שישלם",
-      "gloss": "iħallasillek"
+      "gloss": "min iħallas"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "lilek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ħlas tiegħek"
+      "marks": "ħlas (il-ħlas li ħallast lilna)"
     },
     {
       "surface": "גמולך",
-      "gloss": "il-ħlas tiegħek"
+      "gloss": "ħlas"
     },
     {
       "surface": "שגמלת",
-      "gloss": "ħallstilek"
+      "gloss": "li ħallast"
     },
     {
       "surface": "לנו",
       "gloss": "lilna"
     }
   ],
-  "timestamp": "2026-10-21T23:03:54.765954680Z",
+  "timestamp": "2026-10-22T00:48:52.518242842Z",
   "model": "glm-5.3"
 }

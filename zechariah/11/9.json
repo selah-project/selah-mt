@@ -5,33 +5,7 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "המתה תמות \/ תכחד תכחד",
-      "rationale": "Infinitive-absolute plus verb — 'dying die, perishing perish' — qtigħ imtenni tal-verb li jittaħdem, nofsu mitluf fil-Malti."
-    },
-    {
-      "kind": "substitution",
-      "subject": "רעותה",
-      "rationale": "Femminil ta' sħiba\/ragħja oħra; 'sħibtha' żżomm il-forma femminili."
-    },
-    {
-      "kind": "mystery",
-      "subject": "il-merħla abbandunata",
-      "rationale": "Ragħaj jirtira l-ħarsa tiegħu biex il-merħla taqbad ruħha b'rewwiħa — seħħiet simbolika mċanja."
-    }
-  ],
-  "translation": "U għidt: Mhux se nirgħakom; li tkun se tmut, tmut; u li tkun maqtugħa, tinqata'; u dawk li jifdal, kull waħda tiekol ⟨את⟩ ġisem sħibtha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/11\/9-12.1792616314322.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għidt: Ma nirgħax ⟨את⟩ lilkom; li tmut, tammet tinħasar; li tinħesar, tinħesar; u dawk li jifdal, jieklu, kull mara ⟨את⟩ il-laħam ta' sħitha.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -39,20 +13,20 @@
     },
     {
       "surface": "לא",
-      "gloss": "Mhux"
+      "gloss": "ma"
     },
     {
       "surface": "ארעה",
-      "gloss": "se nirgħakom"
+      "gloss": "nirgħax"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilekom",
-      "marks": "lilekom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom — l-merħla li ma għadhiex tirgħa"
     },
     {
       "surface": "המתה",
-      "gloss": "li tkun se tmut"
+      "gloss": "li tmut, tammet tinħasar"
     },
     {
       "surface": "תמות",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "והנכחדת",
-      "gloss": "u li tkun maqtugħa"
+      "gloss": "u li tinħesar"
     },
     {
       "surface": "תכחד",
-      "gloss": "tinqata'"
+      "gloss": "tinħesar"
     },
     {
       "surface": "והנשארות",
@@ -72,26 +46,26 @@
     },
     {
       "surface": "תאכלנה",
-      "gloss": "kiekol"
+      "gloss": "jieklu"
     },
     {
       "surface": "אשה",
-      "gloss": "kull waħda"
+      "gloss": "kull mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ġisem sħibtha"
+      "marks": "il-laħam"
     },
     {
       "surface": "בשר",
-      "gloss": "ġisem"
+      "gloss": "il-laħam"
     },
     {
       "surface": "רעותה",
-      "gloss": "sħibtha"
+      "gloss": "ta' sħitha"
     }
   ],
-  "timestamp": "2026-10-21T20:58:34.322785254Z",
+  "timestamp": "2026-10-22T00:51:45.128349047Z",
   "model": "glm-5.3"
 }

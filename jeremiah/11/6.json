@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "final אותם is the pronoun 'them', not the DOM marker; absorbed into 'agħmluhom'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Ismau",
-      "rationale": "imperative summons to Judah and Jerusalem to hear the words of the covenant"
-    },
-    {
-      "kind": "you",
-      "subject": "to Judah and Jerusalem",
-      "rationale": "the proclaimed words address the people directly"
-    }
-  ],
-  "translation": "U Jaħwe qal lija: Sejaħ ⟨את⟩ il-kliem kollu dawn fil-bliet ta' Jehuda u fit-toroq ta' Jeruxalajim, billi ngħid: Ismau ⟨את⟩ kliem il-patt dan, u agħmluhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/11\/5-8.1792612762470.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe qalli: Iħroġ il-vuċi b'dawn il-kliem kollu fil-bliet ta' Jehuda u fit-toroq ta' Jeruxalajim, billi tgħid: Isimgħu ⟨את⟩ kliem il-patt dan, u agħmluhom.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "יהוה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אלי",
-      "gloss": "lija"
+      "gloss": "lili"
     },
     {
       "surface": "קרא",
-      "gloss": "Sejaħ"
+      "gloss": "iħroġ il-vuċi"
     },
     {
       "surface": "את",
@@ -84,16 +58,16 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "billi ngħid"
+      "gloss": "billi tgħid"
     },
     {
       "surface": "שמעו",
-      "gloss": "Ismau"
+      "gloss": "isimgħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kliem il-patt"
+      "marks": "kliem il-patt dan"
     },
     {
       "surface": "דברי",
@@ -109,13 +83,14 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "u agħmlu"
+      "gloss": "u agħmluhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lhom"
+      "gloss": "⟨את⟩hom",
+      "marks": "il-kliem tal-patt (suffixed)"
     }
   ],
-  "timestamp": "2026-10-21T19:59:22.471216625Z",
+  "timestamp": "2026-10-22T00:27:44.261066865Z",
   "model": "glm-5.3"
 }

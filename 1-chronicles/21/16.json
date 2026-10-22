@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨lill-⟩",
-      "rationale": "il-Malti jeħtieġ lil\/preposizzjoni mal-verb 'għolla għajnejh', li bil-Lhudi m'għandux"
-    },
-    {
-      "kind": "substitution",
-      "subject": "semajet",
-      "rationale": "השמים huwa duali — 'żewġ semajet'; id-duali Malti ma jżommux, iżda l-plural 'is-semajet' jifrex il-kelma"
-    },
-    {
-      "kind": "crux",
-      "subject": "bejn l-art u bejn is-semajet",
-      "rationale": "il-pożizzjoni ta' בין mitkellma darbtejn (bejn... u bejn...) tinżamm kif inhi; l-anġlu wieqaf fin-nofs, bejn żewġ blahat"
-    }
-  ],
-  "translation": "U David għolla ⟨lill-⟩ għajnejh u ra ⟨את⟩ lil anġlu Jaħwe wieqaf bejn l-art u bejn is-semajet, u x-xabla tiegħu miżvuta f'ideh, mifruxa fuq Jeruxalajim; u David u l-kbar, mgħottija bil-xkor, inżlu ma' wċċhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f3db25c50ced6e94007e304bcc44c3a505b08b3f6c861f7866b423c76cdfd2cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-chronicles\/21\/15-16.1792624066054.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David għolla ⟨את⟩ għajnejh, u ra ⟨את⟩ lill-mibgħut ta' Jaħwe wieqaf bejn l-art u bejn is-sema, u x-xabla tiegħu miegħla f'idejh, imtedda fuq Jeruxalajim; u David u l-anzjani, mgħottija b'ċir, waqgħu fuq wċċhom.",
   "tokens": [
     {
       "surface": "וישא",
@@ -57,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "anġlu Jaħwe"
+      "marks": "lill-mibgħut ta' Jaħwe"
     },
     {
       "surface": "מלאך",
-      "gloss": "anġlu"
+      "gloss": "lill-mibgħut"
     },
     {
       "surface": "יהוה",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "is-semajet"
+      "gloss": "is-sema"
     },
     {
       "surface": "וחרבו",
@@ -93,15 +67,15 @@
     },
     {
       "surface": "שלופה",
-      "gloss": "miżvuta"
+      "gloss": "miegħla"
     },
     {
       "surface": "בידו",
-      "gloss": "f'ideh"
+      "gloss": "f'idejh"
     },
     {
       "surface": "נטויה",
-      "gloss": "mifruxa"
+      "gloss": "imtedda"
     },
     {
       "surface": "על",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "u inżel"
+      "gloss": "u waqgħu"
     },
     {
       "surface": "דויד",
@@ -121,7 +95,7 @@
     },
     {
       "surface": "והזקנים",
-      "gloss": "u l-kbar"
+      "gloss": "u l-anzjani"
     },
     {
       "surface": "מכסים",
@@ -129,17 +103,17 @@
     },
     {
       "surface": "בשקים",
-      "gloss": "bil-xkor"
+      "gloss": "b'ċir"
     },
     {
       "surface": "על",
-      "gloss": "ma'"
+      "gloss": "fuq"
     },
     {
       "surface": "פניהם",
       "gloss": "wċċhom"
     }
   ],
-  "timestamp": "2026-10-21T23:07:46.056259638Z",
+  "timestamp": "2026-10-21T23:55:31.618119649Z",
   "model": "glm-5.3"
 }

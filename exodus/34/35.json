@@ -5,45 +5,19 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קרן",
-      "rationale": "'qarn' jew 'dija': Vulgata 'cornuta esset facies' (wiċċ bil-qrun) kontra 'jadma' (id-dija); il-verb għandu għerq קרן, qarn"
-    },
-    {
-      "kind": "addition",
-      "subject": "miegħu",
-      "rationale": "Epieżodu miżjud għal ⟨אתו⟩"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פני משה",
-      "rationale": "Il-wiċċ ta' Moxe msemmi tnejn fil-vers, struzzjoni mill-aktar għalinqas"
-    }
-  ],
-  "translation": "U wlied Jisrael raw ⟨את⟩ wiċċ Moxe, li ġilda wiċċ Moxe kienet tidħolha d-dija; u Moxe jerġa' jpoġġi ⟨את⟩ il-velu fuq wiċċu sa ma jidħol jitkellem ⟨miegħu⟩.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/34\/33-35.1792600148872.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U raw il-ġnien ta' Jisrael ⟨את⟩ wiċċ Moxe, għax il-ġilda ta' wiċċ Moxe kienet tiċċarra, u Moxe kien jerġa' jqiegħed il-maskra fuq wiċċu, sakemm jidħol jitkellem miegħu ⟨את⟩.",
   "tokens": [
     {
       "surface": "וראו",
-      "gloss": "raw"
+      "gloss": "u raw"
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "il-ġnien"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "ta' Jisrael"
     },
     {
       "surface": "את",
@@ -60,19 +34,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "li"
+      "gloss": "għax"
     },
     {
       "surface": "קרן",
-      "gloss": "kienet tidħolha d-dija"
+      "gloss": "tiċċarra (qarnat)"
     },
     {
       "surface": "עור",
-      "gloss": "ġilda"
+      "gloss": "il-ġilda"
     },
     {
       "surface": "פני",
-      "gloss": "wiċċ"
+      "gloss": "ta' wiċċ"
     },
     {
       "surface": "משה",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "והשיב",
-      "gloss": "jerġa' jpoġġi"
+      "gloss": "u kien jerġa' jqiegħed"
     },
     {
       "surface": "משה",
@@ -89,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-velu"
+      "marks": "il-maskra"
     },
     {
       "surface": "המסוה",
-      "gloss": "il-velu"
+      "gloss": "il-maskra"
     },
     {
       "surface": "על",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "sa ma"
+      "gloss": "sakemm"
     },
     {
       "surface": "באו",
@@ -117,9 +91,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "miegħu ⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-21T16:29:08.873911465Z",
+  "timestamp": "2026-10-22T00:14:28.833524455Z",
   "model": "glm-5.3"
 }

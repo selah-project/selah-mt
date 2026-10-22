@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "huma",
-      "rationale": "Il-Lhudi m'għandux copula; il-Malti jeħtieġha"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħruq-offrini",
-      "rationale": "עלה tfisser 'dak li jitla'', offrini maħruqa kollha kemm hi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kwantità ta' kuljum fil-jum tiegħu",
-      "rationale": "L-offriji jitkejlu skont il-jum — ħsibijiet ta' kull jum bil-preciż"
-    }
-  ],
-  "translation": "Dawn huma l-mogħadim ta' Jaħwe, li tsejħu lilhom ⟨għalihom⟩ bħala mqar ta' qdusija, biex toffru l-offrini tan-nar lil Jaħwe: ħruq-offrini u minħa, zebħ u nsek, kwantità ta' kuljum fil-jum tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fff561ee11a582f0c6fd2992dbed47a6f6fcfa90a18fcdeda042eecd3d8d835e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/23\/37-40.1792601263046.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawn huma l-ġranet maħtuba ta' Jaħwe, li tagħhomlu sejħiet mqaddsa, biex iġibu offerta tan-nar lil Jaħwe: olosta, u minħa, zeviħ u nossokol, kwantità ta' kuljum f'jumu:",
   "tokens": [
     {
       "surface": "אלה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "l-mogħadim"
+      "gloss": "l-ġranet maħtuba"
     },
     {
       "surface": "יהוה",
@@ -51,28 +25,28 @@
     },
     {
       "surface": "תקראו",
-      "gloss": "tsejħu"
+      "gloss": "tagħhomlu sejħiet"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "marks": "sejħiet mqaddsa"
     },
     {
       "surface": "מקראי",
-      "gloss": "mqar"
+      "gloss": "sejħiet mqaddsa"
     },
     {
       "surface": "קדש",
-      "gloss": "ta' qdusija"
+      "gloss": "mqaddsa"
     },
     {
       "surface": "להקריב",
-      "gloss": "biex toffru"
+      "gloss": "biex iġibu"
     },
     {
       "surface": "אשה",
-      "gloss": "l-offrini tan-nar"
+      "gloss": "offerta tan-nar"
     },
     {
       "surface": "ליהוה",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "ħruq-offrini"
+      "gloss": "olosta"
     },
     {
       "surface": "ומנחה",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "זבח",
-      "gloss": "zebħ"
+      "gloss": "zeviħ"
     },
     {
       "surface": "ונסכים",
-      "gloss": "u nsek"
+      "gloss": "u nossokol"
     },
     {
       "surface": "דבר",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "fil-jum tiegħu"
+      "gloss": "f'jumu"
     }
   ],
-  "timestamp": "2026-10-21T16:47:43.047183128Z",
+  "timestamp": "2026-10-22T00:41:18.978412796Z",
   "model": "glm-5.3"
 }

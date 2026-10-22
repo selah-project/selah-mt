@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hu",
-      "rationale": "il-verb 'kien' għal והיה jeħtieġ suġġett suppliment; l-għarfien minn qabel jgħid li kien Jehuda, iżda t-test jgħid biss 'hu'"
-    }
-  ],
-  "translation": "U żiedet għal darb'oħra, u welldet iben, u sejħet ⟨את⟩ ismu Xela; u ⟨hu⟩ kien f'Ketsib meta wellditu.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/38\/5-8.1792598774919.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U żiedet għal darb'oħra u welldet iben, u sejħet ⟨את⟩ ismu Xela; u ⟨kien⟩ f'Kaħzib meta ⟨את⟩ welldetu.",
   "tokens": [
     {
       "surface": "ותסף",
-      "gloss": "żiedet"
+      "gloss": "żiedet għal darb'oħra"
     },
     {
       "surface": "עוד",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "u welldet"
+      "gloss": "welldet"
     },
     {
       "surface": "בן",
@@ -46,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ismu"
+      "marks": "ismu Xela"
     },
     {
       "surface": "שמו",
@@ -58,22 +42,21 @@
     },
     {
       "surface": "והיה",
-      "gloss": "u kien"
+      "gloss": "u ⟨kien⟩"
     },
     {
       "surface": "בכזיב",
-      "gloss": "f'Ketsib"
+      "gloss": "f'Kaħzib"
     },
     {
       "surface": "בלדתה",
-      "gloss": "meta wellditu"
+      "gloss": "meta welldet"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "lilu"
+      "gloss": "⟨את⟩ welldetu"
     }
   ],
-  "timestamp": "2026-10-21T16:06:14.920340788Z",
+  "timestamp": "2026-10-22T00:23:00.314617851Z",
   "model": "glm-5.3"
 }

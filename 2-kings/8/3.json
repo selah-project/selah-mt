@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שדה",
-      "rationale": "'għalqa' (qeħda) jew 'art\/jieli' b'mod aktar wiesa' — hawn tkun ir-raba' tagħha"
-    }
-  ],
-  "translation": "U ġara, fi tmiem is-seba' snin, li l-mara reġgħet lura minn art il-Filistin, u ħarġet tcrieġ lejn is-sultan għal darha u għal għalqha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/1-4.1792610247190.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara fi tmiem seba' snin, li l-mara reġgħet lura mill-art tal-Filistej, u ħarġet tgħajjat lil r-re għal dareha u għal għalqha.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U ġara"
+      "gloss": "u ġara"
     },
     {
       "surface": "מקצה",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "is-seba'"
+      "gloss": "seba'"
     },
     {
       "surface": "שנים",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "reġgħet lura"
+      "gloss": "reġġet lura"
     },
     {
       "surface": "האשה",
@@ -49,11 +33,11 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "minn art"
+      "gloss": "mill-art"
     },
     {
       "surface": "פלשתים",
-      "gloss": "il-Filistin"
+      "gloss": "tal-Filistej"
     },
     {
       "surface": "ותצא",
@@ -61,15 +45,16 @@
     },
     {
       "surface": "לצעק",
-      "gloss": "tcrieġ"
+      "gloss": "tgħajjat",
+      "marks": ""
     },
     {
       "surface": "אל",
-      "gloss": "lejn"
+      "gloss": "lil"
     },
     {
       "surface": "המלך",
-      "gloss": "is-sultan"
+      "gloss": "r-re"
     },
     {
       "surface": "אל",
@@ -77,7 +62,7 @@
     },
     {
       "surface": "ביתה",
-      "gloss": "darha"
+      "gloss": "dareha"
     },
     {
       "surface": "ואל",
@@ -88,6 +73,6 @@
       "gloss": "għalqha"
     }
   ],
-  "timestamp": "2026-10-21T19:17:27.191277810Z",
+  "timestamp": "2026-10-22T00:05:09.573360263Z",
   "model": "glm-5.3"
 }

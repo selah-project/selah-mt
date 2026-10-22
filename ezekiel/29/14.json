@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שבות",
-      "rationale": "'return the שבות' is the idiom for restoring fortunes\/captivity; rendered 'inreġġa' lura l-eżilju'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "שבות",
-      "rationale": "could read as 'il-ħabsin' (the captives, concrete) rather than abstract exile"
-    }
-  ],
-  "translation": "U inreġġa' lura ⟨את⟩ l-eżilju ta' Mitsrajim, u indawwarhom lura għall-art ta' Patros, għall-art twelidhom, u jkunu hemm saltna baxxa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d7776574e5fa9a1611955f73768600e1a5932d0f2b9abd138187164eea311b3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/29\/13-16.1792614799731.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nerġa' nġib ⟨את⟩ l-eżilju ta' Mitsrajim, u nreġġi' lura ⟨את⟩ lilhom għal art Patros, fuq art twelidhom; u ikunu hemm renju umli.",
   "tokens": [
     {
       "surface": "ושבתי",
-      "gloss": "inreġġa' lura"
+      "gloss": "u nerġa' nġib"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-eżilju ta' Mitsrajim"
+      "marks": "l-eżilju"
     },
     {
       "surface": "שבות",
@@ -47,28 +26,28 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "indawwarhom lura"
+      "gloss": "u nreġġi' lura"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "għall-art ta' Patros"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "għal art Patros"
     },
     {
       "surface": "ארץ",
-      "gloss": "għall-art"
+      "gloss": "art"
     },
     {
       "surface": "פתרוס",
-      "gloss": "ta' Patros"
+      "gloss": "Patros"
     },
     {
       "surface": "על",
-      "gloss": "għal"
+      "gloss": "fuq"
     },
     {
       "surface": "ארץ",
-      "gloss": "l-art"
+      "gloss": "art"
     },
     {
       "surface": "מכורתם",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "u jkunu"
+      "gloss": "u ikunu"
     },
     {
       "surface": "שם",
@@ -84,13 +63,13 @@
     },
     {
       "surface": "ממלכה",
-      "gloss": "saltna"
+      "gloss": "renju"
     },
     {
       "surface": "שפלה",
-      "gloss": "baxxa"
+      "gloss": "umli"
     }
   ],
-  "timestamp": "2026-10-21T20:33:19.732530124Z",
+  "timestamp": "2026-10-22T00:17:30.456759335Z",
   "model": "glm-5.3"
 }

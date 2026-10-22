@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "תחת אשר",
-      "rationale": "'Under\/because that which' — rendered as one causal conjunction 'Minħabba li'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "השכם ושלח",
-      "rationale": "'Rising early and sending' — idiom of persistent sending; JPS 'betimes and often'; kept literal."
-    },
-    {
-      "kind": "addition",
-      "subject": "jien",
-      "rationale": "Maltese subject pronoun implied by the infinitives; not added explicitly, infinitives carry the 'I'."
-    }
-  ],
-  "translation": "Minħabba li ma semgħux lejn kliemiet, jgħid Jaħwe, li bħajt lilhom ⟨את⟩ is-serventi tiegħi l-profeti, inbidu kmieni u nibħat, u intom ma smgħux, jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f796c09f8980ca95a338fbe1ecaa019a3e6958b893a1eee82a182ab711f12a53",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/29\/19-20.1792623586788.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax ma smgħux lil kliemi, jgħid Jaħwe, li jien bgħatt lilhom ⟨את⟩ l-ilsiera tiegħi, il-profeti, minn qumu filgħodu u bagħtar, imma intom smajtux, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "Minħabba li"
+      "gloss": "għax"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "לא",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "semgħux"
+      "gloss": "smgħux"
     },
     {
       "surface": "אל",
-      "gloss": "lejn"
+      "gloss": "lil"
     },
     {
       "surface": "דברי",
-      "gloss": "kliemiet"
+      "gloss": "kliemi"
     },
     {
       "surface": "נאם",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "bħajt"
+      "gloss": "bgħatt"
     },
     {
       "surface": "אליהם",
@@ -80,31 +54,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-serventi tiegħi l-profeti"
+      "marks": "l-ilsiera tiegħi, il-profeti"
     },
     {
       "surface": "עבדי",
-      "gloss": "is-serventi tiegħi"
+      "gloss": "l-ilsiera tiegħi"
     },
     {
       "surface": "הנבאים",
-      "gloss": "l-profeti"
+      "gloss": "il-profeti"
     },
     {
       "surface": "השכם",
-      "gloss": "inbidu kmieni"
+      "gloss": "minn qumu filgħodu"
     },
     {
       "surface": "ושלח",
-      "gloss": "u nibħat"
+      "gloss": "u bagħtar"
     },
     {
       "surface": "ולא",
-      "gloss": "ma"
+      "gloss": "imma ma"
     },
     {
       "surface": "שמעתם",
-      "gloss": "smgħux"
+      "gloss": "smajtux"
     },
     {
       "surface": "נאם",
@@ -115,6 +89,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T22:59:46.789281492Z",
+  "timestamp": "2026-10-22T00:29:46.202645608Z",
   "model": "glm-5.3"
 }

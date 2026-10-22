@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קוממיות",
-      "rationale": "Hapax adverb: 'erectamente \/ bil-ras għolja' — vs. rabbinic 'qomamiyut' mibgħud; traduzzjonijiet jvarjaw bejn 'eretti' u 'b'kuraġġ'."
-    },
-    {
-      "kind": "hapax",
-      "subject": "קוממיות",
-      "rationale": "Kelma li tinsab biss hawn fit-Tanakh."
-    }
-  ],
-  "translation": "Jien Jaħwe, l-Elohim tagħkom, li ħriġtkom minn art Mitsrajim milli tkunu ilsiera għalihom, u ksirt il-vireg tal-ġulgul tagħkom u mmexxejtkom bil-ras għolja.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/13-16.1792602314841.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jien Jaħwe, l-Elohim tagħkom, li ħriġtkom minn art Mitsrajim biex ma tkunux qaddejja tagħhom; u kisirt il-lasti taż-żgħira tagħkom, u mxeddykomomomajt bil-<ras-irkapt għolja>",
   "tokens": [
     {
       "surface": "אני",
@@ -46,11 +25,12 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ħriġt"
+      "gloss": "ħriġtkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩",
+      "marks": "minn art Mitsrajim"
     },
     {
       "surface": "מארץ",
@@ -62,41 +42,42 @@
     },
     {
       "surface": "מהית",
-      "gloss": "milli kontu"
+      "gloss": "biex ma tkunux"
     },
     {
       "surface": "להם",
-      "gloss": "għalihom"
+      "gloss": "tagħhom"
     },
     {
       "surface": "עבדים",
-      "gloss": "ilsiera"
+      "gloss": "qaddejja"
     },
     {
       "surface": "ואשבר",
-      "gloss": "u ksirt"
+      "gloss": "u kisirt"
     },
     {
       "surface": "מטת",
-      "gloss": "il-vireg"
+      "gloss": "il-lasti"
     },
     {
       "surface": "עלכם",
-      "gloss": "tal-ġulgul tagħkom"
+      "gloss": "taż-żgħira tagħkom"
     },
     {
       "surface": "ואולך",
-      "gloss": "u mmexxejt"
+      "gloss": "u mxeddykom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩",
+      "marks": "bil-munti"
     },
     {
       "surface": "קוממיות",
-      "gloss": "bil-ras għolja"
+      "gloss": "bil-munti"
     }
   ],
-  "timestamp": "2026-10-21T17:05:14.843139442Z",
+  "timestamp": "2026-10-22T00:40:58.299296902Z",
   "model": "glm-5.3"
 }

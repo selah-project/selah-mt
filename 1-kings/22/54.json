@@ -5,53 +5,32 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "Żewġ marki את f'dan il-vers; il-Malti juża 'lil' għall-oġġett determinat, iżda ⟨את⟩ tibqa' mmarkata."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וישתחוה לו",
-      "rationale": "Lit. 'inxteħet quddiemu' — prostrazzjoni; 'txieđedu' żżomm il-ġesti."
-    }
-  ],
-  "translation": "U qiegħed jaqdi ⟨את⟩ lil Baʿal, u txieđedu; u wġiegħex ⟨את⟩ lil Jaħwe, Elohim ta' Jisrael, skont kollha kemm hu li għamel missieru.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f6236120ad3511a2f7dd8600c1f5cabff9b8c1ffb4a832263e9f618e87902e4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/53-54.1792610046020.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qaddem l-qima lill-Baʿal — jqaddem il-ħajja kollha lil Baʿal, u mxħet quddiemu; u weraċ-ċaħbu lil Jaħwe, l-Elohim taʼ Jisrael, skond kollma kien għamel missieru.",
   "tokens": [
     {
       "surface": "ויעבד",
-      "gloss": "u qiegħed jaqdi"
+      "gloss": "il-ħajja kollha lil Baʿal — jqaddem il-ħajja kollha lil Baʿal"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Baʿal"
+      "marks": "lill-Baʿal"
     },
     {
       "surface": "הבעל",
-      "gloss": "lil Baʿal"
+      "gloss": "Baʿal"
     },
     {
       "surface": "וישתחוה",
-      "gloss": "u txieđedu"
+      "gloss": "u mxħet quddiemu"
     },
     {
       "surface": "לו",
-      "gloss": "mingħandu"
+      "gloss": "quddiemu"
     },
     {
       "surface": "ויכעס",
-      "gloss": "u wġiegħex"
+      "gloss": "u weraċ-ċaħbu"
     },
     {
       "surface": "את",
@@ -60,11 +39,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "lil Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ta'"
+      "gloss": "l-Elohim"
     },
     {
       "surface": "ישראל",
@@ -72,11 +51,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "skont kollxa"
+      "gloss": "skond kollma"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "kollma — li"
     },
     {
       "surface": "עשה",
@@ -87,6 +66,6 @@
       "gloss": "missieru"
     }
   ],
-  "timestamp": "2026-10-21T19:14:06.020950092Z",
+  "timestamp": "2026-10-22T01:19:59.453249184Z",
   "model": "glm-5.3"
 }

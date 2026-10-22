@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-baħar",
-      "rationale": "הים hawn mhux baħar imma l-baċin il-kbir tar-ram tat-tempju, imsejjaħ 'il-Baħar'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-baqar",
-      "rationale": "הבקר huma l-ħdud ta' ram li kienu jġorru l-baċin, mhux bhejjem ġenerali"
-    }
-  ],
-  "translation": "U r-re Aħaz qatgħa l-fruntieri tal-bażi, u neħħa minn fuqhom ⟨את⟩ il-ħilba, u ⟨את⟩ il-baħar niżżlu minn fuq il-baqar tar-ram li taħtha, u poġġieh fuq paviment ta' ġebel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a5cc649ff12461568591e7b1c8d6e1868461dac114d3a43ed9d460bf9604a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/16\/17-20.1792610516547.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U r-re Aħaż qata' ⟨את⟩ il-borduri tal-pedestalli, u neħħa minn fuqhom ⟨את⟩ il-lembit; u ⟨את⟩ il-Baħar niżżel minn fuq il-baqar tal-ibronż li kien taħtu, u poġġieh fuq pavimentar ta' ġebel.",
   "tokens": [
     {
       "surface": "ויקצץ",
-      "gloss": "qatgħa"
+      "gloss": "u qata'"
     },
     {
       "surface": "המלך",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Aħaz"
+      "gloss": "Aħaż"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-fruntieri tal-bażi"
+      "marks": "il-borduri tal-pedestalli"
     },
     {
       "surface": "המסגרות",
-      "gloss": "l-fruntieri"
+      "gloss": "il-borduri"
     },
     {
       "surface": "המכנות",
-      "gloss": "tal-bażi"
+      "gloss": "tal-pedestalli"
     },
     {
       "surface": "ויסר",
@@ -63,25 +42,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "il-ħilba"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-lembit"
     },
     {
-      "surface": "הכיור",
-      "gloss": "il-ħilba"
+      "surface": "הכיר",
+      "gloss": "il-lembit"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "il-baħar"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-Baħar"
     },
     {
       "surface": "הים",
-      "gloss": "il-baħar"
+      "gloss": "il-Baħar"
     },
     {
       "surface": "הורד",
-      "gloss": "niżżlu"
+      "gloss": "niżżel"
     },
     {
       "surface": "מעל",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "tar-ram"
+      "gloss": "tal-ibronż"
     },
     {
       "surface": "אשר",
@@ -101,15 +80,16 @@
     },
     {
       "surface": "תחתיה",
-      "gloss": "taħtha"
+      "gloss": "kien taħtu"
     },
     {
       "surface": "ויתן",
-      "gloss": "u poġġa"
+      "gloss": "u poġġieh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu"
+      "gloss": "⟨את⟩",
+      "marks": "il-Baħar"
     },
     {
       "surface": "על",
@@ -117,13 +97,13 @@
     },
     {
       "surface": "מרצפת",
-      "gloss": "paviment"
+      "gloss": "pavimentar"
     },
     {
       "surface": "אבנים",
       "gloss": "ta' ġebel"
     }
   ],
-  "timestamp": "2026-10-21T19:21:56.548313847Z",
+  "timestamp": "2026-10-22T00:04:12.028357719Z",
   "model": "glm-5.3"
 }

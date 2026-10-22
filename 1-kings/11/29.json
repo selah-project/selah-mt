@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "il-profeta",
-      "rationale": "l-artiklu Malti meħtieġ għall-artiklu Lhudi הַנָּבִיא, mhux immarkat skont ir-regola"
-    },
-    {
-      "kind": "alternative",
-      "subject": "mgħatti",
-      "rationale": "il-partiċipju reflexxiv מִתְכַּסֶּה jaf tfisser 'qed jgħatti ruħu' bħala att preżenti, mhux stat"
-    }
-  ],
-  "translation": "U ġara f'dak iż-żmien li Jarobeam ħareġ minn Jeruxalajim, u qabad lilu Aħija x-Xilonita, il-profeta, fit-triq, u huwa kien mgħatti b'salma ġdida, u kienu t-tnejn waħedhom f'għalqa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "094791c3ee33d9a485b7998621e338ad3efa91490159d57c225f7fe932792c01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/29-32.1792609629427.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara f'dak iż-żmien, li Jarobgħam ħareġ minn Jeruxalajim, u l-profeta Aħijah ix-Xilonitu sabh ⟨את⟩ fit-triq, u ⟨kien⟩ mgħatti bi ħbejża ġdida, u kienu t-tnejn waħedhom fil-għalqa.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "f'żmien"
+      "gloss": "f'dak iż-żmien"
     },
     {
       "surface": "ההיא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וירבעם",
-      "gloss": "Jarobeam"
+      "gloss": "Jarobgħam"
     },
     {
       "surface": "יצא",
@@ -54,24 +33,24 @@
     },
     {
       "surface": "וימצא",
-      "gloss": "u qabad"
+      "gloss": "u sab"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lil Jarobeam"
+      "marks": "lil Jarobgħam"
     },
     {
       "surface": "אחיה",
-      "gloss": "Aħija"
+      "gloss": "Aħijah"
     },
     {
       "surface": "השילני",
-      "gloss": "x-Xilonita"
+      "gloss": "ix-Xilonitu"
     },
     {
       "surface": "הנביא",
-      "gloss": "il-profeta"
+      "gloss": "l-profeta"
     },
     {
       "surface": "בדרך",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "והוא",
-      "gloss": "u huwa"
+      "gloss": "u hu"
     },
     {
       "surface": "מתכסה",
-      "gloss": "kien mgħatti"
+      "gloss": "mgħatti"
     },
     {
       "surface": "בשלמה",
-      "gloss": "b'salma"
+      "gloss": "bi ħbejża"
     },
     {
       "surface": "חדשה",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "f'għalqa"
+      "gloss": "fil-għalqa"
     }
   ],
-  "timestamp": "2026-10-21T19:07:09.427981712Z",
+  "timestamp": "2026-10-21T23:56:21.881330291Z",
   "model": "glm-5.3"
 }

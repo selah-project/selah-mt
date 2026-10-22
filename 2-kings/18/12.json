@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "għaddu lil hinn minn",
-      "rationale": "ויעברו 'crossed over' — idjom Lhudi għal tissassir; il-ktieb litterali miżmum bil-Malti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמעו…שמעו",
-      "rationale": "repetizzjoni ta' 'smgħux' fil-bidu u qabel tmiem il-vers — in-narrazzjoni tgħawweġ l-ogħla"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "il-partiċelli relattivi m'għandhomx ekwivalenti wieħed għal wieħed bil-Malti, maħduma fil-kostruzzjoni"
-    }
-  ],
-  "translation": "Għax ma smgħux lejn il-leħen ta' Jaħwe, l-Elohim tagħhom, iżda għaddu lil hinn minn ⟨את⟩ il-patt tiegħu, ⟨את⟩ kull ma ġabruż Moxe, il-qaddej ta' Jaħwe, u lanqas smgħux u lanqas għamlu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2db917d210c70c2bcb17d4b13f10fb9a171e297a32685afe39e921cdb24c01a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/18\/12-12.1792623388354.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex ma semgħux lejn il-vuċi ta' Jaħwe, Elohim tagħhom, imma qatgħu ⟨את⟩ pattu — ⟨את⟩ kollma li ftara Moxe, il-qaddej ta' Jaħwe; u la semgħux u la għamlu.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "אשר",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "smgħux"
+      "gloss": "semgħux"
     },
     {
       "surface": "בקול",
-      "gloss": "leħen"
+      "gloss": "lejn il-vuċi"
     },
     {
       "surface": "יהוה",
@@ -59,37 +33,37 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "l-Elohim tagħhom"
+      "gloss": "Elohim tagħhom"
     },
     {
       "surface": "ויעברו",
-      "gloss": "għaddu lil hinn minn"
+      "gloss": "qatgħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-patt tiegħu"
+      "marks": "pattu"
     },
     {
       "surface": "בריתו",
-      "gloss": "il-patt tiegħu"
+      "gloss": "pattu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kull ma ġabruż Moxe"
+      "marks": "kollma"
     },
     {
       "surface": "כל",
-      "gloss": "kull ma"
+      "gloss": "kollma"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "צוה",
-      "gloss": "ġabruż"
+      "gloss": "ftara"
     },
     {
       "surface": "משה",
@@ -105,21 +79,21 @@
     },
     {
       "surface": "ולא",
-      "gloss": "u lanqas"
+      "gloss": "u la"
     },
     {
       "surface": "שמעו",
-      "gloss": "smgħux"
+      "gloss": "semgħux"
     },
     {
       "surface": "ולא",
-      "gloss": "u lanqas"
+      "gloss": "u la"
     },
     {
       "surface": "עשו",
       "gloss": "għamlu"
     }
   ],
-  "timestamp": "2026-10-21T22:56:28.355817665Z",
+  "timestamp": "2026-10-22T00:04:20.736536936Z",
   "model": "glm-5.3"
 }

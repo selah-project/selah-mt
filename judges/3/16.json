@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "gomed",
-      "rationale": "גֹּמֶד jidher biss hawn fit-Tanakh; qies ta' id (span) jew kubitu, mhux ċert"
-    },
-    {
-      "kind": "substitution",
-      "subject": "naħat",
-      "rationale": "פיות litteralment 'ħalq' — il-Ħbir jgħid 'żewġ ħalqiet' għaż-żewġ naħat tal-xabla"
-    },
-    {
-      "kind": "measurement",
-      "subject": "gomed it-tul",
-      "rationale": "it-tul tax-xabla mogħni b'qies Lhudi"
-    }
-  ],
-  "translation": "U Ehud għamel għalih xabla ta' żewġ naħat, gomed it-tul tagħha; u ħaddanha taħt il-ħwejjeġ tiegħu, fuq koxxtu l-leminija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e1a914e3c3918ffd16a357e472d87ac5ba08ac687e189319c20d5939bdc05333",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/3\/13-16.1792606969407.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Ehud għamel għalih sejf li għandu żewġ fommiha, twil daqs ⟨qadd⟩; u ħaġar ⟨את⟩ minn taħt il-ħwejjeġ tiegħu, fuq il-koxxa tal-lemin tiegħu.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "חרב",
-      "gloss": "xabla"
+      "gloss": "sejf"
     },
     {
       "surface": "ולה",
-      "gloss": "u tagħha"
+      "gloss": "u li għandu"
     },
     {
       "surface": "שני",
@@ -59,28 +33,28 @@
     },
     {
       "surface": "פיות",
-      "gloss": "naħat"
+      "gloss": "fommiha"
     },
     {
       "surface": "גמד",
-      "gloss": "gomed"
+      "gloss": "daqs qadd"
     },
     {
       "surface": "ארכה",
-      "gloss": "it-tul"
+      "gloss": "twil"
     },
     {
       "surface": "ויחגר",
-      "gloss": "ħaddan"
+      "gloss": "ħaġar"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "ħaddanha (il-xabla)"
+      "marks": "is-sejf"
     },
     {
       "surface": "מתחת",
-      "gloss": "taħt"
+      "gloss": "minn taħt"
     },
     {
       "surface": "למדיו",
@@ -92,13 +66,13 @@
     },
     {
       "surface": "ירך",
-      "gloss": "koxxtu"
+      "gloss": "il-koxxa"
     },
     {
       "surface": "ימינו",
-      "gloss": "l-leminija"
+      "gloss": "tal-lemin tiegħu"
     }
   ],
-  "timestamp": "2026-10-21T18:22:49.409145574Z",
+  "timestamp": "2026-10-22T00:38:00.119856171Z",
   "model": "glm-5.3"
 }

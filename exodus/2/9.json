@@ -5,31 +5,15 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil mara (il-omm ta' Mosè)",
-      "rationale": "Paro's daughter addresses the child's mother directly with imperatives."
-    }
-  ],
-  "translation": "U bint Paro qalet lilha: Ħu dan it-tifel u ridduh lili, u jien nagħtik iċ-ċompja tiegħek. U l-mara ħadet it-tifel u ridditu.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/2\/9-12.1792599134173.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U bint Pargħo qalet lilha: Ħu lil ⟨את⟩ it-tifel dan, u rgiħtu għalija, u jien inħallik ⟨את⟩ il-ħlas tiegħek. U l-mara ħadet it-tifel u rgiħtu.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "u qalet"
+      "gloss": "qalet"
     },
     {
       "surface": "לה",
-      "gloss": "ilha"
+      "gloss": "lilha"
     },
     {
       "surface": "בת",
@@ -37,16 +21,16 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Pargħo"
     },
     {
       "surface": "היליכי",
-      "gloss": "ħu"
+      "gloss": "Ħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tifel"
+      "marks": "it-tifel dan"
     },
     {
       "surface": "הילד",
@@ -58,11 +42,11 @@
     },
     {
       "surface": "והינקהו",
-      "gloss": "u ridduh"
+      "gloss": "u rgiħtu"
     },
     {
       "surface": "לי",
-      "gloss": "lili"
+      "gloss": "għalija"
     },
     {
       "surface": "ואני",
@@ -70,16 +54,16 @@
     },
     {
       "surface": "אתן",
-      "gloss": "nagħtik"
+      "gloss": "inħallik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iċ-ċompja tiegħek"
+      "marks": "il-ħlas tiegħek"
     },
     {
       "surface": "שכרך",
-      "gloss": "iċ-ċompja tiegħek"
+      "gloss": "il-ħlas tiegħek"
     },
     {
       "surface": "ותקח",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "il-mara"
+      "gloss": "l-mara"
     },
     {
       "surface": "הילד",
@@ -95,9 +79,9 @@
     },
     {
       "surface": "ותניקהו",
-      "gloss": "u ridditu"
+      "gloss": "u rgiħtu"
     }
   ],
-  "timestamp": "2026-10-21T16:12:14.173633508Z",
+  "timestamp": "2026-10-22T00:13:18.616906730Z",
   "model": "glm-5.3"
 }

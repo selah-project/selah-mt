@@ -5,41 +5,15 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בכם",
-      "rationale": "עדים אתם בכם — 'xhieda f'kom infuskom', jiġifieri kontra lilkom infuskom; l-Ebrajk juża ב mhux על."
-    },
-    {
-      "kind": "elision",
-      "subject": "עדים (l-aħħar)",
-      "rationale": "Risposta ta' kelma waħda biss — 'xhieda' — bla verbi; verbi Malti miżjuda jew (aħna) fil-parentesi."
-    },
-    {
-      "kind": "alternative",
-      "subject": "בכם",
-      "rationale": "Xi qari jħarsu lehn בכם biss 'għalikom', mhux 'kontra lilkom'; il-kuntest (v.19-20) jaqbel ma' 'kontra'."
-    }
-  ],
-  "translation": "U Joswa qal lill-poplu: Intom xhieda kontra lilkom infuskom, għax intom għħajrtu lilkom infuskom lil Jaħwe, biex tqadgħuh. U qalu: Xhieda (aħna).",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/24\/21-24.1792606797739.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joxwa qal lil-nies: Intom xhieda kontra {{kompli}} għalikom stess, għaliex intom għħartu {ilih} lilkom stess lil Jaħwe biex tqimuh. U huma qalu: Xhieda.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "יהושע",
-      "gloss": "Joswa"
+      "gloss": "Joxwa"
     },
     {
       "surface": "אל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "עדים",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "בכם",
-      "gloss": "kontra lilkom infuskom"
+      "gloss": "kontra {ilih} għalikom stess"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "אתם",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "בחרתם",
-      "gloss": "għħajrtu"
+      "gloss": "għħartu"
     },
     {
       "surface": "לכם",
-      "gloss": "lilkom infuskom"
+      "gloss": "lilkom stess"
     },
     {
       "surface": "את",
@@ -88,21 +62,21 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "biex tqadgħuh"
+      "gloss": "biex tqimuh"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ (quddiemu)"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "u qalu"
+      "gloss": "U huma qalu"
     },
     {
       "surface": "עדים",
-      "gloss": "xhieda"
+      "gloss": "Xhieda"
     }
   ],
-  "timestamp": "2026-10-21T18:19:57.740451144Z",
+  "timestamp": "2026-10-22T00:35:19.433020706Z",
   "model": "glm-5.3"
 }

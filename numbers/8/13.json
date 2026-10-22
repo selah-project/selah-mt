@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "תנופה",
-      "rationale": "tnefija – l-ewlenija ritwali Lhudija miżmuma bħala kelma qrib tal-Lhudi, mhux 'offrimenta' biss"
-    },
-    {
-      "kind": "addition",
-      "subject": "lil",
-      "rationale": "il-Malti jeħtieġ 'lil' għall-oġġett dirett tal-istorja ta' persuni"
-    }
-  ],
-  "translation": "U twaqqaf ⟨lil⟩ il-Leviti quddiem Aharon u quddiem uliedu, u tgħaddihom ⟨את⟩ bħala tnefija lil Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "11a7c9fb5da448de54b3da957ac50036381c3aa8c961806556f326303b052136",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/8\/13-16.1792602606196.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U twaqqaf lil ⟨את⟩ il-Leviti quddiem Aharon u quddiem uliedu, u tweġġaħhom ⟨את⟩ bħala mgħeġġaħ għal Jaħwe.",
   "tokens": [
     {
       "surface": "והעמדת",
-      "gloss": "U twaqqaf"
+      "gloss": "twaqqaf"
     },
     {
       "surface": "את",
@@ -59,22 +38,22 @@
     },
     {
       "surface": "והנפת",
-      "gloss": "u tgħaddihom"
+      "gloss": "tweġġaħhom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "il-Leviti"
+      "marks": "bħala mgħeġġaħ"
     },
     {
       "surface": "תנופה",
-      "gloss": "bħala tnefija"
+      "gloss": "mgħeġġaħ"
     },
     {
       "surface": "ליהוה",
-      "gloss": "lil Jaħwe"
+      "gloss": "għal Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T17:10:06.197694682Z",
+  "timestamp": "2026-10-22T00:47:52.862439091Z",
   "model": "glm-5.3"
 }

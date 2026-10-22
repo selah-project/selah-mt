@@ -5,33 +5,7 @@
   "book": "ezra",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hi",
-      "rationale": "Il-Lhudi ma għandux verbi 'kien'; il-kopula 'hi' hija meħtieġa bil-Malti."
-    },
-    {
-      "kind": "invitation",
-      "subject": "lil Eżra",
-      "rationale": "Imperattivi diretti — 'Qum', 'kun b'saħħtek', 'agħmel' — sejħa għall-azzjoni indirizzata lil Eżra."
-    },
-    {
-      "kind": "you",
-      "subject": "lil Eżra",
-      "rationale": "Indirizz dirett tat-tieni persuna singulari b'appoġġ 'aħna magħmek'."
-    }
-  ],
-  "translation": "Qum, għax fuqek hi l-ħaġa, u aħna magħmek; kun b'saħħtek u agħmel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6731ef52a71b0236679f1e24b1892bf70b9acb474bd0a3431715e44e7a152789",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezra\/10\/1-4.1792621231187.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Qum, għax fuqek int ⟨hu⟩ l-ħlas, u aħna magħkom; kun b'saħħtek u agħmel.",
   "tokens": [
     {
       "surface": "קום",
@@ -47,11 +21,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "l-ħaġa"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
+      "gloss": "l-ħlas"
     },
     {
       "surface": "ואנחנו",
@@ -59,7 +29,7 @@
     },
     {
       "surface": "עמך",
-      "gloss": "magħmek"
+      "gloss": "magħkom"
     },
     {
       "surface": "חזק",
@@ -70,6 +40,6 @@
       "gloss": "u agħmel"
     }
   ],
-  "timestamp": "2026-10-21T22:20:31.188885045Z",
+  "timestamp": "2026-10-22T00:19:38.639091745Z",
   "model": "glm-5.3"
 }

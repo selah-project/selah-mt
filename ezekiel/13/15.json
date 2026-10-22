@@ -5,36 +5,20 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אין הקיר ואין הטחים",
-      "rationale": "iterazzjoni ta' אין — 'm'hemmx... u m'hemmx' — żewġ nefħiet wieħed wara l-ieħor, miżjud biex tippreserva r-ratt"
-    }
-  ],
-  "translation": "U inkemm il-ġibda tiegħi fuq il-ħajt u fuq dawk li jirbluh b'tajn mhux imħawwad, u ngħidilkom: M'hemmx il-ħajt, u m'hemmx dawk li jirbluh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/13\/13-16.1792614284933.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nitlesta ⟨את⟩ l-ħrara tiegħi fuq il-ħajt u fuq dawk li jġibsuh b'⟨את⟩ ġibs mhux mħallat, u ngħidilkom: M'hemmx il-ħajt, u lanqas dawk li jġibsuh.",
   "tokens": [
     {
       "surface": "וכליתי",
-      "gloss": "u inkemm"
+      "gloss": "u nitlesta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġibda tiegħi"
+      "marks": "l-ħrara tiegħi"
     },
     {
       "surface": "חמתי",
-      "gloss": "il-ġibda tiegħi"
+      "gloss": "l-ħrara tiegħi"
     },
     {
       "surface": "בקיר",
@@ -42,20 +26,20 @@
     },
     {
       "surface": "ובטחים",
-      "gloss": "u fuq dawk li jirbluh"
+      "gloss": "u fuq dawk li jġibsuh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "b'tajn mhux imħawwad"
+      "gloss": "⟨אתו⟩",
+      "marks": "ġibs mhux mħallat"
     },
     {
       "surface": "תפל",
-      "gloss": "b'tajn mhux imħawwad"
+      "gloss": "ġibs mhux mħallat"
     },
     {
       "surface": "ואמר",
-      "gloss": "u ngħid"
+      "gloss": "u ngħidilkom"
     },
     {
       "surface": "לכם",
@@ -71,17 +55,18 @@
     },
     {
       "surface": "ואין",
-      "gloss": "u m'hemmx"
+      "gloss": "u lanqas"
     },
     {
       "surface": "הטחים",
-      "gloss": "dawk li jirbluh"
+      "gloss": "dawk li jġibsuh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨אתו⟩",
+      "marks": "dawk li jġibsuh (masdur mitlub)"
     }
   ],
-  "timestamp": "2026-10-21T20:24:44.934062294Z",
+  "timestamp": "2026-10-22T00:15:33.089848715Z",
   "model": "glm-5.3"
 }

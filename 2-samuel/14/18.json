@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the woman",
-      "rationale": "Ir-re jindirizza lill-mara b'imperattiv dirett: la taħbix."
-    },
-    {
-      "kind": "idiom",
-      "subject": "jitkellem sidni r-re",
-      "rationale": "Jussiv ta' דבר b'נא: talba ta' ħtija mill-mara, mhux sempliċiment 'jitkellem'."
-    }
-  ],
-  "translation": "U r-re wieġeb u qal lill-mara: La taħbix, jekk jogħġbok, mingħandi kelma li jien insal ⟨את⟩ mingħandek. U l-mara qalet: Jitkellem, jekk jogħġbok, sidni r-re.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fd71b80e497f202823c3a9296a8e3f82db5fb31ce5b235608352e1e08abdae65",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/14\/18-19.1792623326214.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U s-sultan wieġeb u qal lill-mara: Tħabbiex mingħandi, jekk jogħġbok, kliem li jien inistaqlek ⟨את⟩. U l-mara qalet: Jitkellem, jekk jogħġbok, sid is-sultan.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "U wieġeb"
+      "gloss": "wieġeb"
     },
     {
       "surface": "המלך",
-      "gloss": "r-re"
+      "gloss": "s-sultan"
     },
     {
       "surface": "ויאמר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "tħabbiex"
     },
     {
       "surface": "נא",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "תכחדי",
-      "gloss": "taħbix"
+      "gloss": "tħabbi"
     },
     {
       "surface": "ממני",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kelma"
+      "gloss": "kliem"
     },
     {
       "surface": "אשר",
@@ -78,20 +57,20 @@
     },
     {
       "surface": "שאל",
-      "gloss": "insal"
+      "gloss": "inistaqlek"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "mingħandek"
+      "marks": "kliem li jien inistaqlek"
     },
     {
       "surface": "ותאמר",
-      "gloss": "U qalet"
+      "gloss": "qalet"
     },
     {
-      "surface": "האשha",
-      "gloss": "il-mara"
+      "surface": "האשה",
+      "gloss": "l-mara"
     },
     {
       "surface": "ידבר",
@@ -103,13 +82,13 @@
     },
     {
       "surface": "אדני",
-      "gloss": "sidni"
+      "gloss": "sid"
     },
     {
       "surface": "המלך",
-      "gloss": "r-re"
+      "gloss": "is-sultan"
     }
   ],
-  "timestamp": "2026-10-21T22:55:26.215327447Z",
+  "timestamp": "2026-10-22T00:05:50.026469476Z",
   "model": "glm-5.3"
 }

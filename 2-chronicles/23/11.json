@@ -5,49 +5,28 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "id-djadema",
-      "rationale": "הנזר: 'djadema\/inċizz irjali' vs 'għerq ta' dedikazzjoni' — Kelb ta' Moħed tinterpreta bħala l-kopja tat-Tora (Dewt 17:18)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "midlkuh",
-      "rationale": "וימשחהו litteralment 'u midlkuh bil-żejt' — għerq משיח, l-istess għerq ta' Maxiaħ"
-    }
-  ],
-  "translation": "U ħarġu ⟨את⟩ lil iben is-sultan, u poġġew fuqu ⟨את⟩ id-djadema u ⟨את⟩ ix-xhieda, u għamluh isultan, u midlkuh Jehojada u wliedu, u qalu: Ħaj is-sultan!",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "47749a7c379c154603747ff8eec52c3c12bf3dc3f3c8cd627077cd0e11fc2abf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/23\/9-12.1792622722178.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħarġu ⟨את⟩ bin ir-re, u taw fuqu ⟨את⟩ in-neżer u ⟨את⟩ ix-xehda, u għamluh ir-re; u Jihojada u uliedu mesewh bil-żejt, u qalu: Jgħix ir-re!",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "ħarġu"
+      "gloss": "u ħarġu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iben is-sultan"
+      "marks": "bin ir-re"
     },
     {
       "surface": "בן",
-      "gloss": "iben"
+      "gloss": "bin"
     },
     {
       "surface": "המלך",
-      "gloss": "is-sultan"
+      "gloss": "ir-re"
     },
     {
       "surface": "ויתנו",
-      "gloss": "poġġew"
+      "gloss": "u taw fuqu"
     },
     {
       "surface": "עליו",
@@ -56,41 +35,41 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-djadema"
+      "marks": "in-neżer"
     },
     {
       "surface": "הנזר",
-      "gloss": "id-djadema"
+      "gloss": "in-neżer"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "ix-xhieda"
+      "marks": "ix-xehda"
     },
     {
       "surface": "העדות",
-      "gloss": "ix-xhieda"
+      "gloss": "ix-xehda"
     },
     {
       "surface": "וימליכו",
-      "gloss": "għamluh isultan"
+      "gloss": "u għamluh ir-re"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ + lilu",
-      "marks": "iben is-sultan (midluk)"
+      "gloss": "⟨את⟩",
+      "marks": "(u midlu bil-żejt — oġġett ta' וימשחהו)"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "u midlkuh"
+      "gloss": "mesewh bil-żejt"
     },
     {
       "surface": "יהוידע",
-      "gloss": "Jehojada"
+      "gloss": "Jihojada"
     },
     {
       "surface": "ובניו",
-      "gloss": "u wliedu"
+      "gloss": "u uliedu"
     },
     {
       "surface": "ויאמרו",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "Ħaj"
+      "gloss": "Jgħix"
     },
     {
       "surface": "המלך",
-      "gloss": "is-sultan"
+      "gloss": "ir-re"
     }
   ],
-  "timestamp": "2026-10-21T22:45:22.179829213Z",
+  "timestamp": "2026-10-22T00:01:50.555429570Z",
   "model": "glm-5.3"
 }

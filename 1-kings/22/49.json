@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨made⟩",
-      "rationale": "il-verbi Malti mehudda; il-Lhudi għandu biss 'Jehosaphat għaxra vapuri', bla verb"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ships of Tarshish",
-      "rationale": "תרשיש hawnnett mhux post imma tip ta' vapur tal-merkanti, bħal 'vapuri ta' Tarshish'"
-    }
-  ],
-  "translation": "Jehosaphat ⟨made⟩ ten ships of Tarshish to go to Ophir for the gold, but they did not go, for the ships were broken at Etsjon-Geber.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/22\/49-52.1792610056189.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jehoxafat għamel għaxra dgħajjes ta' Tarxix biex imorru f'Ofir għad-deheb, u ma tmuxet, għax id-dgħajjes nkisru f'Etsjon-Gever.",
   "tokens": [
     {
       "surface": "יהושפט",
-      "gloss": "Jehosaphat"
+      "gloss": "Jehoxafat"
     },
     {
       "surface": "עשר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אניות",
-      "gloss": "vapuri"
+      "gloss": "dgħajjes"
     },
     {
       "surface": "תרשיש",
-      "gloss": "ta' Tarshish"
+      "gloss": "ta' Tarxix"
     },
     {
       "surface": "ללכת",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אופירה",
-      "gloss": "Ophir"
+      "gloss": "f'Ofir"
     },
     {
       "surface": "לזהב",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "mortx"
+      "gloss": "tmuxet"
     },
     {
       "surface": "כי",
@@ -74,17 +53,17 @@
     },
     {
       "surface": "אניות",
-      "gloss": "il-vapuri"
+      "gloss": "id-dgħajjes"
     },
     {
       "surface": "בעציון",
-      "gloss": "f'Etsjon"
+      "gloss": "f'Etsjon-"
     },
     {
       "surface": "גבר",
-      "gloss": "-Geber"
+      "gloss": "Gever"
     }
   ],
-  "timestamp": "2026-10-21T19:14:16.189868273Z",
+  "timestamp": "2026-10-22T00:52:09.600729150Z",
   "model": "glm-5.3"
 }

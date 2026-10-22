@@ -5,46 +5,20 @@
   "book": "song-of-songs",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צבאות",
-      "rationale": "'roes\/gazelles' vs 'hosts (Tsebawot)' — qrib ta' צביה; here animals, mhux Jaħwe Tsebawot"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צבאות\/אילות",
-      "rationale": "alliterazzjoni bejn iż-żewġ annimali, imdiffu fil-plural femminili"
-    },
-    {
-      "kind": "alternative",
-      "subject": "שתחפץ",
-      "rationale": "'sakemm tkun trid hi' — l-imħabba femminili; xi tradutturi jqiegħdu 'hu'"
-    }
-  ],
-  "translation": "Ħallejtkom bil-ħalf, bint Jeruxalajim, biż-żibġ, jew biċ-ċriev tal-għasel — għajrux u la tqajmux lill-imħabba, sakemm tkun trid hi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/song-of-songs\/3\/5-8.1792619951299.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ilħaqtekom bil-ħalf, ja bniet Jeruxalajim, bil-gazzelli jew biċ-ċervi tal-għalqa: la tqajmu u la tqajxru ⟨את⟩ l-imħabba sakemm tkun trid.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "ħallejtkom bil-ħalf"
+      "gloss": "ilħaqtekom bil-ħalf"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "bint Jeruxalajim"
+      "gloss": "⟨את⟩kom",
+      "marks": "bniet Jeruxalajim"
     },
     {
       "surface": "בנות",
-      "gloss": "bint"
+      "gloss": "bniet"
     },
     {
       "surface": "ירושלם",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "בצבאות",
-      "gloss": "biż-żibġ"
+      "gloss": "bil-gazzelli"
     },
     {
       "surface": "או",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "באילות",
-      "gloss": "biċ-ċriev tal-għasel"
+      "gloss": "biċ-ċervi"
     },
     {
       "surface": "השדה",
-      "gloss": "tal-għasel"
+      "gloss": "tal-għalqa"
     },
     {
       "surface": "אם",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "תעירו",
-      "gloss": "għajru"
+      "gloss": "tqajmu"
     },
     {
       "surface": "ואם",
@@ -80,16 +54,16 @@
     },
     {
       "surface": "תעוררו",
-      "gloss": "tqajmux"
+      "gloss": "tqajxru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lill-imħabba"
+      "marks": "l-imħabba"
     },
     {
       "surface": "האהבה",
-      "gloss": "lill-imħabba"
+      "gloss": "l-imħabba"
     },
     {
       "surface": "עד",
@@ -97,9 +71,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": "tkun trid hi"
+      "gloss": "tkun trid"
     }
   ],
-  "timestamp": "2026-10-21T21:59:11.300300244Z",
+  "timestamp": "2026-10-22T00:50:50.988717429Z",
   "model": "glm-5.3"
 }

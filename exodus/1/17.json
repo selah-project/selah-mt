@@ -5,41 +5,15 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "iżda",
-      "rationale": "il-Malti jeħtieġ konġunzjoni qabel il-verb fil-pożizzjoni opposta, li mhux fit-test"
-    },
-    {
-      "kind": "substitution",
-      "subject": "beżżru minn",
-      "rationale": "וירא 'beżżru\/respettaw' — il-biża' bl-rispett flimkien"
-    },
-    {
-      "kind": "elision",
-      "subject": "אליהן",
-      "rationale": "il-pronom itternat fl-għanja ta' דבר u ma għandux bżonju kelma separata fil-Malti"
-    }
-  ],
-  "translation": "U l-qwieleb beżżru ⟨minn⟩ ⟨את⟩ Elohim, u ma għamlux kif kien qalilhom is-sultan ta' Mitsrajim, iżda żammew ħajjin ⟨את⟩ it-tfal.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/1\/17-20.1792599183118.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Il-qwiejb tal-ġenituri beżżgħu minn ⟨את⟩ Elohim, u ma għamlux dak li tkellimlhom ir-re ta' Mitsrajim, u ħajju lil ⟨את⟩ it-tfal subien.",
   "tokens": [
     {
       "surface": "ותיראן",
-      "gloss": "beżżru"
+      "gloss": "beżżgħu minn"
     },
     {
       "surface": "המילדת",
-      "gloss": "l-qwieleb"
+      "gloss": "il-qwiejb tal-ġenituri"
     },
     {
       "surface": "את",
@@ -60,19 +34,19 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kif"
+      "gloss": "dak li"
     },
     {
       "surface": "דבר",
-      "gloss": "kien qalilhom"
+      "gloss": "tkellimlhom"
     },
     {
       "surface": "אליהן",
-      "gloss": ""
+      "gloss": "lhom"
     },
     {
       "surface": "מלך",
-      "gloss": "is-sultan"
+      "gloss": "ir-re"
     },
     {
       "surface": "מצרים",
@@ -80,18 +54,18 @@
     },
     {
       "surface": "ותחיין",
-      "gloss": "żammew ħajjin"
+      "gloss": "u ħajju"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tfal"
+      "marks": "it-tfal subien"
     },
     {
       "surface": "הילדים",
-      "gloss": "it-tfal"
+      "gloss": "it-tfal subien"
     }
   ],
-  "timestamp": "2026-10-21T16:13:03.119120021Z",
+  "timestamp": "2026-10-22T00:12:19.847974483Z",
   "model": "glm-5.3"
 }

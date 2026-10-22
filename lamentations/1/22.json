@@ -5,64 +5,43 @@
   "book": "lamentations",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nieqsa",
-      "rationale": "דוי = mard\/imrar; 'qalbi nieqsa' ma jġibx il-mard tal-kelma"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jaħwe",
-      "rationale": "talba diretta lil Jaħwe biex iġġibel lill-għedewwa"
-    }
-  ],
-  "translation": "Ħalli jiġi ħażin tagħhom kollu quddiemek, u għamilhom bħalma għamiltli għal trasgressjonijieti kollha; għax in-newġiet tiegħi ḥafna, u qalbi nieqsa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/1\/21-22.1792619986653.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ġielifk kollha ħażinhom quddiemlek, u agħmel lilhom hekk kif għamlt lili għal kull ribellijieti tiegħi, għax ħafna huma l-ihnien tiegħi u qalbi mardha.",
   "tokens": [
     {
       "surface": "תבא",
-      "gloss": "Ħalli jiġi"
+      "gloss": "ġielifk"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "רעתם",
-      "gloss": "ħażin tagħhom"
+      "gloss": "ħażinhom"
     },
     {
       "surface": "לפניך",
-      "gloss": "quddiemek"
+      "gloss": "quddiemlek"
     },
     {
       "surface": "ועולל",
-      "gloss": "u għamilhom"
+      "gloss": "u agħmel lilhom hekk"
     },
     {
       "surface": "למו",
-      "gloss": ""
+      "gloss": "lilhom"
     },
     {
       "surface": "כאשר",
-      "gloss": "bħalma"
+      "gloss": "kif"
     },
     {
       "surface": "עוללת",
-      "gloss": "għamiltli"
+      "gloss": "għamlt"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "lili"
     },
     {
       "surface": "על",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "פשעי",
-      "gloss": "trasgressjonijieti"
+      "gloss": "ribellijieti tiegħi"
     },
     {
       "surface": "כי",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "רבות",
-      "gloss": "ḥafna"
+      "gloss": "ħafna"
     },
     {
       "surface": "אנחתי",
-      "gloss": "in-newġiet tiegħi"
+      "gloss": "l-ihnien tiegħi"
     },
     {
       "surface": "ולבי",
@@ -94,9 +73,9 @@
     },
     {
       "surface": "דוי",
-      "gloss": "nieqsa"
+      "gloss": "mardha"
     }
   ],
-  "timestamp": "2026-10-21T21:59:46.654738750Z",
+  "timestamp": "2026-10-22T00:38:51.485770856Z",
   "model": "glm-5.3"
 }

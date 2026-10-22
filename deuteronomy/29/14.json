@@ -5,32 +5,16 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "dawk li m'humiex hawn llum",
-      "rationale": "il-patt jinkludi lil dawk assenti — minn dawk li għadhom ma tweldux; il-membri futuri tal-patt imsewwħa fid-dlam"
-    }
-  ],
-  "translation": "Għaliex ma' dawk li hemm hawn magħna, bilqieqda llum quddiem Jaħwe Elohim tagħna, u ma' dawk li m'humiex hawn magħna llum —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/29\/13-16.1792606032657.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma ⟨את⟩ dawk li qegħdin hawn magħna, weqfin illum quddiem Jaħwe, Elohim tagħna, u ⟨את⟩ dawk li mhumiex hawn magħna llum.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "imma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dakk li hemm hawn"
+      "marks": "dawk li qegħdin hawn magħna weqfin"
     },
     {
       "surface": "אשר",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "ישנו",
-      "gloss": "hemm"
+      "gloss": "qegħdin"
     },
     {
       "surface": "פה",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "עמד",
-      "gloss": "bilqieqda"
+      "gloss": "weqfin"
     },
     {
       "surface": "היום",
-      "gloss": "llum"
+      "gloss": "illum"
     },
     {
       "surface": "לפני",
@@ -70,8 +54,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dakk li m'humiex hawn"
+      "gloss": "u ⟨את⟩",
+      "marks": "dawk li mhumiex hawn magħna llum"
     },
     {
       "surface": "אשר",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "m'humiex"
+      "gloss": "mhumiex"
     },
     {
       "surface": "פה",
@@ -94,6 +78,6 @@
       "gloss": "llum"
     }
   ],
-  "timestamp": "2026-10-21T18:07:12.658411405Z",
+  "timestamp": "2026-10-22T00:10:25.946195894Z",
   "model": "glm-5.3"
 }

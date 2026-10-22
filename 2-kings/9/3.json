@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "il-flaskun \/ il-bieb",
-      "rationale": "L-artiklu Malti hu meħtieġ għall-kostruzzjoni; l-artiklu Lhudi jibqa' ma jimmarkax."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-profeta żagħżugħ",
-      "rationale": "Katina ta' kmandi diretti — iż-żir jaħrab bla ma jistenna."
-    },
-    {
-      "kind": "elision",
-      "subject": "ולא תחכה",
-      "rationale": "Żewġ kliem Lhud ġew magħquda f''ma tistennax' biex il-Malti jisma' naturali."
-    }
-  ],
-  "translation": "U ħud il-flaskun taż-żejt u splatu fuq rasu, u għid: Hekk jgħid Jaħwe: Jiena middajtek sultan fuq Jisrael; u mbagħad iftaħ il-bieb u aħrab, u tistennax.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "aed6e0d0904279ee3d1d054a318899ce82ab00438878b36b8960af720aae2451",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/9\/2-3.1792623391342.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħu l-faxex taż-żejt, u ferragħu fuq rasu, u għid: Hekk jgħid Jaħwe: Jien mxiħtek sultan fuq Jisrael. Imbagħad iftaħ id-darħa u aħrab, u tgħaddix.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "ħud"
+      "gloss": "u ħu"
     },
     {
       "surface": "פך",
-      "gloss": "il-flaskun"
+      "gloss": "il-faxex"
     },
     {
       "surface": "השמן",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ויצקת",
-      "gloss": "splatu"
+      "gloss": "u ferragħu"
     },
     {
       "surface": "על",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "għid"
+      "gloss": "u għid"
     },
     {
       "surface": "כה",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "משחתיך",
-      "gloss": "middajtek"
+      "gloss": "Jien mxiħtek"
     },
     {
       "surface": "למלך",
@@ -91,29 +65,25 @@
     },
     {
       "surface": "ופתחת",
-      "gloss": "iftaħ"
+      "gloss": "Imbagħad iftaħ"
     },
     {
       "surface": "הדלת",
-      "gloss": "il-bieb"
+      "gloss": "id-darħa"
     },
     {
       "surface": "ונסתה",
-      "gloss": "aħrab"
-    },
-    {
-      "surface": "ויצקת",
-      "gloss": ""
+      "gloss": "u aħrab"
     },
     {
       "surface": "ולא",
-      "gloss": "ma"
+      "gloss": "u"
     },
     {
       "surface": "תחכה",
-      "gloss": "tistennax"
+      "gloss": "tgħaddix"
     }
   ],
-  "timestamp": "2026-10-21T22:56:31.343849683Z",
+  "timestamp": "2026-10-22T00:05:39.103607645Z",
   "model": "glm-5.3"
 }

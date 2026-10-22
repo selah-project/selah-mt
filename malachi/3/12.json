@@ -5,32 +5,16 @@
   "book": "malachi",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "art mixtqa",
-      "rationale": "ארץ חפץ 'art ta' widna\/dilett' — hemm min jagħtiha 'art sbieħa', 'art għanja', 'art mixtqa'"
-    }
-  ],
-  "translation": "U jgħidu li intkom hieni l-ġnus kollha, għaliex intkom tkunu art mixtqa, jgħid Jaħwe Tsebawot.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7869b4484f1b0924d93326df9b8014ff445340ad2366923682c12b2edf813e7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/3\/9-12.1792616458211.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-ġnus kollha jgħidu ⟨את⟩ lilkom hieni, għax intom art ta' għaxqa, jgħid Jaħwe Tsebawot.",
   "tokens": [
     {
       "surface": "ואשרו",
-      "gloss": "u jgħidu li intkom hieni"
+      "gloss": "jgħidu hieni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ intkom",
-      "marks": "intkom"
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     },
     {
       "surface": "כל",
@@ -42,15 +26,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "תהיו",
-      "gloss": "tkunu"
+      "gloss": "intom"
     },
     {
       "surface": "אתם",
-      "gloss": "intkom"
+      "gloss": "intom"
     },
     {
       "surface": "ארץ",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "mixtqa"
+      "gloss": "ta' għaxqa"
     },
     {
       "surface": "אמר",
@@ -73,6 +57,6 @@
       "gloss": "Tsebawot"
     }
   ],
-  "timestamp": "2026-10-21T21:00:58.212416321Z",
+  "timestamp": "2026-10-22T00:53:51.471029571Z",
   "model": "glm-5.3"
 }

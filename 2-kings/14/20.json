@@ -5,37 +5,16 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "lilu",
-      "rationale": "Il-pronum Malti miżjud biex juri lil min ibarra l-אתו."
-    },
-    {
-      "kind": "substitution",
-      "subject": "fuq iż-żwiemel",
-      "rationale": "Il-plural סוסים jsir plural Malti 'iż-żwiemel' — aktar minn żiemel wieħed, forse bħala purċissjoni."
-    }
-  ],
-  "translation": "U ġarrbu ⟨את⟩ lilu fuq iż-żwiemel, u ġie midfun f'Jeruxalajim ma' missirietu, fil-belt ta' David.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/17-20.1792610489870.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġibduh ⟨את⟩ fuq iż-żwiemel, u ndifen f'Jeruxalajim ma' missirijietu, fil-belt ta' David.",
   "tokens": [
     {
-      "surface": "וישאu",
-      "gloss": "ġarrbu"
+      "surface": "וישאו",
+      "gloss": "u ġibduh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lilu"
+      "marks": "lilu (fuq iż-żwiemel)"
     },
     {
       "surface": "על",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ויקבר",
-      "gloss": "ġie midfun"
+      "gloss": "u ndifen"
     },
     {
       "surface": "בירושלם",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "missirietu"
+      "gloss": "missirijietu"
     },
     {
       "surface": "בעיר",
@@ -70,6 +49,6 @@
       "gloss": "ta' David"
     }
   ],
-  "timestamp": "2026-10-21T19:21:29.872109738Z",
+  "timestamp": "2026-10-22T00:03:44.424068693Z",
   "model": "glm-5.3"
 }

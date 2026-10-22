@@ -5,41 +5,20 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "miegħu",
-      "rationale": "אִתּוֹ hawn hu l-prepożizzjoni H854 ('ma'\/ 'miegħu'), mhux l-aleph-tav tal-oġġett diretta"
-    },
-    {
-      "kind": "alternative",
-      "subject": "il-ġudizzji",
-      "rationale": "וידבר אתו משפטים jista' jqis ukoll 'għamlulu l-ġudizzji', jiġifieri  ħarġlu s-sentenza"
-    }
-  ],
-  "translation": "U ħadu lil ⟨את⟩ is-sultan, u tellgħuh ⟨għandu⟩ għand sultan Babilon, fir-Ribla, fl-art ta' Ħamat; u kien jitkellem ⟨את⟩ miegħu dwar il-ġudizzji.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/52\/9-12.1792614001759.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qaħdud ⟨את⟩ ir-re, u tellgħuh għand is-sultan ta' Babilonja, f'Ribla, fl-art ta' Ħamat; u tkellem ⟨את⟩ miegħu ġudizzji.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "ħadu"
+      "gloss": "qaħdud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-sultan"
+      "marks": "ir-re"
     },
     {
       "surface": "המלך",
-      "gloss": "is-sultan"
+      "gloss": "ir-re"
     },
     {
       "surface": "ויעלו",
@@ -47,7 +26,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩u"
+      "gloss": "⟨את⟩",
+      "marks": "ir-re (suffissa)"
     },
     {
       "surface": "אל",
@@ -55,37 +35,38 @@
     },
     {
       "surface": "מלך",
-      "gloss": "sultan"
+      "gloss": "is-sultan"
     },
     {
       "surface": "בבל",
-      "gloss": "Babilon"
+      "gloss": "ta' Babilonja"
     },
     {
       "surface": "רבלתה",
-      "gloss": "fir-Ribla"
+      "gloss": "f'Ribla"
     },
     {
       "surface": "בארץ",
-      "gloss": "fl-art ta'"
+      "gloss": "fl-art"
     },
     {
       "surface": "חמת",
-      "gloss": "Ħamat"
+      "gloss": "ta' Ħamat"
     },
     {
       "surface": "וידבר",
-      "gloss": "kien jitkellem"
+      "gloss": "u tkellem"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩",
+      "marks": "ġudizzji"
     },
     {
       "surface": "משפטים",
-      "gloss": "il-ġudizzji"
+      "gloss": "ġudizzji"
     }
   ],
-  "timestamp": "2026-10-21T20:20:01.760052119Z",
+  "timestamp": "2026-10-22T00:32:40.575746273Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "Il-pluperfect Malti għall-waqfa tal-istorja; il-Lhudi juża wayyiqtol sempliċi."
-    },
-    {
-      "kind": "idiom",
-      "subject": "טוב לב ביין",
-      "rationale": "Literalment 'meta qalbu tkun tajba bin-xarab' — tjieba ta' qalb bit-xorb."
-    },
-    {
-      "kind": "you",
-      "subject": "lis-servi",
-      "rationale": "Kmand dirett ta' Avxalom lill-żgħażagħ tiegħu; imperattivi mkittba."
-    }
-  ],
-  "translation": "U Avxalom kien ordna lil ⟨את⟩ żgħażagħu, jgħid: Ara, jekk jogħġbok, meta qalb Amnon tkun ferħana bin-xarab, u jien ngħidilkom: Duħħu ⟨את⟩ lil Amnon u qtluh; tibżgħux: Mela jien ordnajtilkom? Kunu qawwija, u kunu ulied il-qlubija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/13\/25-28.1792608825323.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Avxalom ordna ⟨את⟩ lil xbih żgħażagħ tiegħu, jgħidu: Ara, jekk jogħġbok, meta l-qalb ta' Amlon tkun ferħana bl-inbid, u jiena ngħid lilkom: Idrubu ⟨את⟩ lil Amlon, u oqtluh; tibżgħux — ma jgħidx li jien ordnajt ⟨את⟩ lilkom? Kunu qawwijin, u kunu wlied ta' ħila.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "U kien ordna"
+      "gloss": "ordna"
     },
     {
       "surface": "אבשלום",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "żgħażagħu"
+      "marks": "lil xbih żgħażagħ tiegħu"
     },
     {
       "surface": "נעריו",
-      "gloss": "żgħażagħu"
+      "gloss": "xbih żgħażagħ tiegħu"
     },
     {
       "surface": "לאמר",
-      "gloss": "jgħid"
+      "gloss": "jgħidu"
     },
     {
       "surface": "ראו",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "כטוב",
-      "gloss": "meta... tkun ferħana"
+      "gloss": "ferħana"
     },
     {
       "surface": "לב",
@@ -72,45 +46,45 @@
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnon"
+      "gloss": "Amlon"
     },
     {
       "surface": "ביין",
-      "gloss": "bin-xarab"
+      "gloss": "bl-inbid"
     },
     {
-      "surface": "ו אמרתי",
-      "gloss": "u jien ngħidilkom"
+      "surface": "ואמרתי",
+      "gloss": "u ngħid"
     },
     {
       "surface": "אליכם",
-      "gloss": ""
+      "gloss": "lilkom"
     },
     {
       "surface": "הכו",
-      "gloss": "Duħħu"
+      "gloss": "Idrubu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Amnon"
+      "marks": "lil Amlon"
     },
     {
       "surface": "אמנון",
-      "gloss": "lil Amnon"
+      "gloss": "Amlon"
     },
     {
       "surface": "והמתם",
-      "gloss": "u qtluh"
+      "gloss": "u oqtluh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
+      "gloss": "⟨את⟩",
       "marks": "lilu"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "la"
     },
     {
       "surface": "תיראו",
@@ -118,11 +92,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "Mela"
+      "gloss": "ma jgħidx"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "אנכי",
@@ -130,16 +104,16 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ordnajtilkom"
+      "gloss": "ordnajt"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
+      "gloss": "⟨את⟩",
       "marks": "lilkom"
     },
     {
       "surface": "חזקו",
-      "gloss": "Kunu qawwija"
+      "gloss": "kunu qawwijin"
     },
     {
       "surface": "והיו",
@@ -147,13 +121,13 @@
     },
     {
       "surface": "לבני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "חיל",
-      "gloss": "il-qlubija"
+      "gloss": "ħila"
     }
   ],
-  "timestamp": "2026-10-21T18:53:45.325026467Z",
+  "timestamp": "2026-10-22T00:06:11.564285911Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,32 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויעש\/עשה",
-      "rationale": "Il-verb 'għamel' jirrepeti fil-bidu u fl-aħħar — infaħħir ta' Noe, miżmum fil-Malti."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Il-markatur את ma għandux ekwivalenti Malti; jinżamm bħala ⟨את⟩ u jipponta lejn 'lilu'."
-    }
-  ],
-  "translation": "U Noe għamel skont kull ma ġiegħel lilu Elohim; hekk għamel.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "3947e8d9366035b5c148ca6650227557417e0bb1c52013a453a423bdbcfdf029",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/6\/21-22.1792597755677.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Noaħ għamel skond kollox li amar ⟨את⟩ lilu Elohim; hekk għamel.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "U għamel"
+      "gloss": "u għamel"
     },
     {
       "surface": "נח",
-      "gloss": "Noe"
+      "gloss": "Noaħ"
     },
     {
       "surface": "ככל",
-      "gloss": "skont kull"
+      "gloss": "skond kollox"
     },
     {
       "surface": "אשר",
-      "gloss": "ma"
+      "gloss": "li"
     },
     {
       "surface": "צוה",
-      "gloss": "ġiegħel"
+      "gloss": "amar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "lilu"
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu (Noaħ)"
     },
     {
       "surface": "אלהים",
@@ -66,6 +45,6 @@
       "gloss": "għamel"
     }
   ],
-  "timestamp": "2026-10-21T15:49:15.677999200Z",
+  "timestamp": "2026-10-22T00:24:21.674980308Z",
   "model": "glm-5.3"
 }

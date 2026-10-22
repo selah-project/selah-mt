@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefesu",
-      "rationale": "נפש nefes = ħajja\/nifs\/appetiċċju, mhux 'ruħ'; in-nefes li Jotam jisraqha 'l bogħod għal ħbiebu"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-irġiel ta' Xekem",
-      "rationale": "Jotam iħabbrathom direttament fil-muntan"
-    }
-  ],
-  "translation": "li missieri ġieġled għalikom, u warrab ⟨את⟩ nefesu minn quddiem, u ħeliskom minn id Midjan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/17-20.1792607276158.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax missiereri ġieġla għalikom, u waddab ⟨את⟩ ħajtu 'l bogħod, u ħeles ⟨את⟩ lilkom minn id Midjan.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "għax"
     },
     {
       "surface": "נלחם",
-      "gloss": "ġieġled"
+      "gloss": "ġieġla"
     },
     {
       "surface": "אבי",
-      "gloss": "missieri"
+      "gloss": "missiereri"
     },
     {
       "surface": "עליכם",
@@ -46,29 +25,29 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "u warrab"
+      "gloss": "u waddab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nefesu"
+      "marks": "ħajtu"
     },
     {
       "surface": "נפשו",
-      "gloss": "nefesu"
+      "gloss": "ħajtu"
     },
     {
       "surface": "מנגד",
-      "gloss": "minn quddiem"
+      "gloss": "'l bogħod"
     },
     {
       "surface": "ויצל",
-      "gloss": "u ħeliskom"
+      "gloss": "u ħeles"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "kom (ħelsien minn id Midjan)"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "את +kom: l-aleph-tav mal-pronom 'kom'"
     },
     {
       "surface": "מיד",
@@ -79,6 +58,6 @@
       "gloss": "Midjan"
     }
   ],
-  "timestamp": "2026-10-21T18:27:56.159723568Z",
+  "timestamp": "2026-10-22T00:38:38.959687470Z",
   "model": "glm-5.3"
 }

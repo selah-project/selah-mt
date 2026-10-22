@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ttifgħni wara dahrek",
-      "rationale": "'Cast me behind your back' — Hebrew idiom for total disregard; Malti keeps the literal picture"
-    },
-    {
-      "kind": "substitution",
-      "subject": "l-ħażen (זמה)",
-      "rationale": "zimmah is a 'plan, especially a bad one' — deliberate crime, not generic wickedness"
-    }
-  ],
-  "translation": "Għalhekk hekk qal Adonaj Jaħwe: Għaliex int eċċejtni u tirtﬁeni... Għaliex int injartni u ttifgħni wara dahrek, int ukoll ġġorri l-ħażen tagħbek u ⟨את⟩ż-żunà tagħbek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/23\/33-36.1792614734984.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għalhekk hekk jgħid Adonaj Jaħwe: Għaliex intinsit lili u tixlit lili wara dahrek, int ukoll ġġorri l-ħażien tiegħek u ⟨את⟩ l-att tiegħek ta' żina.",
   "tokens": [
     {
       "surface": "לכן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "qal"
+      "gloss": "jgħid"
     },
     {
       "surface": "אדני",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "יען",
-      "gloss": "għaliex"
+      "gloss": "Għaliex"
     },
     {
       "surface": "שכחת",
-      "gloss": "int injartni"
+      "gloss": "intinsit"
     },
     {
       "surface": "אותי",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ותשליכי",
-      "gloss": "u ttifgħni"
+      "gloss": "u tixlit"
     },
     {
       "surface": "אותי",
@@ -90,18 +69,17 @@
     },
     {
       "surface": "זמתך",
-      "gloss": "l-ħażen tagħbek"
+      "gloss": "il-ħażien tiegħek"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ż-żunà tagħbek"
+      "gloss": "u ⟨את⟩"
     },
     {
       "surface": "תזנותיך",
-      "gloss": "ż-żunà tagħbek"
+      "gloss": "l-att tiegħek ta' żina"
     }
   ],
-  "timestamp": "2026-10-21T20:32:14.985617123Z",
+  "timestamp": "2026-10-22T00:17:37.568145792Z",
   "model": "glm-5.3"
 }

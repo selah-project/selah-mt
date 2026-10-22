@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "il-par konġuntiv 'għax imma' jinftiehem b'waħda; im waħedha mhix renduta"
-    },
-    {
-      "kind": "addition",
-      "subject": "għalhekk",
-      "rationale": "il-waw ta' ויאבדום jinftiehem bħala konkluzzjoni, mhux sempliċiment 'u'"
-    }
-  ],
-  "translation": "u taw ⟨את⟩ l-allat tagħhom fin-nar, għax mhumiex allat, imma xogħol idejn il-bniedem, inju u ġebel; għalhekk qerduhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/19\/17-20.1792610634111.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u poġġew lil ⟨את⟩ allat tagħhom fin-nar, għax mhumaex alla, għax ⟨ma huma għexxejjex ikrah imma xogħol idejn il-bniedem, injass u ġebel; u qerduhom.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "u taw"
+      "gloss": "u poġġew"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-allat tagħhom"
+      "marks": "allat tagħhom"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "l-allat tagħhom"
+      "gloss": "allat tagħhom"
     },
     {
       "surface": "באש",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "mhumiex"
+      "gloss": "mhumaex"
     },
     {
       "surface": "אלהים",
-      "gloss": "allat"
+      "gloss": "alla"
     },
     {
       "surface": "המה",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "imma"
+      "gloss": "għax"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "imma"
     },
     {
       "surface": "מעשה",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "עץ",
-      "gloss": "inju"
+      "gloss": "injass"
     },
     {
       "surface": "ואבן",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "ויאבדום",
-      "gloss": "għalhekk qerduhom"
+      "gloss": "u qerduhom"
     }
   ],
-  "timestamp": "2026-10-21T19:23:54.112073542Z",
+  "timestamp": "2026-10-22T00:04:14.826196732Z",
   "model": "glm-5.3"
 }

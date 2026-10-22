@@ -5,45 +5,19 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "פיך",
-      "rationale": "'Fejn hi ħalqek?' — għajd Lhudi għal 'fejn huma l-kliem kbir tiegħek?'"
-    },
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "partiċella ta' preċezzjoni ma għandha ekwivalenti Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Gaal",
-      "rationale": "Żebul jikkundanna lil Gaal b'mistoqsija retorika u imperattiv"
-    }
-  ],
-  "translation": "U Żebul qallu: Fejn hi issa ħalqek, li kont tgħid Min hu Abimelek li nservuh? Mhux dan il-poplu li dheqit? Ħomm ħares, għalissa, u ġġieled magħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "174d6767fe2ab88d55cebf08c31eb1ff3466d47f501c90b17a57d4cf1b9539e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/9\/37-40.1792607183745.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Zebul qallu: Fejn qieghed issa ħalek, li bih għidt, Min hu Abimelek, li nservuh? Mhux dan il-poplu li ħqartu? Ħruġ ⟨jekk jogħġbok⟩ issa u ġġieled magħhom.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "qallu"
     },
     {
       "surface": "אליו",
-      "gloss": "lillu"
+      "gloss": "(lilu)"
     },
     {
       "surface": "זבל",
-      "gloss": "Żebul"
+      "gloss": "Zebul"
     },
     {
       "surface": "איה",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "פיך",
-      "gloss": "ħalqek"
+      "gloss": "ħalek"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "li bih"
     },
     {
       "surface": "תאמר",
-      "gloss": "kont tgħid"
+      "gloss": "għidt"
     },
     {
       "surface": "מי",
@@ -99,23 +73,23 @@
     },
     {
       "surface": "מאסתה",
-      "gloss": "dheqit"
+      "gloss": "ħqartu"
     },
     {
       "surface": "בו",
-      "gloss": "bil-poplu"
+      "gloss": "(lilu)"
     },
     {
       "surface": "צא",
-      "gloss": "Ħomm ħares"
+      "gloss": "Ħruġ"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "jekk jogħġbok"
     },
     {
       "surface": "עתה",
-      "gloss": "għalissa"
+      "gloss": "issa"
     },
     {
       "surface": "והלחם",
@@ -126,6 +100,6 @@
       "gloss": "magħhom"
     }
   ],
-  "timestamp": "2026-10-21T18:26:23.746036236Z",
+  "timestamp": "2026-10-22T00:38:27.867418333Z",
   "model": "glm-5.3"
 }

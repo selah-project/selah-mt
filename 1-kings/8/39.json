@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "qalb il-bnedmin",
-      "rationale": "Jaħwe waħdu biss jaf l-imħabba ta' kull qalb — il-għarfien moħbi li ħadd ma jidħol għalih."
-    },
-    {
-      "kind": "crux",
-      "subject": "ועשית",
-      "rationale": "'u tagħmel' huwa vagu apposta: ħafer u agħmel dritt skont il-ġustizzja — xi tradutturi jpoġġu 'aġixxi'."
-    }
-  ],
-  "translation": "u int tisma' mis-sema, il-post fejn toqgħod, u taħfer, u tagħmel, u tagħti lil kull bniedem skont triqatu kollha, li <span dir=\"rtl\">את<\/span> ⟨את⟩ qalbu int tafha — għax int waħdek biss taf <span dir=\"rtl\">את<\/span> ⟨את⟩ qalb kulmin hu bniedem:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2590963db32705ddfe11aa2e04bdf1dbb9f4f14f6f525294404e997f34486768",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/37-40.1792609527769.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int tisma' mis-sema, il-post fejn toqgħod, u taħfer, u tagħmel, u tagħti lil kulħadd skont it-toroq kollha tiegħu, li qalbu int tafha ⟨את⟩ — għax int, waħdek biss, taf ⟨את⟩ il-qalb ta' wlied il-bniedem kollha.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "u int"
+      "gloss": "U int"
     },
     {
       "surface": "תשמע",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "lil kull bniedem"
+      "gloss": "lil kulħadd"
     },
     {
       "surface": "ככל",
-      "gloss": "skont"
+      "gloss": "skont il-kollha"
     },
     {
       "surface": "דרכיו",
-      "gloss": "triqatu kollha"
+      "gloss": "toroq tiegħu"
     },
     {
       "surface": "אשר",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "תדע",
-      "gloss": "tafha"
+      "gloss": "int tafha"
     },
     {
       "surface": "את",
@@ -108,25 +87,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qalb kulmin hu bniedem"
+      "marks": "il-qalb"
     },
     {
       "surface": "לבב",
-      "gloss": "qalb"
+      "gloss": "il-qalb"
     },
     {
       "surface": "כל",
-      "gloss": "kulmin hu"
+      "gloss": "kollha"
     },
     {
       "surface": "בני",
-      "gloss": "bnedmin"
+      "gloss": "wlied"
     },
     {
       "surface": "האדם",
-      "gloss": "bniedem"
+      "gloss": "il-bniedem"
     }
   ],
-  "timestamp": "2026-10-21T19:05:27.770517539Z",
+  "timestamp": "2026-10-21T23:58:47.853766052Z",
   "model": "glm-5.3"
 }

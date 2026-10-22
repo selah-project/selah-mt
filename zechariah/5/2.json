@@ -5,49 +5,73 @@
   "book": "zechariah",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "עפה",
-      "rationale": "Il-partiċippju עָפָה b'din il-forma deher hawn biss fit-Tanakh; il-kelma tittraskriva s-siġra mitluba fl-1:1 bħala 'titir', mhux 'tinfirex'."
-    }
-  ],
-  "translation": "U qalli: X'sed tara? U jgħid jien: Jien qed nara megila titira; tulha għoxrin ama, u wiesgħatha għaxar ama.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cf4668ac83d70dcaa48aad5b26ecfdeec039a3ac87d17d8ce89d8cad4b30b75c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/zechariah\/5\/1-4.1792616333371.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal lejja: X'inti qed tara? U għidt: Jien qed nara rotlu li jtir, it-tul tiegħu għoxrin amma, u l-wisa' tiegħu għaxar ammi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "אלי",
-      "gloss": "li"
+      "gloss": "lejja"
     },
     {
       "surface": "מה",
-      "gloss": "x'"
+      "gloss": "X'"
     },
     {
       "surface": "אתה",
-      "gloss": "int"
+      "gloss": "inti"
     },
     {
       "surface": "ראה",
-      "gloss": "tara"
+      "gloss": "qed tara"
     },
     {
-      "surface": "ויאמר ... אני",
-      "gloss": "u jgħid jien"
+      "surface": "ואמר",
+      "gloss": "U għidt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jien"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qed nara"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "rotlu"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "li jtir"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "it-tul tiegħu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "għoxrin"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "u l-wisa' tiegħu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "għaxar"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ammi"
     }
   ],
-  "timestamp": "2026-10-21T20:58:53.372446064Z",
+  "timestamp": "2026-10-22T00:51:12.206020087Z",
   "model": "glm-5.3"
 }

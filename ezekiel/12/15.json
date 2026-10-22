@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruwaħ",
-      "rationale": "רוח dejjem 'ruwaħ' — hawn ir-riħ li jxerrred, kelma waħda għal Spirtu\/riħ\/nifs"
-    },
-    {
-      "kind": "addition",
-      "subject": "meta",
-      "rationale": "il-Malti jeħtieġ konġunzjoni għal בה ת.infinitiv b'ma' tifsira temporali"
-    }
-  ],
-  "translation": "U jkunu jafu li jien Jaħwe, meta nparxihom fost il-ġnus u nżerrhom fl-artijiet.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/12\/13-16.1792614329008.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jkunu jafu li jien Jaħwe, meta nfaċċadhom fost il-ġnus u nxerrithom fl-artijiet.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -46,11 +25,12 @@
     },
     {
       "surface": "בהפיצי",
-      "gloss": "meta nparxihom"
+      "gloss": "meta nfaċċadhom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "hom fost il-ġnus"
     },
     {
       "surface": "בגוים",
@@ -58,17 +38,18 @@
     },
     {
       "surface": "וזריתי",
-      "gloss": "u nżerrhom"
+      "gloss": "u nxerrithom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "hom fl-artijiet"
     },
     {
       "surface": "בארצות",
       "gloss": "fl-artijiet"
     }
   ],
-  "timestamp": "2026-10-21T20:25:29.009429145Z",
+  "timestamp": "2026-10-22T00:15:24.692625895Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אם",
-      "rationale": "litteralment 'ki imma' — jaqbdu bħala 'imma' biss; כי אם ma jissawrux"
-    },
-    {
-      "kind": "addition",
-      "subject": "minn",
-      "rationale": "il-Malti jeħtieġ 'minn' quddiem 'id'"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jisrael",
-      "rationale": "indirizz dirett lil-Israel b'tagħkom"
-    }
-  ],
-  "translation": "Imma ⟨את⟩ Jaħwe, Elohim tagħkom, tibżgħu; u Hu jiffranka ⟨את⟩ lilkom minn id l-għedewwa tagħkom kollha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/37-40.1792610575411.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma ⟨את⟩ lil Jaħwe, Elohim tagħkom, tibżgħu minnu, u hu jesilsom mingħand il-idejn ta' l-għedewwa tagħkom kollha.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lil",
       "marks": "Jaħwe"
     },
     {
@@ -56,23 +30,24 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "tibżgħu"
+      "gloss": "tibżgħu minnu"
     },
     {
       "surface": "והוא",
-      "gloss": "u Hu"
+      "gloss": "u hu"
     },
     {
       "surface": "יציל",
-      "gloss": "jiffranka"
+      "gloss": "jesilsom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩",
+      "marks": "lilekom"
     },
     {
       "surface": "מיד",
-      "gloss": "minn id"
+      "gloss": "mingħand il-idejn"
     },
     {
       "surface": "כל",
@@ -83,6 +58,6 @@
       "gloss": "l-għedewwa tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T19:22:55.412326525Z",
+  "timestamp": "2026-10-22T00:04:12.931044918Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "xeqel",
-      "rationale": "Il-Lhudi jgħid biss 'ħamsin fidda'; l-unità xeqel mhux miktuba fil-vers"
-    },
-    {
-      "kind": "substitution",
-      "subject": "imbaxxa",
-      "rationale": "ענה tfisser litteralment 'tqiegħed baxx, fost'; 'dmillha' jew 'tellifha ġurisdizzjoni' huma alternattivi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ħamsin fidda",
-      "rationale": "Somma ta' ħlas determinata: ħamsin xeqel fidda"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Il-konġunzjoni relativa tiġi assorbita f''għax' + it-tmien ta' תחת"
-    }
-  ],
-  "translation": "U r-raġel li rqad magħha jagħti lil missier il-għarfa ħamsin ⟨xeqel⟩ fidda, u hi tkun ⟨għalih⟩ mara, għax imbaxxa lilha; ma jkunux jista' iħarriħa qatt, il-ġranet kollha tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f4f013ef082782703f145225bea70fbe9fcaf7df4c4d123500544406c7779d79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/22\/29-29.1792605746065.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U r-raġel li rkab maħtub ⟨ma⟩ha jagħti lil missier il-għarġur ħamsin xeqel fidda, u hi⟨kienet⟩ tiegħu għal martu, għax ⟨hu⟩ ftiehemha; ma jkunux jista' jibgħattha barranija l-ġranet kollha tiegħu.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "השכב",
-      "gloss": "li rqad"
+      "gloss": "li għedded maħtub"
     },
     {
       "surface": "עמה",
-      "gloss": "magħha"
+      "gloss": "maħtub"
     },
     {
       "surface": "לאבי",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "il-għarfa"
+      "gloss": "il-għarġura"
     },
     {
       "surface": "חמשים",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "fidda"
+      "gloss": "xeqel fidda"
     },
     {
       "surface": "ולו",
@@ -76,11 +45,11 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "tkun"
+      "gloss": "hi tkun"
     },
     {
       "surface": "לאשה",
-      "gloss": "mara"
+      "gloss": "għal martu"
     },
     {
       "surface": "תחת",
@@ -88,15 +57,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "ענה",
-      "gloss": "imbaxxa"
+      "gloss": "ftiehem"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "יוכל",
@@ -104,17 +73,17 @@
     },
     {
       "surface": "שלחה",
-      "gloss": "iħarriħa"
+      "gloss": "jibgħattha"
     },
     {
       "surface": "כל",
-      "gloss": "il-ġranet kollha"
+      "gloss": "kollha"
     },
     {
       "surface": "ימיו",
-      "gloss": "tiegħu"
+      "gloss": "il-ġranet tiegħu"
     }
   ],
-  "timestamp": "2026-10-21T18:02:26.065819522Z",
+  "timestamp": "2026-10-22T00:09:30.474947982Z",
   "model": "glm-5.3"
 }

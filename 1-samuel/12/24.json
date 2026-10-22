@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to Israel",
-      "rationale": "Samuel's exhortation: imperatives 'fear' and 'serve', addressed to the people."
-    },
-    {
-      "kind": "idiom",
-      "subject": "הגדיל עמכם",
-      "rationale": "'he made great with you' — idiom for the great things done among you; rendered literally."
-    }
-  ],
-  "translation": "Biss ibżgħu minn Jaħwe, u servuh b'seqa b'qalbkom kollha; għax rajtu ⟨את⟩ dak li għamel kbir miegħekom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "873a2949fde3a194533b04b2e2d824df6b04b1a20f02b052aa4ed5ded6f1b8b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/12\/24-24.1792623212683.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biss ibżgħu minn Jaħwe, u qegħduh b'semba b'qalbkom kollha, għax rajtu ⟨את⟩ dak li għamel kbir ħafniekom;",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Biss"
+      "gloss": "biss"
     },
     {
       "surface": "יראו",
@@ -47,24 +26,24 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "u servuh"
+      "gloss": "u qegħduh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "lil Jaħwe"
+      "gloss": "⟨אתו⟩",
+      "marks": "b'se mbァ"
     },
     {
       "surface": "באמת",
-      "gloss": "b'seqa"
+      "gloss": "b'sembァ"
     },
     {
       "surface": "בכל",
-      "gloss": "b'"
+      "gloss": "b'… kollha"
     },
     {
       "surface": "לבבכם",
-      "gloss": "qalbkom kollha"
+      "gloss": "qalbkom"
     },
     {
       "surface": "כי",
@@ -89,9 +68,9 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "miegħekom"
+      "gloss": "ħafniekom"
     }
   ],
-  "timestamp": "2026-10-21T22:53:32.683917744Z",
+  "timestamp": "2026-10-21T23:58:40.608275563Z",
   "model": "glm-5.3"
 }

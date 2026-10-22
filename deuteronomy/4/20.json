@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "forn tal-ħadid",
-      "rationale": "מכור הברזל litteralment 'il-forġa\/maħraq tal-ħadid', metafora għall-jasar ta' Mitsrajim"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Israel",
-      "rationale": "indirizz dirett lil Israel bħala poplu mħares b'wirt"
-    }
-  ],
-  "translation": "U lilkom ħa Jaħwe u ħarġekom mill-forn tal-ħadid, minn Mitsrajim, biex tkunu għalih poplu ta' wirt, daqs-lum.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/4\/17-20.1792605354076.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lilkom ħa' Jaħwe, u joħroġkom mill-fran tal-ħadid, minn Mitsrajim, biex tkunu għalih għal-poplu ta' wirt, bħal dak li huwa llum.",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "U ⟨את⟩ lilkom",
-      "marks": "ħa"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "ħa' Jaħwe"
     },
     {
       "surface": "לקח",
-      "gloss": "ħa"
+      "gloss": "ħa'"
     },
     {
       "surface": "יהוה",
@@ -43,16 +22,16 @@
     },
     {
       "surface": "ויוצא",
-      "gloss": "u ħarġekom"
+      "gloss": "u joħroġ"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ lilkom",
-      "marks": "ħarġekom"
+      "marks": "mill-fran tal-ħadid"
     },
     {
       "surface": "מכור",
-      "gloss": "mill-forn"
+      "gloss": "mill-fran"
     },
     {
       "surface": "הברזל",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "poplu"
+      "gloss": "għal-poplu"
     },
     {
       "surface": "נחלה",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "daqs-lum"
+      "gloss": "bħal dak li huwa llum"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "llum"
     }
   ],
-  "timestamp": "2026-10-21T17:55:54.077819226Z",
+  "timestamp": "2026-10-22T00:11:14.948743327Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "din (it-tieni)",
-      "rationale": "l-istruttura ta' אשובה hija żewġ ”din” għal ċertezza; miżjuda bil-Malti biex il-ħila tal-lum tifżaħ"
-    },
-    {
-      "kind": "elision",
-      "subject": "לך",
-      "gloss": "prepożizzjoni għad-dittanza l-Malti jiddisserita; ma għandhiex kliem separat"
-    }
-  ],
-  "translation": "U qal: X'nagħtik? U Jagħaqov qal: Tagħtini xejn; jekk tagħmel lili din il-ħaġa, din, nerġa' nirgħa nagħaġtek, inħares.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "fa57f945753fbbb915c8e78712f474a8732ee2b237c69626914d1d3cf9d0e5e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/30\/29-32.1792598516163.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal: X'nagħtik? U Jagħaqov qal: Tagħtini xejn; jekk tagħmel lili din il-ħaġa, ⟨jien⟩ nerġa' nkun, nirgħa' l-merħla tiegħek u nħarishha.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "מה",
-      "gloss": "x'"
+      "gloss": "X'"
     },
     {
       "surface": "אתן",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "lilek"
     },
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "U qal"
     },
     {
       "surface": "יעקב",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "Tagħti... le"
     },
     {
       "surface": "תתן",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "li"
+      "gloss": "lili"
     },
     {
       "surface": "מאומה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "din il-ħaġa"
+      "gloss": "il-ħaġa"
     },
     {
       "surface": "הזה",
@@ -90,21 +69,21 @@
     },
     {
       "surface": "אשובה",
-      "gloss": "nerġa'"
+      "gloss": "nerġa' nkun"
     },
     {
       "surface": "ארעה",
-      "gloss": "nirgħa"
+      "gloss": "nirgħa'"
     },
     {
       "surface": "צאנך",
-      "gloss": "nagħaġtek"
+      "gloss": "l-merħla tiegħek"
     },
     {
       "surface": "אשמר",
-      "gloss": "inħares"
+      "gloss": "nħarishha"
     }
   ],
-  "timestamp": "2026-10-21T16:01:56.164688097Z",
+  "timestamp": "2026-10-22T00:22:14.788646170Z",
   "model": "glm-5.3"
 }

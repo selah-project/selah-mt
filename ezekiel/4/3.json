@@ -5,57 +5,36 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pjanċa",
-      "rationale": "מחבת hija friża tat-tajn għall-ħami — mhux 'pann' tal-kċina biss."
-    },
-    {
-      "kind": "crux",
-      "subject": "סימbolu",
-      "rationale": "l-att simboliku kollu (brikka, ħajt tal-ħadid, mipħa) huwa אות — sinjal attwali għal dar Jisrael, mhux biss il-ġraja."
-    }
-  ],
-  "translation": "U int, ħud ⟨għalik⟩ pjanċa tal-ħadid, u għamilha ħajt tal-ħadid bejnieth u bejn il-belt, u ħejjej ⟨את⟩ wiċċek lejha, u tkun f'assedju, u assedjaha; sinjal hi għal dar Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/4\/1-4.1792614089921.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int ħu għalik maħbat ta' ħadid, u għamiltha ħajt ta' ħadid bejnek u bejn il-belt, u wħadd il-wiċċ ⟨את⟩ tiegħek lejha, u tinsab f'assedju, u assedjaha; hija sinjal għal dar Jisrael.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "u int"
+      "gloss": "U int"
     },
     {
       "surface": "קח",
-      "gloss": "ħud"
+      "gloss": "ħu"
     },
     {
       "surface": "לך",
-      "gloss": "⟨għalik⟩"
+      "gloss": "għalik"
     },
     {
       "surface": "מחבת",
-      "gloss": "pjanċa"
+      "gloss": "maħbat"
     },
     {
       "surface": "ברזל",
-      "gloss": "tal-ħadid"
+      "gloss": "ta' ħadid"
     },
     {
       "surface": "ונתתה",
-      "gloss": "u għamilha"
+      "gloss": "u għamiltha"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "ħajt"
+      "marks": "ħajt ta' ħadid"
     },
     {
       "surface": "קיר",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "ברזל",
-      "gloss": "tal-ħadid"
+      "gloss": "ta' ħadid"
     },
     {
       "surface": "בינך",
-      "gloss": "bejnieth"
+      "gloss": "bejnek"
     },
     {
       "surface": "ובין",
@@ -79,16 +58,16 @@
     },
     {
       "surface": "והכינתה",
-      "gloss": "u ħejjej"
+      "gloss": "u wħadd"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wiċċek"
+      "marks": "il-wiċċ tiegħek"
     },
     {
       "surface": "פניך",
-      "gloss": "wiċċek"
+      "gloss": "il-wiċċ tiegħek"
     },
     {
       "surface": "אליה",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "u tkun"
+      "gloss": "u tinsab"
     },
     {
       "surface": "במצור",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "fuqha"
+      "gloss": "lejha"
     },
     {
       "surface": "אות",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "hi"
+      "gloss": "hija"
     },
     {
       "surface": "לבית",
@@ -127,6 +106,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T20:21:29.922286754Z",
+  "timestamp": "2026-10-22T00:19:11.670189202Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,24 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "żewġt naħat",
-      "rationale": "għadd dettaljat: żewġ naħat biss tal-miżbeaħ, għat-trasport"
-    },
-    {
-      "kind": "addition",
-      "subject": "meta jiġi",
-      "rationale": "il-וְהוּבָא passiv: il-Malti jeħtieġ 'meta' għal בשאת infinitiv"
-    }
-  ],
-  "translation": "U d-daħħal ⟨את⟩ il-bastuni tiegħu fiċ-ċrieki, u l-bastuni jkunu fuq iż-żewġt naħat tal-miżbeaħ, meta jiġi mġorru.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/27\/5-8.1792599931461.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ il-pannier tiegħu jitpoġġew fit-tbajja', u l-pannier jkunu fuq iż-żewġt naħat tal-imsedaq meta jiġu mġerrma ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "והובא",
-      "gloss": "U d-daħħal"
+      "gloss": "jitpoġġew"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-bastuni tiegħu"
+      "marks": "il-pannier tiegħu"
     },
     {
       "surface": "בדיו",
-      "gloss": "il-bastuni tiegħu"
+      "gloss": "il-pannier tiegħu"
     },
     {
       "surface": "בטבעת",
-      "gloss": "fiċ-ċrieki"
+      "gloss": "fit-tbajja'"
     },
     {
       "surface": "והיו",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "הבדים",
-      "gloss": "il-bastuni"
+      "gloss": "il-pannier"
     },
     {
       "surface": "על",
@@ -67,18 +46,18 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "tal-miżbeaħ"
+      "gloss": "tal-imsedaq"
     },
     {
       "surface": "בשאת",
-      "gloss": "meta jiġi mġorr"
+      "gloss": "meta jiġu mġerrma"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ -u (lil tiegħu)",
-      "marks": "il-miżbeaħ"
+      "gloss": "⟨אתו⟩",
+      "marks": "l-imsedaq (imbiegħed bil-vozz 'il-hu')"
     }
   ],
-  "timestamp": "2026-10-21T16:25:31.462499417Z",
+  "timestamp": "2026-10-22T00:13:31.676986964Z",
   "model": "glm-5.3"
 }

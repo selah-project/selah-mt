@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "il-",
-      "rationale": "l-artiklu Malti meħtieġ għal דרכו bil-kostruzzjoni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רשעתו\/רשע",
-      "rationale": "l-istess għerq רשע darbtejn — fil-ħażin hemm il-ħażen tiegħu nnifsu"
-    }
-  ],
-  "translation": "It-tsedeq tat-tamim jagħmel ⟨il⟩-triqtu dritta, u bir-rishʿtu jaqa' l-ħażin.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/11\/5-8.1792618545440.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "It-tsedeq tal-<tämiym>bl-imsemmi<\/tämiym> timlek triqatu dritta, u bir-risha' tiegħu jaqa' ir-xaħin.",
   "tokens": [
     {
       "surface": "צדקת",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "תמים",
-      "gloss": "tat-tamim"
+      "gloss": "tamil (ta' sħiħa)"
     },
     {
       "surface": "תישר",
-      "gloss": "jagħmel dritta"
+      "gloss": "timlek dritta"
     },
     {
       "surface": "דרכו",
-      "gloss": "triqtu"
+      "gloss": "triqatu"
     },
     {
       "surface": "וברשעתו",
-      "gloss": "u bir-rishʿtu"
+      "gloss": "u bir-risha' tiegħu"
     },
     {
       "surface": "יפל",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "רשע",
-      "gloss": "l-ħażin"
+      "gloss": "ir-xaħin"
     }
   ],
-  "timestamp": "2026-10-21T21:35:45.441228575Z",
+  "timestamp": "2026-10-22T00:48:03.238232563Z",
   "model": "glm-5.3"
 }

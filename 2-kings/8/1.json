@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "קרא יהוה לרעב",
-      "rationale": "litteralment 'Jaħwe sejjaħ għall-ġuħ' — il-ġuħ qieghed jitmexxa lejha bħal min jissejjaħ"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וגורי \/ תגורי",
-      "rationale": "għerq wieħed għal darbtejn — 'toqgħod fejn toqgħod' — ir-repetizzjoni mitlusa"
-    },
-    {
-      "kind": "alternative",
-      "subject": "בא",
-      "rationale": "'u ġie diġà fuq l-art' (BSB) kontra futur 'se jiġi' — l-perfett Ebrajk b'valur profetiku"
-    }
-  ],
-  "translation": "U Eliseu tkellem mal-mara li ⟨את⟩ binha kien vvivifika, jgħid: Qumu—le, qum, u mur, inti u darek, u toqgħod bħala barrani fejn tista' toqgħod, għax Jaħwe sejjaħ għall-ġuħ, u se niġilha l-art għal seba' snin.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/1-4.1792610247190.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Elisxa tkellem mal-mara li raħħaħ lil ⟨את⟩ binha, jgħidilha: Qum, u mur int u familjek, u għomor fejn togħmor, għax Jaħwe sejjaħ għall-ġuħ, u ġie ukoll fuq l-art seba' snin.",
   "tokens": [
     {
       "surface": "ואלישע",
-      "gloss": "U Eliseu"
+      "gloss": "U Elisxa"
     },
     {
       "surface": "דבר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "mal-"
+      "gloss": "ma'"
     },
     {
       "surface": "האשה",
-      "gloss": "mara"
+      "gloss": "il-mara"
     },
     {
       "surface": "אשר",
@@ -55,12 +29,12 @@
     },
     {
       "surface": "החיה",
-      "gloss": "vvivifika"
+      "gloss": "raħħaħ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "binha"
+      "marks": "lil binha"
     },
     {
       "surface": "בנה",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jgħid"
+      "gloss": "jgħidilha"
     },
     {
       "surface": "קומי",
-      "gloss": "qum"
+      "gloss": "Qum"
     },
     {
       "surface": "ולכי",
@@ -80,15 +54,15 @@
     },
     {
       "surface": "אתי",
-      "gloss": "inti"
+      "gloss": "int"
     },
     {
       "surface": "וביתך",
-      "gloss": "u darek"
+      "gloss": "u familjek"
     },
     {
       "surface": "וגורי",
-      "gloss": "u toqgħod bħala barrani"
+      "gloss": "u għomor"
     },
     {
       "surface": "באשר",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "תגורי",
-      "gloss": "tista' toqgħod"
+      "gloss": "togħmor"
     },
     {
       "surface": "כי",
@@ -116,19 +90,19 @@
     },
     {
       "surface": "וגם",
-      "gloss": "u"
+      "gloss": "u ukoll"
     },
     {
       "surface": "בא",
-      "gloss": "se niġilha"
+      "gloss": "ġie"
     },
     {
       "surface": "אל",
-      "gloss": "lil-"
+      "gloss": "fuq"
     },
     {
       "surface": "הארץ",
-      "gloss": "art"
+      "gloss": "l-art"
     },
     {
       "surface": "שבע",
@@ -139,6 +113,6 @@
       "gloss": "snin"
     }
   ],
-  "timestamp": "2026-10-21T19:17:27.190911811Z",
+  "timestamp": "2026-10-22T01:49:56.133902546Z",
   "model": "glm-5.3"
 }

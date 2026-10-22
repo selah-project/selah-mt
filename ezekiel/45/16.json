@@ -5,66 +5,45 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kemm huma",
-      "rationale": "costruzzjoni Maltija għall-emfasi ta' כל"
-    },
-    {
-      "kind": "alternative",
-      "subject": "jkunu għal",
-      "rationale": "אל עם 'jongħtu lil' — 'jnghataw għal' jew 'jingħataw għan-nasi', il-verb 'agħti' ma ġiex minim"
-    }
-  ],
-  "translation": "Kollha kemm huma nies l-art jkunu għal din it-teruma, għan-nasi f'Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e6a3873cc30c0d6a5ad9be35340372f75737db3e4d7c0efd5165f398a82f243a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/45\/13-16.1792615271564.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kollha kemm huma l-poplu tal-art ikunu ⟨għal⟩ din it-teruma, għan-naġi f'Jisrael.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Kollha kemm huma"
+      "gloss": "kollha"
     },
     {
       "surface": "העם",
-      "gloss": "nies"
+      "gloss": "il-poplu"
     },
     {
       "surface": "הארץ",
-      "gloss": "l-art"
+      "gloss": "tal-art"
     },
     {
       "surface": "יהיו",
-      "gloss": "jkunu"
+      "gloss": "ikunu"
     },
     {
       "surface": "אל",
-      "gloss": "għal"
+      "gloss": "⟨għal⟩"
     },
     {
       "surface": "התרומה",
-      "gloss": "din it-teruma"
+      "gloss": "it-teruma"
     },
     {
       "surface": "הזאת",
-      "gloss": ""
+      "gloss": "din"
     },
     {
       "surface": "לנשיא",
-      "gloss": "għan-nasi"
+      "gloss": "għan-naġi"
     },
     {
       "surface": "בישראל",
       "gloss": "f'Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T20:41:11.565973297Z",
+  "timestamp": "2026-10-22T00:18:53.571481640Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dawk maqtula",
-      "rationale": "חלל literally 'pierced ones'; Maltese 'maqtula' loses the piercing image"
-    },
-    {
-      "kind": "addition",
-      "subject": "il-",
-      "rationale": "Maltese definite article supplied where Hebrew has none, e.g. 'l-biża''"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "concessive 'għax' covers 'though\/because'; KJV 'though', JPS 'because'"
-    }
-  ],
-  "translation": "F'nofs dawk maqtula taw għaliha sodda, ma' kolla l-merħla tagħha; madwarha l-oqbra tagħha: dawn kollha mhux iċċirkonċiżi, maqtul bis-sejf, għax ġiet mgħoddija l-biża' tagħhom fl-art tal-ħajjin, u ġarrew l-għajb tagħhom ma' ⟨dawk li jinżlu għall-ħofra⟩; f'nofs dawk maqtula tqiegħed.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "82a00bd8dc6e7436d702f41df01bc06e25de963cad477db0beef8808b10cf47f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/32\/25-28.1792614985493.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "F'nofs il-maqtula ntuġħ lilha sodda mal-folla tagħha kollha; madwarha l-oqbra tagħha; huma kollha mhux iċċirkonċiżi, midluqa bix-xabla, għax inkien mogħti ż-żela tagħhom fl-art tal-ħajjin, u ġarrbu l-għajb tagħhom ma' ⟨את⟩ dawk li jinżlu fil-bir; f'nofs il-maqtula ntqiegħed.",
   "tokens": [
     {
       "surface": "בתוך",
-      "gloss": "f'nofs"
+      "gloss": "F'nofs"
     },
     {
       "surface": "חללים",
-      "gloss": "dawk maqtula"
+      "gloss": "il-maqtula"
     },
     {
       "surface": "נתנו",
-      "gloss": "taw"
+      "gloss": "ntuġħ"
     },
     {
       "surface": "משכב",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "לה",
-      "gloss": "għaliha"
+      "gloss": "lilha"
     },
     {
       "surface": "בכל",
-      "gloss": "ma' kollu"
+      "gloss": "ma' ... kollha"
     },
     {
       "surface": "המונה",
-      "gloss": "il-merħla tagħha"
+      "gloss": "il-folla tagħha"
     },
     {
       "surface": "סביבותיו",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "כלם",
-      "gloss": "dawn kollha"
+      "gloss": "huma kollha"
     },
     {
       "surface": "ערלים",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "חללי",
-      "gloss": "maqtul"
+      "gloss": "midluqa"
     },
     {
       "surface": "חרב",
-      "gloss": "bis-sejf"
+      "gloss": "bix-xabla"
     },
     {
       "surface": "כי",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "ġiet mgħoddija"
+      "gloss": "inkien mogħti"
     },
     {
       "surface": "חתיתם",
-      "gloss": "l-biża' tagħhom"
+      "gloss": "ż-żela tagħhom"
     },
     {
       "surface": "בארץ",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "u ġarrew"
+      "gloss": "u ġarrbu"
     },
     {
       "surface": "כלמתם",
@@ -116,15 +90,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawk li jinżlu għall-ħofra"
+      "marks": "dawk li jinżlu fil-bir"
     },
     {
       "surface": "יורדי",
-      "gloss": "dawk li jinżlu"
+      "gloss": "li jinżlu"
     },
     {
       "surface": "בור",
-      "gloss": "għall-ħofra"
+      "gloss": "fil-bir"
     },
     {
       "surface": "בתוך",
@@ -132,13 +106,13 @@
     },
     {
       "surface": "חללים",
-      "gloss": "dawk maqtula"
+      "gloss": "il-maqtula"
     },
     {
       "surface": "נתן",
-      "gloss": "tqiegħed"
+      "gloss": "intqiegħed"
     }
   ],
-  "timestamp": "2026-10-21T20:36:25.493956289Z",
+  "timestamp": "2026-10-22T00:18:29.192005129Z",
   "model": "glm-5.3"
 }

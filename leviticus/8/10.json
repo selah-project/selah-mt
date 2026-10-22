@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "Il-marka ta' oġġett suffissata nħarġet bħala suffiss '-hom' fuq il-verb, għax il-Malti m'għandux marka separat għalih."
-    },
-    {
-      "kind": "substitution",
-      "subject": "qaddas",
-      "rationale": "ויקדש: 'qaddas' żżomm il-għerq קדש qarib tal-Lhudi, mhux 'ikkonsagra' ġeneriku."
-    }
-  ],
-  "translation": "U ħa Moxe ⟨את⟩ żejt l-għarsi, u massaħ ⟨את⟩ il-Mixkan u ⟨את⟩ kollox li fih, u qaddashom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/9-12.1792600636219.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe ħa ⟨את⟩ żejt il-mixħin u mixħa ⟨את⟩ il-Mixkan u ⟨את⟩ kollox li fih, u qaddeshom.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "U ħa"
+      "gloss": "u ħa"
     },
     {
       "surface": "משה",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "żejt l-għarsi"
+      "marks": "żejt il-mixħin"
     },
     {
       "surface": "שמן",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "l-għarsi"
+      "gloss": "il-mixħin"
     },
     {
       "surface": "וימשח",
-      "gloss": "u massaħ"
+      "gloss": "u mixħa"
     },
     {
       "surface": "את",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u ⟨את⟩",
       "marks": "kollox li fih"
     },
     {
@@ -81,7 +60,7 @@
     },
     {
       "surface": "ויקדש",
-      "gloss": "u qaddas"
+      "gloss": "u qaddes"
     },
     {
       "surface": "אתם",
@@ -89,6 +68,6 @@
       "marks": "il-Mixkan u kollox li fih"
     }
   ],
-  "timestamp": "2026-10-21T16:37:16.220555211Z",
+  "timestamp": "2026-10-22T00:42:33.215681293Z",
   "model": "glm-5.3"
 }

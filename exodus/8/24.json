@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הַרְחֵק \/ תַּרְחִיקוּ",
-      "rationale": "Infinitiv assolut u verb mill-istess għerq רחק jippromulgar 'trabbarx trabbu': tnaqqis ta' saħħa retorika li l-Malti jipprova jżommha b'repetiżjoni ta' 'trabbarx\/trabbarx wisat'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "הַעְתִּירוּ בַּעֲדִי",
-      "rationale": "Lit. 'interċedu għalija' — Faragħon jistaqsi lil Moxe biex jitlob lil Jaħwe għalih, mhux sempliċiment 'itolbu'."
-    }
-  ],
-  "translation": "U Faragħon qal: Jiena nibgħatkom, u tissagrwu lil Jaħwe, Elohim tagħkom, fid-deżert; biss trabbarx wisat 'il bogħod biex tmorru; itolbu għalija.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/8\/21-24.1792599390525.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Farġun qal: Jien nibgħat lilkom ⟨את⟩ biex twieħbu sagrifiċċju lil Jaħwe, Elohim tagħkom, fid-deżert; biss it-tbiegħid — la tbiegħdux wisq biex tmorru. Itolbu għalija.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Faragħon"
+      "gloss": "Farġun"
     },
     {
       "surface": "אנכי",
-      "gloss": "jiena"
+      "gloss": "Jien"
     },
     {
       "surface": "אשלח",
@@ -46,11 +25,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩",
+      "marks": "lilkom biex twieħbu sagrifiċċju"
     },
     {
       "surface": "וזבחתם",
-      "gloss": "u tissagrwu"
+      "gloss": "biex twieħbu sagrifiċċju"
     },
     {
       "surface": "ליהוה",
@@ -70,15 +50,15 @@
     },
     {
       "surface": "הרחק",
-      "gloss": "trabbarx"
+      "gloss": "it-tbiegħid"
     },
     {
       "surface": "לא",
-      "gloss": "mhux"
+      "gloss": "la"
     },
     {
       "surface": "תרחיקו",
-      "gloss": "wisat 'il bogħod"
+      "gloss": "tbiegħdux wisq"
     },
     {
       "surface": "ללכת",
@@ -86,13 +66,13 @@
     },
     {
       "surface": "העתירו",
-      "gloss": "itolbu"
+      "gloss": "Itolbu"
     },
     {
       "surface": "בעדי",
       "gloss": "għalija"
     }
   ],
-  "timestamp": "2026-10-21T16:16:30.527091078Z",
+  "timestamp": "2026-10-22T00:15:10.442600537Z",
   "model": "glm-5.3"
 }

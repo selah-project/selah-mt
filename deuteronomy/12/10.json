@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "twirtu",
-      "rationale": "il-infinitiv מנחיל ġie mibni b'suffiss għal ċarjetà fil-Malti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מנחיל\/הניח",
-      "rationale": "għerq n-ħ-l wieħed: jagħti wirt u jagħti mistrieħ — jintilef fil-Malti"
-    }
-  ],
-  "translation": "U taqsmu ⟨את⟩ l-Ġordan, u toqogħdu fl-art li Jaħwe, l-Elohim tagħkom, qed jagħtikom twirtu, u jagħtikom mistrieħ minn kul-l-għedewwa tagħkom minn madwar, u toqogħdu bla biża'.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/12\/9-12.1792605602995.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U taqsmu ⟨את⟩ il-Ġordan, u toqogħdu fl-art li Jaħwe, Elohim tagħkom, qiegħed jagħti ⟨את⟩ lilkom b'wirt, u jagħtikom mrieħa minn kulennemgħadu tagħkom minn kullimkien madwarkom, u toqogħdu b'sigurtà.",
   "tokens": [
     {
       "surface": "ועברתם",
-      "gloss": "U taqsmu"
+      "gloss": "u taqsmu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-Ġordan"
+      "marks": "il-Ġordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "l-Ġordan"
+      "gloss": "il-Ġordan"
     },
     {
       "surface": "וישבתם",
@@ -59,35 +38,36 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "l-Elohim tagħkom"
+      "gloss": "Elohim tagħkom"
     },
     {
       "surface": "מנחיל",
-      "gloss": "jagħtikom twirtu"
+      "gloss": "qiegħed jagħti b'wirt"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "il-wirt tal-art"
     },
     {
       "surface": "והניח",
-      "gloss": "u jagħtikom mistrieħ"
+      "gloss": "u jagħtikom mrieħa"
     },
     {
       "surface": "לכם",
-      "gloss": "kom"
+      "gloss": "lilkom"
     },
     {
       "surface": "מכל",
-      "gloss": "minn kul-"
+      "gloss": "minn kull"
     },
     {
       "surface": "איביכם",
-      "gloss": "l-għedewwa tagħkom"
+      "gloss": "għedewwa tagħkom"
     },
     {
       "surface": "מסביב",
-      "gloss": "minn madwar"
+      "gloss": "madwarkom"
     },
     {
       "surface": "וישבתם",
@@ -95,9 +75,9 @@
     },
     {
       "surface": "בטח",
-      "gloss": "bla biża'"
+      "gloss": "b'sigurtà"
     }
   ],
-  "timestamp": "2026-10-21T18:00:02.997369106Z",
+  "timestamp": "2026-10-22T00:09:16.818004201Z",
   "model": "glm-5.3"
 }

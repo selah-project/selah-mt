@@ -5,42 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "il-Lhudi m'għandux kopula fil-“jissemgħa bilqiegħda”"
-    },
-    {
-      "kind": "crux",
-      "subject": "iben il-qattil",
-      "rationale": "בן המרצח: “iben il-qattil” (il-milja ta' Ħażael? jew is-sultan) kontra BSB “dan il-qattil” bla “iben”"
-    },
-    {
-      "kind": "substitution",
-      "subject": "zgħiduh",
-      "rationale": "לחץ literalment “għafas\/pressa” — fil-bieb, “żommuh imdaħħal fil-bieb”"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-anzjani",
-      "rationale": "diskors dirett ta' Eliseu lill-anzjani b'imperattivi (araw, agħlqu) u mistoqsija"
-    }
-  ],
-  "translation": "U Eliseu ⟨kien⟩ bilqiegħda f'daru, u l-anzjani bilqiegħda miegħu; u bagħat raġel minn quddiemu, qabel ma jasal il-messaġġier għandu; u hu qal lill-anzjani: Araw li dan iben il-qattil bagħat biex ineħħi ⟨את⟩ rasi; araw, meta jidħol il-messaġġier, agħlqu l-bieb, u zgħiduh fil-bieb — hux il-ħoss ta' saqajn sidu warajh?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6159a98a1e0689623c1d6eb5a0c2ce326a74a67009fe94fb96770c6b2d8a91f2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/6\/32-32.1792623360080.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Elisja ⟨kien⟩ bilqiegħda f'darhu, u l-kbar bilqiegħdin ⟨את⟩ magħtu; u bagħat raġel minn quddiemu, qabel ma jiġi l-messaġġier għandu, u hu qal lill-kbar: Rajtu li dan iben il-qattil bagħat biex in-neħħi ⟨את⟩ rasi? Ara, meta jiġi l-messaġġier, agħlqu l-bieb u zommu ⟨את⟩ fil-bieb: Mhux il-ħoss ta' riġlejn sidu warajh?",
   "tokens": [
     {
       "surface": "ואלישע",
-      "gloss": "U Eliseu"
+      "gloss": "U Elisja"
     },
     {
       "surface": "ישב",
@@ -48,19 +17,19 @@
     },
     {
       "surface": "בביתו",
-      "gloss": "f'daru"
+      "gloss": "f'darhu"
     },
     {
       "surface": "והזקנים",
-      "gloss": "u l-anzjani"
+      "gloss": "u l-kbar"
     },
     {
       "surface": "ישבים",
-      "gloss": "bilqiegħda"
+      "gloss": "bilqiegħdin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩ magħtu"
     },
     {
       "surface": "וישלח",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "jasal"
+      "gloss": "jiġi"
     },
     {
       "surface": "המלאך",
@@ -100,15 +69,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "lil"
+      "gloss": "lil-"
     },
     {
       "surface": "הזקנים",
-      "gloss": "l-anzjani"
+      "gloss": "l-kbar"
     },
     {
       "surface": "הראיתם",
-      "gloss": "araw"
+      "gloss": "Rajtu"
     },
     {
       "surface": "כי",
@@ -132,7 +101,7 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "biex ineħħi"
+      "gloss": "biex in-neħħi"
     },
     {
       "surface": "את",
@@ -145,11 +114,11 @@
     },
     {
       "surface": "ראו",
-      "gloss": "araw"
+      "gloss": "Ara"
     },
     {
       "surface": "כבא",
-      "gloss": "meta jidħol"
+      "gloss": "meta jiġi"
     },
     {
       "surface": "המלאך",
@@ -165,12 +134,12 @@
     },
     {
       "surface": "ולחצתם",
-      "gloss": "u zgħiduh"
+      "gloss": "u zommu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "lilu (il-messaġġier)"
+      "gloss": "⟨את⟩",
+      "marks": "fil-bieb"
     },
     {
       "surface": "בדלת",
@@ -178,7 +147,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "hux"
+      "gloss": "Mhux"
     },
     {
       "surface": "קול",
@@ -186,7 +155,7 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "ta' saqajn"
+      "gloss": "ta' riġlejn"
     },
     {
       "surface": "אדניו",
@@ -197,6 +166,6 @@
       "gloss": "warajh"
     }
   ],
-  "timestamp": "2026-10-21T22:56:00.081724273Z",
+  "timestamp": "2026-10-22T00:05:37.461758273Z",
   "model": "glm-5.3"
 }

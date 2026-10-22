@@ -5,38 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פחז כמים",
-      "rationale": "'frota bħall-ilma' kontra 'instabbli bħall-ilma' — il-Malti 'mżejjġ' jaqbad it-tnejn"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עלית ... עלה",
-      "gloss": "",
-      "rationale": "il-verb 'tlugħ' jirrepeti biex jgħallem il-ħtija ta' Ruben"
-    },
-    {
-      "kind": "alternative",
-      "subject": "seftaħ fuq sodi",
-      "rationale": "עלה fil-finish jista' jkun parti mill-ħsieb: 'għoli tela'' — iżda l-qari bħala deskrizzjoni tal-azzjoni jifforma chiasm mal-bidu tal-vers"
-    }
-  ],
-  "translation": "Mżejjġ bħall-ilma, ma tistax tibqa' l-ewwel, għax tilgħejt fuq sod missierek; imbagħad xlejtha — seftaħ fuq sodi.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/49\/1-4.1792599156513.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Froth bħall-ilma ma għandux jibqa' jiżdied, għaliex int tlugħt fuq l-imkien ta' rakta ta' missierek; għalhekk int iġġlissxlejt ⟨את⟩ rażani — hu li tela' fuq sodda jiena.",
   "tokens": [
     {
-      "surface": "пחז",
-      "gloss": "Mżejjġ"
+      "surface": "פחז",
+      "gloss": "froth"
     },
     {
       "surface": "כמים",
@@ -44,45 +17,45 @@
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ma… jibqa'"
     },
     {
       "surface": "תותר",
-      "gloss": "tistax tibqa' l-ewwel"
+      "gloss": "jiżdied"
     },
     {
       "surface": "כי",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "עלית",
-      "gloss": "tilgħejt"
+      "gloss": "int tlugħt"
     },
     {
       "surface": "משכבי",
-      "gloss": "fuq sod"
+      "gloss": "l-imkien ta' rakta"
     },
     {
       "surface": "אביך",
-      "gloss": "missierek"
+      "gloss": "ta' missierek"
     },
     {
       "surface": "אז",
-      "gloss": "imbagħad"
+      "gloss": "għalhekk"
     },
     {
       "surface": "חללת",
-      "gloss": "xlejtha"
+      "gloss": "int iġġlissxlejt"
     },
     {
       "surface": "יצועי",
-      "gloss": "sodi"
+      "gloss": "rażani"
     },
     {
       "surface": "עלה",
-      "gloss": "seftaħ"
+      "gloss": "tela'"
     }
   ],
-  "timestamp": "2026-10-21T16:12:36.514348039Z",
+  "timestamp": "2026-10-22T00:24:17.632865408Z",
   "model": "glm-5.3"
 }

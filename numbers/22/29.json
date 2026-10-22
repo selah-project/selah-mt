@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התעלללת",
-      "rationale": "hitpael ta' עלל: 'tlagħbekti\/abuzajt bik' kontra KJV 'mocked' u YLT 'rolled thyself'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לו יש",
-      "rationale": "ħolma: 'li kien hemm...' għalix 'li jkun hemm'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרב",
-      "rationale": "Balagħam ixtet xabla li ma għandux; f'vers 31 l-anġlu bil-xabla miċċarra f'idejh"
-    }
-  ],
-  "translation": "U Balagħam qal lill-ħmara: Għaliex tlagħbekti biya? Li kien hemm xabla f'idi, kif ġie m issa qtajtk!",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bce836cf692ace5da97acc02a3533a472ce87e23867afd01549cefb36a5ec027",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/22\/29-32.1792603163320.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Balagħam qal lill-ħmara: Għax daħkt bija; jekk kellni xabla f'idejn, sa issa kont qatlitek.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "qal"
     },
     {
       "surface": "בלעם",
@@ -47,23 +21,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "התעללת",
-      "gloss": "tlagħbekti"
+      "gloss": "daħkt"
     },
     {
       "surface": "בי",
-      "gloss": "biya"
+      "gloss": "bija"
     },
     {
       "surface": "לו",
-      "gloss": "li"
+      "gloss": "jekk"
     },
     {
       "surface": "יש",
-      "gloss": "kien hemm"
+      "gloss": "kellni"
     },
     {
       "surface": "חרב",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "בידי",
-      "gloss": "f'idi"
+      "gloss": "f'idejn"
     },
     {
       "surface": "כי",
-      "gloss": "kif ġie m"
+      "gloss": "sa"
     },
     {
       "surface": "עתה",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "הרגתיך",
-      "gloss": "qtajtk"
+      "gloss": "kont qatlitek"
     }
   ],
-  "timestamp": "2026-10-21T17:19:23.323394970Z",
+  "timestamp": "2026-10-22T00:44:50.281207460Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨sija⟩",
-      "rationale": "il-Malti jrid il-verbu 'jkun' fil-berka; l-Lhudi ma għandux kopula."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "suffess akkussattiv mehmuż ma' את; mgħarraf bil-verbu 'ħeliskom'."
-    }
-  ],
-  "translation": "U Jitro qal: Imbierek ⟨sija⟩ Jaħwe, li ħeliskom mill-id ta' Mitsrajim u mill-id ta' Paroh, hu li ħeles lil-poplu ⟨את⟩ minn taħt id Mitsrajim.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/18\/9-12.1792599649254.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jitro qal: Imbierek Jaħwe, li ħelis ⟨את⟩ lilkomom mid-id ta' Mitsrajim u mid-id ta' Paroh, li ħelis ⟨את⟩ lil-poplu minn taħt id-id ta' Mitsrajim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "יתרו",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "הציל",
-      "gloss": "ħeliskom"
+      "gloss": "ħelis"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩ lilkomom"
     },
     {
       "surface": "מיד",
-      "gloss": "mill-id"
+      "gloss": "mid-id"
     },
     {
       "surface": "מצרים",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ומיד",
-      "gloss": "u mill-id"
+      "gloss": "u mid-id"
     },
     {
       "surface": "פרעה",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "הציל",
-      "gloss": "ħeles"
+      "gloss": "ħelis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil-poplu"
+      "marks": "il-poplu"
     },
     {
       "surface": "העם",
-      "gloss": "lil-poplu"
+      "gloss": "il-poplu"
     },
     {
       "surface": "מתחת",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "יד",
-      "gloss": "id"
+      "gloss": "id-id"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrajim"
+      "gloss": "ta' Mitsrajim"
     }
   ],
-  "timestamp": "2026-10-21T16:20:49.255851085Z",
+  "timestamp": "2026-10-22T00:12:14.761569455Z",
   "model": "glm-5.3"
 }

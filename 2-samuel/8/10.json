@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hemm",
-      "rationale": "il-Malti jeħtieġ 'hemm' għal היו ta' pos.sessjoni"
-    },
-    {
-      "kind": "crux",
-      "subject": "raġel ta' gwerer",
-      "rationale": "איש מלחמות: KJV 'had wars with Toi' kontra l-qari liturali 'raġel ta' gwerer għal Toi kien Ħadadezer'"
-    }
-  ],
-  "translation": "U Toi bagħat ⟨את⟩ lil Joram, ibnu, għand is-sultan David, biex jistaqsilu għas-sliem u jbierku, għaliex ġieġled ma' Ħadadezer u ħabtu; għax raġel ta' gwerer ma' Toi kien Ħadadezer; u f'idejh kien hemm oġġetti ta' fidda u oġġetti tad-deheb u oġġetti tar-ram.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cda57e7303b88f611917223d5a35d20b103457163d085c67082dfe6e0c6334cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/8\/9-12.1792608676886.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Toi bagħat lil ⟨את⟩ Joram, ibnu, għand is-sultan David, biex jistaġni bil-ħolma tiegħu u jbierekħ, għax ġiehed ma' Ħadadeżer u laqtah; għax raġel ta' ġwerriet kien Ħadadeżer ma' Toi; u f'idejh kellu dcir tal-fidda u dcir tad-deheb u dcir tal-ħadid.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Joram ibnu"
+      "marks": "Joram"
     },
     {
       "surface": "יורם",
-      "gloss": "lil Joram"
+      "gloss": "Joram"
     },
     {
       "surface": "בנו",
@@ -63,23 +42,23 @@
     },
     {
       "surface": "לשאל",
-      "gloss": "biex jistaqsilu"
+      "gloss": "biex jistaġni"
     },
     {
       "surface": "לו",
-      "gloss": "lu"
+      "gloss": "tiegħu"
     },
     {
       "surface": "לשלום",
-      "gloss": "għas-sliem"
+      "gloss": "bil-ħolma"
     },
     {
       "surface": "ולברכו",
-      "gloss": "u jbierku"
+      "gloss": "u jbierekħ"
     },
     {
       "surface": "על",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "אשר",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "נלחם",
-      "gloss": "ġieġled"
+      "gloss": "ġiehed"
     },
     {
       "surface": "בהדדעזר",
-      "gloss": "ma' Ħadadezer"
+      "gloss": "ma' Ħadadeżer"
     },
     {
       "surface": "ויכהו",
-      "gloss": "u ħabtu"
+      "gloss": "u laqtah"
     },
     {
       "surface": "כי",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "מלחמות",
-      "gloss": "ta' gwerer"
+      "gloss": "ta' ġwerriet"
     },
     {
       "surface": "תעי",
@@ -119,7 +98,7 @@
     },
     {
       "surface": "הדדעזר",
-      "gloss": "Ħadadezer"
+      "gloss": "Ħadadeżer"
     },
     {
       "surface": "ובידו",
@@ -127,33 +106,33 @@
     },
     {
       "surface": "היו",
-      "gloss": "kien hemm"
+      "gloss": "kellu"
     },
     {
       "surface": "כלי",
-      "gloss": "oġġetti ta' fidda"
+      "gloss": "dcir"
     },
     {
       "surface": "כסף",
-      "gloss": "fidda"
+      "gloss": "tal-fidda"
     },
     {
       "surface": "וכלי",
-      "gloss": "u oġġetti tad-deheb"
+      "gloss": "u dcir"
     },
     {
       "surface": "זהב",
-      "gloss": "deheb"
+      "gloss": "tad-deheb"
     },
     {
       "surface": "וכלי",
-      "gloss": "u oġġetti tar-ram"
+      "gloss": "u dcir"
     },
     {
       "surface": "נחשת",
-      "gloss": "ram"
+      "gloss": "tal-ħadid"
     }
   ],
-  "timestamp": "2026-10-21T18:51:16.886968661Z",
+  "timestamp": "2026-10-22T00:07:34.150506534Z",
   "model": "glm-5.3"
 }

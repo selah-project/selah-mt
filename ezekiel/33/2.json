@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Iben adam",
-      "rationale": "sejħa diretta ta' Jaħwe lil Eżekjel, 'iben adam'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "x-xabla",
-      "rationale": "חרב hi x-xabla, l-istess kelma għall-armi u għan-nixfa"
-    }
-  ],
-  "translation": "Iben adam, kellem lil wlied niesok, u għidilhom: Art, meta nniġġib fuqha x-xabla, u nies l-art jieħdu raġel wieħed minn fosthom, u jagħtuh lilhom għal għassies —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8f1ca80d3354f7a00fa53d280ef366c2b80d30a1a1b53a3f36a03c07b561cf34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/33\/1-4.1792614927387.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ibni l-bniedem, kellem lil wlied niesok u għidilhom: Art — meta nġib fuqha x-xabla, u nieħdu nies l-art raġel wieħed minn tarfihom, u jagħtuh ⟨את⟩ lilhom għal għassies —",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Iben"
+      "gloss": "Ibni"
     },
     {
       "surface": "אדם",
-      "gloss": "adam"
+      "gloss": "l-bniedem"
     },
     {
       "surface": "דבר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אביא",
-      "gloss": "nniġġib"
+      "gloss": "nġib"
     },
     {
       "surface": "עליה",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "מקציהם",
-      "gloss": "minn fosthom"
+      "gloss": "minn tarfihom"
     },
     {
       "surface": "ונתנו",
@@ -111,7 +90,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "h"
+      "marks": "lilhom (għal għassies)"
     },
     {
       "surface": "להם",
@@ -122,6 +101,6 @@
       "gloss": "għal għassies"
     }
   ],
-  "timestamp": "2026-10-21T20:35:27.388369804Z",
+  "timestamp": "2026-10-22T00:18:03.067875401Z",
   "model": "glm-5.3"
 }

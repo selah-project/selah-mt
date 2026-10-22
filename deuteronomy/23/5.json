@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "laqgħukom",
-      "rationale": "קדמו bil-litteral tfisser 'ġew qabelkom \/ tellgħu kontrikom', mhux sempliċement 'lqugħ'"
-    },
-    {
-      "kind": "you",
-      "subject": "kom",
-      "rationale": "indirizz dirett lil Jisrael fil-plural"
-    }
-  ],
-  "translation": "Minħabba li ma laqgħukomx bil-ħobż u bl-ilma fit-triq, meta ħriġtomm minn Mitsrajim, u minħabba li ħalla kontrik lil ⟨את⟩ Bilam bin Beor minn Petor ta' Aram-Naharajim, biex jisabbutkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d6ede65aefb17f4b829a1b78ef840c148d95d542599b5cd9a3495bb81d4470a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/23\/5-8.1792605833058.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Minħabba l-każ li ma ġewx qabilkom ⟨את⟩ bil-ħobż u bl-ilma fit-triq meta ħrigħtu minn Mitsrajim, u għaliex ħabbar kontrik ⟨את⟩ lil Balagħam iben Beor minn Pitor ta' Aram Naharajim bi jilgħatulek.",
   "tokens": [
     {
       "surface": "על",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "dak"
+      "gloss": "l-każ"
     },
     {
       "surface": "אשר",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "קדמו",
-      "gloss": "laqgħukom"
+      "gloss": "ġewx qabilkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "kom"
+      "gloss": "⟨את⟩",
+      "marks": "bil-ħobż u bl-ilma"
     },
     {
       "surface": "בלחם",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בצאתכם",
-      "gloss": "meta ħriġtomm"
+      "gloss": "meta ħrigħtu"
     },
     {
       "surface": "ממצרים",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "u minħabba li"
+      "gloss": "u għaliex"
     },
     {
       "surface": "שכר",
-      "gloss": "ħalla"
+      "gloss": "ħabbar"
     },
     {
       "surface": "עליך",
@@ -88,15 +67,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bilam"
+      "marks": "lil Balagħam"
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilam"
+      "gloss": "lil Balagħam"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "iben"
     },
     {
       "surface": "בעור",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "מפתור",
-      "gloss": "minn Petor"
+      "gloss": "minn Pitor"
     },
     {
       "surface": "ארם",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "לקללך",
-      "gloss": "biex jisabbutkom"
+      "gloss": "bi jilgħatulek"
     }
   ],
-  "timestamp": "2026-10-21T18:03:53.059754761Z",
+  "timestamp": "2026-10-22T00:09:44.680790924Z",
   "model": "glm-5.3"
 }

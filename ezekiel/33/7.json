@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Jeħieżkel",
-      "rationale": "Jaħwe jindres lejn iben il-bniedem direttament u jagħtih xogħol is-sentinel"
-    },
-    {
-      "kind": "elision",
-      "subject": "minni",
-      "rationale": "twissihom minni — il-Lhudi jagħti sentenni parzjali; il-gloss ta' אתם jewa ma' ממני"
-    }
-  ],
-  "translation": "U inti, iben il-bniedem, għassies għedtlek lil dard Jisrael; u tisma' minn fommi kelma, u twissihom minni.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/33\/5-8.1792614941626.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int, iben adam, għassies għamiltek għal dar Jisrael; u tisma' minn fommi kelma, u twissi ⟨את⟩ lilhom minni.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "U inti"
+      "gloss": "U int"
     },
     {
       "surface": "בן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "il-bniedem"
+      "gloss": "adam"
     },
     {
       "surface": "צפה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "għedtlek"
+      "gloss": "għamiltek"
     },
     {
       "surface": "לבית",
-      "gloss": "lil dare"
+      "gloss": "għal dar"
     },
     {
       "surface": "ישראל",
@@ -70,18 +49,18 @@
     },
     {
       "surface": "והזהרת",
-      "gloss": "u twissihom"
+      "gloss": "u twissi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "minni"
+      "marks": "lilhom"
     },
     {
       "surface": "ממני",
       "gloss": "minni"
     }
   ],
-  "timestamp": "2026-10-21T20:35:41.627746538Z",
+  "timestamp": "2026-10-22T00:18:14.179728824Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Aram",
-      "rationale": "ארם huwa nies u art fl-istess ħin; il-Malti jżomm isem l-irġiel mhux 'Sirja'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "irranġaw ruħhom",
-      "rationale": "ויערכו litteralment 'qiegħdu f'saf', jiġifieri ffurmaw għal battalja"
-    }
-  ],
-  "translation": "U ġie mħabbar lil David, u ġabar ⟨את⟩ kollha Jisrael, u qasam lil-Ġordan u daħal Ħelama; u Aram irranġaw ruħhom kontra David, u ġġieldu miegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "40c92e762f31e5b1b81e82a7dadafb5ee8dbffbfc1c20029c7d0042e4e74fa3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/10\/17-19.1792608667996.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġie mħabbar lil David, u ġabar lil ⟨את⟩ kollej Jisrael, u qadda ⟨את⟩ l-Ġordan, u daħal fi Ħelam. U Aram irranġaw ruħhom quddiem David, u ġġieldu miegħu.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "ġie mħabbar"
+      "gloss": "u ġie mħabbar"
     },
     {
       "surface": "לדוד",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kollha Jisrael"
+      "marks": "kollej Jisrael"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kollej"
     },
     {
       "surface": "ישראל",
@@ -55,16 +34,16 @@
     },
     {
       "surface": "ויעבר",
-      "gloss": "u qasam"
+      "gloss": "u qadda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-Ġordan"
+      "marks": "l-Ġordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "il-Ġordan"
+      "gloss": "l-Ġordan"
     },
     {
       "surface": "ויבא",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "חלאמה",
-      "gloss": "Ħelama"
+      "gloss": "fi Ħelam"
     },
     {
       "surface": "ויערכו",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "kontra"
+      "gloss": "quddiem"
     },
     {
       "surface": "דוד",
@@ -99,6 +78,6 @@
       "gloss": "miegħu"
     }
   ],
-  "timestamp": "2026-10-21T18:51:07.997570451Z",
+  "timestamp": "2026-10-22T00:05:37.043164814Z",
   "model": "glm-5.3"
 }

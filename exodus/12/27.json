@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פסח\/פסח",
-      "rationale": "L-istess għerq: l-isem tal-festa u l-verb 'għadda\/sparnjahom' — inseparabbli bil-Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "tgħidu",
-      "rationale": "Risposta indirizzata lill-ulied mistoqsija fil-vers 26"
-    }
-  ],
-  "translation": "u tgħidu: Sagrifiċċju tal-Pesah hu għal Jaħwe, li għadda minn fuq id-djar ta' wlied Jisrael f'Mitsrajim, meta laqat lil Mitsrajim u lil djarna ħelless. U l-poplu inxteħet u sexton.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/12\/25-28.1792599535410.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u tgħidu: Sagrifiċċju tal-Pesaħ għal Jaħwe huwa, li għadda fuq id-djar ta' wlied Jisrael f'Mitsrajim, meta laħaq ⟨את⟩ Mitsrajim u ⟨את⟩ djarna ħelless; u l-poplu inkina u txena.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "זבח",
-      "gloss": "Sagrifiċċju"
+      "gloss": "sagrifiċċju"
     },
     {
       "surface": "פסח",
-      "gloss": "tal-Pesah"
+      "gloss": "tal-Pesaħ"
     },
     {
       "surface": "הוא",
-      "gloss": "hu"
+      "gloss": "huwa"
     },
     {
       "surface": "ליהוה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "פסח",
-      "gloss": "għadda minn fuq"
+      "gloss": "għadda"
     },
     {
       "surface": "על",
-      "gloss": "minn fuq"
+      "gloss": "fuq"
     },
     {
       "surface": "בתי",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "בנגפו",
-      "gloss": "meta laqat"
+      "gloss": "meta laħaq"
     },
     {
       "surface": "את",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u ⟨את⟩",
       "marks": "djarna"
     },
     {
@@ -104,7 +83,7 @@
     },
     {
       "surface": "ויקד",
-      "gloss": "inxteħet"
+      "gloss": "u inkina"
     },
     {
       "surface": "העם",
@@ -112,9 +91,9 @@
     },
     {
       "surface": "וישתחוו",
-      "gloss": "sexton"
+      "gloss": "u txena"
     }
   ],
-  "timestamp": "2026-10-21T16:18:55.411945385Z",
+  "timestamp": "2026-10-22T00:12:44.985458753Z",
   "model": "glm-5.3"
 }

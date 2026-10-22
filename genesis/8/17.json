@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "מִcale preposition אֵת 'miegħek', mhux is-suġġett ta' את H853; iżżermak ⟨את⟩ miżjud bħala sinjal."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הרמש הרמש",
-      "rationale": "Ripetizzjoni ta' l-istess għerq sostantiv+verb (remes romes), li tingħata b'żewġ kliem differenti bil-Malti."
-    },
-    {
-      "kind": "you",
-      "subject": "għal Noċe",
-      "rationale": "Imperattiv dirett lil Noċe dwar il-ħruġ tal-ħlejjaq."
-    }
-  ],
-  "translation": "Kull ħajja li hemm miegħek ⟨את⟩, minn kull ġisem, fl-għasafar u fil-bhejjem u f'kull dak li jitkaxkar fuq l-art, ħarriġ miegħek; u jiżżernqu fl-art, u jiftħu u jkattru fuq l-art.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/8\/17-20.1792597847526.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ħarreġ miegħek kull ħajja li hemm miegħek, minn kull laħam, fl-għasafar u fil-bhejjem u f'kull dak li jitkaxkar, li jitkaxkar fuq l-art; u jitkaxkru bl-abbundanza fl-art, u jfottu u jżidu fuq l-art.",
   "tokens": [
     {
       "surface": "כל",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "ħajja"
+      "gloss": "il-ħajja"
     },
     {
       "surface": "אשר",
@@ -47,7 +21,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "miegħek ⟨את⟩"
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "kull ħajja"
     },
     {
       "surface": "מכל",
@@ -55,7 +30,7 @@
     },
     {
       "surface": "בשר",
-      "gloss": "ġisem"
+      "gloss": "laħam"
     },
     {
       "surface": "בעוף",
@@ -75,7 +50,7 @@
     },
     {
       "surface": "הרמש",
-      "gloss": "jitkaxkar"
+      "gloss": "li jitkaxkar"
     },
     {
       "surface": "על",
@@ -87,15 +62,16 @@
     },
     {
       "surface": "הוצא",
-      "gloss": "ħarriġ"
+      "gloss": "ħarreġ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩ miegħek",
+      "marks": "kull ħajja"
     },
     {
       "surface": "ושרצו",
-      "gloss": "u jiżżernqu"
+      "gloss": "u jitkaxkru bl-abbundanza"
     },
     {
       "surface": "בארץ",
@@ -103,11 +79,11 @@
     },
     {
       "surface": "ופרו",
-      "gloss": "u jiftħu"
+      "gloss": "u jfottu"
     },
     {
       "surface": "ורבו",
-      "gloss": "u jkattru"
+      "gloss": "u jżidu"
     },
     {
       "surface": "על",
@@ -118,6 +94,6 @@
       "gloss": "l-art"
     }
   ],
-  "timestamp": "2026-10-21T15:50:47.526897332Z",
+  "timestamp": "2026-10-22T00:24:37.919696339Z",
   "model": "glm-5.3"
 }

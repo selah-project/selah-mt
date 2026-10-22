@@ -5,37 +5,16 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "במלכן",
-      "rationale": "'forn it-tajn' (bnik birikil, KJV) kontra 'bis-sikkina ta' sultan' (1 Kron 20:3, למלך = lil David bħala l-ħaddiem) — żewġ qariet famużi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħidma mtormenta",
-      "rationale": "verżjonijiet antiki jifhmu tortura; it-test jgħid biss għaddihom minn taħt l-għodda tqil — ma jgħidx qosor"
-    }
-  ],
-  "translation": "U ⟨את⟩ il-poplu li kien fiha ħareġ, u poġġiehom fis-serra u fit-tgħarbir tal-ħadid u fis-sikkini tal-ħadid, u għaddiehom f'forn it-tajn; u hekk għamel ma' kull bliet wlied Amon; u David reġa' lura, u l-poplu kollu, Jeruxalajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "936d153ee2b2f78b34c4651dd78800f3303730400f4a93745dea4a8f2079fe3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/12\/29-31.1792608780389.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ in-nies li kienu fiha ħarġilhom u poġġiehom taħt il-magnja u taħt iċ-ċarruti ta' l-ħadid u bil-magħżel ta' l-ħadid, u għaddihom minn ġo fuklar it-tajn; u hekk għamel ma' l-ibliet kollha ta' wlied Ammon. U David u l-poplu kollu reġġgħu lura ⟨lejn⟩ Jeruxalajim.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "U ⟨את⟩",
-      "marks": "il-poplu li kien fiha"
+      "gloss": "⟨את⟩",
+      "marks": "in-nies"
     },
     {
       "surface": "העם",
-      "gloss": "il-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "אשר",
@@ -47,31 +26,31 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "ħareġ"
+      "gloss": "ħarġilhom"
     },
     {
       "surface": "וישם",
-      "gloss": "u poġġa"
+      "gloss": "poġġiehom"
     },
     {
       "surface": "במגרה",
-      "gloss": "fis-serra"
+      "gloss": "taħt il-magnja"
     },
     {
       "surface": "ובחרצי",
-      "gloss": "u fit-tgħarbir"
+      "gloss": "u taħt iċ-ċarruti"
     },
     {
       "surface": "הברזל",
-      "gloss": "tal-ħadid"
+      "gloss": "ta' l-ħadid"
     },
     {
       "surface": "ובמגזרת",
-      "gloss": "u fis-sikkini"
+      "gloss": "u bil-magħżel"
     },
     {
       "surface": "הברזל",
-      "gloss": "tal-ħadid"
+      "gloss": "ta' l-ħadid"
     },
     {
       "surface": "והעביר",
@@ -79,11 +58,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "minn ġo fuklar it-tajn"
     },
     {
       "surface": "במלכן",
-      "gloss": "f'forn it-tajn"
+      "gloss": "fuklar it-tajn"
     },
     {
       "surface": "וכן",
@@ -95,11 +75,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ma' kull"
+      "gloss": "ma' l-ibliet kollha"
     },
     {
       "surface": "ערי",
-      "gloss": "bliet"
+      "gloss": "l-ibliet"
     },
     {
       "surface": "בני",
@@ -107,7 +87,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Ammon"
     },
     {
       "surface": "וישב",
@@ -119,7 +99,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u kull"
+      "gloss": "u l-poplu kollu"
     },
     {
       "surface": "העם",
@@ -130,6 +110,6 @@
       "gloss": "Jeruxalajim"
     }
   ],
-  "timestamp": "2026-10-21T18:53:00.391069128Z",
+  "timestamp": "2026-10-22T00:06:29.705432079Z",
   "model": "glm-5.3"
 }

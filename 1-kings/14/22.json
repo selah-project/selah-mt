@@ -5,45 +5,19 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "għamel il-ħażen f'għajnejn Jaħwe",
-      "rationale": "idjom Lhudi: 'għamel il-ħażen fl-għajnejn ta', ma jinbidilx għax huwa formula fiss"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨fih⟩",
-      "rationale": "il-pronom fl-aħħar ta' ויקנאו+אתו jeħtieġ proform bil-Malti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בחטאתם אשר חטאו",
-      "rationale": "għerq חטא mirdum darbejn, 'bid-dnub li dnibhom' iżomm id-doppja"
-    }
-  ],
-  "translation": "U Ġuda għamel il-ħażen f'għajnejn Jaħwe, u qajmu għira ⟨fih⟩ iktar minn kull ma għamlu missirijiethom, bid-dnub tagħhom li dnibhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cfb75b040cc44eb66a820c664b6ae3386fedad67c4b6a69c1544477fe06a5426",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/14\/21-24.1792609694152.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Juda għamel il-ħażin f'għajnejn Jaħwe, u qajmu għira f'⟨את⟩ lilu b'kollox li għamlu missirijethom, fid-dnubiet tagħhom li dnubu.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "U għamel"
+      "gloss": "għamel"
     },
     {
       "surface": "יהודה",
-      "gloss": "Ġuda"
+      "gloss": "Juda"
     },
     {
       "surface": "הרע",
-      "gloss": "il-ħażen"
+      "gloss": "il-ħażin"
     },
     {
       "surface": "בעיני",
@@ -55,20 +29,20 @@
     },
     {
       "surface": "ויקנאו",
-      "gloss": "u qajmu għira"
+      "gloss": "qajmu għira"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "fih (Jaħwe)"
+      "marks": "lilu — il-pronunja li jfisser lil Jaħwe nnifsu (מכל)"
     },
     {
       "surface": "מכל",
-      "gloss": "iktar minn kull"
+      "gloss": "b'kollox"
     },
     {
       "surface": "אשר",
-      "gloss": "ma"
+      "gloss": "li"
     },
     {
       "surface": "עשו",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "אבתם",
-      "gloss": "missirijiethom"
+      "gloss": "missirijethom"
     },
     {
       "surface": "בחטאתם",
-      "gloss": "bid-dnub tagħhom"
+      "gloss": "fid-dnubiet tagħhom"
     },
     {
       "surface": "אשר",
@@ -88,9 +62,9 @@
     },
     {
       "surface": "חטאו",
-      "gloss": "dnibhom"
+      "gloss": "dnubu"
     }
   ],
-  "timestamp": "2026-10-21T19:08:14.153394030Z",
+  "timestamp": "2026-10-21T23:57:16.916474970Z",
   "model": "glm-5.3"
 }

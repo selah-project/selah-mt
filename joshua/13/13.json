@@ -5,41 +5,15 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "għadhom jgħixu",
-      "rationale": "il-preżent bil-'għadu' miżjud għal וישב, li fil-kuntest qiegħed għaddej sal-ħażin (vv. 1, 3)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jgħixu",
-      "rationale": "וישב qrib tat-Taljan 'abitare' — 'joqogħdu\/jgħixu' għal 'siedz'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sa din il-ġurnata",
-      "rationale": "redazzjoni li taqfis iż-żmien tal-kitba: עד היום הזה"
-    }
-  ],
-  "translation": "U ulied Jisrael ma keċċewx ⟨את⟩ il-Gxuriti u ⟨את⟩ lill-Maakatiti; u Gxur u Maakat għadhom jgħixu f'nofs Jisrael sa din il-ġurnata.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/13\/13-16.1792606576144.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iżda ulied Jisrael ma keċċewx lil ⟨את⟩ il-Geżuriti u lil ⟨את⟩ il-Maakatiti; u Geżur u Maakat għexu f'nofs Jisrael sal-ġurnata ta' llum.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u ma...x"
     },
     {
       "surface": "הורישו",
-      "gloss": "keċċewx"
+      "gloss": "keċċew"
     },
     {
       "surface": "בני",
@@ -52,28 +26,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-Gxuriti"
+      "marks": "il-Geżurita"
     },
     {
       "surface": "הגשורי",
-      "gloss": "il-Gxuriti"
+      "gloss": "il-Geżurita"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "lill-Maakatiti"
+      "gloss": "u lil ⟨את⟩",
+      "marks": "il-Maakatita"
     },
     {
       "surface": "המעכתי",
-      "gloss": "lill-Maakatiti"
+      "gloss": "il-Maakatita"
     },
     {
       "surface": "וישב",
-      "gloss": "u għadhom jgħixu"
+      "gloss": "u għexu"
     },
     {
       "surface": "גשור",
-      "gloss": "Gxur"
+      "gloss": "Geżur"
     },
     {
       "surface": "ומעכת",
@@ -93,13 +67,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "din il-ġurnata"
+      "gloss": "il-ġurnata"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "din — ta' llum"
     }
   ],
-  "timestamp": "2026-10-21T18:16:16.144959978Z",
+  "timestamp": "2026-10-22T00:34:25.468538254Z",
   "model": "glm-5.3"
 }

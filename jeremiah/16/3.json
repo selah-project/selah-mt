@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "Il-marki אתם ma għandhomx ekwivalenti Malti; inżammu bħala ⟨את⟩ fil-glossi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "li wellduhom",
-      "rationale": "המולדים huwa passiv 'dawk imwielda minn'; il-Malti juża attiv relattiv 'li wellduhom'."
-    }
-  ],
-  "translation": "Għalhekk hekk jgħid Jaħwe dwar is-subien u dwar il-bniet imwielda f'dan il-post, u dwar l-ommijiet tagħhom li wellduhom, u dwar il-missirijiet tagħhom li wellduhom fl-art din:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6dfecd209b945013c712a7ff4af2832eee7655f4a68c49cd494e32a95c1148be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/16\/1-4.1792612834681.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax hekk jgħid Jaħwe dwar il-wlied u dwar il-bniet imwielda f'dan il-post, u dwar ommijithom, dawk li welldew ⟨את⟩ lilhom, u dwar missirijithom, dawk li welldew ⟨את⟩ lilhom f'din l-art.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għalhekk"
+      "gloss": "Għax"
     },
     {
       "surface": "כה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הבנים",
-      "gloss": "is-subien"
+      "gloss": "il-wlied"
     },
     {
       "surface": "ועל",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "במקום",
-      "gloss": "f'dan"
+      "gloss": "f'dan il-post"
     },
     {
       "surface": "הזה",
-      "gloss": "il-post"
+      "gloss": "(il-post) dan"
     },
     {
       "surface": "ועל",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "אמתם",
-      "gloss": "l-ommijiet tagħhom"
+      "gloss": "ommijithom"
     },
     {
       "surface": "הילדות",
-      "gloss": "li wellduhom"
+      "gloss": "dawk li welldew"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "li wellduhom"
+      "marks": "lilhom (il-wlied u l-bniet)"
     },
     {
       "surface": "ועל",
@@ -95,26 +74,26 @@
     },
     {
       "surface": "אבותם",
-      "gloss": "il-missirijiet tagħhom"
+      "gloss": "missirijithom"
     },
     {
       "surface": "המולדים",
-      "gloss": "li wellduhom"
+      "gloss": "dawk li welldew"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "li wellduhom"
+      "marks": "lilhom (il-wlied u l-bniet)"
     },
     {
       "surface": "בארץ",
-      "gloss": "fl-art"
+      "gloss": "f'din l-art"
     },
     {
       "surface": "הזאת",
-      "gloss": "din"
+      "gloss": "(l-art) din"
     }
   ],
-  "timestamp": "2026-10-21T20:00:34.682188993Z",
+  "timestamp": "2026-10-22T00:28:03.583893233Z",
   "model": "glm-5.3"
 }

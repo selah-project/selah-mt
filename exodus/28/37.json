@@ -5,42 +5,16 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tekhelet",
-      "rationale": "תכלת: il-lewn blu-vjola mill-ħanżir tas-sema; il-kelma Lhudija tinżamm"
-    },
-    {
-      "kind": "hapax",
-      "subject": "micnefet",
-      "rationale": "מצנפת hija t-turbant ta' l-iskart pun: il-kelma ma tidhirx imbagħad fil-Tanakh"
-    },
-    {
-      "kind": "measurement",
-      "subject": "pożizzjoni",
-      "rationale": "il-vers jiddeskrivi b'mod preċiż fejn tpoġġi l-plakka fuq it-turbant"
-    }
-  ],
-  "translation": "U tpoġġih fuq ħabel ta' tekhelet, u jkun fuq il-micnefet, 'il bogħod minn quddiem wiċċ il-micnefet ikun.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "fc9dd374112d2cd49cd5eb1314cab7df165f7c278d4e68a984551d0be59830c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/28\/37-40.1792599980657.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tpoġġi ⟨את⟩ fuq ħabel ta' tkeler, u jkun fuq il-mitsnefet, iktar 'il bogħod minn wiċċ il-mitsnefet ikun ⟨hu⟩.",
   "tokens": [
     {
       "surface": "ושמת",
-      "gloss": "u tpoġġih"
+      "gloss": "U tpoġġi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hija (il-plakka)"
+      "marks": "fuq ħabel ta' tkeler"
     },
     {
       "surface": "על",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "ta' tekhelet"
+      "gloss": "ta' tkeler"
     },
     {
       "surface": "והיה",
@@ -64,15 +38,15 @@
     },
     {
       "surface": "המצנפת",
-      "gloss": "il-micnefet"
+      "gloss": "il-mitsnefet"
     },
     {
       "surface": "אל",
-      "gloss": "'il bogħod minn"
+      "gloss": "iktar"
     },
     {
       "surface": "מול",
-      "gloss": "quddiem"
+      "gloss": "'il bogħod minn"
     },
     {
       "surface": "פני",
@@ -80,13 +54,13 @@
     },
     {
       "surface": "המצנפת",
-      "gloss": "il-micnefet"
+      "gloss": "il-mitsnefet"
     },
     {
       "surface": "יהיה",
       "gloss": "jkun"
     }
   ],
-  "timestamp": "2026-10-21T16:26:20.658018928Z",
+  "timestamp": "2026-10-22T00:13:36.791008016Z",
   "model": "glm-5.3"
 }

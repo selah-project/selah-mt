@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħsara",
-      "rationale": "הרעה hija l-ħażin letterali; 'ħsara' jew 'ħażin' — it-test jitkellem dwar is-saram, mhux il-moralità"
-    },
-    {
-      "kind": "elision",
-      "subject": "על כן",
-      "rationale": "żewġ kliem Lhud għal 'għalhekk'; כן ma għandux ekwivalenti separat fil-Malti"
-    }
-  ],
-  "translation": "U se jgħidu: Għax huma abbandunaw lil Jaħwe, l-Elohim tagħhom, li ħareġ ⟨את⟩ lill-antenati tagħhom mill-art ta' Mitsrajim, u qabdu ma' Elohim oħrajn u txteknulhom u qadmulhom; għalhekk ġab Jaħwe fuqhom ⟨את⟩ din il-ħsara kollha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "83c105468cb03b4b62e29e5cfd3777ca43e5ea82f11da8090585f6c89da39106",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/9\/9-12.1792609581133.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jgħidu: Għaliex abbandunaw lil Jaħwe Elohim tagħhom, li ħareġ lil missirijiethom mill-art ta' Mitsrajim, u qabżu f'ḍejhom allat oħra, u xteħtu lilhom quddiemhom, u qdiwhom; għalhekk Jaħwe ġab fuqhom ⟨את⟩ din id-diżgrazzja kollha.",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "u se jgħidu"
+      "gloss": "U jgħidu"
     },
     {
       "surface": "על",
-      "gloss": "għax"
+      "gloss": "Għaliex"
     },
     {
       "surface": "אשר",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "l-Elohim tagħhom"
+      "gloss": "Elohim tagħhom"
     },
     {
       "surface": "אשר",
@@ -68,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lill-antenati tagħhom"
+      "marks": "lil missirijiethom"
     },
     {
       "surface": "אבתם",
-      "gloss": "lill-antenati tagħhom"
+      "gloss": "missirijiethom"
     },
     {
       "surface": "מארץ",
@@ -84,19 +63,19 @@
     },
     {
       "surface": "ויחזקו",
-      "gloss": "u qabdu"
+      "gloss": "u qabżu f'ḍejhom"
     },
     {
       "surface": "באלהים",
-      "gloss": "ma' Elohim"
+      "gloss": "allat"
     },
     {
       "surface": "אחרים",
-      "gloss": "oħrajn"
+      "gloss": "oħra"
     },
     {
       "surface": "וישתחו",
-      "gloss": "u txteknulhom"
+      "gloss": "u xteħtu quddiemhom"
     },
     {
       "surface": "להם",
@@ -104,15 +83,15 @@
     },
     {
       "surface": "ויעבדם",
-      "gloss": "u qadmulhom"
+      "gloss": "u qdiwhom"
     },
     {
       "surface": "על",
-      "gloss": "għalhekk"
+      "gloss": "għal"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "għalhekk"
     },
     {
       "surface": "הביא",
@@ -129,7 +108,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "din il-ħsara kollha"
+      "marks": "din id-diżgrazzja kollha"
     },
     {
       "surface": "כל",
@@ -137,13 +116,13 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "din il-ħsara"
+      "gloss": "id-diżgrazzja"
     },
     {
       "surface": "הזאת",
       "gloss": "din"
     }
   ],
-  "timestamp": "2026-10-21T19:06:21.134216866Z",
+  "timestamp": "2026-10-21T23:58:51.863041120Z",
   "model": "glm-5.3"
 }

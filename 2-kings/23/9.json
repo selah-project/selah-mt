@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "il-par tan-negazzjoni limitattiva 'ma... ħlief' ma jseparaħx f'żewġ kelmiet bil-Malti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħobż bla ħmira",
-      "rationale": "מצות litteralment 'ċwiebet', ħobż mingħajr ħmira"
-    }
-  ],
-  "translation": "Imma l-qassisin tal-għoljiet ma telgħux sax-xaltar ta' Jaħwe f'Jeruxalajim, iżda kienu jieklu ħobż bla ħmira fost ħuthom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/9-12.1792610793586.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma qassisin l-għoliet ma telgħux għal mażbar Jaħwe f'Jeruxalajim, ħlief li kienu jieklu mażżot fost ħuthom.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Imma"
+      "gloss": "imma"
     },
     {
       "surface": "לא",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "כהני",
-      "gloss": "l-qassisin"
+      "gloss": "qassisin"
     },
     {
       "surface": "הבמות",
-      "gloss": "tal-għoljiet"
+      "gloss": "l-għoliet"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "għal"
     },
     {
       "surface": "מזבח",
-      "gloss": "l-xaltar"
+      "gloss": "mażbar"
     },
     {
       "surface": "יהוה",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "iżda"
+      "gloss": "li"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ħlief"
     },
     {
       "surface": "אכלו",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "מצות",
-      "gloss": "ħobż bla ħmira"
+      "gloss": "mażżot"
     },
     {
       "surface": "בתוך",
@@ -89,6 +68,6 @@
       "gloss": "ħuthom"
     }
   ],
-  "timestamp": "2026-10-21T19:26:33.587779302Z",
+  "timestamp": "2026-10-22T00:04:55.026051226Z",
   "model": "glm-5.3"
 }

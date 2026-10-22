@@ -5,49 +5,23 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ma'",
-      "rationale": "il-כאֵת hawn hu prepożizzjoni ('ma''\/+'il ma'), mhux marka tal-oġġett; ingħatat bħala ma', bla ⟨את⟩ għax mhux H853 f'dan il-kuntest"
-    },
-    {
-      "kind": "you",
-      "subject": "lis-slaten il-ħamsa",
-      "rationale": "imperattivi diretti — עלו אלי ועזרוני — lis-slaten tal-Amoriti"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Telgħu għandi",
-      "rationale": "sejħa imperattiva biex tinżel fuq Għibon flimkien"
-    }
-  ],
-  "translation": "Telgħu għandi, u agħtuni l-għajnuna, u aħbitu ⟨את⟩ lil Għibon, għax għamlet paċi ma' Joxwe ⟨את⟩ u ma' wlied Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9bb88ad1ab432ae26ee1059731d17768e220b30bdae39f969c2b4aac48386cb6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/10\/1-4.1792606461164.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tilgħu lejja u għinnuni, u nilħtula lil ⟨את⟩ Għibon, għax għamlet paċi ma' ⟨את⟩ Joxwa u ma' ⟨את⟩ wlied Jisrael.",
   "tokens": [
     {
       "surface": "עלו",
-      "gloss": "Telgħu"
+      "gloss": "Tilgħu"
     },
     {
       "surface": "אלי",
-      "gloss": "għandi"
+      "gloss": "lejja"
     },
     {
       "surface": "ועזרני",
-      "gloss": "u agħtuni l-għajnuna"
+      "gloss": "u għinnuni"
     },
     {
       "surface": "ונכה",
-      "gloss": "u aħbitu"
+      "gloss": "u nilħtula"
     },
     {
       "surface": "את",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "גבעון",
-      "gloss": "lil Għibon"
+      "gloss": "Għibon"
     },
     {
       "surface": "כי",
@@ -68,15 +42,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'"
+      "gloss": "⟨את⟩",
+      "marks": "ma' Joxwa"
     },
     {
       "surface": "יהושע",
-      "gloss": "Joxwe"
+      "gloss": "Joxwa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ u ma'"
+      "gloss": "u ma' ⟨את⟩"
     },
     {
       "surface": "בני",
@@ -87,6 +62,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T18:14:21.166130795Z",
+  "timestamp": "2026-10-22T00:34:32.681798148Z",
   "model": "glm-5.3"
 }

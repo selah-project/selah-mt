@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "injuż ta' sitta",
-      "rationale": "שטים = siġra tal-akaċja; il-kelma ttinħażnet bħala isem, hija tradotta hawn"
-    }
-  ],
-  "translation": "U għamel ⟨את⟩ id-driegħ (tal-qlugħ) minn injuż ta' sitta, u għattiehom b'deheb, biex iġorru ⟨את⟩ il-mejda.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "ca7e97eb19995cd058903b718b62a714c99d6e42964951f1e3eda8183e9ed4ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/37\/13-16.1792600309169.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għamel ⟨את⟩ il-vireg tal-injam ta' is-sajjetta, u għattiehom bid-deheb, biex iġorru ⟨את⟩ il-mejda.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -30,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-driegħ (tal-qlugħ)"
+      "marks": "il-vireg"
     },
     {
       "surface": "הבדים",
-      "gloss": "id-driegħ (tal-qlugħ)"
+      "gloss": "il-vireg"
     },
     {
       "surface": "עצי",
-      "gloss": "minn injuż"
+      "gloss": "tal-injam"
     },
     {
       "surface": "שטים",
-      "gloss": "ta' sitta"
+      "gloss": "ta' is-sajjetta"
     },
     {
       "surface": "ויצף",
@@ -50,12 +34,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "b'deheb"
+      "gloss": "⟨אתם⟩",
+      "marks": "bid-deheb"
     },
     {
       "surface": "זהב",
-      "gloss": "b'deheb"
+      "gloss": "bid-deheb"
     },
     {
       "surface": "לשאת",
@@ -71,6 +55,6 @@
       "gloss": "il-mejda"
     }
   ],
-  "timestamp": "2026-10-21T16:31:49.170628792Z",
+  "timestamp": "2026-10-22T00:14:19.083285248Z",
   "model": "glm-5.3"
 }

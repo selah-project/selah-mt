@@ -5,60 +5,39 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil-mexxejja ta' Jisrael",
-      "rationale": "Jixoʿa jindirizza lil xjuħ, kapijiet, ġudti u uffiċjajt ta' Jisrael"
-    },
-    {
-      "kind": "idiom",
-      "subject": "dħalt fi ġranet",
-      "rationale": "באתי בימים litteralment 'dħalt fi ġranet' — għażla li tpoġġi fuq ras il-mixi"
-    }
-  ],
-  "translation": "U Jixoʿa sejjaħ lil Jisrael kollu, lil-xjuħi u lil-kapijiet u lil-ġudti u lil-uffiċjajt, u qalilhom: Jien ixxaħxieħt, dħalt fi ġranet",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8c2f9da2dec990b34a449ef06ca44ce1e4510c6ac9bb0075ecde4b755cf3c926",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/23\/1-4.1792606770312.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Joxwa sejjaħ lil kol Jisrael, lil xiħu, lil rasijietħom, lil ġudici tagħħom u lil uffiċjali tagħħom, u qalilħom: Jien xiħjt, dħalt fid-dielja.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "u sejjaħ"
+      "gloss": "sejjaħ"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jixoʿa"
+      "gloss": "Joxwa"
     },
     {
       "surface": "לכל",
-      "gloss": "lil-"
+      "gloss": "lil kol"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael kollu"
+      "gloss": "Jisrael"
     },
     {
       "surface": "לזקניו",
-      "gloss": "lil-xjuħi"
+      "gloss": "lil xiħu"
     },
     {
       "surface": "ולראשיו",
-      "gloss": "u lil-kapijiet"
+      "gloss": "lil rasijietħom"
     },
     {
       "surface": "ולשפטיו",
-      "gloss": "u lil-ġudti"
+      "gloss": "lil ġudici tagħħom"
     },
     {
       "surface": "ולשטריו",
-      "gloss": "u lil-uffiċjajt"
+      "gloss": "lil uffiċjali tagħħom"
     },
     {
       "surface": "ויאמר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "lilhom"
+      "gloss": "lilħom"
     },
     {
       "surface": "אני",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "זקנתי",
-      "gloss": "ixxaħxieħt"
+      "gloss": "xiħjt"
     },
     {
       "surface": "באתי",
@@ -82,9 +61,9 @@
     },
     {
       "surface": "בימים",
-      "gloss": "fi ġranet"
+      "gloss": "fid-dielja"
     }
   ],
-  "timestamp": "2026-10-21T18:19:30.313502085Z",
+  "timestamp": "2026-10-22T00:54:02.824500382Z",
   "model": "glm-5.3"
 }

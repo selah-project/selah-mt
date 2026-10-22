@@ -5,29 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "ejjew warajja",
-      "rationale": "imperattiv li jsejjaħ lill-Aramej imsamma jħabru wara l-profeta"
-    },
-    {
-      "kind": "elision",
-      "subject": "שמרונה",
-      "rational e": "",
-      "rationale": "il-forma bl-aċċent direzzjonali (-ah) tirreferi għal Samrija bħala destinazzjoni; -h ta' direzzjoni ma għandu ekwivalentu Malti"
-    }
-  ],
-  "translation": "U Eliseju qalilhom: Mhux din it-triq, u mhux din il-belt; ejjew warajja u nassakkomhom lejn l-irġiel li qegħdin tfittxu. U wassalhom Samrija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/6\/17-20.1792610254177.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Elixà qalilhom: Mhux din it-triq, u lanqas din hija l-belt; ejjew warajja, u nimsikom ⟨את⟩ għar-raġel li qegħdin tfittxu. U ġarrhom ⟨את⟩ sa Somron.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -35,11 +13,11 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "ilhom"
+      "gloss": "lilhom"
     },
     {
       "surface": "אלישע",
-      "gloss": "Eliseju"
+      "gloss": "Elixà"
     },
     {
       "surface": "לא",
@@ -55,7 +33,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "u mhux"
+      "gloss": "u lanqas"
     },
     {
       "surface": "זה",
@@ -63,7 +41,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "il-belt"
+      "gloss": "l-belt"
     },
     {
       "surface": "לכו",
@@ -75,19 +53,20 @@
     },
     {
       "surface": "ואוליכה",
-      "gloss": "u nassakkomhom"
+      "gloss": "u nimsikom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom"
+      "gloss": "⟨את⟩",
+      "marks": "kom (lilkom)"
     },
     {
       "surface": "אל",
-      "gloss": "lejn"
+      "gloss": "għal"
     },
     {
       "surface": "האיש",
-      "gloss": "l-irġiel"
+      "gloss": "ir-raġel"
     },
     {
       "surface": "אשר",
@@ -99,17 +78,18 @@
     },
     {
       "surface": "וילך",
-      "gloss": "u wassal"
+      "gloss": "u ġarr"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom"
+      "gloss": "⟨את⟩",
+      "marks": "Somron (lilhom)"
     },
     {
       "surface": "שמרונה",
-      "gloss": "Samrija"
+      "gloss": "sa Somron"
     }
   ],
-  "timestamp": "2026-10-21T19:17:34.178691296Z",
+  "timestamp": "2026-10-22T00:05:29.014886836Z",
   "model": "glm-5.3"
 }

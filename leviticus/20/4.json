@@ -5,39 +5,23 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "העלם יעלימו... את עיניהם",
-      "rationale": "Infinitiv-assolut 'jaħbu għajnejhom' — idjom ta' min jagħlaq għajnejh apposta; il-Malti iżomm ir-ripetizzjoni tal-għerq"
-    }
-  ],
-  "translation": "U jekk in-nies tal-art jaħbu għajnejhom minn dak ir-raġel, meta jagħti minn ġerħutu lill-Molek, u ma joqtluhx ⟨את⟩:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cee23beb50facc4104b773d04b158c429ebd13766ce2148a0d1f3bbbd858d18a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/1-4.1792601113763.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk il-poplu tal-art jaħbu ⟨את⟩ għajnejhom minn dak ir-raġel meta jagħti minn żerriegħu lill-Molek, biex ma joqtluhx ⟨את⟩ lilu",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "U jekk"
+      "gloss": "u jekk"
     },
     {
       "surface": "העלם",
-      "gloss": "jaħbu għajnejhom"
-    },
-    {
-      "surface": "יעלימו",
       "gloss": "jaħbu"
     },
     {
+      "surface": "יעלימו",
+      "gloss": "għajnejhom"
+    },
+    {
       "surface": "עם",
-      "gloss": "in-nies"
+      "gloss": "il-poplu"
     },
     {
       "surface": "הארץ",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "מזרעו",
-      "gloss": "minn ġerħutu"
+      "gloss": "minn żerriegħu"
     },
     {
       "surface": "למלך",
@@ -78,18 +62,18 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "u ma"
+      "gloss": "biex ma"
     },
     {
       "surface": "המית",
-      "gloss": "joqtluhx"
+      "gloss": "joqtlu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lilu",
       "marks": "dak ir-raġel"
     }
   ],
-  "timestamp": "2026-10-21T16:45:13.765428098Z",
+  "timestamp": "2026-10-22T00:40:15.267139879Z",
   "model": "glm-5.3"
 }

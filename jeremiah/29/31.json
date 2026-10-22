@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נבא",
-      "rationale": "'profetizza' — il-verbu נבא mhux 'żaħħar' (D2)"
-    },
-    {
-      "kind": "crux",
-      "subject": "על שמעיה",
-      "rationale": "'dwar Xemajah' jew 'lil Xemajah' — l-eloqwa אל + על miftuħa għaż-żewġ tqarrib"
-    }
-  ],
-  "translation": "Ibgħat lil dawk kollha tal-eżilju, u għidilhom: Hekk qal Jaħwe dwar Xemajah in-Niħlami: għaliex profetizzalkom Xemajah, u jien ma bgħattihx ⟨ihu⟩, ⟨את⟩ u għamel biex titt fidaw fuq gideb —",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9c0e99efdee61a06ba1af5821c3d742018a9566170c6f43f81cdbc2c6a58f4f0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/29\/29-32.1792613293107.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ibgħat lil dawn li huma fl-eżilju, kollha, billi tgħid: Hekk jgħid Jaħwe dwar Xemajah in-Neħlami: Għaliex Xemajah ipprofetizzalkom — u jien ma bgħajtniħ — u hu wassal ⟨את⟩ lilkom bi tafdaw fuq gideb,",
   "tokens": [
     {
       "surface": "שלח",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "dawk kollha"
+      "gloss": "kollha"
     },
     {
       "surface": "הגולה",
-      "gloss": "tal-eżilju"
+      "gloss": "dawn li huma fl-eżilju"
     },
     {
       "surface": "לאמר",
-      "gloss": "u għidilhom"
+      "gloss": "billi tgħid"
     },
     {
       "surface": "כה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "qal"
+      "gloss": "jgħid"
     },
     {
       "surface": "יהוה",
@@ -70,23 +49,23 @@
     },
     {
       "surface": "הנחלמי",
-      "gloss": "in-Niħlami"
+      "gloss": "in-Neħlami"
     },
     {
       "surface": "יען",
-      "gloss": "għaliex"
+      "gloss": "Għaliex"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "נבא",
-      "gloss": "profetizza"
+      "gloss": "ipprofetizza"
     },
     {
       "surface": "לכם",
-      "gloss": "-kom"
+      "gloss": "lilkom"
     },
     {
       "surface": "שמעיה",
@@ -102,19 +81,16 @@
     },
     {
       "surface": "שלחתיו",
-      "gloss": "bgħattih"
-    },
-    {
-      "surface": "לא",
-      "gloss": "-x"
+      "gloss": "bgħajtniħ"
     },
     {
       "surface": "ויבטח",
-      "gloss": "⟨את⟩ u għamel biex titt fidaw"
+      "gloss": "u wassal biex tafdaw"
     },
     {
       "surface": "אתכם",
-      "gloss": "kom"
+      "gloss": "⟨את⟩ lilkom",
+      "marks": "lilkom — dawk li huma fl-eżilju"
     },
     {
       "surface": "על",
@@ -125,6 +101,6 @@
       "gloss": "gideb"
     }
   ],
-  "timestamp": "2026-10-21T20:08:13.108484616Z",
+  "timestamp": "2026-10-22T00:29:51.926018452Z",
   "model": "glm-5.3"
 }

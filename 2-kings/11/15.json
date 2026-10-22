@@ -5,38 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "qalilhom",
-      "rationale": "'U qalilhom' iġorr lil אליהם; it-token 'lilhom' ma jkollux kelma separata fil-Malti."
-    },
-    {
-      "kind": "crux",
-      "subject": "אל מבית לשדרת",
-      "gloss": "",
-      "rationale": "Klawsola għalja: 'sa barra mis-saffi' (KJV 'without the ranges') vs 'bejn is-saffi' (ASV\/JPS)."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "Maltese object pronoun -ha in 'Ħarġuha' carries אתה; gloss is marker only."
-    }
-  ],
-  "translation": "U Jehojada l-qassis amar lil qrati l-mijiet, il-maħtuba ta' l-isforz, u qalilhom: Ħarġuha sa barra minn ġewwa s-saffi, u kull min jiġi wara tagħha, mietu bil-xabla; għax qal il-qassis: Mhalliex tinqatel fid-dar ta' Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/11\/13-16.1792610378858.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jehojada l-qassis ordna ⟨את⟩ l-issrari tal-mija, l-għassiesa tal-gwerra, u qalilhom: Oħorġuha ⟨אתha⟩ sa ġewwa mis-saffi, u min jiġi warajha joqtol bil-xabla, għax il-qassis qal: La toqtluhx fit-Bejt ta' Jaħwe.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "u amar"
+      "gloss": "ordna"
     },
     {
       "surface": "יהוידע",
@@ -49,64 +22,64 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qrati l-mijiet"
+      "marks": "l-issrari tal-mija"
     },
     {
       "surface": "שרי",
-      "gloss": "qrati"
+      "gloss": "l-issrari"
     },
     {
       "surface": "המיאות",
-      "gloss": "l-mijiet"
+      "gloss": "tal-mija"
     },
     {
       "surface": "פקדי",
-      "gloss": "il-maħtuba"
+      "gloss": "l-għassiesa"
     },
     {
       "surface": "החיל",
-      "gloss": "ta' l-isforz"
+      "gloss": "tal-gwerra"
     },
     {
       "surface": "ויאמר",
-      "gloss": "u qalilhom"
+      "gloss": "u qal"
     },
     {
       "surface": "אליהם",
-      "gloss": ""
+      "gloss": "lilhom"
     },
     {
       "surface": "הוציאו",
-      "gloss": "Ħarġuha"
+      "gloss": "Oħorġuha"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "sa barra"
+      "gloss": "⟨אתha⟩",
+      "marks": "sa ġewwa mis-saffi"
     },
     {
       "surface": "אל",
-      "gloss": "sa barra"
+      "gloss": "sa"
     },
     {
       "surface": "מבית",
-      "gloss": "minn ġewwa"
+      "gloss": "ġewwa mi"
     },
     {
       "surface": "לשדרת",
-      "gloss": "is-saffi"
+      "gloss": "s-saffi"
     },
     {
       "surface": "והבא",
-      "gloss": "u kull min jiġi"
+      "gloss": "u min jiġi"
     },
     {
       "surface": "אחריה",
-      "gloss": "wara tagħha"
+      "gloss": "warajha"
     },
     {
       "surface": "המת",
-      "gloss": "mietu"
+      "gloss": "joqtol"
     },
     {
       "surface": "בחרב",
@@ -126,21 +99,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "Mhalliex"
+      "gloss": "la"
     },
     {
       "surface": "תומת",
-      "gloss": "tinqatel"
+      "gloss": "toqtluhx"
     },
     {
       "surface": "בית",
-      "gloss": "fid-dar"
+      "gloss": "fit-Bejt"
     },
     {
       "surface": "יהוה",
       "gloss": "ta' Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T19:19:38.859652373Z",
+  "timestamp": "2026-10-22T00:03:16.693722962Z",
   "model": "glm-5.3"
 }

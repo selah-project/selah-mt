@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jaħwe",
-      "rationale": "Talba diretta lil Jaħwe, Elohim ta' Jisrael."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמר ... ישמרו",
-      "rationale": "Jaħwe 'żomm' il-kelma u l-ulied 'joqogħdu għal' triqthom — l-istess għerq שׁמר iġġedded fil-vers."
-    },
-    {
-      "kind": "crux",
-      "subject": "רק אם",
-      "rationale": "'Biss jekk' jew 'sakemm': il-wegħda għandha kondizzjoni — b'dan il-jum l-istorja ta' Jisrael tispiċċa tkejjel biha."
-    }
-  ],
-  "translation": "U issa, Jaħwe, Elohim ta' Jisrael, żomm lill-ilsier tiegħek David missierri ⟨את⟩ dak li għidtleh, billi għidt: Ma jitqata' għalik raġel minn quddiemi, jistrieħ fuq it-tron ta' Jisrael; biss, jekk uliedek joqogħdu għal ⟨את⟩ triqthom biex jimxu fit-Tora tiegħi, kif inti mxejt quddiami.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8cb3b022dfafc4545f4ef916adfbcd97a39cb0c515201ef917ce303806d61bdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/13-16.1792622405736.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa, Jaħwe, Elohim ta' Jisrael, żomm ma' qaddejtek David missieri ⟨את⟩ dak li għidtlu, biex tgħid: Mhux se jitqatta' għalkemm raġel minn quddiemni, bilqiegħda fuq it-tron ta' Jisrael; imma biss jekk uliedek jżommu d-darba tagħhom biex jimxu fit-Tora tiegħi, kif inti mxejt quddimi.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "לעבדך",
-      "gloss": "lill-ilsier tiegħek"
+      "gloss": "ma' qaddejtek"
     },
     {
       "surface": "דויד",
@@ -63,12 +37,12 @@
     },
     {
       "surface": "אבי",
-      "gloss": "missierri"
+      "gloss": "missieri"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li għidtleh"
+      "marks": "dak li għidtlu"
     },
     {
       "surface": "אשר",
@@ -76,27 +50,27 @@
     },
     {
       "surface": "דברת",
-      "gloss": "għidtleh"
+      "gloss": "għidt"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "-lu"
     },
     {
       "surface": "לאמר",
-      "gloss": "billi għidt"
+      "gloss": "biex tgħid"
     },
     {
       "surface": "לא",
-      "gloss": "Ma"
+      "gloss": "mhux"
     },
     {
       "surface": "יכרת",
-      "gloss": "jitqata'"
+      "gloss": "se jitqatta'"
     },
     {
       "surface": "לך",
-      "gloss": "għalik"
+      "gloss": "għalkemm"
     },
     {
       "surface": "איש",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "minn quddiemi"
+      "gloss": "minn quddiemni"
     },
     {
       "surface": "יושב",
-      "gloss": "jistrieħ"
+      "gloss": "bilqiegħda"
     },
     {
       "surface": "על",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "רק",
-      "gloss": "biss"
+      "gloss": "imma biss"
     },
     {
       "surface": "אם",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "ישמרו",
-      "gloss": "joqogħdu għal"
+      "gloss": "jżommu"
     },
     {
       "surface": "בניך",
@@ -141,11 +115,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "triqthom"
+      "marks": "id-darba tagħhom"
     },
     {
       "surface": "דרכם",
-      "gloss": "triqthom"
+      "gloss": "id-darba tagħhom"
     },
     {
       "surface": "ללכת",
@@ -161,13 +135,13 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "inti mxejt"
+      "gloss": "mxejt"
     },
     {
       "surface": "לפני",
-      "gloss": "quddiami"
+      "gloss": "quddiemni"
     }
   ],
-  "timestamp": "2026-10-21T22:40:05.738013479Z",
+  "timestamp": "2026-10-22T00:02:54.498273957Z",
   "model": "glm-5.3"
 }

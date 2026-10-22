@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefex",
-      "rationale": "נפש hawn mhux 'ruħ' imma ħila\/ħeġġa ta' ġisem — 'mrar ta' nefex' = imrar fin-nifs"
-    },
-    {
-      "kind": "elision",
-      "subject": "את (il-poplu)",
-      "rationale": "Hawn את (854) qrib ma' העם, mhux markatur ta' oġġett; maħdum 'mal-'"
-    }
-  ],
-  "translation": "U qal Ħuxaj: Int taf lil missierek u ⟨את⟩ l-irġiel tiegħu, li ġellieda huma u mrar ta' nefex huma, bħal ors imwarrab minn wliedu f'għalqa; u missierek raġel ta' ġerra, u ma joqgħodx matul il-lejl mal-poplu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/17\/5-8.1792608929288.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Ħuxaj qal: Int taf ⟨את⟩ lil missierek u ⟨את⟩ lil rġielu, li gwerrier huma, u morrin ta' ruwaħ huma, bħal ors niket fil-għalqa; u missierek raġel ta' gwerra, u ma joqogħdx għal-lejl ⟨את⟩ ma' il-poplu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "l-irġiel tiegħu"
+      "gloss": "⟨את⟩",
+      "marks": "rġielu"
     },
     {
       "surface": "אנשיו",
-      "gloss": "l-irġiel tiegħu"
+      "gloss": "rġielu"
     },
     {
       "surface": "כי",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "גברים",
-      "gloss": "ġellieda"
+      "gloss": "gwerrier"
     },
     {
       "surface": "המה",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "ומרי",
-      "gloss": "u mrar"
+      "gloss": "morrin"
     },
     {
       "surface": "נפש",
-      "gloss": "nefex"
+      "gloss": "ruwaħ"
     },
     {
       "surface": "המה",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "שכול",
-      "gloss": "imwarrab minn wliedu"
+      "gloss": "niket"
     },
     {
       "surface": "בשדה",
-      "gloss": "f'għalqa"
+      "gloss": "fil-għalqa"
     },
     {
       "surface": "ואביך",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "ta' ġerra"
+      "gloss": "ta' gwerra"
     },
     {
       "surface": "ולא",
@@ -116,18 +95,17 @@
     },
     {
       "surface": "ילין",
-      "gloss": "joqgħodx matul il-lejl"
+      "gloss": "joqogħdx għal-lejl"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "il-poplu"
+      "gloss": "⟨את⟩ ma'"
     },
     {
       "surface": "העם",
-      "gloss": "mal-poplu"
+      "gloss": "il-poplu"
     }
   ],
-  "timestamp": "2026-10-21T18:55:29.289874160Z",
+  "timestamp": "2026-10-22T00:06:10.361297503Z",
   "model": "glm-5.3"
 }

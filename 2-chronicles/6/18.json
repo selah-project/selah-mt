@@ -5,45 +5,19 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Ċertu",
-      "rationale": "question particle; rhetorical question requiring an opener in Maltese"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jiflukhomx",
-      "rationale": "כול Piel 'to contain\/hold' rendered with 'jiflu' (hold\/preserve); KJV 'contain'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "semajt is-sema",
-      "rationale": "dual שמי השמים 'sema tas-sema' — superlative 'l-ogħla sema', dual preserved as 'semajt'"
-    }
-  ],
-  "translation": "Ċertu, Jaħwe jinsab fid-dar? Se joqogħod Elohim ma' ⟨את⟩ il-bniedem fuq l-art? Ara, is-sema u semajt is-sema ma jiflukhomx ⟨inti⟩ — kemm iktar id-dar din li jien bnejt!",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/17-20.1792622383986.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex, fil-fatt, Elohim joqgħod ⟨את⟩ l-bniedem fuq l-art? Ara, is-smewwet u semajt is-smewwiet ma jiflhux jżommuk, u kemm iktar dan id-dar li jien bnejt!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ċertu,"
+      "gloss": "għaliex"
     },
     {
       "surface": "האמנם",
-      "gloss": "in-verità"
+      "gloss": "fil-fatt"
     },
     {
       "surface": "ישב",
-      "gloss": "joqogħod"
+      "gloss": "joqgħod"
     },
     {
       "surface": "אלהים",
@@ -52,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-bniedem"
+      "marks": "l-bniedem"
     },
     {
       "surface": "האדם",
-      "gloss": "il-bniedem"
+      "gloss": "l-bniedem"
     },
     {
       "surface": "על",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Ara,"
+      "gloss": "ara"
     },
     {
       "surface": "שמים",
-      "gloss": "is-sema"
+      "gloss": "is-smewwet"
     },
     {
       "surface": "ושמי",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "is-sema"
+      "gloss": "is-smewwiet"
     },
     {
       "surface": "לא",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "jiflukhomx"
+      "gloss": "jiflhux jżommok"
     },
     {
       "surface": "אף",
-      "gloss": "kemm iktar"
+      "gloss": "u kemm iktar"
     },
     {
       "surface": "כי",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "din"
+      "gloss": "dan"
     },
     {
       "surface": "אשר",
@@ -112,9 +86,9 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "jien bnejt"
+      "gloss": "bnejt"
     }
   ],
-  "timestamp": "2026-10-21T22:39:43.988001927Z",
+  "timestamp": "2026-10-22T00:02:42.199828141Z",
   "model": "glm-5.3"
 }

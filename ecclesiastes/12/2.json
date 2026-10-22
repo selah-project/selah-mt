@@ -5,39 +5,23 @@
   "book": "ecclesiastes",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "u s-sħab jerġgħu jiġu wara x-xita",
-      "rationale": "Metafora tal-xjuħija: dawl li jonqos u sħab li ma jgħaddux — tifsira mhux eżawrittiva."
-    }
-  ],
-  "translation": "qabel ma jidrawlux ix-xemx u d-dawl u l-qamar u l-kwiekeb, u s-sħab jerġgħu jiġu wara x-xita.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/12\/1-4.1792620377316.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sakemm ma jidlamx ix-xemx, u d-dawl, u l-qamar, u l-kwiekeb, u jerġgħu l-ħmamar wara x-xita;",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "qabel ma"
+      "gloss": "sakemm"
     },
     {
       "surface": "אשר",
-      "gloss": ""
-    },
-    {
-      "surface": "לא",
       "gloss": "ma"
     },
     {
+      "surface": "לא",
+      "gloss": "…x"
+    },
+    {
       "surface": "תחשך",
-      "gloss": "jidrawlux"
+      "gloss": "jidlamx"
     },
     {
       "surface": "השמש",
@@ -57,11 +41,11 @@
     },
     {
       "surface": "ושבו",
-      "gloss": "jerġgħu jiġu"
+      "gloss": "u jerġgħu"
     },
     {
       "surface": "העבים",
-      "gloss": "is-sħab"
+      "gloss": "l-ħmamar"
     },
     {
       "surface": "אחר",
@@ -69,9 +53,9 @@
     },
     {
       "surface": "הגשם",
-      "gloss": "x-xita"
+      "gloss": "ix-xita"
     }
   ],
-  "timestamp": "2026-10-21T22:06:17.317287210Z",
+  "timestamp": "2026-10-22T00:11:39.574411506Z",
   "model": "glm-5.3"
 }

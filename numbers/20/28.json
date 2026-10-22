@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "rosh hahar",
-      "rationale": "'ras il-muntanja' — metafora somatika ebraikkta miżmuma litteralment"
-    }
-  ],
-  "translation": "U Moxe ħalla ⟨את⟩ lil Aharon bla ⟨את⟩ l-ħwejjeġ tiegħu, u libbishom lil ⟨את⟩ Elazar ibnu; u Aharon miet hemm fuq ras il-muntanja; u Moxe u Elazar niżlu mill-muntanja.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b99c015fde4d1b5715d0a75f6bdfc8b04a79f9870f86010f4adbb3465cd867b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/20\/25-28.1792602940256.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe fsiet lil ⟨את⟩ Aharon minn ⟨את⟩ ħwejjeġu, u libsedom lil ⟨את⟩ Elazar binu; u Aharon miet hemm fil-quċċata tal-muntanja; u Moxe u Elazar niżlu mill-muntanja.",
   "tokens": [
     {
       "surface": "ויפשט",
-      "gloss": "u ħalla bla ħwejjeġ"
+      "gloss": "fsiet"
     },
     {
       "surface": "משה",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Aharon"
+      "marks": "Aharon"
     },
     {
       "surface": "אהרן",
@@ -43,25 +27,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ħwejjeġ tiegħu"
+      "marks": "ħwejjeġu"
     },
     {
       "surface": "בגדיו",
-      "gloss": "l-ħwejjeġ tiegħu"
+      "gloss": "ħwejjeġu"
     },
     {
       "surface": "וילבש",
-      "gloss": "u libbishom lil"
+      "gloss": "libsedom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "Elazar"
+      "marks": "Elazar binu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Elazar"
+      "marks": "Elazar"
     },
     {
       "surface": "אלעזר",
@@ -69,11 +53,11 @@
     },
     {
       "surface": "בנו",
-      "gloss": "ibnu"
+      "gloss": "binu"
     },
     {
       "surface": "וימת",
-      "gloss": "u miet"
+      "gloss": "miet"
     },
     {
       "surface": "אהרן",
@@ -85,15 +69,15 @@
     },
     {
       "surface": "בראש",
-      "gloss": "fuq ras"
+      "gloss": "fil-quċċata"
     },
     {
       "surface": "ההר",
-      "gloss": "il-muntanja"
+      "gloss": "tal-muntanja"
     },
     {
       "surface": "וירד",
-      "gloss": "u niżel"
+      "gloss": "niżlu"
     },
     {
       "surface": "משה",
@@ -112,6 +96,6 @@
       "gloss": "il-muntanja"
     }
   ],
-  "timestamp": "2026-10-21T17:15:40.291998308Z",
+  "timestamp": "2026-10-22T00:53:55.187521629Z",
   "model": "glm-5.3"
 }

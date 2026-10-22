@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "seba' snin",
-      "rationale": "ħolqien ta' żmien: ċiklu tas-seba' snin tas-sena tal-maħfra"
-    },
-    {
-      "kind": "crux",
-      "subject": "השמטה",
-      "rationale": "sena tal-maħra tal-ġdebju (Deewt 15) jew ta' nieqaf ix-xogħol tal-art (Eżodu 23) — it-test ma jispeċifikax hawn"
-    }
-  ],
-  "translation": "U Moxe amarhom, jgħid: Fi tmiem seba' snin, fil-ħin maħsub, fis-sena tal-maħfra, fil-festa tax-Xukkot—",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e58533c7d09ce5af90e49da9ea42e9ef5cbf45be13e46f868b3a4a8d9c38becf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/31\/9-12.1792606100209.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe amarilhom jaqq; jgħid: Mill-aħħar ta' seba' snin, fil-ħin maħsub, fis-sena tal-maħrura, fil-festa tas-sukkot —",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "u amar"
+      "gloss": "amarilhom jaqq"
     },
     {
       "surface": "משה",
@@ -38,7 +17,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "lil dawk l-irqajjaħ\/oqbra bil-kelma li ġejja"
     },
     {
       "surface": "לאמר",
@@ -46,7 +26,7 @@
     },
     {
       "surface": "מקץ",
-      "gloss": "fi tmiem"
+      "gloss": "Mill-aħħar"
     },
     {
       "surface": "שבע",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "השמטה",
-      "gloss": "tal-maħfra"
+      "gloss": "tal-maħrura"
     },
     {
       "surface": "בחג",
@@ -74,9 +54,9 @@
     },
     {
       "surface": "הסכות",
-      "gloss": "tax-Xukkot"
+      "gloss": "tas-sukkot"
     }
   ],
-  "timestamp": "2026-10-21T18:08:20.210521802Z",
+  "timestamp": "2026-10-22T00:10:17.946638343Z",
   "model": "glm-5.3"
 }

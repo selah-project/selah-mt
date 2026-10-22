@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "għajjen",
-      "rationale": "יגע għajjen\/imħawwad; il-Malti jżomm il-ħoss tal-għerq"
-    },
-    {
-      "kind": "idiom",
-      "subject": "רפה ידים",
-      "rationale": "litteralment 'rqi fl-idejn' = bla qawwa; ġejt mqarreb bħal 'dgħajjef fl-idejh'"
-    }
-  ],
-  "translation": "U nigi fuqu meta jkun għajjen u dgħajjef fl-idejh, u nterrifikah, u jaħarbu kul-ġemgħa li ⟨את⟩ mghedda mieghu; u nirbu lil ⟨את⟩ ir-re waħdu biss.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/17\/1-4.1792608907882.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "u nieqbad fuqu meta jkun għajjien u dgħajjef idejh, u ngeżżgħah, u jħarbu nnaru kul-l-poplu li ⟨את⟩ miegħu, u inħatab ⟨את⟩ il-melek waħdu biss",
   "tokens": [
     {
       "surface": "ואבוא",
-      "gloss": "u nigi"
+      "gloss": "u nieqbad fuqu"
     },
     {
       "surface": "עליו",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "והוא",
-      "gloss": "u hu"
+      "gloss": "meta jkun"
     },
     {
       "surface": "יגע",
-      "gloss": "għajjen"
+      "gloss": "għajjien"
     },
     {
       "surface": "ורפה",
@@ -50,28 +29,28 @@
     },
     {
       "surface": "ידים",
-      "gloss": "fl-idejh"
+      "gloss": "idejh"
     },
     {
       "surface": "והחרדתי",
-      "gloss": "u nterrifikah"
+      "gloss": "u ngeżżgħah"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "nterrifikah"
+      "marks": "ngeżżgħah — lilu (David)"
     },
     {
       "surface": "ונס",
-      "gloss": "u jaħarbu"
+      "gloss": "u jħarbu"
     },
     {
       "surface": "כל",
-      "gloss": "kul"
+      "gloss": "kollu"
     },
     {
       "surface": "העם",
-      "gloss": "ġemgħa"
+      "gloss": "il-poplu"
     },
     {
       "surface": "אשר",
@@ -79,26 +58,26 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mghedda mieghu"
+      "gloss": "⟨את⟩ miegħu"
     },
     {
       "surface": "והכיתי",
-      "gloss": "u nirbu"
+      "gloss": "u inħatab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ir-re"
+      "marks": "il-melek"
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "il-melek"
     },
     {
       "surface": "לבדו",
       "gloss": "waħdu biss"
     }
   ],
-  "timestamp": "2026-10-21T18:55:07.883384934Z",
+  "timestamp": "2026-10-22T00:05:58.654958104Z",
   "model": "glm-5.3"
 }

@@ -5,50 +5,23 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruwaħ",
-      "rationale": "רוח mhux tradotta b\"spirtu\" waħedha: ruwaħ tżomm it-tliet tfissiriet — riħ, nifs, Spirtu."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "על אשר",
-      "rationate": "Fuq il-wiċċ: \"fuq dak li\", idjom għal \"fejn\" — il-ħila li r-ruwaħ torbot lit-teħid ta' xi mkien.",
-      "rationale": "Fuq il-wiċċ: \"fuq dak li\", idjom għal \"fejn\" — il-ħila li r-ruwaħ torbot lit-teħid ta' xi mkien."
-    },
-    {
-      "kind": "you",
-      "subject": "lil Elijaħu",
-      "rationale": "Obadma jkompli jindirizza lil Elijaħu b'appell personali dwar il-biza' tiegħu."
-    }
-  ],
-  "translation": "U jigi li jien immur minn għandek, u ruwaħ Jaħwe jittieħed fejn ma nafx; u niġi ngħid lil Aħav, u ma jsibkix, u joqtolni; għalkemm qadwejtek jibża' ⟨את⟩ Jaħwe minn żmien tfuliti.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/18\/9-12.1792609850150.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨kien⟩ li jiena mmur ⟨את⟩ minn ħdejk, u ruwaħ Jaħwe tħaddmek għal fejn ma nafx; u niġi nirriferi lil Aħab, u ma jsibniex, u joqtlni; iżda l-iskjav tiegħek jibża' minn ⟨את⟩ Jaħwe minn żgħożitu.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "U jigi li"
+      "gloss": "U ⟨kien⟩ li"
     },
     {
       "surface": "אני",
-      "gloss": "jien"
+      "gloss": "jiena"
     },
     {
       "surface": "אלך",
-      "gloss": "immur"
+      "gloss": "mmur"
     },
     {
       "surface": "מאתך",
-      "gloss": "minn ⟨את⟩ għandek"
+      "gloss": "minn ħdejk ⟨את⟩"
     },
     {
       "surface": "ורוח",
@@ -60,15 +33,15 @@
     },
     {
       "surface": "ישאך",
-      "gloss": "jittieħed"
+      "gloss": "tħaddmek"
     },
     {
       "surface": "על",
-      "gloss": "fejn"
+      "gloss": "għal"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "fejn"
     },
     {
       "surface": "לא",
@@ -84,11 +57,11 @@
     },
     {
       "surface": "להגיד",
-      "gloss": "ngħid"
+      "gloss": "nirriferi"
     },
     {
       "surface": "לאחאב",
-      "gloss": "lil Aħav"
+      "gloss": "lil Aħab"
     },
     {
       "surface": "ולא",
@@ -96,19 +69,19 @@
     },
     {
       "surface": "ימצאך",
-      "gloss": "jsibkix"
+      "gloss": "jsibniex"
     },
     {
       "surface": "והרגני",
-      "gloss": "u joqtolni"
+      "gloss": "u joqtlni"
     },
     {
       "surface": "ועבדך",
-      "gloss": "għalkemm qadwejtek"
+      "gloss": "u l-iskjav tiegħek"
     },
     {
       "surface": "ירא",
-      "gloss": "jibża'"
+      "gloss": "jibża' minn"
     },
     {
       "surface": "את",
@@ -121,9 +94,9 @@
     },
     {
       "surface": "מנערי",
-      "gloss": "minn żmien tfuliti"
+      "gloss": "minn żgħożitu"
     }
   ],
-  "timestamp": "2026-10-21T19:10:50.152133332Z",
+  "timestamp": "2026-10-21T23:57:20.197921391Z",
   "model": "glm-5.3"
 }

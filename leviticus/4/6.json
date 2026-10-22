@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "seba' darbati",
-      "rationale": "għadd ritwali ta' seba' xerrdieperjenti, seba' bħal-Lhudi"
-    },
-    {
-      "kind": "elision",
-      "subject": "את (il-wiċċ)",
-      "rationale": "l-שני את hawn hu prepożizzjoni 'mal-wiċċ', mhux l-oġġett tal-verb; ma jinxbedx bħala את ta' l-alef-tav"
-    }
-  ],
-  "translation": "U l-qassis jgħaddas is-saba' tiegħu ⟨את⟩ fid-demm, u jxerred mid-demm seba' darbati quddiem Jaħwe, quddiem wiċċ il-velu tal-qdusija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/4\/5-8.1792600586720.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-qassis jgħaddas ⟨את⟩ idu sew waħda fil-demm, u jbeżżaq mid-demm seba' darbiet quddiem Jaħwe, quddiem ⟨את⟩ wiċċ il-paroket ta' l-qdusija.",
   "tokens": [
     {
       "surface": "וטבל",
@@ -39,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-saba'"
+      "marks": "idu sew waħda"
     },
     {
       "surface": "אצבעו",
-      "gloss": "is-saba'"
+      "gloss": "idu sew waħda"
     },
     {
       "surface": "בדם",
-      "gloss": "fid-demm"
+      "gloss": "fil-demm"
     },
     {
       "surface": "והזה",
-      "gloss": "u jxerred"
+      "gloss": "u jbeżżaq"
     },
     {
       "surface": "מן",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "פעמים",
-      "gloss": "darbati"
+      "gloss": "darbiet"
     },
     {
       "surface": "לפני",
@@ -80,21 +59,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-velu"
+      "marks": "wiċċ il-paroket ta' l-qdusija"
     },
     {
       "surface": "פני",
-      "gloss": "il-wiċċ"
+      "gloss": "wiċċ"
     },
     {
       "surface": "פרכת",
-      "gloss": "il-velu"
+      "gloss": "il-paroket"
     },
     {
       "surface": "הקדש",
-      "gloss": "tal-qdusija"
+      "gloss": "ta' l-qdusija"
     }
   ],
-  "timestamp": "2026-10-21T16:36:26.721299322Z",
+  "timestamp": "2026-10-22T00:53:33.456504051Z",
   "model": "glm-5.3"
 }

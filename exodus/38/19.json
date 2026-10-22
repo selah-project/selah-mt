@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kienu",
-      "rationale": "kopula miżjuda bil-Malti"
-    },
-    {
-      "kind": "measurement",
-      "subject": "erbgħa, erbgħa",
-      "rationale": "għadd tal-pilastri u l-bażijiet tal-bieb"
-    }
-  ],
-  "translation": "U l-pilastri tagħhom kienu erbgħa, u l-bażijiet tagħhom erbgħa ta' nawar; il-gancijiet tagħhom tal-fidda, u l-għoti ta' wċuħom u l-lasti tagħhom tal-fidda.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "4a5e2a2c61cf1a271f164d4b8a06bdf8782e2edd23c52536f7d5b34367f94980",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/38\/17-20.1792600332338.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-istatab tagħhom erbgħa, u l-basi tagħhom erbgħa, tal-ħadid ir-ram; in-ġwienħien tagħhom tal-fidda, u t-tippjistar ta' ras il-istatbi u l-ħzien tagħhom tal-fidda.",
   "tokens": [
     {
       "surface": "ועמדיהם",
-      "gloss": "u l-pilastri tagħhom"
+      "gloss": "u l-istatab tagħhom"
     },
     {
       "surface": "ארבעה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ואדניהם",
-      "gloss": "u l-bażijiet tagħhom"
+      "gloss": "u l-basi tagħhom"
     },
     {
       "surface": "ארבעה",
@@ -46,11 +25,12 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "ta' nawar"
+      "gloss": "ram"
     },
     {
-      "surface": "ואויהם",
-      "gloss": "il-gancijiet tagħhom"
+      "surface": "וויהם",
+      "gloss": "in-ġwienħien tagħhom",
+      "marks": "not an object marker; this is the second occurrence of ואדניהם which follows"
     },
     {
       "surface": "כסף",
@@ -58,21 +38,21 @@
     },
     {
       "surface": "וצפוי",
-      "gloss": "u l-għoti"
+      "gloss": "u t-tippjistar"
     },
     {
       "surface": "ראשיהם",
-      "gloss": "ta' wċuħom"
+      "gloss": "ta' ras il-istatbi"
     },
     {
       "surface": "וחשקיהם",
-      "gloss": "u l-lasti tagħhom"
+      "gloss": "u l-ħzien tagħhom"
     },
     {
       "surface": "כסף",
       "gloss": "tal-fidda"
     }
   ],
-  "timestamp": "2026-10-21T16:32:12.339933451Z",
+  "timestamp": "2026-10-22T00:14:12.076680431Z",
   "model": "glm-5.3"
 }

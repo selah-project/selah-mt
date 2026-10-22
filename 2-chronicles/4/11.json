@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-qaddarov",
-      "rationale": "הסירות: qaddarov tal-bronż għall-ħadir, mhux 'ċomb' tad-djar; eżatt l-istess kelma tista' tfisser 'xewk'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Ħuram\/Ħiram",
-      "rationale": "l-istess bniedem miktub b'żewġ forom fil-verb wieħed stess: חורם u חירם; miżmuma t-tnejn fil-Malti"
-    },
-    {
-      "kind": "addition",
-      "subject": "f'dar Elohim",
-      "rationale": "il-Malti jeħtieġ il-prepożizzjoni imwaħħla għal בבית, waħda mal-Lhudi"
-    }
-  ],
-  "translation": "U Ħuram għamel ⟨את⟩ il-qaddarov u ⟨את⟩ l-għarbiel u ⟨את⟩ il-tnabar; u Ħiram spicċa jagħmel ⟨את⟩ il-ħidma li għamel għar-re Slimun f'dar Elohim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "25671b9654d4442c6d09b5a33a369474496b823e83ef909018843d2487ebf138",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/4\/10-11.1792624025721.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Ħuram għamel ⟨את⟩ il-kaldaruni u ⟨את⟩ il-pali u ⟨את⟩ il-baċiri; u Ħiram spiċċa jaħdem ⟨את⟩ ix-xogħol li għamel għar-re Salamun f'dar Elohim.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -44,31 +18,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-qaddarov"
+      "marks": "il-kaldaruni"
     },
     {
       "surface": "הסירות",
-      "gloss": "il-qaddarov"
+      "gloss": "il-kaldaruni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-pali"
     },
     {
       "surface": "היעים",
-      "gloss": "l-għarbiel"
+      "gloss": "il-pali"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-baċiri"
     },
     {
       "surface": "המזרקות",
-      "gloss": "il-tnabar"
+      "gloss": "il-baċiri"
     },
     {
       "surface": "ויכל",
-      "gloss": "u spicċa"
+      "gloss": "u spiċċa"
     },
     {
       "surface": "חירם",
@@ -76,16 +52,16 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "nagħmel"
+      "gloss": "jaħdem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ħidma"
+      "marks": "ix-xogħol"
     },
     {
       "surface": "המלאכה",
-      "gloss": "il-ħidma"
+      "gloss": "ix-xogħol"
     },
     {
       "surface": "אשר",
@@ -101,7 +77,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Slimun"
+      "gloss": "Salamun"
     },
     {
       "surface": "בבית",
@@ -112,6 +88,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-21T23:07:05.721933996Z",
+  "timestamp": "2026-10-22T00:02:29.647132192Z",
   "model": "glm-5.3"
 }

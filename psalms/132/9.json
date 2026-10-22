@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 132,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "l-oġett diret mmarka t-tsedeq, miżjud bħala ⟨את⟩"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חסידיך",
-      "rationale": "l-istess għerq ta' ħesed — il-ħesed (la-qaddisin tiegħek) huma dawk tal-ħesed tiegħek"
-    }
-  ],
-  "translation": "Il-qassisin tiegħek jilbsu ⟨את⟩ t-tsedeq, u l-ħesed tiegħek jirnenu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/132\/9-12.1792618171784.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Il-qassisin tiegħek jilbsu t-tsedeq, u l-ħasidim tiegħek jirnantu bil-ferħ.",
   "tokens": [
     {
       "surface": "כהניך",
@@ -38,18 +17,17 @@
     },
     {
       "surface": "צדק",
-      "gloss": "⟨את⟩ t-tsedeq",
-      "marks": "t-tsedeq"
+      "gloss": "t-tsedeq"
     },
     {
       "surface": "וחסידיך",
-      "gloss": "u l-ħesed tiegħek"
+      "gloss": "u l-ħasidim tiegħek"
     },
     {
       "surface": "ירננו",
-      "gloss": "jirnenu"
+      "gloss": "jirnantu bil-ferħ"
     }
   ],
-  "timestamp": "2026-10-21T21:29:31.785357143Z",
+  "timestamp": "2026-10-22T00:49:02.069813720Z",
   "model": "glm-5.3"
 }

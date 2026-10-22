@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "jirtuha",
-      "rationale": "אותו, l-aleph-tav mas-suffiss, inżamm fil-glossa u mgħoddja mal-verb Malti, għax il-possessiv femminili diġà jiddeskrivi l-muntanja."
-    }
-  ],
-  "translation": "U tajt lil Jitsħaq ⟨את⟩ lil Jagħaqov u ⟨את⟩ lil Esaw, u tajt lil Esaw ⟨את⟩ il-muntanja ta' Seir biex jirtuha; u Jagħaqov u uliedu nżlu għal Mitsrajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e3d9ff1efbd5f28d725eab50719fd25482f0db45813c596f84c9a8d7b072f801",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/24\/1-4.1792606831726.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tajt lil Jitsħaq ⟨את⟩ lil Jagħaqov u ⟨את⟩ lil Esav, u tajt lil Esav ⟨את⟩ il-muntanja ta' Se'ir biex jirtedha, u Jagħaqov u uliedu nżlu f'Mitsrajim.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "U tajt"
+      "gloss": "u tajt"
     },
     {
       "surface": "ליצחק",
@@ -34,20 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jagħaqov"
+      "marks": "lil Jagħaqov"
     },
     {
       "surface": "יעקב",
-      "gloss": "Jagħaqov"
+      "gloss": "lil Jagħaqov"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Esaw"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil Esav"
     },
     {
       "surface": "עשו",
-      "gloss": "Esaw"
+      "gloss": "lil Esav"
     },
     {
       "surface": "ואתן",
@@ -55,12 +39,12 @@
     },
     {
       "surface": "לעשו",
-      "gloss": "lil Esaw"
+      "gloss": "lil Esav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-muntanja ta' Seir"
+      "marks": "il-muntanja ta' Se'ir"
     },
     {
       "surface": "הר",
@@ -68,16 +52,16 @@
     },
     {
       "surface": "שעיר",
-      "gloss": "ta' Seir"
+      "gloss": "ta' Se'ir"
     },
     {
       "surface": "לרשת",
-      "gloss": "biex jirtu"
+      "gloss": "biex jirtedha"
     },
     {
       "surface": "אותו",
-      "gloss": "jirtuha ⟨את⟩",
-      "marks": "ilha (il-muntanja ta' Seir)"
+      "gloss": "⟨את⟩-u",
+      "marks": "il-muntanja ta' Se'ir"
     },
     {
       "surface": "ויעקב",
@@ -93,9 +77,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrajim"
+      "gloss": "f'Mitsrajim"
     }
   ],
-  "timestamp": "2026-10-21T18:20:31.727513600Z",
+  "timestamp": "2026-10-22T00:53:28.213577631Z",
   "model": "glm-5.3"
 }

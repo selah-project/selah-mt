@@ -5,45 +5,19 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבע\/שבוע",
-      "rationale": "l-istess għerq 'seba' fis-sebgħa jiem u s-sebgħa snin, meħlus bil-Malti"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sebgħa snin oħrajn",
-      "rationale": "għadd ta' snin ta' ħidma mlaħħaq"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jagħaqov",
-      "rationale": "imperattiv 'imla' indirizzat lil Jagħaqov"
-    }
-  ],
-  "translation": "Imla din is-sebgħa, u nagħtulek ukoll lil din bir-raħal ta' xogħol li taxli għandi għal sebgħa snin oħrajn.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/29\/25-28.1792598397507.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imla din il-ġimgħa, u nagħtulek ukoll lil ⟨את⟩ din għax-xogħol li taqdi għandi, għal ħames ieħor... mhux — għal seba' snin oħra.",
   "tokens": [
     {
       "surface": "מלא",
-      "gloss": "imla"
+      "gloss": "Imla"
     },
     {
       "surface": "שבע",
-      "gloss": "is-sebgħa"
+      "gloss": "il-ġimgħa"
     },
     {
       "surface": "זאת",
-      "gloss": "diz"
+      "gloss": "din"
     },
     {
       "surface": "ונתנה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "lek"
+      "gloss": "lilek"
     },
     {
       "surface": "גם",
@@ -59,8 +33,8 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
-      "marks": "din (ir-Raħel)"
+      "gloss": "⟨את⟩",
+      "marks": "din (Ruħel, oħt Lavan f'Ġen 29:28)"
     },
     {
       "surface": "זאת",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "בעבדה",
-      "gloss": "bir-raħal ta' xogħol"
+      "gloss": "għax-xogħol"
     },
     {
       "surface": "אשר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "תעבד",
-      "gloss": "taxli"
+      "gloss": "taqdi"
     },
     {
       "surface": "עמדי",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "sebgħa"
+      "gloss": "seba'"
     },
     {
       "surface": "שנים",
@@ -96,9 +70,9 @@
     },
     {
       "surface": "אחרות",
-      "gloss": "oħrajn"
+      "gloss": "oħra"
     }
   ],
-  "timestamp": "2026-10-21T15:59:57.508821407Z",
+  "timestamp": "2026-10-22T00:22:01.324862018Z",
   "model": "glm-5.3"
 }

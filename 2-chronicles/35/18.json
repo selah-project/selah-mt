@@ -5,40 +5,19 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ħadd⟩",
-      "rationale": "il-Malti jeħtieġ 'ħadd' mal-NEG biex jifhem in-negazzjoni assoluta"
-    },
-    {
-      "kind": "measurement",
-      "subject": "millo-jiem ta' Xmuel",
-      "rationale": "referenza għal żmien imkejël — l-ebda Pesack bħalu sa minn żmien Xmuel"
-    }
-  ],
-  "translation": "U ma ġiet magħmula ⟨ħadd⟩ Pesach bħalu f'Jisrael mill-jiem ta' Xmuel il-profeta; u l-irġiel kollha tas-slaten ta' Jisrael ma għamlu Pesach bħal dak li għamel Joxijaħu — il-qassisin u l-Lewiti u d-dar ta' Juda kollha u Jisrael li kien preżenti u l-abitanti ta' Jerużalajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "57e47f81b11a15ead81ebf2d894b1268e1e9d9c09ab8c7ca8f70aed520e4f680",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/35\/17-20.1792623056193.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ma sarx Pesaħ bħalu f'Jisrael mill-jiem ta' Xemuel il-profeta; u lanqas is-slattniet kollha ta' Jisrael ma għamlu Pesaħ bħal dak li għamel Josijaħ, u l-irqied, u l-Levjiti, u Juda kollu, u Jisrael ⟨kollha⟩ li nstabet, u l-abitanti ta' Jeruxalajim.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "U ma"
+      "gloss": "u ma"
     },
     {
       "surface": "נעשה",
-      "gloss": "ġiet magħmula"
+      "gloss": "sarx"
     },
     {
       "surface": "פסח",
-      "gloss": "Pesach"
+      "gloss": "Pesaħ"
     },
     {
       "surface": "כמהו",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "מימי",
-      "gloss": "mill-jiem ta'"
+      "gloss": "mill-jiem"
     },
     {
       "surface": "שמואל",
-      "gloss": "Xmuel"
+      "gloss": "ta' Xemuel"
     },
     {
       "surface": "הנביא",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "u d-dar kollha ta'"
+      "gloss": "u is-slattniet kollha"
     },
     {
       "surface": "מלכי",
-      "gloss": "is-slaten"
+      "gloss": "tas-slattniet"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "ta' Jisrael"
     },
     {
       "surface": "לא",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "għamlu"
+      "gloss": "għamlux"
     },
     {
       "surface": "כפסח",
-      "gloss": "Pesach bħal"
+      "gloss": "Pesaħ bħal"
     },
     {
       "surface": "אשר",
@@ -94,23 +73,23 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Joxijaħu"
+      "gloss": "Josijaħ"
     },
     {
       "surface": "והכהנים",
-      "gloss": "il-qassisin"
+      "gloss": "u l-irqied"
     },
     {
       "surface": "והלוים",
-      "gloss": "u l-Lewiti"
+      "gloss": "u l-Levjiti"
     },
     {
       "surface": "וכל",
-      "gloss": "u d-dar kollha"
+      "gloss": "u kollu"
     },
     {
       "surface": "יהודה",
-      "gloss": "ta' Juda"
+      "gloss": "Juda"
     },
     {
       "surface": "וישראל",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "הנמצא",
-      "gloss": "li kien preżenti"
+      "gloss": "li nstabet"
     },
     {
       "surface": "ויושבי",
@@ -126,9 +105,9 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "ta' Jerużalajim"
+      "gloss": "ta' Jeruxalajim"
     }
   ],
-  "timestamp": "2026-10-21T22:50:56.194946070Z",
+  "timestamp": "2026-10-22T00:02:14.057723398Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הפריתי\/הרביתי",
-      "rationale": "jissod l-istess għerq tal-barka ta' Ġenesi — tagħti frott u żżid, mlied b'xulxin"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ופניתי אליכם",
-      "rationale": "litteralment 'u niftir lejkom' — mħabba u leħen lejn"
-    }
-  ],
-  "translation": "U npoġġi wiċċi lejkom, u nagħmlukom li tagħtu frott, u żżidikom, u nzomm ⟨את⟩ il-patt tiegħi ⟨את⟩ magħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/26\/9-12.1792601245856.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nrġa' nħares lejkom, u nagħmlithom li jħalltu ⟨את⟩kom, u nżid ⟨את⟩kom, u nreġġa' nqajjem ⟨את⟩ il-patt tiegħi ⟨את⟩ magħkom.",
   "tokens": [
     {
       "surface": "ופניתי",
-      "gloss": "npoġġi wiċċi"
+      "gloss": "u nrġa' nħares"
     },
     {
       "surface": "אליכם",
@@ -38,25 +17,25 @@
     },
     {
       "surface": "והפריתי",
-      "gloss": "nagħmlukom li tagħtu frott"
+      "gloss": "u nagħmlithom li jħalltu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "kom — l-objett ta' 'nagħmlukom'"
+      "gloss": "⟨את⟩",
+      "marks": "kom"
     },
     {
       "surface": "והרביתי",
-      "gloss": "żżidikom"
+      "gloss": "u nżid"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom",
-      "marks": "kom — l-objett ta' 'żżidikom'"
+      "gloss": "⟨את⟩",
+      "marks": "kom"
     },
     {
       "surface": "והקימתי",
-      "gloss": "nzomm"
+      "gloss": "u nreġּa' nqajjem"
     },
     {
       "surface": "את",
@@ -72,6 +51,6 @@
       "gloss": "⟨את⟩ magħkom"
     }
   ],
-  "timestamp": "2026-10-21T16:47:25.856752503Z",
+  "timestamp": "2026-10-22T00:41:07.587811236Z",
   "model": "glm-5.3"
 }

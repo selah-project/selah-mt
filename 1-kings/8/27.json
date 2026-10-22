@@ -5,49 +5,23 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי (second)",
-      "rationale": "the second כי is absorbed into the a fortiori idiom 'kemm iktar'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אף כי",
-      "rationale": "Hebrew 'how much more\/less' a fortiori idiom rendered as Maltese 'kemm iktar'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמים\/שמי השמים",
-      "rationale": "superlative by repetition — 'smewwiet is-smewwiet' keeps the Hebrew repetition; the dual of שמים is not a countable two."
-    }
-  ],
-  "translation": "Għaliex — minn tassew jaqgħad Elohim fuq l-art? Ara, is-smewwiet u smewwiet is-smewwiet ma jistgħux jifilħuk, kemm iktar din id-dar li jien bnejt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "494601008492f3b30020b5e25620a324351a2acce6582c9f5bab104c4743c70f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/8\/25-28.1792609536448.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma ⟨jaħawwaġniżżlu⟩, Eloheim joqgħod ⟨sejjieħ⟩ fuq l-art? Ara, is-smewwiet u smewwiet is-smewwiet ma jistgħux jifilħuk ⟨ihom⟩, kemm iktar dal dar li jien bnejt!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għaliex"
+      "gloss": "imma"
     },
     {
       "surface": "האמנם",
-      "gloss": "minn tassew"
+      "gloss": "f'mod sħiħ tassew"
     },
     {
       "surface": "ישב",
-      "gloss": "jaqgħad"
+      "gloss": "joqgħod"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Eloheim"
     },
     {
       "surface": "על",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Ara"
+      "gloss": "ara"
     },
     {
       "surface": "השמים",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "kemm iktar"
+      "gloss": "kemm iktar ma"
     },
     {
       "surface": "כי",
@@ -103,9 +77,9 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "jien bnejt"
+      "gloss": "bnejt"
     }
   ],
-  "timestamp": "2026-10-21T19:05:36.449320698Z",
+  "timestamp": "2026-10-22T01:20:54.203286343Z",
   "model": "glm-5.3"
 }

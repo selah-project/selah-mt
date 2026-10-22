@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויקרב",
-      "rationale": "il-qal tal-piel 'ġabar l-qrib' għall-offerta, mhux sempliċement 'ġab'"
-    }
-  ],
-  "translation": "U Moxe ġieb il-qrib lil wliet Aharon, u libbishom qmijen, u ċingethom biċ-ċint, u rabatilhom kolpieri, kif ordna Jaħwe ⟨את⟩ lil Moxe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/13-16.1792600681509.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe qarreb ⟨את⟩ lil ulied Aharon, u lbishhom ktunet, u ċingħathom b'abnet, u ħatfilhom miġba'at, kif amra Jaħwe ⟨את⟩ lil Moxe.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "ġieb il-qrib"
+      "gloss": "qarreb"
     },
     {
       "surface": "משה",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wliet Aharon"
+      "marks": "ulied Aharon"
     },
     {
       "surface": "בני",
-      "gloss": "wliet"
+      "gloss": "ulied"
     },
     {
       "surface": "אהרן",
@@ -46,28 +30,28 @@
     },
     {
       "surface": "וילבשם",
-      "gloss": "libbishom"
+      "gloss": "lbishhom"
     },
     {
       "surface": "כתנת",
-      "gloss": "qmijen"
+      "gloss": "ktunet"
     },
     {
       "surface": "ויחגר",
-      "gloss": "ċinget"
+      "gloss": "ċingħathom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iċ-ċint"
+      "marks": "b'abnet"
     },
     {
       "surface": "אבנט",
-      "gloss": "ċint"
+      "gloss": "abnet"
     },
     {
       "surface": "ויחבש",
-      "gloss": "rabat"
+      "gloss": "ħatfilhom"
     },
     {
       "surface": "להם",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "מגבעות",
-      "gloss": "kolpieri"
+      "gloss": "miġba'at"
     },
     {
       "surface": "כאשר",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ordna"
+      "gloss": "amra"
     },
     {
       "surface": "יהוה",
@@ -99,6 +83,6 @@
       "gloss": "Moxe"
     }
   ],
-  "timestamp": "2026-10-21T16:38:01.509976673Z",
+  "timestamp": "2026-10-22T00:42:47.987530231Z",
   "model": "glm-5.3"
 }

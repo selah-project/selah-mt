@@ -5,32 +5,11 @@
   "book": "malachi",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את לוי",
-      "rationale": "Hawn את (854) hija prepożizzjoni 'ma'', mhux is-marker tal-oġġett — allura ma tinżammx bħala ⟨את⟩."
-    },
-    {
-      "kind": "alternative",
-      "subject": "להיות בריתי את לוי",
-      "rationale": "'biex il-patt tiegħi jibqa' ma' Levi' — il-verb jista' jirreferi għall-kontinwazzjoni tal-patt eżistenti (Ġenese) jew għal wieħed ġdid."
-    }
-  ],
-  "translation": "U tkunu tafu li jien bgħatt għalikom ⟨את⟩ dan il-precett, biex ikun il-patt tiegħi ⟨את⟩ ma' Levi, jgħid Jaħwe Tsebawot.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/2\/1-4.1792616500130.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tkunu tafu li jien bgħatt lilkom ⟨את⟩ din il-ordni, biex il-patt tiegħi jibqa' ma' Lewi, jgħid Jaħwe Tsebawot.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "U tkunu tafu"
+      "gloss": "tkunu tafu"
     },
     {
       "surface": "כי",
@@ -42,24 +21,24 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "għalikom"
+      "gloss": "lilkom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dan il-precett"
+      "marks": "din il-ordni"
     },
     {
       "surface": "המצוה",
-      "gloss": "il-precett"
+      "gloss": "l-ordni"
     },
     {
       "surface": "הזאת",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "להיות",
-      "gloss": "biex ikun"
+      "gloss": "biex jibqa'"
     },
     {
       "surface": "בריתי",
@@ -67,11 +46,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'"
+      "gloss": "⟨את⟩",
+      "marks": "Lewi"
     },
     {
       "surface": "לוי",
-      "gloss": "Levi"
+      "gloss": "Lewi"
     },
     {
       "surface": "אמר",
@@ -86,6 +66,6 @@
       "gloss": "Tsebawot"
     }
   ],
-  "timestamp": "2026-10-21T21:01:40.131613773Z",
+  "timestamp": "2026-10-22T00:42:38.607839732Z",
   "model": "glm-5.3"
 }

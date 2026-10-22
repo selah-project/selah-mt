@@ -5,36 +5,15 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "min",
-      "rationale": "Il-Lhudi għandu partaċipju bla suġġett; il-Malti jeħtieġ 'min'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שפט\/משפט",
-      "rationale": "Għerq wieħed tradutt għal żewġ kelmiet, il-logħba tal-gerqq tinħass"
-    }
-  ],
-  "translation": "U ⟨sema⟩ tron bis-<ħesed>, u min joĝorbu fuqu b'<emeth>, fit-tenda ta' David, jagħmel ġudizzju u jfittex il-<mishpaṭ>, u mgħaġġel bit-<tsedeq>.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c943102781b07f1a3b11ad3ac3a5d786f2ed28dd65a05f7ef13a0d10af7cebc0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/16\/5-8.1792611198718.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨se jkun⟩ mtella' bil-ħesed tron, u ⟨min⟩ joqgħod fuqu fil-verita', fil-ħejra ta' David, jagħmel ġudizzju u jfittex ġudizzju, u mgħaġġel fit-tsedeq.",
   "tokens": [
     {
       "surface": "והוכן",
-      "gloss": "u ... tron"
+      "gloss": "u ⟨se jkun⟩ mtella'"
     },
     {
       "surface": "בחסד",
-      "gloss": "bis-ħesed"
+      "gloss": "bil-ħesed"
     },
     {
       "surface": "כסא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "joĝorbu"
+      "gloss": "u ⟨min⟩ joqgħod"
     },
     {
       "surface": "עליו",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "באמת",
-      "gloss": "b'emeth"
+      "gloss": "fil-verita'"
     },
     {
       "surface": "באהל",
-      "gloss": "fit-tenda"
+      "gloss": "fil-ħejra"
     },
     {
       "surface": "דוד",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "משפט",
-      "gloss": "il-mishpaṭ"
+      "gloss": "ġudizzju"
     },
     {
       "surface": "ומהר",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "צדק",
-      "gloss": "bit-tsedeq"
+      "gloss": "fit-tsedeq"
     }
   ],
-  "timestamp": "2026-10-21T19:33:18.718910059Z",
+  "timestamp": "2026-10-22T00:25:12.283827618Z",
   "model": "glm-5.3"
 }

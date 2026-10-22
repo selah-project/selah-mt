@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "il-kelb",
-      "rationale": "'il-kelb' kliem ta' umiltà u skorn fl-Malti bħall-Lhudi; il-kontanti tal-kelma ma jinbidlux"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "l-ewwel כי (tal-bidu tal-mistoqsja) m'għandu ekwivalenti Malti u tilef"
-    }
-  ],
-  "translation": "U Ħazagħel qal: X'nirtu jien, il-qaddej tiegħek, il-kelb, li nagħmel il-kelma l-kbira din? U Elisxa qal: Werrini Jaħwe ⟨את⟩ek sultan fuq Aram.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "dd52a22c15197bf0adff6a9645bba51046d3a9445c0319a12b41584e44107654",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/8\/13-16.1792610309229.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Qażael qal: X'jnien, il-klieb jaqdi lilek, li għandu jagħmel dan il-ħaġa l-kbira? U Eliŝa qal: Ħarini Jaħwe ⟨את⟩ inti, sultan fuq Aram.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "חזהאל",
-      "gloss": "Ħazagħel"
+      "gloss": "Qażael"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "מה",
-      "gloss": "X'"
+      "gloss": "x'"
     },
     {
       "surface": "עבדך",
-      "gloss": "il-qadjej tiegħek"
+      "gloss": "il-qaddej tiegħek"
     },
     {
       "surface": "הכלב",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "nagħmel"
+      "gloss": "għandu jagħmel"
     },
     {
       "surface": "הדבר",
-      "gloss": "il-kelma"
+      "gloss": "il-ħaġa"
     },
     {
       "surface": "הגדול",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elisxa"
+      "gloss": "Eliŝa"
     },
     {
       "surface": "הראני",
-      "gloss": "Werrini"
+      "gloss": "Ħarini"
     },
     {
       "surface": "יהוה",
@@ -90,8 +69,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ek",
-      "marks": "int sultan fuq Aram"
+      "gloss": "⟨את⟩",
+      "marks": "int, sultan fuq Aram"
     },
     {
       "surface": "מלך",
@@ -106,6 +85,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-10-21T19:18:29.229708578Z",
+  "timestamp": "2026-10-22T00:04:57.018686600Z",
   "model": "glm-5.3"
 }

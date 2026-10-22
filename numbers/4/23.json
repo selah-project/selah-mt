@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "il-età tal-ġbir",
-      "rationale": "Siegħa tmin u tletin sa ħamsin sena — limitu ta' età għas-servizz"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לצבא צבא",
-      "rationale": "Infinitiv absolut 'jiżarma żarmar' — serqa militari; il-Malti jonqos"
-    }
-  ],
-  "translation": "Mniben tletin sena 'l fuq sa bin ħamsin sena tgħoddhom, lil kulmin jidħol jiżarma għall-ġemgħa, biex jaqdi x-xogħol fit-tinda tal-laqgħa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/4\/21-24.1792602443596.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Minn iben tletin sena u 'l fuq, sa iben ħamsin sena, titgħodd lilhom ⟨את⟩ lil-hom: kollha kemm huma li jidħlu jattendu għas-servizz, jagħmlu l-ħidma fit-Tinda tal-Laqgħa.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "mniben"
+      "gloss": "minn iben"
     },
     {
       "surface": "שלשים",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "'l fuq"
+      "gloss": "u 'l fuq"
     },
     {
       "surface": "עד",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "iben"
     },
     {
       "surface": "חמשים",
@@ -62,46 +41,46 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "tgħodd"
+      "gloss": "titgħodd"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ hom",
-      "marks": "kulmin jidħol"
+      "gloss": "⟨את⟩ lil-hom",
+      "marks": "kollha kemm huma (kull li jidħol għas-servizz)"
     },
     {
       "surface": "כל",
-      "gloss": "lil kulmin"
+      "gloss": "kollha kemm huma"
     },
     {
       "surface": "הבא",
-      "gloss": "jidħol"
+      "gloss": "li jidħol"
     },
     {
       "surface": "לצבא",
-      "gloss": "jiżarma"
+      "gloss": "jattendu għas-servizz"
     },
     {
       "surface": "צבא",
-      "gloss": "għall-ġemgħa"
+      "gloss": "is-servizz"
     },
     {
       "surface": "לעבד",
-      "gloss": "biex jaqdi"
+      "gloss": "jagħmlu"
     },
     {
       "surface": "עבדה",
-      "gloss": "x-xogħol"
+      "gloss": "il-ħidma"
     },
     {
       "surface": "באהל",
-      "gloss": "fit-tinda"
+      "gloss": "fit-Tinda"
     },
     {
       "surface": "מועד",
-      "gloss": "tal-laqgħa"
+      "gloss": "tal-Laqgħa"
     }
   ],
-  "timestamp": "2026-10-21T17:07:23.616595184Z",
+  "timestamp": "2026-10-22T00:47:07.449637824Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "fit-tmintax-il sena",
-      "rationale": "Id-data tar-renju b'numru sħiħ, bħal-Lhudi."
-    },
-    {
-      "kind": "addition",
-      "subject": "li",
-      "gloss": "Il-Malti jeħtieġ konġunzjoni għaċ-ċirkostanzjali 'ויהי ב…'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שפן \/ Xafan",
-      "rationale": "L-istess konsonanti tal-annimal fenek tal-blat — hawnhekk isem persuna, mhux annimal."
-    }
-  ],
-  "translation": "U ġara fit-tmintax-il sena tas-sultan Josijaħu, li s-sultan bagħat ⟨את⟩ lil Xafan bin Acaljahu bin Mexullam, l-iskriv, lejn dar Jaħwe, biex jgħid:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3e294aacb01d9b49569345410a3b82cf495368854f803515a88bdf02a1d6c199",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/22\/1-4.1792610761321.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara fis-sena tmintax-il sena tar-re Jošijaħ, li r-re bagħat lil ⟨את⟩ Šafan bin Atsaljaħu bin Mešullam, l-iskriván tad-dar ta' Jaħwe, biex jgħid:",
   "tokens": [
     {
       "surface": "ויהי",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "בשמנה",
-      "gloss": "fit-tmin…"
+      "gloss": "tmintax"
     },
     {
       "surface": "עשרה",
-      "gloss": "tax-il"
+      "gloss": "-il"
     },
     {
       "surface": "שנה",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "tas-sultan"
+      "gloss": "tar-re"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Josijaħu"
+      "gloss": "Jošijaħ"
     },
     {
       "surface": "שלח",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "המלך",
-      "gloss": "is-sultan"
+      "gloss": "ir-re"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Xafan"
+      "marks": "Šafan"
     },
     {
       "surface": "שפן",
-      "gloss": "Xafan"
+      "gloss": "Šafan"
     },
     {
       "surface": "בן",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "אצליהו",
-      "gloss": "Acaljahu"
+      "gloss": "Atsaljaħu"
     },
     {
       "surface": "בן",
@@ -88,15 +62,15 @@
     },
     {
       "surface": "משלם",
-      "gloss": "Mexullam"
+      "gloss": "Mešullam"
     },
     {
       "surface": "הספר",
-      "gloss": "l-iskriv"
+      "gloss": "l-iskriván"
     },
     {
       "surface": "בית",
-      "gloss": "dar"
+      "gloss": "tad-dar"
     },
     {
       "surface": "יהוה",
@@ -107,6 +81,6 @@
       "gloss": "biex jgħid"
     }
   ],
-  "timestamp": "2026-10-21T19:26:01.322906095Z",
+  "timestamp": "2026-10-22T00:04:22.017383799Z",
   "model": "glm-5.3"
 }

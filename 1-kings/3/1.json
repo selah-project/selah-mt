@@ -5,45 +5,24 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "lil",
-      "rationale": "Maltese requires the direct-object preposition lil before bint Peraħ"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כלתו\/לבנות",
-      "rationale": "word pair 'finish\/build' (kalah\/banah) repeated across Kings; kept in sequence 'sa ma lesta biex jibni'"
-    }
-  ],
-  "translation": "Ix-xenx ibbaħrah ma' Peraħ, sultan ta' Mitsrajim, u ħa ⟨את⟩ lil bint Peraħ u daħħalha fiċ-ċittà ta' David, sa ma lesta biex jibni ⟨את⟩ daru u ⟨את⟩ id-dar ta' Jaħwe u ⟨את⟩ ħajt Jeruxalajim madwar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/3\/1-4.1792609379785.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Xalomo żżewweġ ma' Faragħon, sultan ta' Mitsrajim, u ħa ⟨את⟩ lil bint Faragħon u daħħalha fiċ-ċittà ta' David, sa ma lesta li jibni ⟨את⟩ daru, u ⟨את⟩ id-dar ta' Jaħwe, u ⟨את⟩ ħajt Jeruxalajim madwar.",
   "tokens": [
     {
       "surface": "ויתחתן",
-      "gloss": "ibbaħrah ma'"
+      "gloss": "żżewweġ"
     },
     {
       "surface": "שלמה",
-      "gloss": "Ix-xenx"
+      "gloss": "Xalomo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Peraħ"
+      "marks": "Faragħon"
     },
     {
       "surface": "פרעה",
-      "gloss": "Peraħ"
+      "gloss": "Faragħon"
     },
     {
       "surface": "מלך",
@@ -51,16 +30,16 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ta' Mitsrajim"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "ויקח",
-      "gloss": "u ħa"
+      "gloss": "ħa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bint Peraħ"
+      "marks": "bint"
     },
     {
       "surface": "בת",
@@ -68,23 +47,23 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Peraħ"
+      "gloss": "Faragħon"
     },
     {
       "surface": "ויביאה",
-      "gloss": "u daħħalha"
+      "gloss": "daħħalha"
     },
     {
       "surface": "אל",
-      "gloss": "fiċ-"
+      "gloss": "fi"
     },
     {
       "surface": "עיר",
-      "gloss": "ċittà"
+      "gloss": "iċ-ċittà"
     },
     {
       "surface": "דוד",
-      "gloss": "ta' David"
+      "gloss": "David"
     },
     {
       "surface": "עד",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "biex jibni"
+      "gloss": "jibni"
     },
     {
       "surface": "את",
@@ -110,7 +89,7 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "id-dar ta' Jaħwe"
+      "marks": "id-dar"
     },
     {
       "surface": "בית",
@@ -118,12 +97,12 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ta' Jaħwe"
+      "gloss": "Jaħwe"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "ħajt Jeruxalajim"
+      "marks": "ħajt"
     },
     {
       "surface": "חומת",
@@ -138,6 +117,6 @@
       "gloss": "madwar"
     }
   ],
-  "timestamp": "2026-10-21T19:02:59.786328143Z",
+  "timestamp": "2026-10-21T23:57:33.896577816Z",
   "model": "glm-5.3"
 }

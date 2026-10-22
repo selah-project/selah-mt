@@ -5,49 +5,28 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אפי",
-      "rationale": "litteralment 'imnieħri' — l-ghira biċ-ċaqliqa ta' wiċċ Alla joħroġ ħarub"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "armlajjar · jitim",
-      "rationale": "il-kastig jaqbel ma' delitt: li taħriġ l-arma u l-jitim jagħmilhom stess"
-    }
-  ],
-  "translation": "u jaħraq l-ghira tiegħi, u nqiltkom bil-xabla, u nisienkom jsiru armlajjar u wlidkom jitim.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/22\/21-24.1792599730527.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jaħraq in-rabja tiegħi, u nieqtol lilkom ⟨את⟩ bil-xaba, u n-nisa tagħkom jsiru armelat, u wlidkom ltieja.",
   "tokens": [
     {
       "surface": "וחרה",
-      "gloss": "u jaħraq"
+      "gloss": "jaħraq"
     },
     {
       "surface": "אפי",
-      "gloss": "l-ghira tiegħi"
+      "gloss": "ir-rabja tiegħi"
     },
     {
       "surface": "והרגתי",
-      "gloss": "u nqiltkom"
+      "gloss": "u nieqtol"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "kom"
+      "marks": "lilkom bil-xaba"
     },
     {
       "surface": "בחרב",
-      "gloss": "bil-xabla"
+      "gloss": "bil-xaba"
     },
     {
       "surface": "והיו",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "נשיכם",
-      "gloss": "nisienkom"
+      "gloss": "n-nisa tagħkom"
     },
     {
       "surface": "אלמנות",
-      "gloss": "armlajjar"
+      "gloss": "armelat"
     },
     {
       "surface": "ובניכם",
@@ -67,9 +46,9 @@
     },
     {
       "surface": "יתמים",
-      "gloss": "jitim"
+      "gloss": "ltieja"
     }
   ],
-  "timestamp": "2026-10-21T16:22:10.528890262Z",
+  "timestamp": "2026-10-22T00:13:18.903017966Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חלק",
-      "rationale": "'qassam\/apportiona' — l-istilel tħalltu 'assigned' lill-ġnus biex ix-xemx tqimhom; l-alternattiva hija li Alla ħalliehom biss għall-ġnus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "titwieġed",
-      "rationale": "השתחווה litteralment 'jinxteħet ma' l-art', prostrazzjoni"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Israel",
-      "rationale": "Mosè jindirizza lil Israel direttament bil-plural"
-    }
-  ],
-  "translation": "u ħalli ma tħarish għajnejk lejn is-sema, u tarah ⟨את⟩ ix-xemx u ⟨את⟩ il-qamar u ⟨את⟩ l-istilel, id-dawl kollu tas-sema, u tiġi mġedbla u titwieġed lilhom u tqeddemhom, lilhom li Jaħwe, l-Elohim tiegħek, qassam lilhom lil-irġiel kollha taħt is-sema kollu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/4\/17-20.1792605354076.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U biex ma tpoġġix għajnejk lejn is-sema, u tara ⟨את⟩ ix-xemx u ⟨את⟩ il-qamar u ⟨את⟩ l-istejjer, l-armata kollha tas-sema, u tiġi mġeddeb u tilqgħilhom ġieħ u taqdihom — ⟨את⟩ lilhom Jaħwe, l-Elohim tiegħek, qassamhom lil-popli kollha taħt is-sema kollu.",
   "tokens": [
     {
       "surface": "ופן",
-      "gloss": "u ħalli ma"
+      "gloss": "u biex ma"
     },
     {
       "surface": "תשא",
-      "gloss": "tħarish"
+      "gloss": "tpoġġix"
     },
     {
       "surface": "עיניך",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "וראית",
-      "gloss": "u tarah"
+      "gloss": "u tara"
     },
     {
       "surface": "את",
@@ -74,19 +48,19 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-istilel"
+      "marks": "l-istejjer"
     },
     {
       "surface": "הכוכבים",
-      "gloss": "l-istilel"
+      "gloss": "l-istejjer"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "צבא",
-      "gloss": "id-dawl"
+      "gloss": "l-armata"
     },
     {
       "surface": "השמים",
@@ -94,11 +68,11 @@
     },
     {
       "surface": "ונדחת",
-      "gloss": "tiġi mġedbla"
+      "gloss": "u tiġi mġeddeb"
     },
     {
       "surface": "והשתחוית",
-      "gloss": "titwieġed"
+      "gloss": "u tilqgħilhom ġieħ"
     },
     {
       "surface": "להם",
@@ -106,11 +80,11 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "u tqeddemhom"
+      "gloss": "u taqdihom"
     },
     {
       "surface": "אשר",
-      "gloss": "lilhom li"
+      "gloss": "li"
     },
     {
       "surface": "חלק",
@@ -126,15 +100,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "il-qamar, l-istejjer u l-armata tas-sema"
     },
     {
       "surface": "לכל",
-      "gloss": "lil-irġiel kollha"
+      "gloss": "lil-"
     },
     {
       "surface": "העמים",
-      "gloss": "irġiel"
+      "gloss": "popli kollha"
     },
     {
       "surface": "תחת",
@@ -146,9 +121,9 @@
     },
     {
       "surface": "השמים",
-      "gloss": "tas-sema"
+      "gloss": "is-sema"
     }
   ],
-  "timestamp": "2026-10-21T17:55:54.077565891Z",
+  "timestamp": "2026-10-22T00:11:44.429333335Z",
   "model": "glm-5.3"
 }

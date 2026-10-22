@@ -5,29 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "רב טבחים",
-      "rationale": "'Kaptan tat-tabbaħ' — l-eżekutur kap ta' Nebukadnessar; żommiet litterali bħal f'vers 18"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם (it-tieni)",
-      "gloss": "",
-      "rationale": "It-tieni אתם fil-vers huwa l-istess suffiss tal-objett; ma jidhirx darb'oħra fil-Malti"
-    }
-  ],
-  "translation": "U Nebuzaradan, il-kap tat-tabbaħ, ħa ⟨את⟩ lilhom u mexxieħom għand ir-re ta' Babel, f'Riblatha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/17-20.1792610815601.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Nevużaradan, kap tal-biċċieri, ħa lilhom ⟨את⟩, u wassalhom lilhom ⟨את⟩ għand ir-re ta' Babilonja, f'Rivla.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -36,23 +14,23 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom (dawk tal-versi 18–19)"
+      "marks": "lilhom"
     },
     {
       "surface": "נבוזראדן",
-      "gloss": "Nebuzaradan"
+      "gloss": "Nevużaradan"
     },
     {
       "surface": "רב",
-      "gloss": "il-kap"
+      "gloss": "kap"
     },
     {
       "surface": "טבחים",
-      "gloss": "tat-tabbaħ"
+      "gloss": "tal-biċċieri"
     },
     {
       "surface": "וילך",
-      "gloss": "u mexxieħom"
+      "gloss": "u wassal"
     },
     {
       "surface": "אתם",
@@ -69,13 +47,13 @@
     },
     {
       "surface": "בבל",
-      "gloss": "ta' Babel"
+      "gloss": "ta' Babilonja"
     },
     {
       "surface": "רבלתה",
-      "gloss": "f'Riblatha"
+      "gloss": "f'Rivla"
     }
   ],
-  "timestamp": "2026-10-21T19:26:55.606852407Z",
+  "timestamp": "2026-10-22T00:05:09.544793750Z",
   "model": "glm-5.3"
 }

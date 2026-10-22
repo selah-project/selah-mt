@@ -5,44 +5,23 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "קדש קדשים",
-      "rationale": "Hebrew superlative 'holy of holies', rendered as intensified 'ta' l-iktar qdusija'."
-    },
-    {
-      "kind": "elision",
-      "subject": "להם",
-      "rationale": "Pronoun folded into the verb 'jkollhom'; no separate Maltese word."
-    }
-  ],
-  "translation": "U jkollhom trumija mit-truma tal-art, qdusija ta' l-iktar qdusija, ħdejn il-fruntiera tal-Lewiti.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5109d648885e9829618844b9a027af5364eeaed09e2d0c405539f40a0a8b61d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/48\/9-12.1792615288257.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨hija⟩ sejra tkun għalihom terumja mit-teruma tal-art, qaddis ta' qaddisin, mal-fruntiera tal-Lewjiti.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "U jkollhom"
+      "gloss": "sejra tkun"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "għalihom"
     },
     {
       "surface": "תרומיה",
-      "gloss": "trumija"
+      "gloss": "terumja"
     },
     {
       "surface": "מתרומת",
-      "gloss": "mit-truma"
+      "gloss": "mit-teruma"
     },
     {
       "surface": "הארץ",
@@ -50,25 +29,25 @@
     },
     {
       "surface": "קדש",
-      "gloss": "qdusija"
+      "gloss": "qaddis"
     },
     {
       "surface": "קדשים",
-      "gloss": "ta' l-iktar qdusija"
+      "gloss": "ta' qaddisin"
     },
     {
       "surface": "אל",
-      "gloss": "ħdejn"
+      "gloss": "mal-"
     },
     {
       "surface": "גבול",
-      "gloss": "il-fruntiera"
+      "gloss": "fruntiera"
     },
     {
       "surface": "הלוים",
-      "gloss": "tal-Lewiti"
+      "gloss": "tal-Lewjiti"
     }
   ],
-  "timestamp": "2026-10-21T20:41:28.258551152Z",
+  "timestamp": "2026-10-22T00:19:38.017901715Z",
   "model": "glm-5.3"
 }

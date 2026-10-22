@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "fiz-żball",
-      "rationale": "il-Malti 'żball' huwa qrib ta' bilqawd ta' שקר — l-istess għerq Semitiku"
-    },
-    {
-      "kind": "alternative",
-      "subject": "taqdir",
-      "rationale": "גורל jlittiralment 'ċagħqa' (l-lott tixħet bil-ġebel); 'is-sehm' iehor"
-    }
-  ],
-  "translation": "Dan huwa t-taqdir tiegħek, il-porzjon tal-kejl tiegħek minn ⟨את⟩ ġindi, jgħid Jaħwe, għaliex intiensiet lilji u tafdiet fiz-żball.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ca8c1ed7db494c8d88084d6e18d5d07ac5ad522494543ce890fd9f6c7a65372c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/13\/25-27.1792612685589.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dan huwa l-lott tiegħek, is-sehem imkejla għalik minn għand ⟨את⟩ jien, jgħid Jaħwe, għax int insejt lil ⟨את⟩ jien u tafdajt fil-gideb.",
   "tokens": [
     {
       "surface": "זה",
@@ -34,20 +13,19 @@
     },
     {
       "surface": "גורלך",
-      "gloss": "t-taqdir tiegħek"
+      "gloss": "l-lott tiegħek"
     },
     {
       "surface": "מנת",
-      "gloss": "il-porzjon"
+      "gloss": "is-sehem"
     },
     {
       "surface": "מדיך",
-      "gloss": "tal-kejl tiegħek"
+      "gloss": "imkejla għalik"
     },
     {
       "surface": "מאתי",
-      "gloss": "minn ⟨את⟩ ġindi",
-      "marks": "il-porzjon tal-kejl tiegħek"
+      "gloss": "minn għand ⟨את⟩ jien"
     },
     {
       "surface": "נאם",
@@ -59,26 +37,26 @@
     },
     {
       "surface": "אשר",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "שכחת",
-      "gloss": "intiensiet"
+      "gloss": "insejt"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ lilji",
-      "marks": "lilja (lil Jaħwe)"
+      "gloss": "⟨את⟩",
+      "marks": "jien"
     },
     {
       "surface": "ותבטחי",
-      "gloss": "u tafdiet"
+      "gloss": "u tafdajt"
     },
     {
       "surface": "בשקר",
-      "gloss": "fiz-żball"
+      "gloss": "fil-gideb"
     }
   ],
-  "timestamp": "2026-10-21T19:58:05.590233727Z",
+  "timestamp": "2026-10-22T00:28:00.285893523Z",
   "model": "glm-5.3"
 }

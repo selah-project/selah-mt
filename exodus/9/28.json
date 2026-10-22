@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vuċijiet ta' Elohim",
-      "rationale": "קלת אלהים litteralment 'vuċijiet ta' Elohim' — ragħad qawwi; ma traducejtx 'ragħad' biex inżomm il-forma"
-    },
-    {
-      "kind": "alternative",
-      "subject": "għax sar biżżejjed",
-      "rationale": "ורב jista' jinqra 'għax hemm wisq' jew '(għax) huwa biżżejjed'; ħdirt it-tieni waħda ta' ASV\/JPS"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moshe u Aharon",
-      "rationale": "Fargħun jindirizza lil Moxe u lil Aharon direttament b'imperattiv"
-    }
-  ],
-  "translation": "Talbu lil Jaħwe, għax sar biżżejjed minn dawn il-vuċijiet ta' Elohim u mis-silġ, u nirilħakom, u ma tibqgħux iktar ⟨waqfin hemm⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "45f0a0a708101b2dcd8388913491dda78a60b7ca9da39a414a691cad7797e1aa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/9\/26-28.1792602097536.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Itolbu lil Jaħwe, għax hemm biżżejjed vuċijiet ta' Elohim u silġ, u jien nibgħat lilkom ⟨את⟩, u ma tzidux tqegħdu.",
   "tokens": [
     {
       "surface": "העתירו",
-      "gloss": "Talbu"
+      "gloss": "Itolbu"
     },
     {
       "surface": "אל",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ורב",
-      "gloss": "għax sar biżżejjed"
+      "gloss": "għax hemm biżżejjed"
     },
     {
       "surface": "מהית",
-      "gloss": "minn"
+      "gloss": "mill-"
     },
     {
       "surface": "קלת",
-      "gloss": "dawn il-vuċijiet"
+      "gloss": "vuċijiet"
     },
     {
       "surface": "אלהים",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "וברד",
-      "gloss": "u mis-silġ"
+      "gloss": "u silġ"
     },
     {
       "surface": "ואשלחה",
-      "gloss": "u nirilħakom"
+      "gloss": "u jien nibgħat"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "intkom"
+      "marks": "lilkom"
     },
     {
       "surface": "ולא",
@@ -80,13 +54,13 @@
     },
     {
       "surface": "תספון",
-      "gloss": "tibqgħux iktar"
+      "gloss": "tzidux"
     },
     {
       "surface": "לעמד",
-      "gloss": "waqfin hemm"
+      "gloss": "tqegħdu"
     }
   ],
-  "timestamp": "2026-10-21T17:01:37.541413676Z",
+  "timestamp": "2026-10-22T00:15:35.517526875Z",
   "model": "glm-5.3"
 }

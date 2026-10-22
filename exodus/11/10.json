@@ -5,30 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-qalb",
-      "gloss": "il-qalb",
-      "rationale": "לב is literally 'heart', seat of will and feeling, not merely emotion"
-    },
-    {
-      "kind": "alternative",
-      "subject": "saħħaħ",
-      "gloss": "saħħaħ",
-      "rationale": "ויחזק is literally 'strengthened\/made firm'; 'hardened' (ieqqeż\/ġebbel) is the traditional but less literal rendering"
-    }
-  ],
-  "translation": "U Moxe u Aharon għamlu ⟨את⟩ dawn il-mtiers kollha quddiem il-Fargħon; u Jaħwe saħħaħ ⟨את⟩ il-qalb tal-Fargħon, u ma bxättx lil wlied Jisrael minn artu.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "906ca885bed15f84686871f47ab741839238b14e541e5656b782c184a8ed1a80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/11\/9-10.1792599351708.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe u Aharon għamlu ⟨את⟩ dawn il-moħbiet kollha quddiem Farħon; u Jaħwe saħħaħ ⟨את⟩ qalb Farħon, u ma lazqaħx lil ⟨את⟩ wlied Jisrael minn artu.",
   "tokens": [
     {
       "surface": "ומשה",
@@ -45,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawn il-mtiers kollha"
+      "marks": "dawn il-moħbiet kollha"
     },
     {
       "surface": "כל",
@@ -53,7 +30,7 @@
     },
     {
       "surface": "המפתים",
-      "gloss": "il-mtiers"
+      "gloss": "il-moħbiet"
     },
     {
       "surface": "האלה",
@@ -65,7 +42,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "il-Fargħon"
+      "gloss": "Farħon"
     },
     {
       "surface": "ויחזק",
@@ -78,32 +55,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-qalb"
+      "marks": "qalb Farħon"
     },
     {
       "surface": "לב",
-      "gloss": "il-qalb"
+      "gloss": "qalb"
     },
     {
       "surface": "פרעה",
-      "gloss": "tal-Fargħon"
+      "gloss": "Farħon"
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "u ma... x"
     },
     {
       "surface": "שלח",
-      "gloss": "bxättx"
+      "gloss": "lazqaħ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil wlied Jisrael"
+      "marks": "wlied Jisrael"
     },
     {
       "surface": "בני",
-      "gloss": "lil wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "ישראל",
@@ -114,6 +91,6 @@
       "gloss": "minn artu"
     }
   ],
-  "timestamp": "2026-10-21T16:15:51.709906325Z",
+  "timestamp": "2026-10-22T00:12:45.382278242Z",
   "model": "glm-5.3"
 }

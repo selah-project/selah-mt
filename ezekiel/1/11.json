@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kienu",
-      "rationale": "il-kopula Maltija meħtieġa, il-Lhudi ma jgħidhiex"
-    },
-    {
-      "kind": "alternative",
-      "subject": "minn fuq",
-      "rationale": "פרדות מלמעלה jista' jkun 'miftuħa\/mtajra minn fuq' (KJV) jew 'separati minn fuq' (ASV)"
-    }
-  ],
-  "translation": "U wċcuhom u ġwienaħ tagħhom kienu separati minn fuq; għal kull waħda żewġ kienu mwaħħla flimkien, u żewġ kienu jgħattu ⟨את⟩ l-iġsma tagħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c2064f9d6c31054ecd64abb83845003ab14c943a031c8a1077ece208ee717401",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/1\/9-12.1792613991410.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wiċċhom u ħwienarhom kienu sseparati minn fuq; kull waħda kellha żewġt ħwienar maqgħdin ma' xulxin, u żewġt ħwienar li kienu jgħattu ⟨את⟩ ġisimhom.",
   "tokens": [
     {
       "surface": "ופניהם",
-      "gloss": "u wċcuhom"
+      "gloss": "u wiċċhom"
     },
     {
       "surface": "וכנפיהם",
-      "gloss": "u ġwienaħ tagħhom"
+      "gloss": "u ħwienarhom"
     },
     {
       "surface": "פרדות",
-      "gloss": "separati"
+      "gloss": "sseparati"
     },
     {
       "surface": "מלמעלה",
@@ -46,38 +25,38 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "għal kull waħda"
-    },
-    {
-      "surface": "שתים",
-      "gloss": "żewġ"
-    },
-    {
-      "surface": "חברות",
-      "gloss": "mwaħħla flimkien"
-    },
-    {
-      "surface": "איש",
       "gloss": "kull waħda"
     },
     {
+      "surface": "שתים",
+      "gloss": "żewġt"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "maqgħdin ma' xulxin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "waħda"
+    },
+    {
       "surface": "ושתים",
-      "gloss": "u żewġ"
+      "gloss": "u żewġt"
     },
     {
       "surface": "מכסות",
-      "gloss": "jgħattu"
+      "gloss": "li jgħattu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-iġsma tagħhom"
+      "marks": "ġisimhom"
     },
     {
       "surface": "גויתיהנה",
-      "gloss": "l-iġsma tagħhom"
+      "gloss": "ġisimhom"
     }
   ],
-  "timestamp": "2026-10-21T20:19:51.411915307Z",
+  "timestamp": "2026-10-22T00:15:37.397737317Z",
   "model": "glm-5.3"
 }

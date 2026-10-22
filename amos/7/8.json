@@ -5,34 +5,7 @@
   "book": "amos",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עבור לו",
-      "rationale": "'nippassahom għadha' (KJV) kontra 'naħfrilhom għal qatt' (JPS); עבור jifhem it-tnejn — li tgħaddi minn ħdejhom jew li taħfrilhom"
-    },
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "gloss": "",
-      "notes": "preposizzjoni mgħoddija ma' עבור, ma għandha ekwivalenti separat fil-Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "Amos",
-      "rationale": "mistoqsja diretta ta' Jaħwe lill-profeta b'ismu"
-    }
-  ],
-  "translation": "U Jaħwe qal lili: X'inti qed tara, Amos? U għidt: Linja-ta'-piż. U Adonaj qal: Ara, jien nieqaf nieħu l-linja-ta'-piż fin-nofs ta' niesi Jisrael; ma nżidx naħfrilhom għal qatt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "017278a1acea0664c26e2371618b79c16cd1963aff64f0cfa7194ee702fbaf1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/7\/5-8.1792615810614.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe qal lili: X'qed tara, Amos? U jgħid: ⟨linja tal-pjomb⟩. U qal Adonaj: Ara, jien qiegħed nipoġġi linja tal-pjob ⟨f'nofs⟩ ta' niesi Jisrael; mhux se nzid inqbez għalihom iktar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "inti"
+      "gloss": "int"
     },
     {
       "surface": "ראה",
@@ -64,11 +37,11 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "U għidt"
+      "gloss": "u jgħid"
     },
     {
       "surface": "אנך",
-      "gloss": "Linja-ta'-piż"
+      "gloss": "linja tal-pjomb"
     },
     {
       "surface": "ויאמר",
@@ -84,19 +57,19 @@
     },
     {
       "surface": "שם",
-      "gloss": "nieqaf nieħu"
+      "gloss": "qiegħed nipoġġi"
     },
     {
       "surface": "אנך",
-      "gloss": "l-linja-ta'-piż"
+      "gloss": "linja tal-pjomb"
     },
     {
       "surface": "בקרב",
-      "gloss": "fin-nofs"
+      "gloss": "f'noofs ta'"
     },
     {
       "surface": "עמי",
-      "gloss": "ta' niesi"
+      "gloss": "niesi"
     },
     {
       "surface": "ישראל",
@@ -104,25 +77,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "אוסיף",
-      "gloss": "nżidux"
+      "gloss": "se nzid"
     },
     {
       "surface": "עוד",
-      "gloss": "għal qatt"
+      "gloss": "iktar"
     },
     {
       "surface": "עבור",
-      "gloss": "naħfrilhom"
+      "gloss": "nqabez"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "għalihom"
     }
   ],
-  "timestamp": "2026-10-21T20:50:10.615929340Z",
+  "timestamp": "2026-10-22T00:51:58.402662309Z",
   "model": "glm-5.3"
 }

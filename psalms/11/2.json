@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jieklsu",
-      "rationale": "ידרכון tfisser litteralment 'jiġbdu bil-mixi' — dawn jikkalċjaw il-qaws bi saqajhom biex jilqgħuha"
-    }
-  ],
-  "translation": "Għax araw, il-ħżiena jieklsu l-qaws, ħejjaw il-vleġġa tagħhom fuq il-ħabel, biex jisparaw fid-dlam lil dawk ta' qalb dritta.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/11\/1-4.1792616679507.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex araw, il-ħżiena jaħbtu l-qaws,ħa sebbħu vleġġa tagħhom fuq il-ħabel, biex jisparaw fin-nofs ta' d-dlam kontra dawk ta' qalb dritta.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "הנה",
@@ -37,19 +21,19 @@
     },
     {
       "surface": "ידרכון",
-      "gloss": "jieklsu"
+      "gloss": "jaħbtu"
     },
     {
       "surface": "קשת",
-      "gloss": "l-qaws"
+      "gloss": "il-qaws"
     },
     {
       "surface": "כוננו",
-      "gloss": "ħejjaw"
+      "gloss": "sebbħu"
     },
     {
       "surface": "חצם",
-      "gloss": "il-vleġġa tagħhom"
+      "gloss": "vleġġa tagħhom"
     },
     {
       "surface": "על",
@@ -65,21 +49,21 @@
     },
     {
       "surface": "במו",
-      "gloss": "fi"
+      "gloss": "f'nofs"
     },
     {
       "surface": "אפל",
-      "gloss": "d-dlam"
+      "gloss": "dd-dlam"
     },
     {
       "surface": "לישרי",
-      "gloss": "ta' qalb dritta"
+      "gloss": "dawk ta' qalb dretta"
     },
     {
       "surface": "לב",
-      "gloss": ""
+      "gloss": "qalb"
     }
   ],
-  "timestamp": "2026-10-21T21:04:39.508703628Z",
+  "timestamp": "2026-10-22T00:48:40.973001730Z",
   "model": "glm-5.3"
 }

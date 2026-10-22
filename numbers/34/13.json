@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "disa' tribujiet u nofs it-tribù",
-      "rationale": "għadd ta' tribujiet li jaqsmu l-art bil-lott"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מטה",
-      "rationale": "mastil\/fergħa użat għal tribù; il-ktieb tal-imgħallem jqiegħedha biss bħala tribù"
-    }
-  ],
-  "translation": "U Moxe amar lil wlied Jisrael, jgħid: Din hija l-art li se titwarrab b'wirt lilkom bil-lott ⟨את⟩, li ħadmar Jaħwe li tingħata lil disa'tribujiet u nofs it-tribù.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "830569e4aaacb35d5c969e1e19d1a6c3976e2862d8517dea517f7381f7e05a07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/34\/13-16.1792605211631.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe amar ⟨את⟩ lil ulied Jisrael, jgħid: Din hija l-art li se twarthu ⟨את⟩ bil-lotterija (għoral), kif amar Jaħwe jagħtiha lil disa' mitt-tribù u nofs it-tribù.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "amar"
+      "gloss": "amar bil-amar"
     },
     {
       "surface": "משה",
@@ -38,12 +17,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ lil",
-      "marks": "wlied Jisrael"
+      "gloss": "⟨את⟩",
+      "marks": "lil ulied Jisrael"
     },
     {
       "surface": "בני",
-      "gloss": "wlied"
+      "gloss": "ulied"
     },
     {
       "surface": "ישראל",
@@ -67,24 +46,24 @@
     },
     {
       "surface": "תתנחלו",
-      "gloss": "se titwarrab b'wirt lilkom"
+      "gloss": "twarthu"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "bil-lott"
+      "marks": "l-art (twarrtu bil-għoral)"
     },
     {
       "surface": "בגורל",
-      "gloss": "bil-lott"
+      "gloss": "bil-għoral"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "kif"
     },
     {
       "surface": "צוה",
-      "gloss": "ħadmar"
+      "gloss": "amar"
     },
     {
       "surface": "יהוה",
@@ -92,15 +71,15 @@
     },
     {
       "surface": "לתת",
-      "gloss": "li tingħata"
+      "gloss": "jagħtiha"
     },
     {
       "surface": "לתשעת",
-      "gloss": "lil disa'"
+      "gloss": "lil disa' minn"
     },
     {
       "surface": "המטות",
-      "gloss": "tribujiet"
+      "gloss": "it-tribujiet"
     },
     {
       "surface": "וחצי",
@@ -111,6 +90,6 @@
       "gloss": "it-tribù"
     }
   ],
-  "timestamp": "2026-10-21T17:53:31.632124371Z",
+  "timestamp": "2026-10-22T01:21:03.724087580Z",
   "model": "glm-5.3"
 }

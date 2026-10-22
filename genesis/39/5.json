@@ -5,45 +5,24 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "segħa",
-      "rationale": "שדה huwa l-għalqa mkabbra; fis-segħa tfisser 'fil-kampanja', l-iktar qrib għad-dwiel Malti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויברך\/ברכת",
-      "rationale": "għerq ברך jerġa' jiġi darbtejn fil-vers, berik u barkiet, ripetizzjoni retorika"
-    }
-  ],
-  "translation": "U ⟨kien⟩ minn dak iż-żmien li poġġieh fuq daru u fuq kollu li għandu, li Jaħwe berik ⟨את⟩ id-dar tal-Mitsri minħabba Jossif; u barkiet Jaħwe kienet fuq kollu li għandu, fid-dar u fis-segħa.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "6cb89b38fe57823e7b93867d9971969a9a91d111bfb450f881f1729ae48c953e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/39\/5-8.1792598850592.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mill-ħin li poġġieh fuq daru u fuq kollu li għandu, Jaħwe berik ⟨את⟩ id-dar tal-Mitsri minħabba Juxef; u berikta ta' Jaħwe kienet fuq kollu li għandu, fid-dar u fis-sit.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "u kien"
+      "gloss": "U kien"
     },
     {
       "surface": "מאז",
-      "gloss": "minn dak iż-żmien"
+      "gloss": "mill-ħin"
     },
     {
       "surface": "הפקיד",
-      "gloss": "poġġieh"
+      "gloss": "poġġieh responsabbli"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "fuq daru"
+      "gloss": "⟨את⟩",
+      "marks": "fuq daru — lilu"
     },
     {
       "surface": "בביתו",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "hu"
+      "gloss": "(għandu)"
     },
     {
       "surface": "ויברך",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "id-dar"
+      "gloss": "dar"
     },
     {
       "surface": "המצרי",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Jossif"
+      "gloss": "Juxef"
     },
     {
       "surface": "ויהי",
@@ -104,11 +83,11 @@
     },
     {
       "surface": "ברכת",
-      "gloss": "barkiet"
+      "gloss": "berikta"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "בכל",
@@ -124,7 +103,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "hu"
+      "gloss": "(għandu)"
     },
     {
       "surface": "בבית",
@@ -132,9 +111,9 @@
     },
     {
       "surface": "ובשדה",
-      "gloss": "u fis-segħa"
+      "gloss": "u fis-sit"
     }
   ],
-  "timestamp": "2026-10-21T16:07:30.593320781Z",
+  "timestamp": "2026-10-22T00:22:39.925043166Z",
   "model": "glm-5.3"
 }

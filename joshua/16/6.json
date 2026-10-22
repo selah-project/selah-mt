@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "il-fruntiera",
-      "rationale": "Sigħa ta' konfini ġeografiċi — miżien bit-toroq tal-fruntiera"
-    },
-    {
-      "kind": "crux",
-      "subject": "ועבר אותו",
-      "rationale": "'għaddiet lil-⟨את⟩' — xi traduzzjonijiet jgħidu 'għaddiet minn ħdejha' (ASV\/JPS 'passed along it') kontra 'għaddietha' (KJV 'passed by it')"
-    }
-  ],
-  "translation": "U l-fruntieri לfruntiera ħarġet lejn il-baħar; Mikmetat mit-tramuntana, u l-fruntiera dawret lejn il-lvant sa Taanat-Xiloh, u għaddiet lil ⟨את⟩ minn fil-lvant sa Janoħa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "84ee85e2fbce130027ef2212ca2343e7771ede97bfec44043414909ef217ad43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/16\/5-8.1792606646388.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Uħroġ il-fruntiera lejn il-baħar; il-Mikmetat tinsab mit-tramuntana, u ddawwar il-fruntiera lejn il-lvant sa Taʼanat-Xilo, u tgħaddi minn ⟨את⟩ nefqha mil-lvant sa Janoħa.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "U ħarġet"
+      "gloss": "uħroġ"
     },
     {
       "surface": "הגבול",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "המכמתת",
-      "gloss": "Mikmetat"
+      "gloss": "il-Mikmetat"
     },
     {
       "surface": "מצפון",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ונסב",
-      "gloss": "u dawret"
+      "gloss": "u ddawwar"
     },
     {
       "surface": "הגבול",
@@ -62,30 +41,30 @@
     },
     {
       "surface": "תאנת",
-      "gloss": "Taanat-"
+      "gloss": "Taʼanat"
     },
     {
       "surface": "שלה",
-      "gloss": "Xiloh"
+      "gloss": "Xilo"
     },
     {
       "surface": "ועבר",
-      "gloss": "u għaddiet"
+      "gloss": "u tgħaddi minn"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "minn fil-lvant (il-fruntiera ta' Taanat-Xiloh)"
+      "marks": "nefqha (il-post Taʼanat-Xilo)"
     },
     {
       "surface": "ממזרח",
-      "gloss": "minn fil-lvant"
+      "gloss": "mil-lvant"
     },
     {
       "surface": "ינוחה",
-      "gloss": "sa Janoħa"
+      "gloss": "Janoħa"
     }
   ],
-  "timestamp": "2026-10-21T18:17:26.389419448Z",
+  "timestamp": "2026-10-22T00:34:22.729707883Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nassen",
-      "rationale": "הקימותי literally 'qajmt\/irdajt' — tron 'jinassen' milli 'jinġeb'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יכרת \/ הכרתי",
-      "rationale": "l-istess għerq כרת (qata') jidher fil-wegħda (9:5) u fit-theddida (9:7) — kontrast li jintilef bil-Malti"
-    }
-  ],
-  "translation": "Inassen it-tron tas-saltna tiegħek fuq Jisrael għal-dejjem, kif għidt lil David missierek, billi ngħid: Ma jitnaqqar għalik raġel minn fuq it-tron ta' Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/9\/5-8.1792609638143.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Innagħmel ⟨את⟩ it-tron tas-saltna tiegħek tqil fuq Jisrael għal dejjem, kif ktibt qabel lil David missierek, biex ngħid: Mhux se jitqatta' għalik raġel minn fuq it-tron ta' Jisrael.",
   "tokens": [
     {
-      "surface": "והקימתי",
-      "gloss": "Inassen"
+      "surface": "והקמתי",
+      "gloss": "Innagħmel tqil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tron"
+      "marks": "it-tron tas-saltna tiegħek"
     },
     {
       "surface": "כסא",
@@ -54,8 +33,8 @@
       "gloss": "Jisrael"
     },
     {
-      "surface": "לעולם",
-      "gloss": "għal-dejjem"
+      "surface": "לעלם",
+      "gloss": "għal dejjem"
     },
     {
       "surface": "כאשר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "għidt"
+      "gloss": "ktibt qabel"
     },
     {
       "surface": "על",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "billi ngħid"
+      "gloss": "biex ngħid"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "יכרת",
-      "gloss": "jitnaqqar"
+      "gloss": "se jitqatta'"
     },
     {
       "surface": "לך",
@@ -110,6 +89,6 @@
       "gloss": "ta' Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T19:07:18.144042082Z",
+  "timestamp": "2026-10-22T01:48:24.648133217Z",
   "model": "glm-5.3"
 }

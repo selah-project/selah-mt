@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mil-punent",
-      "rationale": "מים tfisser 'baħar'; il-punent huwa l-ġenb tal-baħar — il-Lhudi jsejjaħ id-direzzjoni bil-baħar"
-    },
-    {
-      "kind": "addition",
-      "subject": "dak",
-      "rationale": "il-Malti jeħtieġ 'dak il-lejl' għal בלילה ההוא; 'dak' ingħata ma' בלילה u ההוא tqiegħed b'void fil-glossa"
-    }
-  ],
-  "translation": "U Joxue bagħthom, u huma marru għall-imbagar u qagħdu bejn Bet-El u bejn l-Għaj, mil-punent ta' l-Għaj; u Joxue rahan dak il-lejl f'nofs in-nies.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/9-12.1792606413585.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Josva bagħat lilhom, u marru ⟨għal⟩ l-imbraxxata u qagħdu bejn Bet-El u bejn l-Għaj, mil-lbiċ tal-Għaj; u Josva raħal dik il-lejl fost in-nies.",
   "tokens": [
     {
       "surface": "וישלחם",
-      "gloss": "bagħthom"
+      "gloss": "u bagħat lilhom"
     },
     {
       "surface": "יהושע",
-      "gloss": "Joxue"
+      "gloss": "Josva"
     },
     {
       "surface": "וילכו",
-      "gloss": "marru"
+      "gloss": "u marru"
     },
     {
       "surface": "אל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "המארב",
-      "gloss": "l-imbagar"
+      "gloss": "l-imbraxxata"
     },
     {
       "surface": "וישבו",
-      "gloss": "qagħdu"
+      "gloss": "u qagħdu"
     },
     {
       "surface": "בין",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Bet-"
     },
     {
       "surface": "אל",
@@ -74,37 +53,37 @@
     },
     {
       "surface": "מים",
-      "gloss": "mil-punent"
+      "gloss": "mil-lbiċ"
     },
     {
       "surface": "לעי",
-      "gloss": "ta' l-Għaj"
+      "gloss": "tal-Għaj"
     },
     {
       "surface": "וילן",
-      "gloss": "rahan"
+      "gloss": "u raħal"
     },
     {
       "surface": "יהושע",
-      "gloss": "Joxue"
+      "gloss": "Josva"
     },
     {
       "surface": "בלילה",
-      "gloss": "dak il-lejl"
+      "gloss": "dik il-lejl"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "dik"
     },
     {
       "surface": "בתוך",
-      "gloss": "f'nofs"
+      "gloss": "fost"
     },
     {
       "surface": "העם",
       "gloss": "in-nies"
     }
   ],
-  "timestamp": "2026-10-21T18:13:33.586571853Z",
+  "timestamp": "2026-10-22T00:35:53.884939064Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "proverbs",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "huwa",
-      "rationale": "il-Malti jeħtieġ il-kopula li ma hemmx fil-Lhudi"
-    },
-    {
-      "kind": "crux",
-      "subject": "id ma' id",
-      "rationale": "יד ליד: 'idejn mwaħħdin' (KJV) jew ġest ta' ħalf bħal JPS 'idi fuqha!'; ħadt il-qari l-aktar komuni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גבה לב",
-      "rationale": "litteralment 'qalb għolja', stampar tad-tkabbir li jibqa' fil-Malti b''mtkabbar ta' qalb'"
-    }
-  ],
-  "translation": "Toʿaba għal Jaħwe huwa kull mtkabbar ta' qalb; id ma' id, ma jinħafrax.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/16\/5-8.1792618751766.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Toħoba ta' Jaħwe huwa kull wieħed għoli ta' qalb; idejn ma' idejn, ma jinħelesx.",
   "tokens": [
     {
       "surface": "תועבת",
-      "gloss": "toʿaba"
+      "gloss": "Toħoba"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "כל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "גבה",
-      "gloss": "mtkabbar"
+      "gloss": "għoli"
     },
     {
       "surface": "לב",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "יד",
-      "gloss": "id"
+      "gloss": "idejn"
     },
     {
       "surface": "ליד",
-      "gloss": "ma' id"
+      "gloss": "ma' idejn"
     },
     {
       "surface": "לא",
@@ -67,9 +41,9 @@
     },
     {
       "surface": "ינקה",
-      "gloss": "jinħafrax"
+      "gloss": "jinħelesx"
     }
   ],
-  "timestamp": "2026-10-21T21:39:11.766858189Z",
+  "timestamp": "2026-10-22T00:48:11.712632968Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פקד פקדתי",
-      "rationale": "infinitiv absolute + verb finit: 'żort żortkom' — żjara rappetuta biċ-ċertezza; inżammet it-tgħajjira"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Mur",
-      "rationale": "imperattiv li jibda l-missjoni ta' Moxe"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-anzjani ta' Jisrael",
-      "rationale": "indirizz dirett permezz ta' Moxe lill-anzjani"
-    }
-  ],
-  "translation": "Mur, iġbor ⟨את⟩ lill-anzjani ta' Jisrael, u għidilhom: 'Jaħwe, l-Elohim ta' missirietkom, l-Elohim ta' Avraham, ta' Jitsħaq u ta' Jagħaqov, dehra lija, billi qal: Żort żortkom, u ⟨את⟩ dak li sar lilkom f'Mitsrajim.'",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "70771d183b9246dac48f2c73dcde3792dce560041bbdc8f5d4000ff867741c82",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/13-16.1792599332380.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mur u ġbor ⟨את⟩ il-kbarja ta' Jisrael, u għidilhom: Jaħwe, Elohim ta' missirietkom, deher lija, Elohim ta' Avraham, ta' Jitsħaq u ta' Jagħaqov, billi jgħid: Żurt żurtulkom, u ⟨את⟩ dak li ġie magħmululkom f'Mitsrajim.",
   "tokens": [
     {
       "surface": "לך",
@@ -39,16 +13,16 @@
     },
     {
       "surface": "ואספת",
-      "gloss": "iġbor"
+      "gloss": "u ġbor"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lill-anzjani ta' Jisrael"
+      "marks": "il-kbarja ta' Jisrael"
     },
     {
       "surface": "זקני",
-      "gloss": "lill-anzjani"
+      "gloss": "il-kbarja"
     },
     {
       "surface": "ישראל",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "u għid"
+      "gloss": "u għidilhom"
     },
     {
       "surface": "אלהם",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "l-Elohim"
+      "gloss": "Elohim ta'"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "ta' missirietkom"
+      "gloss": "missirietkom"
     },
     {
       "surface": "נראה",
-      "gloss": "dehra"
+      "gloss": "deher"
     },
     {
       "surface": "אלי",
@@ -84,54 +58,55 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "l-Elohim"
+      "gloss": "Elohim ta'"
     },
     {
       "surface": "אברהם",
-      "gloss": "ta' Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "יצחק",
-      "gloss": "ta' Jitsħaq"
+      "gloss": "Jitsħaq"
     },
     {
       "surface": "ויעקב",
-      "gloss": "u ta' Jagħaqov"
+      "gloss": "u Jagħaqov"
     },
     {
       "surface": "לאמר",
-      "gloss": "billi qal"
+      "gloss": "billi jgħid"
     },
     {
       "surface": "פקד",
-      "gloss": "Żort"
+      "gloss": "Żurt"
     },
     {
       "surface": "פקדתי",
-      "gloss": "żortkom"
+      "gloss": "żurtulkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩kom"
+      "gloss": "⟨את⟩",
+      "marks": "kom (lilkom)"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "dak li sar lilkom f'Mitsrajim"
+      "marks": "dak li ġie magħmululkom"
     },
     {
       "surface": "העשוי",
-      "gloss": "dak li sar"
+      "gloss": "dak li ġie magħmul"
     },
     {
       "surface": "לכם",
-      "gloss": "lilkom"
+      "gloss": "ulkom"
     },
     {
       "surface": "במצרים",
       "gloss": "f'Mitsrajim"
     }
   ],
-  "timestamp": "2026-10-21T16:15:32.381819524Z",
+  "timestamp": "2026-10-22T00:14:10.082115091Z",
   "model": "glm-5.3"
 }

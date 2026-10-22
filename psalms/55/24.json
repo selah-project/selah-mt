@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bir ta' qerda",
-      "rationale": "שחת = ħofra ta' qerda, trappola; 'Xeol' mhux ovvjament hemm"
-    },
-    {
-      "kind": "addition",
-      "subject": "fid-diskors",
-      "rationale": "בך in fuq suffiss ta' persuna t-tieni — 'fik' fil-Malti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תורדם\/שחת",
-      "rationale": "inżul għal ħofra — il-psalm jagħlaq b'sentenza ta' ġudizzju u btala"
-    }
-  ],
-  "translation": "U inti, Elohim, tonżilhom għal bir ta' qerda; l-irġiel tad-demm u ta' ħnierda mhux se jgħaddu nofs il-ġranjielhom; iżda jien, nafdak.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/55\/21-24.1792617234861.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int, Elohim, tonżilhom għal bir ta' qerd; il-irġiel tad-demm u tal-qlugħ ma jqatgħux nofs ġranjilhom; iżda jiena nistinkar fik.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "U inti"
+      "gloss": "u int"
     },
     {
       "surface": "אלהים",
@@ -51,49 +25,45 @@
     },
     {
       "surface": "שחת",
-      "gloss": "ta' qerda"
+      "gloss": "ta' qerd"
     },
     {
       "surface": "אנשי",
-      "gloss": "l-irġiel ta'"
+      "gloss": "il-irġiel"
     },
     {
       "surface": "דמים",
-      "gloss": "demm"
+      "gloss": "tad-demm"
     },
     {
       "surface": "ומרמה",
-      "gloss": "u ħnierda"
+      "gloss": "u tal-qlugħ"
     },
     {
       "surface": "לא",
-      "gloss": "mhux"
+      "gloss": "ma"
     },
     {
       "surface": "יחצו",
-      "gloss": "se jgħaddu nofs"
+      "gloss": "jqatgħux"
     },
     {
       "surface": "ימיהם",
-      "gloss": "il-ġranjielhom"
+      "gloss": "nofs ġranjilhom"
     },
     {
       "surface": "ואני",
-      "gloss": "iżda jien"
+      "gloss": "iżda jiena"
     },
     {
       "surface": "אבטח",
-      "gloss": "nafdak"
+      "gloss": "nistinkar"
     },
     {
       "surface": "בך",
-      "gloss": "f"
-    },
-    {
-      "surface": "בך2",
       "gloss": "fik"
     }
   ],
-  "timestamp": "2026-10-21T21:13:54.862390606Z",
+  "timestamp": "2026-10-22T00:50:09.375700214Z",
   "model": "glm-5.3"
 }

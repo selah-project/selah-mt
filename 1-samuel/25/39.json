@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-każ",
-      "rationale": "'ריב' is a legal contest\/strife; 'il-każ' is the nearest courtroom word, losing the grappling picture of the root"
-    },
-    {
-      "kind": "addition",
-      "subject": "lil-",
-      "rationale": "Maltese requires the direct-object particle 'lil' before the personal object; Hebrew uses the aleph-tav instead"
-    }
-  ],
-  "translation": "U David sma' li miet Naval, u qal: Imbierek Jaħwe, li ħadem ⟨את⟩ il-każ tal-għajb tiegħi minn id Naval, u lil-qaddej tiegħu żamm mille-ħażen; u l-ħażin ta' Naval rritorna Jaħwe fuq rasu. U David bagħat u tkellem ma' Abigajil biex jieħuha lilu għal martu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/25\/37-40.1792608337236.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David sema' li Nabal miet, u qal: Mibruk Jaħwe, li ġġieled ⟨את⟩ il-ġlied ta' l-insult tiegħi minn id Nabal, u żamm 'il qaddej tiegħu mill-ħażen; u ⟨את⟩ l-ħażen ta' Nabal raddru Jaħwe fuq rashom. U David bagħat u tkellem ma' Abigajil biex jieħuha lilu għal mara.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "U sma'"
+      "gloss": "u sema'"
     },
     {
       "surface": "דוד",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "נבל",
-      "gloss": "Naval"
+      "gloss": "Nabal"
     },
     {
       "surface": "ויאמר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "Imbierek"
+      "gloss": "Mibruk"
     },
     {
       "surface": "יהוה",
@@ -66,20 +45,20 @@
     },
     {
       "surface": "רב",
-      "gloss": "ħadem il-każ"
+      "gloss": "ġġieled"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-każ"
+      "marks": "il-ġlied ta' l-insult tiegħi"
     },
     {
       "surface": "ריב",
-      "gloss": "il-każ"
+      "gloss": "il-ġlied"
     },
     {
       "surface": "חרפתי",
-      "gloss": "tal-għajb tiegħi"
+      "gloss": "ta' l-insult tiegħi"
     },
     {
       "surface": "מיד",
@@ -87,16 +66,16 @@
     },
     {
       "surface": "נבל",
-      "gloss": "Naval"
+      "gloss": "Nabal"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-qaddej tiegħu"
+      "marks": "il-qaddej tiegħu"
     },
     {
       "surface": "עבדו",
-      "gloss": "l-qaddej tiegħu"
+      "gloss": "il-qaddej tiegħu"
     },
     {
       "surface": "חשך",
@@ -104,24 +83,24 @@
     },
     {
       "surface": "מרעה",
-      "gloss": "mille-ħażen"
+      "gloss": "mill-ħażen"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-ħażin ta' Naval"
+      "marks": "il-ħażen ta' Nabal"
     },
     {
       "surface": "רעת",
-      "gloss": "l-ħażin"
+      "gloss": "il-ħażen"
     },
     {
       "surface": "נבל",
-      "gloss": "ta' Naval"
+      "gloss": "ta' Nabal"
     },
     {
       "surface": "השיב",
-      "gloss": "rritorna"
+      "gloss": "raddru"
     },
     {
       "surface": "יהוה",
@@ -129,7 +108,7 @@
     },
     {
       "surface": "בראשו",
-      "gloss": "fuq rasu"
+      "gloss": "fuq rashom"
     },
     {
       "surface": "וישלח",
@@ -157,9 +136,9 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "għal martu"
+      "gloss": "għal mara"
     }
   ],
-  "timestamp": "2026-10-21T18:45:37.237414794Z",
+  "timestamp": "2026-10-22T00:00:13.659953540Z",
   "model": "glm-5.3"
 }

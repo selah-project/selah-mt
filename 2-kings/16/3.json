@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dgħufijiet",
-      "rationale": "תועבות: tradott b''dgħufijiet' (affarijiet li jagħmlu riħa); il-kelma Lhudija tfisser maċtub"
-    },
-    {
-      "kind": "crux",
-      "subject": "għaddu fin-nar",
-      "rationale": "העביר באש: 'għadda fin-nar' (rit) jew 'qerreċ fin-nar'; il-Lhudi jgħid biss 'għadda'"
-    }
-  ],
-  "translation": "U mexa fit-triq tas-slattniet ta' Jisrael; anzi lil binu għaddu fin-nar, skont id-dgħufijiet tal-ġnus li Jaħwe keċċiewhom minn quddiem wlied Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/16\/1-4.1792610516008.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mxiet fit-triq tas-slaten ta' Jisrael, u anke lil ibnu għaddieh bin-nar, skont l-abbominazzjonijiet tal-ġnus li keċċa Jaħwe ⟨את⟩ minn quddiem wlied Jisrael.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "u mexa"
+      "gloss": "u mxiet"
     },
     {
       "surface": "בדרך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "tas-slattniet"
+      "gloss": "tas-slaten"
     },
     {
       "surface": "ישראל",
@@ -46,28 +25,28 @@
     },
     {
       "surface": "וגם",
-      "gloss": "anzi"
+      "gloss": "u anke"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil binu"
+      "marks": "lil ibnu"
     },
     {
       "surface": "בנו",
-      "gloss": "lil binu"
+      "gloss": "lil ibnu"
     },
     {
       "surface": "העביר",
-      "gloss": "għaddu"
+      "gloss": "għaddieh"
     },
     {
       "surface": "באש",
-      "gloss": "fin-nar"
+      "gloss": "bin-nar"
     },
     {
       "surface": "כתעבות",
-      "gloss": "skont id-dgħufijiet"
+      "gloss": "skont l-abbominazzjonijiet"
     },
     {
       "surface": "הגוים",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "keċċiewhom"
+      "gloss": "keċċa"
     },
     {
       "surface": "יהוה",
@@ -103,6 +82,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T19:21:56.009965332Z",
+  "timestamp": "2026-10-22T00:03:51.135723604Z",
   "model": "glm-5.3"
 }

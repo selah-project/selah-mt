@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lill-imboskata",
-      "rationale": "Jehoxwa jindirezza direttament lill-irġiel mibgħuta bil-lejl."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העיר\/העי",
-      "rationale": "Ripetizzjoni ta' 'il-belt' erba' darbiet f'vers wieħed — ritmu ta' ordni militari."
-    }
-  ],
-  "translation": "U amar lilhom jgħid: Ara, intom tqogħdu bil-moħbi għall-belt, minn wara l-belt; la tbiegħdux wisq mill-belt, u oqogħdu lkoll lesti.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/1-4.1792606424488.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U amar lilhom ⟨את⟩ jgħid: Ara, intom tbegħxu kontra l-belt, minn wara l-belt; tikbżux 'il bogħod ħafna mill-belt, u tkunu lkoll lesta.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -35,7 +14,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "marks": "lilhom (l-ordni li jmiss)"
     },
     {
       "surface": "לאמר",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "ara"
+      "gloss": "Ara"
     },
     {
       "surface": "אתם",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "ארבים",
-      "gloss": "tqogħdu bil-moħbi"
+      "gloss": "tbegħxu"
     },
     {
       "surface": "לעיר",
-      "gloss": "għall-belt"
+      "gloss": "kontra l-belt"
     },
     {
       "surface": "מאחרי",
@@ -67,27 +46,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "tikbżux"
     },
     {
       "surface": "תרחיקו",
-      "gloss": "tbiegħdux"
+      "gloss": "tbegħdu 'il bogħod"
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "mill-"
     },
     {
       "surface": "העיר",
-      "gloss": "il-belt"
+      "gloss": "belt"
     },
     {
       "surface": "מאד",
-      "gloss": "wisq"
+      "gloss": "ħafna"
     },
     {
       "surface": "והייתם",
-      "gloss": "u oqogħdu"
+      "gloss": "u tkunu"
     },
     {
       "surface": "כלכם",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "נכנים",
-      "gloss": "lesti"
+      "gloss": "lesta"
     }
   ],
-  "timestamp": "2026-10-21T18:13:44.489672061Z",
+  "timestamp": "2026-10-22T00:36:07.393588471Z",
   "model": "glm-5.3"
 }

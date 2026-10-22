@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ġid",
-      "rationale": "חיל: ġid, forza, riżorsi — b'dan il-kuntest 'ġid', fil-v.17 'ħila'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "iżomm",
-      "rationale": "הקים litteralment 'jqum\/jagħmel wieqaf' — 'to establish'; mt 'iżomm' għall-patt"
-    }
-  ],
-  "translation": "Imma ftakar ⟨את⟩ Jaħwe Elohim tiegħek, għax huwa hu li jagħtik saħħa biex tagħmel ġid, sabiex iżomm il-patt li ħalef lil missirejket, bħal illumin.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/8\/17-20.1792605474859.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma ftakar f'Jaħwe, Elohim tiegħek, għax huwa li jagħtik il-ħila biex tagħmel ġid, sabiex iżomm ⟨את⟩ il-patt li ħalef lil missirijietek, bħalissa illum.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "imma ftakar"
+      "gloss": "u ftakar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe Elohim tiegħek"
+      "marks": "Jaħwe"
     },
     {
       "surface": "יהוה",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "huwa hu"
+      "gloss": "huwa"
     },
     {
       "surface": "הנתן",
-      "gloss": "li jagħtik"
+      "gloss": "li jagħti"
     },
     {
       "surface": "לך",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "כח",
-      "gloss": "saħħa"
+      "gloss": "ħila"
     },
     {
       "surface": "לעשות",
@@ -100,17 +79,17 @@
     },
     {
       "surface": "לאבתיך",
-      "gloss": "lil missirejket"
+      "gloss": "lil missirijietek"
     },
     {
       "surface": "כיום",
-      "gloss": "bħal illum"
+      "gloss": "bħalissa illum"
     },
     {
       "surface": "הזה",
       "gloss": "dan"
     }
   ],
-  "timestamp": "2026-10-21T17:57:54.860229291Z",
+  "timestamp": "2026-10-22T00:11:39.818310642Z",
   "model": "glm-5.3"
 }

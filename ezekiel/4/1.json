@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "בן אדם",
-      "rationale": "Jaħwe jsejjaħ lill-profeta b'imperattiv dirett: 'ħud għalik'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "brikka",
-      "rationale": "לבנה hija brikka tat-tajn moħmija, mhux ħaġra."
-    }
-  ],
-  "translation": "U int, iben adam, ħud ⟨għalik⟩ brikka, u poġġiha quddiemek, u oħloq fuqha bil-ħakra belt — ⟨את⟩ Jaruxalajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/4\/1-4.1792614089921.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int, iben adam, ħu lejk ħadida u poġġiha quddiemjek, u inċidilha fuqha belt, ⟨את⟩ Jeruxalajim.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "u int"
+      "gloss": "U int"
     },
     {
       "surface": "בן",
@@ -42,32 +21,32 @@
     },
     {
       "surface": "קח",
-      "gloss": "ħud"
+      "gloss": "ħu"
     },
     {
       "surface": "לך",
-      "gloss": "⟨għalik⟩"
+      "gloss": "lejk"
     },
     {
       "surface": "לבנה",
-      "gloss": "brikka"
+      "gloss": "ħadida"
     },
     {
-      "surface": "וינתתה",
-      "gloss": "u poġġiha"
+      "surface": "ונתתה",
+      "gloss": "u poġġi"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "quddiemek"
+      "marks": "hi (il-ħadida)"
     },
     {
       "surface": "לפניך",
-      "gloss": "quddiemek"
+      "gloss": "quddiemjek"
     },
     {
       "surface": "וחקות",
-      "gloss": "u oħloq bil-ħakra"
+      "gloss": "u inċidi"
     },
     {
       "surface": "עליה",
@@ -80,13 +59,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaruxalajim"
+      "marks": "Jeruxalajim"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Jaruxalajim"
+      "gloss": "Jeruxalajim"
     }
   ],
-  "timestamp": "2026-10-21T20:21:29.921869768Z",
+  "timestamp": "2026-10-22T00:19:14.515466250Z",
   "model": "glm-5.3"
 }

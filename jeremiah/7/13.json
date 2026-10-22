@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "השכם",
-      "rationale": "'inqum bil-bikja' — idiom Lhudija għal ftpar tlugħ kmieni; il-ktieb tad-Deuteronomju jużaha għal profeti li jitla' kmieni biex jitkellem"
-    },
-    {
-      "kind": "addition",
-      "subject": "jiena",
-      "rationale": "il-verb Lhudi jġorr l-ispiss 'lilkom' fil-forma, iżda l-Malti jeħtieġ is-suffiss separat jew kliem miżjud"
-    },
-    {
-      "kind": "you",
-      "subject": "lilkom",
-      "rationale": "Jaħwe jindirizza lilpoplu ta' Ġuda direttament f'dan il-proklama"
-    }
-  ],
-  "translation": "U issa, għax għedtu ⟨את⟩ dawn il-għemejjel kollha, jgħid Jaħwe, u jiena ktellimtkom, inqum bil-bikja u nparla, u intom ma smajtu; u sejjahtilkom, u intom ma weġibtux;",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/7\/13-16.1792612495315.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa, għax għedtu ⟨את⟩ dawn il-għemejiet kollha, jgħid Jaħwe, u ktellemt magħkom, bil-qumu kmieni u bit-taħdit, u ma smajtux; u sejjaħtilkom, u ma wieġebtux;",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "u issa"
+      "gloss": "U issa"
     },
     {
       "surface": "יען",
@@ -48,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawn il-għemejjel kollha"
+      "marks": "dawn il-għemejiet kollha"
     },
     {
       "surface": "כל",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "המעשים",
-      "gloss": "il-għemejjel"
+      "gloss": "il-għemejiet"
     },
     {
       "surface": "האלה",
@@ -72,19 +46,19 @@
     },
     {
       "surface": "ואדבר",
-      "gloss": "u ktellimtkom"
+      "gloss": "u ktellemt"
     },
     {
       "surface": "אליכם",
-      "gloss": "lilkom"
+      "gloss": "magħkom"
     },
     {
       "surface": "השכם",
-      "gloss": "inqum bil-bikja"
+      "gloss": "bil-qumu kmieni"
     },
     {
       "surface": "ודבר",
-      "gloss": "u nparla"
+      "gloss": "u bit-taħdit"
     },
     {
       "surface": "ולא",
@@ -92,15 +66,16 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "smajtu"
+      "gloss": "smajtux"
     },
     {
       "surface": "ואקרא",
-      "gloss": "u sejjahtilkom"
+      "gloss": "u sejjaħtilkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨אתכם⟩",
+      "marks": "sejjaħtilkom — l-aleph-tav mal-pronom, ma jisseparașx"
     },
     {
       "surface": "ולא",
@@ -108,9 +83,9 @@
     },
     {
       "surface": "עניתם",
-      "gloss": "weġibtux"
+      "gloss": "wieġebtux"
     }
   ],
-  "timestamp": "2026-10-21T19:54:55.315993855Z",
+  "timestamp": "2026-10-22T00:32:43.218983773Z",
   "model": "glm-5.3"
 }

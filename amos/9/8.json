@@ -5,32 +5,11 @@
   "book": "amos",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השמיד אשמיד",
-      "rationale": "infinitiv assolut: 'nqeridx nqeridx' — ripetizzjoni li tissaħħaħ l-inji, mgħaqqda f'kelma waħda bil-Malti"
-    },
-    {
-      "kind": "crux",
-      "subject": "אפס כי",
-      "rationale": "'afes ki: 'minbarra li \/ imma' — KJV 'saving that', jew qari alternattiv 'tiżgura li'"
-    }
-  ],
-  "translation": "Araw, għajnejn Adonaj Jaħwe fuq ir-renju l-ħati, u nqerduh minn fuq wiċċ l-art; imma għal kollox ma nqeridx ⟨את⟩ id-dar ta' Jagħaqov, jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/9\/5-8.1792615847116.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ara, għajnejn Adonaj Jaħwe fuq il-mamlaħta li ħatiet, u jien inqered ⟨את⟩ minn fuq wiċċ l-art; imma mhux għal kollox: mhux inqered għal kollox ⟨את⟩ dar Jagħaqov, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "Araw"
+      "gloss": "Ara"
     },
     {
       "surface": "עיני",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "בממלכה",
-      "gloss": "fuq ir-renju"
+      "gloss": "fuq il-mamlaħta"
     },
     {
       "surface": "החטאה",
-      "gloss": "l-ħati"
+      "gloss": "li ħatiet"
     },
     {
       "surface": "והשמדתי",
-      "gloss": "u nqerduh"
+      "gloss": "u jien inqered"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ir-renju l-ħati"
+      "marks": "minn fuq wiċċ l-art (il-mamlaħta)"
     },
     {
       "surface": "מעל",
@@ -75,36 +54,36 @@
     },
     {
       "surface": "אפס",
-      "gloss": "imma"
+      "gloss": "imma mhux għal kollox"
     },
     {
       "surface": "כי",
-      "gloss": "għal kollox"
+      "gloss": "⟨għaliex⟩"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "השמיד",
-      "gloss": "nqeridx"
+      "gloss": "inqered"
     },
     {
       "surface": "אשמיד",
-      "gloss": "nqeridx"
+      "gloss": "għal kollox"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "id-dar ta' Jagħaqov"
+      "marks": "dar Jagħaqov"
     },
     {
       "surface": "בית",
-      "gloss": "id-dar"
+      "gloss": "dar"
     },
     {
       "surface": "יעקב",
-      "gloss": "ta' Jagħaqov"
+      "gloss": "Jagħaqov"
     },
     {
       "surface": "נאם",
@@ -115,6 +94,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:50:47.118218451Z",
+  "timestamp": "2026-10-22T00:07:49.669877104Z",
   "model": "glm-5.3"
 }

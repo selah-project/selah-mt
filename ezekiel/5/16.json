@@ -5,45 +5,24 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vleġeġ il-ġuħ",
-      "rationale": "il-ġuħ imsemmi bħala vleġeġ — metafora għall-ġuħ li joqtol bħall-vleġġa"
-    },
-    {
-      "kind": "idiom",
-      "subject": "il-ħatar tal-ħobż",
-      "rationale": "מטה לחם — it-trobbija\/cippuż tal-ħobż, idjoma għall-għajxien bażiku, żammna l-istampa litterali"
-    }
-  ],
-  "translation": "Meta nibgħat ⟨את⟩ vleġeġ il-ġuħ il-ħżiena fihom, li kienu għall-qerda, li nibgħathom bi nqerdukom, u nżid il-ġuħ fuqkom, u nkisser għalikom il-ħatar tal-ħobż.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8ccfe23b3d5a6a02451a89799e5558989965e652ad4456ff330c6874932eec00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/5\/13-16.1792614218451.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Meta nibgħat fuqhom ⟨את⟩ il-vleġġa tal-ġuħ, il-ħżiena, li kienu għall-qerda, li nibgħat ⟨את⟩ lilhom biż-żerżiq tagħkom; u nżid il-ġuħ fuqkom, u inkissirkom il-bastun tal-ħobż.",
   "tokens": [
     {
       "surface": "בשלחי",
-      "gloss": "meta nibgħat"
+      "gloss": "Meta nibgħat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vleġeġ il-ġuħ il-ħżiena"
+      "marks": "il-vleġġa tal-ġuħ"
     },
     {
       "surface": "חצי",
-      "gloss": "vleġeġ"
+      "gloss": "il-vleġġa"
     },
     {
       "surface": "הרעב",
-      "gloss": "il-ġuħ"
+      "gloss": "tal-ġuħ"
     },
     {
       "surface": "הרעים",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "fihom"
+      "gloss": "fuqhom"
     },
     {
       "surface": "אשר",
@@ -75,12 +54,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩hom",
-      "marks": "bi nqerdukom"
+      "gloss": "⟨את⟩ lilhom",
+      "marks": "biż-żerżiq tagħkom"
     },
     {
       "surface": "לשחתכם",
-      "gloss": "bi nqerdukom"
+      "gloss": "biż-żerżiq tagħkom"
     },
     {
       "surface": "ורעב",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "אסף",
-      "gloss": "nżid"
+      "gloss": "inżid"
     },
     {
       "surface": "עליכם",
@@ -96,21 +75,21 @@
     },
     {
       "surface": "ושברתי",
-      "gloss": "u nkisser"
+      "gloss": "u inkissirkom"
     },
     {
       "surface": "לכם",
-      "gloss": "għalikom"
+      "gloss": "kom"
     },
     {
       "surface": "מטה",
-      "gloss": "il-ħatar"
+      "gloss": "il-bastun"
     },
     {
       "surface": "לחם",
       "gloss": "tal-ħobż"
     }
   ],
-  "timestamp": "2026-10-21T20:23:38.452969738Z",
+  "timestamp": "2026-10-22T00:20:04.119428366Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אבן",
-      "rationale": "'ġebla' singular b'sens kollettiv — bil-ġebel"
-    },
-    {
-      "kind": "substitution",
-      "subject": "li sabbetta",
-      "rationale": "המקלל = il-midluk bis-semaħta, 'li sabbetta' iżomm il-ħoss tal-klieb"
-    }
-  ],
-  "translation": "U Moxe tkellem ma' wlied Jisrael, u neħħew 'l barra ⟨את⟩ li sabbetta, barra mill-merħla, u rajmuh bil-ġebel; u wlied Jisrael għamlu kif kien imliet Jaħwe ⟨את⟩ Moxe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/24\/21-23.1792601159548.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe tkellem ma' wlied Jisrael, u ħarġu lil ⟨את⟩ dak li sebbetti 'l barra mill-kamp, u ltqgħu b'ġebel lil ⟨אתו⟩. U wlied Jisrael għamlu kif amar Jaħwe lil ⟨את⟩ Moxe.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "U tkellem"
+      "gloss": "tkellem"
     },
     {
       "surface": "משה",
@@ -50,45 +29,45 @@
     },
     {
       "surface": "ויוציאו",
-      "gloss": "u neħħew 'l barra"
+      "gloss": "u ħarġu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "li sabbetta"
+      "marks": "dak li sebbetti"
     },
     {
       "surface": "המקלל",
-      "gloss": "li sabbetta"
+      "gloss": "dak li sebbetti"
     },
     {
       "surface": "אל",
-      "gloss": "barra"
+      "gloss": "'l"
     },
     {
       "surface": "מחוץ",
-      "gloss": "mill-"
+      "gloss": "barra"
     },
     {
       "surface": "למחנה",
-      "gloss": "merħla"
+      "gloss": "mill-kamp"
     },
     {
       "surface": "וירגמו",
-      "gloss": "u rajmuh"
+      "gloss": "u ltqgħu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "li sabbetta"
+      "gloss": "⟨אתו⟩",
+      "marks": "h"
     },
     {
       "surface": "אבן",
-      "gloss": "bil-ġebel"
+      "gloss": "b'ġebel"
     },
     {
       "surface": "ובני",
-      "gloss": "u wlied"
+      "gloss": "U wlied"
     },
     {
       "surface": "ישראל",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "kien imliet"
+      "gloss": "amar"
     },
     {
       "surface": "יהוה",
@@ -120,6 +99,6 @@
       "gloss": "Moxe"
     }
   ],
-  "timestamp": "2026-10-21T16:45:59.549871303Z",
+  "timestamp": "2026-10-22T00:41:21.714381039Z",
   "model": "glm-5.3"
 }

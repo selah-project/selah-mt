@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אבד תאבדון",
-      "rationale": "infinitiv assolut + verb: 'taqerdu taqerdu', ripetizzjoni għat-taħlit li l-Malti iżomm"
-    },
-    {
-      "kind": "substitution",
-      "subject": "allat",
-      "rationale": "אלהיהם hawn għall-idoli tal-ġnus: 'l-allat tagħhom' bit-trażżin iż-żgħir skont ir-regola"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jisrael",
-      "rationale": "imperattiv plurali indirizzat lil Jisrael"
-    }
-  ],
-  "translation": "Taqerdu taqerdu ⟨את⟩ il-postijiet kollha fejn qerdu hemm il-ġnus li intom sejer tirbuhom, ⟨את⟩ l-allat tagħhom, fuq l-iġbla għoljin u fuq l-għoljiet, u taħt kull siġra raħana.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c95a845d91546d0fddaa56306d1a8dcb889d1538fff03de1eae7ba857884b7aa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/12\/1-4.1792605575633.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Teqirdu għal kollox teqirdu ⟨את⟩ il-postijiet kollha li hemm servu lill-allat tagħhom il-ġnus li intom torbtu lilhom ⟨את⟩ l-allat tagħhom, fuq il-muntanji għoljin u fuq l-għoljiet, u taħt kull siġra ndewla.",
   "tokens": [
     {
       "surface": "אבד",
-      "gloss": "Taqerdu"
+      "gloss": "Teqirdu"
     },
     {
       "surface": "תאבדון",
-      "gloss": "taqerdu"
+      "gloss": "teqirdu"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "fejn"
+      "gloss": "li"
     },
     {
       "surface": "עבדו",
-      "gloss": "qerdu"
+      "gloss": "servu"
     },
     {
       "surface": "שם",
@@ -80,11 +54,12 @@
     },
     {
       "surface": "ירשים",
-      "gloss": "sejer tirbuhom"
+      "gloss": "torbtu lilhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩",
+      "marks": "l-allat tagħhom"
     },
     {
       "surface": "את",
@@ -101,7 +76,7 @@
     },
     {
       "surface": "ההרים",
-      "gloss": "l-iġbla"
+      "gloss": "il-muntanji"
     },
     {
       "surface": "הרמים",
@@ -129,9 +104,9 @@
     },
     {
       "surface": "רענן",
-      "gloss": "raħana"
+      "gloss": "ndewla"
     }
   ],
-  "timestamp": "2026-10-21T17:59:35.634861504Z",
+  "timestamp": "2026-10-22T00:09:14.149525360Z",
   "model": "glm-5.3"
 }

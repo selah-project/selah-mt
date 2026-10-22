@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Adam",
-      "rationale": "Jaħwe Elohim jindires direttament lil Adam b'sentenza ta' kastig."
-    },
-    {
-      "kind": "substitution",
-      "subject": "קול",
-      "rationale": "שמע לקול huwa idjom 'obdejt il-leħen ta'', mhux sema biss; il-Malti jżomm 'smajt leħen'."
-    },
-    {
-      "kind": "addition",
-      "subject": "huwa",
-      "rationale": "Il-verbu Malti jeħtieġ soperċess; il-Lhudi għandu biss ולאדם אמר."
-    }
-  ],
-  "translation": "U lil Adam huwa qal: Għax smajt leħen martek u kilt mis-siġra li htajtlek ngħidlek: Tiekolx minnha — misħuta l-art minħabba fiek; bil-istaħba tiekol minha jumejn kollha ta' ħajtek.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/3\/17-20.1792597731557.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil Adam qal: Għax smajt lejn il-leħen ta' martek, u kilt mis-siġra li ktajtlek: Tiekolx minnha — imlaħma għalik ġie l-art; bl-ghaks ikollox tiekol minnha jiem kollha ta' ħajtek.",
   "tokens": [
     {
       "surface": "ולאדם",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "לקול",
-      "gloss": "leħen"
+      "gloss": "lejn il-leħen"
     },
     {
       "surface": "אשתך",
-      "gloss": "martek"
+      "gloss": "ta' martek"
     },
     {
       "surface": "ותאכל",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "min-"
+      "gloss": "minn"
     },
     {
       "surface": "העץ",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "צויתיך",
-      "gloss": "htajtlek"
+      "gloss": "ktajtlek"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngħidlek"
+      "gloss": "billi ngħid"
     },
     {
       "surface": "לא",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": ""
+      "gloss": "tiekol"
     },
     {
       "surface": "ממנו",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "ארורה",
-      "gloss": "misħuta"
+      "gloss": "imlaħma"
     },
     {
       "surface": "האדמה",
@@ -103,15 +77,15 @@
     },
     {
       "surface": "בעבורך",
-      "gloss": "minħabba fiek"
+      "gloss": "għalik"
     },
     {
       "surface": "בעצבון",
-      "gloss": "bil-istaħba"
+      "gloss": "bl-ghaks"
     },
     {
       "surface": "תאכלנה",
-      "gloss": "tiekol"
+      "gloss": "ikollox tiekol minnha"
     },
     {
       "surface": "כל",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "ימי",
-      "gloss": "jumejn"
+      "gloss": "jiem"
     },
     {
       "surface": "חייך",
       "gloss": "ta' ħajtek"
     }
   ],
-  "timestamp": "2026-10-21T15:48:51.557583702Z",
+  "timestamp": "2026-10-22T00:22:30.500268664Z",
   "model": "glm-5.3"
 }

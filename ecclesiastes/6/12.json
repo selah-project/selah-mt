@@ -5,37 +5,11 @@
   "book": "ecclesiastes",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יודע מה טוב לאדם בחיים מספר ימי",
-      "rationale": "it-tieni nofs tas-silta m'għandux verbi indipendenti — il-Malti jqassam: 'min jaf x'tajjeb…' u 'min jista' jgħarraf…'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jgħaddihom",
-      "rationale": "ויעשם litteralment 'u jagħmilhom' — il-bniedem jagħmel l-ijjem tiegħu dell"
-    },
-    {
-      "kind": "mystery",
-      "subject": "x'se jkun warajh",
-      "rationale": "mistoqsija retorika: ħadd ma jaf x'jiġi warajh taħt ix-xemx — il-futur imħebbi"
-    }
-  ],
-  "translation": "Għax min jaf x'tajjeb għall-bniedem fil-ħajja, in-numru ta' jjum ta' ħajjet il-ħawel tiegħu, li jgħaddihom bħad-dell? Għax min jista' jgħarraf lill-bniedem x'⟨se⟩ jkun warajh taħt ix-xemx?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/6\/9-12.1792620239088.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax min jaf x'inhu t-tajjeb għall-bniedem fil-ħajja, in-numru ta' jiemit il-ħajja ta' ħbilu, u jagħmilhom bħall-istriż? Min jistax jirrakkonta lill-bniedem x'jkun warajh taħt ix-xemx?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għax"
     },
     {
       "surface": "מי",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "x'"
+      "gloss": "x'inhu"
     },
     {
       "surface": "טוב",
-      "gloss": "tajjeb"
+      "gloss": "it-tajjeb"
     },
     {
       "surface": "לאדם",
@@ -67,23 +41,23 @@
     },
     {
       "surface": "ימי",
-      "gloss": "ta' jjum"
+      "gloss": "ta' jiemit"
     },
     {
       "surface": "חיי",
-      "gloss": "ta' ħajjet"
+      "gloss": "il-ħajja"
     },
     {
       "surface": "הבלו",
-      "gloss": "il-ħawel"
+      "gloss": "ta' ħbilu"
     },
     {
       "surface": "ויעשם",
-      "gloss": "li jgħaddihom"
+      "gloss": "u jagħmilhom"
     },
     {
       "surface": "כצל",
-      "gloss": "bħad-dell"
+      "gloss": "bħall-istriż"
     },
     {
       "surface": "אשר",
@@ -94,34 +68,34 @@
       "gloss": "min"
     },
     {
-      "surface": "יודע",
-      "gloss": ""
-    },
-    {
-      "surface": "מה",
-      "gloss": ""
-    },
-    {
-      "surface": "טוב",
-      "gloss": ""
+      "surface": "יגיד",
+      "gloss": "jistax jirrakkonta"
     },
     {
       "surface": "לאדם",
-      "gloss": ""
+      "gloss": "lill-bniedem"
     },
     {
-      "surface": "בחיים",
-      "gloss": ""
+      "surface": "מה",
+      "gloss": "x'"
     },
     {
-      "surface": "מספר",
-      "gloss": ""
+      "surface": "יהיה",
+      "gloss": "jkun"
     },
     {
-      "surface": "ימי",
-      "gloss": ""
+      "surface": "אחריו",
+      "gloss": "warajh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taħt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ix-xemx"
     }
   ],
-  "timestamp": "2026-10-21T22:03:59.089418497Z",
+  "timestamp": "2026-10-22T00:11:56.332794884Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "mniegħru maqtugħ",
-      "rationale": "חרום: 'bieżła mniegħru' (KJV flat nose) kontra 'naqra' (LXX) kontra 'għomien'"
-    },
-    {
-      "kind": "crux",
-      "subject": "bi membru żejjed",
-      "rationale": "שרוע: membru żejjed jew twil bizzejjed (KJV superfluous) kontra LXX 'imqassam'"
-    }
-  ],
-  "translation": "Għax kull raġel li fih difett ma joqrob: raġel għamien, jew imxeyyeħ, jew mniegħru maqtugħ, jew bi membru żejjed.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bb1a6bd847fb8230b8e127ec879b94d9466be40eb1c6fc00c5f05e6295b5a3b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/21\/17-20.1792601091569.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex kull raġel li fih difett ma jaqrox: raġel għama, jew żopp, jew imħassar, jew bit-tul żejjed.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "כל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "יקרב",
-      "gloss": "joqrob"
+      "gloss": "jaqrox"
     },
     {
       "surface": "איש",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "עור",
-      "gloss": "għamien"
+      "gloss": "għama"
     },
     {
       "surface": "או",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "פסח",
-      "gloss": "imxeyyeħ"
+      "gloss": "żopp"
     },
     {
       "surface": "או",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "חרם",
-      "gloss": "mniegħru maqtugħ"
+      "gloss": "imħassar"
     },
     {
       "surface": "או",
@@ -90,9 +69,9 @@
     },
     {
       "surface": "שרוע",
-      "gloss": "bi membru żejjed"
+      "gloss": "bit-tul żejjed"
     }
   ],
-  "timestamp": "2026-10-21T16:44:51.570313866Z",
+  "timestamp": "2026-10-22T00:40:19.749721653Z",
   "model": "glm-5.3"
 }

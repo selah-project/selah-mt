@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "il-Malti jeħtieġ il-kopula ma' טרם 'għadu'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħarġet bic-car",
-      "rationale": "יגלה litteralment 'tkixxef\/turija' — magħluq qabel, miftuħ lil Samwel biss issa"
-    },
-    {
-      "kind": "mystery",
-      "subject": "kelmt Jaħwe",
-      "gloss": "il-kelma ta' Jaħwe għadha ma ħarġitx — il-misteru ma jkunx ta' qabel"
-    }
-  ],
-  "translation": "U Xemwel ma kienx għadu jaf ⟨את⟩ Jaħwe, u lanqas kienet għadha ħarġet bic-car lilu kelmt Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/3\/5-8.1792607625143.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe… — joħduk, Samuel għadu ma kienx jaf ⟨את⟩ Jaħwe, għax il-kelma ta' Jaħwe għadha ma ġietx ikcar għalih.",
   "tokens": [
     {
       "surface": "ושמואל",
-      "gloss": "u Xemwel"
+      "gloss": "U Samuel"
     },
     {
       "surface": "טרם",
-      "gloss": "ma għadu"
+      "gloss": "għadu ma…-x"
     },
     {
       "surface": "ידע",
@@ -56,25 +30,25 @@
     },
     {
       "surface": "וטרם",
-      "gloss": "u ma għadha"
+      "gloss": "għax għadha ma…-x"
     },
     {
       "surface": "יגלה",
-      "gloss": "ħarġet bic-car"
+      "gloss": "ma ġietx ikcar"
     },
     {
       "surface": "אליו",
-      "gloss": "lilu"
+      "gloss": "għalih"
     },
     {
       "surface": "דבר",
-      "gloss": "kelmt"
+      "gloss": "il-kelma"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T18:33:45.144153270Z",
+  "timestamp": "2026-10-21T23:59:55.111853536Z",
   "model": "glm-5.3"
 }

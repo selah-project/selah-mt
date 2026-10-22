@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hu",
-      "rationale": "il-pronom tas-suġġett miżjud għall-verb ויעמד"
-    },
-    {
-      "kind": "elision",
-      "subject": "שקה",
-      "rationale": "רב שקה huds u kelma waħda, l-isem tar-ranks; it-tieni token m'għandux glossa separata"
-    },
-    {
-      "kind": "crux",
-      "subject": "Ravxake",
-      "rationale": "רב שקה forsi 'il-kaptan tat-tazza', titlu Assirjan; ħafna jżommuh bħala isem"
-    }
-  ],
-  "translation": "U sultan Axxur bagħat ⟨את⟩ ir-Ravxake minn Lakix għal Jeruxalajim għand ir-re Ħizqijahu b'armata tqila, u hu waqaf ġo l-kanal tal-ġibjun ta' fuq, fit-triq ta' għalqa l-ħassar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/36\/1-4.1792611591912.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U r-reġ ta' Assur bagħat lil Rav-Xaqe minn Lakiex għand Jeruxalajim, għand ir-re Ħizqijahu, b'eżerċtu tqil; u waqaf ħdejn il-kanal tal-għadira ta' fuq, fit-triq tar-razzett tal-ħassar.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -39,32 +13,32 @@
     },
     {
       "surface": "מלך",
-      "gloss": "sultan"
+      "gloss": "r-reġ"
     },
     {
       "surface": "אשור",
-      "gloss": "Axxur"
+      "gloss": "Assur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ir-Ravxake"
+      "marks": "Rav-Xaqe"
     },
     {
       "surface": "רב",
-      "gloss": "ir-Ravxake"
+      "gloss": "Rav-"
     },
     {
       "surface": "שקה",
-      "gloss": ""
+      "gloss": "Xaqe"
     },
     {
       "surface": "מלכיש",
-      "gloss": "minn Lakix"
+      "gloss": "minn Lakiex"
     },
     {
       "surface": "ירושלמה",
-      "gloss": "għal Jeruxalajim"
+      "gloss": "għand Jeruxalajim"
     },
     {
       "surface": "אל",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "בחיל",
-      "gloss": "b'armata"
+      "gloss": "b'eżerċtu"
     },
     {
       "surface": "כבד",
-      "gloss": "tqila"
+      "gloss": "tqil"
     },
     {
       "surface": "ויעמד",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "בתעלת",
-      "gloss": "ġo l-kanal"
+      "gloss": "ħdejn il-kanal"
     },
     {
       "surface": "הברכה",
-      "gloss": "tal-ġibjun"
+      "gloss": "tal-għadira"
     },
     {
       "surface": "העליונה",
@@ -108,13 +82,13 @@
     },
     {
       "surface": "שדה",
-      "gloss": "ta' għalqa"
+      "gloss": "tar-razzett"
     },
     {
       "surface": "כובס",
-      "gloss": "il-ħassar"
+      "gloss": "tal-ħassar"
     }
   ],
-  "timestamp": "2026-10-21T19:39:51.914121967Z",
+  "timestamp": "2026-10-22T00:25:56.199675190Z",
   "model": "glm-5.3"
 }

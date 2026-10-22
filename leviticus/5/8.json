@@ -5,36 +5,20 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וימלק",
-      "rationale": "מלק tfisser jiflik il-ġonta mil-ġewwa — jqassar ir-ras mingħajr ma jifridha għal kollox; il-KJV 'wring off' iqarraq, għax il-vers jinsist li ma tinkisfux"
-    }
-  ],
-  "translation": "U ġab ⟨את⟩ lilhom lejn il-qassis, u offra ⟨את⟩ dak li għall-offerta tal-ħtija l-ewwel, u aqta' rasu minn quddiem għonu, mingħajr ma jifridha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "353b9ad6baeef4a785dce2d4fb73ff8793908adc996272aa6b5098546726e5ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/5\/5-8.1792600590973.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jiblihom ⟨את⟩ lill-qassis, u jqarreb ⟨את⟩ dak li għad-dnib l-ewwel, u jaqta' bil-qegħd ⟨את⟩ rasu minn quddiem għonqu, u ma jifirhiex.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "U ġab"
+      "gloss": "U jiblihom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lilhom"
+      "marks": "lill-qassis"
     },
     {
       "surface": "אל",
-      "gloss": "lejn"
+      "gloss": "lil"
     },
     {
       "surface": "הכהן",
@@ -42,12 +26,12 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "u offra"
+      "gloss": "u jqarreb"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li għall-offerta tal-ħtija"
+      "marks": "dak li għad-dnib l-ewwel"
     },
     {
       "surface": "אשר",
@@ -55,7 +39,7 @@
     },
     {
       "surface": "לחטאת",
-      "gloss": "għall-offerta tal-ħtija"
+      "gloss": "għad-dnib"
     },
     {
       "surface": "ראשונה",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "ומלק",
-      "gloss": "u aqta'"
+      "gloss": "u jaqta' bil-qegħd"
     },
     {
       "surface": "את",
@@ -80,17 +64,17 @@
     },
     {
       "surface": "ערפו",
-      "gloss": "għonu"
+      "gloss": "għonqu"
     },
     {
       "surface": "ולא",
-      "gloss": "mingħajr ma"
+      "gloss": "u ma"
     },
     {
       "surface": "יבדיל",
-      "gloss": "jifridha"
+      "gloss": "jifirhiex"
     }
   ],
-  "timestamp": "2026-10-21T16:36:30.974708447Z",
+  "timestamp": "2026-10-22T00:42:30.503727913Z",
   "model": "glm-5.3"
 }

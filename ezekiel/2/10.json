@@ -5,50 +5,24 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨kienet⟩",
-      "rationale": "il-Lhudi ma għandux kopula; il-Malti jeħtieġha"
-    },
-    {
-      "kind": "hapax",
-      "subject": "והגה",
-      "rationale": "הגה hawn biss fis-Sinjura b'dan il-forma — ħoss ta' għajjat u tnehhir"
-    },
-    {
-      "kind": "mystery",
-      "subject": "ktieb miktub quddiem u wara",
-      "rationale": "kitba fuq iż-żewġ naħat — sinjal ta' miktub sħiħ, saqsi li jmiss lil Eżekjel waħdu"
-    }
-  ],
-  "translation": "U xerragħha quddiemni, u ⟨kienet⟩ miktuba quddiem u wara, u miktub fiha nluj, u għajjat, u ħaġa tal-biki.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/2\/9-10.1792613975061.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U fetaħ ⟨את⟩ha quddiemi, u hi kienet miktuba quddiem u wara, u kien miktub fuqha: lmenti, gemgmil u ħe.",
   "tokens": [
     {
       "surface": "ויפרש",
-      "gloss": "u xerragħha"
+      "gloss": "u fetaħ"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "hi (ir-rutla)"
+      "gloss": "⟨את⟩ha",
+      "marks": "l-ktieb—ir-rotlu (oħtora, l-oġġett tal-prepożizzjoni quddiem)"
     },
     {
       "surface": "לפני",
-      "gloss": "quddiemni"
+      "gloss": "quddiemi"
     },
     {
       "surface": "והיא",
-      "gloss": "u hi"
+      "gloss": "u hi kienet"
     },
     {
       "surface": "כתובה",
@@ -64,25 +38,25 @@
     },
     {
       "surface": "וכתוב",
-      "gloss": "u miktub"
+      "gloss": "u kien mktub"
     },
     {
       "surface": "אליה",
-      "gloss": "fiha"
+      "gloss": "fuqha"
     },
     {
       "surface": "קנים",
-      "gloss": "nluj"
+      "gloss": "lmenti"
     },
     {
       "surface": "והגה",
-      "gloss": "u għajjat"
+      "gloss": "gemgmil"
     },
     {
       "surface": "והי",
-      "gloss": "u ħaġa tal-biki"
+      "gloss": "ħe"
     }
   ],
-  "timestamp": "2026-10-21T20:19:35.062456020Z",
+  "timestamp": "2026-10-22T00:16:53.553879394Z",
   "model": "glm-5.3"
 }

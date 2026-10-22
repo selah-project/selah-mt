@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וילוו \/ לוי",
-      "rationale": "il-għerq לוה jindaqq fuk isem Levi: huma li jingħaqdu (yelavvu) ma' Aharon"
-    }
-  ],
-  "translation": "U ġib ukoll miegħek lil ħutek, it-tribù ta' Levi, it-tribù ta' missierek, biex jingħaqdu miegħek u jiservuk; u int u wliedek miegħek, quddiem it-tinda tax-xhieda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6d40404a03b0ceb6b3bc595288120140be4821ad367889c711f289d435f16f75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/18\/1-4.1792603007633.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U aqreb miegħek ukoll lil ħutek, it-tribù ta' Levi, it-tribù ta' missierek, u jingħaqdu miegħek u jaqdew il-qadi għalik; u int, flimkien ma' wladek, quddiem it-tinda tad-testimonju.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "U ukoll"
+      "gloss": "u ... ukoll"
     },
     {
       "surface": "את",
@@ -54,15 +38,16 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "ġib miegħek"
+      "gloss": "aqreb"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "miegħek ⟨את⟩",
+      "marks": "ħutek"
     },
     {
       "surface": "וילוו",
-      "gloss": "biex jingħaqdu"
+      "gloss": "u jingħaqdu"
     },
     {
       "surface": "עליך",
@@ -70,7 +55,7 @@
     },
     {
       "surface": "וישרתוך",
-      "gloss": "u jiservuk"
+      "gloss": "u jaqdew il-qadi għalik"
     },
     {
       "surface": "ואתה",
@@ -78,11 +63,12 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "u wliedek"
+      "gloss": "ma' wladek"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "miegħek ⟨את⟩",
+      "marks": "int u wladek"
     },
     {
       "surface": "לפני",
@@ -94,9 +80,9 @@
     },
     {
       "surface": "העדת",
-      "gloss": "tax-xhieda"
+      "gloss": "tad-testimonju"
     }
   ],
-  "timestamp": "2026-10-21T17:16:47.635216225Z",
+  "timestamp": "2026-10-22T00:45:04.738777962Z",
   "model": "glm-5.3"
 }

@@ -5,83 +5,59 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "terġġgħkom 'il barra",
-      "rationale": "תקיא litteralment 'tagħmel vomit bihom' — l-art tir-rimeġġa lill-abitanti tagħha"
-    },
-    {
-      "kind": "elision",
-      "subject": "תקיא",
-      "rationale": "l-istampa letterali tat-taqjija (vomit) inbidlet għal eżilju biex tifftaħ"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Israel",
-      "rationale": "command plural indirizzat lil Israel"
-    }
-  ],
-  "translation": "U żommu ⟨את⟩ kull drawwieti u ⟨את⟩ kull ġudizzji tiegħi, u agħmlu ⟨את⟩ lilhom, sabiex l-art, li jiena daħħal lilkom fiha biex toqtgħu fiha, ma terġġgħkomx 'il barra.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/21-24.1792601126362.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għandkom tirawmu ⟨את⟩ id-digrieti tiegħi kollha u ⟨את⟩ l-ġudizzji tiegħi kollha, u tagħmlu ⟨את⟩hom, biex l-art fejn jiena ġib biex toqogħdu fih ma itemmixkom ħarġa bil-vojt.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "U żommu"
+      "gloss": "u għandkom tirawmu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kull drawwieti"
+      "marks": "id-digrieti kollha"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollha"
     },
     {
       "surface": "חקתי",
-      "gloss": "drawwieti"
+      "gloss": "id-digrieti tiegħi"
     },
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "kull ġudizzji tiegħi"
+      "marks": "l-ġudizzji kollha"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollha"
     },
     {
       "surface": "משפטי",
-      "gloss": "ġudizzji"
+      "gloss": "l-ġudizzji tiegħi"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "u agħmlu"
+      "gloss": "u tagħmlu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩hom",
+      "marks": "id-digrieti u l-ġudizzji"
     },
     {
       "surface": "ולא",
-      "gloss": "sabiex ma"
+      "gloss": "biex... ma"
     },
     {
       "surface": "תקיא",
-      "gloss": "terġġgħkom 'il barra"
+      "gloss": "temmixkom ħarġa bil-vojt"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨lilkom⟩"
+      "gloss": "⟨את⟩kom",
+      "marks": "kom (lilkom)"
     },
     {
       "surface": "הארץ",
@@ -89,7 +65,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "fejn"
     },
     {
       "surface": "אני",
@@ -97,25 +73,26 @@
     },
     {
       "surface": "מביא",
-      "gloss": "daħħal"
+      "gloss": "ġib"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩kom",
+      "marks": "kom (lilkom)"
     },
     {
       "surface": "שמה",
-      "gloss": "fiha"
+      "gloss": "fih \/ hemm"
     },
     {
       "surface": "לשבת",
-      "gloss": "biex toqtgħu"
+      "gloss": "biex toqogħdu"
     },
     {
       "surface": "בה",
       "gloss": "fiha"
     }
   ],
-  "timestamp": "2026-10-21T16:45:26.363560957Z",
+  "timestamp": "2026-10-22T00:40:34.364893666Z",
   "model": "glm-5.3"
 }

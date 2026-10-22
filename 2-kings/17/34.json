@@ -5,33 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tagħhom",
-      "rationale": "is-suffissi f'כחקתם וכמשפטם: statuti ta' min — ta' ulied Jagħaqov jew ta' nazzjonijiet oħra? it-traduzzjonijiet jaqsmu"
-    },
-    {
-      "kind": "addition",
-      "subject": "din il-ġurnata",
-      "gloss": "",
-      "rationale": "l-artiklu Malti għal היום הזה, mhux immarkat għax l-artiklu Lhudi huwa preżenti"
-    }
-  ],
-  "translation": "Sa din il-ġurnata huma jagħmlu skont id-drawwiet l-ewwel; mhumiex jibżgħu minn Jaħwe, u mhumiex jagħmlu skont l-istatuti tagħhom, u skont id-drittijiet tagħhom, u skont it-Tora, u skont il-kmand li kkmanda Jaħwe ⟨את⟩ ulied Jagħaqov, li poġġa ismu Jisrael.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/17\/33-36.1792610606443.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sas-sieħet ta' din il-ġurnata huma għadhom jagħmlu skond id-drawwiet l-ewwel; huma ma jibżgħux minn Jaħwe u lanqas jagħmlu skond l-istatuti tagħhom, u skond id-drittijiet tagħhom, u skond it-Tora, u skond il-ktieb tal-merħba ⟨il-kmand⟩ li ħarreġ Jaħwe lil ⟨את⟩ wlied Jagħaqov, li żżomm ismu Jisrael.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "Sa"
+      "gloss": "Sas-"
     },
     {
       "surface": "היום",
@@ -39,7 +17,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "din"
     },
     {
       "surface": "הם",
@@ -51,7 +29,7 @@
     },
     {
       "surface": "כמשפטים",
-      "gloss": "skont id-drawwiet"
+      "gloss": "skond id-drawwiet"
     },
     {
       "surface": "הראשנים",
@@ -59,11 +37,11 @@
     },
     {
       "surface": "אינם",
-      "gloss": "mhumiex"
+      "gloss": "ma"
     },
     {
       "surface": "יראים",
-      "gloss": "jibżgħu"
+      "gloss": "jibżgħux"
     },
     {
       "surface": "את",
@@ -76,7 +54,7 @@
     },
     {
       "surface": "ואינם",
-      "gloss": "u mhumiex"
+      "gloss": "u lanqas"
     },
     {
       "surface": "עשים",
@@ -84,19 +62,19 @@
     },
     {
       "surface": "כחקתם",
-      "gloss": "skont l-istatuti tagħhom"
+      "gloss": "skond l-istatuti tagħhom"
     },
     {
       "surface": "וכמשפטם",
-      "gloss": "u skont id-drittijiet tagħhom"
+      "gloss": "u skond id-drittijiet tagħhom"
     },
     {
       "surface": "וכתורה",
-      "gloss": "u skont it-Tora"
+      "gloss": "u skond it-Tora"
     },
     {
       "surface": "וכמצוה",
-      "gloss": "u skont il-kmand"
+      "gloss": "u skond il-kmand"
     },
     {
       "surface": "אשר",
@@ -104,7 +82,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "kkmanda"
+      "gloss": "ħarreġ"
     },
     {
       "surface": "יהוה",
@@ -113,11 +91,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulied Jagħaqov"
+      "marks": "wlied Jagħaqov"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "יעקב",
@@ -129,7 +107,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "poġġa"
+      "gloss": "żżomm"
     },
     {
       "surface": "שמו",
@@ -140,6 +118,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T19:23:26.444626691Z",
+  "timestamp": "2026-10-22T00:03:52.586232243Z",
   "model": "glm-5.3"
 }

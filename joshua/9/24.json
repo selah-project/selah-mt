@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħajjitna",
-      "rationale": "נפש hija l-ħila tal-ħajja\/nifs, mhux 'ruħ'; 'għal ħajjitna' iżomm il-ktub"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הגד הגד",
-      "rationale": "infinitiv absolut ripetut: 'tħabbar bil-qatti tħabbar' — enfasi li titilef fit-traduzzjoni"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Giboniti",
-      "rationale": "il-Giboniti jwieġbu lil Ġožwè direttament b'dikjarazzjoni"
-    }
-  ],
-  "translation": "U wieġbu lil Ġožwè u qalu: Għaliex tħabbar bil-qatti lill-qaddejja tiegħek ⟨את⟩ dak li ordna Jaħwe, Elohim tiegħek, lil ⟨את⟩ Moxe, qaddej tiegħu, biex jagħti lilkom ⟨את⟩ l-art kollha, u biex jeqirdu ⟨את⟩ lill-abitanti kollha tal-art minn quddiemkom; u beżħna ħafna għal ħajjitna minn quddiemkom, u għamilna ⟨את⟩ din il-kelma.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c27bc578a133c57897222f7a932ad2ac4a3790ba05e4d360a76e226b373304c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/9\/21-24.1792606499277.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wieġbu lil Jehoxua u qalu: Għaliex ġie mħabbar ċertament lill-ħaddiema tiegħek ⟨את⟩ dak li Jaħwe, Elohim tiegħek, amar ⟨את⟩ lil Moxe, il-qaddej tiegħu, li jagħtikom ⟨את⟩ l-art kollha u jeqred lil kulmin joqgħod fl-art minn quddiemkom; għalhekk beżħna ħafna għal ħajjitna minn quddiemkom, u għamilna ⟨את⟩ din il-ħaġa.",
   "tokens": [
     {
       "surface": "ויענו",
@@ -40,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ġožwè"
+      "marks": "lil Jehoxua"
     },
     {
       "surface": "יהושע",
-      "gloss": "lil Ġožwè"
+      "gloss": "lil Jehoxua"
     },
     {
       "surface": "ויאמרו",
@@ -56,15 +30,15 @@
     },
     {
       "surface": "הגד",
-      "gloss": "tħabbar"
+      "gloss": "ġie mħabbar"
     },
     {
       "surface": "הגד",
-      "gloss": "bil-qatti"
+      "gloss": "ċertament"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "lill-qaddejja tiegħek"
+      "gloss": "lill-ħaddiema tiegħek"
     },
     {
       "surface": "את",
@@ -73,11 +47,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "dak li"
     },
     {
       "surface": "צוה",
-      "gloss": "ordna"
+      "gloss": "amar"
     },
     {
       "surface": "יהוה",
@@ -90,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moxe"
+      "marks": "lil Moxe"
     },
     {
       "surface": "משה",
@@ -98,15 +72,15 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "qaddej tiegħu"
+      "gloss": "il-qaddej tiegħu"
     },
     {
       "surface": "לתת",
-      "gloss": "biex jagħti"
+      "gloss": "li jagħti"
     },
     {
       "surface": "לכם",
-      "gloss": "lilkom"
+      "gloss": "kom"
     },
     {
       "surface": "את",
@@ -123,24 +97,24 @@
     },
     {
       "surface": "ולהשמיד",
-      "gloss": "u biex jeqirdu"
+      "gloss": "u jeqred"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lill-abitanti kollha"
+      "marks": "kulmin joqgħod fl-art"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "ישבי",
-      "gloss": "lill-abitanti"
+      "gloss": "min joqgħod"
     },
     {
       "surface": "הארץ",
-      "gloss": "tal-art"
+      "gloss": "fl-art"
     },
     {
       "surface": "מפניכם",
@@ -148,7 +122,7 @@
     },
     {
       "surface": "ונירא",
-      "gloss": "u beżħna"
+      "gloss": "għalhekk beżħna"
     },
     {
       "surface": "מאד",
@@ -169,17 +143,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "din il-kelma"
+      "marks": "din il-ħaġa"
     },
     {
       "surface": "הדבר",
-      "gloss": "il-kelma"
+      "gloss": "il-ħaġa"
     },
     {
       "surface": "הזה",
       "gloss": "din"
     }
   ],
-  "timestamp": "2026-10-21T18:14:59.279222269Z",
+  "timestamp": "2026-10-22T00:53:59.643849936Z",
   "model": "glm-5.3"
 }

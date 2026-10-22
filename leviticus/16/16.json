@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "kippur",
-      "rationale": "כפר: 'jagħmel kippur' miżmum qrib tal-Lhudi; alternattivi 'jespija' jew 'jikkopri'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "אתם",
-      "rationale": "hawn אתם hu l-prepożizzjoni 'ma'' (H854), mhux il-marka tal-oġġett את (H853); ma tradottux bħala ⟨את⟩ fid-test"
-    }
-  ],
-  "translation": "U jagħmel kippur fuq il-post il-qaddis mit-tniġġis ta' wlied Jisrael u mir-ribelljonijiet tagħhom, għal dnubiethom kollha; u hekk jagħmel għall-Ġemma ta' Moed, li jgħammar magħhom f'nofs it-tniġġis tagħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/13-16.1792600963953.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jagħmel kappar fuq il-post il-qaddis minħabba t-tniġġis ta' wlied Jisrael u minħabba r-ribelljonijiet tagħhom, f'dnubithom kollha; u hekk jagħmel għal tenda l-laqgħa, li tniffgħod ⟨⟨את⟩ miegħom⟩ fost tniġġishom.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "u jagħmel kippur"
+      "gloss": "jagħmel kappar"
     },
     {
       "surface": "על",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "מטמאת",
-      "gloss": "mit-tniġġis"
+      "gloss": "minħabba t-tniġġis"
     },
     {
       "surface": "בני",
-      "gloss": "ta' wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "ישראל",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "ומפשעיהם",
-      "gloss": "u mir-ribbelljonijiet tagħhom"
+      "gloss": "u minħabba r-ribelljonijiet tagħhom"
     },
     {
       "surface": "לכל",
-      "gloss": "għal kollha"
+      "gloss": "f'kollha"
     },
     {
       "surface": "חטאתם",
-      "gloss": "dnubiethom"
+      "gloss": "dnubithom"
     },
     {
       "surface": "וכן",
@@ -74,30 +53,29 @@
     },
     {
       "surface": "לאהל",
-      "gloss": "għall-Ġemma"
+      "gloss": "għal tenda"
     },
     {
       "surface": "מועד",
-      "gloss": "ta' Moed"
+      "gloss": "l-laqgħa"
     },
     {
       "surface": "השכן",
-      "gloss": "li jgħammar"
+      "gloss": "li tniffgħod"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "magħhom"
+      "gloss": "⟨את⟩ miegħom"
     },
     {
       "surface": "בתוך",
-      "gloss": "f'nofs"
+      "gloss": "fost"
     },
     {
       "surface": "טמאתם",
-      "gloss": "it-tniġġis tagħhom"
+      "gloss": "tniġġishom"
     }
   ],
-  "timestamp": "2026-10-21T16:42:43.954935410Z",
+  "timestamp": "2026-10-22T00:40:27.951504228Z",
   "model": "glm-5.3"
 }

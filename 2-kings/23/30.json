@@ -5,37 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-midluk",
-      "rationale": "וימשחו 'rimxu bżżejt' — kliem ieħor mhux ta' Sid; jiġi maħsub bħala midluk.",
-      "kind_note": "xagħluh jintuża għall-irmix bit-żejt"
-    },
-    {
-      "kind": "addition",
-      "subject": "isultan",
-      "rationale": "Malti jeħtieġ is-sostantiv ma' וימליכו; il-Lhudi għandu biss 'u tellgħuh fil-malika'."
-    }
-  ],
-  "translation": "U l-ilsiera tiegħu rkbuttuh mejjet minn Migiddu, u ġiebuħ Jeruxalajim, u difnuh f'qabar tiegħu; u ħa mqad lill-art lil Jehoagħaz bin Joaxjahu, u xagħluh u ġagħluh isultan flok missieru.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/29-32.1792610731241.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-imservi tiegħu rkebwhu ⟨mejjet⟩ minn Megiddu, u daħħluh Jeruxalajim, u difnuh fiqabar tiegħu; u poplu l-art ħa ⟨את⟩ lil Jehoaħaz bin Josijahu, u midlkuh u għamluh reġina minfloq missieru.",
   "tokens": [
     {
       "surface": "וירכבהו",
-      "gloss": "u rkbuttuh"
+      "gloss": "u rkebwhu"
     },
     {
       "surface": "עבדיו",
-      "gloss": "l-ilsiera tiegħu"
+      "gloss": "l-imservi tiegħu"
     },
     {
       "surface": "מת",
@@ -43,11 +21,11 @@
     },
     {
       "surface": "ממגדו",
-      "gloss": "minn Migiddu"
+      "gloss": "minn Megiddu"
     },
     {
       "surface": "ויבאהו",
-      "gloss": "u ġiebuħ"
+      "gloss": "u daħħluh"
     },
     {
       "surface": "ירושלם",
@@ -59,7 +37,7 @@
     },
     {
       "surface": "בקברתו",
-      "gloss": "f'qabar tiegħu"
+      "gloss": "fiqabar tiegħu"
     },
     {
       "surface": "ויקח",
@@ -67,20 +45,20 @@
     },
     {
       "surface": "עם",
-      "gloss": "mqad"
+      "gloss": "poplu"
     },
     {
       "surface": "הארץ",
-      "gloss": "lill-art"
+      "gloss": "l-art"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehoagħaz"
+      "marks": "lil Jehoaħaz"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Jehoagħaz"
+      "gloss": "Jehoaħaz"
     },
     {
       "surface": "בן",
@@ -88,35 +66,35 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Joaxjahu"
+      "gloss": "Josijahu"
     },
     {
       "surface": "וימשחו",
-      "gloss": "u xagħluh"
+      "gloss": "u midlkuh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lilu (Jehoagħaz)"
+      "marks": "huchomor: lil Jehoaħaz"
     },
     {
       "surface": "וימליכו",
-      "gloss": "u ġagħluh isultan"
+      "gloss": "u għamluh reġina"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lilu (Jehoagħaz)"
+      "marks": "lil Jehoaħaz"
     },
     {
       "surface": "תחת",
-      "gloss": "flok"
+      "gloss": "minfloq"
     },
     {
       "surface": "אביו",
       "gloss": "missieru"
     }
   ],
-  "timestamp": "2026-10-21T19:25:31.242706555Z",
+  "timestamp": "2026-10-22T00:05:13.600037491Z",
   "model": "glm-5.3"
 }

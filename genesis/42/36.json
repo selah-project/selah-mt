@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כלנה",
-      "rationale": "il-femminil 'kollha' b'hemming ta' ה: 'kollox jaqgħu fuqi' kontra 'kollha kontrani' — il-forma femminil ta' כל bil-plural hi stramba"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ġejtu biż-żgħar",
-      "rationale": "שכל huwa 'titlef il-wlied'; il-Malti żżomm il-ħoss ta' 'tkun bla wlid'"
-    }
-  ],
-  "translation": "U Jagħaqov missierhom qalilhom: Intom ġejtu biż-żgħar; Jożef m'għadux, u Xmun m'għadux, u ⟨את⟩ Benjamin se taħdu; kollox qiegħed jaqgħu fuqi.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/33-36.1792598929995.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qalilhom Jagħaqov, missierhom: Inti ġrituni mingħajjri wliedi; Jossef m'għadux, u Ximun m'għadux, u lil Binjamin se jtieħdu ⟨minni⟩; kollha dawn niżlu fuqi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "qal"
+      "gloss": "U qalilhom"
     },
     {
       "surface": "אלהם",
-      "gloss": "lilhom"
+      "gloss": "lil"
     },
     {
       "surface": "יעקב",
@@ -47,15 +26,15 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "ġejtu biż-żgħar"
+      "marks": "lili (object tal- verb שכלתם)"
     },
     {
       "surface": "שכלתם",
-      "gloss": "ġejtu biż-żgħar"
+      "gloss": "ġrituni mingħajjri wliedi"
     },
     {
       "surface": "יוסף",
-      "gloss": "Jożef"
+      "gloss": "Jossef"
     },
     {
       "surface": "איננו",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "ושמעון",
-      "gloss": "u Xmun"
+      "gloss": "u Ximun"
     },
     {
       "surface": "איננו",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Benjamin"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil Binjamin"
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjamin"
+      "gloss": "Binjamin"
     },
     {
       "surface": "תקחו",
-      "gloss": "taħdu"
+      "gloss": "se jtieħdu"
     },
     {
       "surface": "עלי",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "היו",
-      "gloss": "qiegħed jaqgħu"
+      "gloss": "níżlu"
     },
     {
       "surface": "כלנה",
-      "gloss": "kollox"
+      "gloss": "kollha dawn"
     }
   ],
-  "timestamp": "2026-10-21T16:08:49.996830393Z",
+  "timestamp": "2026-10-22T00:23:32.284061979Z",
   "model": "glm-5.3"
 }

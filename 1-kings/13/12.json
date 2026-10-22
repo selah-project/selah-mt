@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויראו",
-      "rationale": "KJV\/JPS jieħduha perfett ('kienu raw') kontra traduzzjonijiet oħrajn preżent\/imperfett ('juru lil missierhom') — il-waw konsekuttiv jista' jifhed it-tnejn."
-    },
-    {
-      "kind": "addition",
-      "subject": "l-artiklu 'it-' f'it-triq",
-      "rationale": "L-artiklu Lhudi ה הollux jittraduċi; l-artiklu Malti m'għandux jibqa' immarkat."
-    }
-  ],
-  "translation": "U missierhom kellimhom: Fejn ‹dan› triq li mexa? U uliedu raw ⟨את⟩ it-triq li mexa l-raġel ta' Elohim, li ġie minn Jehuda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9ab762c794415d7e4db8468f4dd4f43e1bec760edb24c8cfa117ede2992146f7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/13\/12-12.1792623338699.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U missierhom qalilhom: Fejn hi din it-triq li ħa? U uliedu raw ⟨את⟩ it-triq li ħadha raġel l-Elohim, li ġie minn Jehuda.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "kellimhom"
+      "gloss": "qal"
     },
     {
       "surface": "אלהם",
-      "gloss": "għalihom"
+      "gloss": "lilhom"
     },
     {
       "surface": "אביהם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "הדרך",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "mexa"
+      "gloss": "ħa"
     },
     {
       "surface": "ויראו",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "הלך",
-      "gloss": "mexa"
+      "gloss": "ħadha"
     },
     {
       "surface": "איש",
-      "gloss": "l-raġel"
+      "gloss": "raġel"
     },
     {
       "surface": "האלהים",
-      "gloss": "ta' Elohim"
+      "gloss": "l-Elohim"
     },
     {
       "surface": "אשר",
@@ -102,6 +81,6 @@
       "gloss": "minn Jehuda"
     }
   ],
-  "timestamp": "2026-10-21T22:55:38.700408009Z",
+  "timestamp": "2026-10-21T23:56:38.098583513Z",
   "model": "glm-5.3"
 }

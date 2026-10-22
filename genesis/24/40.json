@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "miegħek",
-      "rationale": "אתך hawn hu l-prepożizzjoni את H854 ('miegħek'), mhux l-marka tal-oġġett dirett H853; għalhekk ma ġietx mmarkha b'⟨את⟩"
-    },
-    {
-      "kind": "substitution",
-      "subject": "messaġġier",
-      "rationale": "מלאך jista' jkun anke profeta jew bniedem mibgħut; il-Lhudi jiżomm il-forma 'mibgħut'"
-    }
-  ],
-  "translation": "U qal lili: Jaħwe, quddiemu li mxajt, jibgħat il-messaġġier tiegħu ⟨את⟩ miegħek, u jirnexxi triqtek, u tieħu mara għal ibni minn familja tiegħi u minn dar missieri.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/37-40.1792598310531.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qalli: Jaħwe, quddiem lil min jien ilimt, jibgħat l-anġlu tiegħu miegħek, u jirnexxi triqtek, u tieħu mara għal ibni minn friegħi u mid-dar ta' missieri.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,14 +21,14 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "liem"
     },
     {
       "surface": "התהלכתי",
-      "gloss": "mxajt"
+      "gloss": "ilimt"
     },
     {
-      "surface": "lefanav",
+      "surface": "לפניו",
       "gloss": "quddiemu"
     },
     {
@@ -58,11 +37,12 @@
     },
     {
       "surface": "מלאכו",
-      "gloss": "il-messaġġier tiegħu"
+      "gloss": "l-anġlu tiegħu"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩",
+      "marks": "miegħek"
     },
     {
       "surface": "והצליח",
@@ -86,17 +66,17 @@
     },
     {
       "surface": "ממשפחתי",
-      "gloss": "minn familja tiegħi"
+      "gloss": "minn friegħi"
     },
     {
       "surface": "ומבית",
-      "gloss": "u minn dar"
+      "gloss": "u mid-dar"
     },
     {
       "surface": "אבי",
-      "gloss": "missieri"
+      "gloss": "ta' missieri"
     }
   ],
-  "timestamp": "2026-10-21T15:58:30.532623726Z",
+  "timestamp": "2026-10-22T00:21:03.620366817Z",
   "model": "glm-5.3"
 }

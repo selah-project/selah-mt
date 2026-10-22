@@ -5,49 +5,23 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ħriġt il-ġwienaħi fuqek",
-      "rationale": "ואפרש כנפי — spread my wing\/skirt over you, idiom of protection and marriage claim (Ruth 3:9)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "l-imħabba",
-      "rationale": "דדים literally 'loves\/love-time', rendered 'l-imħabba' (love)"
-    },
-    {
-      "kind": "crux",
-      "subject": "miegħek",
-      "rationale": "אֹתָךְ here is the preposition 'with you' (H854), not the direct-object marker את (H853), so no ⟨את⟩ marker"
-    }
-  ],
-  "translation": "U għedt għalik, u rajtek, u araha ħiereġ żmienek, żmien l-imħabba, u ħriġt il-ġwienaħi fuqek, u ħlajt għajbietek, u ħliftlek, u daħalt f'patt ⟨את⟩ miegħek, jgħid Adonaj Jaħwe, u sirt tiegħi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "4e049e40ae3747ea5ef120da16bfc810dee396db932299dff96eed98662628bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/16\/8-8.1792623608344.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaddiet fuqek u rajtek, u ara, ⟨kien⟩ żmienek, żmien ta' mħabba; ftaħt il-ġwienaħ tiegħi fuqek u għattit l-għarwenja tiegħek, u ħliftlek u daħlt f'patt ⟨את⟩ miegħek, jgħid Adonaj Jaħwe, u sirt tiegħi.",
   "tokens": [
     {
       "surface": "ואעבר",
-      "gloss": "u għedt"
+      "gloss": "għaddiet"
     },
     {
       "surface": "עליך",
-      "gloss": "għalik"
+      "gloss": "fuqek"
     },
     {
       "surface": "ואראך",
-      "gloss": "u rajtek"
+      "gloss": "rajtek"
     },
     {
       "surface": "והנה",
-      "gloss": "u araha"
+      "gloss": "ara"
     },
     {
       "surface": "עתך",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "דדים",
-      "gloss": "l-imħabba"
+      "gloss": "ta' mħabba"
     },
     {
       "surface": "ואפרש",
-      "gloss": "u ħriġt"
+      "gloss": "ftaħt"
     },
     {
       "surface": "כנפי",
-      "gloss": "il-ġwienaħi"
+      "gloss": "il-ġwienaħ tiegħi"
     },
     {
       "surface": "עליך",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "ואכסה",
-      "gloss": "u ħlajt"
+      "gloss": "għattit"
     },
     {
       "surface": "ערותך",
-      "gloss": "għajbietek"
+      "gloss": "l-għarwenja tiegħek"
     },
     {
       "surface": "ואשבע",
-      "gloss": "u ħliftlek"
+      "gloss": "ħliftlek"
     },
     {
       "surface": "לך",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ואבוא",
-      "gloss": "u daħalt"
+      "gloss": "daħlt"
     },
     {
       "surface": "בברית",
@@ -99,7 +73,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ miegħek"
+      "gloss": "⟨את⟩",
+      "marks": "miegħek — il-patt mal-kelliema"
     },
     {
       "surface": "נאם",
@@ -115,13 +90,13 @@
     },
     {
       "surface": "ותהיי",
-      "gloss": "u sirt"
+      "gloss": "sirt"
     },
     {
       "surface": "לי",
       "gloss": "tiegħi"
     }
   ],
-  "timestamp": "2026-10-21T23:00:08.345222505Z",
+  "timestamp": "2026-10-22T00:53:30.730333319Z",
   "model": "glm-5.3"
 }

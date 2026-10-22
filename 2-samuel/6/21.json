@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ושחקתי",
-      "rationale": "qal waħdu jew imperfett: 'ippjekajt' (KJV\/JPS jaqrawh bħala passat jew preżent dwar intenzjoni) — il-verb fil-perfett Malti jintuża wkoll għall-futur qrib."
-    },
-    {
-      "kind": "you",
-      "subject": "lil Mikal",
-      "rationale": "David jwieġeb lil Mikal direttament — diskors dirett."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nagid",
-      "rationale": "נגיד jiżżomm bħala nagid: 'nagid' tfisser 'il-qaddiem, il-prinċep', mhux sempliċiment 'prinċep' jew 'mexxej'."
-    }
-  ],
-  "translation": "U David qal lil Mikal: Quddiem Jaħwe, li għażel lili aktar minn missierek u minn djaru kollu, biex jaċċettani bħala nagid fuq poplu Jaħwe, fuq Jisrael — ippjekajt quddiem Jaħwe, u ⟨se nippjeka⟩ għadha quddiem Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f76d7712fc02dfdf67da8785117f96a2585a2197ea705c1c12a4704f3c8ca17d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/6\/21-23.1792608647117.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David qal lil Mikal: quddiem Jaħwe, li għażlini minn flok missierek u minn flok daru kollha, biex jaqtagħ għalija li nkun nagid fuq poplu Jaħwe, fuq Jisrael; iva, jien daqt quddiem Jaħwe.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -75,20 +49,20 @@
     },
     {
       "surface": "ומכל",
-      "gloss": "u minn... kollu"
+      "gloss": "u minn kollha"
     },
     {
       "surface": "ביתו",
-      "gloss": "djaru"
+      "gloss": "daru"
     },
     {
       "surface": "לצות",
-      "gloss": "biex jaċċettani"
+      "gloss": "biex jaqtagħ għalija"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "lili"
+      "marks": "nagid"
     },
     {
       "surface": "נגיד",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "ושחקתי",
-      "gloss": "u ippjekajt"
+      "gloss": "u jien daqt"
     },
     {
       "surface": "לפני",
@@ -127,6 +101,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T18:50:47.118040583Z",
+  "timestamp": "2026-10-22T00:07:36.293434181Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "joqgħod",
-      "rationale": "ישכב qrib ta' 'joqgħod\/jorqod ma'' — il-Lhudi juża 'lie down' għall-att sesswali"
-    },
-    {
-      "kind": "substitution",
-      "subject": "żer' ta' miġieba",
-      "rationale": "שכבת זרע — 'mistrieħ tal-bżar', inżamm il-kliem b'qrib Semitiku"
-    }
-  ],
-  "translation": "U mara li raġel joqgħod ⟨את⟩ bi żer' ta' miġieba, jitgħasslu fl-ilma, u jkunu tmijja sal-milgħaxija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0507b9d4c6b95eb36a58454fe5abd229dbb2aa011a4e4b9ef7680f3a9638fc03",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/15\/17-20.1792600951116.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U mara li rdum maridha — skieba ta' żerriegħa — u jagħslu bl-ilma, u jkunu mḥassra sal-milgħaxija.",
   "tokens": [
     {
       "surface": "ואשה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "joqgħod"
+      "gloss": "rdum"
     },
     {
       "surface": "איש",
@@ -47,27 +26,27 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "lil dak li jiġi mkabbad"
+      "marks": "skieba ta' żerriegħa"
     },
     {
       "surface": "שכבת",
-      "gloss": "miġieba"
+      "gloss": "skieba"
     },
     {
-      "surface": "żer'",
-      "gloss": "żer'"
+      "surface": "זרע",
+      "gloss": "żerriegħa"
     },
     {
       "surface": "ורחצו",
-      "gloss": "u jitgħasslu"
+      "gloss": "u jagħslu"
     },
     {
       "surface": "במים",
-      "gloss": "fl-ilma"
+      "gloss": "bl-ilma"
     },
     {
       "surface": "וטמאו",
-      "gloss": "u jkunu tmijja"
+      "gloss": "u jkunu mḥassra"
     },
     {
       "surface": "עד",
@@ -78,6 +57,6 @@
       "gloss": "il-milgħaxija"
     }
   ],
-  "timestamp": "2026-10-21T16:42:31.117527676Z",
+  "timestamp": "2026-10-22T00:40:05.059148763Z",
   "model": "glm-5.3"
 }

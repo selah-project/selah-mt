@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נאם יהוה \/ בשם יהוה",
-      "rationale": "isem Jaħwe jissejjaħ quddiem Moxe — l-isem stess li Moxe staqsi għalih; l-istruttura tal-parallelom חנן\/רחם titgħaddar."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וחנתי...אחן \/ ורחמתי...ארחם",
-      "rationale": "taqsira parallela: l-istess għerq jerġa' jingħad darbtejn — 'nirħan lil min nirħan' — it-taqsira ma tinbidlux fil-Malti."
-    },
-    {
-      "kind": "you",
-      "subject": "quddiem wiċċek \/ quddiemek",
-      "rationale": "indirizz diretta lil Moxe."
-    }
-  ],
-  "translation": "U qal: Jien inħalli l-ġmiel kollu tiegħi jgħaddi quddiem wiċċek, u jniżżel b'isem Jaħwe quddiemek, u nirħan lil min nirħan, u nraħem lil min nraħem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "6e211b7f7158e4e9ed1f42a4446a0c5ac3f2eb1874a0ee4268d5300cc71d8c83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/33\/18-20.1792602246847.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal: Jien inġib kollu kemm hu t-tajjeb tiegħi jgħaddi quddiem wiċċek, u njissemm b'Isem Jaħwe quddiem wicc<i>ek<\/i>, u nirħom lil ⟨את⟩ dak li nirħom, u ħniena nagħti lil ⟨את⟩ dak li nrħem.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "אעביר",
-      "gloss": "inħalli jgħaddi"
+      "gloss": "inġib jgħaddi"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollu kemm hu"
     },
     {
       "surface": "טובי",
-      "gloss": "il-ġmiel tiegħi"
+      "gloss": "it-tajjeb tiegħi"
     },
     {
       "surface": "על",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "וקראתי",
-      "gloss": "u jniżżel"
+      "gloss": "u njissemm"
     },
     {
       "surface": "בשם",
-      "gloss": "b'isem"
+      "gloss": "b'Isem"
     },
     {
       "surface": "יהוה",
@@ -75,43 +49,43 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "quddiemek"
+      "gloss": "quddiem wiċċek"
     },
     {
       "surface": "וחנתי",
-      "gloss": "u nirħan"
+      "gloss": "u nagħti ħniena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil min nirħan"
+      "marks": "dak li nirħom"
     },
     {
       "surface": "אשר",
-      "gloss": "lil min"
+      "gloss": "dak li"
     },
     {
       "surface": "אחן",
-      "gloss": "nirħan"
+      "gloss": "nirħom"
     },
     {
       "surface": "ורחמתי",
-      "gloss": "u nraħem"
+      "gloss": "u nrħem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil min nraħem"
+      "marks": "dak li nrħem"
     },
     {
       "surface": "אשר",
-      "gloss": "lil min"
+      "gloss": "dak li"
     },
     {
       "surface": "ארחם",
-      "gloss": "nraħem"
+      "gloss": "nrħem"
     }
   ],
-  "timestamp": "2026-10-21T17:04:06.849234033Z",
+  "timestamp": "2026-10-22T00:53:11.378061944Z",
   "model": "glm-5.3"
 }

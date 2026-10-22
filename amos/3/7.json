@@ -5,38 +5,11 @@
   "book": "amos",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "סודו",
-      "rationale": "is-sod — il-kunsill moħbi ta' Jaħwe, mgħarraf biss lill-profeti"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "il-konġunzjoni doppja 'għax jekk' tingħata bħala 'jekk ma ... jix' waħda, biex il-Malti jifhem il-ħelsien ta' ġewwa"
-    },
-    {
-      "kind": "substitution",
-      "subject": "גלה",
-      "gloss": "ikxef",
-      "rationale": "il-verbu Lhudi tfisser 'jkun miftuħ\/miċħun' — tfisser ukoll 'jteħied f'eżilju'; 'kxef' iżomm it-tifsira tas-sod"
-    }
-  ],
-  "translation": "Għax Adonaj Jaħwe ma jagħmel kelma, jekk ma jikxifx is-sod tiegħu lil-qaddejja tiegħu, il-profeti.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0db15c373265bf4a2e623fe85a2a209a6220e2a7ecc14446ddf17ad716b65c27",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/3\/6-7.1792623678260.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex Adonaj Jaħwe ma jagħmelx kelma, jekk ma jikxifx is-sod tagħha lill-qlub tiegħu, il-profeti.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "לא",
@@ -44,7 +17,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "jagħmel"
+      "gloss": "jagħmelx"
     },
     {
       "surface": "אדני",
@@ -60,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "jekk"
     },
     {
       "surface": "אם",
-      "gloss": "jekk"
+      "gloss": "ma"
     },
     {
       "surface": "גלה",
@@ -72,21 +45,21 @@
     },
     {
       "surface": "סודו",
-      "gloss": "is-sod tiegħu"
+      "gloss": "is-sod tagħha"
     },
     {
       "surface": "אל",
-      "gloss": "lil"
+      "gloss": "lill-qlub"
     },
     {
       "surface": "עבדיו",
-      "gloss": "qaddejja tiegħu"
+      "gloss": "tiegħu"
     },
     {
       "surface": "הנביאים",
       "gloss": "il-profeti"
     }
   ],
-  "timestamp": "2026-10-21T23:01:18.261016334Z",
+  "timestamp": "2026-10-22T00:51:57.290129351Z",
   "model": "glm-5.3"
 }

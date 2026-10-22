@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 76,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יבצר",
-      "rationale": "Root בצר: 'cut off \/ restrain' (KJV, ASV) vs 'gather' (YLt) — chosen 'jaqta' (cut off)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mibgħugħ",
-      "rationale": "נורא niph'al participle of ירא — 'fearsome\/terrible'; rendered with Maltese fear-root."
-    },
-    {
-      "kind": "elision",
-      "subject": "Jaħwe",
-      "rationale": "Verb is 3ms with no explicit subject in this verse; the Name supplied from context."
-    }
-  ],
-  "translation": "Jaħwe jaqta' ruwaħ in-negidim, huwa mibgħugħ għal sultani l-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "eb78fc4a60bd8f5941b7fa786b88fc66a5436e02bd61b66edd90c1c4e0d5dc39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/76\/13-13.1792617429403.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Huwa jibżar ruwaħ in-negidim; huwa tal-biża' lill-mellek tal-art.",
   "tokens": [
     {
       "surface": "יבצר",
-      "gloss": "jaqta'"
+      "gloss": "jibżar"
     },
     {
       "surface": "רוח",
@@ -47,17 +21,17 @@
     },
     {
       "surface": "נורא",
-      "gloss": "mibgħugħ"
+      "gloss": "tal-biża'"
     },
     {
       "surface": "למלכי",
-      "gloss": "ghal sultani"
+      "gloss": "lill-mellek"
     },
     {
       "surface": "ארץ",
-      "gloss": "l-art"
+      "gloss": "tal-art"
     }
   ],
-  "timestamp": "2026-10-21T21:17:09.404489961Z",
+  "timestamp": "2026-10-22T01:50:07.527367859Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וילך ויגע",
-      "rationale": "'lir-raġel meta niżel u mess' (il-ġisem mitfugħ jmiss l-għadmoħ) kontra 'raġel mar u mess' — il-verbi huma ta' l-ġisem mitfugħ fil-qabar, mhux ta' persuna ħajja."
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-banda",
-      "rationale": "גדוד: folla ta' suldati, banda li tagħmel ħerba — 'il-banda' żżomm is-suldati mhux il-ħerba."
-    }
-  ],
-  "translation": "U seħħ li, kienu qed jiddifnu raġel, u arah, raw il-banda, u taw ruħhom jarmu lir-raġel f'qabar Eliża; u mitfugħ hemm, il-ġisem mess l-għadmoħ ta' Eliża, u reġa' ħa ħajtu u qaq fuq riġlejh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/13\/21-24.1792610467334.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara, meta kienu qed jidfnu raġel, u arahemu raw ⟨את⟩ il-banda tas-serħan, u ttaw lil ⟨את⟩ ir-raġel fil-qabar ta' Eliseju; u mar u mess ir-raġel l-għadmejn ta' Eliseju, u ħaj, u qagħad fuq saqajh.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U seħħ li"
+      "gloss": "u ġara"
     },
     {
       "surface": "הם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "קברים",
-      "gloss": "kienu qed jiddifnu"
+      "gloss": "kienu qed jidfnu"
     },
     {
       "surface": "איש",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "u arah"
+      "gloss": "uarahemu"
     },
     {
       "surface": "ראו",
@@ -55,20 +34,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-banda"
+      "marks": "il-banda tas-serħan"
     },
     {
       "surface": "הגדוד",
-      "gloss": "il-banda"
+      "gloss": "il-banda tas-serħan"
     },
     {
       "surface": "וישליכו",
-      "gloss": "taw ruħhom jarmu"
+      "gloss": "u ttaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lir-raġel"
+      "marks": "ir-raġel"
     },
     {
       "surface": "האיש",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "בקבר",
-      "gloss": "f'qabar"
+      "gloss": "fil-qabar"
     },
     {
       "surface": "אלישע",
-      "gloss": "Eliża"
+      "gloss": "ta' Eliseju"
     },
     {
       "surface": "וילך",
@@ -96,19 +75,19 @@
     },
     {
       "surface": "בעצמות",
-      "gloss": "mal-għadmoħ ta'"
+      "gloss": "l-għadmejn"
     },
     {
       "surface": "אלישע",
-      "gloss": "Eliża"
+      "gloss": "ta' Eliseju"
     },
     {
       "surface": "ויחי",
-      "gloss": "u reġa' ħa ħajtu"
+      "gloss": "u ħaj"
     },
     {
       "surface": "ויקם",
-      "gloss": "u qaq"
+      "gloss": "u qagħad"
     },
     {
       "surface": "על",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "רגליו",
-      "gloss": "riġlejh"
+      "gloss": "saqajh"
     }
   ],
-  "timestamp": "2026-10-21T19:21:07.334952989Z",
+  "timestamp": "2026-10-22T00:03:55.101888142Z",
   "model": "glm-5.3"
 }

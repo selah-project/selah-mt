@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "il-ġenb",
-      "rationale": "ירך tfisser litteralment 'koxxa'; hawn tfisser in-naħa tal-artal, mhux pendant tal-ħwejjeġ"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ħareġ (ġieb il-quddiem)",
-      "rationale": "ויקרב huwa 'daħħab quddiem' (kawżattiv); it-traduzzjonijiet jaqsmu bejn 'geżrew' u 'ġie xxebbek'"
-    }
-  ],
-  "translation": "U ⟨את⟩ l-artal tar-ram li kien quddiem Jaħwe ħareġ minn quddiem il-bini, minn bejn l-artal u bejn id-dar ta' Jaħwe, u poġġieh fuq il-ġenb tal-artal, fin-naħa tat-tramuntana.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/16\/13-16.1792610521542.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨את⟩ l-artal tar-ram li ⟨kien⟩ quddiem Jaħwe, ġarrbu minn-⟨את⟩ il-faċċata tad-dar, minn bejn l-artal u minn bejn dar Jaħwe, u poġġieh ⟨את⟩ fuq il-ġenb tal-artal, lejn it-tramuntana.",
   "tokens": [
     {
       "surface": "ואת",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li kien"
+      "gloss": "li"
     },
     {
       "surface": "לפני",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "ויקרב",
-      "gloss": "ħareġ (ġieb il-quddiem)"
+      "gloss": "ġarrbu"
     },
     {
       "surface": "מאת",
-      "gloss": "minn ⟨את⟩"
+      "gloss": "minn-⟨את⟩"
     },
     {
       "surface": "פני",
-      "gloss": "quddiem"
+      "gloss": "il-faċċata"
     },
     {
       "surface": "הבית",
-      "gloss": "il-bini"
+      "gloss": "tad-dar"
     },
     {
       "surface": "מבין",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ומבין",
-      "gloss": "u bejn"
+      "gloss": "u minn bejn"
     },
     {
       "surface": "בית",
-      "gloss": "id-dar"
+      "gloss": "dar"
     },
     {
       "surface": "יהוה",
@@ -95,7 +74,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ lilu",
+      "marks": "l-artal tar-ram (besuffiks -u)"
     },
     {
       "surface": "על",
@@ -111,9 +91,9 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "fin-naħa tat-tramuntana"
+      "gloss": "lejn it-tramuntana"
     }
   ],
-  "timestamp": "2026-10-21T19:22:01.544264591Z",
+  "timestamp": "2026-10-22T00:03:55.325029595Z",
   "model": "glm-5.3"
 }

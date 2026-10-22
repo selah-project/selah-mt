@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויחרם \/ חרמה",
-      "rationale": "Sod tal-post mill-għerq ta' l-istess kelma: huma 'harmom' lill-post u semmewh Ħorma — il-ġrajja togħġob fil-ħoss."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויחרם",
-      "rationale": "Min ħerem? Jisrael (il-biċċa l-kbira tat-traduzzjonijiet) jew Jaħwe (is-suffiks l-immedjat wara ויתן)? It-test jitħalla jaqra dawk it-tnejn."
-    }
-  ],
-  "translation": "U Jaħwe sema' leħen Jisrael, u ta f'idejn ⟨את⟩ il-Kenaani, u qerduhom flimkien ma' ⟨את⟩ l-bliet tagħhom, u ssejjaħ isem il-post Ħorma.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/21\/1-4.1792603008565.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jaħwe sma' lit-talba ta' Jisrael, u ta' f'idejn ⟨את⟩ il-Kenaani; u Jisrael iddedikahom għall-qerda ⟨אתהם⟩, u ⟨את⟩ l-ibliet tagħhom; u sejjaħ isem il-post Ħorma.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "sema'"
+      "gloss": "sma'"
     },
     {
       "surface": "יהוה",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "בקול",
-      "gloss": "leħen"
+      "gloss": "lit-talba"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "ta' Jisrael"
     },
     {
       "surface": "ויתן",
-      "gloss": "ta f'idejn"
+      "gloss": "u ta' f'idejn"
     },
     {
       "surface": "את",
@@ -59,25 +38,25 @@
     },
     {
       "surface": "ויחרם",
-      "gloss": "u qerduhom"
+      "gloss": "u iddedikahom għall-qerda"
     },
     {
       "surface": "אתהם",
-      "gloss": "⟨את⟩",
-      "marks": "ħom"
+      "gloss": "⟨אתהם⟩",
+      "marks": "u ⟨את⟩ (l-ibliet tagħhom)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "l-bliet tagħhom"
+      "gloss": "u ⟨את⟩",
+      "marks": "l-ibliet tagħhom"
     },
     {
       "surface": "עריהם",
-      "gloss": "il-bliet tagħhom"
+      "gloss": "l-ibliet tagħhom"
     },
     {
       "surface": "ויקרא",
-      "gloss": "ussejjaħ"
+      "gloss": "u sejjaħ"
     },
     {
       "surface": "שם",
@@ -92,6 +71,6 @@
       "gloss": "Ħorma"
     }
   ],
-  "timestamp": "2026-10-21T17:16:48.568067035Z",
+  "timestamp": "2026-10-22T00:45:32.484276100Z",
   "model": "glm-5.3"
 }

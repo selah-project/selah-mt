@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אף כי",
-      "rationale": "'anqas għalhekk \/ qlużija min iktar' — argument a maiore ad minus; rajt 'ngħid u aħjar'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "תאמינו לו",
-      "rationale": "litteralment 'emnu fih'; 'tibilgħux kelmtu' iżomm il-ħoss idjomatiku Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "bikom \/ tagħkom",
-      "rationale": "kelmiet ta' Kelzjar diretti lill-poplu ta' Ħizqijahu f'Ġerusalemm"
-    }
-  ],
-  "translation": "U issa Ħizqijahu ma jqarraqx bikom u ma jigġebxkomx b'dan il-mod, u la tibilgħux kelmtu; għax ebda Elowaħ ta' ebda ġens u ebda saltna ma jista' jeħles lil-poplu minn idijieti u minn id il-missirijieti — ngħid u aħjar, Elohim tagħkom ma jeħiliskomx mingħandi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b3625020094a9b845c29881016d0eb532f1840b3b09d3ea34fb546cf2ba62aac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/32\/13-16.1792622962137.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa ma ħallix li Ħizqijahu jqarraq ⟨את⟩ bikom, u lanqas ma ħallihu jqanqal ⟨את⟩ lilkom b'dan il-mod, u lanqas temmnuxh; għax ma seta' ebda Elowaħ ta' ebda nazzjon u lanqas saltna jeħlis lil-poplu tiegħu minn idejja u minn id missirijieti; kemm iktar Elohim tagħkom, li ma jħeliskomx minn idejja.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ma ħallix"
     },
     {
       "surface": "ישיא",
@@ -47,7 +21,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "bikom"
     },
     {
       "surface": "חזקיהו",
@@ -55,15 +30,16 @@
     },
     {
       "surface": "ואל",
-      "gloss": "u ma"
+      "gloss": "u lanqas"
     },
     {
       "surface": "יסית",
-      "gloss": "jigġebxkomx"
+      "gloss": "jqanqal"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     },
     {
       "surface": "כזאת",
@@ -71,15 +47,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "u la"
+      "gloss": "u lanqas"
     },
     {
       "surface": "תאמינו",
-      "gloss": "tibilgħux"
+      "gloss": "temmnuxh"
     },
     {
       "surface": "לו",
-      "gloss": "kelmtu"
+      "gloss": "lilu"
     },
     {
       "surface": "כי",
@@ -91,7 +67,7 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "jista'"
+      "gloss": "seta'"
     },
     {
       "surface": "כל",
@@ -107,27 +83,27 @@
     },
     {
       "surface": "גוי",
-      "gloss": "ġens"
+      "gloss": "nazzjon"
     },
     {
       "surface": "וממלכה",
-      "gloss": "u ebda saltna"
+      "gloss": "u lanqas saltna"
     },
     {
       "surface": "להציל",
-      "gloss": "jeħles"
+      "gloss": "jeħlis"
     },
     {
       "surface": "עמו",
-      "gloss": "lil-poplu"
+      "gloss": "lil-poplu tiegħu"
     },
     {
       "surface": "מידי",
-      "gloss": "minn idijieti"
+      "gloss": "minn idejja"
     },
     {
       "surface": "ומיד",
-      "gloss": "u minn id il-"
+      "gloss": "u minn id"
     },
     {
       "surface": "אבותי",
@@ -135,11 +111,11 @@
     },
     {
       "surface": "אף",
-      "gloss": "ngħid u aħjar"
+      "gloss": "kemm iktar"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "li"
     },
     {
       "surface": "אלהיכם",
@@ -151,17 +127,18 @@
     },
     {
       "surface": "יצילו",
-      "gloss": "jeħiliskomx"
+      "gloss": "jħeliskomx"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "bikom"
     },
     {
       "surface": "מידי",
-      "gloss": "mingħandi"
+      "gloss": "minn idejja"
     }
   ],
-  "timestamp": "2026-10-21T22:49:22.138984242Z",
+  "timestamp": "2026-10-22T00:02:22.541791139Z",
   "model": "glm-5.3"
 }

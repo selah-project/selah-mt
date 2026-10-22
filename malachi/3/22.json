@@ -5,33 +5,7 @@
   "book": "malachi",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Ftakru",
-      "rationale": "imperattiv direkt lill-qarrejja — ismaħ ta' sejħa biex jiftakru fit-Tora"
-    },
-    {
-      "kind": "you",
-      "subject": "Ftakru",
-      "rationale": "indirizz dirett lil Jisrael kollu"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותו",
-      "rationale": "il-marka tal-oġġett את mal-pronomin wgħad ma tidhirx b'mod indipendenti fil-Malti; issir ⟨את⟩ lilu"
-    }
-  ],
-  "translation": "Ftakru fit-Tora ta' Moxe, qaddej tiegħi, li jien ajtlu b'Koreb, għal dak kollu Jisrael: statuti u ġudizzji.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0a7fd7a022fee10f2285b367ffb653fa990268be66f6fccffe371f6aec4b35ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/3\/21-24.1792616425824.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ftakru fit-Tora ta' Moxe, il-qaddej tiegħi, li nwissajtu ⟨את⟩ f'Ħoreb, għal Jisrael kollu: statuti u ġudizzji.",
   "tokens": [
     {
       "surface": "זכרו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "qaddej tiegħi"
+      "gloss": "il-qaddej tiegħi"
     },
     {
       "surface": "אשר",
@@ -55,16 +29,16 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ajtlu"
+      "gloss": "nwissajtu"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "lil Moxe"
+      "gloss": "⟨את⟩",
+      "marks": "f'Ħoreb"
     },
     {
       "surface": "בחרב",
-      "gloss": "b'Koreb"
+      "gloss": "f'Ħoreb"
     },
     {
       "surface": "על",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "dak kollu"
+      "gloss": "kollu"
     },
     {
       "surface": "ישראל",
@@ -87,6 +61,6 @@
       "gloss": "u ġudizzji"
     }
   ],
-  "timestamp": "2026-10-21T21:00:25.825014211Z",
+  "timestamp": "2026-10-22T00:42:44.703053064Z",
   "model": "glm-5.3"
 }

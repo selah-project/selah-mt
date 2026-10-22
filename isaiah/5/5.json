@@ -5,44 +5,29 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "l-għanja tal-inbid: Lhudi wieħed kerem, żewġ kelmiet bil-Malti"
-    }
-  ],
-  "translation": "U issa ħa nħabbarlekomm, jekk jogħġbok, ⟨את⟩ dak li jien se nagħmel għall-għanja tal-inbid tiegħi: nieħu bogħod il-ħajt tagħha u ssir għall-ħruq; inaqqsu l-ċint tagħha u ssir għat-treding.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/5\/5-8.1792610928373.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa ħabbarilkom jekk jogħġbkom ⟨את⟩ lilkom ⟨את⟩ dak li jien nagħmel lill-Ġnien: inneħħi iċ-ċint u jkun għall-ħruq, nikisser il-ħajt u jkun għat-traskinaż.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "u issa"
+      "gloss": "U issa"
     },
     {
       "surface": "אודיעה",
-      "gloss": "nħabbarlekomm"
+      "gloss": "inħabbarilkom"
     },
     {
       "surface": "נא",
-      "gloss": "jekk jogħġbok"
+      "gloss": "jekk jogħġbkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak"
+      "marks": "dak li jien nagħmel"
     },
     {
       "surface": "אשר",
@@ -58,19 +43,19 @@
     },
     {
       "surface": "לכרמי",
-      "gloss": "għall-għanja tal-inbid tiegħi"
+      "gloss": "lill-Ġnien"
     },
     {
       "surface": "הסר",
-      "gloss": "nieħu bogħod"
+      "gloss": "inneħħi"
     },
     {
       "surface": "משוכתו",
-      "gloss": "il-ħajt tagħha"
+      "gloss": "iċ-ċint"
     },
     {
       "surface": "והיה",
-      "gloss": "u ssir"
+      "gloss": "u jkun"
     },
     {
       "surface": "לבער",
@@ -78,21 +63,21 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "inaqqsu"
+      "gloss": "nikisser"
     },
     {
       "surface": "גדרו",
-      "gloss": "il-ċint tagħha"
+      "gloss": "il-ħajt"
     },
     {
       "surface": "והיה",
-      "gloss": "u ssir"
+      "gloss": "u jkun"
     },
     {
       "surface": "למרמס",
-      "gloss": "għat-treding"
+      "gloss": "għat-traskinaż"
     }
   ],
-  "timestamp": "2026-10-21T19:28:48.373855377Z",
+  "timestamp": "2026-10-22T00:26:36.753073224Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "toroq",
-      "rationale": "מסלות: 'toroq\/mixtliet' (KJV 'terraces') kontra 'taraġ' (LXX) — il-ħoss tal-kelma mhux ċert"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kinnorot u nevalim",
-      "rationale": "Iż-żewġ strumentiti miżmumin b'ħoss Lhudi għax il-Malti m'għandux kliem differenti għalihom"
-    }
-  ],
-  "translation": "U sultan għamel mis-siġar tal-algummim toroq għal dar Jaħwe u għal dar is-sultan, u kinnorot u nevalim għall-kantisti; u ma dehrux bħalhom qabel fl-art ta' Jehuda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "80047b16f8f9869d4ef4bd39028b700192a3b929c2e9cb301db5a79cf27f3991",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/9\/9-12.1792622457482.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U s-sultan għamel ⟨את⟩ l-injam tal-algummim mogħdijiet għal dar Jaħwe u għal dar is-sultan, u kinuri u nabli għall-kantanti; u qabel ma kienux dehru bħalhom fl-art ta' Juda.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "U għamel"
+      "gloss": "u għamel"
     },
     {
       "surface": "המלך",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-siġar tal-algummim"
+      "marks": "l-injam tal-algummim"
     },
     {
       "surface": "עצי",
-      "gloss": "is-siġar"
+      "gloss": "l-injam"
     },
     {
       "surface": "האלגומים",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "מסלות",
-      "gloss": "toroq"
+      "gloss": "mogħdijiet"
     },
     {
       "surface": "לבית",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "וכנרות",
-      "gloss": "u kinnorot"
+      "gloss": "u kinuri"
     },
     {
       "surface": "ונבלים",
-      "gloss": "u nevalim"
+      "gloss": "u nabli"
     },
     {
       "surface": "לשרים",
-      "gloss": "għall-kantisti"
+      "gloss": "għall-kantanti"
     },
     {
       "surface": "ולא",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "נראו",
-      "gloss": "dehrux"
+      "gloss": "kienux dehru"
     },
     {
       "surface": "כהם",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "ta' Jehuda"
+      "gloss": "ta' Juda"
     }
   ],
-  "timestamp": "2026-10-21T22:40:57.484017395Z",
+  "timestamp": "2026-10-22T00:02:55.725750459Z",
   "model": "glm-5.3"
 }

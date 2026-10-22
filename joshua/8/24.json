@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "literalment 'ħalq ix-xabla' — 'il-ħadid tax-xabla'; miżjoma żewġ darbi, l-istess idjom"
-    },
-    {
-      "kind": "substitution",
-      "subject": "במדבר",
-      "rationale": "'deżert' jew 'art miftuħa' — midbar huwa art merħba għar-ragħa, mhux bil-ħsarbja deżert"
-    }
-  ],
-  "translation": "U ġara, meta Jisrael kien spiċċa joqtol ⟨את⟩ lil kulmin kien joqgħod fil-Għaj, fil-għalqa, fid-deżert fejn kienu segwewhom hemm, u waqgħu kollhom ta' ħalq ix-xabla sa spiċċaw kollha, li Jisrael kollu reġa' lura għall-Għaj u laqatha b'ħalq ix-xabla.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "217ed01935e297e4d2c61568aa6c5c92193d3b6d89c271388dcc6a24c3346513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/21-24.1792606509281.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara meta Jisrael lesta joqtol ⟨את⟩ lil kulħadd minn dawk li joqgħodu fl-Għaj fil-għalqa, fid-deżert fejn ippersegwitawhom fiħ, u waqgħu kollha għal ħadid xabla sa mistrieh tagħhom, u ġie lura Jisrael kollu lejn l-Għaj, u laqtu lilha ⟨את⟩ għal ħadid xabla.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U ġara"
+      "gloss": "u ġara"
     },
     {
       "surface": "ככלות",
-      "gloss": "meta kien spiċċa"
+      "gloss": "meta lesta"
     },
     {
       "surface": "ישראל",
@@ -47,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kulmin kien joqgħod fil-Għaj"
+      "marks": "kulħadd"
     },
     {
       "surface": "כל",
-      "gloss": "kulmin"
+      "gloss": "kulħadd"
     },
     {
       "surface": "ישבי",
-      "gloss": "kien joqgħod"
+      "gloss": "dawk li joqgħodu"
     },
     {
       "surface": "העי",
-      "gloss": "fil-Għaj"
+      "gloss": "fl-Għaj"
     },
     {
       "surface": "בשדה",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "רדפום",
-      "gloss": "kienu segwewhom"
+      "gloss": "ippersegwitawhom"
     },
     {
       "surface": "בו",
-      "gloss": "hemm"
+      "gloss": "fiħ"
     },
     {
       "surface": "ויפלו",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "כלם",
-      "gloss": "kollhom"
+      "gloss": "kollha"
     },
     {
       "surface": "לפי",
-      "gloss": "ta' ħalq"
+      "gloss": "għal ħadid"
     },
     {
       "surface": "חרב",
-      "gloss": "ix-xabla"
+      "gloss": "xabla"
     },
     {
       "surface": "עד",
@@ -103,11 +82,11 @@
     },
     {
       "surface": "תמם",
-      "gloss": "spiċċaw kollha"
+      "gloss": "mistrieh tagħhom"
     },
     {
       "surface": "וישבו",
-      "gloss": "reġa' lura"
+      "gloss": "u ġie lura"
     },
     {
       "surface": "כל",
@@ -119,26 +98,26 @@
     },
     {
       "surface": "העי",
-      "gloss": "għall-Għaj"
+      "gloss": "lejn l-Għaj"
     },
     {
       "surface": "ויכו",
-      "gloss": "u laqatha"
+      "gloss": "u laqtu"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ lilha",
-      "marks": "il-belt il-Għaj"
+      "gloss": "⟨את⟩",
+      "marks": "ilha (l-Għaj)"
     },
     {
       "surface": "לפי",
-      "gloss": "b'ħalq"
+      "gloss": "għal ħadid"
     },
     {
       "surface": "חרב",
-      "gloss": "ix-xabla"
+      "gloss": "xabla"
     }
   ],
-  "timestamp": "2026-10-21T18:15:09.282964541Z",
+  "timestamp": "2026-10-22T01:19:59.995588812Z",
   "model": "glm-5.3"
 }

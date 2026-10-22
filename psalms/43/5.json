@@ -5,50 +5,19 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruwaħ",
-      "rationale": "נפש hija nifs \/ ħajja, mhux 'anima' b'sens platoniku"
-    },
-    {
-      "kind": "idiom",
-      "subject": "is-salvazzjoni ta' wicci",
-      "rationale": "ישועת פני: l-ebda verb 'huwa'; lit. 'salvazzjoni ta' wicci' — hebda 'saħħa ta' wicci' (KJV) jew 'Fenek u salvatur' (BSB)"
-    },
-    {
-      "kind": "you",
-      "subject": "ruwaħ tiegħi",
-      "rationale": "il-psalmista jindirizza lil ruħu stess; reflexjon personali"
-    },
-    {
-      "kind": "addition",
-      "subject": "huwa",
-      "rationale": "il-Lhudi m'għandux verb fil-klawżola 'ישועת פני ואלהי'"
-    }
-  ],
-  "translation": "Għaliex qiegħda tgħaddab ruħek, ruwaħ tiegħi, u għaliex qiegħda tuġġigni ġo wiccni? Stenna lil Elohim, għax għad innifħu ħajru; huwa s-salvazzjoni ta' wicci, u Elohim tiegħi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "837f2af0f1bd6d7958787686d09c697c8516a7cf41c36480b13976ea83772543",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/43\/5-5.1792616995202.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex tqiegħed ruħi, u għaliex tagħmel ħamer fuqi? Stenna lil Elohim, għax għadu nroddlu il-ħajr: is-salvazzjoni ta' wicci, u Elohim tiegħi.",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "Għaliex"
+      "gloss": "għaliex"
     },
     {
       "surface": "תשתוחחי",
-      "gloss": "qiegħda tgħaddab ruħek"
+      "gloss": "tqiegħed"
     },
     {
       "surface": "נפשי",
-      "gloss": "ruwaħ tiegħi"
+      "gloss": "ruħi"
     },
     {
       "surface": "ומה",
@@ -56,15 +25,15 @@
     },
     {
       "surface": "תהמי",
-      "gloss": "qiegħda tuġġigni"
+      "gloss": "tagħmel ħamer"
     },
     {
       "surface": "עלי",
-      "gloss": "ġo wiccni"
+      "gloss": "fuqi"
     },
     {
       "surface": "הוחילי",
-      "gloss": "Stenna"
+      "gloss": "stenna"
     },
     {
       "surface": "לאלהים",
@@ -76,25 +45,25 @@
     },
     {
       "surface": "עוד",
-      "gloss": "għad"
+      "gloss": "għadu"
     },
     {
       "surface": "אודנו",
-      "gloss": "innifħu ħajru"
+      "gloss": "nroddlu il-ħajr"
     },
     {
       "surface": "ישועת",
-      "gloss": "is-salvazzjoni ta'"
+      "gloss": "is-salvazzjoni"
     },
     {
       "surface": "פני",
-      "gloss": "wicci"
+      "gloss": "ta' wicci"
     },
     {
       "surface": "ואלהי",
       "gloss": "u Elohim tiegħi"
     }
   ],
-  "timestamp": "2026-10-21T21:09:55.202724993Z",
+  "timestamp": "2026-10-22T00:49:49.273602159Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל מול",
-      "rationale": "אל u מול huma żewġ prepożizzjonijiet msewwħin fl-istess direzzjoni; il-Malti juża quddiem waħda għaż-żewġ pari."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħittin",
-      "rationale": "חציו\/והחציו: 'nofshom u nofshom' — il-Lhudi jgħid 'in-nofs tiegħu u n-nofs', dettal tal-qsim mitluf fil-plural Malti."
-    }
-  ],
-  "translation": "U Jisrael kollu, u x-xiħat tiegħu, u l-uffiċjali u l-ġudtiċi tiegħu, bil-wieqfa minn din il-ġenb u minn dak il-ġenb tal-aron, quddiem il-qassisin il-Leviti, il-ġarrġejn l-aron tal-patt ta' Jaħwe — kemm il-barrani kemm min twieled fil-pajjiż — nofshom quddiem il-muntanja Geriżim, u nofshom quddiem il-muntanja Ebal, kif ordna Moxe, il-qaddej ta' Jaħwe, biex jberikk lil ⟨את⟩ il-poplu ta' Jisrael l-ewwel darba.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/8\/33-35.1792606424025.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U kol Jisrael — il-kbar tiegħu, l-uffiċjali u l-ġudici tiegħu — weqfin minn din in-naħa u minn dik in-naħa tal-aron, quddiem il-qassisin il-Lewiti dawk li jġorru l-aron tal-patt ta' Jaħwe, il-barrani u min twieled fil-pajjiż: nofshom quddiem il-muntanja Geriżim u n-nofs l-ieħor quddiem il-muntanja Ebal, kif ordna Moxe, il-ħaddiem ta' Jaħwe, biex jbierku ⟨את⟩ il-poplu ta' Jisrael l-ewwel darba.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "u kollu"
+      "gloss": "U kol"
     },
     {
       "surface": "ישראל",
@@ -38,27 +17,27 @@
     },
     {
       "surface": "וזקניו",
-      "gloss": "u x-xiħat tiegħu"
+      "gloss": "il-kbar tiegħu"
     },
     {
       "surface": "ושטרים",
-      "gloss": "u l-uffiċjali"
+      "gloss": "l-uffiċjali"
     },
     {
       "surface": "ושפטיו",
-      "gloss": "u l-ġudtiċi tiegħu"
+      "gloss": "l-ġudici tiegħu"
     },
     {
       "surface": "עמדים",
-      "gloss": "bil-wieqfa"
+      "gloss": "weqfin"
     },
     {
       "surface": "מזה",
-      "gloss": "minn din il-ġenb"
+      "gloss": "minn din in-naħa"
     },
     {
       "surface": "ומזה",
-      "gloss": "u minn dak il-ġenb"
+      "gloss": "u minn dik in-naħa"
     },
     {
       "surface": "לארון",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "il-Leviti"
+      "gloss": "il-Lewiti"
     },
     {
       "surface": "נשאי",
-      "gloss": "il-ġarrġejn"
+      "gloss": "dawk li jġorru"
     },
     {
       "surface": "ארון",
@@ -90,15 +69,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "כגר",
-      "gloss": "kemm il-barrani"
+      "gloss": "il-barrani bħal"
     },
     {
       "surface": "כאזרח",
-      "gloss": "kemm min twieled fil-pajjiż"
+      "gloss": "min twieled fil-pajjiż"
     },
     {
       "surface": "חציו",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "quddiem"
     },
     {
       "surface": "מול",
-      "gloss": "quddiem"
+      "gloss": "ta'"
     },
     {
       "surface": "הר",
@@ -122,15 +101,15 @@
     },
     {
       "surface": "והחציו",
-      "gloss": "u nofshom"
+      "gloss": "u n-nofs l-ieħor"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "quddiem"
     },
     {
       "surface": "מול",
-      "gloss": "quddiem"
+      "gloss": "ta'"
     },
     {
       "surface": "הר",
@@ -154,15 +133,15 @@
     },
     {
       "surface": "עבד",
-      "gloss": "il-qaddej"
+      "gloss": "il-ħaddiem"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "לברך",
-      "gloss": "biex jberikk"
+      "gloss": "biex jbierku"
     },
     {
       "surface": "את",
@@ -182,6 +161,6 @@
       "gloss": "l-ewwel darba"
     }
   ],
-  "timestamp": "2026-10-21T18:13:44.026548523Z",
+  "timestamp": "2026-10-22T00:36:36.516826364Z",
   "model": "glm-5.3"
 }

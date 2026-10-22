@@ -5,31 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויך לב",
-      "rationale": "'il-qalb btilfqetu' — idjum Lhudi għal rimors; Mahreż mhux traduzzjoni metaforika, il-forma grammaticali Maltija teħtieġ konstent"
-    }
-  ],
-  "translation": "U kien wara dan, u l-qalb ta' David impruvatu għaliex qata' ⟨את⟩ il-ġenb ta' Xaul.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/24\/5-8.1792608292015.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wara dan, il-qalb ta' David laqtetu, għax kien qata' ⟨את⟩ l-ala tal-mant li kien ta' Xawl.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U kien"
+      "gloss": "U"
     },
     {
       "surface": "אחרי",
-      "gloss": "warà"
+      "gloss": "wara"
     },
     {
       "surface": "כן",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "ויך",
-      "gloss": "impruvatu"
+      "gloss": "laqtet"
     },
     {
       "surface": "לב",
-      "gloss": "l-qalb"
+      "gloss": "il-qalb"
     },
     {
       "surface": "דוד",
@@ -49,39 +33,39 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "lilu"
+      "gloss": "⟨את⟩",
+      "marks": "lil David (il-qalb laqtetu)"
     },
     {
       "surface": "על",
-      "gloss": "għal"
+      "gloss": "għax"
     },
     {
       "surface": "אשר",
-      "gloss": "dak li"
+      "gloss": ""
     },
     {
       "surface": "כרת",
-      "gloss": "qata'"
+      "gloss": "kien qata'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġenb"
+      "marks": "l-ala tal-mant"
     },
     {
       "surface": "כנף",
-      "gloss": "il-ġenb"
+      "gloss": "l-ala tal-mant"
     },
     {
       "surface": "אשר",
-      "gloss": "ta'"
+      "gloss": "li kien"
     },
     {
       "surface": "לשאול",
-      "gloss": "Xaul"
+      "gloss": "ta' Xawl"
     }
   ],
-  "timestamp": "2026-10-21T18:44:52.016551123Z",
+  "timestamp": "2026-10-21T23:59:51.220112906Z",
   "model": "glm-5.3"
 }

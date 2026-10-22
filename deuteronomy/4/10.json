@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כל הימים באשר ילמדון ליראה אתי",
-      "rationale": "l-את f'אתי hawn jipponta l-ħolqien tal-biża'; miżjuda żewġ kelmiet għaċ-ċar"
-    },
-    {
-      "kind": "measurement",
-      "subject": "il-ġranet kollha",
-      "rationale": "għadd ta' ġranet il-ħajja kollha fuq l-art"
-    }
-  ],
-  "translation": "Jum il-ġurnata li bqajt wieqaf quddiem Jaħwe Elohim tiegħek f'Ħorev, meta Jaħwe qal liġī: Ġborli lill-poplu, u semaħħirhom ⟨את⟩ kliemi, biex jitgħallmu jibżgħuni lil ⟨את⟩ jum ieħor, il-ġranet kollha li huma ħajjin fuq l-art, u lil ⟨את⟩ uliedhom jgħallmu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e7594eb7a7ab4aa5745c8cb6a7a44ab2b85fb01332cbc5f8576cbb2f3167bab6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/4\/9-12.1792605349175.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jum li tkont wieqaf quddiem Jaħwe, Elohim tiegħek, fil-Ħoreb, meta Jaħwe qal lili: Ġborli lill-poplu, u ⟨נ⟩ismaħhom ⟨את⟩ il-kliem tiegħi, biex jitgħallmu jibżgħu minni ⟨את⟩ ⟨lili⟩ jum il-ġranet kollha li huma ħajjin fuq l-art, u lil wliedhom jgħallmuhom.",
   "tokens": [
     {
       "surface": "יום",
-      "gloss": "Jum"
+      "gloss": "jum"
     },
     {
       "surface": "אשר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "עמדת",
-      "gloss": "bqajt wieqaf"
+      "gloss": "tkont wieqaf"
     },
     {
       "surface": "לפני",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "f'Ħorev"
+      "gloss": "fil-Ħoreb"
     },
     {
       "surface": "באמר",
-      "gloss": "meta"
+      "gloss": "meta qal"
     },
     {
       "surface": "יהוה",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "qal liġī"
+      "gloss": "lili"
     },
     {
       "surface": "הקהל",
-      "gloss": "Ġbor"
+      "gloss": "Ġborli"
     },
     {
       "surface": "לי",
-      "gloss": "li"
+      "gloss": "-li"
     },
     {
       "surface": "את",
@@ -83,20 +62,20 @@
     },
     {
       "surface": "העם",
-      "gloss": "lill-poplu"
+      "gloss": "il-poplu"
     },
     {
       "surface": "ואשמעם",
-      "gloss": "u semaħħirhom"
+      "gloss": "uismaħhom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kliemi"
+      "marks": "il-kliem tiegħi"
     },
     {
       "surface": "דברי",
-      "gloss": "kliemi"
+      "gloss": "il-kliem tiegħi"
     },
     {
       "surface": "אשר",
@@ -108,16 +87,16 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "jibżgħuni"
+      "gloss": "jibżgħu minni"
     },
     {
       "surface": "אתי",
-      "gloss": "lil ⟨את⟩",
-      "marks": "jum ieħor, il-ġranet"
+      "gloss": "⟨את⟩",
+      "marks": "lili"
     },
     {
       "surface": "כל",
-      "gloss": "il-ġranet kollha"
+      "gloss": "kollha"
     },
     {
       "surface": "הימים",
@@ -145,18 +124,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u lil ⟨את⟩",
-      "marks": "uliedhom"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil wliedhom"
     },
     {
       "surface": "בניהם",
-      "gloss": "uliedhom"
+      "gloss": "wliedhom"
     },
     {
       "surface": "ילמדון",
-      "gloss": "jgħallmu"
+      "gloss": "jgħallmuhom"
     }
   ],
-  "timestamp": "2026-10-21T17:55:49.177556376Z",
+  "timestamp": "2026-10-22T00:11:00.652555998Z",
   "model": "glm-5.3"
 }

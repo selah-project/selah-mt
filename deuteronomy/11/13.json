@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nifs",
-      "rationale": "נפש hija nifs\/ħajja, mhux 'ruħ' b'sens platoniku"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמע תשמעו",
-      "rationale": "infinitiv assolut + verb finit, infinitiv qawwi mitluf fil-Malti"
-    }
-  ],
-  "translation": "U jinħareġ li, jekk tisma' tassew għall-mitzvot tiegħi li jien nħabbar lilkom illum, biex iħobb lil Jaħwe, il-Elohim tagħkom, u biex tqimu b'qalbkom kollha u b'nifskom kollha,",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/11\/13-16.1792605569799.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨se jirriżulta⟩, jekk tismgħu tismaħ lill-mitzvot tiegħi li jien inħabbirkom ⟨את⟩ illum, biex tiħobbu lil ⟨את⟩ Jaħwe Elohim tagħkom u tqimuh b'qalbkom kollha u b'ħajtkom kollha,",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "u jinħareġ li"
+      "gloss": "u ⟨se jirriżulta⟩"
     },
     {
       "surface": "אם",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "שמע",
-      "gloss": "tisma' tassew"
+      "gloss": "tismaħ"
     },
     {
       "surface": "תשמעו",
-      "gloss": "tisma'"
+      "gloss": "tismgħu"
     },
     {
       "surface": "אל",
-      "gloss": "għal"
+      "gloss": "lill-"
     },
     {
       "surface": "מצותי",
-      "gloss": "il-mitzvot tiegħi"
+      "gloss": "mitzvot tiegħi"
     },
     {
       "surface": "אשר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "nħabbar"
+      "gloss": "inħabbirkom"
     },
     {
       "surface": "אתכם",
@@ -75,12 +54,12 @@
     },
     {
       "surface": "לאהבה",
-      "gloss": "biex iħobb"
+      "gloss": "biex tiħobbu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Jaħwe"
+      "marks": "Jaħwe Elohim tagħkom"
     },
     {
       "surface": "יהוה",
@@ -88,15 +67,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "il-Elohim tagħkom"
+      "gloss": "Elohim tagħkom"
     },
     {
       "surface": "ולעבדו",
-      "gloss": "u biex tqimu"
+      "gloss": "u tqimuh"
     },
     {
       "surface": "בכל",
-      "gloss": "b'… kollha"
+      "gloss": "b'-…-kollha"
     },
     {
       "surface": "לבבכם",
@@ -104,13 +83,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "u b'… kollha"
+      "gloss": "u b'-…-kollha"
     },
     {
       "surface": "נפשכם",
-      "gloss": "nifskom"
+      "gloss": "ħajtkom"
     }
   ],
-  "timestamp": "2026-10-21T17:59:29.799956313Z",
+  "timestamp": "2026-10-22T00:09:07.000080160Z",
   "model": "glm-5.3"
 }

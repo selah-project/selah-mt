@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kienu",
-      "rationale": "il-verb 'kien' m'hemmx fil-Lhudi; il-Malti jeħtieġ copula għal din is-sentenza nominali"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נתן",
-      "rationale": "'ta' bil-kelma, imma hawn fis-sens ta' 'poġġa\/stazzjona' suldati"
-    }
-  ],
-  "translation": "Dawn kienu dawk li jqimdu ⟨את⟩ is-sultan, barra minn dawk li s-sultan poġġa fil-bliet iffortifikati ma' kollha Jehuda.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/17\/17-19.1792622553008.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawn kienu dawk li kienu jaqdu lil ⟨את⟩ is-sultan, għajr dawk li s-sultan poġġa fil-bliet fortizzati, fi kollha Jehuda.",
   "tokens": [
     {
       "surface": "אלה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "המשרתים",
-      "gloss": "dawk li jqimdu"
+      "gloss": "dawk li kienu jaqdu"
     },
     {
       "surface": "את",
@@ -46,12 +25,12 @@
       "gloss": "is-sultan"
     },
     {
-      "surface": "mלבד",
-      "gloss": "barra minn"
+      "surface": "מלבד",
+      "gloss": "għajr"
     },
     {
       "surface": "אשר",
-      "gloss": "dakk"
+      "gloss": "dawk li"
     },
     {
       "surface": "נתן",
@@ -67,17 +46,17 @@
     },
     {
       "surface": "המבצר",
-      "gloss": "iffortifikati"
+      "gloss": "fortizzati"
     },
     {
       "surface": "בכל",
-      "gloss": "ma' kollha"
+      "gloss": "fi kollha"
     },
     {
       "surface": "יהודה",
       "gloss": "Jehuda"
     }
   ],
-  "timestamp": "2026-10-21T22:42:33.009240567Z",
+  "timestamp": "2026-10-22T00:51:52.366763678Z",
   "model": "glm-5.3"
 }

@@ -5,57 +5,36 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "inġustizzja",
-      "rationale": "עון is perversity\/iniquity; Maltese 'inġustizzja' carries the moral wrong, not the legal sense"
-    },
-    {
-      "kind": "addition",
-      "subject": "jafni",
-      "rationale": "object pronoun folded into the verb where Hebrew has separate אותי"
-    }
-  ],
-  "translation": "U mhux se jgħallmu iktar, ħaddief lil sħabu u ħaddief lil ħuh, jgħidu: Irfu Jaħwe; għax kulħadd se jkun ⟨את⟩ jafni, minn żgħirhom sa kbirhom, jgħid Jaħwe; għax naħfrilhom għall-inġustizzja tagħhom, u dwar dnubithom ma niftakrux iktar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ccf2afa66805eb47ab5c163fc6b1dbb22ee1cf128f43ce729cd702c3cf6f6db8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/31\/33-36.1792613218001.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ma jgħallmux aktar raġel ⟨את⟩ lil ħaddieħor u raġel ⟨את⟩ lil ħuh, biex jgħidu: Irfu ⟨את⟩ lil Jaħwe, għax kulħadd jaf ⟨את⟩ lili, minn żgħir tagħhom sa kbir tagħhom, jgħid Jaħwe; għax naħfer il-ħtija tagħhom, u dwar dnubithom ma niftakarx aktar.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "u mhux"
+      "gloss": "u ma"
     },
     {
       "surface": "ילמדו",
-      "gloss": "se jgħallmu"
+      "gloss": "jgħallmux"
     },
     {
       "surface": "עוד",
-      "gloss": "iktar"
+      "gloss": "aktar"
     },
     {
       "surface": "איש",
-      "gloss": "ħaddief"
+      "gloss": "raġel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sħabu"
+      "marks": "ħaddieħor"
     },
     {
       "surface": "רעהו",
-      "gloss": "sħabu"
+      "gloss": "ħaddieħor"
     },
     {
       "surface": "ואיש",
-      "gloss": "u ħaddief"
+      "gloss": "u raġel"
     },
     {
       "surface": "את",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jgħidu"
+      "gloss": "biex jgħidu"
     },
     {
       "surface": "דעו",
@@ -93,15 +72,15 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "se jkun jaf"
+      "gloss": "jaf"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ jafni"
+      "gloss": "⟨את⟩ lili"
     },
     {
       "surface": "למקטנם",
-      "gloss": "minn żgħirhom"
+      "gloss": "minn żgħir tagħhom"
     },
     {
       "surface": "ועד",
@@ -109,7 +88,7 @@
     },
     {
       "surface": "גדולם",
-      "gloss": "kbirhom"
+      "gloss": "kbir tagħhom"
     },
     {
       "surface": "נאם",
@@ -125,11 +104,11 @@
     },
     {
       "surface": "אסלח",
-      "gloss": "naħfrilhom"
+      "gloss": "naħfer"
     },
     {
       "surface": "לעונם",
-      "gloss": "għall-inġustizzja tagħhom"
+      "gloss": "il-ħtija tagħhom"
     },
     {
       "surface": "ולחטאתם",
@@ -137,17 +116,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "mhux"
+      "gloss": "ma"
     },
     {
       "surface": "אזכר",
-      "gloss": "ma niftakrux"
+      "gloss": "niftakarx"
     },
     {
       "surface": "עוד",
-      "gloss": "iktar"
+      "gloss": "aktar"
     }
   ],
-  "timestamp": "2026-10-21T20:06:58.002544142Z",
+  "timestamp": "2026-10-22T00:30:24.523556678Z",
   "model": "glm-5.3"
 }

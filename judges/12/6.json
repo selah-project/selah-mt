@@ -5,54 +5,23 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבלת\/סבלת",
-      "rationale": "Shibboleth\/Sibboleth: the sin\/shin difference is the password test itself; the Maltese X\/S difference mirrors it but the Hebrew letters shin\/sin are invisible in transliteration"
-    },
-    {
-      "kind": "substitution",
-      "subject": "יכין לדבר כן",
-      "rationale": "literally 'was not prepared to speak so' — i.e. could not frame the word; rendered with 'jħarreġ ħalqu'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ארבעים ושנים אלף",
-      "rationale": "'forty and two thousand' — some read with YLT 'forty and two chiefs\/elef', most keep 42,000"
-    },
-    {
-      "kind": "measurement",
-      "subject": "42,000",
-      "rationale": "count of the fallen of Ephraim at the fords"
-    }
-  ],
-  "translation": "huma jgħidulu: Għidilna Xibbolet; u hu jgħid Sibbolet, għax ma jkunux jista' jħarreġ ħalqu biex jgħid hekk; u joħoduh u joqtluh fuq il-fjordi tal-Jarden; u jaqgħu f'dak iż-żmien minn Efrajm erbgħin u tnejn elf.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b55309e0f4a6a9313fada43e61bf5b5c7acf0a0bfd63b84bf0a46dee5409b862",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/12\/5-8.1792607408065.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qalu lilu: Għid jekk jogħġbok Xibbolet; u qal Sibbolet, għax ma kien jista' jippronunzja hekk; u ħadu ⟨את⟩ lilu u żablquh ħdejn il-fjurdi tal-Ġordan; u waqgħu f'dak iż-żmien minn Efraim erbgħin u tnejn elf.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "jgħidulu"
+      "gloss": "U qalu"
     },
     {
       "surface": "לו",
-      "gloss": "lu"
+      "gloss": "lilu"
     },
     {
       "surface": "אמר",
-      "gloss": "Għidilna"
+      "gloss": "Għid"
     },
     {
       "surface": "נא",
-      "gloss": "Għidilna"
+      "gloss": "jekk jogħġbok"
     },
     {
       "surface": "שבלת",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "u hu jgħid"
+      "gloss": "u qal"
     },
     {
       "surface": "סבלת",
@@ -72,11 +41,11 @@
     },
     {
       "surface": "יכין",
-      "gloss": "jista' jħarreġ ħalqu"
+      "gloss": "kien jista'"
     },
     {
       "surface": "לדבר",
-      "gloss": "jgħid"
+      "gloss": "jippronunzja"
     },
     {
       "surface": "כן",
@@ -84,31 +53,32 @@
     },
     {
       "surface": "ויאחזו",
-      "gloss": "joħoduh"
+      "gloss": "u ħadu"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ h"
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
     },
     {
       "surface": "וישחטוהו",
-      "gloss": "joqtluh"
+      "gloss": "u żablquh"
     },
     {
       "surface": "אל",
-      "gloss": "fuq"
+      "gloss": "ħdejn"
     },
     {
       "surface": "מעברות",
-      "gloss": "il-fjordi"
+      "gloss": "il-fjurdi"
     },
     {
       "surface": "הירדן",
-      "gloss": "tal-Jarden"
+      "gloss": "tal-Ġordan"
     },
     {
       "surface": "ויפל",
-      "gloss": "jaqgħu"
+      "gloss": "u waqgħu"
     },
     {
       "surface": "בעת",
@@ -116,11 +86,11 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "f'dak iż-żmien"
+      "gloss": ""
     },
     {
       "surface": "מאפרים",
-      "gloss": "minn Efrajm"
+      "gloss": "minn Efraim"
     },
     {
       "surface": "ארבעים",
@@ -135,6 +105,6 @@
       "gloss": "elf"
     }
   ],
-  "timestamp": "2026-10-21T18:30:08.066528807Z",
+  "timestamp": "2026-10-22T00:37:12.975216917Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אֹתָהּ",
-      "rationale": "forma tal-pronom ('ilha') meħuda bħala l-marka את skont it-tag tas-sors; KJV 'set it by thee' għandhom il-pronom sempliċement."
-    }
-  ],
-  "translation": "U Samwel qal lit-tabbaħ: Agħti ⟨את⟩ il-porzjon li tajtk, li jtekteb biex tgħid: Poġġi ⟨את⟩ miegħek.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8b276558590b34b4f1d57fb78361281306434611ea381cdd69058a5b286ac0f2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/9\/23-24.1792623266619.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Samwel qal lill-ħassaż: Ħu ⟨את⟩ il-porzjon li tajtek, dwar liem għidlek: Poġġi ⟨את⟩ miegħek.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "qal"
     },
     {
       "surface": "שמואל",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "לטבח",
-      "gloss": "lit-tabbaħ"
+      "gloss": "lill-ħassaż"
     },
     {
       "surface": "תנה",
-      "gloss": "agħti"
+      "gloss": "Ħu"
     },
     {
       "surface": "את",
@@ -54,19 +38,19 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "tajt"
+      "gloss": "tajtek"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "lilek"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "dwar liem"
     },
     {
       "surface": "אמרתי",
-      "gloss": "għidt"
+      "gloss": "għidlek"
     },
     {
       "surface": "אליך",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "שים",
-      "gloss": "poġġi"
+      "gloss": "Poġġi"
     },
     {
       "surface": "אתה",
@@ -86,6 +70,6 @@
       "gloss": "miegħek"
     }
   ],
-  "timestamp": "2026-10-21T22:54:26.619801181Z",
+  "timestamp": "2026-10-22T00:01:04.447832313Z",
   "model": "glm-5.3"
 }

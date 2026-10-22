@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "u jgħix bihom",
-      "rationale": "וחי בהם — 'jgħix bihom', formula tal-qdusija li tiġri f'Levit 18:5 u Eżekjel fi bliet oħra"
-    },
-    {
-      "kind": "addition",
-      "subject": "l-artiklu",
-      "rationale": "il-Malti jeħtieġ artiklu fuq 'il-bniedem' fejn l-Ebrajk għandu האדם b'artiklu wieħed fuq kollektiv"
-    }
-  ],
-  "translation": "U tajthom ⟨את⟩ l-istatuti tiegħi, u ⟨את⟩ l-ġudizzji tiegħi tajthom ⟨את⟩ magħrufa — ⟨את⟩ li jsirhom il-bniedem u jgħix bihom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/9-12.1792614457495.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tajthom lil ⟨את⟩ l-istatuti tiegħi u lil ⟨את⟩ l-ġudizzji tiegħi għarrafthom lil ⟨את⟩ huma, li jagħmelhom ⟨את⟩ il-bniedem u jgħix bihom.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "U tajthom"
+      "gloss": "u tajthom"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "lilhom"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u lil ⟨את⟩",
       "marks": "l-ġudizzji tiegħi"
     },
     {
@@ -56,11 +35,12 @@
     },
     {
       "surface": "הודעתי",
-      "gloss": "tajthom magħrufa"
+      "gloss": "għarrafthom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ magħrufa"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom (ilsir ta' Jisrael)"
     },
     {
       "surface": "אשר",
@@ -68,11 +48,12 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "jsir"
+      "gloss": "jagħmel"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ li jsirhom"
+      "gloss": "⟨את⟩",
+      "marks": "hom (l-istatuti u l-ġudizzji)"
     },
     {
       "surface": "האדם",
@@ -87,6 +68,6 @@
       "gloss": "bihom"
     }
   ],
-  "timestamp": "2026-10-21T20:27:37.496741763Z",
+  "timestamp": "2026-10-22T00:16:34.700709440Z",
   "model": "glm-5.3"
 }

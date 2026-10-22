@@ -5,50 +5,19 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מדין",
-      "rationale": "lemma מדון 'għoli, qadd kbir' — 'raġel ta' qadd twil' kontra JPS 'champion' (ruolo, mhux il-kelma)."
-    },
-    {
-      "kind": "measurement",
-      "subject": "sitt subgħajn, sitt iswaba', erba' u għoxrin",
-      "rationale": "in-numru sħiħ jitgħaddi kif jgħid il-Lhudi."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מדין \/ מדון",
-      "rationale": "kelma rari ta' 'għoli'; xi qtar jaqrawha bħala מידה 'il-kejl ta' bniedem', mifruxa fit-traduzzjonijiet."
-    },
-    {
-      "kind": "you",
-      "subject": "lil Ħarafa",
-      "rationale": "isem il-ġgant Rafa; jittraduċix bħala 'il-ġgant' biss — l-isem jinżamm."
-    }
-  ],
-  "translation": "U kienet hemm għalissa battalja oħra f'Gat, u kien hemm raġel ta' qadd twil, u s-subgħajn ta' idejh kienu sitta u s-saba' ta' riġlejh kienu sitta, sitta u sitta, erba' u għoxrin bin-numru; u anki hu twield lil Ħarafa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0216d774a9766b2e0be6fdfd6e6d4ddf06a52d62bb72af1b82fa3140b12f8119",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/21\/20-20.1792623282393.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U kien hemm għadu ġlied f'Gat, u kien hemm raġel ta' qawwa kbira, u s-saba' ta' idejh kienu sitta u s-saba' ta' saqajh kienu sitta, erbgħa u għoxrin fin-numru; u hu ukoll twieled lill-ħarfa.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "u kienet hemm"
+      "gloss": "u kienet"
     },
     {
       "surface": "עוד",
-      "gloss": "għadha oħra"
+      "gloss": "għadu"
     },
     {
       "surface": "מלחמה",
-      "gloss": "battalja"
+      "gloss": "ġlied"
     },
     {
       "surface": "בגת",
@@ -64,11 +33,11 @@
     },
     {
       "surface": "מדין",
-      "gloss": "ta' qadd twil"
+      "gloss": "ta' qawwa kbira"
     },
     {
       "surface": "ואצבעת",
-      "gloss": "u s-subgħajn"
+      "gloss": "u s-saba'"
     },
     {
       "surface": "ידיו",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "רגליו",
-      "gloss": "ta' riġlejh"
+      "gloss": "ta' saqajh"
     },
     {
       "surface": "שש",
@@ -92,19 +61,19 @@
     },
     {
       "surface": "עשרים",
-      "gloss": "erba' u għoxrin"
+      "gloss": "għoxrin"
     },
     {
       "surface": "וארבע",
-      "gloss": ""
+      "gloss": "u erbgħa"
     },
     {
       "surface": "מספר",
-      "gloss": "bin-numru"
+      "gloss": "fin-numru"
     },
     {
       "surface": "וגם",
-      "gloss": "u anki"
+      "gloss": "u ukoll"
     },
     {
       "surface": "הוא",
@@ -112,13 +81,13 @@
     },
     {
       "surface": "ילד",
-      "gloss": "twield"
+      "gloss": "twieled"
     },
     {
       "surface": "להרפה",
-      "gloss": "lil Ħarafa"
+      "gloss": "lill-ħarfa"
     }
   ],
-  "timestamp": "2026-10-21T22:54:42.393737169Z",
+  "timestamp": "2026-10-22T00:06:43.946512111Z",
   "model": "glm-5.3"
 }

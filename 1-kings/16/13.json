@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "idoli",
-      "rationale": "הבליהם litteralment 'il-vanjità tagħhom', hevel = nifs\/emptiness; hawn b'tifsira ta' idoli falzi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חטא\/החטיא",
-      "rationale": "għerq wieħed חטא mtenni — 'aħatbu u tellgħu (oħrajn) jaħtbu' — il-logħba tal-għerq tibqa' fil-Malti b'ħtija\/ħtijietha"
-    }
-  ],
-  "translation": "Fuq il-ħtijietha kollha ta' Baża u l-ħtijietha ta' Ela binu, li dawn aħatbu u bihom tellgħu lil Jisrael jaħtbu, biex jagħdmu lil Jaħwe, Elohim ta' Jisrael, bl-idoli tagħhom",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/16\/13-16.1792609848330.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Minħabba dnubiet Baʿxa kollha, u dnubiet Elaħ binu, li dnubu u li ġegħlu lil ⟨את⟩ Jisrael jiżżembġu, biex jieżħu ⟨את⟩ lil Jaħwe, Elohim ta' Jisrael, bil-fjur tagħhom.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "fuq"
+      "gloss": "minħabba"
     },
     {
       "surface": "כל",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "חטאות",
-      "gloss": "l-ħtijietha"
+      "gloss": "dnubiet"
     },
     {
       "surface": "בעשא",
-      "gloss": "ta' Baża"
+      "gloss": "Baʿxa"
     },
     {
       "surface": "וחטאות",
-      "gloss": "u l-ħtijietha"
+      "gloss": "u dnubiet"
     },
     {
       "surface": "אלה",
-      "gloss": "ta' Ela"
+      "gloss": "Elaħ"
     },
     {
       "surface": "בנו",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "חטאו",
-      "gloss": "aħatbu"
+      "gloss": "dnubu"
     },
     {
       "surface": "ואשר",
-      "gloss": "u bihom"
+      "gloss": "u li"
     },
     {
       "surface": "החטיאו",
-      "gloss": "tellgħu jaħtbu"
+      "gloss": "ġegħlu jiżżembġu"
     },
     {
       "surface": "את",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "להכעיס",
-      "gloss": "biex jagħdmu"
+      "gloss": "biex jieżħu lil"
     },
     {
       "surface": "את",
@@ -96,17 +75,17 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim ta'"
     },
     {
       "surface": "ישראל",
-      "gloss": "ta' Jisrael"
+      "gloss": "Jisrael"
     },
     {
       "surface": "בהבליהם",
-      "gloss": "bl-idoli tagħhom"
+      "gloss": "bil-fjur tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T19:10:48.330985361Z",
+  "timestamp": "2026-10-21T23:57:07.372654714Z",
   "model": "glm-5.3"
 }

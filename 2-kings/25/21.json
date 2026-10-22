@@ -5,53 +5,32 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ġie eżiljat",
-      "rationale": "ויגל bil-fatt huwa passiv ta' 'tgħarraf\/bneħħi' — l-eżilju huwa l-interpretazzjoni storika"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "gloss": "l-glossa 'lilhom' iġorr il-marka ta' את mibnija fuq is-suffiss"
-    }
-  ],
-  "translation": "U s-sultan ta' Babilon laqathom bil-ħabta u qatilhom fir-Ribla, fl-art ta' Ħamat; u Juda ġie eżiljat minn fuq l-art tiegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/21-24.1792610860836.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U sultan ta' Babilon ħabbathom ⟨את⟩ u qatilhom fi Rivla, fl-art ta' Ħamat; u Ġuda tkeċċa minn fuq artu.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "laqathom bil-ħabta"
+      "gloss": "ħabbat"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom",
-      "marks": "lil dawk is-slaten"
+      "gloss": "⟨את⟩",
+      "marks": "lil dawn (lill-qrati ta' Ġuda)"
     },
     {
       "surface": "מלך",
-      "gloss": "s-sultan"
+      "gloss": "sultan"
     },
     {
       "surface": "בבל",
-      "gloss": "ta' Babilon"
+      "gloss": "Babilon"
     },
     {
       "surface": "וימיתם",
-      "gloss": "u qatilhom"
+      "gloss": "qatilhom"
     },
     {
       "surface": "ברבלה",
-      "gloss": "fir-Ribla"
+      "gloss": "fi Rivla"
     },
     {
       "surface": "בארץ",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "חמת",
-      "gloss": "ta' Ħamat"
+      "gloss": "Ħamat"
     },
     {
       "surface": "ויגל",
-      "gloss": "u ġie eżiljat"
+      "gloss": "tkeċċa"
     },
     {
       "surface": "יהודה",
-      "gloss": "Juda"
+      "gloss": "Ġuda"
     },
     {
       "surface": "מעל",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "אדמתו",
-      "gloss": "l-art tiegħu"
+      "gloss": "artu"
     }
   ],
-  "timestamp": "2026-10-21T19:27:40.837141555Z",
+  "timestamp": "2026-10-22T00:52:03.699083633Z",
   "model": "glm-5.3"
 }

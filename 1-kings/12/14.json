@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tagħbija",
-      "rationale": "עֹל huwa l-ġerjja fuq il-raqba; 'tagħbija' żżomm il-piż iżda titlef il-ħolqien tal-ħolqa."
-    },
-    {
-      "kind": "crux",
-      "subject": "iskorpjuni",
-      "rationale": "עַקְרַבִּים: skorpjun litterali, żpunt tal-ħabta b'piż li jaqtaċ bħal skorpjun, jew strument ta' kastig — 'bl-iskorpjuni' jżomm it-tixbiħa."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אבי...ואני",
-      "rationale": "Tqarbil parallelu 'missieri \/ jien' darbtejn — l-istess struttura libbsa, il-piż miżjud kull darba."
-    }
-  ],
-  "translation": "U tkellem magħhom skond il-parir taż-żgħażagħ, billi jgħid: Missieri tqilil it-tagħbija tagħkom, u jien inżid fuq it-tagħbija tagħkom; missieri widdibkom bil-ħabta, u jien inwwidibkom bl-iskorpjuni.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/12\/13-16.1792609789563.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tkellem magħhom skont il-parir taż-żgħażagħ, billi jgħid: Missieri tqil ⟨את⟩ serħkom, u jiena nżid fuq serħkom; missieri kastiga ⟨את⟩ lilkom bis-sarbi, u jiena se nikkastiga ⟨את⟩ lilkom bix-xkorpjuni.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "כעצת",
-      "gloss": "skond il-parir"
+      "gloss": "skont il-parir"
     },
     {
       "surface": "הילדים",
@@ -55,28 +29,28 @@
     },
     {
       "surface": "אבי",
-      "gloss": "Missieri"
+      "gloss": "missieri"
     },
     {
       "surface": "הכביד",
-      "gloss": "tqilil"
+      "gloss": "tqil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tagħbija tagħkom"
+      "marks": "serħkom"
     },
     {
       "surface": "עלכם",
-      "gloss": "it-tagħbija tagħkom"
+      "gloss": "serħkom"
     },
     {
-      "surface": "ויני",
-      "gloss": "u jien"
+      "surface": "ואני",
+      "gloss": "u jiena"
     },
     {
       "surface": "אסיף",
-      "gloss": "inżid"
+      "gloss": "nżid"
     },
     {
       "surface": "על",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "עלכם",
-      "gloss": "it-tagħbija tagħkom"
+      "gloss": "serħkom"
     },
     {
       "surface": "אבי",
@@ -92,35 +66,35 @@
     },
     {
       "surface": "יסר",
-      "gloss": "widdib"
+      "gloss": "kastiga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lilkom",
       "marks": "lilkom"
     },
     {
       "surface": "בשוטים",
-      "gloss": "bil-ħabta"
+      "gloss": "bis-sarbi"
     },
     {
       "surface": "ואני",
-      "gloss": "u jien"
+      "gloss": "u jiena"
     },
     {
       "surface": "איסר",
-      "gloss": "inwwidib"
+      "gloss": "se nikkastiga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lilkom",
       "marks": "lilkom"
     },
     {
       "surface": "בעקרבים",
-      "gloss": "bl-iskorpjuni"
+      "gloss": "bix-xkorpjuni"
     }
   ],
-  "timestamp": "2026-10-21T19:09:49.564940511Z",
+  "timestamp": "2026-10-21T23:56:38.102372643Z",
   "model": "glm-5.3"
 }

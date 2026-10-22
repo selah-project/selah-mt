@@ -5,37 +5,11 @@
   "book": "ruth",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Rut",
-      "rationale": "Naomi tħabbar struzzjonijiet diretti lil Rut — imperattivi femminili tas-sekond persuna."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שכב",
-      "rationale": "Għerq שׁכב jidher tlett darbiet fil-vers (בשכבו, ישכב, ושכבתי); ir-repetizzjoni tesperdi ruħha fit-traduzzjoni."
-    },
-    {
-      "kind": "crux",
-      "subject": "tikxif ir-riġlejh",
-      "rationale": "מרגלתיו huwa plural kollettiv ta' 'saqajn'; גלה jista' jkun 'tikxif' jew 'tikxif bil-ħela' — xi tradutturi jaħsbu ġest ta' talba għaż-żewġ."
-    }
-  ],
-  "translation": "U jsir meta jorqod, tkun taf il-post fejn joqgħod jimtedded hemm, u tidħol, u tikxif ir-riġlejh, u ttimtedded; u hu jgħid lilek ⟨את⟩ dak li għandek tagħmel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "912f86842734de6fdc9ba4c603de834946cae46cb6797d6b9e4c579ed7944dba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ruth\/3\/4-4.1792623890611.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U meta jorqod, tkun taf ⟨את⟩ il-post fejn jorqod, u tidħol, u tiżvela s-saqajn tiegħu, u torqod; u hu jgħidillek ⟨את⟩ dak li għandek tagħmel.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "u jsir"
+      "gloss": "U meta jkun"
     },
     {
       "surface": "בשכבו",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "joqgħod jimtedded"
+      "gloss": "jorqod"
     },
     {
       "surface": "שם",
@@ -72,15 +46,15 @@
     },
     {
       "surface": "וגלית",
-      "gloss": "u tikxif"
+      "gloss": "u tiżvela"
     },
     {
       "surface": "מרגלתיו",
-      "gloss": "ir-riġlejh"
+      "gloss": "s-saqajn tiegħu"
     },
     {
       "surface": "ושכבתי",
-      "gloss": "u ttimtedded"
+      "gloss": "u torqod"
     },
     {
       "surface": "והוא",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "יגיד",
-      "gloss": "jgħid"
+      "gloss": "jgħidillek"
     },
     {
       "surface": "לך",
@@ -101,13 +75,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "dak li"
     },
     {
       "surface": "תעשין",
-      "gloss": "tagħmel"
+      "gloss": "għandek tagħmel"
     }
   ],
-  "timestamp": "2026-10-21T23:04:50.611667337Z",
+  "timestamp": "2026-10-22T00:50:46.999085842Z",
   "model": "glm-5.3"
 }

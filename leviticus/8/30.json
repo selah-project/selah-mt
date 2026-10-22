@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "משחה\/ויקדש",
-      "rationale": "ir-repetizzjoni twila 'fuq... fuq... u fuq' u mbagħad għal darb'oħra fil-qaddis: struttura ta'Lista li tagħmel ċerimonja, miżmuma sħiħa"
-    },
-    {
-      "kind": "crux",
-      "subject": "irrexxa",
-      "rationale": "ויז = nazz spra; xi traduzzjonijiet jgħidu 'sprinkled' oħrajn 'poured' — spra huwa l-qari tas-Septwaġinta"
-    }
-  ],
-  "translation": "U Moxe ħa miż-żejt tal-miċċa u mid-demm li kien fuq l-artal, u irrexxa fuq Aharon, fuq il-ħwejjeġ tiegħu, u fuq uliedu, u fuq il-ħwejjeġ ta' uliedu miegħu; u qaddes ⟨את⟩ lil Aharon, ⟨את⟩ il-ħwejjeġ tiegħu, u ⟨את⟩ lil uliedu, u ⟨את⟩ il-ħwejjeġ ta' uliedu miegħu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/8\/29-32.1792600726524.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Moxe ħa mix-xemgħa tal-irmiġġ u mid-demm li kien fuq l-artal, u rżannah fuq lil Aharon, fuq il-ħwejjeġ tiegħu, u fuq uliedu, u fuq il-ħwejjeġ tal-uliedu ⟨ma' lilħu⟩; u qaddes ⟨את⟩ lil Aharon, ⟨את⟩ il-ħwejjeġ tiegħu, u ⟨את⟩ lil uliedu, u ⟨את⟩ il-ħwejjeġ tal-uliedu ⟨ma' lilħu⟩.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "U ħa"
+      "gloss": "u ħa"
     },
     {
       "surface": "משה",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "משמן",
-      "gloss": "miż-żejt"
+      "gloss": "mix-xemgħa"
     },
     {
       "surface": "המשחה",
-      "gloss": "tal-miċċa"
+      "gloss": "tal-irmiġġ"
     },
     {
       "surface": "ומן",
-      "gloss": "u mid-"
+      "gloss": "u mid-demm"
     },
     {
       "surface": "הדם",
-      "gloss": "demm"
+      "gloss": "u mid-demm"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "li kien"
     },
     {
       "surface": "על",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ויז",
-      "gloss": "u irrexxa"
+      "gloss": "u rżannah"
     },
     {
       "surface": "על",
@@ -98,15 +77,15 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "il-ħwejjeġ ta'"
+      "gloss": "il-ħwejjeġ"
     },
     {
       "surface": "בניו",
-      "gloss": "uliedu"
+      "gloss": "tal-uliedu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩ ⟨ma' lilħu⟩"
     },
     {
       "surface": "ויקדש",
@@ -128,7 +107,7 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "il-ħwejjeġ tiegħu"
+      "gloss": "il-ħwejjeğ tiegħu"
     },
     {
       "surface": "ואת",
@@ -142,21 +121,21 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "il-ħwejjeġ ta' uliedu"
+      "marks": "il-ħwejjeġ tal-uliedu"
     },
     {
       "surface": "בגדי",
-      "gloss": "il-ħwejjeġ ta'"
+      "gloss": "il-ħwejjeġ"
     },
     {
       "surface": "בניו",
-      "gloss": "uliedu"
+      "gloss": "tal-uliedu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ miegħu"
+      "gloss": "⟨את⟩ ⟨ma' lilħu⟩"
     }
   ],
-  "timestamp": "2026-10-21T16:38:46.525630307Z",
+  "timestamp": "2026-10-22T00:42:56.621554839Z",
   "model": "glm-5.3"
 }

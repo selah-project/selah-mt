@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "gloss": "l-את bil-pronom ta' l-ewwel persuna — baqa' biss bħala ⟨את⟩ marks 'ni'."
-    },
-    {
-      "kind": "addition",
-      "subject": "il-jum",
-      "gloss": "l-artiklu Mialti miżjud għal מן היום."
-    }
-  ],
-  "translation": "għaliex għamlu ⟨את⟩ l-ħażin f'għajnejja, u kienu jagħtbuni ⟨את⟩, mill-jum li oħrijhom ħarġu minn Mitsrajim sal-jum il-lum.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/21\/13-16.1792610772863.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex għamlu ⟨את⟩ il-ħażin f'għajnejja, u kienu jqajmu l-għadab ⟨את⟩ ⟨fija⟩, mill-jum li ħarġu minnu missirijiethom minn Mitsrajim sa dan il-jum.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "għaliex"
+      "gloss": "Għaliex"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "עשו",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ħażin"
+      "marks": "il-ħażin"
     },
     {
       "surface": "הרע",
-      "gloss": "l-ħażin"
+      "gloss": "il-ħażin"
     },
     {
       "surface": "בעיני",
@@ -59,16 +38,16 @@
     },
     {
       "surface": "מכעסים",
-      "gloss": "jagħtbuni"
+      "gloss": "jqajmu l-għadab"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "ni"
+      "marks": "fija (lili)"
     },
     {
       "surface": "מן",
-      "gloss": "mill-"
+      "gloss": "minn"
     },
     {
       "surface": "היום",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "אבותם",
-      "gloss": "oħrijhom"
+      "gloss": "missirijiethom"
     },
     {
       "surface": "ממצרים",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "sal-"
+      "gloss": "sa"
     },
     {
       "surface": "היום",
@@ -100,9 +79,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "illum"
+      "gloss": "dan"
     }
   ],
-  "timestamp": "2026-10-21T19:26:12.865474183Z",
+  "timestamp": "2026-10-22T00:04:15.243352323Z",
   "model": "glm-5.3"
 }

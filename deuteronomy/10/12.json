@@ -5,42 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "minn (tibża' minn)",
-      "rationale": "il-Malti jeħtieġ prepożizzjoni mal-verbi tal-biża'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruħtek",
-      "rationale": "נפש hija nifs \/ ħajja \/ għatx — iktabb 'ruħ' hi traduzzjoni dejqa imma mhux sħiħa"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisrael",
-      "rationale": "sejħa dirett: 'U issa, Jisrael'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "x'nam ... minnek",
-      "rationale": "misturna rettorika li tismħ lill-qarrej\/poplu"
-    }
-  ],
-  "translation": "U issa, Jisrael, x'nam Jaħwe, l-Elohim tiegħek, minnek, jekk mhux biex tibża' minn Jaħwe, l-Elohim tiegħek, timxi f'kull triqatu, tħobb lil ⟨את⟩-u, u tservi lil Jaħwe, l-Elohim tiegħek, b'kollox minn qalbek u b'kollox minn ruħtek?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/10\/9-12.1792605542461.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa, Jisrael, x' qiegħed jitlob mingħandek Jaħwe, l-Elohim tiegħek, jekk mhux biex tibża' minn ⟨את⟩ Jaħwe, l-Elohim tiegħek, timxi fid-drawwiet tiegħu kollha, u tħobb lil ⟨אתו⟩, u tosserve lil ⟨את⟩ Jaħwe, l-Elohim tiegħek, b'qalbek kollha u bir-ruwaħ tiegħek kollha?",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "u issa"
+      "gloss": "U issa"
     },
     {
       "surface": "ישראל",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "x'nam"
+      "gloss": "x'"
     },
     {
       "surface": "יהוה",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "שאל",
-      "gloss": "jitlob"
+      "gloss": "qiegħed jitlob"
     },
     {
       "surface": "מעמך",
-      "gloss": "minnek"
+      "gloss": "mingħandek"
     },
     {
       "surface": "כי",
@@ -81,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe"
+      "marks": "Jaħwe, l-Elohim tiegħek"
     },
     {
       "surface": "יהוה",
@@ -97,29 +66,29 @@
     },
     {
       "surface": "בכל",
-      "gloss": "f'kull"
+      "gloss": "fi … kollha"
     },
     {
       "surface": "דרכיו",
-      "gloss": "triqatu"
+      "gloss": "id-drawwiet tiegħu"
     },
     {
       "surface": "ולאהבה",
-      "gloss": "u tħobb"
+      "gloss": "u tħobb lil"
     },
     {
       "surface": "אתו",
-      "gloss": "lil ⟨את⟩-u",
-      "marks": "li tħobb"
+      "gloss": "⟨אתו⟩",
+      "marks": "lil ⟨אתו⟩ (l-oġġett ta' tħobb)"
     },
     {
       "surface": "ולעבד",
-      "gloss": "u tservi"
+      "gloss": "u tosserve lil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe"
+      "marks": "Jaħwe, l-Elohim tiegħek"
     },
     {
       "surface": "יהוה",
@@ -131,7 +100,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "b'kollox minn"
+      "gloss": "b' … kollha"
     },
     {
       "surface": "לבבך",
@@ -139,13 +108,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "u b'kollox minn"
+      "gloss": "u b' … kollha"
     },
     {
       "surface": "נפשך",
-      "gloss": "ruħtek"
+      "gloss": "ruwaħ tiegħek"
     }
   ],
-  "timestamp": "2026-10-21T17:59:02.464011636Z",
+  "timestamp": "2026-10-22T00:08:52.197406437Z",
   "model": "glm-5.3"
 }

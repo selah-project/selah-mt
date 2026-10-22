@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "l-idoli",
-      "rationale": "גלולים litteralment 'ċungi (ta' siġar)', idoli; l-ebda kelma Maltija li żżomm il-ħoss"
-    },
-    {
-      "kind": "crux",
-      "subject": "għaddew lilhom",
-      "rationale": "העבירו להם: 'għaddewhom (mill-ġejħ\/from there)' — tradizzjonijiet jiddibattutu jekk 'pass through the fire' jew sempliċement 'għaddew lill-allat'"
-    }
-  ],
-  "translation": "Għaliex għamlu żina, u demm f'idejhom, u mal-idoli tagħhom għamlu żina, u anki lil uliedhom, li welldu lili, għaddew lilhom għall-ikel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/23\/37-40.1792614677890.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaxiżżeww u demm hemm f'idejhom, u ma' ⟨את⟩ l-idoli tagħhom żżewew, u anki ⟨את⟩ lil wliedhom, li welldu lili, għaddewhom lil dawk ⟨biex jittieklu⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "נאפו",
-      "gloss": "għamlu żina"
+      "gloss": "żżewew"
     },
     {
       "surface": "ודם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
+      "gloss": "ma' ⟨את⟩",
       "marks": "l-idoli tagħhom"
     },
     {
@@ -55,7 +34,7 @@
     },
     {
       "surface": "נאפו",
-      "gloss": "għamlu żina"
+      "gloss": "żżewew"
     },
     {
       "surface": "וגם",
@@ -64,11 +43,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uliedhom"
+      "marks": "lil wliedhom"
     },
     {
       "surface": "בניהן",
-      "gloss": "uliedhom"
+      "gloss": "lil wliedhom"
     },
     {
       "surface": "אשר",
@@ -84,17 +63,17 @@
     },
     {
       "surface": "העבירו",
-      "gloss": "għaddew"
+      "gloss": "għaddewhom"
     },
     {
       "surface": "להם",
-      "gloss": "lilhom"
+      "gloss": "lil dawk"
     },
     {
       "surface": "לאכלה",
-      "gloss": "għall-ikel"
+      "gloss": "biex jittieklu"
     }
   ],
-  "timestamp": "2026-10-21T20:31:17.891452152Z",
+  "timestamp": "2026-10-22T00:17:14.191738500Z",
   "model": "glm-5.3"
 }

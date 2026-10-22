@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "persuna",
-      "rationale": "נפשת hija nefashot, 'nifsijiet', jiġifieri ħajja\/persuna, mhux 'ruħ'"
-    },
-    {
-      "kind": "crux",
-      "subject": "יפלא",
-      "rationale": "yaflija: 'li jordna b'mod mill-ordinaryju' (KJV 'singular') kontra 'li jwettaq b'mod ċar' (JPS 'clearly utter')"
-    },
-    {
-      "kind": "elision",
-      "subject": "אלהם",
-      "rationale": "immarkata biss 'lilhom' fi ħdan 'għidilhom', kliem nieqes bħala token separat"
-    }
-  ],
-  "translation": "Kellim lil wlied Jisrael u għidilhom: Raġel li jordna b'mod mill-ordinaryju [jarri] persuna b'taqbil tiegħek lil Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "07d7be35f37d8b6275b332b1a9d12b551d595a0b8081e85de228154da948f4cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/27\/2-4.1792604889115.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kellem lil wlied Jisrael u għidilhom: Rajel meta jifred nies<neieder>, fl-istima tiegħek, nfus lil Jaħwe.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Kellim"
+      "gloss": "Kellem"
     },
     {
       "surface": "אל",
@@ -59,33 +33,33 @@
     },
     {
       "surface": "איש",
-      "gloss": "raġel"
+      "gloss": "Rajel"
     },
     {
       "surface": "כי",
-      "gloss": "li"
+      "gloss": "meta"
     },
     {
       "surface": "יפלא",
-      "gloss": "jordna b'mod mill-ordinaryju"
+      "gloss": "jifred nies<neieder>"
     },
     {
       "surface": "נדר",
-      "gloss": "patt"
+      "gloss": ""
     },
     {
       "surface": "בערכך",
-      "gloss": "b'taqbil tiegħek"
+      "gloss": "fl-istima tiegħek"
     },
     {
       "surface": "נפשת",
-      "gloss": "persuna"
+      "gloss": "nfus"
     },
     {
       "surface": "ליהוה",
       "gloss": "lil Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T17:48:09.117763764Z",
+  "timestamp": "2026-10-22T00:41:05.630434685Z",
   "model": "glm-5.3"
 }

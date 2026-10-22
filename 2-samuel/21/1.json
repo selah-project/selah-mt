@@ -5,38 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בית הדמים",
-      "rationale": "'dar id-demm' (sensiela mdemmja) jew, mal-KJV\/ASV, 'id-demm' biss mehmuż ma' Xaul — il-Malti iżomm il-forma kompost."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בקש את פני יהוה",
-      "rationale": "'fittex il-wiċċ ta' Jaħwe' — idjom Lhudi għat-talb u staqsi, miżmum literalment."
-    },
-    {
-      "kind": "addition",
-      "subject": "hu",
-      "rationale": "il-Malti jirrikjedi pronom Kopula: 'dar id-demm hu' — il-Lhudi m'għandux."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tliet snin, sena wara sena",
-      "rationale": "għadd ta' snin il-ġuħ, miżmum eżatt bħall-Lhudi."
-    }
-  ],
-  "translation": "U kien ġuħ fi żmiem David tliet snin, sena wara sena; u David fittex ⟨את⟩ wiċċ Jaħwe, u Jaħwe qal: Għal Xaul u għal dar id-demm hu, għax qatel ⟨את⟩ l-Għiboniti.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/21\/1-4.1792609147348.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U kien ġuħ f'jiem David tliet snin, sena wara sena; u David fittex ⟨את⟩ wiċċ Jaħwe, u Jaħwe qal: Fuq Xawl u fuq id-dar tad-demm, għax qatel ⟨את⟩ il-Ġiboniti.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "בימי",
-      "gloss": "fi żmien"
+      "gloss": "f'jiem"
     },
     {
       "surface": "דוד",
@@ -85,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wiċċ"
+      "marks": "wiċċ Jaħwe"
     },
     {
       "surface": "פני",
@@ -105,31 +74,31 @@
     },
     {
       "surface": "אל",
-      "gloss": "Għal"
+      "gloss": ""
     },
     {
       "surface": "שאול",
-      "gloss": "Xaul"
+      "gloss": "Xawl"
     },
     {
       "surface": "ואל",
-      "gloss": "u għal"
+      "gloss": "u fuq"
     },
     {
       "surface": "בית",
-      "gloss": "dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "הדמים",
-      "gloss": "id-demm"
+      "gloss": "tad-demm"
     },
     {
       "surface": "על",
-      "gloss": "għax"
+      "gloss": "Fuq"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "għax"
     },
     {
       "surface": "המית",
@@ -138,13 +107,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-Għiboniti"
+      "marks": "il-Ġiboniti"
     },
     {
       "surface": "הגבענים",
-      "gloss": "l-Għiboniti"
+      "gloss": "il-Ġiboniti"
     }
   ],
-  "timestamp": "2026-10-21T18:59:07.349520502Z",
+  "timestamp": "2026-10-22T00:06:49.618035887Z",
   "model": "glm-5.3"
 }

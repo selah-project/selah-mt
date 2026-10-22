@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התערב",
-      "rationale": "'agħmel sħubija\/ħlas' — KJV 'give pledges', JPS 'make a wager'; it-tifsira eżatta ta' ערב hawn mhuwiex ċar"
-    },
-    {
-      "kind": "alternative",
-      "subject": "את אדני",
-      "rationale": "l-ewwel את hawn hu prepożizzjoni ('mal-sid'), mhux il-marka tal-oġġett — għalhekk mhix immarkata b'⟨את⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Ħizqijah",
-      "rationale": "sfida sarkastika diretta lis-surmast ta' Juda"
-    }
-  ],
-  "translation": "U issa, agħmel sħubija, jekk jogħġbok, mas-sid tagħna, ⟨את⟩ sultan Axxur, u nagħtik elfejn żwiemel — jekk tkun tista' tagħtik rikkieba fuqhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e02be63bd46f325cb0e75e84dce684fa6c864b3fa16a5e4649abcf77cd289312",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/18\/21-24.1792610686060.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U issa, agħmel miziev ma' ⟨את⟩ sidni, ⟨את⟩ sultan ta' Assir, u nagħtik elfejn żwiemel, jekk tista' tagħti lilek raħħaba fuqhom.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "התערב",
-      "gloss": "agħmel sħubija"
+      "gloss": "agħmel miziev"
     },
     {
       "surface": "נא",
@@ -47,16 +21,17 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'"
+      "gloss": "⟨את⟩",
+      "marks": "sidni"
     },
     {
       "surface": "אדני",
-      "gloss": "s-sid tagħna"
+      "gloss": "sidni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sultan Axxur"
+      "marks": "sultan ta' Assir"
     },
     {
       "surface": "מלך",
@@ -64,7 +39,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Axxur"
+      "gloss": "ta' Assir"
     },
     {
       "surface": "ואתנה",
@@ -72,7 +47,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "lek"
+      "gloss": "lilek"
     },
     {
       "surface": "אלפים",
@@ -88,7 +63,7 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "tkun tista'"
+      "gloss": "tista'"
     },
     {
       "surface": "לתת",
@@ -96,17 +71,17 @@
     },
     {
       "surface": "לך",
-      "gloss": "lek"
+      "gloss": "lilek"
     },
     {
       "surface": "רכבים",
-      "gloss": "rikkieba"
+      "gloss": "raħħaba"
     },
     {
       "surface": "עליהם",
       "gloss": "fuqhom"
     }
   ],
-  "timestamp": "2026-10-21T19:24:46.061647175Z",
+  "timestamp": "2026-10-22T00:04:44.520616162Z",
   "model": "glm-5.3"
 }

@@ -5,44 +5,23 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "minn ġewwa",
-      "rationale": "מבית לפרכת 'mid-dar (ta' ġewwa) għand il-parocca' — 'minn ġewwa' żjieda biex tifffaċċa l-ispazju"
-    },
-    {
-      "kind": "elision",
-      "subject": "maħsub",
-      "rationale": "il-verb jidaħħal jeħtieġ objett fil-Malti; l-għan jifhem mill-kuntest"
-    }
-  ],
-  "translation": "U jieħu bl-inċensjar mimli ħjar tan-nar minn fuq l-artal, minn quddiem Jaħwe, u mili l-idejnejn tiegħu b'inċens ta' ħwawar fin, u jdaħħal maħsub minn ġewwa għand il-parocca.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/16\/9-12.1792600931714.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jieħu l-maħtara mimlija bil-faħam tan-nar mil-miżbaħ, minn quddiem Jaħwe, u żewġ ħofnajn ta' idejh bl-inċens ta' ħwawar merħusa, u jġibhom għal ġewwa tal-Paroket.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "U jieħu"
+      "gloss": "u jieħu"
     },
     {
       "surface": "מלא",
-      "gloss": "mimli"
+      "gloss": "mimlija"
     },
     {
       "surface": "המחתה",
-      "gloss": "bl-inċensjar"
+      "gloss": "l-maħtara"
     },
     {
       "surface": "גחלי",
-      "gloss": "ħjar"
+      "gloss": "bil-faħam"
     },
     {
       "surface": "אש",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "minn fuq"
+      "gloss": "mil-"
     },
     {
       "surface": "המזבח",
-      "gloss": "l-artal"
+      "gloss": "miżbaċ"
     },
     {
       "surface": "מלפני",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "ומלא",
-      "gloss": "u mili"
+      "gloss": "u"
     },
     {
       "surface": "חפניו",
-      "gloss": "l-idejnejn tiegħu"
+      "gloss": "żewġ ħofnajn ta' idejh"
     },
     {
       "surface": "קטרת",
-      "gloss": "b'inċens"
+      "gloss": "bl-inċens"
     },
     {
       "surface": "סמים",
@@ -82,21 +61,21 @@
     },
     {
       "surface": "דקה",
-      "gloss": "fin"
+      "gloss": "merħusa"
     },
     {
       "surface": "והביא",
-      "gloss": "u jdaħħal"
+      "gloss": "u jġib"
     },
     {
       "surface": "מבית",
-      "gloss": "minn ġewwa"
+      "gloss": "għal ġewwa"
     },
     {
       "surface": "לפרכת",
-      "gloss": "għand il-parocca"
+      "gloss": "tal-Paroket"
     }
   ],
-  "timestamp": "2026-10-21T16:42:11.715810775Z",
+  "timestamp": "2026-10-22T00:40:34.955049417Z",
   "model": "glm-5.3"
 }

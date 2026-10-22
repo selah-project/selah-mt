@@ -5,32 +5,11 @@
   "book": "ecclesiastes",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פתגם",
-      "rationale": "kelma Persjana (pitgam) li tiffissa sentenza ġudizzjarja; 'sentenza' żżomm il-pictures tad-deċiżjoni uffiċjali"
-    },
-    {
-      "kind": "substitution",
-      "subject": "wlied il-bniedem",
-      "rationale": "benei ha'adam = 'il-bniedem' bħala speċi; żammejt il-forma litterali 'wlied il-bniedem'"
-    }
-  ],
-  "translation": "Għaliex ma jsirx sentenza fuq l-għemil il-ħażin bil-għaġla, għalhekk il-qalb ta' wlied il-bniedem tixba' fi ħdanhom biex jagħmlu l-ħażin.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/8\/9-12.1792620335455.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex ma jintagħrax malajr sentenza kontra l-għemil ħażin, għalheqq il-qalb ta' wlied il-bniedem timtela minnha ⟨biex⟩ tagħmel il-ħażin.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "Għaliex"
+      "gloss": "għaliex"
     },
     {
       "surface": "אין",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "jsirx"
+      "gloss": "tintagħrax"
     },
     {
       "surface": "פתגם",
@@ -46,27 +25,27 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "fuq l-għemil"
+      "gloss": "l-għemil"
     },
     {
       "surface": "הרעה",
-      "gloss": "il-ħażin"
+      "gloss": "ħażin"
     },
     {
       "surface": "מהרה",
-      "gloss": "bil-għaġla"
+      "gloss": "malajr"
     },
     {
       "surface": "על",
-      "gloss": "għalhekk"
+      "gloss": "kontra"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "għalheqq"
     },
     {
       "surface": "מלא",
-      "gloss": "tixba'"
+      "gloss": "timtela"
     },
     {
       "surface": "לב",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "ta' wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "האדם",
@@ -82,17 +61,17 @@
     },
     {
       "surface": "בהם",
-      "gloss": "fi ħdanhom"
+      "gloss": "minnha"
     },
     {
       "surface": "לעשות",
-      "gloss": "biex jagħmlu"
+      "gloss": "biex tagħmel"
     },
     {
       "surface": "רע",
-      "gloss": "l-ħażin"
+      "gloss": "il-ħażin"
     }
   ],
-  "timestamp": "2026-10-21T22:05:35.457040166Z",
+  "timestamp": "2026-10-22T00:11:54.573142439Z",
   "model": "glm-5.3"
 }

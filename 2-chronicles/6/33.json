@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jien",
-      "rationale": "l-ewwel persuna fil-verb Malti teħtieġ il-pronom għall-enfasi li l-Lhudi jġorr fil-verb biss"
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-barrani",
-      "rationale": "הנכרי: il-barrani, il-bniedem mhux mill-poplu ta' Jisrael"
-    }
-  ],
-  "translation": "U int tisma' mis-sema, minn post il-mistrieħ tiegħek, u tagħmel skont kull ma jsejjaħlek il-barrani, biex jafu l-ġnus kollha tal-art ⟨את⟩ ismek, u jibżgħu minnek, bħall-poplu tiegħek Jisrael, u jafu li ismek jissejjaħ fuq din id-dar li jien bajnejt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "eaa9992db5cf967c3b8841adfec1e7d90d83424680c9bb9d01cee3eeec95ae1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/6\/33-36.1792622381248.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int tisma' mis-sema, mill-post fejn toqgħod, u tagħmel kull ma jsejjaħlek il-barrani, sabiex jafu l-popli kollha tal-art ⟨את⟩ isemek, u jibżgħu ⟨את⟩ minnek bħall-poplu tiegħek Jisrael, u jkunu jafu li l-isem tiegħek msejjaħ fuq din id-dar li jien bnejt.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "min"
     },
     {
       "surface": "השמים",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ממכון",
-      "gloss": "minn post"
+      "gloss": "mill-post"
     },
     {
       "surface": "שבתך",
-      "gloss": "il-mistrieħ tiegħek"
+      "gloss": "fejn toqgħod"
     },
     {
       "surface": "ועשית",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "skont kull"
+      "gloss": "kull ma"
     },
     {
       "surface": "אשר",
-      "gloss": "ma"
+      "gloss": "li"
     },
     {
       "surface": "יקרא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "למען",
-      "gloss": "biex"
+      "gloss": "sabiex"
     },
     {
       "surface": "ידעו",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "il-ġnus"
+      "gloss": "il-popli"
     },
     {
       "surface": "הארץ",
@@ -99,24 +78,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ismek"
+      "marks": "isemek"
     },
     {
       "surface": "שמך",
-      "gloss": "ismek"
+      "gloss": "isemek"
     },
     {
       "surface": "וליראה",
-      "gloss": "u jibżgħu"
+      "gloss": "ujibżgħu"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "minnek"
+      "gloss": "⟨את⟩ minnek"
     },
     {
       "surface": "כעמך",
-      "gloss": "minnek bħall-poplu tiegħek"
+      "gloss": "bħall-poplu tiegħek"
     },
     {
       "surface": "ישראל",
@@ -124,7 +102,7 @@
     },
     {
       "surface": "ולדעת",
-      "gloss": "u jafu"
+      "gloss": "ujkunu jafu"
     },
     {
       "surface": "כי",
@@ -132,11 +110,11 @@
     },
     {
       "surface": "שמך",
-      "gloss": "ismek"
+      "gloss": "l-isem tiegħek"
     },
     {
       "surface": "נקרא",
-      "gloss": "jissejjaħ"
+      "gloss": "msejjaħ"
     },
     {
       "surface": "על",
@@ -144,7 +122,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "din id-dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "הזה",
@@ -156,9 +134,9 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "bajnejt"
+      "gloss": "bnejt"
     }
   ],
-  "timestamp": "2026-10-21T22:39:41.249042308Z",
+  "timestamp": "2026-10-22T00:03:20.611795760Z",
   "model": "glm-5.3"
 }

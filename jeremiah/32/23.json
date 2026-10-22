@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ותקרא",
-      "rationale": "'called\/proclaimed' vs 'brought upon' (KJV 'caused to come upon'); rendered here as 'ġibtpużihom' — brought upon them"
-    },
-    {
-      "kind": "addition",
-      "subject": "iżda",
-      "rationale": "Maltese adversative added to mark the turn from 'they possessed' to 'they did not obey'"
-    }
-  ],
-  "translation": "U daħlu u wiredu ⟨את⟩ lilha, iżda ma smgħux leħnek, u fit-Tora tiegħek ma mxewx; ⟨את⟩ kollma ġbidtilhom jagħmlu, ma għamlux; u ġibtpużihom ⟨את⟩ din il-ħażina kollha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ac637168d4dbec7f4987c93f1b0e73fa1ea18da462c9d1a52da3148600f0e64f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/32\/21-24.1792613262097.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U daħlu u wiredu ⟨את⟩ lilha, u ma smgħux lejn vuċitek, u fit-Torajiet tiegħek ma mxew; ⟨את⟩ kull dak li amrithom jagħmlu, ma għamluhx; u ġibt fuqhom ⟨את⟩ lilhom ⟨את⟩ kull din il-ħażen.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -38,11 +17,12 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ lilha"
+      "gloss": "⟨את⟩",
+      "marks": "lilha"
     },
     {
       "surface": "ולא",
-      "gloss": "iżda ma"
+      "gloss": "u ma"
     },
     {
       "surface": "שמעו",
@@ -50,11 +30,11 @@
     },
     {
       "surface": "בקולך",
-      "gloss": "leħnek"
+      "gloss": "lejn vuċitek"
     },
     {
       "surface": "ובתרותך",
-      "gloss": "fit-Tora tiegħek"
+      "gloss": "u fit-Torajiet tiegħek"
     },
     {
       "surface": "לא",
@@ -62,24 +42,24 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "mxewx"
+      "gloss": "mxew"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kollma ġbidtilhom jagħmlu"
+      "marks": "kull dak"
     },
     {
       "surface": "כל",
-      "gloss": "kollma"
+      "gloss": "kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "dak li"
     },
     {
       "surface": "צויתה",
-      "gloss": "ġbidtilhom"
+      "gloss": "amrithom"
     },
     {
       "surface": "להם",
@@ -95,11 +75,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "għamlux"
+      "gloss": "għamluhx"
     },
     {
       "surface": "ותקרא",
-      "gloss": "u ġibtpużihom"
+      "gloss": "u ġibt fuqhom"
     },
     {
       "surface": "אתם",
@@ -109,7 +89,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "din il-ħażina kollha"
+      "marks": "kull"
     },
     {
       "surface": "כל",
@@ -117,13 +97,13 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "il-ħażina"
+      "gloss": "il-ħażen"
     },
     {
       "surface": "הזאת",
       "gloss": "din"
     }
   ],
-  "timestamp": "2026-10-21T20:07:42.099332610Z",
+  "timestamp": "2026-10-22T00:53:03.834258520Z",
   "model": "glm-5.3"
 }

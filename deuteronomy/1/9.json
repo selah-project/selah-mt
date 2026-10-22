@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "infinitiv costrutt li jsegwi verbu tal-qlub; mogħni b'niegħed biex il-Malti jifflowtixxi"
-    },
-    {
-      "kind": "you",
-      "subject": "lilkom",
-      "rationale": "Mosè jindirizza lil Jisrael direttament, b'retrospettiv"
-    }
-  ],
-  "translation": "U għidt lilkom dak iż-żmien, niegħed: Ma nista' jien waħdi nġorr lilkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/1\/9-12.1792605210125.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jgħid ilktir lilkom f'dak iż-żmien: Jien waħdi ma nista' nieħu ⟨את⟩ lilkom ⟨fuq omieldi⟩.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "u għidt"
+      "gloss": "U jgħid ilktir"
     },
     {
       "surface": "אלכם",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "בעת",
-      "gloss": "dak"
+      "gloss": "f'dak iż-żmien"
     },
     {
       "surface": "ההוא",
-      "gloss": "iż-żmien"
+      "gloss": "dak"
     },
     {
       "surface": "לאמר",
-      "gloss": "niegħed"
+      "gloss": "biex ngħid"
     },
     {
       "surface": "לא",
@@ -62,14 +41,14 @@
     },
     {
       "surface": "שאת",
-      "gloss": "nġorr"
+      "gloss": "nieħu fuq omieldi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
-      "marks": "⟨את⟩ + lilkom (l-objett suffissat)"
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     }
   ],
-  "timestamp": "2026-10-21T17:53:30.125925312Z",
+  "timestamp": "2026-10-22T00:08:47.124538068Z",
   "model": "glm-5.3"
 }

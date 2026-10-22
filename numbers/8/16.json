@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נתנים נתנים",
-      "rationale": "id-duplikazzjoni bl-Infinitiv Absolut tenfża s-sħiħa tar-rigal; il-Malti iżomm ir-repetiżjoni 'mogħtija, mogħtija'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בכור",
-      "rationale": "'il-kbir' – aħjar milli 'l-ewwel imwieled' biex inżommu l-ħila ta' primazja tal-kelma"
-    }
-  ],
-  "translation": "Għax mogħtija, mogħtija huma għalija minn nofs ulied Jisrael, flok dak li jiftaħ kull ġoħ — il-kbir ta' kulmin hu ulied Jisrael — jiena ħadtlhom għalija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "11a7c9fb5da448de54b3da957ac50036381c3aa8c961806556f326303b052136",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/8\/13-16.1792602606196.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex mogħtija għal kollox huma mogħtija lilija minn fost il-wniem ta' Jisrael; flok dak li jiftaħ kull ġuf, il-kbir ta' wlied Jisrael kollha, jien ħadt ⟨את⟩ lilhom lili.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "נתנים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נתנים",
-      "gloss": "mogħtija"
+      "gloss": "mogħtija għal kollox"
     },
     {
       "surface": "המה",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "לי",
-      "gloss": "għalija"
+      "gloss": "lilija"
     },
     {
       "surface": "מתוך",
-      "gloss": "minn nofs"
+      "gloss": "minn fost"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "il-wniem"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "ta' Jisrael"
     },
     {
       "surface": "תחת",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "רחם",
-      "gloss": "ġoħ"
+      "gloss": "ġuf"
     },
     {
       "surface": "בכור",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "kulmin"
+      "gloss": "kollha"
     },
     {
       "surface": "מבני",
-      "gloss": "minn ulied"
+      "gloss": "ta' wlied"
     },
     {
       "surface": "ישראל",
@@ -94,18 +73,18 @@
     },
     {
       "surface": "לקחתי",
-      "gloss": "ħadtlhom"
+      "gloss": "ħadt"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "il-Leviti"
+      "marks": "lilhom"
     },
     {
       "surface": "לי",
-      "gloss": "għalija"
+      "gloss": "lili"
     }
   ],
-  "timestamp": "2026-10-21T17:10:06.199648022Z",
+  "timestamp": "2026-10-22T00:47:57.627636529Z",
   "model": "glm-5.3"
 }

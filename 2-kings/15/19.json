@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Hawn אתו mhuwiex il-markatur tal-oġġett (H853) izda l-prepożizzjoni את (H854) 'ma'', mibdula b' 'miegħu'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "elf kikar fidda",
-      "rationale": "Ħlas ta' ġbir: elf kikar ta' fidda lis-sultan ta' Assur."
-    },
-    {
-      "kind": "crux",
-      "subject": "Pul",
-      "rationale": "Pul ta' Assur — jekk huwa l-istess bħala Tiglat-Pileser III jew sultan ieħor, kwistjoni miftuħa fost l-istoriċi."
-    }
-  ],
-  "translation": "Ġie Pul sultan ta' Assur kontra l-art, u ta Menaħem lil Pul elf kikar ta' fidda, biex idejh ikunu miegħu biex isaħħaħ is-saltna f'idejh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a7eaf583d94d65f61c890bb6a731e8479538c4e185b43e15e6d5196f11368561",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/15\/17-20.1792610522321.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ġie Pul, re ta' Ashur, kontra l-art, u Menachem ta lil Pul elf talent ta' fidda, biex idu tkun ⟨את⟩ ⟨ma'⟩u biż-żomm is-saltna f'idejh.",
   "tokens": [
     {
       "surface": "בא",
-      "gloss": "ġie"
+      "gloss": "Ġie"
     },
     {
       "surface": "פול",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "sultan"
+      "gloss": "re"
     },
     {
       "surface": "אשור",
-      "gloss": "ta' Assur"
+      "gloss": "ta' Ashur"
     },
     {
       "surface": "על",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "מנחם",
-      "gloss": "Menaħem"
+      "gloss": "Menachem"
     },
     {
       "surface": "לפול",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ככר",
-      "gloss": "kikar"
+      "gloss": "talent"
     },
     {
       "surface": "כסף",
@@ -83,20 +57,20 @@
     },
     {
       "surface": "להיות",
-      "gloss": "biex ikunu"
+      "gloss": "biex tkun"
     },
     {
       "surface": "ידיו",
-      "gloss": "idejh"
+      "gloss": "idu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "miegħu"
+      "gloss": "⟨את⟩ ⟨ma'⟩u",
+      "marks": "idu"
     },
     {
       "surface": "להחזיק",
-      "gloss": "biex isaħħaħ"
+      "gloss": "biż-żomm"
     },
     {
       "surface": "הממלכה",
@@ -107,6 +81,6 @@
       "gloss": "f'idejh"
     }
   ],
-  "timestamp": "2026-10-21T19:22:02.324207343Z",
+  "timestamp": "2026-10-22T00:03:31.097438695Z",
   "model": "glm-5.3"
 }

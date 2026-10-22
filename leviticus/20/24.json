@@ -5,33 +5,11 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lil Israel",
-      "resolution": "wegħda u separazzjoni indirizzata lil Israel b'mod dirett",
-      "rationale": "Jaħwe jkellem lil Israel: 'Intom... lilkom... tagħkom'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תירשו\/לרשת",
-      "rationale": "għerq ירש doppju — intom toqtgħu u biex toqtogħtu — inżamm ir-repetizzjoni"
-    }
-  ],
-  "translation": "U għidtilkom: Intom toqtgħu ⟨את⟩ l-art tagħhom, u jiena nagħtiha lilkom biex toqtogħtuha, art tnixxi ħalib u għasel; jiena Jaħwe Elohim tagħkom, li sseparajt lilkom mill-popli.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/20\/21-24.1792601126362.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jgħid lilkom: Intom toħorġu ⟨את⟩ lill-arbl tagħhom, u jien nagħtiha lilkom biex toħorġuha ⟨את⟩ — art tgħarrex ħalib u għasel. Jien Jaħwe Elohim tagħkom, li firdejt lilkom mill-ġnus.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "U għidt"
+      "gloss": "u jgħid"
     },
     {
       "surface": "לכם",
@@ -39,24 +17,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "Intom"
+      "gloss": "intom"
     },
     {
       "surface": "תירשו",
-      "gloss": "toqtgħu"
+      "gloss": "toħorġu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-art tagħhom"
+      "marks": "lill-arbl tagħhom"
     },
     {
       "surface": "אדמתם",
-      "gloss": "l-art tagħhom"
+      "gloss": "lill-arbl tagħhom"
     },
     {
       "surface": "ואני",
-      "gloss": "u jiena"
+      "gloss": "u jien"
     },
     {
       "surface": "אתננה",
@@ -68,12 +46,12 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "biex toqtogħtuha"
+      "gloss": "biex toħorġuha"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "art tnixxi ħalib u għasel"
+      "marks": "art"
     },
     {
       "surface": "ארץ",
@@ -81,7 +59,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "tnixxi"
+      "gloss": "tgħarrex"
     },
     {
       "surface": "חלב",
@@ -93,7 +71,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "jiena"
+      "gloss": "jien"
     },
     {
       "surface": "יהוה",
@@ -109,7 +87,7 @@
     },
     {
       "surface": "הבדלתי",
-      "gloss": "sseparajt"
+      "gloss": "firdejt"
     },
     {
       "surface": "אתכם",
@@ -117,13 +95,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "minn"
+      "gloss": "mill"
     },
     {
       "surface": "העמים",
-      "gloss": "il-popli"
+      "gloss": "ġnus"
     }
   ],
-  "timestamp": "2026-10-21T16:45:26.363929401Z",
+  "timestamp": "2026-10-22T01:20:04.849640771Z",
   "model": "glm-5.3"
 }

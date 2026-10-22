@@ -5,49 +5,28 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "terafim",
-      "rationale": "תרפים kept as 'terafim': household idols\/images — translators split between 'idols', 'images', and transliteration."
-    },
-    {
-      "kind": "elision",
-      "subject": "ו",
-      "rationale": "Hebrew waw frames Rachel's theft as the next act while Laban is away; Maltese pluperfect 'kien mar' carries the overlap."
-    }
-  ],
-  "translation": "U Lavan kien mar jiġżż ⟨את⟩ in-nagħaġ u l-mogħoż tiegħu, u Rachell serqet ⟨את⟩ it-terafim li kienu ta' missierha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "448808e7e38ff01d675a9f145a877a90dad509ecfdadf6faea27717820a36d2e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/31\/18-20.1792602137979.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Laban mar jagħżż ⟨את⟩ in-nagħaġ u mogħoż tiegħu, u Raħel serqet ⟨את⟩ l-idoli tad-dar li kienu ta' missierha.",
   "tokens": [
     {
       "surface": "ולבן",
-      "gloss": "U Lavan"
+      "gloss": "U Laban"
     },
     {
       "surface": "הלך",
-      "gloss": "kien mar"
+      "gloss": "mar"
     },
     {
       "surface": "לגזז",
-      "gloss": "jiġżż"
+      "gloss": "jagħżż"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "in-nagħaġ u l-mogħoż tiegħu"
+      "marks": "in-nagħaġ u mogħoż tiegħu"
     },
     {
       "surface": "צאנו",
-      "gloss": "in-nagħaġ u l-mogħoż tiegħu"
+      "gloss": "in-nagħaġ u mogħoż tiegħu"
     },
     {
       "surface": "ותגנב",
@@ -55,16 +34,16 @@
     },
     {
       "surface": "רחל",
-      "gloss": "Rachell"
+      "gloss": "Raħel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-terafim"
+      "marks": "l-idoli tad-dar"
     },
     {
       "surface": "התרפים",
-      "gloss": "it-terafim"
+      "gloss": "l-idoli tad-dar"
     },
     {
       "surface": "אשר",
@@ -75,6 +54,6 @@
       "gloss": "ta' missierha"
     }
   ],
-  "timestamp": "2026-10-21T17:02:17.981859079Z",
+  "timestamp": "2026-10-22T00:22:07.682127094Z",
   "model": "glm-5.3"
 }

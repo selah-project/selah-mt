@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "in-negazzjoni tiddubla mal-verb"
-    },
-    {
-      "kind": "substitution",
-      "subject": "idoli",
-      "rationale": "גִּלּוּלִים letteralment 'ztunnijiet \/ blokok tondi' — kelma ta' mhebbża għall-idoli, imbagħad mifruxa għalihom kollha."
-    },
-    {
-      "kind": "alternative",
-      "subject": "tiġġemmux",
-      "rationale": "l-ewwel negazzjoni tista' tinħareg ukoll ma' 'tiġġemmux' biss mingħajr 'timxu' skont kif taqsam il-ġilda"
-    }
-  ],
-  "translation": "U għidt lil wliedhom fid-deżert: Fiċ-ċirkostanzi ta' missirijietkom tiġġemmux, u ⟨את⟩ ġudizzji tagħhom twaqqgħux, u bl-idoli tagħhom ma tistkerrx.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/20\/17-20.1792614514731.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għidt lil uliedhom fid-deżert: Fil-ħuqqijiet ta' missirijietkom morrx, u ⟨את⟩ l-ġudizzji tagħhom żommx, u ma tindifx bl-idoli tagħhom.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "בניהם",
-      "gloss": "wliedhom"
+      "gloss": "uliedhom"
     },
     {
       "surface": "במדבר",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "בחוקי",
-      "gloss": "fiċ-ċirkostanzi ta'"
+      "gloss": "fil-ħuqqijiet"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "missirijietkom"
+      "gloss": "ta' missirijietkom"
     },
     {
       "surface": "אל",
-      "gloss": "tiġġemmux"
+      "gloss": "morrx"
     },
     {
       "surface": "תלכו",
@@ -67,20 +41,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "ġudizzji tagħhom"
+      "gloss": "⟨את⟩",
+      "marks": "il-ġudizzji tagħhom"
     },
     {
       "surface": "משפטיהם",
-      "gloss": "ġudizzji tagħhom"
+      "gloss": "l-ġudizzji tagħhom"
     },
     {
       "surface": "אל",
-      "gloss": "twaqqgħux"
+      "gloss": "żommx"
     },
     {
       "surface": "תשמרו",
-      "gloss": "taraw"
+      "gloss": "tżomm"
     },
     {
       "surface": "ובגלוליהם",
@@ -91,10 +65,10 @@
       "gloss": "ma"
     },
     {
-      "surface": "tetma'ú",
-      "gloss": "tistkerrx"
+      "surface": "תטמאו",
+      "gloss": "tindifx"
     }
   ],
-  "timestamp": "2026-10-21T20:28:34.732553955Z",
+  "timestamp": "2026-10-22T00:16:20.347813658Z",
   "model": "glm-5.3"
 }

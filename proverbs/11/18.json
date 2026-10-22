@@ -5,23 +5,7 @@
   "book": "proverbs",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "verbi 'jieħu'",
-      "rationale": "l-Ebrajk għandu biss 'ħlas ta' verità' bla verb; il-Malti jeħtieġ 'jaqbad\/jieħu'"
-    }
-  ],
-  "translation": "Il-ħażin jaqbad ħlas ta' gidba, u min jżerr ⟨את⟩ it-tsedeq jieħu ħlas ta' verità.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e7f1dabe9583a0dd9bff57175df541ac91dc0defd0875cd49ed04434823b423a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/proverbs\/11\/17-20.1792618521607.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Il-ħażin jaħdem ħidma ta' gideb, u min jożra' tsedaqa, ħlas ta' verità.",
   "tokens": [
     {
       "surface": "רשע",
@@ -29,23 +13,23 @@
     },
     {
       "surface": "עשה",
-      "gloss": "jaqbad"
+      "gloss": "jaħdem"
     },
     {
       "surface": "פעלת",
-      "gloss": "ħlas"
+      "gloss": "ħidma"
     },
     {
       "surface": "שקר",
-      "gloss": "ta' gidba"
+      "gloss": "ta' gideb"
     },
     {
       "surface": "וזרע",
-      "gloss": "u min jżerr"
+      "gloss": "u min jożra'"
     },
     {
       "surface": "צדקה",
-      "gloss": "⟨את⟩ it-tsedeq"
+      "gloss": "tsedaqa"
     },
     {
       "surface": "שכר",
@@ -56,6 +40,6 @@
       "gloss": "ta' verità"
     }
   ],
-  "timestamp": "2026-10-21T21:35:21.608370036Z",
+  "timestamp": "2026-10-22T00:48:04.551758345Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "Hekk jaġrili Elohim u hekk iżid",
-      "rationale": "formula ta' ħalf Lhudija: 'hekk jaġrili Elohim' — il-Malti jżomm il-formola mhux tradott għal kastig"
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "il-ħalfa b'כי אם tifforma unità waħda ta' żwir 'jekk le', ma jispiċċax kelma għal kelma"
-    }
-  ],
-  "translation": "U ġie l-poplu kollu biex jagħti lil David ⟨את⟩ ħobż bi jiekol, waqt li kien għadu d-darba; imma David ħalef, u qal: Hekk jaġrili Elohim u hekk iżid, li qabel tinżel ix-xemx induqq ebda ħobż u lanqas ejgħed ħaġa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a59ff693caf11e6db52981e5a205b067d9fa7fd70b1a59fd06009a7d568bf9c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/3\/33-36.1792608605709.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġie il-poplu kollu biex jaħtrif lil David biħobż sakemm għadha d-darba ta' dakinhar, u David ħareġ il-ħalf jgħid: Hekk jaġmel għalija Elohim u hekk iżid, jekk mhux qabel ma tinżel ix-xemx nieduf ħobż jew x'imkien oħra.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "U ġie"
+      "gloss": "u ġie"
     },
     {
       "surface": "כל",
@@ -42,12 +21,12 @@
     },
     {
       "surface": "להברות",
-      "gloss": "biex jagħti... bi jiekol"
+      "gloss": "biex jaħtrif"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "David"
+      "marks": "lil David"
     },
     {
       "surface": "דוד",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "לחם",
-      "gloss": "ħobż"
+      "gloss": "biħobż"
     },
     {
       "surface": "בעוד",
-      "gloss": "waqt li kien għadu"
+      "gloss": "sakemm għadha"
     },
     {
       "surface": "היום",
-      "gloss": "d-darba"
+      "gloss": "id-darba ta' dakinhar"
     },
     {
       "surface": "וישבע",
-      "gloss": "imma ħalef"
+      "gloss": "u ħareġ il-ħalf"
     },
     {
       "surface": "דוד",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "u qal"
+      "gloss": "jgħid"
     },
     {
       "surface": "כה",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "jaġrili"
+      "gloss": "jaġmel"
     },
     {
       "surface": "לי",
-      "gloss": "li"
+      "gloss": "għalija"
     },
     {
       "surface": "אלהים",
@@ -99,19 +78,19 @@
     },
     {
       "surface": "יסיף",
-      "gloss": "izid"
+      "gloss": "iżid"
     },
     {
       "surface": "כי",
-      "gloss": "li"
+      "gloss": "jekk"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "mhux"
     },
     {
       "surface": "לפני",
-      "gloss": "qabel"
+      "gloss": "qabel ma"
     },
     {
       "surface": "בוא",
@@ -123,7 +102,7 @@
     },
     {
       "surface": "אטעם",
-      "gloss": "induqq"
+      "gloss": "nieduf"
     },
     {
       "surface": "לחם",
@@ -131,17 +110,17 @@
     },
     {
       "surface": "או",
-      "gloss": "u lanqas"
+      "gloss": "jew"
     },
     {
       "surface": "כל",
-      "gloss": "ejgħed"
+      "gloss": "kull"
     },
     {
       "surface": "מאומה",
-      "gloss": "ħaġa"
+      "gloss": "x'imkien oħra"
     }
   ],
-  "timestamp": "2026-10-21T18:50:05.710010347Z",
+  "timestamp": "2026-10-22T00:07:26.153771651Z",
   "model": "glm-5.3"
 }

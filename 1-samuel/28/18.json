@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חרון אפו",
-      "rationale": "litteralment 'il-ħruq ta' mneħiru' — idiom ta' għadab imsaħħaħ"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "על כן",
-      "rationale": "'għalhekk' — formula ta' konsegwenza li torbot il-ġudizzju ma' dnub Amaleq"
-    }
-  ],
-  "translation": "minħabba li ma smajtx fil-leħen ta' Jaħwe u ma għamiltx il-ħruq ta' għadabu kontra Amaleq; għalhekk Jaħwe għamlek dan il-kliem illum dan.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d1ec9e4d85d0d9496eb6be239ed05657996d7383be4652f1e7ad16daf600521f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/28\/17-20.1792608475833.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għaliex ma smajtx lejn il-leħen ta' Jaħwe, u ma għamiltx il-ħrara kbira ta' rabbu kontra Amaleq — għalhekk Jaħwe għamel lilek din il-ħaġa llum il-ġurnata.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "minħabba li"
+      "gloss": "għaliex"
     },
     {
       "surface": "לא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "fil-leħen"
+      "gloss": "lejn il-leħen"
     },
     {
       "surface": "יהוה",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "חרון",
-      "gloss": "il-ħruq"
+      "gloss": "il-ħrara kbira"
     },
     {
       "surface": "אפו",
-      "gloss": "ta' għadabu"
+      "gloss": "ta' rabbu"
     },
     {
       "surface": "בעמלק",
@@ -74,15 +53,15 @@
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "⟨għalhekk safa wieħed magħha⟩"
     },
     {
       "surface": "הדבר",
-      "gloss": "il-kliem"
+      "gloss": "din il-ħaġa"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "עשה",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "-ek"
+      "gloss": "lilek"
     },
     {
       "surface": "יהוה",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "illum"
+      "gloss": "llum il-ġurnata"
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     }
   ],
-  "timestamp": "2026-10-21T18:47:55.834477611Z",
+  "timestamp": "2026-10-22T00:00:04.943413086Z",
   "model": "glm-5.3"
 }

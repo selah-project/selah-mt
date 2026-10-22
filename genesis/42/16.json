@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתכם",
-      "rationale": "Hawn אתכם hija prepozizzjoni (H854) 'ma'', mhux l-oġġett dirett; żammejtha bħala ⟨את⟩ skont ir-regola."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "' Surely' — partiċella ta' enfasi wara l-ħalf, moħbija fit-ton Malti."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨hu⟩",
-      "rationale": "Kopula neqqaħ fil-Lhudi u meħtieġa bil-Malti: 'is-sewwa ⟨hu⟩ magħkom'."
-    }
-  ],
-  "translation": "Ibgħatu minnkom wieħed, u ħu jġib lil ⟨את⟩ ħuh; intkom tibqew marbuta, u jitrawwemu kliemkom jekk is-sewwa ⟨hu⟩ ⟨את⟩ magħkom; u jekk le, b'ħajja ta' Paroħ, spijuni intkom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/13-16.1792598952658.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ibgħatu minnkom wieħed, u ħa jieħu ⟨את⟩ lil ħuħkom, u intom toqogħdu marbutin, jitħarbtu kliemkom jekk hemm verità fkom; u jekk le — ħaj Faragħon! — għaliex spjjuni intom.",
   "tokens": [
     {
       "surface": "שלחו",
@@ -47,28 +21,28 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "u ħu jġib"
+      "gloss": "u ħa jieħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ħuh"
+      "marks": "ħuħkom"
     },
     {
       "surface": "אחיכם",
-      "gloss": "ħuh"
+      "gloss": "ħuħkom"
     },
     {
       "surface": "ואתם",
-      "gloss": "intkom"
+      "gloss": "u intom"
     },
     {
       "surface": "האסרו",
-      "gloss": "tibqew marbuta"
+      "gloss": "toqogħdu marbutin"
     },
     {
       "surface": "ויבחנו",
-      "gloss": "u jitrawwemu"
+      "gloss": "jitħarbtu"
     },
     {
       "surface": "דבריכם",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "האמת",
-      "gloss": "is-sewwa"
+      "gloss": "verità"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ magħkom"
+      "gloss": "⟨את⟩ fkom"
     },
     {
       "surface": "ואם",
@@ -92,25 +66,25 @@
     },
     {
       "surface": "חי",
-      "gloss": "b'ħajja"
+      "gloss": "ħaj"
     },
     {
       "surface": "פרעה",
-      "gloss": "ta' Paroħ"
+      "gloss": "Faragħon"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "għaliex"
     },
     {
       "surface": "מרגלים",
-      "gloss": "spijuni"
+      "gloss": "spjjuni"
     },
     {
       "surface": "אתם",
-      "gloss": "intkom"
+      "gloss": "intom"
     }
   ],
-  "timestamp": "2026-10-21T16:09:12.659680434Z",
+  "timestamp": "2026-10-22T01:20:55.324659286Z",
   "model": "glm-5.3"
 }

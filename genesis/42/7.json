@@ -5,46 +5,20 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "אתם hawn (H854, 'ma')') inħarġet bħala ⟨את⟩ għax il-magna tidentifikaha mal-את tad-dirett"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויכרם \/ ויתנכר",
-      "rationale": "l-istess għerq נכר: 'għarafhom' kontra 'ħaris għalihom bħala barrani' — it-twettieq tal-verb fih innifsu jintilef bil-Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "Minfejn ġejtu?",
-      "rationale": "indirizz dirett ta' Jusuf lil ħutu"
-    }
-  ],
-  "translation": "U Jusuf ra ⟨את⟩ lil ħutu u għarafhom, u ħaris għalihom bħala barrani, u kellemhom bil-qilla; u qalilhom: Minfejn ġejtu? U huma qalu: Mill-art ta' Kenaan, biex inxtru ikel.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/42\/5-8.1792598933979.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Josef ra lil ⟨את⟩ ħutu, u għarafhom, u għamel ruħu barrani għalihom, u kellem ⟨את⟩ lilhom b'ħeġġa, u qal lilhom: Minn fejn ġejtu? U qalgu: Mill-art ta' Kenaan, biex nxtru ⟨את⟩ l-ikel.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "u ra"
+      "gloss": "ra"
     },
     {
       "surface": "יוסף",
-      "gloss": "Jusuf"
+      "gloss": "Josef"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil ħutu"
+      "marks": "ħutu"
     },
     {
       "surface": "אחיו",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "ויכרם",
-      "gloss": "u għarafhom"
+      "gloss": "għarafhom"
     },
     {
       "surface": "ויתנכר",
-      "gloss": "u ħaris għalihom bħala barrani"
+      "gloss": "għamel ruħu barrani"
     },
     {
       "surface": "אליהם",
@@ -64,19 +38,20 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "u kellemhom"
+      "gloss": "kellem"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom"
     },
     {
       "surface": "קשות",
-      "gloss": "bil-qilla"
+      "gloss": "b'ħeġġa"
     },
     {
       "surface": "ויאמר",
-      "gloss": "u qal"
+      "gloss": "qal"
     },
     {
       "surface": "אלהם",
@@ -84,7 +59,7 @@
     },
     {
       "surface": "מאין",
-      "gloss": "minfejn"
+      "gloss": "minn fejn"
     },
     {
       "surface": "באתם",
@@ -92,7 +67,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "u qalu"
+      "gloss": "qalgu"
     },
     {
       "surface": "מארץ",
@@ -100,17 +75,17 @@
     },
     {
       "surface": "כנען",
-      "gloss": "ta' Kenaan"
+      "gloss": "Kenaan"
     },
     {
       "surface": "לשבר",
-      "gloss": "biex inxtru"
+      "gloss": "biex jixtru"
     },
     {
       "surface": "אכל",
       "gloss": "ikel"
     }
   ],
-  "timestamp": "2026-10-21T16:08:53.980843189Z",
+  "timestamp": "2026-10-22T00:23:22.739896409Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "rqad ma' missirietu",
-      "rationale": "וישכב עם אבתיו: eufemiżmu għall-mewt; litteral 'rqad ma' missirietu'."
-    },
-    {
-      "kind": "addition",
-      "subject": "sar",
-      "rationale": "Il-Malti jeħtieġ 'sar' għal וימלך, li il-Lhudi jżomm f'verb wieħed."
-    }
-  ],
-  "translation": "U Jihu rqad ma' missirietu, u difnuh f'Somron; u Jehoaħaz ibnu sar sultan minfloku.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d4a65046d5d9bfe5b61eec1ad7afd62f5d3b914658d7ae33c6cf18e9d026e998",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/10\/33-36.1792610391289.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jehu rqad ma' missirijietu, u difnuh ⟨את⟩ f'Xomron, u ħakim Jehoaħaz, ibnu, minfloku.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יהוא",
-      "gloss": "Jihu"
+      "gloss": "Jehu"
     },
     {
       "surface": "עם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "missirietu"
+      "gloss": "missirijietu"
     },
     {
       "surface": "ויקברו",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "f'Somron"
+      "gloss": "⟨את⟩",
+      "marks": "f'Xomron"
     },
     {
       "surface": "בשמרון",
-      "gloss": "f'Somron"
+      "gloss": "f'Xomron"
     },
     {
       "surface": "וימלך",
-      "gloss": "sar sultan"
+      "gloss": "u ħakim"
     },
     {
       "surface": "יהואחז",
@@ -74,6 +53,6 @@
       "gloss": "minfloku"
     }
   ],
-  "timestamp": "2026-10-21T19:19:51.290297888Z",
+  "timestamp": "2026-10-22T00:02:49.239227820Z",
   "model": "glm-5.3"
 }

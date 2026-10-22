@@ -5,29 +5,7 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וירע בעיניו",
-      "rationale": "litteralment 'u kien ħażin f'għajnejh' — idjom għal diżgust"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אתה",
-      "gloss-ha note": "",
-      "rationale": "אֹתָהּ hawnhekk hija pronom ('ha'), mhux il-markatur ta' oġġett את"
-    }
-  ],
-  "translation": "U Josef ra li missieru poġġa ideu tal-lemin fuq ras Efrajim, u ħa sabtu f'għajnejh, u żamm id missieru biex ineħħiha minn fuq ras Efrajim għal ras Menaxxe.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "21316c13a6af0a71331f53839085133eea8eac6eb22f71438c102d435895d6ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/48\/17-20.1792599101191.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U meta Jossif ra li missieru qiegħed idu l-leminija fuq ras Efrajm, ħadha ħażin f'għajnejh, u żamm id missieru biex ineħħi ⟨את⟩ minn fuq ras Efrajm għal ras Manasse.",
   "tokens": [
     {
       "surface": "וירא",
@@ -35,7 +13,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Josef"
+      "gloss": "Jossif"
     },
     {
       "surface": "כי",
@@ -43,7 +21,7 @@
     },
     {
       "surface": "ישית",
-      "gloss": "poġġa"
+      "gloss": "qiegħed"
     },
     {
       "surface": "אביו",
@@ -55,7 +33,7 @@
     },
     {
       "surface": "ימינו",
-      "gloss": "tal-lemin"
+      "gloss": "l-leminija"
     },
     {
       "surface": "על",
@@ -67,11 +45,11 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrajim"
+      "gloss": "Efrajm"
     },
     {
       "surface": "וירע",
-      "gloss": "ħa sabtu"
+      "gloss": "ħadha ħażin"
     },
     {
       "surface": "בעיניו",
@@ -79,7 +57,7 @@
     },
     {
       "surface": "ויתמך",
-      "gloss": "żamm"
+      "gloss": "u żamm"
     },
     {
       "surface": "יד",
@@ -95,7 +73,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ha"
+      "gloss": "⟨את⟩",
+      "marks": "id missieru"
     },
     {
       "surface": "מעל",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrajim"
+      "gloss": "Efrajm"
     },
     {
       "surface": "על",
@@ -119,9 +98,9 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaxxe"
+      "gloss": "Manasse"
     }
   ],
-  "timestamp": "2026-10-21T16:11:41.191992021Z",
+  "timestamp": "2026-10-22T00:24:32.333901015Z",
   "model": "glm-5.3"
 }

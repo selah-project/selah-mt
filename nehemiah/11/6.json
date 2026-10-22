@@ -5,52 +5,31 @@
   "book": "nehemiah",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kienu",
-      "rationale": "Hebrew verbless list; English\/Maltese requires a copula."
-    },
-    {
-      "kind": "measurement",
-      "subject": "468",
-      "rationale": "Census count of the clan of Peres in Jerusalem."
-    }
-  ],
-  "translation": "Kol ulied Peres li jgħixu f'Jeruŝalajim kienu erbaʾ mija u sittin u tmienja, irġiel taʾ ġejħ",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/nehemiah\/11\/5-8.1792621499278.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kull bin Feres li joqogħdu f'Jeruxalajim kienu erba' mija u sittin u tmienja, irġiel ta' ġid u ġlied.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Kol"
+      "gloss": "Kull"
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "bin"
     },
     {
       "surface": "פרץ",
-      "gloss": "Peres"
+      "gloss": "Feres"
     },
     {
       "surface": "הישבים",
-      "gloss": "li jgħixu"
+      "gloss": "li joqogħdu"
     },
     {
       "surface": "בירושלם",
-      "gloss": "f'Jeruŝalajim"
+      "gloss": "f'Jeruxalajim"
     },
     {
       "surface": "ארבע",
-      "gloss": "erbaʾ"
+      "gloss": "erba'"
     },
     {
       "surface": "מאות",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ששים",
-      "gloss": "sittin"
+      "gloss": "u sittin"
     },
     {
       "surface": "ושמנה",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "חיל",
-      "gloss": "taʾ ġejħ"
+      "gloss": "ta' ġid u ġlied"
     }
   ],
-  "timestamp": "2026-10-21T22:24:59.278842656Z",
+  "timestamp": "2026-10-22T00:43:26.008087408Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is-saltna",
-      "rationale": "il-Malti jeħtieġ isem għall-oġġett tal-mamla; il-Lhudi juża biss il-verb malak b'kawżattiv"
-    }
-  ],
-  "translation": "U ħadu l-poplu kollu ta' Jehuda ⟨את⟩ lil Uzzijaħ — u hu bin sittax sena — u tajh is-saltna minfloq missieru Amaqsjaħ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/26\/1-4.1792622670171.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħadu kolliet in-nies ta' Jehuda lil-Għizzijaħ — u hu ben sittax-il sena — u tajh is-saltna flok missieru Amasjaħ.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kolliet"
     },
     {
       "surface": "עם",
-      "gloss": "l-poplu"
+      "gloss": "in-nies"
     },
     {
       "surface": "יהודה",
@@ -41,12 +25,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ lil",
-      "marks": "Uzzijaħ"
+      "gloss": "⟨את⟩",
+      "marks": "lil-Għizzijaħ"
     },
     {
       "surface": "עזיהו",
-      "gloss": "Uzzijaħ"
+      "gloss": "Għizzijaħ"
     },
     {
       "surface": "והוא",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "ben"
     },
     {
       "surface": "שש",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "ax"
+      "gloss": "-ax-il"
     },
     {
       "surface": "שנה",
@@ -75,11 +59,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lu"
+      "marks": "flok missieru Amasjaħ"
     },
     {
       "surface": "תחת",
-      "gloss": "minfloq"
+      "gloss": "flok"
     },
     {
       "surface": "אביו",
@@ -87,9 +71,9 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amaqsjaħ"
+      "gloss": "Amasjaħ"
     }
   ],
-  "timestamp": "2026-10-21T22:44:30.171820794Z",
+  "timestamp": "2026-10-22T00:01:27.129078301Z",
   "model": "glm-5.3"
 }

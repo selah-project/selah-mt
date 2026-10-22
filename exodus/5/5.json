@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עם הארץ",
-      "rationale": "'il-poplu tal-art' traduzzjoni litterali; xi tradutturi jqisuh bħala klassi soċjali (klaħħara tal-art)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tagar",
-      "rationale": "מסבלות: it-tagar il-pesanti, ix-xogħol bil-pesi — mhux 'bordeli' ġenerali"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Mosè u Aron",
-      "rationale": "Paroħ jitkellem direttament ma' Mosè u Aron"
-    }
-  ],
-  "translation": "U Paroħ qal: Ara, ħafna huma d-daħxejn il-poplu tal-art, u intom qegħdtin twaqqfuhom mit-tagar tagħhom.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "beaed435ff82d16a56a11d1ffce13b6e48513607808c201db9f9b1f8e423f4da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/5\/5-8.1792599311061.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal Faragħon: Ara, issa huma ħafna nies l-art, u intom qed twaqqfuhom ⟨את⟩ mill-piżijiet tagħhom.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroħ"
+      "gloss": "Faragħon"
     },
     {
       "surface": "הן",
-      "gloss": "ara"
+      "gloss": "Ara"
     },
     {
       "surface": "רבים",
@@ -51,30 +25,30 @@
     },
     {
       "surface": "עתה",
-      "gloss": "d-daħxejn"
+      "gloss": "issa"
     },
     {
       "surface": "עם",
-      "gloss": "il-poplu"
+      "gloss": "nies"
     },
     {
       "surface": "הארץ",
-      "gloss": "tal-art"
+      "gloss": "l-art"
     },
     {
       "surface": "והשבתם",
-      "gloss": "u intom qegħdtin twaqqfuhom"
+      "gloss": "qed twaqqfuhom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "il-poplu"
+      "marks": " milli-piżijiet tagħhom"
     },
     {
       "surface": "מסבלתם",
-      "gloss": "mit-tagar tagħhom"
+      "gloss": "mill-piżijiet tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T16:15:11.061655545Z",
+  "timestamp": "2026-10-22T00:15:08.287213266Z",
   "model": "glm-5.3"
 }

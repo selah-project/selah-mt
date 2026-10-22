@@ -5,45 +5,24 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "imradded",
-      "rationale": "ענה 'humbled\/violated' — rendered with Maltese 'imradded' (brought low); some versions use 'failed\/afflicted'"
-    },
-    {
-      "kind": "you",
-      "subject": "lill-ilsien komuni",
-      "rationale": "the laws address Israel in the second person singular (tneħħi... nofsok), communal legal instruction"
-    }
-  ],
-  "translation": "toħorġuhom it-tnejn sal-bieb ta' dik il-belt, u tagħtihom il-ġebel u jmutu: ⟨את⟩ is-sabiħa għax ma għejxet fil-belt, u ⟨את⟩ ir-raġel għax imradded lil ⟨את⟩ martu ħamsu; u tneħħi l-ħażen minn nofsok.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f2829f5f6a2edff0ac3297e2d8d0ae1d249907aceb7521191e23b2d670c98a84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/22\/21-24.1792605767161.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U toħorġu ⟨את⟩ it-tnejn li huma għal bieb ta' dak il-belt, u tirgħuhom bil-ġebel u jmutu: ⟨את⟩ il-bint iż-żagħżugħa għaliex ma għajjatx fil-belt, u ⟨את⟩ lir-raġel għaliex umilja lil ⟨את⟩ mart ħudu; u teqred il-ħażen minn nofsek.",
   "tokens": [
     {
       "surface": "והוצאתם",
-      "gloss": "toħorġuhom"
+      "gloss": "u toħorġu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-tnejn"
+      "marks": "it-tnejn li huma"
     },
     {
       "surface": "שניהם",
-      "gloss": "it-tnejn"
+      "gloss": "it-tnejn li huma"
     },
     {
       "surface": "אל",
-      "gloss": "sal"
+      "gloss": "għal"
     },
     {
       "surface": "שער",
@@ -51,20 +30,20 @@
     },
     {
       "surface": "העיר",
-      "gloss": "ta' dik il-belt"
+      "gloss": "tal-belt"
     },
     {
       "surface": "ההוא",
-      "gloss": "dik"
+      "gloss": "dak"
     },
     {
       "surface": "וסקלתם",
-      "gloss": "u tagħtihom il-ġebel"
+      "gloss": "u tirgħuhom"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tagħtihom"
+      "marks": "lil dawn it-tnejn"
     },
     {
       "surface": "באבנים",
@@ -77,19 +56,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-sabiħa"
+      "marks": "il-bint iż-żagħżugħa"
     },
     {
       "surface": "הנער",
-      "gloss": "is-sabiħa"
+      "gloss": "il-bint iż-żagħżugħa"
     },
     {
       "surface": "על",
-      "gloss": "għax"
+      "gloss": "għaliex"
     },
     {
       "surface": "דבר",
-      "gloss": "għal"
+      "gloss": "għal-dwar"
     },
     {
       "surface": "אשר",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "צעקה",
-      "gloss": "għejxet"
+      "gloss": "għajjatx"
     },
     {
       "surface": "בעיר",
@@ -110,7 +89,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ir-raġel"
+      "marks": "lir-raġel"
     },
     {
       "surface": "האיש",
@@ -118,11 +97,11 @@
     },
     {
       "surface": "על",
-      "gloss": "għax"
+      "gloss": "għal-dwar"
     },
     {
       "surface": "דבר",
-      "gloss": "għal"
+      "gloss": "għal-dwar"
     },
     {
       "surface": "אשר",
@@ -130,12 +109,12 @@
     },
     {
       "surface": "ענה",
-      "gloss": "imradded"
+      "gloss": "umilja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "martu"
+      "marks": "mart"
     },
     {
       "surface": "אשת",
@@ -143,21 +122,21 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "ħamsu"
+      "gloss": "ħudu"
     },
     {
       "surface": "ובערת",
-      "gloss": "u tneħħi"
+      "gloss": "u teqred"
     },
     {
       "surface": "הרע",
-      "gloss": "l-ħażen"
+      "gloss": "il-ħażen"
     },
     {
       "surface": "מקרבך",
-      "gloss": "minn nofsok"
+      "gloss": "minn nofsek"
     }
   ],
-  "timestamp": "2026-10-21T18:02:47.163286606Z",
+  "timestamp": "2026-10-22T00:10:03.289043503Z",
   "model": "glm-5.3"
 }

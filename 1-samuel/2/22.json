@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את הנשים",
-      "rationale": "hawn את hu prepożizzjoni (imdejqa ma'), mhux is-sinjal tal-ogġett; mhux immarkat b'⟨את⟩."
-    },
-    {
-      "kind": "crux",
-      "subject": "הצבאות",
-      "rationale": "'in-nisa mqiegħda fil-bqija' (li jservu quddiem it-tinda) vs 'il-ħaddiema' — l-istess għerq ta' צבא, ġemgħa ta' min iservi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "זקן מאד",
-      "rationale": "'kiber fl-età ħafna' — il-verb żqn jfisser 'sar xiħ', mhux sempliċement agġettiv."
-    }
-  ],
-  "translation": "U Eli kiber ħafna fil-ġilda, u sema' ⟨את⟩ kollma kienu jagħmlu uliedu lil koll Jisrael, u ⟨את⟩ dak kienu jorqdu man-nisa li jqiegħdu fil-bqija quddiem il-bibien tat-tinda tal-laqgħa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/2\/21-24.1792607658241.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Eli kien ixih ħafna, u sema' ⟨את⟩ kull ⟨את⟩ ma kienu jagħmlu uliedu lil kollha Jisrael, u ⟨את⟩ li kienu jorqdu man-nisa li kienu jaqdu fil-bieb tat-Tenda tal-Laqgħa.",
   "tokens": [
     {
       "surface": "ועלי",
-      "gloss": "u Eli"
+      "gloss": "U Eli"
     },
     {
       "surface": "זקן",
-      "gloss": "kiber fl-età"
+      "gloss": "kien ixih"
     },
     {
       "surface": "מאד",
@@ -52,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kollma kienu jagħmlu uliedu"
+      "marks": "kull ma kienu jagħmlu uliedu"
     },
     {
       "surface": "כל",
-      "gloss": "kollma"
+      "gloss": "kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "ma"
     },
     {
       "surface": "יעשון",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "lil koll"
+      "gloss": "lil kollha"
     },
     {
       "surface": "ישראל",
@@ -81,41 +55,41 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "dak kienu jorqdu man-nisa"
+      "marks": "li kienu jorqdu man-nisa"
     },
     {
       "surface": "אשר",
-      "gloss": "dak li"
+      "gloss": "li"
     },
     {
       "surface": "ישכבון",
-      "gloss": "kienu jorqdu ma'"
+      "gloss": "kienu jorqdu"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'"
+      "gloss": "⟨את⟩ ma"
     },
     {
       "surface": "הנשים",
-      "gloss": "in-nisa"
+      "gloss": "n-nisa"
     },
     {
       "surface": "הצבאות",
-      "gloss": "li jqiegħdu fil-bqija"
+      "gloss": "li kienu jaqdu"
     },
     {
       "surface": "פתח",
-      "gloss": "quddiem il-bibien"
+      "gloss": "fil-bieb"
     },
     {
       "surface": "אהל",
-      "gloss": "tat-tinda"
+      "gloss": "tat-Tenda"
     },
     {
       "surface": "מועד",
-      "gloss": "tal-laqgħa"
+      "gloss": "tal-Laqgħa"
     }
   ],
-  "timestamp": "2026-10-21T18:34:18.242612267Z",
+  "timestamp": "2026-10-21T23:59:05.469863575Z",
   "model": "glm-5.3"
 }

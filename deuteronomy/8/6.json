@@ -5,36 +5,20 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יראה",
-      "rationale": "'tbżagħ' (fear) vs 'tirrispetta' (revere); the Hebrew holds both awe and dread"
-    }
-  ],
-  "translation": "U tonqos għandek ⟨את⟩ il-mitzvot ta' Jaħwe Elohim tiegħek, biex timxi fi triqatu u tbżagħh.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/8\/5-8.1792605461466.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tożomm ⟨את⟩ il-komandamenti ta' Jaħwe Elohim tiegħek, timxi fi triqatu, u tibża' ⟨את⟩ ⟨minnu⟩.",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "tonqos għandek"
+      "gloss": "U tożomm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-mitzvot"
+      "marks": "il-komandimenti"
     },
     {
       "surface": "מצות",
-      "gloss": "il-mitzvot"
+      "gloss": "il-komandimenti"
     },
     {
       "surface": "יהוה",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "biex timxi"
+      "gloss": "timxi"
     },
     {
       "surface": "בדרכיו",
@@ -54,14 +38,13 @@
     },
     {
       "surface": "וליראה",
-      "gloss": "u tbżagħh"
+      "gloss": "u tibża'"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "(lil Jaħwe — oġġett ta' tbżigħ)"
+      "gloss": "⟨את⟩ ⟨minnu⟩"
     }
   ],
-  "timestamp": "2026-10-21T17:57:41.467115939Z",
+  "timestamp": "2026-10-22T00:11:37.454156632Z",
   "model": "glm-5.3"
 }

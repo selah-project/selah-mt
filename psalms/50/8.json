@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "għax",
-      "rationale": "il-Lhudi għandu biss ו (u) qabel ועולתיך; il-Malti jaqra l-clause bħala ġustifikazzjoni, mhux sempliċiment 'u'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "olocausti",
-      "rationale": "עלה litteralment 'dak li jitla'', offerta maħruqa kollha; kelma teknikali Semitika tal-qima."
-    }
-  ],
-  "translation": "Mhux minħabba f'żbibgħattek nirreprimandyak, għax olocausti tiegħek quddiem il-Madwarna dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/50\/5-8.1792617130439.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mhux għal żbibħiekk nagħtik il-ħaġa miegħek, u l-olot tiegħek quddiemni dejjem.",
   "tokens": [
     {
       "surface": "לא",
@@ -34,29 +13,29 @@
     },
     {
       "surface": "על",
-      "gloss": "minħabba f'"
+      "gloss": "għal"
     },
     {
       "surface": "זבחיך",
-      "gloss": "żbibgħattek"
+      "gloss": "żbibħiekk"
     },
     {
       "surface": "אוכיחך",
-      "gloss": "nirreprimandyak"
+      "gloss": "nagħtik il-ħaġa miegħek"
     },
     {
       "surface": "ועולתיך",
-      "gloss": "għax olocausti tiegħek"
+      "gloss": "u l-olot tiegħek"
     },
     {
       "surface": "לנגדי",
-      "gloss": "quddiem il-Madwarna"
+      "gloss": "quddiemni"
     },
     {
       "surface": "תמיד",
       "gloss": "dejjem"
     }
   ],
-  "timestamp": "2026-10-21T21:12:10.440594374Z",
+  "timestamp": "2026-10-22T00:50:13.940427772Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hemm",
-      "rationale": "l-arranġament Malti jeħtieġ 'hemm' għal אתו 'miegħu'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "b'emet",
-      "rationale": "אמת tfisser stabbiltà, ċertezza — 'fidelment' huwa rwol, mhux il-forma"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תבן\/בר",
-      "rationale": "teben u qamħ: il-kuntrast bejn il-ħlejqa fqira u l-ħaġa nnifsa, għajduna fil-paralleliżmu"
-    }
-  ],
-  "translation": "Il-profeta li miegħu hemm ħolm, jaqra l-ħolm; u lil min hemm kliemi, jieklem b'emet ⟨את⟩ kliemi. X'għand it-teben ma' ⟨את⟩ l-qamħ? jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "016de771a36bc901002696da2031e88dd62ff2d51a07d50c2656e2c1af412b3e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/23\/28-28.1792623532814.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Il-profeta li għandu ⟨את⟩ ħolma, jgħid il-ħolma; u li għandu ⟨את⟩ il-kelma tiegħi, jitkellem bil-kelma tiegħi bis-sewwa. X'għand x'jaqsam it-teben ma' ⟨את⟩ l-qamħ? — jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "הנביא",
@@ -43,49 +17,47 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "miegħu (l-ħolm)"
+      "gloss": "⟨את⟩ għandu"
     },
     {
       "surface": "חלום",
-      "gloss": "ħolm"
+      "gloss": "ħolma"
     },
     {
       "surface": "יספר",
-      "gloss": "jaqra"
+      "gloss": "jgħid"
     },
     {
       "surface": "חלום",
-      "gloss": "l-ħolm"
+      "gloss": "il-ħolma"
     },
     {
       "surface": "ואשר",
-      "gloss": "u lil min"
+      "gloss": "u li"
     },
     {
       "surface": "דברי",
-      "gloss": "kliemi"
+      "gloss": "il-kelma tiegħi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "miegħu (il-kelma)"
+      "gloss": "⟨את⟩ għandu"
     },
     {
       "surface": "ידבר",
-      "gloss": "jieklem"
+      "gloss": "jitkellem"
     },
     {
       "surface": "דברי",
-      "gloss": "⟨את⟩ kliemi"
+      "gloss": "bil-kelma tiegħi"
     },
     {
       "surface": "אמת",
-      "gloss": "b'emet"
+      "gloss": "bis-sewwa"
     },
     {
       "surface": "מה",
-      "gloss": "x'għand"
+      "gloss": "x'għand x'jaqsam"
     },
     {
       "surface": "לתבן",
@@ -109,6 +81,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T22:58:52.815404182Z",
+  "timestamp": "2026-10-22T00:28:32.936088270Z",
   "model": "glm-5.3"
 }

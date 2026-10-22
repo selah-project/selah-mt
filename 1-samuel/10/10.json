@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ħabel",
-      "rationale": "חבל litteralment 'ħabel\/ħajt tal-kejl', hawn 'grupp' — il-figura tal-ħabel mitluq ntilfet"
-    },
-    {
-      "kind": "crux",
-      "subject": "ותצלח",
-      "rationale": "'saħnet\/qabdet bil-qawwa' (tżalah) kontra 'għaddiet'; verżjonijiet jiddibattu l-qawwa tal-verb"
-    }
-  ],
-  "translation": "U waslu hemm għal il-Għiba, u arahems, ħabel ta' profeti jiltaqgħu miegħu; u saħnet fuqu ruwaħ Elohim, u beda jipprofetizza fosthom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/10\/9-12.1792607772715.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġew hemm lejn il-Gibʿa, u arah, grupp ta' profeta tilqgħu, u r-ruwaħ ta' Elohim ċċirkolat fuqu b'saħħa, u beda jipprofetizza fosthom.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "U waslu"
+      "gloss": "u ġew"
     },
     {
       "surface": "שם",
@@ -38,27 +17,27 @@
     },
     {
       "surface": "הגבעתה",
-      "gloss": "għal il-Għiba"
+      "gloss": "lejn il-Gibʿa"
     },
     {
       "surface": "והנה",
-      "gloss": "uarahems"
+      "gloss": "u arah"
     },
     {
       "surface": "חבל",
-      "gloss": "ħabel"
+      "gloss": "grupp"
     },
     {
       "surface": "נבאים",
-      "gloss": "ta' profeti"
+      "gloss": "ta' profeta"
     },
     {
       "surface": "לקראתו",
-      "gloss": "jiltaqgħu miegħu"
+      "gloss": "tilqgħu"
     },
     {
       "surface": "ותצלח",
-      "gloss": "u saħnet"
+      "gloss": "ċċirkolat b'saħħa"
     },
     {
       "surface": "עליו",
@@ -66,22 +45,21 @@
     },
     {
       "surface": "רוח",
-      "gloss": "ruwaħ"
+      "gloss": "r-ruwaħ"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "ta' Elohim"
     },
     {
       "surface": "ויתנבא",
       "gloss": "u beda jipprofetizza"
     },
     {
-      "surface": "בתomם",
-      "gloss": "fosthom",
-      "surface_alt": "בתוכם"
+      "surface": "בתוכם",
+      "gloss": "fosthom"
     }
   ],
-  "timestamp": "2026-10-21T18:36:12.716137510Z",
+  "timestamp": "2026-10-21T23:58:31.300601633Z",
   "model": "glm-5.3"
 }

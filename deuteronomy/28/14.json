@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "allat oħra",
-      "rationale": "אלהים אחרים fl-plural — 'allat' b'ittra żgħira għall-allat tal-ġnus, mhux Elohim."
-    },
-    {
-      "kind": "idiom",
-      "subject": "lemin jew xellug",
-      "rationale": "מימין ומשמאול — idjoma ta' devjazzjoni, miżmuma litteralment."
-    }
-  ],
-  "translation": "u ma teċirtx minn kelma waħda mill-kliem li jien nordnilkom illum, lemin jew xellug, biex tmorru wara allat oħra biex tservuhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/28\/13-16.1792605981499.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ma teddix ’l bogħod minn kliem kollha li jien qiegħed nikkmanda ⟨את⟩ lilkom illum, lemin jew xellug, biex timxu wara allat oħrajn biex tqimgħuhom.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "תסור",
-      "gloss": "teċirtx"
+      "gloss": "teddix ’l bogħod"
     },
     {
       "surface": "מכל",
-      "gloss": "minn kelma waħda mill-"
+      "gloss": "minn kollha"
     },
     {
       "surface": "הדברים",
-      "gloss": "kliem"
+      "gloss": "il-kliem"
     },
     {
       "surface": "אשר",
@@ -54,11 +33,12 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "nordni"
+      "gloss": "qiegħed nikkmanda"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom"
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     },
     {
       "surface": "היום",
@@ -74,11 +54,11 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "biex tmorru"
+      "gloss": "biex timxu"
     },
     {
       "surface": "אחרי",
-      "gloss": "wara"
+      "gloss": "warà"
     },
     {
       "surface": "אלהים",
@@ -86,13 +66,13 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "oħra"
+      "gloss": "oħrajn"
     },
     {
       "surface": "לעבדם",
-      "gloss": "biex tservuhom"
+      "gloss": "biex tqimgħuhom"
     }
   ],
-  "timestamp": "2026-10-21T18:06:21.500827069Z",
+  "timestamp": "2026-10-22T00:10:09.745014065Z",
   "model": "glm-5.3"
 }

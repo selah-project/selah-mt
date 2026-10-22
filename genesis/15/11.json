@@ -5,31 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "וישב",
-      "rationale": "għerq 'nierġa' lura \/ nkeċċi' — 'keċċahom' jaqbad l-għaqda; il-Lhudi litteralment 'għamelhom jirritiraw'."
-    }
-  ],
-  "translation": "U niżel l-għasfur tal-ħela fuq l-iġsma mejta, u Avram keċċahom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/15\/9-12.1792602177253.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U niżel l-għasfur tal-priża fuq il-ġisem mejjet, u Avraham ġegħluhom jerġgħu jmorru.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "U niżel"
+      "gloss": "u niżel"
     },
     {
       "surface": "העיט",
-      "gloss": "l-għasfur tal-ħela"
+      "gloss": "l-għasfur tal-priża"
     },
     {
       "surface": "על",
@@ -37,21 +21,22 @@
     },
     {
       "surface": "הפגרים",
-      "gloss": "l-iġsma mejta"
+      "gloss": "il-ġisem mejjet"
     },
     {
       "surface": "וישב",
-      "gloss": "keċċa"
+      "gloss": "ġegħluhom jerġgħu jmorru"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "l-għasfur tal-priża (lill-għasafar)"
     },
     {
       "surface": "אברם",
-      "gloss": "Avram"
+      "gloss": "Avraham"
     }
   ],
-  "timestamp": "2026-10-21T17:02:57.256270261Z",
+  "timestamp": "2026-10-22T00:20:35.435704329Z",
   "model": "glm-5.3"
 }

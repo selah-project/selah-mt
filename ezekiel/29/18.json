@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Iben bniedem",
-      "rationale": "Direct address to the prophet Eżekjel."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mċaħħda",
-      "rationale": "מקרח 'depilated' — head made bald from carrying siege-work loads; 'mċaħħda' keeps the picture."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבד\/עבודה",
-      "rationale": "Root עבד repeated four times in the verse: serve, service, service, served — the slavery of labour."
-    }
-  ],
-  "translation": "Iben bniedem, Nevukadnessar sultan ta' Babilon ħalla lil ġejħu jagħmel ħidma kbira kontra Sur: kull ras għadha mċaħħda u kull spalla mħassra; u paga ma kienx hemm għalih u lanqas għal ġejħu minn Sur, għall-ħidma li ħadem kontriha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "920dd2beb7fd0cc6e76fe4754d3d1fa7171c8cac9ecafd2f423f400ba8478bdf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/29\/17-20.1792614807826.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iben ⟨il-⟩bniedem, Nevukadretsar sultan ta' Babilon għamel ⟨את⟩ l-eżerċitu tiegħu jaħdem xogħol kbir kontra Sor; kull ras saret moċbra u kull spalla saret mgħoggija; u ħlas ma kienx hemm għalih u għal-eżerċitu tiegħu minn Sor, għax-xogħol li għamel fuqha.",
   "tokens": [
     {
       "surface": "בן",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אדם",
-      "gloss": "bniedem"
+      "gloss": "⟨il-⟩bniedem"
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nevukadnessar"
+      "gloss": "Nevukadretsar"
     },
     {
       "surface": "מלך",
@@ -55,24 +29,24 @@
     },
     {
       "surface": "העביד",
-      "gloss": "ħalla... jagħmel"
+      "gloss": "għamel jaħdem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil ġejħu"
+      "marks": "l-eżerċitu tiegħu"
     },
     {
       "surface": "חילו",
-      "gloss": "ġejħu"
+      "gloss": "l-eżerċitu tiegħu"
     },
     {
       "surface": "עבדה",
-      "gloss": "ħidma"
+      "gloss": "xogħol"
     },
     {
       "surface": "גדלה",
-      "gloss": "kbira"
+      "gloss": "kbir"
     },
     {
       "surface": "אל",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "צר",
-      "gloss": "Sur"
+      "gloss": "Sor"
     },
     {
       "surface": "כל",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "מקרח",
-      "gloss": "mċaħħda"
+      "gloss": "moċbra"
     },
     {
       "surface": "וכל",
@@ -104,19 +78,19 @@
     },
     {
       "surface": "מרוטה",
-      "gloss": "mħassra"
+      "gloss": "mgħoggija"
     },
     {
       "surface": "ושכר",
-      "gloss": "u paga"
+      "gloss": "u ħlas"
     },
     {
       "surface": "לא",
-      "gloss": "ma kienx hemm"
+      "gloss": "ma...xejn"
     },
     {
       "surface": "היה",
-      "gloss": ""
+      "gloss": "kien"
     },
     {
       "surface": "לו",
@@ -124,19 +98,19 @@
     },
     {
       "surface": "ולחילו",
-      "gloss": "u lanqas għal ġejħu"
+      "gloss": "u għal-eżerċitu tiegħu"
     },
     {
       "surface": "מצר",
-      "gloss": "minn Sur"
+      "gloss": "minn Sor"
     },
     {
       "surface": "על",
-      "gloss": "għall"
+      "gloss": "għal"
     },
     {
       "surface": "העבדה",
-      "gloss": "ħidma"
+      "gloss": "ix-xogħol"
     },
     {
       "surface": "אשר",
@@ -144,13 +118,13 @@
     },
     {
       "surface": "עבד",
-      "gloss": "ħadem"
+      "gloss": "għamel"
     },
     {
       "surface": "עליה",
-      "gloss": "kontriha"
+      "gloss": "fuqha"
     }
   ],
-  "timestamp": "2026-10-21T20:33:27.827847870Z",
+  "timestamp": "2026-10-22T00:17:53.335855332Z",
   "model": "glm-5.3"
 }

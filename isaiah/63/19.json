@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 63,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "היינו מעולם",
-      "rationale": "'sirna bħal dawk li minn dejjem (ma ħakmitek fuqhom)' vs KJV 'aħna tiegħek'; il-preżent tal-lamenta tqiesdhom bħala mhux magħrufa."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לוא",
-      "rationale": "Partiċella tal-ħeġġa: 'Kemm jkun li...' għall-ewġettiv illa Jaħwe joħroġ is-smewwiet."
-    },
-    {
-      "kind": "you",
-      "subject": "lit-talba",
-      "rationale": "Indirizz dirett lil Jaħwe b'.tbiba għal intervenzjoni."
-    }
-  ],
-  "translation": "Sirna qisu qatt ma ħakmit fuħna, u qatt ma nsejjaħ ismek fuħna. Kemm jkun li ħrijt is-smewwiet u niżilt, biex il-muntanji jżolu minn quddiemek!",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/63\/17-19.1792612169082.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sirna bħal minn qabel: m'inti qatt ħakmt fuqhom, u ismek ma nsejjaħx fuqhom. Li kiekuċċart is-smewwiet, kienet tinżel — minn quddiemek l-igħol inħallew.",
   "tokens": [
     {
       "surface": "היינו",
-      "gloss": "Sirna"
+      "gloss": "sirna"
     },
     {
       "surface": "מעולם",
-      "gloss": "qisu qatt"
+      "gloss": "minn qabel"
     },
     {
       "surface": "לא",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "משלת",
-      "gloss": "ħakmit"
+      "gloss": "ħakmt"
     },
     {
       "surface": "בם",
-      "gloss": "fuħna"
+      "gloss": "fuqhom"
     },
     {
       "surface": "לא",
-      "gloss": "qatt ma"
+      "gloss": "ma"
     },
     {
       "surface": "נקרא",
-      "gloss": "nsejjaħ"
+      "gloss": "nsejjaħx"
     },
     {
       "surface": "שמך",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "fuħna"
+      "gloss": "fuqhom"
     },
     {
       "surface": "לוא",
-      "gloss": "Kemm jkun li"
+      "gloss": "li kieku"
     },
     {
       "surface": "קרעת",
-      "gloss": "ħrijt"
+      "gloss": "ċċart"
     },
     {
       "surface": "שמים",
@@ -83,21 +57,21 @@
     },
     {
       "surface": "ירדת",
-      "gloss": "niżilt"
+      "gloss": "kienet tinżel"
     },
     {
-      "surface": "mפניך",
+      "surface": "מפניך",
       "gloss": "minn quddiemek"
     },
     {
       "surface": "הרים",
-      "gloss": "il-muntanji"
+      "gloss": "l-igħol"
     },
     {
       "surface": "נזלו",
-      "gloss": "jżolu"
+      "gloss": "inħallew"
     }
   ],
-  "timestamp": "2026-10-21T19:49:29.083915033Z",
+  "timestamp": "2026-10-22T00:26:52.259767723Z",
   "model": "glm-5.3"
 }

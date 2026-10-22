@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זנה",
-      "rationale": "għerq זנה (zna\/zanna) jidher darbtejn fil-vers — il-qalb u l-għajnejn — ripetizzjoni retorika li qariba tagħha tibqa' biss fil-ħoss."
-    },
-    {
-      "kind": "crux",
-      "subject": "נשברתי",
-      "rationale": "Niphal first person: 'inkisrt' (jien dvielt\/inkisrt) kontra traduzzjonijiet li jirrelattaw 'grieved' (JPS, BSB) jew 'I have broken' — il-verb jibqa' passiv, dwar Jaħwe nnifsu."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בפניהם",
-      "rationale": "litteralment 'fi wċcuhom' — idjomm Ebrajk għal 'lilhom infushom', miżmum litteralment."
-    }
-  ],
-  "translation": "U dawk li jifsħu minnkom jiftakru ⟨את⟩ lili fost il-ġnus fejn ntbagħtu hemm, għaliex inkisrt ⟨את⟩ qalbhom iz-zannija li daret minn fuqi, u ⟨את⟩ għajnejhom iz-zannija wara l-idoli tagħhom; u jistmerru fi wċcuhom il-ħażar li għamlu, għal kull abominazzjoni tagħhom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b7b6dc33cfc3d92e724979e52220827db6580521a35954bb460169b90a3a0de3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/6\/9-12.1792614163198.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U dawk li jistgħaddu minnkom jiftakru ⟨את⟩ lili fost in-nazzjonijiet fejn ġew mġarrba hemm, li jiena inksert ⟨את⟩ qalbhom, il-qalb li żniet, li ttieħdet minni, u ⟨את⟩ għajnejhom, li kienu jżennu wara l-għżuliet tagħhom; u jistmerru lilhom infushom f'wċċhom għall-ħażin li għamlu, għal kull għeġubijiet tagħhom.",
   "tokens": [
     {
       "surface": "וזכרו",
@@ -39,15 +13,16 @@
     },
     {
       "surface": "פליטיכם",
-      "gloss": "dawk li jifsħu minnkom"
+      "gloss": "dawk li jistgħaddu minnkom"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ lili"
+      "gloss": "⟨את⟩ lili",
+      "marks": "fost in-nazzjonijiet"
     },
     {
       "surface": "בגוים",
-      "gloss": "fost il-ġnus"
+      "gloss": "fost in-nazzjonijiet"
     },
     {
       "surface": "אשר",
@@ -55,7 +30,7 @@
     },
     {
       "surface": "נשבו",
-      "gloss": "ntbagħtu ta' priġunieri"
+      "gloss": "ġew mġarrba"
     },
     {
       "surface": "שם",
@@ -63,11 +38,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "għaliex"
+      "gloss": "li"
     },
     {
       "surface": "נשברתי",
-      "gloss": "inkisrt"
+      "gloss": "inksert"
     },
     {
       "surface": "את",
@@ -80,7 +55,7 @@
     },
     {
       "surface": "הזונה",
-      "gloss": "iz-zannija"
+      "gloss": "li żniet"
     },
     {
       "surface": "אשר",
@@ -88,15 +63,15 @@
     },
     {
       "surface": "סר",
-      "gloss": "daret"
+      "gloss": "ttieħdet"
     },
     {
       "surface": "מעלי",
-      "gloss": "minn fuqi"
+      "gloss": "minni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "u ⟨את⟩",
       "marks": "għajnejhom"
     },
     {
@@ -105,7 +80,7 @@
     },
     {
       "surface": "הזנות",
-      "gloss": "iz-zannija"
+      "gloss": "li kienu jżennu"
     },
     {
       "surface": "אחרי",
@@ -113,23 +88,23 @@
     },
     {
       "surface": "גלוליהם",
-      "gloss": "l-idoli tagħhom"
+      "gloss": "l-għżuliet tagħhom"
     },
     {
       "surface": "ונקטו",
-      "gloss": "u jistmerru"
+      "gloss": "u jistmerru lilhom infushom"
     },
     {
       "surface": "בפניהם",
-      "gloss": "fi wċcuhom"
+      "gloss": "f'wċċhom"
     },
     {
       "surface": "אל",
-      "gloss": "għal"
+      "gloss": "għall-"
     },
     {
       "surface": "הרעות",
-      "gloss": "il-ħażar"
+      "gloss": "il-ħażin"
     },
     {
       "surface": "אשר",
@@ -145,9 +120,9 @@
     },
     {
       "surface": "תועבתיהם",
-      "gloss": "abominazzjoni tagħhom"
+      "gloss": "għeġubijiet tagħhom"
     }
   ],
-  "timestamp": "2026-10-21T20:22:43.199315636Z",
+  "timestamp": "2026-10-22T00:20:12.144637195Z",
   "model": "glm-5.3"
 }

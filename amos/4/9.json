@@ -5,86 +5,60 @@
   "book": "amos",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הרבות",
-      "rationale": "'L-abbondanza' (bħal YLT\/ASV) kontra KJV 'meta tkabbret' — il-Lhudi jgħid 'il-ġmiel ta' ġonna u ktajjen ħataf il-ġurat'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שדפון\/ירקון",
-      "rationale": "Żewġ mard tal-pjanti: xidd (blighting) u rimett (mildew); m'hemmx termini Maltin tekniċi eżatti."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שבתם עדי",
-      "rationale": "Ir-repetizzjoni ta' 'u ma rgajtux għandi, jgħid Jaħwe' fi kull vers 6–11 tinżamm b'mod identiku."
-    }
-  ],
-  "translation": "Ħrastkom bil-ħmieġ tax-xidd u bir-rimett; l-abbondanza tal-ġonna tagħkom u tal-ktajjen tagħkom u tas-siġar tat-tin tagħkom u taż-żebbuġ tagħkom kielha l-ġurat; u ma rgajtux għandi, jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3c1fb91850ce2d78f25e72d0585cceaf22a9390578a5abb5c4c90293c79c7dd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/amos\/4\/9-12.1792615670523.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Laħajtkom ⟨את⟩ bix-xidd u bl-isfar; il-ħafna ġonna tagħkom, u l-vinji tagħkom, u t-tin tagħkom, uż-żejtuna tagħkom kielhom il-langust; u intom ma trġajtx għandi, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "ħrastkom"
+      "gloss": "laħajtkom"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "lilkom (lill-objett: intomkom)"
+      "marks": "kom"
     },
     {
       "surface": "בשדפון",
-      "gloss": "bil-ħmieġ tax-xidd"
+      "gloss": "bix-xidd"
     },
     {
       "surface": "ובירקון",
-      "gloss": "u bir-rimett"
+      "gloss": "u bl-isfar"
     },
     {
       "surface": "הרבות",
-      "gloss": "l-abbondanza"
+      "gloss": "il-ħafna"
     },
     {
       "surface": "גנותיכם",
-      "gloss": "tal-ġonna tagħkom"
+      "gloss": "ġonna tagħkom"
     },
     {
       "surface": "וכרמיכם",
-      "gloss": "u tal-ktajjen tagħkom"
+      "gloss": "u l-vinji tagħkom"
     },
     {
       "surface": "ותאניכם",
-      "gloss": "u tas-siġar tat-tin tagħkom"
+      "gloss": "u t-tin tagħkom"
     },
     {
       "surface": "וזיתיכם",
-      "gloss": "u taż-żebbuġ tagħkom"
+      "gloss": "uż-żejtuna tagħkom"
     },
     {
       "surface": "יאכל",
-      "gloss": "kielha"
+      "gloss": "kielhom"
     },
     {
       "surface": "הגזם",
-      "gloss": "il-ġurat"
+      "gloss": "il-langust"
     },
     {
       "surface": "ולא",
-      "gloss": "u ma"
+      "gloss": "ma"
     },
     {
       "surface": "שבתם",
-      "gloss": "rgajtux"
+      "gloss": "trġajtx"
     },
     {
       "surface": "עדי",
@@ -99,6 +73,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:47:50.524555093Z",
+  "timestamp": "2026-10-22T00:08:06.161077158Z",
   "model": "glm-5.3"
 }

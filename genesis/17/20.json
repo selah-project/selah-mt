@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tnax-il prinċep",
-      "rationale": "Għadd tas-subien ta' Jixmael: tnax-il נשיאם."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "במאד מאד",
-      "rationale": "It-tgergir 'ħafna ħafna' jżomm id-doppjar tal-Lhudi במאד מאד."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמעתיך \/ ישמעאל",
-      "rationale": "'Smajtek' jirrispondi ma' isem Jixmael — 'Alla jisma' — fl-istess diskors."
-    }
-  ],
-  "translation": "U dwar Jixmael, smajtek: Ara, bierekthu, u se nfrillu, u se nżiduh ħafna ħafna; tnax-il prinċep ibid, u nagħtih għal ġens kbir.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "907c11973fa36ec13ff694e8cb8c1ca450aa415eda6c5190ff526fa5c9df098d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/17\/18-20.1792602136179.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lil Jixmael smajtek: ara, berikthom ⟨את⟩ lilu, u nagħmlihu jiferek frott, u nżiduh bil-kbir ħafna, ħafna; tnax-il prinċep jikkawża, u nagħtih bħala ġens kbir.",
   "tokens": [
     {
       "surface": "ולישמעאל",
-      "gloss": "u dwar Jixmael"
+      "gloss": "U lil Jixmael"
     },
     {
       "surface": "שמעתיך",
@@ -43,35 +17,38 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Ara"
+      "gloss": "ara"
     },
     {
       "surface": "ברכתי",
-      "gloss": "bierekthu"
+      "gloss": "berikthom"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ -h"
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
     },
     {
       "surface": "והפריתי",
-      "gloss": "u se nfrillu"
+      "gloss": "u nagħmlihu jiferek frott"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ -h"
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
     },
     {
       "surface": "והרביתי",
-      "gloss": "u se nżiduh"
+      "gloss": "u nżiduh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ -h"
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
     },
     {
       "surface": "במאד",
-      "gloss": "ħafna"
+      "gloss": "bil-kbir ħafna"
     },
     {
       "surface": "מאד",
@@ -79,11 +56,11 @@
     },
     {
       "surface": "שנים",
-      "gloss": "tnax-"
+      "gloss": "tnax"
     },
     {
       "surface": "עשר",
-      "gloss": "il"
+      "gloss": "-il"
     },
     {
       "surface": "נשיאם",
@@ -91,7 +68,7 @@
     },
     {
       "surface": "יוליד",
-      "gloss": "ibid"
+      "gloss": "jikkawża"
     },
     {
       "surface": "ונתתיו",
@@ -99,13 +76,13 @@
     },
     {
       "surface": "לגוי",
-      "gloss": "għal ġens"
+      "gloss": "bħala ġens"
     },
     {
       "surface": "גדול",
       "gloss": "kbir"
     }
   ],
-  "timestamp": "2026-10-21T17:02:16.182177679Z",
+  "timestamp": "2026-10-22T00:20:39.602797858Z",
   "model": "glm-5.3"
 }

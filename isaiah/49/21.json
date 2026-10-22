@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨li⟩",
-      "rationale": "il-Lhudi juża l-verb ילד b' kwiet — il-Malti jieħu prepozizzjoni mal-verb"
-    },
-    {
-      "kind": "you",
-      "subject": "Sion",
-      "rationale": "diskors indirizzat lil Sion, l-omm li taħseb f'qalbha"
-    },
-    {
-      "kind": "mystery",
-      "subject": "min welldi dawn",
-      "rationale": "mistoqsija mitluba apposta — t-traċċa tal-għajb tibqa' magħluqa sa 49:22–23"
-    }
-  ],
-  "translation": "U se taqbol f'qalbek: Min welldi ⟨li⟩ dawn, meta jien ħafrita u battija, mġarrba u mċaħħda? U dawn min trabbihom? Ara, jien bqajt waħdi — dawn, fejn huma?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "70de0d7e86fc71dd516889b0159ebc6c6b11a93cd4b299aa73c7a3456fa3bd09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/49\/21-24.1792611926676.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U se tgħid f'qalbek: Min wellidni lil dawn ⟨את⟩? Jien mtajna u triq waħda, mneżżgħa u mkeċċija, u dawn min kabbarhom? Ara, jien pjuttost baqa'jt waħdi, dawn, fejn huma?",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "u se taqbol"
+      "gloss": "u se tgħid"
     },
     {
       "surface": "בלבבך",
@@ -47,16 +21,16 @@
     },
     {
       "surface": "ילד",
-      "gloss": "welldi"
+      "gloss": "wellidni"
     },
     {
       "surface": "לי",
-      "gloss": "li"
+      "gloss": "lili"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dawn"
+      "marks": "lil dawn"
     },
     {
       "surface": "אלה",
@@ -64,23 +38,23 @@
     },
     {
       "surface": "ואני",
-      "gloss": "meta jien"
+      "gloss": "jien"
     },
     {
       "surface": "שכולה",
-      "gloss": "ħafrita"
+      "gloss": "mtajna"
     },
     {
       "surface": "וגלמודה",
-      "gloss": "u battija"
+      "gloss": "u triq waħda"
     },
     {
       "surface": "גלה",
-      "gloss": "mġarrba"
+      "gloss": "mneżżgħa"
     },
     {
       "surface": "וסורה",
-      "gloss": "u mċaħħda"
+      "gloss": "u mkeċċija"
     },
     {
       "surface": "ואלה",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "גדל",
-      "gloss": "trabbihom"
+      "gloss": "kabbarhom"
     },
     {
       "surface": "הן",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "נשארתי",
-      "gloss": "bqajt"
+      "gloss": "baqa'jt"
     },
     {
       "surface": "לבדי",
@@ -123,6 +97,6 @@
       "gloss": "huma"
     }
   ],
-  "timestamp": "2026-10-21T19:45:26.725186696Z",
+  "timestamp": "2026-10-22T00:26:44.556804130Z",
   "model": "glm-5.3"
 }

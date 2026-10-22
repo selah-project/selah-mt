@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "log",
-      "rationale": "לג miżura tal-likwidu, mażżna bħala 'log' għax il-Malti m'għandux miżura ekwivalenti"
-    },
-    {
-      "kind": "addition",
-      "subject": "għall-ašam",
-      "rationale": "l-artiklu miżjud bil-Malti għax l-ebraiku għandu kostrutt lisir"
-    },
-    {
-      "kind": "measurement",
-      "subject": "għaxar inqsad u log",
-      "rationale": "il-vers jagħmel għadd ta' miżuri: għaxar inqsad ta' semida, log żejt"
-    }
-  ],
-  "translation": "U jekk huwa fqir, u idu ma tasalx, huwa jieħu ħaruf wieħed għall-ašam bħala tennufa, biex jikkupri għalih, u għoxrin inqsad—le, għaxar inqsad—ta' semida waħda mħallta biz-żejt għall-minħa, u log żejt.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1e90bf40c83c9fd4e6155c77d556358760fb942e6a4678abc6d94b944b303e15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/14\/21-24.1792600809613.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk huwa fqir u idu ma tislux, ħa ħaruf wieħed bħala ašam għat-tanuffa, biex jagħmel kippur fuqu, u għomru wieħed ta' sola mħallta biz-żejt bħala minħa, u log taż-żejt.",
   "tokens": [
     {
       "surface": "ואם",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "משגת",
-      "gloss": "tasalx"
+      "gloss": "tislux"
     },
     {
       "surface": "ולקח",
-      "gloss": "u jieħu"
+      "gloss": "ħa"
     },
     {
       "surface": "כבש",
@@ -71,31 +45,31 @@
     },
     {
       "surface": "אשם",
-      "gloss": "għall-ašam"
+      "gloss": "ašam"
     },
     {
       "surface": "לתנופה",
-      "gloss": "bħala tennufa"
+      "gloss": "għat-tanuffa"
     },
     {
       "surface": "לכפר",
-      "gloss": "biex jikkupri"
+      "gloss": "biex jagħmel kippur"
     },
     {
       "surface": "עליו",
-      "gloss": "għalih"
+      "gloss": "fuqu"
     },
     {
       "surface": "ועשרון",
-      "gloss": "u għaxar inqsad"
+      "gloss": "u għomru"
     },
     {
       "surface": "סלת",
-      "gloss": "semida"
+      "gloss": "ta' sola"
     },
     {
       "surface": "אחד",
-      "gloss": "waħda"
+      "gloss": "wieħed"
     },
     {
       "surface": "בלול",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "למנחה",
-      "gloss": "għall-minħa"
+      "gloss": "bħala minħa"
     },
     {
       "surface": "ולג",
@@ -115,9 +89,9 @@
     },
     {
       "surface": "שמן",
-      "gloss": "żejt"
+      "gloss": "taż-żejt"
     }
   ],
-  "timestamp": "2026-10-21T16:40:09.614197426Z",
+  "timestamp": "2026-10-22T01:21:02.921052149Z",
   "model": "glm-5.3"
 }

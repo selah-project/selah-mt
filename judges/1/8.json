@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "Lhudi: 'b'ħalq l-ivel' — idjoma għal qtil totali; Malti żamm il-ħalq, mhux 'bil-ħosra'."
-    },
-    {
-      "kind": "crux",
-      "subject": "שלחו באש",
-      "rationale": "Letteralment 'bagħtu lill-belt fin-nar' — verbu tat-tpattija użat għan-nar, użat hekk bħalma hu."
-    }
-  ],
-  "translation": "U ulied Jehuda ġġieldu kontra Jeruxalajim, u ħaduha, u laqtuha bil-ħalq tal-ivel, u ⟨את⟩ il-belt bagħtuha fin-nar.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/judges\/1\/5-8.1792606935876.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ulied Jħuda ġġieldu kontra Jeruxalajim, u qabdu ⟨את⟩ha, u ħarbtuha b'fom ix-xabla, u ⟨את⟩ il-belt bagħtu fin-nar.",
   "tokens": [
     {
       "surface": "וילחמו",
-      "gloss": "u ġġieldu"
+      "gloss": "ġġieldu"
     },
     {
       "surface": "בני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "Jħuda"
     },
     {
       "surface": "בירושלם",
@@ -46,29 +25,28 @@
     },
     {
       "surface": "וילכדו",
-      "gloss": "u ħaduha"
+      "gloss": "qabdu"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "ħaduha"
+      "gloss": "⟨את⟩ha",
+      "marks": "Jeruxalajim (suffiss femminil — 'l-ħadu lilha')"
     },
     {
       "surface": "ויכוה",
-      "gloss": "u laqtuha"
+      "gloss": "ħarbtuha"
     },
     {
       "surface": "לפי",
-      "gloss": "bil-ħalq"
+      "gloss": "b'fom"
     },
     {
       "surface": "חרב",
-      "gloss": "tal-ivel"
+      "gloss": "ix-xabla"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "il-belt"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "העיר",
@@ -76,13 +54,13 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "bagħtuha"
+      "gloss": "bagħtu"
     },
     {
       "surface": "באש",
       "gloss": "fin-nar"
     }
   ],
-  "timestamp": "2026-10-21T18:22:15.877307826Z",
+  "timestamp": "2026-10-22T00:53:25.459835986Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minn quddiemu",
-      "rationale": "מעל פניו: litteralment 'minn fuq wiċċu' — 'minn quddiemu' iħares l-figura għall-preżenza."
-    }
-  ],
-  "translation": "U Jaħwe ħenn ⟨lhom⟩, u raħmiehom, u dar lejhom, minħabba l-patt tiegħu ma' Avraham, ma' Jitsħaq u ma' Jagħaqov; u ma riedx jikkorromhom, u lanqas ma tarmihomx minn quddiemu sa issa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/13\/21-24.1792610467334.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jaħwe ħenn għalihom u ħa ħanin tagħhom u dar lejhom għall-ħatra tal-patt tiegħu ma' ⟨את⟩ Avraham, Jitsħaq u Jagħaqov, u ma ridex jikkastigahom bi telfien, u lanqas ma keċċihom minn quddiemu sa ħin il-preżenti.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "ħenn"
+      "gloss": "u ħenn"
     },
     {
       "surface": "יהוה",
@@ -34,15 +18,15 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lhom"
+      "marks": "lilhom"
     },
     {
       "surface": "וירחמם",
-      "gloss": "raħmiehom"
+      "gloss": "u ħa ħanin tagħhom"
     },
     {
       "surface": "ויפן",
-      "gloss": "u dar lejhom"
+      "gloss": "u dar"
     },
     {
       "surface": "אליהם",
@@ -50,15 +34,16 @@
     },
     {
       "surface": "למען",
-      "gloss": "minħabba"
+      "gloss": "għall-ħatra"
     },
     {
       "surface": "בריתו",
-      "gloss": "l-patt tiegħu"
+      "gloss": "tal-patt tiegħu"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ma'"
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
     },
     {
       "surface": "אברהם",
@@ -70,7 +55,7 @@
     },
     {
       "surface": "ויעקב",
-      "gloss": "Jagħaqov"
+      "gloss": "u Jagħaqov"
     },
     {
       "surface": "ולא",
@@ -78,11 +63,11 @@
     },
     {
       "surface": "אבה",
-      "gloss": "riedx"
+      "gloss": "ridex"
     },
     {
       "surface": "השחיתם",
-      "gloss": "jikkorromhom"
+      "gloss": "jikkastigahom bi telfien"
     },
     {
       "surface": "ולא",
@@ -90,15 +75,15 @@
     },
     {
       "surface": "השליכם",
-      "gloss": "tarmihomx"
+      "gloss": "keċċihom"
     },
     {
       "surface": "מעל",
-      "gloss": "minn quddiem"
+      "gloss": "minn"
     },
     {
       "surface": "פניו",
-      "gloss": "wiċċu"
+      "gloss": "quddiemu"
     },
     {
       "surface": "עד",
@@ -106,9 +91,9 @@
     },
     {
       "surface": "עתה",
-      "gloss": "issa"
+      "gloss": "ħin il-preżenti"
     }
   ],
-  "timestamp": "2026-10-21T19:21:07.335508483Z",
+  "timestamp": "2026-10-22T00:03:56.142782640Z",
   "model": "glm-5.3"
 }

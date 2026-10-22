@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לנו",
-      "rationale": "il-pronom għadu ġo 'm'għandniex' — ma jittraduċix darb'oħra."
-    },
-    {
-      "kind": "crux",
-      "subject": "ואין לנו איש להמית בישראל",
-      "rationale": "'m'għandniex raġel biex inqatlu f'Jisrael' — min jaqta lil min: il-Għiboniti jew raġel minn Jisrael (qari iehor: l-ebda minn Jisrael ma jinqatel għalina)."
-    }
-  ],
-  "translation": "U l-Għiboniti qalu lilu: M'hemmx għalina fidda u deheb ma' Xaul u ma' daru, u m'għandniex raġel biex inqatlu f'Jisrael. U hu qal: X'intom ngħidu qegħdin, nagħmel għalikom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/21\/1-4.1792609147348.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-Giboniti qalu lilu: M'hemmx għandi fidda u deheb ma' Xaul u ma' daru, u m'hemmx għalina raġel għall-mewt f'Jisrael. U huwa qal: X'intom qegħdin tgħidu? ⟨nagħmel⟩ għalikom.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "הגבענים",
-      "gloss": "l-Għiboniti"
+      "gloss": "l-Giboniti"
     },
     {
       "surface": "אין",
-      "gloss": "M'hemmx"
+      "gloss": "m'hemmx"
     },
     {
       "surface": "לי",
-      "gloss": "għalina"
+      "gloss": "għandi"
     },
     {
       "surface": "כסף",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "u m'għandniex"
+      "gloss": "u m'hemmx"
     },
     {
       "surface": "לנו",
-      "gloss": ""
+      "gloss": "għalina"
     },
     {
       "surface": "איש",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "להמית",
-      "gloss": "biex inqatlu"
+      "gloss": "għall-mewt"
     },
     {
       "surface": "בישראל",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "U hu qal"
+      "gloss": "u qal"
     },
     {
       "surface": "מה",
-      "gloss": "X'"
+      "gloss": "x'"
     },
     {
       "surface": "אתם",
@@ -110,13 +89,13 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "nagħmel"
+      "gloss": "⟨nagħmel⟩"
     },
     {
       "surface": "לכם",
       "gloss": "għalikom"
     }
   ],
-  "timestamp": "2026-10-21T18:59:07.350155412Z",
+  "timestamp": "2026-10-22T00:06:48.021580293Z",
   "model": "glm-5.3"
 }

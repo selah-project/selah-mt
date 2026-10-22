@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הרחיק",
-      "rationale": "min ibejjed: il-profeti falzi (qrajiet bħal KJV 'to remove you') jew Elohim jaħseb — il-verb infinitiv bla suġġett; it-traduzzjoni żammet l-ambigwità bil-forma mhux personali."
-    },
-    {
-      "kind": "addition",
-      "subject": "jiena",
-      "rationale": "is-suġġett ta' והדחתי m'hux miktub fil-Lhudi; miżjud biex il-ewwel persuna tal-verb tkun ċara."
-    }
-  ],
-  "translation": "Għaliex gidba huma qegħdin jinnbġħulekkom, biex ibegħdu ⟨את⟩ lilkom minn fuq l-art tagħkom, u ⟨jiena⟩ nkeċċikom u tilqu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/27\/9-12.1792613108159.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għax gideb huma jipprofetizzaw lilkom, biex ineħħukom bogħod minn fuq l-art tagħkom, u jien insejħilkom ⟨את⟩ lilkom u titlquw.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "שקר",
-      "gloss": "gidba"
+      "gloss": "gideb"
     },
     {
       "surface": "הם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "qegħdin jinnbġħu"
+      "gloss": "jipprofetizzaw"
     },
     {
       "surface": "לכם",
-      "gloss": "lekkom"
+      "gloss": "lilkom"
     },
     {
       "surface": "למען",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "הרחיק",
-      "gloss": "ibegħdu"
+      "gloss": "ineħħukom bogħod"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     },
     {
       "surface": "מעל",
@@ -71,18 +50,18 @@
     },
     {
       "surface": "והדחתי",
-      "gloss": "nkeċċikom"
+      "gloss": "u jien insejħilkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lilkom",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "lilkom"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "u tilqu"
+      "gloss": "u titlquw"
     }
   ],
-  "timestamp": "2026-10-21T20:05:08.161190208Z",
+  "timestamp": "2026-10-22T00:29:56.506139272Z",
   "model": "glm-5.3"
 }

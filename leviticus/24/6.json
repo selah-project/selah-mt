@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מערכת",
-      "rationale": "il-kelma tfisser rranġar \/ mantell — saf (ringiela) tal-ħobż, mhux sempliċiment 'ringiela militari'."
-    }
-  ],
-  "translation": "U tpoġġihom żewġ safi, sitt il-ħobżiet fis-saf, fuq il-mejda s-safa quddiem Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/24\/5-8.1792601175937.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tpoġġihom ⟨את⟩ żewġ ilsiqt — sitta f'kull ilsqa — fuq il-meża l-qaddisa quddiem Jaħwe.",
   "tokens": [
     {
       "surface": "ושמת",
@@ -30,7 +14,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "żewġ safi"
+      "marks": "żewġ ilsiqt"
     },
     {
       "surface": "שתים",
@@ -38,15 +22,15 @@
     },
     {
       "surface": "מערכות",
-      "gloss": "safi"
+      "gloss": "ilsiqt"
     },
     {
       "surface": "שש",
-      "gloss": "sitt"
+      "gloss": "sitta f'kull ilsqa"
     },
     {
       "surface": "המערכת",
-      "gloss": "fis-saf"
+      "gloss": "f'kull ilsqa"
     },
     {
       "surface": "על",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "il-mejda"
+      "gloss": "il-meża"
     },
     {
       "surface": "הטהר",
-      "gloss": "s-safa"
+      "gloss": "l-qaddisa"
     },
     {
       "surface": "לפני",
@@ -69,6 +53,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T16:46:15.937965539Z",
+  "timestamp": "2026-10-22T00:41:25.937581465Z",
   "model": "glm-5.3"
 }

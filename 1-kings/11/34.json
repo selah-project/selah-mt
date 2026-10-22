@@ -5,41 +5,20 @@
   "book": "1-kings",
   "lang": "mt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jien",
-      "rationale": "emphatic pronoun added to carry the chosen-verb 'għożżtu jien'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "prinċep",
-      "rationale": "נשיא is 'exalted one'; 'kap' would be the other Maltese option"
-    }
-  ],
-  "translation": "Imma ma nieħux ⟨את⟩ is-saltna kollha minn idejh; għax prinċep inpoġġih il-ġranet kollha ta' ħajtu, għal David il-qaddej tiegħi, li jien għożżtu ⟨lilu⟩, lilu li żamm il-kmandamenti tiegħi u l-istatuti tiegħi.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "498edd3b75fac95cde9b52ebe642ecb4039649acd7e4cbef99ff110ce4fa100b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-kings\/11\/33-36.1792609611643.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma mhux se nieħu ⟨את⟩ il-mamlakà kollha minn idejh, għax se npoġġih bħala nasìgħ kull jumtajn ħajtu, minħabba lil David il-ħadim tiegħi, li jgħidilu: inti ltqajt ⟨את⟩ lilu, li żamm il-kmandamenti tiegħi u l-ħreg tiegħi.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Imma ma"
+      "gloss": "Imma mhux"
     },
     {
       "surface": "אקח",
-      "gloss": "nieħux"
+      "gloss": "se nieħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "is-saltna kollha"
+      "marks": "il-mamlakà kollha"
     },
     {
       "surface": "כל",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "הממלכה",
-      "gloss": "is-saltna"
+      "gloss": "il-mamlakà"
     },
     {
       "surface": "מידו",
@@ -59,27 +38,27 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "prinċep"
+      "gloss": "nasi"
     },
     {
       "surface": "אשתנו",
-      "gloss": "inpoġġih"
+      "gloss": "npoġġih"
     },
     {
       "surface": "כל",
-      "gloss": "il-ġranet kollha"
+      "gloss": "kull"
     },
     {
       "surface": "ימי",
-      "gloss": "il-ġranet"
+      "gloss": "jumtajn"
     },
     {
       "surface": "חייו",
-      "gloss": "ta' ħajtu"
+      "gloss": "ħajtu"
     },
     {
       "surface": "למען",
-      "gloss": "għal"
+      "gloss": "minħabba"
     },
     {
       "surface": "דוד",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "il-qaddej tiegħi"
+      "gloss": "il-ħadim tiegħi"
     },
     {
       "surface": "אשר",
@@ -95,16 +74,16 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "jien għożżtu"
+      "gloss": "ltqajt"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lilu",
       "marks": "lilu"
     },
     {
       "surface": "אשר",
-      "gloss": "lilu li"
+      "gloss": "li"
     },
     {
       "surface": "שמר",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "וחקתי",
-      "gloss": "u l-istatuti tiegħi"
+      "gloss": "u l-ordinanzi tiegħi"
     }
   ],
-  "timestamp": "2026-10-21T19:06:51.644266174Z",
+  "timestamp": "2026-10-21T23:56:31.906471741Z",
   "model": "glm-5.3"
 }

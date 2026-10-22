@@ -5,31 +5,15 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ħames siġar",
-      "rationale": "Ħames siġar għal ħames slaten — numeru sħiħ, wieħed għal kull sultan."
-    }
-  ],
-  "translation": "Wara dan Ġożwè welbithom u qatilhom, u impiccahom fuq ħames siġar; u baqgħu mwaħħlin fuq is-siġar sa filgħaxija.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0b2b385a6609ab46ebaa07ede73683bb4312d566f9c6e3034dc47c3734906946",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/10\/25-28.1792606564281.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Wara dak Joxwa laqathom u qatilhom, u ħallashom ma' ħamsa siġar, u baqgħu mħallsin mas-siġar sal-milħ.",
   "tokens": [
     {
       "surface": "ויכם",
-      "gloss": "welbithom"
+      "gloss": "laqathom"
     },
     {
       "surface": "יהושע",
-      "gloss": "Ġożwè"
+      "gloss": "Joxwa"
     },
     {
       "surface": "אחרי",
@@ -37,23 +21,23 @@
     },
     {
       "surface": "כן",
-      "gloss": "dan"
+      "gloss": "dak"
     },
     {
       "surface": "וימיתם",
-      "gloss": "u qatilhom"
+      "gloss": "qatilhom"
     },
     {
       "surface": "ויתלם",
-      "gloss": "u impiccahom"
+      "gloss": "ħallashom"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "ma'"
     },
     {
       "surface": "חמשה",
-      "gloss": "ħames"
+      "gloss": "ħamsa"
     },
     {
       "surface": "עצים",
@@ -61,29 +45,29 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "u baqgħu"
+      "gloss": "baqgħu"
     },
     {
       "surface": "תלוים",
-      "gloss": "mwaħħlin"
+      "gloss": "mħallsin"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "mas-"
     },
     {
       "surface": "העצים",
-      "gloss": "is-siġar"
+      "gloss": "siġar"
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "sal-"
     },
     {
-      "surface": "ha'arev",
-      "gloss": "filgħaxija"
+      "surface": "הערב",
+      "gloss": "milħ"
     }
   ],
-  "timestamp": "2026-10-21T18:16:04.282454798Z",
+  "timestamp": "2026-10-22T00:34:33.811483925Z",
   "model": "glm-5.3"
 }

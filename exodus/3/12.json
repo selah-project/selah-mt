@@ -5,45 +5,19 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אהיה עמך",
-      "rationale": "'Għaliex inkun miegħek' ( każ għal mistoqsija ta' Moxe, bħal YLT 'Because I am with thee') kontra 'Ċertament inkun miegħek' (KJV\/JPS li jaqilgħu l-awżiljarju)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "tqim",
-      "rationale": "תעבדון 'tservu\/tqimu' — l-għerq עבד huwa 'jaħdem\/jaqdi'; 'tqim' jaqbad is-servizz ta' qima, il-verb b'reliġjon reġali jibqa' 'jaqdi'."
-    },
-    {
-      "kind": "addition",
-      "subject": "il-munt",
-      "rationale": "'Munt' biss il-Malti jirċievi l-artiklu quddiem 'fuq' — l-artiklu Malti għall-artiklu Lhudi ta' ההר."
-    }
-  ],
-  "translation": "U ⟨jaqgħu⟩ qal: Għaliex jien inkun miegħek, u dan ikun is-sinjal għalik li jien bgħattiek: fit-tneħħija tiegħek ⟨את⟩ lil-nies minn Mitsrajim, tqim lil-Elohim fuq dan il-munt.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/3\/9-12.1792599247901.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal: Għaliex jien se nkun miegħek, u dan jkun għalik is-sinjal li jien int bgħatt: meta toħroġ ⟨את⟩ il-poplu minn Mitsrajim, tqimdu ⟨את⟩ lil Elohim fuq dan il-munt.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "כי",
-      "gloss": "Għaliex"
+      "gloss": "għaliex"
     },
     {
       "surface": "אהיה",
-      "gloss": "inkun"
+      "gloss": "jien se nkun"
     },
     {
       "surface": "עמך",
@@ -71,20 +45,20 @@
     },
     {
       "surface": "שלחתיך",
-      "gloss": "bgħattiek"
+      "gloss": "int bgħatt"
     },
     {
       "surface": "בהוציאך",
-      "gloss": "fit-tneħħija tiegħek"
+      "gloss": "meta toħroġ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lin-nies"
+      "marks": "il-poplu"
     },
     {
       "surface": "העם",
-      "gloss": "lin-nies"
+      "gloss": "il-poplu"
     },
     {
       "surface": "ממצרים",
@@ -92,16 +66,16 @@
     },
     {
       "surface": "תעבדון",
-      "gloss": "tqim"
+      "gloss": "tqimdu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim"
+      "marks": "lil Elohim"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "lil Elohim"
     },
     {
       "surface": "על",
@@ -116,6 +90,6 @@
       "gloss": "dan"
     }
   ],
-  "timestamp": "2026-10-21T16:14:07.902696017Z",
+  "timestamp": "2026-10-22T00:14:06.315007747Z",
   "model": "glm-5.3"
 }

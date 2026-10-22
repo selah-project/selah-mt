@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "qata' lilhom",
-      "rationale": "מל tfisser 'aqta' qosor' il-ġilda — 'ċirkonċiża' huwa terminu tal-rit, mhux il-ħarsa litterali ta' malta"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בעצם היום הזה",
-      "rationale": "litteralment 'fil-għadam ta' dak in-nhar' — idjom għal 'f'dak l-istess jum eżatt'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "prepożizzjoni mas-suffiss ('lilu\/miegħu'), mhux l-oġġett dirett"
-    }
-  ],
-  "translation": "U Avraham ħa ⟨את⟩ lil Iżmael ibnu, u ⟨את⟩ lil kulmin twieldu f'daru, u ⟨את⟩ lil kulma xtrab bil-flus is-suġġer tiegħu — kull raġel fost l-irġiel ta' dar Avraham — u qata' lilhom ⟨את⟩ il-ġilda tal-prepuċju tagħhom fil-ġrajja stess ta' dak in-nhar, kif kien qallu Elohim.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "039e79ce52c68c1b620375d1cab9e68307b9c99a687c32856977a77a260f49fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/17\/21-24.1792598068521.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Avraham ħa ⟨את⟩ lil Jixmagħel binu, u ⟨את⟩ lil dawk kollha mwieled f'daru, u ⟨את⟩ lil dawk kollha mixtrija bil-fidda tiegħu, kull raġel fost irġiel id-dar ta' Avraham, u qata' ⟨את⟩ il-laħam tal-għarflus tagħhom eżatt f'dan il-jum stess, kif kien kellem ⟨את⟩ miegħu Elohim.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ħa"
+      "gloss": "U ħa"
     },
     {
       "surface": "אברהם",
@@ -44,28 +18,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Iżmael"
+      "marks": "lil Jixmagħel"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Iżmael"
+      "gloss": "Jixmagħel"
     },
     {
       "surface": "בנו",
-      "gloss": "ibnu"
+      "gloss": "binu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kulmin twieldu f'daru"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil dawk kollha mwieled f'daru"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollha"
     },
     {
       "surface": "ילידי",
-      "gloss": "min twieldu"
+      "gloss": "mwieled"
     },
     {
       "surface": "ביתו",
@@ -73,20 +47,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kulma xtrab bil-flus is-suġġer tiegħu"
+      "gloss": "u ⟨את⟩",
+      "marks": "lil dawk kollha mixtrija bil-fidda tiegħu"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kollha"
     },
     {
       "surface": "מקנת",
-      "gloss": "ma xtrab"
+      "gloss": "mixtrija"
     },
     {
       "surface": "כספו",
-      "gloss": "bil-flus is-suġġer tiegħu"
+      "gloss": "bil-fidda tiegħu"
     },
     {
       "surface": "כל",
@@ -98,44 +72,44 @@
     },
     {
       "surface": "באנשי",
-      "gloss": "fost l-irġiel"
+      "gloss": "fost irġiel"
     },
     {
       "surface": "בית",
-      "gloss": "ta' dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avraham"
+      "gloss": "ta' Avraham"
     },
     {
       "surface": "וימל",
-      "gloss": "u qata' lilhom"
+      "gloss": "u qata'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġilda"
+      "marks": "il-laħam tal-għarflus tagħhom"
     },
     {
       "surface": "בשר",
-      "gloss": "il-ġilda"
+      "gloss": "il-laħam"
     },
     {
       "surface": "ערלתם",
-      "gloss": "tal-prepuċju tagħhom"
+      "gloss": "tal-għarflus tagħhom"
     },
     {
       "surface": "בעצם",
-      "gloss": "fil-ġrajja stess"
+      "gloss": "eżatt f'"
     },
     {
       "surface": "היום",
-      "gloss": "ta' dak in-nhar"
+      "gloss": "il-jum"
     },
     {
       "surface": "הזה",
-      "gloss": "dak"
+      "gloss": "dan"
     },
     {
       "surface": "כאשר",
@@ -143,17 +117,17 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kien qal"
+      "gloss": "kellem"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu"
+      "gloss": "⟨את⟩ miegħu"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-21T15:54:28.522445763Z",
+  "timestamp": "2026-10-22T00:20:57.705494360Z",
   "model": "glm-5.3"
 }

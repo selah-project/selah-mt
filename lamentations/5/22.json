@@ -5,33 +5,7 @@
   "book": "lamentations",
   "lang": "mt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אם",
-      "rationale": "Dikjarazzjoni (KJV 'but thou hast rejected') kontra mistoqsija (JPS 'canst Thou have utterly rejected?') — għażilt il-mistoqsija, li tagħlaq il-ktieb b'disperazzjoni miftuħa bħall-Lhudi mhux puntwat."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מאס מאסתנו",
-      "rationale": "L-infinitiv assolut jiżdoppja l-verb — 'ċaħad ċaħadtna'; rrappreżentajt b'ċaħadtna għal kollox."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "Il-partiċella אם fl-espressjoni כי אם ma għandha ekwivalenti Malti individwali; magħquda mal-‘għaliex’."
-    }
-  ],
-  "translation": "Għaliex ċaħadtna għal kollox, u kqażt fuqna sa ħafna?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0c3c4822f3af333e0bc3f5c911d84cce07cdbdee7a52c3d135584c4936959580",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/lamentations\/5\/21-22.1792620117027.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ħlief jekk mċaqartna għal kollox — tbelleqt fuqna sa l-estrem.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "jekk"
     },
     {
       "surface": "מאס",
-      "gloss": "għal kollox"
+      "gloss": "mċaqar"
     },
     {
       "surface": "מאסתנו",
-      "gloss": "ċaħadtna"
+      "gloss": "mċaqartna għal kollox"
     },
     {
       "surface": "קצפת",
-      "gloss": "kqażt"
+      "gloss": "tbelleqt"
     },
     {
       "surface": "עלינו",
@@ -63,9 +37,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "ħafna"
+      "gloss": "l-estrem"
     }
   ],
-  "timestamp": "2026-10-21T22:01:57.028063103Z",
+  "timestamp": "2026-10-22T00:39:11.985428464Z",
   "model": "glm-5.3"
 }

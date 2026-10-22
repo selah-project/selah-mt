@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "aqbeż miegħi",
-      "rationale": "stieden tar-re lil Barzillaj, imperattiv"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Barzillaj",
-      "rationale": "indirizz dirett tar-re lil Barzillaj"
-    }
-  ],
-  "translation": "U r-re qal lil Barzillaj: Int aqbeż ⟨את⟩ miegħi, u jiena nnżommlek miegħi ġewwa Jeruxalajim.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7b925f76e84cde42df805c3a49f65f753c2320b63650704c172507b8db7c5672",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/19\/33-36.1792609100264.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qal is-sultan lil-Barzillaj: Int, għaddi ⟨את⟩ miegħi, u jien inżomm ⟨את⟩lek miegħi f'Jeruxalajim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "אל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Int"
+      "gloss": "int"
     },
     {
       "surface": "עבר",
-      "gloss": "aqbeż"
+      "gloss": "għaddi"
     },
     {
       "surface": "אתי",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "וכלכלתי",
-      "gloss": "u jiena nnżommlek"
+      "gloss": "u inżomm"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "miegħi"
+      "marks": "miegħi (עמדי)"
     },
     {
       "surface": "עמדי",
@@ -71,9 +50,9 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "ġewwa Jeruxalajim"
+      "gloss": "f'Jeruxalajim"
     }
   ],
-  "timestamp": "2026-10-21T18:58:20.265225476Z",
+  "timestamp": "2026-10-22T00:06:56.897667688Z",
   "model": "glm-5.3"
 }

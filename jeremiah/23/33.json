@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "משא",
-      "rationale": "massa tfisser 'tagħbija' iżda wkoll 'oraklu': Jaħwe jaqleb il-kelma tagħhom — 'inti int it-tagħbija', mhux l-oraklu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מה משא \/ את מה משא",
-      "rationale": "il-mistoqsija u r-risposta jirripetu l-istess żewġ kelmiet, intradmet bil-Malti b'repetizzjoni parallela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ונטשתי",
-      "rationale": "litteralment 'u nħallkom mitlugin' — ippronunjat 'nċempilkom'"
-    }
-  ],
-  "translation": "U meta din in-nies, jew il-profeta, jew qassis, jistaqsilek billi jgħid: X'inhiet it-tagħbija ta' Jaħwe? — int tgħidilhom: Intom it-tagħbija! U jiena nċempilkom, jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a915f4b6e5afde58a37296a4c03e03de309defa0cf2ad0b04d7a8ad13f2375fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/jeremiah\/23\/33-36.1792612943412.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U meta dan il-poplu, jew il-profeta, jew qassis jistaqsilek u jgħid: X'inhu l-massa ta' Jaħwe? tgġibilhom: ⟨את⟩ X'massa! Intom il-massa, u jiena nieħu ħalieġkom, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "meta"
+      "gloss": "U meta"
     },
     {
       "surface": "ישאלך",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "din in-nies"
+      "gloss": "il-poplu"
     },
     {
       "surface": "הזה",
-      "gloss": "din"
+      "gloss": "dan"
     },
     {
       "surface": "או",
@@ -67,23 +41,23 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "b'li jgħid"
+      "gloss": "u jgħid"
     },
     {
       "surface": "מה",
-      "gloss": "x'inhiet"
+      "gloss": "X'inhu"
     },
     {
       "surface": "משא",
-      "gloss": "it-tagħbija"
+      "gloss": "l-massa"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "ואמרת",
-      "gloss": "int tgħidilhom"
+      "gloss": "tgġibilhom"
     },
     {
       "surface": "אליהם",
@@ -92,23 +66,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "x'inhiet it-tagħbija"
+      "marks": "X'massa"
     },
     {
       "surface": "מה",
-      "gloss": "x'inhiet"
+      "gloss": "X'"
     },
     {
       "surface": "משא",
-      "gloss": "it-tagħbija"
+      "gloss": "massa"
     },
     {
       "surface": "ונטשתי",
-      "gloss": "u nċempilkom"
+      "gloss": "u nieħu ħalieġkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ilkom"
+      "gloss": "⟨את⟩kom",
+      "marks": "intom"
     },
     {
       "surface": "נאם",
@@ -119,6 +94,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:02:23.413523948Z",
+  "timestamp": "2026-10-22T00:28:35.300564543Z",
   "model": "glm-5.3"
 }

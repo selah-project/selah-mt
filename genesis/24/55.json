@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "magħna",
-      "rationale": "אתנו hawn hu l-prepożizzjon H854 ('magħna'), mhux il-markatur ta' oġġett diretta H853 — għalhekk ma ġġorrrex ⟨את⟩"
-    },
-    {
-      "kind": "crux",
-      "subject": "jiem jew għaxra",
-      "rationale": "il-Lhudi jgħid biss 'jiem jew għaxra' mingħajr numru ċar; KJV iżżid 'ħaft jiem, mill-inqas għaxra'"
-    }
-  ],
-  "translation": "U aħha u ommha qal(ew): Ħalli t-tifla toqgħod ⟨את⟩ magħna jiem jew għaxra <jiem>; wara timur.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "93a2d376173996cdfff995156f6d3268ff8f659097f3fb8a59b3bbe223042e22",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/24\/53-56.1792598304917.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħuha u ommha qalu: Tibqa' ma' ⟨את⟩na s-sabiħa jranġulejn jew għaxra, wara tmutur.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal(ew)"
+      "gloss": "u qalu"
     },
     {
       "surface": "אחיה",
-      "gloss": "aħha"
+      "gloss": "ħuha"
     },
     {
       "surface": "ואמה",
@@ -42,19 +21,20 @@
     },
     {
       "surface": "תשב",
-      "gloss": "toqgħod"
+      "gloss": "tibqa'"
     },
     {
       "surface": "הנער",
-      "gloss": "it-tifla"
+      "gloss": "is-sabiħa"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ magħna"
+      "gloss": "⟨את⟩na",
+      "marks": "ma' wiċċna (il-prepożizzjoni את, mhux l-objett ta' H853)"
     },
     {
       "surface": "ימים",
-      "gloss": "jiem"
+      "gloss": "jranġulejn"
     },
     {
       "surface": "או",
@@ -70,9 +50,9 @@
     },
     {
       "surface": "תלך",
-      "gloss": "timur"
+      "gloss": "tmutur"
     }
   ],
-  "timestamp": "2026-10-21T15:58:24.918467314Z",
+  "timestamp": "2026-10-22T00:20:59.279876941Z",
   "model": "glm-5.3"
 }

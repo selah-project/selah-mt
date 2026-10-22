@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "qiegħed",
-      "rationale": "Il-partiċipja preżenti għandha l-ażżiljarju 'qiegħed' bil-Malti; il-Lhudi נתן jirrappreżenta azzjoni għaddejja."
-    },
-    {
-      "kind": "you",
-      "subject": "lil Jisrael",
-      "rationale": "Indirizz dirett fit-tieni persuna plurali dwar il-qsim tal-Ġordan."
-    }
-  ],
-  "translation": "U ikun, fil-jum li taqsmu ⟨את⟩ l-Ġordan, lejn l-art li Jaħwe Elohim tiegħek qiegħed jagħtik, twaqqaf għalik ħaġar kbir u tellibeshom bil-ġir.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/27\/1-4.1792605929767.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ⟨se jara⟩ fil-jum li taqsmu ⟨את⟩ l-Ġordan, lejn l-art li Jaħwe Elohim tagħzek jaġtik, u tqajjem għalik ġebel kbir u tgeżżirhom b'siġġir",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "U ikun"
+      "gloss": "U ⟨se jara⟩"
     },
     {
       "surface": "ביום",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim tiegħek"
+      "gloss": "Elohim tagħzek"
     },
     {
       "surface": "נתן",
-      "gloss": "qiegħed jagħtik"
+      "gloss": "jaġtik"
     },
     {
       "surface": "לך",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "והקמת",
-      "gloss": "twaqqaf"
+      "gloss": "u tqajjem"
     },
     {
       "surface": "לך",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "אבנים",
-      "gloss": "ħaġar"
+      "gloss": "ġebel"
     },
     {
       "surface": "גדלות",
@@ -99,18 +78,18 @@
     },
     {
       "surface": "ושדת",
-      "gloss": "tellibeshom"
+      "gloss": "u tgeżżirhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "bil-ġir"
+      "gloss": "⟨אתם⟩",
+      "marks": "b' siġġir"
     },
     {
       "surface": "בשיד",
-      "gloss": "bil-ġir"
+      "gloss": "b'siġġir"
     }
   ],
-  "timestamp": "2026-10-21T18:05:29.768624212Z",
+  "timestamp": "2026-10-22T00:10:11.774508574Z",
   "model": "glm-5.3"
 }

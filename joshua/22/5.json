@@ -5,50 +5,19 @@
   "book": "joshua",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lill-tribù ta' gewwa l-Ġordan",
-      "rationale": "Jiżżejjed lura lill-erbat tribù u nofs qabel jaqsmu l-Ġordan — appell dirett bil-plural."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמרו \/ ולשמור",
-      "rationale": "L-għerq shamar jidher darbtejn fil-vers — 'ħarisu' u 'taraw' — ripetizzjoni li tiffissa l-ħarsa."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruħ",
-      "rationale": "נפש hija nifs \/ ħajja-ħila, mhux 'ruħ' fil-każ ta' entità separata; il-Malti 'ruħ' huwa l-eqreb kliem wieħed."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "infinitivi mizrugħin",
-      "rationale": "Sitt infinitivi bi l- (laħava, lilhet, lišmor, lidboqa, laʿovdo) jiffurmaw katena ritmika ta' mibgħut wieħed."
-    }
-  ],
-  "translation": "Biss ħarisu ħafna biex tagħmlu ⟨את⟩ il-kmandament u ⟨את⟩ it-Tora li ordna ⟨את⟩ lilkom Moxe, il-qaddej ta' Jaħwe: biex tinħobbu lil Jaħwe, lil Elohim tagħkom, u biex timxu fit-toroq kollha tiegħu, u biex taraw il-kmandamenti tiegħu, u biex twaħħdu miegħu, u biex tservuh b'qalbkom kollha u bir-ruħ tagħkom kollha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "461740c9fa07d3b232e62f07f58b3d79621eb8740bdd3dde3b36f64db44f5994",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/joshua\/22\/5-8.1792606873948.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma ħarsu bil-għaġġla biex tagħmlu ⟨את⟩ il-mandat u ⟨את⟩ it-Tora li uħilleb ⟨את⟩ lilkom Moxe, il-qaddej ta' Jaħwe: li tiħobbu ⟨את⟩ lil Jaħwe, lil Elohim tagħkom, u timxu fid-driegħ kollha tiegħu, u titħarsu l-precetti tiegħu, u torbtu ruħkom bih, u tqimuh b'qalbkom kollha u bir-ruwaħ tagħkom.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Biss"
+      "gloss": "imma"
     },
     {
       "surface": "שמרו",
-      "gloss": "ħarisu"
+      "gloss": "ħarsu"
     },
     {
       "surface": "מאד",
-      "gloss": "ħafna"
+      "gloss": "bil-għaġġla"
     },
     {
       "surface": "לעשות",
@@ -57,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-kmandament"
+      "marks": "il-mandat"
     },
     {
       "surface": "המצוה",
-      "gloss": "il-kmandament"
+      "gloss": "il-mandat"
     },
     {
       "surface": "ואת",
@@ -78,7 +47,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ordna"
+      "gloss": "uħilleb"
     },
     {
       "surface": "אתכם",
@@ -98,70 +67,70 @@
     },
     {
       "surface": "לאהבה",
-      "gloss": "biex tinħobbu"
+      "gloss": "li tiħobbu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaħwe"
+      "marks": "lil Jaħwe"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "lil Jaħwe"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim tagħkom"
+      "gloss": "lil Elohim tagħkom"
     },
     {
       "surface": "וללכת",
-      "gloss": "u biex timxu"
+      "gloss": "u timxu"
     },
     {
       "surface": "בכל",
-      "gloss": "f'… kollha"
+      "gloss": "f'dawk kollha"
     },
     {
       "surface": "דרכיו",
-      "gloss": "it-toroq tiegħu"
+      "gloss": "driegħ tiegħu"
     },
     {
       "surface": "ולשמר",
-      "gloss": "u biex taraw"
+      "gloss": "u titħarsu"
     },
     {
       "surface": "מצותיו",
-      "gloss": "il-kmandamenti tiegħu"
+      "gloss": "l-precetti tiegħu"
     },
     {
       "surface": "ולדבקה",
-      "gloss": "u biex twaħħdu"
+      "gloss": "u torbtu ruħkom"
     },
     {
       "surface": "בו",
-      "gloss": "miegħu"
+      "gloss": "bih"
     },
     {
       "surface": "ולעבדו",
-      "gloss": "u biex tservuh"
+      "gloss": "u tqimuh"
     },
     {
       "surface": "בכל",
-      "gloss": "b'… kollha"
+      "gloss": "b'qalbkom kollha"
     },
     {
       "surface": "לבבכם",
-      "gloss": "qalbkom"
+      "gloss": "(qalbkom)"
     },
     {
       "surface": "ובכל",
-      "gloss": "u b'… kollha"
+      "gloss": "u bir-ruwaħ tagħkom kollha"
     },
     {
       "surface": "נפשכם",
-      "gloss": "ir-ruħ tagħkom"
+      "gloss": "(ruwaħ tagħkom)"
     }
   ],
-  "timestamp": "2026-10-21T18:21:13.949555230Z",
+  "timestamp": "2026-10-22T00:35:30.369361195Z",
   "model": "glm-5.3"
 }

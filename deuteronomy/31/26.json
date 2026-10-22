@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לעד",
-      "rationale": "'għal dejjem' vs 'għal xhud' (בך לעד bħala xhud magħkom, qari tar-Rabbini); it-test jgħid 'għal dejjem'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Ħudu",
-      "rationale": "Imperattiv ta' Mose lill-Lewiti."
-    }
-  ],
-  "translation": "Ħudu ⟨את⟩ dan il-ktieb tat-Tora u poġġewh mal-ġenb tal-arka tal-patt ta' Jaħwe, Elohim tagħkom, u jibqa' hemm ma'kom għal dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/31\/25-28.1792606081998.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ħudu ⟨את⟩ il-ktieb ta' din it-Tora, u poġġuh ⟨את⟩ lilu ġenb l-arka tal-patt ta' Jaħwe, l-Elohim tagħkom, u jibqa' hemm kontrikom għal xhud.",
   "tokens": [
     {
       "surface": "לקח",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dan il-ktieb"
+      "marks": "il-ktieb ta' din it-Tora"
     },
     {
       "surface": "ספר",
@@ -47,24 +26,24 @@
     },
     {
       "surface": "הזה",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "ושמתם",
-      "gloss": "u poġġewh"
+      "gloss": "u poġġu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "il-ktieb tat-Tora"
+      "gloss": "⟨את⟩ lilu",
+      "marks": "lilu — il-ktieb tat-Tora"
     },
     {
       "surface": "מצד",
-      "gloss": "mal-ġenb"
+      "gloss": "ġenb"
     },
     {
       "surface": "ארון",
-      "gloss": "tal-arka"
+      "gloss": "l-arka"
     },
     {
       "surface": "ברית",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim tagħkom"
+      "gloss": "l-Elohim tagħkom"
     },
     {
       "surface": "והיה",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "בך",
-      "gloss": "ma'kom"
+      "gloss": "kontrikom"
     },
     {
       "surface": "לעד",
-      "gloss": "għal dejjem"
+      "gloss": "għal xhud"
     }
   ],
-  "timestamp": "2026-10-21T18:08:01.999236604Z",
+  "timestamp": "2026-10-22T00:11:21.717030166Z",
   "model": "glm-5.3"
 }

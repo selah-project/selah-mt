@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "strik-u",
-      "rationale": "il-Malti jrid suġġett fil-verb għal-passiv; il-Lhudi jgħid biss 'strucku Jaħwe'."
-    },
-    {
-      "kind": "elision",
-      "subject": "לאין מרפא",
-      "rationale": "litteralment 'għal-ebda-feġġa'; mgħoddija bħala frażi waħda 'ma għandha ebda feġġa'."
-    }
-  ],
-  "translation": "U wara dan kollu, Jaħwe strucku f'ġufu b'marda li ma għandha ebda feġġa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "8038ffdf836ec5a2c03670187384ccede742b104861b7324b4094ec66e9c3534",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/21\/17-20.1792622704298.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U wara dan kollu, Jaħwe laqtu f'ħaċċu b'marda li ma għandha fejqan.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "U wara"
+      "gloss": "u wara"
     },
     {
       "surface": "כל",
-      "gloss": "dan kollu"
+      "gloss": "kollu"
     },
     {
       "surface": "זאת",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "נגפו",
-      "gloss": "strucku"
+      "gloss": "laqtu"
     },
     {
       "surface": "יהוה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "במעיו",
-      "gloss": "f'ġufu"
+      "gloss": "f'ħaċċu"
     },
     {
       "surface": "לחלי",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "לאין",
-      "gloss": "li ma għandha ebda"
+      "gloss": "li ma"
     },
     {
       "surface": "מרפא",
-      "gloss": "feġġa"
+      "gloss": "għandha fejqan"
     }
   ],
-  "timestamp": "2026-10-21T22:45:04.299214026Z",
+  "timestamp": "2026-10-22T00:01:21.781427156Z",
   "model": "glm-5.3"
 }

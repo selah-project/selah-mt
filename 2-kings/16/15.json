@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "għall-istħarriġ",
-      "rationale": "לבקר: 'biex ifittex s-sehem għandi' (oraklu) kontra 'għall-istħarriġ' jew 'għall-ħarsien'; il-KJV u l-JPS jaqsmu"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Urijja s-saċerdot",
-      "rationale": "kmand dirett tar-re Aħaz lis-saċerdot"
-    }
-  ],
-  "translation": "U r-re Aħaz ordna lil Urijja s-saċerdot, jgħid: Fuq l-artal il-kbir irriċċa ⟨את⟩ l-olokaust ta' filgħodu u ⟨את⟩ il-minħa ta' filgħaxija, u ⟨את⟩ l-olokaust tar-re u ⟨את⟩ il-minħa tiegħu, u ⟨את⟩ l-olokaust ta' kulmin hu poplu l-art, flimkien mal-minħa tagħhom u n-neseq tagħhom; u ⟨את⟩ id-demm kollu tal-olokaust u d-demm kollu taż-żebeit tixred fuqu; u l-artal tar-ram jibqa' għalija għall-istħarriġ.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/16\/13-16.1792610521542.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U lir-Re Aħaz ordna lil ⟨את⟩ Urjjaħ s-saċerdot, jgħidu: Fuq l-artal il-kbir aċċendi biċ-ċpar ⟨את⟩ l-olosta ta' filgħodu u ⟨את⟩ il-minħa ta' filgħaxija, u ⟨את⟩ l-olosta tar-re u ⟨את⟩ il-minħa tiegħu, u ⟨את⟩ l-olosta ta' kull nies l-art u l-minħa tagħhom u n-niskijiet tagħhom; u kull demm ta' olosta u kull demm ta' zevaħ fuqu tixxerreż; u l-artal tar-ram ikun għalija għall-istħarriġ.",
   "tokens": [
     {
       "surface": "ויצוהו",
-      "gloss": "ordna lil"
+      "gloss": "u ordna"
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "ir-Re"
     },
     {
       "surface": "אחז",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Urijja s-saċerdot"
+      "marks": "Urjjaħ s-saċerdot"
     },
     {
       "surface": "אוריה",
-      "gloss": "Urijja"
+      "gloss": "Urjjaħ"
     },
     {
       "surface": "הכהן",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jgħid"
+      "gloss": "jgħidu"
     },
     {
       "surface": "על",
-      "gloss": "fuq"
+      "gloss": "Fuq"
     },
     {
       "surface": "המזבח",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "הקטר",
-      "gloss": "irriċċa"
+      "gloss": "aċċendi biċ-ċpar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-olokaust ta' filgħodu"
+      "marks": "l-olosta ta' filgħodu"
     },
     {
       "surface": "עלת",
-      "gloss": "l-olokaust"
+      "gloss": "l-olosta"
     },
     {
       "surface": "הבקר",
@@ -102,11 +81,11 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-olokaust tar-re"
+      "marks": "l-olosta tar-re"
     },
     {
       "surface": "עלת",
-      "gloss": "l-olokaust"
+      "gloss": "l-olosta"
     },
     {
       "surface": "המלך",
@@ -124,19 +103,19 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-olokaust ta' kulmin hu poplu l-art"
+      "marks": "l-olosta ta' kull nies l-art"
     },
     {
       "surface": "עלת",
-      "gloss": "l-olokaust"
+      "gloss": "l-olosta"
     },
     {
       "surface": "כל",
-      "gloss": "kulmin hu"
+      "gloss": "kull"
     },
     {
       "surface": "עם",
-      "gloss": "poplu"
+      "gloss": "nies"
     },
     {
       "surface": "הארץ",
@@ -144,35 +123,35 @@
     },
     {
       "surface": "ומנחתם",
-      "gloss": "mal-minħa tagħhom"
+      "gloss": "u l-minħa tagħhom"
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "in-neseq tagħhom"
+      "gloss": "u n-niskijiet tagħhom"
     },
     {
       "surface": "וכל",
-      "gloss": "u ⟨את⟩ d-demm kollu"
+      "gloss": "u kull"
     },
     {
       "surface": "דם",
-      "gloss": "id-demm"
+      "gloss": "demm"
     },
     {
       "surface": "עלה",
-      "gloss": "tal-olokaust"
+      "gloss": "ta' olosta"
     },
     {
       "surface": "וכל",
-      "gloss": "u d-demm kollu"
+      "gloss": "u kull"
     },
     {
       "surface": "דם",
-      "gloss": "id-demm"
+      "gloss": "demm"
     },
     {
       "surface": "זבח",
-      "gloss": "taż-żebeit"
+      "gloss": "ta' zevaħ"
     },
     {
       "surface": "עליו",
@@ -180,7 +159,7 @@
     },
     {
       "surface": "תזרק",
-      "gloss": "tixred"
+      "gloss": "tixxerreż"
     },
     {
       "surface": "ומזבח",
@@ -192,7 +171,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "jibqa'"
+      "gloss": "ikun"
     },
     {
       "surface": "לי",
@@ -203,6 +182,6 @@
       "gloss": "għall-istħarriġ"
     }
   ],
-  "timestamp": "2026-10-21T19:22:01.545281705Z",
+  "timestamp": "2026-10-22T00:52:34.629802496Z",
   "model": "glm-5.3"
 }

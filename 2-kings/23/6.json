@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "l-Axera",
-      "rationale": "האשרה: statwa\/alla femminili ta' Axera — mhux 'siġra' jew 'bosk' kif fl-irħifen qodma."
-    },
-    {
-      "kind": "substitution",
-      "subject": "wlied il-poplu",
-      "rationale": "בני העם: il-ġnus komuni, dawk li m'għandhomx oqbra tas-setta — 'wlied' żamm letterali."
-    }
-  ],
-  "translation": "U ħareġ ⟨את⟩ l-Axera mid-dar ta' Jaħwe, minn barra Jeruxalajim, għal wiedi Qidron, u ħaraqha fi wiedi Qidron, u għaqqadha għal trab, u tefa' ⟨את⟩ it-trab tagħha fuq l-oqbra ta' wlied il-poplu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/23\/5-8.1792610807411.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħareġ ⟨את⟩ l-Axera mid-dar ta' Jaħwe, 'il barra minn Jeruxalajim, sal-wied ta' Kidron, u ħaraqha fil-wied ta' Kidron, u ħasirha għal trab, u tella' ⟨את⟩ trabha fuq oqbra wlied il-poplu.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "U ħareġ"
+      "gloss": "u ħareġ"
     },
     {
       "surface": "את",
@@ -43,31 +22,31 @@
     },
     {
       "surface": "מבית",
-      "gloss": "mid-dar ta'"
+      "gloss": "mid-dar"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "מחוץ",
-      "gloss": "minn barra"
+      "gloss": "'il barra"
     },
     {
       "surface": "לירושלם",
-      "gloss": "Jeruxalajim"
+      "gloss": "minn Jeruxalajim"
     },
     {
       "surface": "אל",
-      "gloss": "għal"
+      "gloss": "sa"
     },
     {
       "surface": "נחל",
-      "gloss": "wiedi"
+      "gloss": "l-wied"
     },
     {
       "surface": "קדרון",
-      "gloss": "Qidron"
+      "gloss": "ta' Kidron"
     },
     {
       "surface": "וישרף",
@@ -76,36 +55,36 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "fi wiedi Qidron"
+      "marks": "l-Axera (fil-wied ta' Kidron)"
     },
     {
       "surface": "בנחל",
-      "gloss": "fi wiedi"
+      "gloss": "fil-wied"
     },
     {
       "surface": "קדרון",
-      "gloss": "Qidron"
+      "gloss": "ta' Kidron"
     },
     {
       "surface": "וידק",
-      "gloss": "u għaqqadha"
+      "gloss": "u ħasirha"
     },
     {
       "surface": "לעפר",
-      "gloss": "ghal trab"
+      "gloss": "għal trab"
     },
     {
       "surface": "וישלך",
-      "gloss": "u tefa'"
+      "gloss": "u tella'"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "it-trab tagħha"
+      "marks": "trabha"
     },
     {
       "surface": "עפרה",
-      "gloss": "it-trab tagħha"
+      "gloss": "trabha"
     },
     {
       "surface": "על",
@@ -113,17 +92,17 @@
     },
     {
       "surface": "קבר",
-      "gloss": "l-oqbra"
+      "gloss": "oqbra"
     },
     {
       "surface": "בני",
-      "gloss": "ta' wlied"
+      "gloss": "wlied"
     },
     {
       "surface": "העם",
       "gloss": "il-poplu"
     }
   ],
-  "timestamp": "2026-10-21T19:26:47.413442193Z",
+  "timestamp": "2026-10-22T00:04:57.997668926Z",
   "model": "glm-5.3"
 }

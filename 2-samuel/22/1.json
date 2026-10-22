@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "id",
-      "rationale": "כף hija l-ewwelnett il-palma tal-id; 'minn id' baqgħat bħala iltier Semitiku komuni"
-    },
-    {
-      "kind": "addition",
-      "subject": "fl-istess ġurnata li",
-      "rationale": "il-Malti jeħtieġ 'li' konġuntiv fil-ġuf ta' ביום אשר"
-    }
-  ],
-  "translation": "U David tkellem ma' Jaħwe ⟨את⟩ kliem dan il-kant, fl-istess ġurnata li Jaħwe ħelsu minn id l-għedewwa kollha tiegħu u minn id Xawl.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-samuel\/22\/1-4.1792609086890.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U David tkellem ma' Jaħwe ⟨את⟩ kliem din il-kanzuneta, fil-jum li Jaħwe ħelsu ⟨את⟩ minn id kulħadd mill-għedewwa tiegħu u minn id Xawl.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kliem dan il-kant"
+      "marks": "kliem"
     },
     {
       "surface": "דברי",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "השירה",
-      "gloss": "il-kant"
+      "gloss": "il-kanzuneta"
     },
     {
       "surface": "הזאת",
-      "gloss": "dan"
+      "gloss": "din"
     },
     {
       "surface": "ביום",
-      "gloss": "fl-istess ġurnata"
+      "gloss": "fil-jum"
     },
     {
       "surface": "הציל",
@@ -72,7 +51,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "minn id l-għedewwa u minn id Xawl"
+      "marks": "minn id"
     },
     {
       "surface": "מכף",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kulħadd"
     },
     {
       "surface": "איביו",
-      "gloss": "l-għedewwa tiegħu"
+      "gloss": "mill-għedewwa tiegħu"
     },
     {
       "surface": "ומכף",
@@ -95,6 +74,6 @@
       "gloss": "Xawl"
     }
   ],
-  "timestamp": "2026-10-21T18:58:06.891541658Z",
+  "timestamp": "2026-10-22T00:06:37.929871471Z",
   "model": "glm-5.3"
 }

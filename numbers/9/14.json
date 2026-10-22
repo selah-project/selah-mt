@@ -5,44 +5,24 @@
   "book": "numbers",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "barrani",
-      "rationale": "גֵר huwa l-barrani li jgħix fostkom, mhux sempliċement 'stranier' — 'jgħix barrani' żżomm il-għerq גור."
-    },
-    {
-      "kind": "addition",
-      "subject": "ikun",
-      "rationale": "il-Malti jeħtieġ il-kopula fil-futur; il-Lhudi juża יהיה b'mod simili."
-    }
-  ],
-  "translation": "U meta jgħix barrani ⟨את⟩ magħkom u jagħmel Pesach lil Jaħwe, skont l-istatut tal-Pesach u skont il-ħaqq tiegħu hekk jagħmel: statut wieħed ikun għalkom, għall-barrani u għal min twield fl-art.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "107642ca5dee90ccb1b9725a0fa3826d2c7ad0883183103c79151034008da2c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/numbers\/9\/13-16.1792602609532.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U jekk gērex joqgħod ma' tagħkom u jagħmel ⟨את⟩ il-Pesach lil Jaħwe, skond id-drawwa tal-Pesach u skond il-ġudizzju tiegħu, hekk jagħmel: drawwa waħda tkun għalkom, u għall-gērex u għal min twieled fl-art.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "U meta"
+      "gloss": "U jekk"
     },
     {
       "surface": "יגור",
-      "gloss": "jgħix barrani"
+      "gloss": "joqgħod"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ magħkom"
+      "gloss": "⟨את⟩ ma' tagħkom",
+      "marks": "tagħkom"
     },
     {
       "surface": "גר",
-      "gloss": "barrani"
+      "gloss": "gērex"
     },
     {
       "surface": "ועשה",
@@ -50,7 +30,7 @@
     },
     {
       "surface": "פסח",
-      "gloss": "Pesach"
+      "gloss": "il-Pesach"
     },
     {
       "surface": "ליהוה",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "כחקת",
-      "gloss": "skont l-istatut"
+      "gloss": "skond id-drawwa"
     },
     {
       "surface": "הפסח",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "וכמשפטו",
-      "gloss": "u skont il-ħaqq tiegħu"
+      "gloss": "u skond il-ġudizzju tiegħu"
     },
     {
       "surface": "כן",
@@ -78,15 +58,15 @@
     },
     {
       "surface": "חקה",
-      "gloss": "statut"
+      "gloss": "drawwa"
     },
     {
       "surface": "אחת",
-      "gloss": "wieħed"
+      "gloss": "waħda"
     },
     {
       "surface": "יהיה",
-      "gloss": "ikun"
+      "gloss": "tkun"
     },
     {
       "surface": "לכם",
@@ -94,17 +74,17 @@
     },
     {
       "surface": "ולגר",
-      "gloss": "għall-barrani"
+      "gloss": "u għall-gērex"
     },
     {
       "surface": "ולאזרח",
-      "gloss": "u għal min twield"
+      "gloss": "u għal min twieled"
     },
     {
       "surface": "הארץ",
       "gloss": "fl-art"
     }
   ],
-  "timestamp": "2026-10-21T17:10:09.537083825Z",
+  "timestamp": "2026-10-22T00:48:04.048158384Z",
   "model": "glm-5.3"
 }

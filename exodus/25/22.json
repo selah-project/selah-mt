@@ -5,42 +5,11 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ונועדתי לך",
-      "rationale": "litteralment 'inwaqqaf l-appuntament miegħek'; 'niltaqa'' ma jżommux il-ħoss tal-ħatra"
-    },
-    {
-      "kind": "crux",
-      "subject": "מעל הכפרת מבין",
-      "rationale": "minn fuq il-kapporet \/ minn bejn iċ-ċerubin: żewġ lożjonijiet fl-istess frażi"
-    },
-    {
-      "kind": "secret",
-      "subject": "il-kelma minn bejn iċ-ċerubin",
-      "rationale": "post il-laqgħa maħbija, 'il fuq mil-ħajt tal-Qaddis"
-    },
-    {
-      "kind": "you",
-      "subject": "lil Moxe",
-      "rationale": "imperattiv: Jaħwe jiltaqa' ma' Moxe hemm"
-    }
-  ],
-  "translation": "u hemm iniltaqa' magħkom, u nkelllek minn fuq il-kapporet, minn bejn iż-żewġ ċerubin li fuq l-arka tax-xhieda, ⟨את⟩ kull ma se nikkmandalek dwar ulied Jisrael.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/25\/21-24.1792599894038.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U se niltaqa' magħkom ⟨את⟩ hemm, u nitkellem ⟨את⟩ miegħek minn fuq il-Kapporet, minn bejn żewġ Kerubim li fuq Aron ix-xhieda, ⟨את⟩ kulma jien nistorrlek dwar wlied Jisrael.",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "u iniltaqa'"
+      "gloss": "u se niltaqa' magħkom"
     },
     {
       "surface": "לך",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "ודברתי",
-      "gloss": "u nkelllek"
+      "gloss": "u nitkellem miegħek"
     },
     {
       "surface": "אתך",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "il-kapporet"
+      "gloss": "il-Kapporet"
     },
     {
       "surface": "מבין",
@@ -72,11 +41,11 @@
     },
     {
       "surface": "שני",
-      "gloss": "iż-żewġ"
+      "gloss": "żewġ"
     },
     {
       "surface": "הכרבים",
-      "gloss": "ċerubin"
+      "gloss": "Kerubim"
     },
     {
       "surface": "אשר",
@@ -88,32 +57,33 @@
     },
     {
       "surface": "ארן",
-      "gloss": "l-arka"
+      "gloss": "Aron"
     },
     {
       "surface": "העדת",
-      "gloss": "tax-xhieda"
+      "gloss": "ix-xhieda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kull ma se nikkmandalek"
+      "marks": "kulma"
     },
     {
       "surface": "כל",
-      "gloss": "kull"
+      "gloss": "kulma"
     },
     {
       "surface": "אשר",
-      "gloss": "ma"
+      "gloss": "dwar li"
     },
     {
       "surface": "אצוה",
-      "gloss": "se nikkmandalek"
+      "gloss": "nistorrlek"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ lilek"
+      "gloss": "⟨את⟩",
+      "marks": "dwar wlied Jisrael"
     },
     {
       "surface": "אל",
@@ -121,13 +91,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "ulied"
+      "gloss": "wlied"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-21T16:24:54.039034202Z",
+  "timestamp": "2026-10-22T00:13:13.420792758Z",
   "model": "glm-5.3"
 }

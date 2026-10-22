@@ -5,61 +5,41 @@
   "book": "haggai",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "u intom ma kinux lejja",
-      "rationale": "ואין אתכם אלי: litteralment 'u m'hemmx ħadd minnkom miegħi' (ylt), filwaqt li KJV\/asv 'ma darritux lejja' żżid interpretazzjoni."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-poplu",
-      "rationale": "Jaħwe jkellem lilill-popolu diretta b'orge."
-    }
-  ],
-  "translation": "Sirbitkom biż-żiffa u bir-rinġa u bir-rummien tas-silġ ⟨fi⟩ driegħ kollha ta' idejkom, u ⟨את⟩ intom ma ⟨kinux⟩ lejja, jgħid Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/haggai\/2\/17-20.1792616216766.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ħrixtkom bil-ħsara u bix-xoffa u bżarżar — ⟨את⟩ ix-xogħol kollu ta' idejkom — iżda m'intomx għandi, jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "sirbitkom"
+      "gloss": "ħrixtkom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩",
+      "marks": "intom"
     },
     {
       "surface": "בשדפון",
-      "gloss": "biż-żiffa"
+      "gloss": "bil-ħsara"
     },
     {
       "surface": "ובירקון",
-      "gloss": "bir-rinġa"
+      "gloss": "u bix-xoffa"
     },
     {
       "surface": "ובברד",
-      "gloss": "bir-rummien tas-silġ"
+      "gloss": "u bżarżar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "driegħ kollha ta' idejkom"
+      "marks": "ix-xogħol kollu ta' idejkom"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kollu"
     },
     {
       "surface": "מעשה",
-      "gloss": "driegħ"
+      "gloss": "ix-xogħol"
     },
     {
       "surface": "ידיכם",
@@ -67,7 +47,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "ma ⟨kinux⟩"
+      "gloss": "iżda m'intomx"
     },
     {
       "surface": "אתכם",
@@ -75,7 +55,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "lejja"
+      "gloss": "għandi"
     },
     {
       "surface": "נאם",
@@ -86,6 +66,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:56:56.767564208Z",
+  "timestamp": "2026-10-22T00:24:33.162576493Z",
   "model": "glm-5.3"
 }

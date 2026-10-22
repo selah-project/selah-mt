@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי אני … אם לא",
-      "rationale": "l-ħalf Lhudi 'Jien ħaj … jekk le', jiġifieri 'kemm ħaj jien'; ma tnaggżx litteralment bħala mistoqsija"
-    },
-    {
-      "kind": "elision",
-      "subject": "וירעו הרעים אותם",
-      "rationale": "litteralment 'ir-rgħajja rgħew lilhom' — il-veru רעה here għandu s-sens ta' 'għasses lilhom infushom', mhux 'rabbi'; il-glossa tagħti s-sens"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רעה \/ רעי \/ רעו",
-      "rationale": "l-istess għerq רעה jiddoqq tul il-vers — raġħi, rgħajja, rgħew — u jinbena fuq il-kuntrast bejn min kellu jirgħi u min rġa' lilu nnifsu"
-    }
-  ],
-  "translation": "Jien ħaj, jgħid Adonaj Jaħwe, jekk le — għaliex merħli sar għan-nies, u merħli sar ikel għal kull bhejjem tax-xagħri, għaliex ma kienx hemm raġħi, u rgħajja ma fittxewx lil merħli, u r-rgħajja għassu ⟨את⟩ lilhom infushom, u lil merħli ma għassux:",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "375cb6e157956d9cb434930d507edb06acf068eb3942eb293098bef588157985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/34\/5-8.1792614919735.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ħaj jien, jgħid Adonaj Jaħwe, jekk le, għax ⟨ħadt⟩ merħla saret għas-serd, u merħla saret ikel lil kull bhejjem tas-ser, għax ma hemmx ragħi, u r-rgħajja tiegħi ma fittxewx ⟨את⟩ l-merħla tiegħi, u r-rgħajja rgħew ⟨את⟩ lilhom infushom, u ⟨את⟩ l-merħla tiegħi ma rgħewhiex.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "ħaj"
+      "gloss": "Ħaj"
     },
     {
       "surface": "אני",
-      "gloss": "Jien"
+      "gloss": "jien"
     },
     {
       "surface": "נאם",
@@ -63,27 +37,27 @@
     },
     {
       "surface": "יען",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "היות",
-      "gloss": "sar"
+      "gloss": "saret"
     },
     {
       "surface": "צאני",
-      "gloss": "merħli"
+      "gloss": "l-merħla tiegħi"
     },
     {
       "surface": "לבז",
-      "gloss": "għan-nies"
+      "gloss": "għas-serd"
     },
     {
       "surface": "ותהיינה",
-      "gloss": "u sar"
+      "gloss": "u saret"
     },
     {
       "surface": "צאני",
-      "gloss": "merħli"
+      "gloss": "l-merħla tiegħi"
     },
     {
       "surface": "לאכלה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "għal kull"
+      "gloss": "lil kull"
     },
     {
       "surface": "חית",
@@ -99,15 +73,15 @@
     },
     {
       "surface": "השדה",
-      "gloss": "tax-xagħri"
+      "gloss": "tas-ser"
     },
     {
       "surface": "מאין",
-      "gloss": "ma kienx hemm"
+      "gloss": "ma hemmx"
     },
     {
       "surface": "רעה",
-      "gloss": "raġħi"
+      "gloss": "ragħi"
     },
     {
       "surface": "ולא",
@@ -119,37 +93,38 @@
     },
     {
       "surface": "רעי",
-      "gloss": "rgħajja"
+      "gloss": "r-rgħajja tiegħi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "merħli"
+      "marks": "l-merħla tiegħi"
     },
     {
       "surface": "צאני",
-      "gloss": "merħli"
+      "gloss": "l-merħla tiegħi"
     },
     {
       "surface": "וירעו",
-      "gloss": "u għassu"
+      "gloss": "u rgħew"
     },
     {
       "surface": "הרעים",
-      "gloss": "ir-rgħajja"
+      "gloss": "r-rgħajja"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ lilhom infushom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom infushom"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "merħli"
+      "gloss": "u ⟨את⟩",
+      "marks": "l-merħla tiegħi"
     },
     {
       "surface": "צאני",
-      "gloss": "merħli"
+      "gloss": "l-merħla tiegħi"
     },
     {
       "surface": "לא",
@@ -157,9 +132,9 @@
     },
     {
       "surface": "רעו",
-      "gloss": "għassux"
+      "gloss": "rgħewhiex"
     }
   ],
-  "timestamp": "2026-10-21T20:35:19.736972300Z",
+  "timestamp": "2026-10-22T00:18:45.061593971Z",
   "model": "glm-5.3"
 }

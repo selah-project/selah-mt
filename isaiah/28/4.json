@@ -5,53 +5,27 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "יראה הראה",
-      "rationale": "għerq tar-raja darbtejn — 'jaraha dak li jara' — il-verb u l-isem mill-istess għerq ראה."
-    },
-    {
-      "kind": "substitution",
-      "subject": "כבכורה",
-      "rationale": "'l-ewwel frotta' — ħafna jifsmuha bħala l-ewwel tin (בכורהתאבינה), li tinbidel mal-ewwel milli titla'; it-test jgħid biss 'ewwel frotta'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "יבלענה",
-      "rationale": "'jaħraqha\/jibla'ha' — jiekilha b'ħarqa waħda, jikkonsmahalist."
-    }
-  ],
-  "translation": "U l-fjura li twarrad, is-sbuħija tal-ġmiel tiegħu, li fuq ras il-wied is-samien, tkun bħall-ewwel frotta qabel is-sajf, li meta jaraha dak li jara, għadha fil-ponp ta' idu, jagħtiha jaħraqha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/28\/1-4.1792611461935.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U l-fjura li tinwil, is-sebħ ta' sbuħitu, li fuq ras il-wied tax-xaħmiet, tkun bħall-ewwel frott qabel is-sajf, li jarah ⟨את⟩ dak li jara, għadha f'idejh u jibla'ha.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "U tkun"
+      "gloss": "u tkun"
     },
     {
       "surface": "ציצת",
-      "gloss": "l-fjura"
+      "gloss": "il-fjura"
     },
     {
       "surface": "נבל",
-      "gloss": "li twarrad"
+      "gloss": "li tinwil"
     },
     {
       "surface": "צבי",
-      "gloss": "is-sbuħija"
+      "gloss": "is-sebħ"
     },
     {
       "surface": "תפארתו",
-      "gloss": "tal-ġmiel tiegħu"
+      "gloss": "ta' sbuħitu"
     },
     {
       "surface": "אשר",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "שמנים",
-      "gloss": "is-samien"
+      "gloss": "tax-xaħmiet"
     },
     {
       "surface": "כבכורה",
-      "gloss": "bħall-ewwel frotta"
+      "gloss": "bħall-ewwel frott"
     },
     {
       "surface": "בטרם",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "יראה",
-      "gloss": "jaraha"
+      "gloss": "jara"
     },
     {
       "surface": "הראה",
@@ -99,8 +73,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ilha",
-      "marks": "l-ewwel frotta"
+      "gloss": "⟨את⟩",
+      "marks": "l-ewwel frott"
     },
     {
       "surface": "בעודה",
@@ -108,13 +82,13 @@
     },
     {
       "surface": "בכפו",
-      "gloss": "fil-ponp ta' idu"
+      "gloss": "f'idejh"
     },
     {
       "surface": "יבלענה",
-      "gloss": "jaħraqha"
+      "gloss": "u jibla'ha"
     }
   ],
-  "timestamp": "2026-10-21T19:37:41.936665110Z",
+  "timestamp": "2026-10-22T00:26:08.892645089Z",
   "model": "glm-5.3"
 }

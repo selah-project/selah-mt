@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "סלונים",
-      "rationale": "Kelma li tidher ftit darbiet biss fit-Tanakh; eżattament 'xewk penduli'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Ezekiel",
-      "rationale": "Indirizz dirett lil iben il-bniedem bi prohibittivi miktuba b'serje ta' 'tibżax'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אל תירא",
-      "rationale": "Erbgħa darbiet 'tibżax' fil-vers wieħed — ritorn li jagħti r-rifless tar-rifjut."
-    }
-  ],
-  "translation": "U int, iben il-bniedem, tibżax minnhom, u mill-kliem tagħhom tibżax; għax qarċocc u xewk ⟨את⟩ miegħek, u fost skorpjuni int bilqiegħda; mill-kliem tagħhom tibżax, u minn wċċuhom tibżaxtx, għax dar tal-ribelljoni huma.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "b0cce414d053f980845e9253dc2771b226228dd5efc47b32b721c7bf7b7dc2e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/2\/5-8.1792614076020.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U int, iben adam, tilpixhom u la tibżax minn kliemhom, għax nin u xewk qiegħdin miegħek, u qiegħed fost skorpjuni; la tibżax minn kliemhom u la titremmix minn wicchom, għax dar ribelli huma.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "u int"
+      "gloss": "U int"
     },
     {
       "surface": "בן",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אדם",
-      "gloss": "il-bniedem"
+      "gloss": "adam"
     },
     {
       "surface": "אל",
-      "gloss": "tibżax"
+      "gloss": "la"
     },
     {
       "surface": "תירא",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "ומדבריהם",
-      "gloss": "u mill-kliem tagħhom"
+      "gloss": "u minn kliemhom"
     },
     {
       "surface": "אל",
-      "gloss": "tibżax"
+      "gloss": "la"
     },
     {
       "surface": "תירא",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "סרבים",
-      "gloss": "qarċocc"
+      "gloss": "nin"
     },
     {
       "surface": "וסלונים",
@@ -84,7 +58,7 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "qarċocc u xewk"
+      "marks": "int"
     },
     {
       "surface": "ואל",
@@ -100,15 +74,15 @@
     },
     {
       "surface": "יושב",
-      "gloss": "bilqiegħda"
+      "gloss": "qiegħed"
     },
     {
       "surface": "מדבריהם",
-      "gloss": "mill-kliem tagħhom"
+      "gloss": "kliemhom"
     },
     {
       "surface": "אל",
-      "gloss": "tibżax"
+      "gloss": "la"
     },
     {
       "surface": "תירא",
@@ -116,15 +90,15 @@
     },
     {
       "surface": "ומפניהם",
-      "gloss": "u minn wċċuhom"
+      "gloss": "u minn wicchom"
     },
     {
       "surface": "אל",
-      "gloss": "tibżaxtx"
+      "gloss": "la"
     },
     {
       "surface": "תחת",
-      "gloss": "titwerwer"
+      "gloss": "titremmix"
     },
     {
       "surface": "כי",
@@ -136,13 +110,13 @@
     },
     {
       "surface": "מרי",
-      "gloss": "tal-ribelljoni"
+      "gloss": "ribelli"
     },
     {
       "surface": "המה",
       "gloss": "huma"
     }
   ],
-  "timestamp": "2026-10-21T20:21:16.021117962Z",
+  "timestamp": "2026-10-22T00:16:42.079894443Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "ecclesiastes",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "גומץ",
-      "rationale": "fossa — il-kelma tinstab darba biss fit-Tanakh, hawnhekk"
-    },
-    {
-      "kind": "substitution",
-      "subject": "yaqbez",
-      "rationale": "נשך fis-serp huwa 'jaqdmu' bil-Malti; 'yaqbez' għandu wisq sens ġenerali"
-    },
-    {
-      "kind": "addition",
-      "subject": "għalih",
-      "rationale": "Il-Malti jeħtieġ oġġett għal 'yaqbez'; l-Ebrajk juża suffiss -ו 'jaqdmuh'"
-    }
-  ],
-  "translation": "Min jħaffer fossa f'ha jaqa', u min jinkiser ħajt iserp jaqbez ⟨għalih⟩.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ecclesiastes\/10\/5-8.1792620305317.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min joħrof ġima' jaqa' fih, u min iforrex ħajt iserduħ serp.",
   "tokens": [
     {
       "surface": "חפר",
-      "gloss": "Min jħaffer"
+      "gloss": "min joħrof"
     },
     {
       "surface": "גומץ",
-      "gloss": "fossa"
+      "gloss": "ġima'"
     },
     {
       "surface": "בו",
-      "gloss": "f'ha"
+      "gloss": "fih"
     },
     {
       "surface": "יפול",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ופרץ",
-      "gloss": "u min jinkiser"
+      "gloss": "min iforrex"
     },
     {
       "surface": "גדר",
@@ -59,13 +33,13 @@
     },
     {
       "surface": "ישכנו",
-      "gloss": "yaqbez"
+      "gloss": "iserduħ"
     },
     {
       "surface": "נחש",
-      "gloss": "iserp"
+      "gloss": "serp"
     }
   ],
-  "timestamp": "2026-10-21T22:05:05.318710059Z",
+  "timestamp": "2026-10-22T00:12:00.965444439Z",
   "model": "glm-5.3"
 }

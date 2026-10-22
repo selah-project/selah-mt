@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "għurus tad-demm",
-      "rationale": "חתן דמים: 'għurus tad-demm' kontra 'raġel tad-demm' — l-identità ta' min jingħata l-isem (Moxe? bin? Alla?) m'għidhiex it-test."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ħaġra qassieħa",
-      "rationale": "צר: litteralment 'silġ\/flint', ġeżża jaqta'; jrid jidher li s-sikkina hija tal-ġebel."
-    },
-    {
-      "kind": "addition",
-      "subject": "ilha",
-      "rationale": "il-verb משקח fir-rigward ta' riġlejh: il-Lhudi jgħid biss 'fassdet', il-Ġermaniż jagħti l-pronome tal-oġġett."
-    }
-  ],
-  "translation": "U Cipora ħadet ħaġra qassieħa, u qaqgħet ⟨את⟩ il-ġilda ta' quddiem ta' binha, u messitha ma' riġlejh, u qalet: Tassew għurus tad-demm inti għalija.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/exodus\/4\/25-28.1792599268662.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Tsipora ħadet ħadida jaħta, u qaģgħet ⟨את⟩ ġilda ta' maqtugħ ta' binha, u misquetha ma' riġlejh, u qalet: Inti żwieġ ta' demm inti għalija.",
   "tokens": [
     {
       "surface": "ותקח",
@@ -39,24 +13,24 @@
     },
     {
       "surface": "צפרה",
-      "gloss": "Cipora"
+      "gloss": "Tsipora"
     },
     {
       "surface": "צר",
-      "gloss": "ħaġra qassieħa"
+      "gloss": "ħadida jaħta"
     },
     {
       "surface": "ותכרת",
-      "gloss": "u qaqgħet"
+      "gloss": "u qaġġet"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il-ġilda ta' quddiem ta' binha"
+      "marks": "il-ġilda tal-maqtugħ ta' binha"
     },
     {
       "surface": "ערלת",
-      "gloss": "il-ġilda ta' quddiem"
+      "gloss": "il-ġilda tal-maqtugħ"
     },
     {
       "surface": "בנה",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "ותגע",
-      "gloss": "u messitha"
+      "gloss": "u misquetha ma'"
     },
     {
       "surface": "לרגליו",
-      "gloss": "ma' riġlejh"
+      "gloss": "riġlejh"
     },
     {
       "surface": "ותאמר",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "Tassew"
+      "gloss": "(Inti żwieġ ta' demm inti għalija)"
     },
     {
       "surface": "חתן",
-      "gloss": "għurus"
+      "gloss": "żwieġ"
     },
     {
       "surface": "דמים",
-      "gloss": "tad-demm"
+      "gloss": "ta' demm"
     },
     {
       "surface": "אתה",
@@ -95,6 +69,6 @@
       "gloss": "għalija"
     }
   ],
-  "timestamp": "2026-10-21T16:14:28.663549243Z",
+  "timestamp": "2026-10-22T00:15:14.084642085Z",
   "model": "glm-5.3"
 }

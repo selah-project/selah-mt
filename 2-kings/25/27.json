@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "id-data",
-      "rationale": "Sena, xahar u jum magħduda b'mod preċiż: tletin u seba' snin, it-tnax-il xahar, l-għoxrin u s-sebgħa"
-    },
-    {
-      "kind": "idiom",
-      "subject": "tella' ras",
-      "rationale": "נשא את ראש — idjom: 'ezaħar il-kap', juru ġieġh u unur, mhux sempliċiment keċċi mill-ħabs"
-    }
-  ],
-  "translation": "U seħħ fis-sena ta' tletin u seba' snin ta' l-eżilju ta' Jehojakin sultan ta' Jehuda, fit-tnax-il xahar, fl-għoxrin u s-sebgħa tax-xahar, tella' Avil-Merodak sultan ta' Babilon, fis-sena ta' saltnetu, ⟨את⟩ ras Jehojakin sultan ta' Jehuda, mid-dar tal-ħabs.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "daa04817d4643f2ec61e59a9f69bb12a99a5d09d755131e3a160b8ea31c1e0ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/25\/25-28.1792610856263.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ġara fis-sena sebgħa u tletin ta' l-eżilju ta' Jehojakin, sultan ta' Jehuda, fix-xahar it-tletax, fis-sebgħa u għoxrin ġurnata tax-xahar, Evil-Merodak, sultan ta' Babilon, tella' ⟨את⟩ r-ras ta' Jehojakin, sultan ta' Jehuda, mid-dar tal-ħabs, fis-sena li beda fihom is-saltna tiegħu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "U seħħ"
+      "gloss": "U ġara"
     },
     {
       "surface": "בשלשים",
-      "gloss": "fis-sena ta' tletin"
+      "gloss": "tletin"
     },
     {
       "surface": "ושבע",
-      "gloss": "u seba'"
+      "gloss": "sebgħa u"
     },
     {
       "surface": "שנה",
-      "gloss": "snin"
+      "gloss": "sena"
     },
     {
       "surface": "לגלות",
@@ -58,27 +37,27 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "ta' Jehuda"
     },
     {
       "surface": "בשנים",
-      "gloss": "fit-tnax-il"
+      "gloss": "żewġ"
     },
     {
       "surface": "עשר",
-      "gloss": "xahar"
+      "gloss": "-tletax (tnax)"
     },
     {
       "surface": "חדש",
-      "gloss": ""
+      "gloss": "fix-xahar"
     },
     {
       "surface": "בעשרים",
-      "gloss": "fl-għoxrin"
+      "gloss": "għoxrin"
     },
     {
       "surface": "ושבעה",
-      "gloss": "u s-sebgħa"
+      "gloss": "u sebgħa"
     },
     {
       "surface": "לחדש",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "אויל",
-      "gloss": "Avil-"
+      "gloss": "Evil-"
     },
     {
       "surface": "מרדך",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilon"
+      "gloss": "ta' Babilon"
     },
     {
       "surface": "בשנת",
@@ -110,20 +89,20 @@
     },
     {
       "surface": "מלכו",
-      "gloss": "ta' saltnetu"
+      "gloss": "li beda fihom is-saltna tiegħu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ras Jehojakin"
+      "marks": "r-ras ta' Jehojakin, sultan ta' Jehuda"
     },
     {
       "surface": "ראש",
-      "gloss": "ras"
+      "gloss": "r-ras"
     },
     {
       "surface": "יהויכין",
-      "gloss": "Jehojakin"
+      "gloss": "ta' Jehojakin"
     },
     {
       "surface": "מלך",
@@ -131,7 +110,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "ta' Jehuda"
     },
     {
       "surface": "מבית",
@@ -142,6 +121,6 @@
       "gloss": "tal-ħabs"
     }
   ],
-  "timestamp": "2026-10-21T19:27:36.265314955Z",
+  "timestamp": "2026-10-22T00:05:02.191496861Z",
   "model": "glm-5.3"
 }

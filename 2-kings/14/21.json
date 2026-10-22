@@ -5,40 +5,19 @@
   "book": "2-kings",
   "lang": "mt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sittax-il sena",
-      "rationale": "l-età tas-sultan hi nnumrata b'mod sħiħ"
-    },
-    {
-      "kind": "addition",
-      "subject": "kien",
-      "rationale": "il-Lhudi m'għandux kopula fil-frażi 'u hu iben sittax-il sena'"
-    }
-  ],
-  "translation": "U ħa poplu kollu ta' Jehuda lil Azarja, u hu kien iben sittax-il sena, u t-tellgħuh joqgħod sultan flok missieru Amasja.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-kings\/14\/21-24.1792610467616.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ħadu-nies kollha ta' Jehuda lil Azarjaħ — u hu bin sittax sena — u tawh is-saltna flok missieru Amasjaħ.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "u ħa"
+      "gloss": "ħadu"
     },
     {
       "surface": "כל",
-      "gloss": "kollu"
+      "gloss": "kollha"
     },
     {
       "surface": "עם",
-      "gloss": "poplu"
+      "gloss": "nies"
     },
     {
       "surface": "יהודה",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "את",
-      "gloss": "lil ⟨את⟩",
-      "marks": "Azarja"
+      "gloss": "⟨את⟩",
+      "marks": "lil Azarjaħ"
     },
     {
       "surface": "עזריה",
-      "gloss": "Azarja"
+      "gloss": "lil Azarjaħ"
     },
     {
       "surface": "והוא",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "iben"
+      "gloss": "bin"
     },
     {
       "surface": "שש",
-      "gloss": "sittax-il"
+      "gloss": "sitt"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "-ax"
     },
     {
       "surface": "שנה",
@@ -75,12 +54,11 @@
     },
     {
       "surface": "וימלכו",
-      "gloss": "u t-tellgħuh joqgħod sultan"
+      "gloss": "tawh is-saltna"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "flok missieru Amasja"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "תחת",
@@ -92,9 +70,9 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amasja"
+      "gloss": "Amasjaħ"
     }
   ],
-  "timestamp": "2026-10-21T19:21:07.616723259Z",
+  "timestamp": "2026-10-22T00:52:17.936686317Z",
   "model": "glm-5.3"
 }

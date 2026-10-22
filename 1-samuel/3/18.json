@@ -5,73 +5,48 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hu",
-      "rationale": "Il-Lhudi jgħid sempliċement 'Jaħwe' — il-kopula miżjuda bil-Malti"
-    },
-    {
-      "kind": "you",
-      "subject": "talba ta' Eli",
-      "rationale": "Eli jaċċetta l-kelma b'sottomissjoni: 'dak it-tajjeb f'għajnejh jagħmel'"
-    }
-  ],
-  "translation": "U Samwel ħabbarlu ⟨את⟩ ilkoll il-kliem, u ma ħabibx minnu. U qal: Jaħwe ⟨hu⟩; dak it-tajjeb f'għajnejh jagħmel.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "954e3c3664bcb857d17569999d4ddf086220e9a06490bdcd6a2a35173c2774a3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/3\/17-20.1792607649389.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Xmuel ħabbru ⟨את⟩ il-kliem kollu, u ma ħebibx minn ⟨għandu⟩ xejn mingħajrhom; u qal: Jaħwe huwa; dak li jkun it-tajjeb f'għajnejh jagħmel.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "U ħabbar"
+      "gloss": "ħabbru"
     },
     {
       "surface": "לו",
-      "gloss": "lu"
+      "gloss": "lil Eli"
     },
     {
       "surface": "שמואל",
-      "gloss": "Samwel"
+      "gloss": "Xmuel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilkoll il-kliem"
+      "marks": "il-kliem kollu"
     },
     {
       "surface": "כל",
-      "gloss": "ilkoll"
+      "gloss": "kollu"
     },
     {
       "surface": "הדברים",
       "gloss": "il-kliem"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "u ma qal"
-    },
-    {
       "surface": "ולא",
-      "gloss": "ma"
+      "gloss": "u ma"
     },
     {
       "surface": "כחד",
-      "gloss": "ħabibx"
+      "gloss": "ħebibx"
     },
     {
       "surface": "ממנו",
-      "gloss": "minnu"
+      "gloss": "mingħajrhom"
     },
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "יהוה",
@@ -79,11 +54,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "hu"
+      "gloss": "huwa"
     },
     {
       "surface": "הטוב",
-      "gloss": "dak it-tajjeb"
+      "gloss": "it-tajjeb"
     },
     {
       "surface": "בעינו",
@@ -94,6 +69,6 @@
       "gloss": "jagħmel"
     }
   ],
-  "timestamp": "2026-10-21T18:34:09.389853924Z",
+  "timestamp": "2026-10-22T00:52:03.623017744Z",
   "model": "glm-5.3"
 }

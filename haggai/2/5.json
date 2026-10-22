@@ -5,33 +5,7 @@
   "book": "haggai",
   "lang": "mt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרתי",
-      "rationale": "literally 'I cut' — Hebrew cuts a covenant, not makes one."
-    },
-    {
-      "kind": "crux",
-      "subject": "אתכם",
-      "rationale": "preposition את 'with you' (H854), not the direct-object marker; some read it as DOM 'I covenanted you'."
-    },
-    {
-      "kind": "you",
-      "subject": "lil-poplu",
-      "rationale": "'tibżgħux' — address to the people building the house."
-    }
-  ],
-  "translation": "Il-kelma li ktart ⟨maġġkom⟩ meta ħriġtum minn Mitsrajim, u ruwaħti tista' fostkom: tibżgħux.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/haggai\/2\/5-8.1792616183814.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ il-kelma li qtajt ⟨את⟩ magħkom meta ħriegħu minn Mitsrajim — u ruwaħi għadha wieqfa fostkom: la tibżgħux.",
   "tokens": [
     {
       "surface": "את",
@@ -48,15 +22,15 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "ktart"
+      "gloss": "qtajt"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ maġġkom"
+      "gloss": "⟨את⟩ magħkom"
     },
     {
       "surface": "בצאתכם",
-      "gloss": "meta ħriġtum"
+      "gloss": "meta ħriegħu"
     },
     {
       "surface": "ממצרים",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "ורוחי",
-      "gloss": "u ruwaħti"
+      "gloss": "u ruwaħi"
     },
     {
       "surface": "עמדת",
-      "gloss": "tista'"
+      "gloss": "għadha wieqfa"
     },
     {
       "surface": "בתוככם",
@@ -76,13 +50,13 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "la"
     },
     {
       "surface": "תיראו",
       "gloss": "tibżgħux"
     }
   ],
-  "timestamp": "2026-10-21T20:56:23.814748145Z",
+  "timestamp": "2026-10-22T00:24:48.163997961Z",
   "model": "glm-5.3"
 }

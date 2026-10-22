@@ -5,37 +5,11 @@
   "book": "malachi",
   "lang": "mt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "והפחתם",
-      "rationale": "'snuffed at it' (nose-puff of contempt) vs 'blown it away'; ġibda ta' wiċċżommiet u tlugħ tan-nifs fl-istess ħin"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מתלאה",
-      "rationale": "'what a weariness\/trouble' — kelma rari, taħt form ta' squir ta'WIĊĊ mogħti għal xi ħaġa li tleqq"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גזול",
-      "rationale": "'torn\/stolen (by beasts)' — jerfgħu l-ħsara fuq il-ħlewwa ta' rabta mal-ħtif, l-ewwel una qadim ta' bagalja fit-tribunal"
-    }
-  ],
-  "translation": "U qiltu: Ara, xi għeja! u nefħtu biċ-ċrieħi ⟨את⟩ fuqu, jgħid Jaħwe Tsebawot; u ġibtu maħruqin, u ⟨את⟩ il-agħmaq u ⟨את⟩ l-imarbul, u ħriġjtuhom bħala rigal — ħa jkun li nirċievi ⟨את⟩ minn idejkom? jgħid Jaħwe Tsebawot.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "3a3ff92766e2b007350c074f72d1a1a564ea0c10ac14009d08c33f9ff922ae41",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/malachi\/1\/13-14.1792616386208.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U għidtu: Ara, x'għeja! U nefħtu ⟨את⟩ biċ-ċpar ta' pajpiex, jgħid Jaħwe Tsebawot; u ġibtu misruq, u ⟨את⟩ l-llimgħat u ⟨את⟩ l-imradda; u ġibtu ⟨את⟩ il-minħa — għandi ⟨את⟩ jaċċettaha minn idejkom? jgħid Jaħwe.",
   "tokens": [
     {
       "surface": "ואמרתם",
-      "gloss": "u qiltu"
+      "gloss": "u għidtu"
     },
     {
       "surface": "הנה",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "מתלאה",
-      "gloss": "xi għeja"
+      "gloss": "x'għeja"
     },
     {
       "surface": "והפחתם",
-      "gloss": "u nefħtu biċ-ċrieħi"
+      "gloss": "u nefħtu"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ fuqu",
-      "marks": "fuqu"
+      "gloss": "⟨את⟩",
+      "marks": "dwarha (il-qima, li nefħtu biċ-ċpar ta' pajpiex)"
     },
     {
       "surface": "אמר",
@@ -72,42 +46,42 @@
     },
     {
       "surface": "גזול",
-      "gloss": "maħruqin"
+      "gloss": "misruq"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "l-agħmaq"
+      "gloss": "u ⟨את⟩",
+      "marks": "il-llimgħat"
     },
     {
       "surface": "הפסח",
-      "gloss": "l-agħmaq"
+      "gloss": "il-llimgħat"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "l-imarbul"
+      "gloss": "u ⟨את⟩",
+      "marks": "l-imradda"
     },
     {
       "surface": "החולה",
-      "gloss": "l-imarbul"
+      "gloss": "l-imradda"
     },
     {
       "surface": "והבאתם",
-      "gloss": "ħriġjtuhom"
+      "gloss": "u ġibtu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bir-rigal"
+      "marks": "il-minħa"
     },
     {
       "surface": "המנחה",
-      "gloss": "bir-rigal"
+      "gloss": "il-minħa"
     },
     {
       "surface": "הארצה",
-      "gloss": "ħa jkun li nirċievi"
+      "gloss": "jaċċettaha"
     },
     {
       "surface": "אותה",
@@ -127,6 +101,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T20:59:46.209319240Z",
+  "timestamp": "2026-10-22T00:43:08.871996345Z",
   "model": "glm-5.3"
 }

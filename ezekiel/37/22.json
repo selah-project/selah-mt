@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עוד għal tliet darbiet",
-      "rationale": "il-kitba tal-qedem tirrepeti 'għal żewġ ġnus... għal żewġ saltniet, għal żewġ saltniet għal dejjem' — it-tliet עוד jissimplifikaw għal darbtejn biss fil-Malti"
-    },
-    {
-      "kind": "addition",
-      "subject": "bħala sultan",
-      "rationale": "למלך qiegħed hemm fil-Lhudi; 'bħala' żjieda Maltija żgħira"
-    }
-  ],
-  "translation": "U nagħmel ⟨את⟩ lilhom għal ġens wieħed fl-art, fil-muntanji ta' Jisrael, u sultan wieħed jkun għalihom ilkoll bħala sultan, u ma jibqgħux għal żewġ ġnus, u ma jinqasmux għal żewġ saltniet, għal dejjem.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/37\/21-24.1792615090975.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nagħmel lilhom ⟨את⟩ għal nazzjon wieħed fl-art, fuq il-muntanji ta' Jisrael, u sultan wieħed ikun għalihom ilkoll bħala sultan, u ma jkunux iktar żewġ nazzjonijiet, u ma jiġux maqsuma iktar żewġ saltnat, iktar.",
   "tokens": [
     {
       "surface": "ועשיתי",
@@ -34,11 +13,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ lilhom"
+      "gloss": "⟨את⟩",
+      "marks": "lilhom (għal nazzjon wieħed)"
     },
     {
       "surface": "לגוי",
-      "gloss": "għal ġens"
+      "gloss": "għal nazzjon"
     },
     {
       "surface": "אחד",
@@ -50,7 +30,7 @@
     },
     {
       "surface": "בהרי",
-      "gloss": "fil-muntanji"
+      "gloss": "fuq il-muntanji"
     },
     {
       "surface": "ישראל",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "jkun"
+      "gloss": "ikun"
     },
     {
       "surface": "לכלם",
@@ -82,19 +62,19 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "jibqgħux"
+      "gloss": "jkunux"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "iktar"
     },
     {
       "surface": "לשני",
-      "gloss": "għal żewġ"
+      "gloss": "żewġ"
     },
     {
       "surface": "גוים",
-      "gloss": "ġnus"
+      "gloss": "nazzjonijiet"
     },
     {
       "surface": "ולא",
@@ -102,25 +82,25 @@
     },
     {
       "surface": "יחצו",
-      "gloss": "jinqasmux"
+      "gloss": "jiġux maqsuma"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "iktar"
     },
     {
       "surface": "לשתי",
-      "gloss": "għal żewġ"
+      "gloss": "żewġ"
     },
     {
       "surface": "ממלכות",
-      "gloss": "saltniet"
+      "gloss": "saltnat"
     },
     {
       "surface": "עוד",
-      "gloss": "għal dejjem"
+      "gloss": "iktar"
     }
   ],
-  "timestamp": "2026-10-21T20:38:10.984730296Z",
+  "timestamp": "2026-10-22T00:18:56.872093750Z",
   "model": "glm-5.3"
 }

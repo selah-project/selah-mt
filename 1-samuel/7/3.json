@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lid-dar ta' Jisrael",
-      "rationale": "Diskors dirett ta' Samwel ma' koll id-dar ta' Jisrael, fil-plural."
-    },
-    {
-      "kind": "invitation",
-      "subject": "imperattivi",
-      "rationale": "Serje ta' imperattivi — neħħu, wittew, jaqdulu — isejħu għal ritorn sħiħ lejn Jaħwe."
-    },
-    {
-      "kind": "substitution",
-      "subject": "wittew qlubkom",
-      "rationale": "הכינו litteralment 'aggraw' (to prepare\/direct); 'wittew' joħroġ it-tifsira, mhux il-forma."
-    }
-  ],
-  "translation": "U Samwel qal lil koll id-dar ta' Jisrael, billi jgħid: Jekk b'koll qlubkom intom tirġgħu lejn Jaħwe, neħħu ⟨את⟩ l-allat tal-barrani minn nofskom u l-Ashtarot, u wittew qlubkom lejn Jaħwe, u jaqdulu lilu waħdu, u jaħlishkom minn id il-Filistin.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "82bf4cc362d47d076227c6d60fb60d9f18f9d866641eab4f0559b09e12a3bce9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/7\/1-4.1792607837096.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Semwel qal lil djar Jisrael kollha: Jekk intom qiegħdin tirġġgħu lejn Jaħwe b'qalbkom kollha, neħħu minn fostkom lil ⟨את⟩ l-allat tal-barrani u lil l-Ashtarot, u wettqu qlubkom lejn Jaħwe, u qduh waħdu, u huwa jaħlis ⟨את⟩ lilkom minn id il-Filistin.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "שמואל",
-      "gloss": "Samwel"
+      "gloss": "Semwel"
     },
     {
       "surface": "אל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "koll"
+      "gloss": "kollha"
     },
     {
       "surface": "בית",
-      "gloss": "id-dar ta'"
+      "gloss": "djar"
     },
     {
       "surface": "ישראל",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "billi jgħid"
+      "gloss": "(il-qal)"
     },
     {
       "surface": "אם",
-      "gloss": "Jekk"
+      "gloss": "jekk"
     },
     {
       "surface": "בכל",
-      "gloss": "b'koll"
+      "gloss": "b'... kollha"
     },
     {
       "surface": "לבבכם",
-      "gloss": "qlubkom"
+      "gloss": "qalbkom"
     },
     {
       "surface": "אתם",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "שבים",
-      "gloss": "tirġgħu"
+      "gloss": "tirġġgħu"
     },
     {
       "surface": "אל",
@@ -108,15 +82,15 @@
     },
     {
       "surface": "מתוככם",
-      "gloss": "minn nofskom"
+      "gloss": "minn fostkom"
     },
     {
       "surface": "והעשתרות",
-      "gloss": "u l-Ashtarot"
+      "gloss": "u lil l-Ashtarot"
     },
     {
       "surface": "והכינו",
-      "gloss": "u wittew"
+      "gloss": "u wettqu"
     },
     {
       "surface": "לבבכם",
@@ -132,19 +106,19 @@
     },
     {
       "surface": "ועבדהו",
-      "gloss": "u jaqdulu"
+      "gloss": "u qduh"
     },
     {
       "surface": "לבדו",
-      "gloss": "lilu waħdu"
+      "gloss": "waħdu"
     },
     {
       "surface": "ויצל",
-      "gloss": "u jaħlishkom"
+      "gloss": "u jaħlis"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kom"
+      "gloss": "⟨את⟩ lilkom"
     },
     {
       "surface": "מיד",
@@ -155,6 +129,6 @@
       "gloss": "il-Filistin"
     }
   ],
-  "timestamp": "2026-10-21T18:37:17.098082636Z",
+  "timestamp": "2026-10-22T00:01:07.388069981Z",
   "model": "glm-5.3"
 }

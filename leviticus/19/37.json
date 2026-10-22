@@ -5,42 +5,16 @@
   "book": "leviticus",
   "lang": "mt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "אֹתָם huwa pronom 'hom', mhux il-markatur ta' oġġett dirett; miġbud ma' 'tagħmlu'"
-    },
-    {
-      "kind": "you",
-      "subject": " lil Jisrael",
-      "rationale": "indirizz dirett lill-poplu b'imperattiv plurali"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ħarsu\/tagħmluhom",
-      "rationale": "żewġ imperattivi paralleli, żomm u agħmel, saffi tal-istess kmand"
-    }
-  ],
-  "translation": "U tħarsu ⟨את⟩ l-ordinanzi tiegħi kollha u ⟨את⟩ l-ġudizzji tiegħi kollha, u tagħmluhom: jien Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "ed6964fd55e44e017035c51f156cfc71771ef0dbecbe573b5c2ae28c256f8268",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/leviticus\/19\/37-37.1792601013344.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U tkonu żammu ⟨את⟩ l-ħruxijiet kollha tiegħi u ⟨את⟩ l-ġudizzji kollha tiegħi, u tagħmlu ⟨את⟩hom: jien Jaħwe.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "u tħarsu"
+      "gloss": "u tkonu żammu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-ordinanzi kollha"
+      "marks": "l-ħruxijiet kollha"
     },
     {
       "surface": "כל",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "חקתי",
-      "gloss": "l-ordinanzi tiegħi"
+      "gloss": "l-ħruxijiet tiegħi"
     },
     {
       "surface": "ואת",
@@ -69,7 +43,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨את⟩hom",
+      "marks": "hom"
     },
     {
       "surface": "אני",
@@ -80,6 +55,6 @@
       "gloss": "Jaħwe"
     }
   ],
-  "timestamp": "2026-10-21T16:43:33.344983697Z",
+  "timestamp": "2026-10-22T00:39:52.666197033Z",
   "model": "glm-5.3"
 }

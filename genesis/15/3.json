@@ -5,53 +5,11 @@
   "book": "genesis",
   "lang": "mt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "iben id-dar",
-      "rationale": "'Wieħed imwieled f'dari' — il-Lhudi jgħid biss 'iben ta' dari', mhux 'qaddej'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Jaħwe",
-      "rationale": "Avrawm ikompli jitlob b'mod dirett quddiem Jaħwe."
-    }
-  ],
-  "translation": "U Avram qal: Ara, lili ma tajtniċ ħabelleżż, u ara, iben id-dar jirtedni ⟨את⟩.",
-  "provenance": {
-    "system-sha256": "331c4d9c99cc86a16ff558907100014f76755c7af9f6364b15cbb9bef38c1835",
-    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/genesis\/15\/1-4.1792597981457.json",
-    "code": "21b4e50c7-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Avram qal: Ara, lili ma tajtni żerriegħa, u arah, iben dari huwa li jirtedden ⟨את⟩ lili.",
   "tokens": [
     {
-      "surface": "והנה",
-      "gloss": "u ara"
-    },
-    {
-      "surface": "בן",
-      "gloss": "iben"
-    },
-    {
-      "surface": "ביתי",
-      "gloss": "id-dar"
-    },
-    {
-      "surface": "יורש",
-      "gloss": "jirtedni"
-    },
-    {
-      "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "lili"
-    },
-    {
       "surface": "ויאמר",
-      "gloss": "U qal"
+      "gloss": "u qal"
     },
     {
       "surface": "אברם",
@@ -71,13 +29,34 @@
     },
     {
       "surface": "נתתה",
-      "gloss": "tajtniċ"
+      "gloss": "tajtni"
     },
     {
       "surface": "זרע",
-      "gloss": "⟨את⟩ żer'"
+      "gloss": "żerriegħa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "u arah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iben"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "dari"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "jirtedden"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "lili — lili ma tajtni żerriegħa, u arah, iben dari huwa li jirtedden ⟨את⟩ lili (Avram stess, lil min iben id-dar jirt)"
     }
   ],
-  "timestamp": "2026-10-21T15:53:01.458483331Z",
+  "timestamp": "2026-10-22T00:20:50.545567265Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "mt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "הוא",
-      "gloss": "pronoun hi already carried by mhijiex in Maltese"
-    },
-    {
-      "kind": "invitation",
-      "subject": "to Israel",
-      "rationale": "rhetorical question addressed to the hearer: who shall go up for us?"
-    },
-    {
-      "kind": "mystery",
-      "subject": "mhux fis-smewwiet",
-      "rationale": "the verse insists the word is NOT hidden or distant — an anti-mystery declaration"
-    }
-  ],
-  "translation": "mhijiex fis-smewwiet, biex tgħid: Min jaħroġ għalina s-smewwiet, u jieħuha għalina, u jismagħna ⟨li nagħmluha⟩, u nagħmluha?",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/deuteronomy\/30\/9-12.1792606032347.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mhux fis-sema hi, biex tgħid: Min jitla' għalina sa s-sema, u jaħodha għalina, u jagħtina nisimgħu ⟨את⟩, u nagħmluha?",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "mhijiex"
+      "gloss": "mhux"
     },
     {
       "surface": "בשמים",
-      "gloss": "fis-smewwiet"
+      "gloss": "fis-sema"
     },
     {
       "surface": "הוא",
-      "gloss": ""
+      "gloss": "hi"
     },
     {
       "surface": "לאמר",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "מי",
-      "gloss": "Min"
+      "gloss": "min"
     },
     {
       "surface": "יעלה",
-      "gloss": "jaħroġ"
+      "gloss": "jitla'"
     },
     {
       "surface": "לנו",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "השמימה",
-      "gloss": "s-smewwiet"
+      "gloss": "sa s-sema"
     },
     {
       "surface": "ויקחה",
-      "gloss": "u jieħuha"
+      "gloss": "u jaħodha"
     },
     {
       "surface": "לנו",
@@ -75,18 +49,18 @@
     },
     {
       "surface": "וישמענו",
-      "gloss": "u jismagħna"
+      "gloss": "u jagħtina nisimgħu"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "li nagħmluha"
+      "marks": "nagħmluha"
     },
     {
       "surface": "ונעשנה",
       "gloss": "u nagħmluha"
     }
   ],
-  "timestamp": "2026-10-21T18:07:12.349190040Z",
+  "timestamp": "2026-10-22T00:10:24.609385060Z",
   "model": "glm-5.3"
 }

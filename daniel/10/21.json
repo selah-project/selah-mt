@@ -5,43 +5,7 @@
   "book": "daniel",
   "lang": "mt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jien",
-      "rationale": "Il-Malti jeħtieġ is-sudġett qabel il-verb; il-Lhudi għandu biss il-preffiss tal-verb"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Żewġ partiggelli li flimkien ifissru 'ħlief' biss"
-    },
-    {
-      "kind": "secret",
-      "subject": "il-ktieb tas-sewwa",
-      "rationale": "Kitba msakra b's-sewwa divina — l-għajbuna ta' Daniel li tinsab fih"
-    },
-    {
-      "kind": "crux",
-      "subject": "מתחזק עמי על",
-      "rationale": "'Jissalloq\/jiżfen miegħi kontra' vs 'jeżerċita ruħu miegħi għal' — id-direzzjoni ta' על mhux ċara"
-    },
-    {
-      "kind": "you",
-      "subject": "lek \/ tagħkom",
-      "rationale": "Kelmietiet diretti lil Daniel, u 'tagħkom' jirreferi għal Jisrael"
-    }
-  ],
-  "translation": "Imma jien ngħid lek ⟨את⟩ dak li huwa rreġistrat fil-ktieb tas-sewwa; u m'hemm ħadd wieħed jiżfen qawwi miegħi kontra dawn, ħlief Mikael, il-prinċep tagħkom.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "04983feb094f7e365db70439fe7ecf4cacb27b06defbeea0249dd71ed6c81c24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/daniel\/10\/21-21.1792620834889.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imma ngħidlek ⟨את⟩ l-miktub irreġistrat f'kitba ta' verità; u m'hemm ħadd li jithasseb miegħi fuq dawn, ħlief Mikaħel, il-princep tagħkom.",
   "tokens": [
     {
       "surface": "אבל",
@@ -49,7 +13,7 @@
     },
     {
       "surface": "אגיד",
-      "gloss": "ngħid"
+      "gloss": "ngħidlek"
     },
     {
       "surface": "לך",
@@ -58,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dak li huwa rreġistrat"
+      "marks": "l-miktub irreġistrat"
     },
     {
       "surface": "הרשום",
-      "gloss": "rreġistrat"
+      "gloss": "l-miktub irreġistrat"
     },
     {
       "surface": "בכתב",
-      "gloss": "fil-ktieb"
+      "gloss": "f'kitba"
     },
     {
       "surface": "אמת",
-      "gloss": "tas-sewwa"
+      "gloss": "ta' verità"
     },
     {
       "surface": "ואין",
@@ -78,11 +42,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "ħadd wieħed"
+      "gloss": "ħadd"
     },
     {
       "surface": "מתחזק",
-      "gloss": "jiżfen qawwi"
+      "gloss": "jithasseb"
     },
     {
       "surface": "עמי",
@@ -90,7 +54,7 @@
     },
     {
       "surface": "על",
-      "gloss": "kontra"
+      "gloss": "fuq"
     },
     {
       "surface": "אלה",
@@ -98,21 +62,21 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
       "gloss": "ħlief"
     },
     {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
       "surface": "מיכאל",
-      "gloss": "Mikael"
+      "gloss": "Mikaħel"
     },
     {
       "surface": "שרכם",
-      "gloss": "il-prinċep tagħkom"
+      "gloss": "il-princep tagħkom"
     }
   ],
-  "timestamp": "2026-10-21T22:13:54.890440668Z",
+  "timestamp": "2026-10-22T00:07:57.349334870Z",
   "model": "glm-5.3"
 }

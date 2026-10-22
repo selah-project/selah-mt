@@ -5,53 +5,32 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "בחידות",
-      "rationale": "Il-marda tas-sinjura ta' Xeva — mistoqsijiet moħbija, ingħaġġbu biex jiġu żvelati."
-    },
-    {
-      "kind": "substitution",
-      "subject": "qalbha",
-      "rationale": "לבבה litteralment 'fwiedha\/qalbha' — il-post tal-ħsibijiet ta' ġo wiċċha."
-    }
-  ],
-  "translation": "U s-sinjura ta' Xeva semgħet ⟨את⟩ l-istorja ta' Xlomon, u ġiet biex tiggħarraf lil Xlomon b'misteri f'Jeruxalajim, b'kavallerja tqil ħafna, u ġemli jġorru fwieħa u deheb f'abbundanza u ġeżż ieħor; u daħlet għand Xlomon u tattniet miegħu ⟨את⟩ kollox li kien qalbha.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "2b6658eb8b144776200fa24f9b6f3cc3b46e9e81b80fe172c543c4e3f4385aa3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/9\/1-4.1792622429577.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U r-reġina ta' Saba smgħet ⟨את⟩ l-istħarġ ta' Xlomo, u ġiet biex tiġġarrab ⟨את⟩ lil Xlomo bi moħqrijiet, ġewwa Jeruxalajim, bi ħila kbira ħafna, u ġmilji jġorru fwieħa, u deheb għall-ktieb, u ġeżżież prezzjużi; u ġiet għand Xlomo u tkellmet miegħu ⟨את⟩ kull dak li kien ma' qalbha.",
   "tokens": [
     {
       "surface": "ומלכת",
-      "gloss": "u s-sinjura"
+      "gloss": "u r-reġina"
     },
     {
       "surface": "שבא",
-      "gloss": "ta' Xeva"
+      "gloss": "ta' Saba"
     },
     {
       "surface": "שמעה",
-      "gloss": "semgħet"
+      "gloss": "smgħet"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l-istorja"
+      "marks": "l-istħarġ ta' Xlomo"
     },
     {
       "surface": "שמע",
-      "gloss": "l-istorja"
+      "gloss": "l-istħarġ"
     },
     {
       "surface": "שלמה",
-      "gloss": "ta' Xlomon"
+      "gloss": "ta' Xlomo"
     },
     {
       "surface": "ותבוא",
@@ -59,32 +38,32 @@
     },
     {
       "surface": "לנסות",
-      "gloss": "biex tiggħarraf"
+      "gloss": "biex tiġġarrab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lil Xlomon"
+      "marks": "lil Xlomo"
     },
     {
       "surface": "שלמה",
-      "gloss": "Xlomon"
+      "gloss": "Xlomo"
     },
     {
       "surface": "בחידות",
-      "gloss": "b'misteri"
+      "gloss": "bi moħqrijiet"
     },
     {
       "surface": "בירושלם",
-      "gloss": "f'Jeruxalajim"
+      "gloss": "ġewwa Jeruxalajim"
     },
     {
       "surface": "בחיל",
-      "gloss": "b'kavallerja"
+      "gloss": "bi ħila"
     },
     {
       "surface": "כבד",
-      "gloss": "tqil"
+      "gloss": "kbira"
     },
     {
       "surface": "מאד",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "וגמלים",
-      "gloss": "u ġemli"
+      "gloss": "u ġmilji"
     },
     {
       "surface": "נשאים",
@@ -108,19 +87,19 @@
     },
     {
       "surface": "לרב",
-      "gloss": "f'abbundanza"
+      "gloss": "għall-ktieb"
     },
     {
       "surface": "ואבן",
-      "gloss": "u ġeżż"
+      "gloss": "u ġeżżież"
     },
     {
       "surface": "יקרה",
-      "gloss": "ieħor"
+      "gloss": "prezzjużi"
     },
     {
       "surface": "ותבוא",
-      "gloss": "u daħlet"
+      "gloss": "u ġiet"
     },
     {
       "surface": "אל",
@@ -128,11 +107,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Xlomon"
+      "gloss": "Xlomo"
     },
     {
       "surface": "ותדבר",
-      "gloss": "u tattniet"
+      "gloss": "u tkellmet"
     },
     {
       "surface": "עמו",
@@ -141,15 +120,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kollox"
+      "marks": "kull dak li kien ma' qalbha"
     },
     {
       "surface": "כל",
-      "gloss": "kollox"
+      "gloss": "kull"
     },
     {
       "surface": "אשר",
-      "gloss": "li"
+      "gloss": "dak li"
     },
     {
       "surface": "היה",
@@ -164,6 +143,6 @@
       "gloss": "qalbha"
     }
   ],
-  "timestamp": "2026-10-21T22:40:29.579042093Z",
+  "timestamp": "2026-10-22T00:03:09.186899452Z",
   "model": "glm-5.3"
 }

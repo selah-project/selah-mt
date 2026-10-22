@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 66,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ים\/יבשה",
-      "rationale": "baħar\/art niexfa — opposti fl-istess vers, il-Malti jżomm il-kuntrast"
-    },
-    {
-      "kind": "addition",
-      "subject": "Jaħwe",
-      "rationale": "il-veru ma jgħidx isem is-suġġett; עלילה tal-vers 5 tfisser Alla, imma l-ebda għarfien minn qabel m'għandu jiddaħħal"
-    }
-  ],
-  "translation": "Jaħwe talbaħar art niexfa; fin-nhar jaqbżu bl-riġlejhom; hemm inħenaħ b'Jaħwe.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/66\/5-8.1792617291942.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biddel il-baħar f'art niexfa; fin-nixxiegħa qasmu bir-riġlejn; hemm nirrikjaw biħ.",
   "tokens": [
     {
       "surface": "הפך",
-      "gloss": "talla"
+      "gloss": "tanqaż"
     },
     {
       "surface": "ים",
-      "gloss": "baħar"
+      "gloss": "il-baħar"
     },
     {
       "surface": "ליבשה",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "בנהר",
-      "gloss": "fin-nhar"
+      "gloss": "fin-nixxiegħa"
     },
     {
       "surface": "יעברו",
-      "gloss": "jaqbżu"
+      "gloss": "qasmu"
     },
     {
       "surface": "ברגל",
-      "gloss": "bl-riġlejhom"
+      "gloss": "bir-riġlejn"
     },
     {
       "surface": "שם",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "נשמחה",
-      "gloss": "inħenaħ"
+      "gloss": "nirrikjaw"
     },
     {
       "surface": "בו",
-      "gloss": "b'Jaħwe"
+      "gloss": "biħ"
     }
   ],
-  "timestamp": "2026-10-21T21:14:51.943604618Z",
+  "timestamp": "2026-10-22T01:50:07.234986548Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "mt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המומתים",
-      "rationale": "Partiċipju passiv 'il-maqtulin' jew 'dawk li kienu se jinqatlu'; id-doppja t-taħriġ ta' KJV 'that were slain' kontra l-preżent ta' BSB 'being murdered'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "il-ġeja",
-      "rationale": "מינקתו litteralment 'dak li jissiltu' — omm li tissla; 'ġeja' hija l-kelma Maltija għalha"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ותגנב",
-      "rationale": "'Serqetu' — il-verb ta' ħallelin għal salvazzjoni ta' tarbija, tensija retorika li tinżamm bil-Malti"
-    }
-  ],
-  "translation": "U Jihoshavaat, bint ir-re, ħadet ⟨את⟩ Joax bin Aħazjahu, u serqetu minn fost ulied ir-re li kienu qed joqtlu, u poġġiet lilu u ⟨את⟩ il-ġeja tiegħu f'kamra tas-sodod; u ħabitha Jihoshavaat, bint ir-re Jihoram, mart Jihojada l-qassis — għaliex hi kienet oħt Aħazjahu — minn quddiem Ataljaħu, u ma qatlitux.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "c09938c0c2352b3e1eb16fa77ca221ecea3486b7c8c4b20815322acb56e2e0d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/2-chronicles\/22\/9-12.1792622738577.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U Jehoxavaʿat, bint is-sultan, ħadet ⟨את⟩ lil Joax bin Aħazjaħu, u serqitu minn nofs ulied is-sultan il-maqtulin, u tat lilu u ⟨את⟩ lil min kien treddnu f'ċamber tas-sodod; u ħabitu Jehoxavaʿat, bint is-sultan Joram, mart Jehojada l-qassis — għax hi kienet oħt Aħazjaħu — minn quddiem Ataljaħu, u ma qtatux.",
   "tokens": [
     {
       "surface": "ותקח",
-      "gloss": "U ħadet"
+      "gloss": "u ħadet"
     },
     {
       "surface": "יהושבעת",
-      "gloss": "Jihoshavaat"
+      "gloss": "Jehoxavaʿat"
     },
     {
       "surface": "בת",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joax"
+      "marks": "lil Joax"
     },
     {
       "surface": "יואש",
@@ -64,20 +38,20 @@
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Aħazjahu"
+      "gloss": "Aħazjaħu"
     },
     {
       "surface": "ותגנב",
-      "gloss": "u serqetu"
+      "gloss": "u serqitu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "minn fost ulied ir-re"
+      "gloss": "⟨את⟩",
+      "marks": "minn nofs ulied is-sultan"
     },
     {
       "surface": "מתוך",
-      "gloss": "minn fost"
+      "gloss": "minn nofs"
     },
     {
       "surface": "בני",
@@ -85,33 +59,33 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "המומתים",
-      "gloss": "li kienu qed joqtlu"
+      "gloss": "il-maqtulin"
     },
     {
       "surface": "ותתן",
-      "gloss": "u poġġiet"
+      "gloss": "u tat"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lilu",
-      "marks": "fil-kamra tas-sodod"
+      "gloss": "⟨את⟩",
+      "marks": "lilu"
     },
     {
       "surface": "ואת",
-      "gloss": "u ⟨את⟩",
-      "marks": "il-ġeja tiegħu"
+      "gloss": "⟨את⟩",
+      "marks": "lil min kien treddnu"
     },
     {
       "surface": "מינקתו",
-      "gloss": "il-ġeja tiegħu"
+      "gloss": "min kien treddnu"
     },
     {
       "surface": "בחדר",
-      "gloss": "f'kamra"
+      "gloss": "f'ċamber"
     },
     {
       "surface": "המטות",
@@ -119,11 +93,11 @@
     },
     {
       "surface": "ותסתירהו",
-      "gloss": "u ħabitha"
+      "gloss": "u ħabitu"
     },
     {
       "surface": "יהושבעת",
-      "gloss": "Jihoshavaat"
+      "gloss": "Jehoxavaʿat"
     },
     {
       "surface": "בת",
@@ -131,11 +105,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ir-re"
+      "gloss": "is-sultan"
     },
     {
       "surface": "יהורם",
-      "gloss": "Jihoram"
+      "gloss": "Joram"
     },
     {
       "surface": "אשת",
@@ -143,7 +117,7 @@
     },
     {
       "surface": "יהוידע",
-      "gloss": "Jihojada"
+      "gloss": "Jehojada"
     },
     {
       "surface": "הכהן",
@@ -151,7 +125,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "għaliex"
+      "gloss": "għax"
     },
     {
       "surface": "היא",
@@ -167,7 +141,7 @@
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Aħazjahu"
+      "gloss": "Aħazjaħu"
     },
     {
       "surface": "מפני",
@@ -183,9 +157,9 @@
     },
     {
       "surface": "המיתתהו",
-      "gloss": "qatlitux"
+      "gloss": "qtatux"
     }
   ],
-  "timestamp": "2026-10-21T22:45:38.579044343Z",
+  "timestamp": "2026-10-22T00:01:53.468784232Z",
   "model": "glm-5.3"
 }

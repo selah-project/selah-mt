@@ -5,57 +5,36 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Tammuz",
-      "rationale": "התמוז: divinità semitika; l-isem jibqa' skont il-ħoss — 'Adonis' (Wycliffe) mhux ta' min jimxi bih"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פתח שער",
-      "rationale": "il-possessiv Malti jeħtieġ 'bieb ta' bieb' — l-ebrajċ jgħaqqad il-ħajt tal-pjan wieħed fuq l-ieħor"
-    }
-  ],
-  "translation": "Daħħanni ⟨את⟩ sal-bieb ta' bieb dar Jaħwe li jiffaċċja t-tramuntana, u araintu hemm in-nisa bilqegħdin jibku lil-Tammuz.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "d1145a576d0344a7ab7f3fd28ab1e3950c2d0ebd102ba8945eeb904b92b9e1d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/8\/13-16.1792614159345.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U daħħal ⟨את⟩ lili saħnara ġewwa il-bieb ta' bieħ id-dar ta' Jaħwe, li jinsab lejn it-tramuntana, u araw, hemm in-nisa bilqegħdin jibku ⟨את⟩ lil Tammuz.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "daħħanni"
+      "gloss": "u daħħal"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "lili"
+      "gloss": "⟨את⟩ lili",
+      "marks": "li jisseħħ sħan il-protagoni"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "saħnara ġewwa"
     },
     {
       "surface": "פתח",
-      "gloss": "bieb"
+      "gloss": "il-bieb"
     },
     {
       "surface": "שער",
-      "gloss": "bieb"
+      "gloss": "ta' bieħ"
     },
     {
       "surface": "בית",
-      "gloss": "dar"
+      "gloss": "id-dar"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jaħwe"
+      "gloss": "ta' Jaħwe"
     },
     {
       "surface": "אשר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "iffaċċja"
+      "gloss": "lejn"
     },
     {
       "surface": "הצפונה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "u araintu"
+      "gloss": "u araw"
     },
     {
       "surface": "שם",
@@ -92,13 +71,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tammuz"
+      "marks": "lil Tammuz"
     },
     {
       "surface": "התמוז",
-      "gloss": "lil-Tammuz"
+      "gloss": "Tammuz"
     }
   ],
-  "timestamp": "2026-10-21T20:22:39.346429961Z",
+  "timestamp": "2026-10-22T00:19:54.989481708Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "mt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tlett mija u disgħin jum",
-      "rationale": "Jum magħduda bir-reqqa — l-ikel għandu jkun skond dan in-numru."
-    },
-    {
-      "kind": "you",
-      "subject": "lill-Eżekjel",
-      "rationale": "Kmand dirett lill-profeta b'sema' imperattiv."
-    }
-  ],
-  "translation": "U int, tieħu għalik qamħ u xgħir, u fażola u lenti, u millju u spelta, u poġġi ⟨את⟩hom fi sgħar wieħed, u agħmilhom għalik għal ħobż — għadd l-ijum li int tqiegħed fuq ġenbek, tlett mija u disgħin jum tieklu.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/ezekiel\/4\/9-12.1792614000420.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U intieħu għalik qamħ u xgħir, u fażola u lenti, u milla u spelta, u poġġiehom ⟨את⟩ f'vjell wieħed, u għamilthom ⟨את⟩ għalik għal ħobż, skont in-numru tal-jiem li inti tqiegħed fuq ġenbek: tlett mija u disgħin jum tieklu.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "u int"
+      "gloss": "U int"
     },
     {
       "surface": "קח",
-      "gloss": "tieħu"
+      "gloss": "ieħu"
     },
     {
       "surface": "לך",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ודחן",
-      "gloss": "u millju"
+      "gloss": "u milla"
     },
     {
       "surface": "וכסמים",
@@ -66,16 +45,16 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "u poġġi"
+      "gloss": "u poġġiehom"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "l-ħbub (il-qamħ u xgħir u l-bqija)"
+      "marks": "f'vjell wieħed"
     },
     {
       "surface": "בכלי",
-      "gloss": "fi sgħar"
+      "gloss": "f'vjell"
     },
     {
       "surface": "אחד",
@@ -83,12 +62,12 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "u tagħmel"
+      "gloss": "u għamilthom"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "l-ħobż"
+      "marks": "għalik għal ħobż"
     },
     {
       "surface": "לך",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "מספר",
-      "gloss": "għadd"
+      "gloss": "skont in-numru"
     },
     {
       "surface": "הימים",
-      "gloss": "l-ijum"
+      "gloss": "tal-jiem"
     },
     {
       "surface": "אשר",
@@ -147,6 +126,6 @@
       "gloss": "tieklu"
     }
   ],
-  "timestamp": "2026-10-21T20:20:00.420685302Z",
+  "timestamp": "2026-10-22T00:19:30.842806431Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "mt",
   "chapter": 66,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "poġġi",
-      "rationale": "השם è participio con articolo — 'li poġġi' bil-pronom relattiv miżjud bil-Malti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruwaħna",
-      "rationale": "נפש nefesh: ħjieħ \/ forza tal-ħajja, mhux sempliċiment 'ruħ'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ma serrħix riġlejna",
-      "rationale": "למוט waving\/falling ta' riġlejna — 'ma ħallix riġlejna jċaqilqu' jifhem l-istess"
-    }
-  ],
-  "translation": "Li poġġi ⟨את⟩ ruwaħna fil-ħajja, u ma ta liċ-ċaqliq riġlejna.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "0db101e64284e162e173801b3314d0bf63e396962f391da43e59aed4621e9d99",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/psalms\/66\/9-10.1792623793302.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Li poġġi lil ruwaħna fil-ħajja, u ma taċċeddax li jeqilgħu riġlejna.",
   "tokens": [
     {
       "surface": "השם",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "נפשנו",
-      "gloss": "ruwaħna"
+      "gloss": "lil ruwaħna"
     },
     {
       "surface": "בחיים",
@@ -47,21 +21,21 @@
     },
     {
       "surface": "ולא",
-      "gloss": "u ma ta"
+      "gloss": "u ma"
     },
     {
       "surface": "נתן",
-      "gloss": ""
+      "gloss": "taċċeddax"
     },
     {
       "surface": "למוט",
-      "gloss": "liċ-ċaqliq"
+      "gloss": "li jeqilgħu"
     },
     {
       "surface": "רגלנו",
       "gloss": "riġlejna"
     }
   ],
-  "timestamp": "2026-10-21T23:03:13.303803326Z",
+  "timestamp": "2026-10-22T00:49:56.647816039Z",
   "model": "glm-5.3"
 }

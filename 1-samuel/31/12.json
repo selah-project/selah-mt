@@ -5,39 +5,23 @@
   "book": "1-samuel",
   "lang": "mt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "hawn אֹתָם huwa pronom ('hom'), mhux il-marka את; il-glossa 'ħarquhom' tixrob il-pronom"
-    }
-  ],
-  "translation": "U qamu rġiel kollha ta' sforz, u marru l-lejl kollu, u ħadu ⟨את⟩ ġisem Xaul u ⟨את⟩ l-iġsma ta' wliedu minn fuq ħajt Bet-Xan, u daħlu f'Javex, u ħarquhom hemm.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/1-samuel\/31\/9-12.1792608398321.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U qamu kull raġel ta' ġejħ u marru l-lejl kollu, u ħadu ⟨את⟩ ġisem Xaul u ⟨את⟩ iġsma wliedu minn fuq ħajt Beit-Xan, u ġew Jabex u ħarquhom hemm.",
   "tokens": [
     {
       "surface": "ויקומו",
-      "gloss": "U qamu"
+      "gloss": "u qamu"
     },
     {
       "surface": "כל",
-      "gloss": "kollha"
+      "gloss": "kull"
     },
     {
       "surface": "איש",
-      "gloss": "rġiel"
+      "gloss": "raġel"
     },
     {
       "surface": "חיל",
-      "gloss": "ta' sforz"
+      "gloss": "ta' ġejħ"
     },
     {
       "surface": "וילכו",
@@ -71,15 +55,15 @@
     {
       "surface": "ואת",
       "gloss": "u ⟨את⟩",
-      "marks": "l-iġsma ta' wliedu"
+      "marks": "iġsma wliedu"
     },
     {
       "surface": "גוית",
-      "gloss": "l-iġsma"
+      "gloss": "iġsma"
     },
     {
       "surface": "בניו",
-      "gloss": "ta' wliedu"
+      "gloss": "wliedu"
     },
     {
       "surface": "מחומת",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Beit-"
     },
     {
       "surface": "שן",
@@ -95,25 +79,26 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "u daħlu"
+      "gloss": "u ġew"
     },
     {
       "surface": "יבשה",
-      "gloss": "f'Javex"
+      "gloss": "Jabex"
     },
     {
       "surface": "וישרפו",
-      "gloss": "u ħarqu"
+      "gloss": "u ħarquhom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ hom"
+      "gloss": "⟨אתם⟩",
+      "marks": "hemm"
     },
     {
       "surface": "שם",
       "gloss": "hemm"
     }
   ],
-  "timestamp": "2026-10-21T18:46:38.323135664Z",
+  "timestamp": "2026-10-22T00:00:12.295493856Z",
   "model": "glm-5.3"
 }

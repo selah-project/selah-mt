@@ -5,91 +5,61 @@
   "book": "isaiah",
   "lang": "mt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אפו",
-      "rationale": "litteralment 'imnieħru' — l-għadab, id-dnub tixhed ta' wiċċ ir-Alla fl-antropomorfiżmu Lhudi"
-    },
-    {
-      "kind": "addition",
-      "subject": "għadu",
-      "rationale": "il-veru participju preżenti mitlub mill-Malti — il-Lhudi għandu biss idu mifruxa"
-    },
-    {
-      "kind": "elision",
-      "subject": "ועוד",
-      "rationale": "'u għadu\/mill-ġdid' tal-formula tar-ritornell — magħduda mal-verb biex il-formula 'l-għadab ma għaddiehx u idu mifruxa' tibqa' sħiħa"
-    }
-  ],
-  "translation": "Għalhekk Adonaj ma jifraħx fuż-żgħażagħ tiegħu, ⟨את⟩ u lil itmi u lil armi tiegħu ma jħennx, għax kollu fallus u ħażin, u kull fejem jitkellem ħmerija. Għal dak kollu l-għadab tiegħu ma għaddiehx, u ⟨għadu⟩ idu mifruxa.",
-  "provenance": {
-    "system-sha256": "a905c24aef0bb7313df4c8a0f6165ad163a930a1e38bdbd7ff4af381557c9130",
-    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mt\/isaiah\/9\/13-16.1792611051619.json",
-    "code": "2734b1a4b-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Għalhekk Adonaj ma jifraħx fuq iż-żgħażagħ tagħha, u ⟨את⟩ iltiejim tagħha u ⟨את⟩ armla tagħha mhux se jħenn għalihom; għax kollha kemm hi hiżża u ħazina, u kull ħalqtu titkellem ħmieġ. Minkeżja dan kollu, rabbu ma rritornax, u idejh għadha mifruxa.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Għal"
+      "gloss": "għalhekk fuq"
     },
     {
       "surface": "כן",
-      "gloss": "hekk"
+      "gloss": "għalhekk"
     },
     {
       "surface": "על",
-      "gloss": "fuż-"
+      "gloss": "fuq"
     },
     {
       "surface": "בחוריו",
-      "gloss": "żgħażagħ tiegħu"
+      "gloss": "żgħażagħ"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "ישמח",
-      "gloss": "jifraħx"
+      "gloss": "jifraħ"
     },
     {
       "surface": "אדני",
       "gloss": "Adonaj"
     },
     {
-      "surface": "ויתמיו",
-      "gloss": "⟨את⟩ u lil itmi"
-    },
-    {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "itmi tiegħu"
+      "marks": "iltiejim tagħha"
     },
     {
       "surface": "יתמיו",
-      "gloss": "⟨את⟩ itmi tiegħu"
+      "gloss": "iltiejim tagħha"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "armi tiegħu"
+      "marks": "armla tagħha"
     },
     {
       "surface": "אלמנתיו",
-      "gloss": "armi tiegħu"
+      "gloss": "armla tagħha"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "ירחם",
-      "gloss": "jħennx"
+      "gloss": "jħenn"
     },
     {
       "surface": "כי",
@@ -97,15 +67,15 @@
     },
     {
       "surface": "כלו",
-      "gloss": "kollu"
+      "gloss": "kollha kemm hi"
     },
     {
       "surface": "חנף",
-      "gloss": "fallus"
+      "gloss": "hiżża"
     },
     {
       "surface": "ומרע",
-      "gloss": "u ħażin"
+      "gloss": "u ħazina"
     },
     {
       "surface": "וכל",
@@ -113,19 +83,19 @@
     },
     {
       "surface": "פה",
-      "gloss": "fejem"
+      "gloss": "ħalqtu"
     },
     {
       "surface": "דבר",
-      "gloss": "jitkellem"
+      "gloss": "titkellem"
     },
     {
       "surface": "נבלה",
-      "gloss": "ħmerija"
+      "gloss": "ħmieġ"
     },
     {
       "surface": "בכל",
-      "gloss": "Għal dak kollu"
+      "gloss": "minkeżja dan kollu"
     },
     {
       "surface": "זאת",
@@ -133,19 +103,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "mhux"
     },
     {
       "surface": "שב",
-      "gloss": "għaddiehx"
+      "gloss": "ritornax"
     },
     {
       "surface": "אפו",
-      "gloss": "l-għadab tiegħu"
+      "gloss": "rabbi (l-irjieħ)"
     },
     {
       "surface": "ועוד",
-      "gloss": "u"
+      "gloss": "u għadha"
     },
     {
       "surface": "ידו",
@@ -156,6 +126,6 @@
       "gloss": "mifruxa"
     }
   ],
-  "timestamp": "2026-10-21T19:30:51.621151266Z",
+  "timestamp": "2026-10-22T00:27:36.187984994Z",
   "model": "glm-5.3"
 }
