@@ -15,7 +15,7 @@ Tingħata taħt din il-liċenzja: **Creative Commons Attribuzzjoni-Kondiviżjoni
 
 ## B'dawn il-kundizzjonijiet
 
-- **Attribuzzjoni** — għid minn fejn ġej ix-xogħol (**Selah**, https://selahproject.com), żid ħolqa għal din
+- **Attribuzzjoni** — għid minn fejn ġej ix-xogħol (**Selah**, https://s33k3r.com), żid ħolqa għal din
   il-liċenzja, u għid jekk bdilt xi ħaġa.
 - **Kondiviżjoni ugwali** — dak li tibdel jew tibni fuq dan ix-xogħol, qassmu bl-istess liċenzja.
 
